@@ -1,0 +1,66 @@
+baseURL: "https://chicago-by-night.pages.dev/"
+languageCode: en-us
+title: Chicago by Night
+theme: PaperMod
+
+pagination:
+  pagerSize: 10
+
+params:
+  env: production
+  description: "Solo Vampire: The Masquerade using Mythic GME"
+  author: Chicago by Night
+  defaultTheme: dark
+  disableThemeToggle: true
+  ShowReadingTime: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true
+  ShowToc: true
+  TocOpen: true
+  ShowShareButtons: false
+
+  homeInfoParams:
+    Title: "Chicago by Night"
+    Content: >
+      Solo Vampire: The Masquerade — running Chicago by Night with Mythic GME 2e.
+      A guide to navigating the Kindred politics of the Windy City alone.
+
+  socialIcons: []
+
+  assets:
+    favicon: "/favicon.ico"
+    disableFingerprinting: true
+
+  cover:
+    hiddenInList: false
+    hiddenInSingle: false
+
+menu:
+  main:
+    - identifier: archive
+      name: Archive
+      url: /archives/
+      weight: 5
+    - identifier: tags
+      name: Tags
+      url: /tags/
+      weight: 10
+    - identifier: about
+      name: About
+      url: /about/
+      weight: 15
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+  tableOfContents:
+    startLevel: 2
+    endLevel: 4

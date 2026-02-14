@@ -1,0 +1,255 @@
+/* Chicago by Night — V:TM Gothic-Punk Override for PaperMod */
+
+@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@400;600;700&family=Cormorant+Garamond:ital,wght@0,400;0,600;1,400;1,600&display=swap');
+
+:root {
+  --theme: #0d0d0d;
+  --entry: #141414;
+  --primary: #d4c5a9;
+  --secondary: #a89a7e;
+  --tertiary: #1f1f1f;
+  --content: #c8b898;
+  --code-bg: #1a1010;
+  --border: #2a1a1a;
+  --vtm-red: #8b0000;
+  --vtm-red-glow: #a01010;
+}
+
+/* Body and base typography */
+body {
+  font-family: 'Cormorant Garamond', 'Georgia', serif;
+  font-size: 1.15rem;
+  line-height: 1.75;
+  background-color: var(--theme);
+  color: var(--primary);
+}
+
+/* Headers — Cinzel for that carved-stone Elder feel */
+h1, h2, h3, h4, h5, h6,
+.post-title,
+.profile_inner h1 {
+  font-family: 'Cinzel', 'Trajan Pro', serif;
+  font-weight: 600;
+  letter-spacing: 0.04em;
+  color: var(--primary);
+}
+
+.post-title {
+  font-size: 2.2rem;
+}
+
+h1 { font-size: 2rem; }
+h2 { font-size: 1.6rem; border-bottom: 1px solid var(--vtm-red); padding-bottom: 0.3em; }
+h3 { font-size: 1.35rem; color: var(--vtm-red-glow); }
+
+/* Home page info */
+.profile_inner h1,
+.first-entry .entry-header h1 {
+  font-size: 2.5rem;
+  color: var(--primary);
+}
+
+.profile_inner {
+  color: var(--secondary);
+}
+
+/* Links — blood red */
+a {
+  color: var(--vtm-red-glow);
+}
+
+a:hover {
+  color: #c02020;
+  text-decoration: none;
+}
+
+.post-content a {
+  border-bottom: 1px solid var(--vtm-red);
+  padding-bottom: 1px;
+}
+
+.post-content a:hover {
+  border-bottom-color: #c02020;
+}
+
+/* Navigation */
+.nav a {
+  color: var(--secondary);
+  font-family: 'Cinzel', serif;
+  font-size: 0.9rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.nav a:hover {
+  color: var(--vtm-red-glow);
+}
+
+.logo a {
+  font-family: 'Cinzel', serif;
+  font-size: 1.4rem;
+  letter-spacing: 0.06em;
+  color: var(--primary) !important;
+}
+
+/* Post entries on list pages */
+.post-entry {
+  border-bottom: 1px solid var(--border);
+}
+
+.entry-header h2 {
+  border-bottom: none;
+  font-size: 1.4rem;
+}
+
+/* Blockquotes — Elysium pronouncements */
+blockquote {
+  border-left: 3px solid var(--vtm-red);
+  background: rgba(139, 0, 0, 0.06);
+  padding: 0.8em 1.2em;
+  margin: 1.5em 0;
+  font-style: italic;
+  color: var(--secondary);
+}
+
+blockquote p {
+  margin: 0.3em 0;
+}
+
+/* Tables — for encounter charts */
+table {
+  border-collapse: collapse;
+  width: 100%;
+  margin: 1.5em 0;
+  font-size: 1rem;
+}
+
+th {
+  font-family: 'Cinzel', serif;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  font-size: 0.85rem;
+  background: rgba(139, 0, 0, 0.15);
+  color: var(--primary);
+  border-bottom: 2px solid var(--vtm-red);
+  padding: 0.6em 0.8em;
+  text-align: left;
+}
+
+td {
+  padding: 0.5em 0.8em;
+  border-bottom: 1px solid var(--border);
+  color: var(--content);
+}
+
+tr:hover td {
+  background: rgba(139, 0, 0, 0.05);
+}
+
+/* Code blocks — Nosferatu warrens */
+code {
+  background: var(--code-bg);
+  color: var(--vtm-red-glow);
+  padding: 0.15em 0.4em;
+  border-radius: 3px;
+  font-size: 0.9em;
+}
+
+pre {
+  background: var(--code-bg) !important;
+  border: 1px solid var(--border);
+  border-radius: 4px;
+}
+
+pre code {
+  color: var(--content);
+}
+
+/* Table of contents */
+.toc {
+  border: 1px solid var(--border);
+  background: var(--entry);
+  border-radius: 4px;
+}
+
+.toc a {
+  color: var(--secondary);
+  border-bottom: none;
+}
+
+.toc a:hover {
+  color: var(--vtm-red-glow);
+}
+
+/* Horizontal rules */
+hr {
+  border: none;
+  border-top: 1px solid var(--vtm-red);
+  opacity: 0.4;
+  margin: 2em 0;
+}
+
+/* Lists */
+.post-content ul li::marker,
+.post-content ol li::marker {
+  color: var(--vtm-red);
+}
+
+/* Breadcrumbs */
+.breadcrumbs a {
+  font-family: 'Cinzel', serif;
+  font-size: 0.8rem;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+}
+
+/* Post metadata */
+.post-meta {
+  color: var(--secondary);
+  font-size: 0.9rem;
+}
+
+/* Footer */
+.footer {
+  color: #5a4a3a;
+  font-size: 0.85rem;
+}
+
+.footer a {
+  color: var(--vtm-red);
+}
+
+/* Strong emphasis */
+strong {
+  color: var(--primary);
+  font-weight: 600;
+}
+
+em {
+  color: var(--secondary);
+}
+
+/* Scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: var(--theme);
+}
+
+::-webkit-scrollbar-thumb {
+  background: var(--vtm-red);
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: var(--vtm-red-glow);
+}
+
+/* Selection */
+::selection {
+  background: rgba(139, 0, 0, 0.4);
+  color: var(--primary);
+}
