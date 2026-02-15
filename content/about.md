@@ -35,9 +35,9 @@ In the 35 years (!) this game has existed, the original setting and overall game
 
 The chronicle may take many detours, but will hold to the published supplements as-is, in this order:
 
-- Forged in Steel: Baptism in Fire (Gary, Indiana 'starter town' - from VTM 1st Edition)
+- Forged in Steel (Gary, Indiana 'starter town' - from VTM 1st Edition)
 - Forged in Steel: Blood at Dawn (Gary-based one-shot from the original VTM storyteller screen)
-- Ashes to Ashes (Excellent transitional adventure that bridges the PCs from Gary to Chicago)
+- Baptism in Fire/Ashes to Ashes (Excellent transitional adventure that bridges the PCs from Gary to Chicago)
 - Chicago by Night, 1st Edition (The main sandbox for the setting. Full of great random adventure/encounter tables that will likely play very well with Mythic GME.)
 - Succubus Club (collection of Chicago-based adventures)
 - Blood Bond (a follow-up adventure to Ashes to Ashes, focused on Lodin's erstwhile childe Edward Neally)
@@ -62,6 +62,16 @@ The Lupine/Garou/Werewolf game would center around a new pack from the Sept of t
 With all factions converging for the great War for Chicago in 1993, which should be the climax of the game.
 
 If I get really crazy, I might just throw in Hell's Highway, the one-off from Mummy 1st Edition.
+
+## Why Vampire?
+
+Of all of the world's TTRPGs, I believe that Vampire has the most to teach us about the human condition. When this game was originally published, the idea of shadowy cabals controlling the world while feeding on human beings was the stuff of horror literature and conspiracy theory. Now, it is the nightly news. In a post-Epstein world, in which we see the value of human life devalued more and more with each passing day, in which we learn daily about human trafficking and child sex trafficking networks, and in which evil operates not behind closed doors but in the open, with a smile, Vampire becomes not fantasy but useful metaphor—a tool not for escaping reality, but understanding it.
+
+Some days it seems that nothing the writers of the game could come up with (not even in Black Dog mode!) could possibly compete with the cruelty and callousness of the real world.
+
+In fact, I can be far more cynical. Were I to rewrite this game today, I would dispense completely with the idea of the Masquerade. The game's original designers assumed that vampires had to hide from humanity, for if their crimes were to be revealed, they would be annihilated.
+
+Now we know better. Monsters like Jeffrey Epstein and his ilk operate in plain sight, all around us, and *nobody cares*. The disturbing reality of evil in the real world is that it flaunts its nature openly, relying not just on the cowardice of those who witness it, but their active disbelief and denial (Oh, the neighbor couldn't *possibly* be doing *that*...). Vampires need not enforce their own Masquerade—their victims do it for them. This and many other themes will likely be explored in this game.
 
 ## How Long Will This Go On?
 
