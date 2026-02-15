@@ -85,14 +85,13 @@ As long as I feel like it.
 
 Maybe. If I see a mechanical way to add that later, I may open this up for additional players. However, play-by-post games, while great, are SLOW, VERY SLOW. So that makes it a lot harder to get through all this material.
 
-> 
-What keeps mankind alive
-The fact that millions
-Are daily tortured stifled punished silenced and oppressed
-Mankind can keep alive thanks to its brilliance
-In keeping its humanity repressed
-For once you must try not to shirk the facts
-Mankind is kept alive
-By bestial acts.
+> What keeps mankind alive
+> The fact that millions
+> Are daily tortured stifled punished silenced and oppressed
+> Mankind can keep alive thanks to its brilliance
+> In keeping its humanity repressed
+> For once you must try not to shirk the facts
+> Mankind is kept alive
+> By bestial acts.
 
-- Kurt Weill.
+> - Kurt Weill.
