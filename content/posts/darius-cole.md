@@ -1,3 +1,13 @@
+---
+title: "Darius Cole — Character Sheet"
+date: 2026-02-14T12:00:00
+tags: ["character", "vtm", "forged-in-steel", "gary"]
+summary: "Darius Jeremiah Cole. Ventrue. Gary, Indiana. Forged in Steel solo chronicle."
+ShowToc: true
+TocOpen: false
+weight: 2
+---
+
 # DARIUS COLE
 ## Vampire: The Masquerade — 20th Anniversary Edition
 ### Chicago Chronicles: Forged in Steel (Solo Play)

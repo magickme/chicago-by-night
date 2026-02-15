@@ -39,6 +39,7 @@ The chronicle may take many detours, but will hold to the published supplements 
 - Chicago by Night, 1st Edition (The main sandbox for the setting. Full of great random adventure/encounter tables.)
 - Succubus Club (collection of Chicago-based adventure)
 - Blood Bond (a follow-up adventure to Ashes to Ashes, focused on Lodin's erstwhile childe Edward Neally)
+- Psychomachia (From Milwaukee by Night)
 - Under a Blood Red Moon (the epic battle for Chicago between the Camarilla, Sabbat, and Lupines—you know, the one the Underworld series ripped off)
 
 If the early sessions go well, I will likely add a couple of side games with different characters for the Sabbat and Lupine factions—these would also lead up to Under a Blood Red Moon, with all of my characters starring in that epic war.
@@ -48,10 +49,14 @@ The Sabbat game would consist of the published adventures in:
 - Storyteller's Guide to the Sabbat
 - Montreal by Night
 
-The Lupine/Garou/Werewolf game would consist of:
+The Lupine/Garou/Werewolf game would consist of some combination of:
 
 - Rite of Passage
 - Rage Across New York
 - Valkenburg Foundation
+- Rage Across the Amazon
+- Rage Across Russia
 
 With all factions converging for the great War for Chicago in 1993, which should be the climax of the game.
+
+If I get really crazy, I might just throw in Hell's Highway, the one-off from Mummy 1st Edition.
