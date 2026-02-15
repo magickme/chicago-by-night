@@ -73,7 +73,9 @@ Some days it seems that nothing the writers of the game could come up with (not 
 
 In fact, I can be far more cynical. Were I to rewrite this game today, I would dispense completely with the idea of the Masquerade. The game's original designers assumed that vampires had to hide from humanity, for if their crimes were to be revealed, they would be annihilated.
 
-Now we know better. Monsters like Jeffrey Epstein and his ilk operate in plain sight, all around us, and *nobody cares*. In fact, if the price is right, they all but fall over themselves to participate. The disturbing reality of evil in the real world is that it flaunts its nature openly, relying not just on the cowardice of those who witness it, but their active disbelief and denial (Oh, the neighbor couldn't *possibly* be doing *that*...). Vampires need not enforce their own Masquerade—their victims do it for them. This and many other themes will likely be explored in this game.
+Now we know better. Monsters like Jeffrey Epstein and his ilk operate in plain sight, all around us, and *nobody cares*. In fact, if the price is right, they all but fall over themselves to participate. The disturbing reality of evil in the real world is that it flaunts its nature openly, relying not just on the cowardice of those who witness it, but their active disbelief and denial (Oh, the neighbor couldn't *possibly* be doing *that*... she must be making it up...).
+
+Vampires need not enforce their own Masquerade—their victims do it for them. This and many other themes will likely be explored in this game.
 
 ## How Long Will This Go On?
 
@@ -82,3 +84,15 @@ As long as I feel like it.
 ## Can I join/contribute?
 
 Maybe. If I see a mechanical way to add that later, I may open this up for additional players. However, play-by-post games, while great, are SLOW, VERY SLOW. So that makes it a lot harder to get through all this material.
+
+> 
+What keeps mankind alive
+The fact that millions
+Are daily tortured stifled punished silenced and oppressed
+Mankind can keep alive thanks to its brilliance
+In keeping its humanity repressed
+For once you must try not to shirk the facts
+Mankind is kept alive
+By bestial acts.
+
+- Kurt Weill.
