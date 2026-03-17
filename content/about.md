@@ -49,6 +49,7 @@ If the early sessions go well, I may add a couple of side games with different c
 The Sabbat game would center around Sword of Caine shock troops slowly amassing in Detroit for a strike on Chicago, and consist of the published adventures in:
 
 - Storyteller's Guide to the Sabbat
+- Awakening: Diablerie Mexico
 - Montreal by Night
 
 The Lupine/Garou/Werewolf game would center around a new pack from the Sept of the Green in New York making its bones, and consist of some combination of:
@@ -73,7 +74,7 @@ Some days it seems that nothing the writers of the game could come up with (not 
 
 In fact, I can be far more cynical. Were I to rewrite this game today, I would dispense completely with the idea of the Masquerade. The game's original designers assumed that vampires had to hide from humanity, for if their crimes were to be revealed, they would be annihilated.
 
-Now we know better. Monsters like Jeffrey Epstein and his ilk operate in plain sight, all around us, and *nobody cares*. In fact, if the price is right, they all but fall over themselves to participate. The disturbing reality of evil in the real world is that it flaunts its nature openly, relying not just on the cowardice of those who witness it, but their active disbelief and denial (Oh, the neighbor couldn't *possibly* be doing *that*... she must be making it up...).
+Now we know better. Monsters like Jeffrey Epstein and his ilk operate in plain sight, all around us, and *nobody cares*. In fact, if the price is right, they all but fall over themselves to participate. The disturbing reality of evil in the real world is that it flaunts its nature openly, relying not just on the cowardice of those who witness it, but their active disbelief and denial (Oh, the neighbor couldn't *possibly* be doing *that*... She must be making it up...).
 
 Vampires need not enforce their own Masquerade—their victims do it for them. This and many other themes will likely be explored in this game.
 
@@ -101,4 +102,4 @@ Maybe. If I see a mechanical way to add that later, I may open this up for addit
 
 > By bestial acts.
 
-> - Kurt Weill.
+> • Kurt Weill.
