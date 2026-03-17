@@ -2,11 +2,8 @@
 title: "Sable Price — Friday, 5 January 1990, 8:00 PM"
 date: 1990-01-05T20:00:00
 tags: ["chapter", "sable", "vtm", "forged-in-steel", "gary"]
-summary: "Sable's first Elysium. A prince who needs her. A woman at a piano who hates her already."
-ShowToc: false
-cover:
-  image: /images/sable-elysium.webp
-  alt: "Sable Price at a formal gathering"
+description: "Sable's first Elysium. A prince who needs her. A woman at a piano who hates her already."
+image: /images/sable-elysium.webp
 ---
 
 *Modius's Mansion, Miller Beach*

@@ -1,62 +1,76 @@
 baseURL: "https://chicago-by-night.pages.dev/"
 languageCode: en-us
 title: Forged in Steel
-theme: PaperMod
+theme: hugo-theme-stack
 
 pagination:
   pagerSize: 20
 
 params:
-  env: production
+  mainSections:
+    - posts
   description: "Solo Vampire: The Masquerade — Gary, Indiana, 1990"
-  author: Forged in Steel
-  defaultTheme: dark
-  disableThemeToggle: true
-  ShowReadingTime: true
-  ShowPostNavLinks: true
-  ShowBreadCrumbs: false
-  ShowCodeCopyButtons: false
-  ShowToc: false
-  TocOpen: false
-  ShowShareButtons: false
+  rssFullContent: true
 
-  homeInfoParams:
-    Title: "Forged in Steel"
-    Content: >
-      Gary, Indiana. New Year's Eve, 1989. A dying steel town on the shore of Lake Michigan,
-      ruled by the dead and forgotten by the living.
+  footer:
+    since: 2026
+    customText: ""
 
+  dateFormat:
+    published: "January 2, 2006"
+    lastUpdated: "January 2, 2006"
 
-      Solo Vampire: The Masquerade — 1st Edition chronicles played with Mythic GME 2e.
+  sidebar:
+    compact: false
+    emoji: ""
+    subtitle: "Gary, Indiana. 1990. A dying steel town ruled by the dead."
 
-  socialIcons: []
+  article:
+    headingAnchor: false
+    math: false
+    toc: false
+    readingTime: true
+    license:
+      enabled: false
 
-  assets:
-    favicon: "/favicon.ico"
-    disableFingerprinting: true
+  colorScheme:
+    toggle: false
+    default: "dark"
 
-  cover:
-    hiddenInList: false
-    hiddenInSingle: false
+  comments:
+    enabled: false
+
+  imageProcessing:
+    content:
+      widths: [800, 1600]
+      enabled: true
+    thumbnail:
+      enabled: true
+
+  widgets:
+    homepage: []
+    page: []
 
 menu:
   main:
-    - identifier: archive
-      name: Archive
-      url: /archives/
-      weight: 5
     - identifier: characters
       name: Characters
       url: /characters/
       weight: 10
-    - identifier: guide
-      name: Guide
-      url: /guide/
+      params:
+        icon: user
+    - identifier: archive
+      name: Archive
+      url: /archives/
       weight: 15
+      params:
+        icon: archives
     - identifier: about
       name: About
       url: /about/
       weight: 20
+      params:
+        icon: link
 
 outputs:
   home:
