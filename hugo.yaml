@@ -43,9 +43,9 @@ params:
   imageProcessing:
     content:
       widths: [800, 1600]
-      enabled: true
+      enabled: false
     thumbnail:
-      enabled: true
+      enabled: false
 
   widgets:
     homepage: []

@@ -18,7 +18,7 @@ In the 1980s, Lodin orchestrated the collapse of Gary's steel industry and the d
 
 **In 1991**: Lodin is paranoid about Modius's residual power and increasingly concerned about Anarch infiltration of Gary. He maintains the convenient fiction that Gary is Modius's domain (allowing the broken Toreador to preserve face), but everyone understands the reality: Lodin has abandoned the city to decay as punishment, and as containment.
 
-![Chicago, jewel of the Camarilla](/setting-images/chicago_skyline.webp)
+<img src="/setting-images/chicago_skyline.webp" alt="Chicago skyline, jewel of the Camarilla" class="w-full rounded-lg" />
 
 ---
 

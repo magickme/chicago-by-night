@@ -6,7 +6,7 @@ tags: ["clans", "reference"]
 weight: 2
 ---
 
-![Kindred of many clans gather in Elysium](/setting-images/elysium2.webp "Kindred of many clans gather in Elysium, a designated social area that exists in all Camarilla cities, where violence is expressly forbidden.")
+<img src="/setting-images/elysium2.webp" alt="Kindred of many clans gather in Elysium, a designated social area where violence is expressly forbidden" class="w-full rounded-lg" />
 
 There are seven (plus one) Clans of Kindred. They are as follows.
 
@@ -26,7 +26,7 @@ There are seven (plus one) Clans of Kindred. They are as follows.
 
 - To these are added **Caitiff**, the clanless, who are considered the status-less untouchables of the Vampire world.
 
-![Elysium gathering](/setting-images/elysium1.webp)
+<img src="/setting-images/elysium1.webp" alt="Toreador gathering at Elysium" class="w-full rounded-lg" />
 
 Kindred cannot choose their clan. Whatever clan the vampire that Sired (created) them was will determine the clan the fledgling vampire is. It is the blood itself that determines the clan, and passes down the strengths, weaknesses and even supernatural powers (Disciplines) that vampire has access to.
 

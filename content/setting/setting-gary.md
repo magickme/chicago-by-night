@@ -12,13 +12,13 @@ As our Chronicle opens, the characters—having only recently become Kindred, an
 
 The American Dream of picket white fences, union jobs and Bruce Springsteen might not quite be dead yet, but it has Stage IV terminal cancer, and the cancer started here, in the blackened carcinoma sites of America's manufacturing hubs, Gary and Detroit.
 
-![Gary, Indiana, 1991](/setting-images/gary3.webp "Gary, Indiana, 1991")
+<img src="/setting-images/gary3.webp" alt="Gary, Indiana, 1991" class="w-full rounded-lg" />
 
 ### The Cemetery City
 
 Unlike the jewelled spires of Chicago—the Camarilla's shining city on a hill—Gary is a cemetery, appearing less like a once-thriving American city and more like a bombed-out European city after World War II. Reaganomics, corporate power and East Asian competition have murdered it; now drug dealers, gangs, organized crime, human traffickers and Vampires chew the corpse.
 
-![Union workers on strike, Gary, Indiana, 1987](/setting-images/gary_union.webp "Unionized steel workers on strike, Gary, Indiana, 1987")
+<img src="/setting-images/gary_union.webp" alt="Unionized steel workers on strike, Gary, Indiana, 1987" class="w-full rounded-lg" />
 
 ### The Political Destruction
 
@@ -28,7 +28,7 @@ For the Kindred, however, Gary holds special significance. Specifically, Gary is
 
 The Anarchs are not all Lodin has had to worry about, however. Another of the thorns in his side has been **Modius, the Toreador Prince of Gary**. Modius is no Anarch; he is a stalwart of the Camarilla—but a very, very jealous one. Long feeling himself cast in the shadow of Lodin's star, Modius's ego has driven him for almost a century to claw away some of Lodin's spotlight.
 
-![The ruins of an abandoned church in Gary, Indiana, 1991](/setting-images/gary_church.webp "The ruins of an abandoned church in Gary, Indiana, 1991")
+<img src="/setting-images/gary_church.webp" alt="The ruins of an abandoned church in Gary, Indiana, 1991" class="w-full rounded-lg" />
 
 ### Salieri to Mozart
 
@@ -40,7 +40,7 @@ Seeing an opportunity to both hamper the Anarch Movement and crush his rival to 
 
 As Modius' power base in Gary had been both the steel mills and the unions, both the lesser Prince and his city were devastated.
 
-![Union workers on strike, Gary, Indiana, 1986](/setting-images/gary_strike2.webp "Unionized steel workers on strike, Gary, Indiana, 1986")
+<img src="/setting-images/gary_strike2.webp" alt="Unionized steel workers on strike, Gary, Indiana, 1986" class="w-full rounded-lg" />
 
 ### The Collateral Damage
 
@@ -50,7 +50,7 @@ Yet even in 1991, Gary is already in ruins, a rusted skeleton of steel where an 
 
 **Though Lodin rules Chicago with all-reaching control, Gary has become a lawless no-man's-land.** Kindred from Chicago can come here to hunt hopeless mortals with abandon, without having to worry about encroaching on a more powerful vampire's territory.
 
-![Street view of Gary, Indiana](/setting-images/gary_streets.webp "Gary's streets in 1991")
+<img src="/setting-images/gary_streets.webp" alt="Gary's streets in 1991" class="w-full rounded-lg" />
 
 ### The Hunting Ground
 
@@ -60,5 +60,5 @@ They can also, critically, come here to Embrace new vampires. Lodin restricts th
 
 It is within this anarchic wilderness of rusted steel that we meet our characters, and our Chronicle begins.
 
-![Camarilla enforcer hunts Anarch insurgents during peacekeeping operations in Sarajevo, 1992](/setting-images/archon.webp "Anarch looking for Camarilla elders' havens to torch during the 1968 riots, Chicago")
+<img src="/setting-images/archon.webp" alt="Anarch operations" class="w-full rounded-lg" />
 
