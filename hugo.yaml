@@ -65,24 +65,18 @@ menu:
       weight: 10
       params:
         icon: user
-    - identifier: setting
-      name: Setting
-      url: /setting/
+    - identifier: about
+      name: About
+      url: /about/
       weight: 12
       params:
-        icon: categories
+        icon: link
     - identifier: archive
       name: Archive
       url: /archives/
       weight: 15
       params:
         icon: archives
-    - identifier: about
-      name: About
-      url: /about/
-      weight: 20
-      params:
-        icon: link
 
 outputs:
   home:
