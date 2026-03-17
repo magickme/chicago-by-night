@@ -4,6 +4,9 @@ date: 1989-12-31T23:47:00
 tags: ["chapter", "darius", "vtm", "forged-in-steel", "gary"]
 summary: "The last night of the decade. Darius works the docks, feeds on Broadway, and finds a name."
 ShowToc: false
+cover:
+  image: /images/darius-docks.webp
+  alt: "Darius Cole on the streets of Gary, Indiana"
 ---
 
 *The Docks, Gary Exports Co.*

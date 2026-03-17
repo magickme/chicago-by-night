@@ -4,6 +4,9 @@ date: 1990-01-11T21:30:00
 tags: ["chapter", "darius", "vtm", "forged-in-steel", "gary"]
 summary: "Darius drives to Telton Cemetery with a gift for a man who isn't home and finds a hunter instead."
 ShowToc: false
+cover:
+  image: /images/darius-night.webp
+  alt: "Darius Cole at night"
 ---
 
 *Telton Cemetery*

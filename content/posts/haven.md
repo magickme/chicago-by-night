@@ -5,9 +5,8 @@ tags: ["chapter", "sable", "vtm", "forged-in-steel", "gary"]
 summary: "Sable goes looking for a place to sleep. A man with a van finds her first."
 ShowToc: false
 cover:
-  image: /images/sable-price.png
-  alt: "Sable Price"
-  hidden: true
+  image: /images/sable-buick.webp
+  alt: "Sable Price in the backseat of the Buick"
 ---
 
 *Tolleston*

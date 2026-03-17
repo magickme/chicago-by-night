@@ -5,6 +5,9 @@ hidemeta: true
 summary: "Darius Jeremiah Cole. Ventrue. Gary, Indiana. Forged in Steel solo chronicle."
 ShowToc: true
 TocOpen: false
+cover:
+  image: /images/darius-portrait.webp
+  alt: "Darius Cole — Ventrue, Gary, Indiana"
 ---
 
 ## Who Is He

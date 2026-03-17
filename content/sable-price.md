@@ -6,7 +6,7 @@ summary: "Sable Ann Price. Toreador. Gary, Indiana. Forged in Steel solo chronic
 ShowToc: true
 TocOpen: false
 cover:
-  image: /images/sable-price.png
+  image: /images/sable-portrait.webp
   alt: "Sable Price in the back seat of a car, neon light, fur coat"
 ---
 

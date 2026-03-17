@@ -4,6 +4,9 @@ date: 1990-01-05T22:15:00
 tags: ["chapter", "darius", "vtm", "forged-in-steel", "gary"]
 summary: "Darius comes to meet the bookie. The Malkavian is already there."
 ShowToc: false
+cover:
+  image: /images/darius-suit.webp
+  alt: "Darius Cole in a charcoal suit"
 ---
 
 *Gary Exports Co., Dispatch Office*

@@ -4,6 +4,9 @@ date: 1990-01-14T23:30:00
 tags: ["chapter", "darius", "vtm", "forged-in-steel", "gary"]
 summary: "January 14. The date from the clipboard. Darius comes to observe. What he finds is older than the city."
 ShowToc: false
+cover:
+  image: /images/darius-wall.webp
+  alt: "Darius Cole against a brick wall"
 ---
 
 *Dock 7, Gary Exports Co.*
