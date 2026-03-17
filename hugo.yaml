@@ -47,7 +47,7 @@ menu:
       weight: 5
     - identifier: characters
       name: Characters
-      url: /darius-cole/
+      url: /characters/
       weight: 10
     - identifier: guide
       name: Guide
