@@ -6,6 +6,7 @@ weight: 10
 ---
 
 <img src="/setting-images/brujah.webp" alt="Brujah revolutionary" class="w-full rounded-lg my-6" />
+<figcaption>Brujah: Punks, rabble-rousers, anarchists, revolutionaries, communists, union heavies.</figcaption>
 
 ## A Beast I Am, Lest a Beast I Become
 
