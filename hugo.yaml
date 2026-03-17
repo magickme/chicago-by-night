@@ -65,10 +65,16 @@ menu:
       weight: 10
       params:
         icon: user
+    - identifier: world
+      name: World
+      url: /world/
+      weight: 12
+      params:
+        icon: categories
     - identifier: about
       name: About
       url: /about/
-      weight: 12
+      weight: 14
       params:
         icon: link
     - identifier: archive
