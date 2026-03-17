@@ -3,7 +3,7 @@ title: "Sable Price"
 url: "/sable-price/"
 hidemeta: true
 description: "Sable Ann Price. Toreador. Gary, Indiana. Forged in Steel solo chronicle."
-image: /images/sable-portrait.webp
+image: cover.webp
 ---
 
 ## Who Is She

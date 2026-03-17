@@ -3,7 +3,7 @@ title: "Sable Price — Monday, 1 January 1990, 1:00 AM"
 date: 1990-01-01T01:00:00
 tags: ["chapter", "sable", "vtm", "forged-in-steel", "gary"]
 description: "New Year's morning. Sable walks into The Torch and walks right back out."
-image: /images/sable-torch.webp
+image: cover.webp
 ---
 
 *The Torch*
