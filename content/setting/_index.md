@@ -1,6 +1,13 @@
 ---
-title: "Reference"
-description: "Setting, rules, and world-building for Forged in Steel"
+title: Setting
+description: World-building for Forged in Steel
 ---
 
-World-building, historical context, and character reference for the **Forged in Steel** chronicle. All content is set in **Gary, Indiana, 1990–1991**, using **Vampire: The Masquerade 20th Anniversary Edition** rules and the **Mythic GME 2E** oracle system.
+This section contains the complete V20 world-building material that forms the foundation for the Forged in Steel chronicle. Read through these pages to understand the world of Vampire: The Masquerade, the setting of Gary, Indiana and Chicago, and how the game works.
+
+- **[Vampire: The Masquerade](/setting/vampire/)** — The game, the lore, and the core mechanics
+- **[The Seven Clans](/setting/clans/)** — Bloodlines, powers, and identity in the Kindred world
+- **[The Sects](/setting/sects/)** — Camarilla vs. Anarchs: two paths of power
+- **[Gary, Indiana: Sick City](/setting/gary/)** — The death of the American Dream
+- **[Orienting Yourself](/setting/orienting/)** — How to play, what to study, what not to read
+- **[A Letter From a Friend](/setting/letter/)** — How you received this material

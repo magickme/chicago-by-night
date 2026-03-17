@@ -2,8 +2,7 @@
 title: "Gary, Indiana: Sick City"
 date: 2026-03-17
 description: "The death of the American Dream. Where Lodin crushed Modius. Where the chronicle begins."
-tags: ["setting", "gary", "history"]
-weight: 1
+weight: 35
 ---
 
 ## Gary, Indiana: Sick City

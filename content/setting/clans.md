@@ -2,8 +2,7 @@
 title: "The Seven Clans"
 date: 2026-03-17
 description: "Bloodlines, powers, and identity in the Kindred world"
-tags: ["clans", "reference"]
-weight: 2
+weight: 20
 ---
 
 <img src="/setting-images/elysium2.webp" alt="Kindred of many clans gather in Elysium, a designated social area where violence is expressly forbidden" class="w-full rounded-lg" />

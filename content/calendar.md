@@ -59,7 +59,7 @@ description: "Timeline of Forged in Steel scenes — Darius and Sable's chronicl
 }
 
 .calendar-title {
-  font-size: 1.35rem;
+  font-size: 1.75rem;
   font-weight: 700;
   color: #1A1A1A;
   margin-bottom: 0.5rem;
@@ -68,6 +68,8 @@ description: "Timeline of Forged in Steel scenes — Darius and Sable's chronicl
 .calendar-link {
   color: #8B0000;
   text-decoration: underline;
+  font-size: 1.5rem;
+  font-weight: 600;
 }
 
 .calendar-link:hover {

@@ -2,8 +2,7 @@
 title: "The Sects: Camarilla vs. Anarchs"
 date: 2026-03-17
 description: "Two paths of power—one built on ancient traditions, one on revolution"
-tags: ["sects", "politics", "reference"]
-weight: 3
+weight: 30
 ---
 
 A *Sect* is a political coalition of Kindred of many different clans who have banded together for a specific ideological or political reason. As of 1991, the two major Sects in North America are the Camarilla and the Anarchs. Not all vampires need belong to a Sect—many simply wander the world as independents—though eventually most are forced to band together with others simply for survival.
