@@ -1,6 +1,7 @@
-/* Chicago by Night — V:TM Gothic-Punk Override for PaperMod */
+/* Forged in Steel — V:TM Gothic-Punk Override for PaperMod */
+/* Optimized for long-form fiction legibility */
 
-@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@400;600;700&family=Cormorant+Garamond:ital,wght@0,400;0,600;1,400;1,600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@400;600;700&family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;1,400;1,500;1,600&display=swap');
 
 :root {
   --theme: #0d0d0d;
@@ -13,18 +14,37 @@
   --border: #2a1a1a;
   --vtm-red: #8b0000;
   --vtm-red-glow: #a01010;
+  --gap: 24px;
 }
 
-/* Body and base typography */
+/* ── Body and base typography ── */
 body {
   font-family: 'Cormorant Garamond', 'Georgia', serif;
-  font-size: 1.15rem;
-  line-height: 1.75;
+  font-size: 1.2rem;
+  line-height: 1.85;
   background-color: var(--theme);
   color: var(--primary);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
 }
 
-/* Headers — Cinzel for that carved-stone Elder feel */
+/* ── Max width for readable line length ── */
+/* 65-75 characters per line is optimal for reading */
+.post-content {
+  max-width: 38em;
+  margin: 0 auto;
+  font-size: 1.2rem;
+  line-height: 1.9;
+}
+
+.post-content p {
+  margin-bottom: 1.4em;
+  text-indent: 0;
+  hyphens: auto;
+  -webkit-hyphens: auto;
+}
+
+/* ── Headers — Cinzel for carved-stone Elder feel ── */
 h1, h2, h3, h4, h5, h6,
 .post-title,
 .profile_inner h1 {
@@ -35,14 +55,23 @@ h1, h2, h3, h4, h5, h6,
 }
 
 .post-title {
-  font-size: 2.2rem;
+  font-size: 1.8rem;
+  line-height: 1.3;
+  margin-bottom: 0.3em;
+}
+
+/* On mobile, shrink the long Clan Novel titles */
+@media (max-width: 600px) {
+  .post-title {
+    font-size: 1.3rem;
+  }
 }
 
 h1 { font-size: 2rem; }
-h2 { font-size: 1.6rem; border-bottom: 1px solid var(--vtm-red); padding-bottom: 0.3em; }
-h3 { font-size: 1.35rem; color: var(--vtm-red-glow); }
+h2 { font-size: 1.5rem; border-bottom: 1px solid var(--vtm-red); padding-bottom: 0.3em; }
+h3 { font-size: 1.3rem; color: var(--vtm-red-glow); }
 
-/* Home page info */
+/* ── Home page ── */
 .profile_inner h1,
 .first-entry .entry-header h1 {
   font-size: 2.5rem;
@@ -51,9 +80,53 @@ h3 { font-size: 1.35rem; color: var(--vtm-red-glow); }
 
 .profile_inner {
   color: var(--secondary);
+  font-size: 1.1rem;
+  line-height: 1.7;
 }
 
-/* Links — blood red */
+/* ── Chapter heading epigraph (location block) ── */
+/* The italic location/city lines at the top of each chapter */
+.post-content > p:first-of-type {
+  font-family: 'Cinzel', serif;
+  font-style: italic;
+  font-size: 1.05rem;
+  letter-spacing: 0.06em;
+  color: var(--secondary);
+  line-height: 1.6;
+  text-align: center;
+  margin-bottom: 0.2em;
+}
+
+/* Second paragraph (city line) — also centered */
+.post-content > p:first-of-type + p {
+  font-family: 'Cinzel', serif;
+  font-style: italic;
+  font-size: 1.05rem;
+  letter-spacing: 0.06em;
+  color: var(--secondary);
+  line-height: 1.6;
+  text-align: center;
+  margin-bottom: 1em;
+}
+
+/* ── Post list entries ── */
+.post-entry {
+  border-bottom: 1px solid var(--border);
+  padding: 1.2em 0;
+}
+
+.entry-header h2 {
+  border-bottom: none;
+  font-size: 1.25rem;
+  line-height: 1.35;
+}
+
+.entry-content {
+  font-size: 1rem;
+  color: var(--secondary);
+}
+
+/* ── Links — blood red ── */
 a {
   color: var(--vtm-red-glow);
 }
@@ -72,11 +145,11 @@ a:hover {
   border-bottom-color: #c02020;
 }
 
-/* Navigation */
+/* ── Navigation ── */
 .nav a {
   color: var(--secondary);
   font-family: 'Cinzel', serif;
-  font-size: 0.9rem;
+  font-size: 0.85rem;
   letter-spacing: 0.08em;
   text-transform: uppercase;
 }
@@ -87,27 +160,17 @@ a:hover {
 
 .logo a {
   font-family: 'Cinzel', serif;
-  font-size: 1.4rem;
+  font-size: 1.3rem;
   letter-spacing: 0.06em;
   color: var(--primary) !important;
 }
 
-/* Post entries on list pages */
-.post-entry {
-  border-bottom: 1px solid var(--border);
-}
-
-.entry-header h2 {
-  border-bottom: none;
-  font-size: 1.4rem;
-}
-
-/* Blockquotes — Elysium pronouncements */
+/* ── Blockquotes — Elysium pronouncements ── */
 blockquote {
   border-left: 3px solid var(--vtm-red);
   background: rgba(139, 0, 0, 0.06);
   padding: 0.8em 1.2em;
-  margin: 1.5em 0;
+  margin: 1.8em 0;
   font-style: italic;
   color: var(--secondary);
 }
@@ -116,7 +179,7 @@ blockquote p {
   margin: 0.3em 0;
 }
 
-/* Tables — for encounter charts */
+/* ── Tables ── */
 table {
   border-collapse: collapse;
   width: 100%;
@@ -147,7 +210,7 @@ tr:hover td {
   background: rgba(139, 0, 0, 0.05);
 }
 
-/* Code blocks — Nosferatu warrens */
+/* ── Code blocks ── */
 code {
   background: var(--code-bg);
   color: var(--vtm-red-glow);
@@ -166,7 +229,7 @@ pre code {
   color: var(--content);
 }
 
-/* Table of contents */
+/* ── Table of contents ── */
 .toc {
   border: 1px solid var(--border);
   background: var(--entry);
@@ -182,21 +245,34 @@ pre code {
   color: var(--vtm-red-glow);
 }
 
-/* Horizontal rules */
+/* ── Horizontal rules — scene breaks ── */
+/* These are the section dividers within fiction chapters */
 hr {
   border: none;
-  border-top: 1px solid var(--vtm-red);
-  opacity: 0.4;
-  margin: 2em 0;
+  border-top: none;
+  margin: 2.5em auto;
+  text-align: center;
+  max-width: 6em;
+  opacity: 1;
 }
 
-/* Lists */
+hr::after {
+  content: "· · ·";
+  display: block;
+  position: relative;
+  top: -0.7em;
+  color: var(--vtm-red);
+  font-size: 1.2rem;
+  letter-spacing: 0.5em;
+}
+
+/* ── Lists ── */
 .post-content ul li::marker,
 .post-content ol li::marker {
   color: var(--vtm-red);
 }
 
-/* Breadcrumbs */
+/* ── Breadcrumbs ── */
 .breadcrumbs a {
   font-family: 'Cinzel', serif;
   font-size: 0.8rem;
@@ -204,13 +280,25 @@ hr {
   text-transform: uppercase;
 }
 
-/* Post metadata */
+/* ── Post metadata ── */
 .post-meta {
   color: var(--secondary);
   font-size: 0.9rem;
 }
 
-/* Footer */
+/* ── Post navigation (prev/next) ── */
+.paginav {
+  border-top: 1px solid var(--border);
+  margin-top: 3em;
+}
+
+.paginav a {
+  font-family: 'Cinzel', serif;
+  font-size: 0.9rem;
+  letter-spacing: 0.04em;
+}
+
+/* ── Footer ── */
 .footer {
   color: #5a4a3a;
   font-size: 0.85rem;
@@ -220,7 +308,7 @@ hr {
   color: var(--vtm-red);
 }
 
-/* Strong emphasis */
+/* ── Strong / emphasis ── */
 strong {
   color: var(--primary);
   font-weight: 600;
@@ -230,7 +318,7 @@ em {
   color: var(--secondary);
 }
 
-/* Scrollbar */
+/* ── Scrollbar ── */
 ::-webkit-scrollbar {
   width: 8px;
 }
@@ -248,7 +336,7 @@ em {
   background: var(--vtm-red-glow);
 }
 
-/* Selection */
+/* ── Selection ── */
 ::selection {
   background: rgba(139, 0, 0, 0.4);
   color: var(--primary);

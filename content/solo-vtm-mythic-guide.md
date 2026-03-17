@@ -1,11 +1,11 @@
 ---
-title: "Solo Vampire: The Masquerade — Running Chicago by Night with Mythic GME 2e"
-date: 2026-02-14
+title: "Solo VTM — Running Chicago by Night with Mythic GME 2e"
+url: "/guide/"
+hidemeta: true
 tags: ["guide", "mythic", "vtm", "solo-rpg", "chicago-by-night"]
 summary: "The complete method for running VTM 1e's Chicago by Night as a solo RPG using the Mythic Game Master Emulator 2nd Edition."
 ShowToc: true
 TocOpen: true
-weight: 1
 ---
 
 ## The Nature of the Problem

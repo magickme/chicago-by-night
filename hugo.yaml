@@ -1,30 +1,33 @@
 baseURL: "https://chicago-by-night.pages.dev/"
 languageCode: en-us
-title: Chicago by Night
+title: Forged in Steel
 theme: PaperMod
 
 pagination:
-  pagerSize: 10
+  pagerSize: 20
 
 params:
   env: production
-  description: "Solo Vampire: The Masquerade using Mythic GME"
-  author: Chicago by Night
+  description: "Solo Vampire: The Masquerade — Gary, Indiana, 1990"
+  author: Forged in Steel
   defaultTheme: dark
   disableThemeToggle: true
   ShowReadingTime: true
   ShowPostNavLinks: true
-  ShowBreadCrumbs: true
-  ShowCodeCopyButtons: true
-  ShowToc: true
-  TocOpen: true
+  ShowBreadCrumbs: false
+  ShowCodeCopyButtons: false
+  ShowToc: false
+  TocOpen: false
   ShowShareButtons: false
 
   homeInfoParams:
-    Title: "Chicago by Night"
+    Title: "Forged in Steel"
     Content: >
-      Solo Vampire: The Masquerade — running Chicago by Night with Mythic GME 2e.
-      A guide to navigating the Kindred politics of the Windy City alone.
+      Gary, Indiana. New Year's Eve, 1989. A dying steel town on the shore of Lake Michigan,
+      ruled by the dead and forgotten by the living.
+
+
+      Solo Vampire: The Masquerade — 1st Edition chronicles played with Mythic GME 2e.
 
   socialIcons: []
 
@@ -42,14 +45,18 @@ menu:
       name: Archive
       url: /archives/
       weight: 5
-    - identifier: tags
-      name: Tags
-      url: /tags/
+    - identifier: characters
+      name: Characters
+      url: /darius-cole/
       weight: 10
+    - identifier: guide
+      name: Guide
+      url: /guide/
+      weight: 15
     - identifier: about
       name: About
       url: /about/
-      weight: 15
+      weight: 20
 
 outputs:
   home:
