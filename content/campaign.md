@@ -6,13 +6,21 @@ hidemeta: true
 ShowToc: true
 ---
 
-Three years. Five cities. Two Methuselahs playing chess with every Kindred on the board.
+Three years. Five cities. Three PCs. Two Methuselahs playing chess with every Kindred on the board.
 
-This campaign follows Darius Cole from his first nights as a Ventrue nobody in Gary, Indiana through the corridors of Camarilla power in Chicago, into Sabbat territory, through a Lupine war zone, and back to Chicago for a three-faction war that kills the Prince and redraws the map.
+A coterie of neonates arrives in Gary, Indiana. Over five acts and two interludes, the campaign follows them from street-level hustle in a dying steel town through the corridors of Camarilla power in Chicago, into Sabbat territory, through a Lupine war zone, and back to Chicago for a three-faction war that kills the Prince and redraws the map.
 
-The structure borrows from open-world games (GTA V, Red Dead Redemption II) and longform television (The Wire, The Sopranos). Each act opens a new city with its own cast, politics, and random encounters. Mandatory story missions drive the overarching narrative. Side missions build character, intelligence, and alliances. Procedural sandbox encounters give the world texture between scripted beats.
+The structure borrows from open-world games (GTA V, Red Dead Redemption II) and longform television (The Wire, The Sopranos). Each act opens a new city with its own cast, politics, and random encounters. Mandatory story missions drive the overarching narrative. Side missions build character, intelligence, and alliances. Procedural sandbox encounters give the world texture between scripted beats. RDR2-style musical interludes mark each act transition.
 
-Each act escalates the scope: local politics, then city politics, then sect war, then supernatural war, then total convergence. The player sees the machine from the bottom up, one floor at a time, until the whole building is on fire.
+The campaign is organized into three thematic arcs, each governed by one of Robert Greene's strategic frameworks:
+
+| Arc | Theme | Lead PC | Greene |
+|-----|-------|---------|--------|
+| Gary/Chicago | **Power** | Darius Cole (Ventrue) | 48 Laws of Power |
+| Sabbat | **Seduction** | Sable Price (Toreador) | Art of Seduction |
+| Lupine | **War** | TBD (Tremere) | 33 Strategies of War |
+
+Each PC is active throughout the entire campaign. The thematic arcs determine who takes point, not who participates. Like GTA V switching who drives the mission.
 
 ## Structure
 
@@ -129,9 +137,13 @@ This interlude puts the player inside the Sabbat long enough to see them as peop
 
 Archbishop Carolina Valez struggles to hold a city where three bishops openly jockey for her seat. The real threat: the infernalist legacy of a Serpent of the Light named Sangris, who soul-switched into his executioner's body during his own trial. Two demons play their own game behind Sabbat politics. And one of the Archbishop's own coterie-mates secretly negotiates with the Camarilla.
 
-### Main Quest: Bridging to Detroit
+### Main Quest: The Fall of Quebec City / Bridging to Detroit
 
-Chuc Luc's pipeline needs a Sabbat intelligence corridor. Detroit sits on the border between Camarilla and Sabbat spheres. Establishing a forward operating base means navigating contested territory between two sects that have been killing each other for five centuries.
+Quebec City is a tiny Camarilla enclave (fewer than 20 Kindred), ruled by a Tremere Prince. It sits on the Sabbat's doorstep. While the coterie is in Montreal, the Sabbat launch their rehearsal — a full crusade against Quebec City. The coterie witnesses the war machine from inside: mass Embraces, the Fire Dance the night before the assault, the methodical chaos of the attack itself. Quebec City falls in days. The Tremere chantry burns.
+
+This is the proof of concept. If the Sabbat can take Quebec City, they can take Chicago. What the coterie carries back is not intelligence. It is a warning.
+
+Meanwhile, Chuc Luc's pipeline needs a corridor through Detroit, on the Camarilla-Sabbat border. The Detroit operation gives the coterie a reason to leave Montreal before the Sabbat turn south.
 
 ---
 
@@ -141,9 +153,9 @@ Chuc Luc's pipeline needs a Sabbat intelligence corridor. Detroit sits on the bo
 
 *The Wire Season 4. The institution is rotten from the top down. Also: psychological horror.*
 
-Milwaukee is Gary if Gary had walls. Surrounded by Lupine territory, cut off from the Camarilla, overcrowded with nearly forty Kindred who can't leave and can't stop making more. Prince Terence Merik has gone insane. He's committed 422 murders, killed his own wife, left drained bodies in public. The "Vampire Murders" are on the front page.
+After Quebec City's fall, Lodin needs someone expendable on his western flank. Milwaukee's mad Prince Merik has committed 422 murders and left drained bodies on the front page. The Masquerade crisis threatens Chicago's entire region, and with the Sabbat on the march, Lodin cannot afford a collapse. He dispatches the coterie.
 
-The Prince orders the PCs to investigate the murders. The twist: the murderer is the Prince.
+Milwaukee is Gary if Gary had walls. Surrounded by Lupine territory, cut off from the Camarilla, overcrowded with nearly forty Kindred who can't leave. The Prince orders the coterie to investigate the murders. The twist: the murderer is the Prince.
 
 Psychomachia (Latin: "conflict of the soul") forces every scene through a Humanity check. The hallucination sequences are the most brutal content in 1st Edition VTM.
 
