@@ -84,11 +84,11 @@ The act break. Modius's mansion. The party. The letter. The mission to Chicago.
 
 Recovery. Chicago sandbox opens. Establish feeding, contacts, haven.
 
-### February-March
+### February-March — Act II Side Quests (Power)
 
-Settling into Chicago. Side quest window opens: Paper Chase, Annabelle's Party.
+Settling into Chicago. Tremere PC joins the coterie. Side quests: Annabelle's Party, Player of Pawns, Paper Chase.
 
-### April-July — Blood Bond
+### April-July — Act III: Blood Bond (Seduction)
 
 | Block | Beat |
 |-------|------|
@@ -102,9 +102,11 @@ Settling into Chicago. Side quest window opens: Paper Chase, Annabelle's Party.
 
 *April 29 — LA Riots begin. Anarch parallels. Masquerade complications nationwide.*
 
-### July-September — Succubus Club Side Quests
+### July-September — Act III Side Quests (Seduction)
 
-Slot in any order: Fundamental Differences, Player of Pawns, Death's Sweet Sting, Grand Elusion.
+Slot in any order: Fundamental Differences, Death's Sweet Sting, Grand Elusion.
+
+**Meanwhile, in New Mexico** (August 1992): [Hell's Highway](/posts/hells-highway/) — Nefer-Hotep, a four-thousand-year-old Mummy, stops a demon building a highway to Egyptian Hell on I-40. A naming contest on Route 666.
 
 ### October
 
