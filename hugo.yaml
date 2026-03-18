@@ -53,6 +53,18 @@ params:
 
 menu:
   main:
+    - identifier: campaign
+      name: Campaign
+      url: /campaign/
+      weight: 6
+      params:
+        icon: hash
+    - identifier: timeline
+      name: Timeline
+      url: /timeline/
+      weight: 7
+      params:
+        icon: date
     - identifier: calendar
       name: Calendar
       url: /calendar/
