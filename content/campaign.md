@@ -50,7 +50,7 @@ The interludes function like GTA V's character switches or The Wire's institutio
 
 ## Act I: Forged in Steel
 
-**Gary, Indiana — 1991**
+**Gary, Indiana — 1990**
 
 *The Wire Season 1. Street-level. Learning the rules.*
 
@@ -76,7 +76,7 @@ A supernatural crisis at The Torch. The magus John Wierus sends a spirit called 
 
 ## Act II: Ashes to Ashes
 
-**Chicago — January 1992**
+**Chicago — January 1991**
 
 *The Wire Season 2. The machine is bigger than you thought.*
 
@@ -98,7 +98,7 @@ Chicago by Night opens its encounter tables: 20 themes, 10 encounters each, keye
 
 ## Act III: Blood Bond
 
-**Chicago — Spring through Fall 1992**
+**Chicago — Spring through Fall 1991**
 
 *The Wire Season 3. New players. The game changes.*
 
@@ -129,7 +129,7 @@ Six standalone adventures from the Succubus Club supplement slot between Blood B
 
 ## Interlude S: The Sword of Caine
 
-**Montreal, then Detroit — Winter 1992-1993**
+**Montreal, then Detroit — Winter 1991-1992**
 
 *The Sopranos. The enemy is also a family, also dysfunctional, also fascinating.*
 
@@ -149,7 +149,7 @@ Meanwhile, Chuc Luc's pipeline needs a corridor through Detroit, on the Camarill
 
 ## Act IV: Psychomachia
 
-**Milwaukee, Wisconsin — Spring 1993**
+**Milwaukee, Wisconsin — Spring 1992**
 
 *The Wire Season 4. The institution is rotten from the top down. Also: psychological horror.*
 
@@ -173,7 +173,7 @@ The Mask killed their own Prince. The PCs are now feared across the upper Midwes
 
 ## Interlude W: Rite of Passage
 
-**New York City and northern Canada — Summer 1993**
+**New York City and northern Canada — Summer 1992**
 
 *Stand By Me meets Apocalypse Now. Coming-of-age in a dying world.*
 
@@ -191,7 +191,7 @@ They become adults. The fire of Gaia claims them. And they know what the enemy l
 
 ## Act V: Under a Blood Red Moon
 
-**Chicago — October 1993**
+**Chicago — October 1992**
 
 *The Wire Season 5 meets Ragnarok. All the pieces matter.*
 

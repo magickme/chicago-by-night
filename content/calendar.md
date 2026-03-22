@@ -197,6 +197,51 @@ description: "Timeline of Forged in Steel scenes — Darius and Sable's chronicl
 </div>
 </div>
 
+<div class="calendar-entry sable" data-pc="sable" data-date="1990-01-12">
+<div>
+<span class="calendar-badge sable">SABLE</span>
+<div class="calendar-date">January 12, 1990 — 10:00 PM</div>
+<div class="calendar-title"><a href="/posts/the-mirror/" class="calendar-link">The Mirror</a></div>
+<p style="margin: 0; color: #666; font-size: 1.05rem; line-height: 1.5;">Allicia's studio on Fifth Avenue. Pointe shoes on a barre. The woman who came before.</p>
+</div>
+</div>
+
+<div class="calendar-entry sable" data-pc="sable" data-date="1990-01-13">
+<div>
+<span class="calendar-badge sable">SABLE</span>
+<div class="calendar-date">January 13, 1990 — 11:50 PM</div>
+<div class="calendar-title"><a href="/posts/the-oasis/" class="calendar-link">The Oasis</a></div>
+<p style="margin: 0; color: #666; font-size: 1.05rem; line-height: 1.5;">The strip club on 75th Street. A meeting with Allicia. A warning about blood and love and the distance between them.</p>
+</div>
+</div>
+
+<div class="calendar-entry darius" data-pc="darius" data-date="1990-01-17">
+<div>
+<span class="calendar-badge darius">DARIUS</span>
+<div class="calendar-date">January 17, 1990 — 10:00 PM</div>
+<div class="calendar-title"><a href="/posts/chapter-06-aftermath/" class="calendar-link">Chapter 06: Aftermath</a></div>
+<p style="margin: 0; color: #666; font-size: 1.05rem; line-height: 1.5;">A detective's memory erased. A gift delivered. Two new faces planted. The architecture holds.</p>
+</div>
+</div>
+
+<div class="calendar-entry darius" data-pc="darius" data-date="1990-02-02">
+<div>
+<span class="calendar-badge darius">DARIUS</span> <span class="calendar-badge sable">SABLE</span>
+<div class="calendar-date">February 2, 1990 — 9:00 PM</div>
+<div class="calendar-title"><a href="/posts/february-elysium/" class="calendar-link">Elysium (Convergence)</a></div>
+<p style="margin: 0; color: #666; font-size: 1.05rem; line-height: 1.5;">February court at Modius's mansion. Two neonates meet for the first time. The game changes.</p>
+</div>
+</div>
+
+<div class="calendar-entry darius" data-pc="darius" data-date="1990-06-15">
+<div>
+<span class="calendar-badge darius">DARIUS</span> <span class="calendar-badge sable">SABLE</span>
+<div class="calendar-date">February — June 1990</div>
+<div class="calendar-title"><a href="/posts/bluebooking-the-distance/" class="calendar-link">The Distance (Bluebooking)</a></div>
+<p style="margin: 0; color: #666; font-size: 1.05rem; line-height: 1.5;">Four months between scenes. Two neonates circle each other in a dying city. Neither blinks first.</p>
+</div>
+</div>
+
 </div>
 
 <script>

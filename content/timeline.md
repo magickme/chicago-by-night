@@ -1,7 +1,7 @@
 ---
 title: "Chronicle Timeline"
 url: "/timeline/"
-description: "The full campaign calendar — 1990 through 1993, act by act, month by month"
+description: "The full campaign calendar — 1989 through 1992, act by act, month by month"
 hidemeta: true
 ShowToc: true
 ---
@@ -10,7 +10,7 @@ Macro timeline for the full campaign. The [In-Game Calendar](/calendar/) tracks 
 
 ---
 
-## 1990 — Prelude
+## 1989 — Prelude
 
 | When | Event |
 |------|-------|
@@ -21,11 +21,11 @@ Macro timeline for the full campaign. The [In-Game Calendar](/calendar/) tracks 
 
 ---
 
-## 1991 — Act I: Forged in Steel (Gary)
+## 1990 — Act I: Forged in Steel (Gary)
 
-### December 31, 1990 — Campaign Start
+### December 31, 1989 — Campaign Start
 
-NYE going into 1991. First scenes. Both PCs active.
+NYE going into 1990. First scenes. Both PCs active.
 
 ### January
 
@@ -61,13 +61,13 @@ Pre-holiday tension. Modius begins planning his NYE party. Threat clocks should 
 
 *Nights: ~15 hours of darkness. Maximum operating time for a vampire.*
 
-### December 31, 1991 — BAPTISM BY FIRE
+### December 31, 1990 — BAPTISM BY FIRE
 
 The act break. Modius's mansion. The party. The letter. The mission to Chicago.
 
 ---
 
-## 1992 — Acts II & III (Chicago)
+## 1991 — Acts II & III (Chicago)
 
 ### January 1-7 — Ashes to Ashes
 
@@ -106,7 +106,7 @@ Settling into Chicago. Tremere PC joins the coterie. Side quests: Annabelle's Pa
 
 Slot in any order: Fundamental Differences, Death's Sweet Sting, Grand Elusion.
 
-**Meanwhile, in New Mexico** (August 1992): [Hell's Highway](/posts/hells-highway/) — Nefer-Hotep, a four-thousand-year-old Mummy, stops a demon building a highway to Egyptian Hell on I-40. A naming contest on Route 666.
+**Meanwhile, in New Mexico** (August 1987): [Hell's Highway](/posts/hells-highway/) — Nefer-Hotep, a four-thousand-year-old Mummy, stops a demon building a highway to Egyptian Hell on I-40. A naming contest on Route 666.
 
 ### October
 
@@ -116,20 +116,18 @@ Wind-down. Chuc Luc contacts Darius about Montreal.
 
 ---
 
-### November 1992 - February 1993 — Interlude S: The Sword of Caine
+### November 1991 - February 1992 — Interlude S: The Sword of Caine
 
 | Month | Events |
 |-------|--------|
 | November | Travel to Montreal. First Vaulderie. Coven dynamics. |
 | December | Montreal sandbox: pack raids, Fire Dance, Inquisition encounters. |
-| January 1993 | Detroit FOB establishment. Navigating the Camarilla/Sabbat border. |
+| January 1992 | Detroit FOB establishment. Navigating the Camarilla/Sabbat border. |
 | February | Bridge back to Camarilla territory. Intelligence delivered. |
-
-*Feb 26, 1993 — World Trade Center bombing. Federal security heightened. Hunter activity spikes.*
 
 ---
 
-## 1993 — Acts IV & V
+## 1992 — Acts IV & V
 
 ### March-June — Psychomachia (Milwaukee)
 
@@ -155,8 +153,6 @@ Switch to Garou PC.
 | July-August | Survival: Were-Bear, Icedagger's hunters, Pentex mine. |
 | August | Pentex assault. Narlthus confrontation. Black Spiral Dancers. |
 | Late August-September | Resolution. Rite completion. Return to New York. War talk. |
-
-**Moon phases** (for Garou Rite timing): Full Moons on Jul 3, Aug 2, Aug 31, Sep 30. Rite resolution works best around August 31.
 
 ### October — Under a Blood Red Moon (Chicago)
 
