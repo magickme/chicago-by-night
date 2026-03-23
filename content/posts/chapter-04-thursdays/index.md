@@ -3,7 +3,6 @@ title: "Darius Cole — Thursday, 11 January 1990, 9:30 PM"
 date: 1990-01-11T21:30:00
 tags: ["chapter", "darius", "vtm", "forged-in-steel", "gary"]
 description: "Darius drives to Telton Cemetery with a gift for a man who isn't home and finds a hunter instead."
-image: cover.webp
 ---
 
 *Telton Cemetery*

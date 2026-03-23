@@ -3,7 +3,6 @@ title: "Sable Price — Monday, 8 January 1990, 10:00 PM"
 date: 1990-01-08T22:00:00
 tags: ["chapter", "sable", "vtm", "forged-in-steel", "gary"]
 description: "A rumor about her sire. A prince who wants a pet. A dance studio that belongs to someone else."
-image: cover.webp
 ---
 
 *The Torch / Modius's Mansion / Fifth Avenue*

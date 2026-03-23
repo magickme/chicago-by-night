@@ -3,7 +3,6 @@ title: "Darius Cole — Wednesday, 17 January 1990, 10:00 PM"
 date: 1990-01-17T22:00:00
 tags: ["chapter", "darius", "vtm", "forged-in-steel", "gary"]
 description: "A detective with a notebook. A word in a parking lot. A painter who accepts gifts but not trust. A bar where nobody asks questions."
-image: cover.webp
 ---
 
 *West Side / The Horseshoe / Telton Cemetery / Kiefer's*

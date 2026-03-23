@@ -3,7 +3,6 @@ title: "Darius Cole — Friday, 5 January 1990, 10:15 PM"
 date: 1990-01-05T22:15:00
 tags: ["chapter", "darius", "vtm", "forged-in-steel", "gary"]
 description: "Darius comes to meet the bookie. The Malkavian is already there."
-image: cover.webp
 ---
 
 *Gary Exports Co., Dispatch Office*

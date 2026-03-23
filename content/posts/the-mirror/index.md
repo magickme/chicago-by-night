@@ -3,7 +3,6 @@ title: "Sable Price — Friday, 12 January 1990, 10:00 PM"
 date: 1990-01-12T22:00:00
 tags: ["chapter", "sable", "vtm", "forged-in-steel", "gary"]
 description: "A full tank of blood. A note from a dancer. A prince who wants a spy. A ghost in a black Lincoln."
-image: cover.webp
 ---
 
 *The Torch / Fifth Avenue / Modius's Mansion / The Oasis, 75th Street*

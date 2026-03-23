@@ -3,7 +3,6 @@ title: "Sable Price — Saturday, 13 January 1990, 11:50 PM"
 date: 1990-01-13T23:50:00
 tags: ["chapter", "sable", "vtm", "forged-in-steel", "gary"]
 description: "A strip club on 75th Street. A woman who doesn't dance anymore. A warning about the prince's wine."
-image: cover.webp
 ---
 
 *The Oasis, 75th Street / Modius's Mansion*

@@ -3,7 +3,6 @@ title: "Sable Price — Thursday, 4 January 1990, 9:00 PM"
 date: 1990-01-04T21:00:00
 tags: ["chapter", "sable", "vtm", "forged-in-steel", "gary"]
 description: "Sable goes looking for a place to sleep. A man with a van finds her first."
-image: cover.webp
 ---
 
 *Tolleston*
