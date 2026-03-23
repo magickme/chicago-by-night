@@ -32,8 +32,8 @@ Five numbered acts and two interludes, arranged in escalating scope:
 | II | Chicago | Ashes to Ashes | Camarilla hierarchy, manipulation |
 | III | Chicago | Blood Bond + Succubus Club | Sabbat introduction, moral compromise |
 | S | Montreal/Detroit | Montreal by Night + Guide to Sabbat | Enemy perspective, deep cover |
-| IV | Milwaukee | Milwaukee by Night / Psychomachia | Institutional collapse, Lupines |
-| W | New York/Canada | Rite of Passage + Rage Across NY | Garou perspective, cosmic stakes |
+| IV | Milwaukee | Milwaukee by Night / Psychomachia + The Dark Tower (Kindred) | Institutional collapse, Lupines |
+| W | New York/Canada | Rite of Passage + Rage Across NY + The Dark Tower (Garou) | Garou perspective, cosmic stakes |
 | V | Chicago | Under a Blood Red Moon | Total war, convergence |
 
 Each act contains three mission types:
@@ -159,6 +159,10 @@ Milwaukee is Gary if Gary had walls. Surrounded by Lupine territory, cut off fro
 
 Psychomachia (Latin: "conflict of the soul") forces every scene through a Humanity check. The hallucination sequences are the most brutal content in 1st Edition VTM.
 
+### Side Quest: The Dark Tower (Kindred Half)
+
+A crossover adventure from White Wolf Magazine #32. An ancient Kindred named Beowulf has been hiding near Tierburg, Indiana for 300 years. His Beast escaped during torpor and possessed a mortal. The coterie travels from Milwaukee to Tierburg, where a Fianna werewolf family runs the town. The Kindred must survive a Lupine hunt, find Beowulf's Childe, and confront a feral ancient on a sandstone ridge. Introduces Garou as a community — not just a military threat — before the Rite of Passage perspective switch. The Garou half is replayed from the opposite perspective during Interlude W.
+
 ### Main Quest: Psychomachia
 
 The PCs form "The Mask" at the Prince's command. They investigate an Anarch street war, discover the largest gang is secretly controlled by the Prince, follow clues through crime scenes, encounter a mortal hunter carrying a flamethrower who is immune to every Vampire mental power, and get ambushed by Lupines in the suburbs.
@@ -180,6 +184,10 @@ The Mask killed their own Prince. The PCs are now feared across the upper Midwes
 Shift to a Garou (Werewolf) PC. A pup of the Sept of the Green, Central Park's multi-tribal Garou sept. The perspective shift matters: Under a Blood Red Moon is a three-faction war, and having lived inside the Garou's world makes the finale feel earned.
 
 The tonal shift is extreme. Kindred politics are cold, social, verbal. Garou life is hot, physical, spiritual. Where Darius reads rooms and manages perceptions, the Garou PC fights Wyrm-tainted bears, runs from assassins through frozen Canadian forests, and discovers that a strip-mining corporation called Pentex is excavating an imprisoned cosmic horror from a meteorite crater.
+
+### Side Quest: The Dark Tower (Garou Half)
+
+The same Tierburg adventure, replayed from the Garou perspective. The Garou PC investigates the Bemil cannibalism case, discovers a Kindred Beast (not a Wendigo), and must decide whether to help the vampires or destroy them. The Vollmond family bridges both halves. Same adventure, different eyes — the structural thesis of the whole campaign.
 
 ### Main Quest: Rite of Passage
 
