@@ -260,6 +260,87 @@ description: "Timeline of Forged in Steel scenes — Darius and Sable's chronicl
 </div>
 </div>
 
+<div class="calendar-entry darius" data-pc="darius" data-date="1990-06-17">
+<div>
+<span class="calendar-badge darius">DARIUS</span> <span class="calendar-badge sable">SABLE</span>
+<div class="calendar-date">June 17, 1990 — 9:00 PM</div>
+<div class="calendar-title"><a href="/posts/blood-at-dawn-03/" class="calendar-link">Blood at Dawn: Telling Allicia</a></div>
+<p style="margin: 0; color: #666; font-size: 1.05rem; line-height: 1.5;">A photograph face-down. A prince who wants the full story. A snow globe on a nightstand.</p>
+</div>
+</div>
+
+<div class="calendar-entry darius" data-pc="darius" data-date="1990-06-18">
+<div>
+<span class="calendar-badge darius">DARIUS</span>
+<div class="calendar-date">June 18, 1990 — 9:00 PM</div>
+<div class="calendar-title"><a href="/posts/blood-at-dawn-04/" class="calendar-link">Blood at Dawn: The Debrief</a></div>
+<p style="margin: 0; color: #666; font-size: 1.05rem; line-height: 1.5;">A prince who catches lies. A name given up. A brooch that isn't in the car.</p>
+</div>
+</div>
+
+<div class="calendar-entry darius" data-pc="darius" data-date="1990-06-19">
+<div>
+<span class="calendar-badge darius">DARIUS</span>
+<div class="calendar-date">June 19, 1990 — 11:00 PM</div>
+<div class="calendar-title"><a href="/posts/blood-at-dawn-05/" class="calendar-link">Blood at Dawn: The Malkavian</a></div>
+<p style="margin: 0; color: #666; font-size: 1.05rem; line-height: 1.5;">The brooch delivered. A Malkavian found. Five personalities, one testimony, and an FBI card in a trumpet case.</p>
+</div>
+</div>
+
+<div class="calendar-entry darius" data-pc="darius" data-date="1990-06-23">
+<div>
+<span class="calendar-badge darius">DARIUS</span> <span class="calendar-badge sable">SABLE</span>
+<div class="calendar-date">June 23, 1990 — 9:00 PM</div>
+<div class="calendar-title"><a href="/posts/scorched-earth/" class="calendar-link">Scorched Earth</a></div>
+<p style="margin: 0; color: #666; font-size: 1.05rem; line-height: 1.5;">The Torch is for sale. A shell company, a drowning owner, and a prince who needs a broker.</p>
+</div>
+</div>
+
+<div class="calendar-entry darius" data-pc="darius" data-date="1990-06-25">
+<div>
+<span class="calendar-badge darius">DARIUS</span>
+<div class="calendar-date">June 25, 1990 — 11:00 PM</div>
+<div class="calendar-title"><a href="/posts/the-lucian-approach/" class="calendar-link">The Lucian Approach</a></div>
+<p style="margin: 0; color: #666; font-size: 1.05rem; line-height: 1.5;">A cinderblock office. A mortgage folder. A six-hundred-year-old Gangrel who reads liars the way jewelers read stones.</p>
+</div>
+</div>
+
+<div class="calendar-entry sable" data-pc="sable" data-date="1990-06-27">
+<div>
+<span class="calendar-badge sable">SABLE</span>
+<div class="calendar-date">June 27, 1990 — 10:00 PM</div>
+<div class="calendar-title"><a href="/posts/the-alliance/" class="calendar-link">The Alliance</a></div>
+<p style="margin: 0; color: #666; font-size: 1.05rem; line-height: 1.5;">A side entrance. A silk robe. Five words across six months. A woman who learned the word no.</p>
+</div>
+</div>
+
+<div class="calendar-entry darius" data-pc="darius" data-date="1990-06-28">
+<div>
+<span class="calendar-badge darius">DARIUS</span>
+<div class="calendar-date">June 28, 1990 — 11:45 PM</div>
+<div class="calendar-title"><a href="/posts/the-ghost-lane/" class="calendar-link">The Ghost Lane</a></div>
+<p style="margin: 0; color: #666; font-size: 1.05rem; line-height: 1.5;">A sire's voice with no accent. A warehouse with two chairs. A tug with no name. A bar tab of $800 a month.</p>
+</div>
+</div>
+
+<div class="calendar-entry sable" data-pc="sable" data-date="1990-06-29">
+<div>
+<span class="calendar-badge sable">SABLE</span> <span class="calendar-badge darius">DARIUS</span>
+<div class="calendar-date">June 29, 1990 — 9:00 PM</div>
+<div class="calendar-title"><a href="/posts/friday-court/" class="calendar-link">Friday Court</a></div>
+<p style="margin: 0; color: #666; font-size: 1.05rem; line-height: 1.5;">A piano lid closed. A prince who doesn't look at his childe. A lie that costs willpower. Thirty feet and eighty years.</p>
+</div>
+</div>
+
+<div class="calendar-entry sable" data-pc="sable" data-date="1990-07-02">
+<div>
+<span class="calendar-badge sable">SABLE</span>
+<div class="calendar-date">July 2, 1990 — 9:30 PM</div>
+<div class="calendar-title"><a href="/posts/the-report/" class="calendar-link">The Report</a></div>
+<p style="margin: 0; color: #666; font-size: 1.05rem; line-height: 1.5;">A letter with no name. A drawing room with ears. A lake at two in the morning. Seven words.</p>
+</div>
+</div>
+
 </div>
 
 <script>
