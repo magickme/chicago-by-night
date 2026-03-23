@@ -242,6 +242,24 @@ description: "Timeline of Forged in Steel scenes — Darius and Sable's chronicl
 </div>
 </div>
 
+<div class="calendar-entry darius" data-pc="darius" data-date="1990-06-16">
+<div>
+<span class="calendar-badge darius">DARIUS</span> <span class="calendar-badge sable">SABLE</span>
+<div class="calendar-date">June 16, 1990 — 10:47 PM</div>
+<div class="calendar-title"><a href="/posts/blood-at-dawn-01/" class="calendar-link">Blood at Dawn: The Torch</a></div>
+<p style="margin: 0; color: #666; font-size: 1.05rem; line-height: 1.5;">The lights go out. Something scratches its way out. A dead boy says a woman's name.</p>
+</div>
+</div>
+
+<div class="calendar-entry darius" data-pc="darius" data-date="1990-06-17">
+<div>
+<span class="calendar-badge darius">DARIUS</span> <span class="calendar-badge sable">SABLE</span>
+<div class="calendar-date">June 17, 1990 — 1:30 AM</div>
+<div class="calendar-title"><a href="/posts/blood-at-dawn-02/" class="calendar-link">Blood at Dawn: The Door Closes</a></div>
+<p style="margin: 0; color: #666; font-size: 1.05rem; line-height: 1.5;">A federal sedan. A sorcerer's kitchen. A spirit bag burning in the Wasteland. The coterie forms.</p>
+</div>
+</div>
+
 </div>
 
 <script>
@@ -270,7 +288,7 @@ function filterCalendar(pc) {
 
 ## Overview
 
-The chronicle began on **New Year's Eve 1989** and continues into **January 1990**. Each scene is timestamped and linked to the full narrative posts.
+The chronicle began on **New Year's Eve 1989** and continues through **summer 1990**. Each scene is timestamped and linked to the full narrative posts.
 
 **Darius Cole** (Ventrue, male) — scenes marked in **blue**
 **Sable Price** (Toreador, female) — scenes marked in **blood red**
