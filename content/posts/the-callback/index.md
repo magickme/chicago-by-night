@@ -2,6 +2,7 @@
 title: "The Callback — Saturday, 14 July 1990, 9:30 PM"
 date: 1990-07-14T21:30:00
 tags: ["forged-in-steel", "darius", "vtm", "gary"]
+categories: ["Chapter 6 — The Pipeline"]
 description: "A federal agent two nights early. A ghoul who handled it. A payphone and a sire's voice. A man who trusts him and a sire who would kill that man."
 ---
 

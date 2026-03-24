@@ -2,6 +2,7 @@
 title: "Nefer-Hotep — Hell's Highway"
 date: 1987-08-15T22:00:00
 tags: ["chapter", "nefer-hotep", "mummy", "hells-highway", "new-mexico"]
+categories: ["Hell's Highway"]
 description: "A naming contest on a highway to Hell. A Mummy: The Resurrection one-shot set on I-40, New Mexico."
 ---
 

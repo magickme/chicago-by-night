@@ -2,6 +2,7 @@
 title: "The Fixer — Tuesday, 17 July 1990, 10:30 PM"
 date: 1990-07-17T22:30:00
 tags: ["forged-in-steel", "darius", "vtm", "gary"]
+categories: ["Chapter 6 — The Pipeline"]
 description: "Three layers, three operators, one building. The mortgage. The night. The FBI file. And a handshake that wasn't a prince's."
 ---
 

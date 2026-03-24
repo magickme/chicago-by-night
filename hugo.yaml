@@ -48,11 +48,20 @@ params:
       enabled: false
 
   widgets:
-    homepage: []
-    page: []
+    homepage:
+      - type: categories
+    page:
+      - type: categories
+      - type: toc
 
 menu:
   main:
+    - identifier: reading-order
+      name: Reading Order
+      url: /reading-order/
+      weight: 2
+      params:
+        icon: list
     - identifier: campaign
       name: Campaign
       url: /campaign/

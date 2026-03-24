@@ -2,6 +2,7 @@
 title: "The Assumption — Thursday, 12 July 1990, 9:00 PM"
 date: 1990-07-12T21:00:00
 tags: ["forged-in-steel", "darius", "vtm", "gary"]
+categories: ["Chapter 5 — The Deals"]
 description: "A signature. A federal agent two stools down. A prince's handshake. $800 a month."
 ---
 

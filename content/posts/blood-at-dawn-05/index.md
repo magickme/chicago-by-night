@@ -2,6 +2,7 @@
 title: "Blood at Dawn — Tuesday, 19 June 1990, 11:00 PM"
 date: 1990-06-19T23:00:00
 tags: ["blood-at-dawn", "darius", "vtm", "forged-in-steel", "gary"]
+categories: ["Chapter 3 — Blood at Dawn"]
 description: "The brooch delivered. A Malkavian found. Five personalities, one testimony, and an FBI card in a trumpet case."
 ---
 

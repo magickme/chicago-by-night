@@ -2,6 +2,7 @@
 title: "Sable Price — Monday, 8 January 1990, 10:00 PM"
 date: 1990-01-08T22:00:00
 tags: ["chapter", "sable", "vtm", "forged-in-steel", "gary"]
+categories: ["Chapter 1 — Gary Sandbox"]
 description: "A rumor about her sire. A prince who wants a pet. A dance studio that belongs to someone else."
 ---
 

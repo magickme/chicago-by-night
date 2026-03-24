@@ -2,6 +2,7 @@
 title: "The Alliance — Wednesday, 27 June 1990, 10:00 PM"
 date: 1990-06-27T22:00:00
 tags: ["forged-in-steel", "sable", "vtm", "gary"]
+categories: ["Chapter 4 — The Alliance"]
 description: "A side entrance. A silk robe. Five words across six months. A woman who learned the word no."
 ---
 

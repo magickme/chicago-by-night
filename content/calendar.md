@@ -341,6 +341,15 @@ description: "Timeline of Forged in Steel scenes — Darius and Sable's chronicl
 </div>
 </div>
 
+<div class="calendar-entry darius" data-pc="darius" data-date="1990-07-12">
+<div>
+<span class="calendar-badge darius">DARIUS</span>
+<div class="calendar-date">July 12, 1990 — 9:00 PM</div>
+<div class="calendar-title"><a href="/posts/the-assumption/" class="calendar-link">The Assumption</a></div>
+<p style="margin: 0; color: #666; font-size: 1.05rem; line-height: 1.5;">A signature. A federal agent two stools down. A prince's handshake. $800 a month.</p>
+</div>
+</div>
+
 </div>
 
 <script>
