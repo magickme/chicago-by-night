@@ -12,25 +12,27 @@ menu:
 
 <style>
 .clock-grid { display: grid; grid-template-columns: 1fr; gap: 2rem; margin: 2rem 0; }
-.clock-card { border: 2px solid #d4d4d4; border-radius: 12px; padding: 1.5rem 1.75rem; background: #fafafa; }
+.clock-card { border: 2px solid #d4d4d4; border-radius: 12px; padding: 2rem; background: #fafafa; font-size: 18px !important; }
+.clock-card * { font-size: inherit; }
 .clock-card.critical { border-color: #dc2626; border-width: 3px; background: #fef2f2; }
 .clock-card.keyed { border-color: #d97706; border-width: 3px; background: #fffbeb; }
 .clock-card.closed { border-color: #a8a29e; background: #f5f5f4; opacity: 0.5; }
 .clock-card.complete { border-color: #16a34a; border-width: 3px; background: #f0fdf4; }
-.clock-name { font-weight: 700; font-size: 1.4rem; margin-bottom: 0.5rem; }
-.clock-pips { font-size: 3rem; letter-spacing: 0.3rem; margin: 0.5rem 0; font-family: monospace; line-height: 1.2; }
-.pip-filled { color: #dc2626; }
-.pip-empty { color: #d4d4d4; }
-.pip-filled.green { color: #16a34a; }
-.pip-filled.amber { color: #d97706; }
-.pip-filled.blue { color: #2563eb; }
-.clock-status { font-size: 1rem; color: #57534e; margin-top: 0.5rem; line-height: 1.5; }
-.clock-badge { display: inline-block; font-size: 0.75rem; font-weight: 700; text-transform: uppercase; padding: 0.2rem 0.6rem; border-radius: 4px; margin-left: 0.5rem; vertical-align: middle; }
-.badge-critical { background: #dc2626; color: white; }
-.badge-keyed { background: #d97706; color: white; }
-.badge-closed { background: #a8a29e; color: white; }
-.badge-complete { background: #16a34a; color: white; }
-.section-label { font-size: 1rem; text-transform: uppercase; letter-spacing: 0.12rem; color: #78716c; font-weight: 700; margin: 3rem 0 1rem; padding-bottom: 0.5rem; border-bottom: 2px solid #e7e5e4; }
+.clock-name { font-weight: 700 !important; font-size: 24px !important; margin-bottom: 0.5rem; }
+.clock-pips { font-size: 56px !important; letter-spacing: 0.4rem; margin: 0.75rem 0; font-family: monospace; line-height: 1.2; }
+.pip-filled { color: #dc2626 !important; }
+.pip-empty { color: #d4d4d4 !important; }
+.pip-filled.green { color: #16a34a !important; }
+.pip-filled.amber { color: #d97706 !important; }
+.pip-filled.blue { color: #2563eb !important; }
+.clock-status { font-size: 16px !important; color: #57534e !important; margin-top: 0.75rem; line-height: 1.6; }
+.clock-status strong { color: #1c1917 !important; }
+.clock-badge { display: inline-block; font-size: 13px !important; font-weight: 700; text-transform: uppercase; padding: 0.25rem 0.7rem; border-radius: 4px; margin-left: 0.5rem; vertical-align: middle; letter-spacing: 0.05rem; }
+.badge-critical { background: #dc2626; color: white !important; }
+.badge-keyed { background: #d97706; color: white !important; }
+.badge-closed { background: #a8a29e; color: white !important; }
+.badge-complete { background: #16a34a; color: white !important; }
+.section-label { font-size: 18px !important; text-transform: uppercase; letter-spacing: 0.12rem; color: #78716c !important; font-weight: 700; margin: 3rem 0 1rem; padding-bottom: 0.5rem; border-bottom: 2px solid #e7e5e4; }
 </style>
 
 *Gary, Indiana. Updated: **July 17, 1990.** All clocks /6. At 4/6, local heat spills into Masquerade. At 6/6, active crisis.*
