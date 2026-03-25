@@ -61,7 +61,7 @@ menu:
       url: /reading-order/
       weight: 2
       params:
-        icon: list
+        icon: hash
     - identifier: campaign
       name: Campaign
       url: /campaign/

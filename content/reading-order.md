@@ -7,7 +7,7 @@ menu:
   main:
     weight: 3
     params:
-      icon: "list"
+      icon: "hash"
 ---
 
 All scenes from **Act I: Forged in Steel** in chronological order. Darius scenes in **blue**. Sable scenes in **red**. Joint scenes in **purple**.
