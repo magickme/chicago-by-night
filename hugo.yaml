@@ -86,12 +86,6 @@ menu:
       weight: 28
       params:
         icon: link
-    - identifier: archive
-      name: Archive
-      url: /archives/
-      weight: 30
-      params:
-        icon: archives
 
 outputs:
   home:

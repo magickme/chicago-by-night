@@ -3,11 +3,6 @@ title: "Threat Clocks"
 description: "Live pressure board for the Gary sandbox. Every clock ticking toward crisis."
 layout: "page"
 slug: "clocks"
-menu:
-  main:
-    weight: 6
-    params:
-      icon: "clock"
 ---
 
 <style>

@@ -3,11 +3,6 @@ title: "Boon Ledger"
 description: "Who owes what to whom. The prestation economy of Gary, Indiana."
 layout: "page"
 slug: "boons"
-menu:
-  main:
-    weight: 9
-    params:
-      icon: "toggle-left"
 ---
 
 <style>

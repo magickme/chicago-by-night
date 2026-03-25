@@ -3,11 +3,6 @@ title: "Quest Log"
 description: "Every thread in Gary. Main quests, side quests, and the jobs nobody asked for."
 layout: "page"
 slug: "quests"
-menu:
-  main:
-    weight: 4
-    params:
-      icon: "tag"
 ---
 
 <style>
