@@ -83,15 +83,6 @@ menu:
 <div class="quest-objective"><strong>Blood sharing violation undiscovered.</strong> Sable feeding Allicia in secret. False reports to Modius. One discovery = crisis.<br><strong>Endgame:</strong> Break free, submit, or find leverage before Baptism by Fire.</div>
 </div>
 
-<div class="quest-card locked">
-<div class="quest-header">
-<span class="quest-name">Baptism by Fire</span>
-<span class="quest-pc pc-both">Both PCs</span>
-<span class="quest-status status-locked">Locked — NYE 1990</span>
-</div>
-<div class="quest-desc">Modius's New Year's Eve party. The culminating event. Every thread the sandbox year has built converges at the mansion. The coterie leaves Gary after this. Everything changes.</div>
-<div class="quest-objective"><strong>Scripted beats:</strong> Allicia lures a PC toward Blood Bond. Juggler crashes with mortals, reveals Evelyn. Danov says things he shouldn't know. Dane watches from outside. Annabelle arrives from Chicago with Lodin's letter. Modius humiliated. The act break.</div>
-</div>
 
 </div>
 
@@ -193,24 +184,6 @@ menu:
 <div class="quest-section">
 <div class="quest-section-title optional">Optional / Discovered</div>
 
-<div class="quest-card optional-active">
-<div class="quest-header">
-<span class="quest-name">Juggler's Secret</span>
-<span class="quest-pc pc-darius">Darius</span>
-<span class="quest-status status-hidden">Hidden</span>
-</div>
-<div class="quest-desc">Juggler has an unauthorized childe: Evelyn. Reckless. Nobody in court knows. This detonates at Baptism by Fire.</div>
-<div class="quest-objective">Juggler met (D018). Evelyn not mentioned. The secret is one scene away from discovery.</div>
-</div>
-
-<div class="quest-card optional-active">
-<div class="quest-header">
-<span class="quest-name">Claudette's Diablerie Plot</span>
-<span class="quest-pc pc-both">Both PCs</span>
-<span class="quest-status status-hidden">Hidden</span>
-</div>
-<div class="quest-desc">Claudette was exposed and delivered to Lucian. But the diablerie thread she represented may not be dead. Someone wanted elder blood.</div>
-</div>
 
 <div class="quest-card optional-active">
 <div class="quest-header">
