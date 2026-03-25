@@ -5,7 +5,7 @@ layout: "page"
 slug: "reading-order"
 menu:
   main:
-    weight: 3
+    weight: 2
     params:
       icon: "hash"
 ---

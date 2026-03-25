@@ -59,31 +59,37 @@ menu:
     - identifier: campaign
       name: Campaign
       url: /campaign/
-      weight: 6
+      weight: 20
       params:
         icon: hash
     - identifier: characters
       name: Characters
       url: /characters/
-      weight: 10
+      weight: 22
       params:
         icon: user
     - identifier: world
       name: World
       url: /world/
-      weight: 12
+      weight: 24
       params:
         icon: categories
+    - identifier: guide
+      name: Method
+      url: /guide/
+      weight: 26
+      params:
+        icon: search
     - identifier: about
       name: About
       url: /about/
-      weight: 14
+      weight: 28
       params:
         icon: link
     - identifier: archive
       name: Archive
       url: /archives/
-      weight: 15
+      weight: 30
       params:
         icon: archives
 

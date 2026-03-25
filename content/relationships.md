@@ -5,7 +5,7 @@ layout: "page"
 slug: "relationships"
 menu:
   main:
-    weight: 11
+    weight: 10
     params:
       icon: "infinity"
 ---

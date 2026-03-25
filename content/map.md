@@ -5,7 +5,7 @@ layout: "page"
 slug: "map"
 menu:
   main:
-    weight: 5
+    weight: 8
     params:
       icon: "home"
 ---

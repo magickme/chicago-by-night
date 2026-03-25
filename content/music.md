@@ -5,7 +5,7 @@ layout: "page"
 slug: "music"
 menu:
   main:
-    weight: 13
+    weight: 12
     params:
       icon: "rss"
 ---
