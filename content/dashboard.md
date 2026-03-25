@@ -82,7 +82,7 @@ menu:
 .dash-section.purple { color: #5b21b6; border-color: #a78bfa; }
 </style>
 
-*Gary, Indiana. Updated: **July 19, 1990.** See also: [Territory Map](/map/) | [Relationship Maps](/relationships/)*
+*Gary, Indiana. Updated: **July 20, 1990.** See also: [Territory Map](/map/) | [Relationship Maps](/relationships/)*
 
 ---
 
@@ -93,10 +93,10 @@ menu:
 <div class="dash-section red">Critical</div>
 <div class="clock-grid">
 
-<div class="clock-card critical">
-<div class="clock-name">Modius Leash — Sable <span class="clock-badge badge-critical">CRITICAL</span></div>
-<div class="clock-pips"><span class="pip-filled">&#9632;&#9632;&#9632;&#9632;&#9632;</span><span class="pip-empty">&#9632;</span></div>
-<div class="clock-status"><strong>5/6</strong> — Blood sharing violation undiscovered. Drawing room surveillance. One more tick = property, suspect, or sacrifice.</div>
+<div class="clock-card">
+<div class="clock-name">Modius Leash — Sable</div>
+<div class="clock-pips"><span class="pip-filled">&#9632;&#9632;&#9632;&#9632;</span><span class="pip-empty">&#9632;&#9632;</span></div>
+<div class="clock-status"><strong>4/6</strong> — EASED. Competent FBI report. Chicago scrutiny revealed. "More useful than I expected." Still a leash, but longer.</div>
 </div>
 
 <div class="clock-card critical">
@@ -258,9 +258,9 @@ menu:
 <div class="quest-desc">Ray burns Polk & 13th. Destroy the trafficking evidence.</div>
 </div>
 
-<div class="quest-card optional-active">
-<div class="quest-header"><span class="quest-name">Big Six</span><span class="quest-pc pc-sable">Sable</span><span class="quest-status status-active">Background</span></div>
-<div class="quest-desc">GD lieutenant. Possessive. Two near-misses at the Torch.</div>
+<div class="quest-card done">
+<div class="quest-header"><span class="quest-name">Big Six</span><span class="quest-pc pc-sable">Sable</span><span class="quest-status status-done">Resolved</span></div>
+<div class="quest-desc">Drained to death at Kendrick's Auto. Crew ghouled. Haven secured. The predator became the prey.</div>
 </div>
 
 <div class="quest-card optional-active">
@@ -359,4 +359,4 @@ menu:
 
 ---
 
-*Dashboard reflects game state as of July 19, 1990. Updated during scene bookkeeping.*
+*Dashboard reflects game state as of July 20, 1990. Updated during scene bookkeeping.*

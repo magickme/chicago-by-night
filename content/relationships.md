@@ -10,7 +10,7 @@ menu:
       icon: "infinity"
 ---
 
-*Current as of July 17, 1990. Solid lines = active relationships. Dashed lines = hidden, latent, or threatened.*
+*Current as of July 20, 1990. Solid lines = active relationships. Dashed lines = hidden, latent, or threatened.*
 
 ---
 
@@ -55,7 +55,7 @@ graph TD
     %% Prince's Court relationships
     Modius -->|"sire — childe<br>freezing out"| Allicia
     Modius -->|"trusts — handshake"| Darius
-    Modius -->|"spy assignment<br>leash 5/6"| Sable
+    Modius -->|"spy assignment<br>leash 4/6"| Sable
     Victor -->|"serves"| Modius
 
     %% Allicia-Sable alliance
@@ -127,8 +127,8 @@ graph LR
     subgraph KINDRED["Kindred"]
         Modius["Modius +2<br><i>Prince — trusts</i>"]
         Juggler["Juggler +2<br><i>Torch partner</i>"]
-        Lucian["Lucian +1<br><i>Docks — cautious</i>"]
-        Danov["Danov 0<br><i>Info broker</i>"]
+        Lucian["Lucian +2<br><i>Docks — deal struck</i>"]
+        Danov["Danov +1<br><i>Info broker — paper deal</i>"]
     end
 
     subgraph SIRE["The Sire"]
@@ -208,11 +208,16 @@ graph LR
         Sharon["Sharon -4<br><i>Presence 5 — vendetta 1/6</i>"]
     end
 
+    subgraph GHOULS["Kendrick's Auto — Secret Haven"]
+        DeShawn["DeShawn<br><i>Soldier — Bond Step 1</i>"]
+        LittlePete["Little Pete<br><i>19 — being worked</i>"]
+        Coop["Coop<br><i>Driver — Bond Step 1</i>"]
+    end
+
     subgraph MORTALWORLD["Mortal World"]
         Denise["Denise Price 0<br><i>Mother — found the number</i>"]
-        BigSix["Big Six 0<br><i>GD lieutenant — possessive</i>"]
-        Keisha["Keisha +2<br><i>16 — rescued — at studio</i>"]
-        Amy["Amy +1<br><i>~15 — rescued — not talking</i>"]
+        Keisha["Keisha<br><i>PLACED — Englewood</i>"]
+        Amy["Amy<br><i>PLACED — Englewood</i>"]
     end
 
     subgraph COTERIE_S["Coterie"]
@@ -222,15 +227,17 @@ graph LR
     %% Connections
     Sable -->|"protecting — feeding"| Allicia
     Allicia -.->|"Blood Bond Step 1"| Sable
-    Modius -->|"spy assignment<br>leash 5/6"| Sable
+    Sable -->|"domitor"| DeShawn
+    Sable -->|"domitor — primary target"| LittlePete
+    Sable -->|"domitor"| Coop
+    Modius -->|"spy assignment<br>leash 4/6"| Sable
     Sable -->|"false reports"| Modius
     Victor -.->|"monitors"| Sable
     Michael -.->|"absent sire"| Sable
     Sharon -.->|"vendetta — letter to Denise?"| Sable
     Denise -.->|"called the studio"| Sable
-    BigSix -.->|"possessive — mortal past"| Sable
-    Sable -->|"sheltering"| Keisha
-    Sable -->|"sheltering"| Amy
+    Sable -.->|"placed"| Keisha
+    Sable -.->|"placed"| Amy
     Sable <-->|"coterie"| Darius
 
     %% Styling
@@ -245,12 +252,14 @@ graph LR
     class Allicia ally
     class Modius,Victor court
     class Sharon,Michael threat
-    class Denise,BigSix,Keisha,Amy mortal
+    classDef ghouled fill:#064e3b,stroke:#022c22,color:#fff
+    class DeShawn,LittlePete,Coop ghouled
+    class Denise,Keisha,Amy mortal
     class Darius coterie
 ```
 
-**Clock Pressure:** Modius Leash 5/6 | Sharon Vendetta 1/6 | Humanity 5
+**Clock Pressure:** Modius Leash 4/6 | Sharon Vendetta 1/6 | West Side Heat 1/6 | Humanity 5
 
 ---
 
-*These maps reflect the state of play as of July 17, 1990 — midway through Act I. By Baptism by Fire (NYE 1990), every line on these charts will have been tested, broken, or redrawn.*
+*These maps reflect the state of play as of July 20, 1990 — midway through Act I. By Baptism by Fire (NYE 1990), every line on these charts will have been tested, broken, or redrawn.*
