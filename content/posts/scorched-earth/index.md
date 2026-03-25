@@ -1,6 +1,7 @@
 ---
 title: "Scorched Earth — Saturday, 23 June 1990, 9:00 PM"
 date: 1990-06-23T21:00:00
+lastmod: 2026-03-23
 tags: ["chapter", "darius", "sable", "vtm", "forged-in-steel", "gary"]
 categories: ["Chapter 4 — The Alliance"]
 description: "The Torch is for sale. A shell company, a drowning owner, and a prince who needs a broker."

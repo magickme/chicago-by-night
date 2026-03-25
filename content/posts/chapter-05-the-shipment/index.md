@@ -1,6 +1,7 @@
 ---
 title: "Darius Cole — Sunday, 14 January 1990, 11:30 PM"
 date: 1990-01-14T23:30:00
+lastmod: 2026-03-17
 tags: ["chapter", "darius", "vtm", "forged-in-steel", "gary"]
 categories: ["Chapter 1 — Gary Sandbox"]
 description: "January 14. The date from the clipboard. Darius comes to observe. What he finds is older than the city."

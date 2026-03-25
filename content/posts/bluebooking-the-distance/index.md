@@ -1,6 +1,7 @@
 ---
 title: "The Distance — February through June 1990"
 date: 1990-06-15T00:00:00
+lastmod: 2026-03-22
 tags: ["bluebooking", "darius", "sable", "vtm", "forged-in-steel", "gary"]
 categories: ["Interlude — The Distance"]
 description: "Four months between scenes. Two neonates circle each other in a dying city. Neither blinks first."

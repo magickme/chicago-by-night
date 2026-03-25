@@ -1,6 +1,7 @@
 ---
 title: "The Lucian Approach — Monday, 25 June 1990, 11:00 PM"
 date: 1990-06-25T23:00:00
+lastmod: 2026-03-23
 tags: ["forged-in-steel", "darius", "vtm", "gary"]
 categories: ["Chapter 5 — The Deals"]
 description: "A cinderblock office. A mortgage folder. A six-hundred-year-old Gangrel who reads liars the way jewelers read stones. A business card with no name."

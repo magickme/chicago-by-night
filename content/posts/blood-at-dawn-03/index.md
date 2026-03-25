@@ -1,6 +1,7 @@
 ---
 title: "Blood at Dawn — Sunday, 17 June 1990, 9:00 PM"
 date: 1990-06-17T21:00:00
+lastmod: 2026-03-22
 tags: ["blood-at-dawn", "darius", "sable", "vtm", "forged-in-steel", "gary"]
 categories: ["Chapter 3 — Blood at Dawn"]
 description: "Telling Allicia. A photograph face-down. A prince who wants the full story. A snow globe on a nightstand."

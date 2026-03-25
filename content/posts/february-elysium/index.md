@@ -1,6 +1,7 @@
 ---
 title: "Elysium — Friday, 2 February 1990, 9:00 PM"
 date: 1990-02-02T21:00:00
+lastmod: 2026-03-22
 tags: ["chapter", "darius", "sable", "vtm", "forged-in-steel", "gary"]
 categories: ["Chapter 2 — Convergence"]
 description: "February court at Modius's mansion. Two neonates meet for the first time."

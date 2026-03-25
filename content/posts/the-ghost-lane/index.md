@@ -1,6 +1,7 @@
 ---
 title: "The Ghost Lane — Thursday, 28 June 1990, 11:45 PM"
 date: 1990-06-28T23:45:00
+lastmod: 2026-03-23
 tags: ["forged-in-steel", "darius", "vtm", "gary"]
 categories: ["Chapter 5 — The Deals"]
 description: "A sire's voice with no accent. A warehouse with two chairs. A tug with no name. A bar tab of $800 a month."

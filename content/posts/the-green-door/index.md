@@ -1,6 +1,7 @@
 ---
 title: "The Green Door — Saturday, 14 July 1990, 11:30 PM"
 date: 1990-07-14T23:30:00
+lastmod: 2026-03-24
 tags: ["forged-in-steel", "sable", "vtm", "gary"]
 categories: ["Chapter 6 — The Pipeline"]
 description: "An empty block. A chain bolted to a floor ring. Forty-three entries in a dead man's hand. The price of quiet."

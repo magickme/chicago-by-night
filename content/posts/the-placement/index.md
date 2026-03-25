@@ -1,6 +1,7 @@
 ---
 title: "The Placement — Thursday, 19 July 1990, 9:30 PM"
 date: 1990-07-19T21:30:00
+lastmod: 2026-03-24
 tags: ["forged-in-steel", "sable", "vtm", "gary", "chicago"]
 categories: ["Chapter 6 — The Pipeline"]
 description: "Seven locations. Four phone calls. Two girls who needed more than a vampire could give. One night that wasn't long enough."

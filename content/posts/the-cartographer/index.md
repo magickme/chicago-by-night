@@ -1,6 +1,7 @@
 ---
 title: "The Cartographer — Wednesday, 18 July 1990, 10:30 PM"
 date: 1990-07-18T22:30:00
+lastmod: 2026-03-24
 tags: ["forged-in-steel", "darius", "vtm", "gary"]
 categories: ["Chapter 7 — The Cartographer"]
 description: "A notebook with forty-three names that aren't names. A Nosferatu who trades in truth. A man in a sedan who will remember nothing."

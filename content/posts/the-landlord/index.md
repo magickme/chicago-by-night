@@ -1,6 +1,7 @@
 ---
 title: "The Landlord — Friday, 20 July 1990, 9:00 PM"
 date: 1990-07-20T21:00:00
+lastmod: 2026-03-25
 tags: ["forged-in-steel", "darius", "vtm", "gary"]
 categories: ["Chapter 7 — The Landlord"]
 description: "Three conditions. Three fingers. A deal struck in a parked car on the access road while six centuries of patience decides whether to fold or kill."

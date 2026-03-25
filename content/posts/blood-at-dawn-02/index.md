@@ -1,6 +1,7 @@
 ---
 title: "Blood at Dawn — Sunday, 17 June 1990, 1:30 AM"
 date: 1990-06-17T01:30:00
+lastmod: 2026-03-22
 tags: ["blood-at-dawn", "darius", "sable", "vtm", "forged-in-steel", "gary"]
 categories: ["Chapter 3 — Blood at Dawn"]
 description: "A federal sedan. A sorcerer's kitchen. A spirit bag burning in the Wasteland. The door closes."

@@ -1,6 +1,7 @@
 ---
 title: "Friday Court — Friday, 29 June 1990, 9:00 PM"
 date: 1990-06-29T21:00:00
+lastmod: 2026-03-23
 tags: ["forged-in-steel", "sable", "darius", "vtm", "gary"]
 categories: ["Chapter 4 — The Alliance"]
 description: "A piano lid closed. A prince who doesn't look at his childe. A lie that costs willpower. Thirty feet and eighty years."

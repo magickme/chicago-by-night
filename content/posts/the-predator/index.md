@@ -1,6 +1,7 @@
 ---
 title: "The Predator — Friday, 20 July 1990, 10:00 PM"
 date: 1990-07-20T22:00:00
+lastmod: 2026-03-25
 tags: ["forged-in-steel", "sable", "vtm", "gary"]
 categories: ["Chapter 7 — The Predator"]
 description: "A woman walks into GD territory with a .38 she can barely shoot and three Disciplines and the memory of a man who decided she was his. She walks out with three soldiers and a haven and a body in the wasteland."

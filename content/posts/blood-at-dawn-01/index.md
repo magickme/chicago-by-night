@@ -1,6 +1,7 @@
 ---
 title: "Blood at Dawn — Saturday, 16 June 1990, 10:47 PM"
 date: 1990-06-16T22:47:00
+lastmod: 2026-03-22
 tags: ["blood-at-dawn", "darius", "sable", "vtm", "forged-in-steel", "gary"]
 categories: ["Chapter 3 — Blood at Dawn"]
 description: "The lights go out at The Torch. Something scratches its way out. A dead boy says a woman's name."

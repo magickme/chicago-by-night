@@ -1,6 +1,7 @@
 ---
 title: "The Dock Walk — Monday, 16 July 1990, 10:00 PM"
 date: 1990-07-16T22:00:00
+lastmod: 2026-03-24
 tags: ["forged-in-steel", "darius", "vtm", "gary"]
 categories: ["Chapter 6 — The Pipeline"]
 description: "A missing padlock. Double-bagged not-corn. A man who owes forty thousand dollars. Six successes."

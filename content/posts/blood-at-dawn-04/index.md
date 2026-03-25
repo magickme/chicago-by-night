@@ -1,6 +1,7 @@
 ---
 title: "Blood at Dawn — Monday, 18 June 1990, 9:00 PM"
 date: 1990-06-18T21:00:00
+lastmod: 2026-03-22
 tags: ["blood-at-dawn", "darius", "vtm", "forged-in-steel", "gary"]
 categories: ["Chapter 3 — Blood at Dawn"]
 description: "The debrief. A prince who catches lies. A name given up. A brooch that isn't in the car."
