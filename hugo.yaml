@@ -56,30 +56,12 @@ params:
 
 menu:
   main:
-    - identifier: reading-order
-      name: Reading Order
-      url: /reading-order/
-      weight: 2
-      params:
-        icon: hash
     - identifier: campaign
       name: Campaign
       url: /campaign/
       weight: 6
       params:
         icon: hash
-    - identifier: timeline
-      name: Timeline
-      url: /timeline/
-      weight: 7
-      params:
-        icon: date
-    - identifier: calendar
-      name: Calendar
-      url: /calendar/
-      weight: 8
-      params:
-        icon: clock
     - identifier: characters
       name: Characters
       url: /characters/
