@@ -5,7 +5,9 @@ hidemeta: true
 ShowToc: false
 ---
 
-## Forged in Steel — Vampire: The Masquerade
+## Chicago Chronicles — Vampire: The Masquerade
+
+*Current public material is Act I: Forged in Steel.*
 
 **[Darius Cole](/darius-cole/)** — Ventrue, 10th generation. Street broker from Midtown Gary. Planted in the city by a sire nobody knows exists, building a money pipeline through an ancient Gangrel's docks. Feeds on people who owe debts they can't pay. Operates by the 48 Laws of Power.
 

@@ -6,7 +6,7 @@ hidemeta: true
 ShowToc: false
 ---
 
-This site documents a solo playthrough of *Vampire: The Masquerade* (1st Edition) set in the Chicago by Night sourcebook, using the Mythic Game Master Emulator 2nd Edition as a solo engine.
+This site documents **Chicago Chronicles**, a solo playthrough of *Vampire: The Masquerade* (1st Edition) set in the Chicago by Night sourcebook, using the Mythic Game Master Emulator 2nd Edition as a solo engine.
 
 The guides here cover the method — how to merge a political vampire sandbox with Mythic's scene and Fate Question structure — and the actual play reports that result.
 
@@ -33,7 +33,7 @@ This will be a solo run of the classic Vampire: The Masquerade (1st Edition!) Ch
 
 In the 35 years (!) this game has existed, the original setting and overall game design has yet to be topped—everything that came after veered away from the original game and added cruft for the sake of selling books, often obscuring the basic mechanics of the game (7 clans fighting over turf in 1 city). Later versions of the game, particularly the excellent Vampire: The Requiem and the not-so-excellent Vampire: The Masquerade 5th Edition have attempted to re-capture the initial magic, but when it comes to Vampire, nothing quite gets it right like the original setting—as created by Mark Rein•Hagen, Stewart Wieck and, for Chicago specifically, the eminent Andrew Greenberg.
 
-The chronicle may take many detours, but will hold to the published supplements as-is, in this order:
+The campaign may take many detours, but it starts with Act I, **Forged in Steel**, and then holds to the published supplements in this order:
 
 - Forged in Steel (Gary, Indiana 'starter town' - from VTM 1st Edition)
 - Forged in Steel: Blood at Dawn (Gary-based one-shot from the original VTM storyteller screen)

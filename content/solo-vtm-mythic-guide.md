@@ -8,7 +8,7 @@ ShowToc: true
 TocOpen: true
 ---
 
-This page describes the exact methodology used to run **Forged in Steel** — not a theoretical framework, but what we actually do at the table (which is a terminal and an Obsidian vault). Everything below has been tested across 34 scenes and seven months of in-game time.
+This page describes the exact methodology used to run **Chicago Chronicles**, currently in **Act I: Forged in Steel** — not a theoretical framework, but what we actually do at the table (which is a terminal and an Obsidian vault). Everything below has been tested across the live chronicle rather than a toy example.
 
 ---
 

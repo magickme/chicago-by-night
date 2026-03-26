@@ -1,6 +1,6 @@
 baseURL: "https://chicago-by-night.pages.dev/"
 languageCode: en-us
-title: Forged in Steel
+title: Chicago Chronicles
 theme: hugo-theme-stack
 
 pagination:
@@ -9,7 +9,7 @@ pagination:
 params:
   mainSections:
     - posts
-  description: "Solo Vampire: The Masquerade — Gary, Indiana, 1990"
+  description: "Chicago Chronicles — solo Vampire: The Masquerade across the southern Lake Michigan corridor"
   rssFullContent: true
 
   footer:
@@ -23,7 +23,7 @@ params:
   sidebar:
     compact: false
     emoji: ""
-    subtitle: "Gary, Indiana. 1990. A dying steel town ruled by the dead."
+    subtitle: "Chicago Chronicles. Act I: Forged in Steel. Gary, Indiana, 1990."
 
   article:
     headingAnchor: false

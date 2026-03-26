@@ -10,7 +10,7 @@ menu:
       icon: "infinity"
 ---
 
-*Current as of July 20, 1990. Solid lines = active relationships. Dashed lines = hidden, latent, or threatened.*
+*Current as of July 21, 1990. Solid lines = active relationships. Dashed lines = hidden, latent, or threatened.*
 
 ---
 
@@ -54,13 +54,14 @@ graph TD
 
     %% Prince's Court relationships
     Modius -->|"sire — childe<br>freezing out"| Allicia
-    Modius -->|"trusts — handshake"| Darius
+    Modius -->|"trusts +3 — handshake"| Darius
     Modius -->|"spy assignment<br>leash 4/6"| Sable
     Victor -->|"serves"| Modius
 
     %% Allicia-Sable alliance
     Sable -->|"alliance — protecting"| Allicia
-    Allicia -.->|"Blood Bond Step 1"| Sable
+    Allicia -.->|"Blood Bond Step 2"| Sable
+    Sable -.->|"Blood Bond Step 1"| Allicia
 
     %% Docks
     Lucian -->|"feeding rights<br>cautious respect"| Darius
@@ -125,7 +126,7 @@ graph LR
     Darius["<b>DARIUS COLE</b><br>Ventrue 10th"]
 
     subgraph KINDRED["Kindred"]
-        Modius["Modius +2<br><i>Prince — trusts</i>"]
+        Modius["Modius +3<br><i>Prince — trusts</i>"]
         Juggler["Juggler +2<br><i>Torch partner</i>"]
         Lucian["Lucian +2<br><i>Docks — deal struck</i>"]
         Danov["Danov +1<br><i>Info broker — paper deal</i>"]
@@ -137,7 +138,7 @@ graph LR
 
     subgraph MORTALS["Mortal Assets"]
         Ray["Ray Pulaski +2<br><i>Dock foreman</i>"]
-        Marcus["Marcus Webb +2<br><i>Right hand — THREATENED</i>"]
+        Marcus["Marcus Webb +2<br><i>Conditioning 3/14 — PROXY</i>"]
         Fisk["Gerald Fisk +3<br><i>Mesmerized — feeding stock</i>"]
         Eddie["Eddie Fells<br><i>DOMINATED — Berth 7</i>"]
         Marlene["Marlene Voss<br><i>Pawnshop</i>"]
@@ -195,11 +196,11 @@ graph LR
     Sable["<b>SABLE PRICE</b><br>Toreador 9th"]
 
     subgraph ALLIANCE["The Alliance"]
-        Allicia["Allicia +3<br><i>Blood Bond Step 1<br>Counting words (7)</i>"]
+        Allicia["Allicia +4<br><i>Blood Bond Step 2 ↔ Step 1<br>Counting words (9)</i>"]
     end
 
     subgraph COURT["Court"]
-        Modius["Modius<br><i>Leash 5/6 — spy assignment</i>"]
+        Modius["Modius +3<br><i>Leash 4/6 — spy assignment</i>"]
         Victor["Victor +1<br><i>Modius's ghoul — monitors</i>"]
     end
 
@@ -209,8 +210,8 @@ graph LR
     end
 
     subgraph GHOULS["Kendrick's Auto — Secret Haven"]
-        DeShawn["DeShawn<br><i>Soldier — Bond Step 1</i>"]
-        LittlePete["Little Pete<br><i>19 — being worked</i>"]
+        DeShawn["DeShawn<br><i>Soldier — Bond Step 2</i>"]
+        LittlePete["Little Pete<br><i>19 — Bond Step 2</i>"]
         Coop["Coop<br><i>Driver — Bond Step 1</i>"]
     end
 
@@ -226,7 +227,8 @@ graph LR
 
     %% Connections
     Sable -->|"protecting — feeding"| Allicia
-    Allicia -.->|"Blood Bond Step 1"| Sable
+    Allicia -.->|"Blood Bond Step 2"| Sable
+    Sable -.->|"Blood Bond Step 1"| Allicia
     Sable -->|"domitor"| DeShawn
     Sable -->|"domitor — primary target"| LittlePete
     Sable -->|"domitor"| Coop
@@ -262,4 +264,4 @@ graph LR
 
 ---
 
-*These maps reflect the state of play as of July 20, 1990 — midway through Act I. By Baptism by Fire (NYE 1990), every line on these charts will have been tested, broken, or redrawn.*
+*These maps reflect the state of play as of July 21, 1990 — midway through Act I. By Baptism by Fire (NYE 1990), every line on these charts will have been tested, broken, or redrawn.*

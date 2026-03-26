@@ -6,6 +6,8 @@ hidemeta: true
 ShowToc: true
 ---
 
+**Chicago Chronicles** is the full campaign arc.
+
 Three years. Five cities. Three PCs. Two Methuselahs playing chess with every Kindred on the board.
 
 A coterie of neonates arrives in Gary, Indiana. Over five acts and two interludes, the campaign follows them from street-level hustle in a dying steel town through the corridors of Camarilla power in Chicago, into Sabbat territory, through a Lupine war zone, and back to Chicago for a three-faction war that kills the Prince and redraws the map.
