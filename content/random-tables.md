@@ -587,22 +587,23 @@ Use one headline at scene open to add mortal friction unrelated to the Jyhad. Th
 
 |Thread|Weight|Status|
 |---|---|---|
-|Allicia — protect from Modius|2x|**PROGRESSING (S021).** Confined to mansion 4+ nights (since Sat July 20). Modius agreed to "make arrangements" to return Allicia to Torch for representative's visit. Timeline TBD but logic is too clean to refuse. Mutual blood bond (Allicia→Sable Step 2, Sable→Allicia Step 1). Window opening — Torch return = access outside mansion.|
+|Allicia — protect from Modius|2x|**ESCALATED (S022).** Returned to Torch since Thursday July 26. Private meeting at Miller Beach (S022). CRITICAL: Modius can taste foreign blood in Allicia when he feeds on her. He asked who. She didn't answer. He will ask again (Auspex). Bond-breaking options explored — only viable path is Carna (Tremere, Milwaukee). Allicia tried Milwaukee 1971, lasted 12 days. V20 rules: full bond blocks competing Step 3. Sable's Step 1 bond is a tourniquet, not a cure.|
 |Spy assignment (double agent)|2x|**PROMOTED (S021).** Attaché for incoming Chicago representative. Receive, charm, read aura, report. Within 2 weeks. More court access + more mansion proximity + more Auspex scrutiny. Torch report delivered successfully — Birch name de-emphasized.|
 |Modius leash|2x|4/6. Successful audience (S021). Attaché role = more access + more obligation. Modius pleased with FBI handling. Near-entrancement at scene open (SC 1 net). Relationship deepening in complexity.|
 |Sharon Payne's vendetta|3x|1/6. Letter sent. Unknown sender. COTERIE-LEVEL THREAT. Darius building early warning system.|
 |Michael Payne — absent sire|2x|ESCALATED. Missing. Darius now aware.|
 |Denise Price — the mother|1x|ACTIVATED. Called studio. Sable hung up. LIVE WIRE. Phone plugged back in during S016. Denise has the number. Studio phone compromised for coterie comms.|
-|Feed and survive|1x|Fed S021 (east Broadway, 3 BP). 11/14. West side Heat 3/6 (cooling). Docks 0/6. East Broadway 1/6 (App 5, court dress — memorable). Diversifying successfully.|
+|Feed and survive|1x|Fed S022 (east side bar near Miller Beach, Dale, 5 BP). 12/14. West side Heat 3/6 (cooling). Docks 0/6. East Broadway 1/6. East side 1/6 (App 5, three-person bar — memorable). Diversifying.|
 |Ghoul management|1x|ACTIVE. Bond Step 2 (DeShawn, Pete, Spoon). Coop part-time Step 1. **Spoon LOCKED: Entranced 1 year + Bond Step 2 (S020).** Deployed on Olds surveillance. Terrell still loose. Deacon (south side boss, weeks out).|
 |West side territory|1x|ACTIVE. Spoon on overnight Olds surveillance (Sixteenth & Grant). DeShawn resting. Terrell (loose), Deacon (south side, weeks out).|
 |The Torch — hunting ground|1x|OPEN. Heat 5/6 makes it risky. Modius monitoring foot traffic.|
 |Chicago scrutiny|1x|Lodin's seneschal called Modius. 'Conditions in Gary.' Archon threat implicit. Shared coterie concern.|
 |Warren Birch proxy|1x|Acknowledged. Darius handling. Webb identified. Danov print shop Tue July 24.|
-|Burgundy Oldsmobile|1x|**IDENTIFIED (S021).** Frank Kowalski, probable PI, Berwyn IL. Scanner antennas, pickup truck, someone home. Olds schedule: Sixteenth St 11 PM-2 AM (Monday confirmed by Spoon). Next: identify Kowalski's client (Chicago debt holder who sent him to find Six).|
+|Burgundy Oldsmobile|1x|**IDENTIFIED (S021).** Frank Kowalski, probable PI, Berwyn IL. Schedule: Mon 11 PM-2 AM. Monday stakeout prepped (S022): Spoon back Sunday, DeShawn overwatch Fifteenth, Coop on call, Sable on foot south Sixteenth. Watching first. Next: identify Kowalski's client.|
 |COTERIE with Darius|2x|ACTIVE. First scheduled call completed (S021, July 24 11 PM). Full disclosure both directions. Darius processing Chicago representative implications. Tue/Fri 11 PM comms.|
 |Modius mansion visit|1x|**RESOLVED (S021).** Audience complete. Report delivered. Task received. Allicia concession won.|
 |**Chicago representative (NEW)**|**2x**|**Lodin's seneschal sending assessor to Gary within 2 weeks. Sable = Modius's attaché. Must present stable Gary, charm representative, read their aura, report everything. Coterie exposure risk: representative with Auspex reads Sable while she carries coterie secrets. Unknown: who, when, what Disciplines.**|
+|**Carna bond-breaking (BACKGROUND)**|**1x**|**Allicia's only viable path to break 52-year blood bond to Modius. Carna (Tremere, Milwaukee) offered to weaken the bond in 1971. Allicia was too afraid. V20: (12-WP) months avoidance per level to reduce naturally. Killing Modius or Vaulderie are alternatives. Chicago Tremere would betray the request (Pyramid loyalty). Milwaukee = Act III territory. Long-term thread.**|
 
 ### Shared Characters
 
