@@ -154,6 +154,22 @@ Published scenes from **Chicago Chronicles** in chronological order. Current pub
 |---|---|---|---|
 | 40 | [The Hunt](/posts/the-hunt/) | Sable | Jul 28, 1990, 8:19 PM |
 
+### Interlude — The Long Game
+
+*Dec 1, 1990, 4:25 PM through Dec 1, 1990, 4:25 PM.*
+
+| # | Scene | PC | Date |
+|---|---|---|---|
+| 41 | [The Long Game](/posts/the-long-game/) | Darius + Sable | Dec 1, 1990, 4:25 PM |
+
+### Chapter 10 — The Diagnostic
+
+*Dec 2, 1990, 4:25 PM through Dec 2, 1990, 4:25 PM.*
+
+| # | Scene | PC | Date |
+|---|---|---|---|
+| 42 | [The Diagnostic](/posts/the-diagnostic/) | Darius | Dec 2, 1990, 4:25 PM |
+
 ## Other Chronicles
 
 ### Hell's Highway

@@ -558,37 +558,38 @@ Use one headline at scene open to add mortal friction unrelated to the Jyhad. Th
 |Slot|Thread|Progress|
 |---|---|---|
 |1-2|Chuc Luc's pipeline (2x)|Pipeline OPERATIONAL. Berth 7 → warehouse → truck. Eddie Fells Dominated. Torch secured. Report to Chuc Luc Tuesday.|
-|3-4|Cover story (2x)|3/6. Replacement identity in motion via Chuc Luc.|
+|3-4|Cover story (2x)|2/6. Federal-grade Birch paper delivered. Webb operational as proxy. Identity solid.|
 |5|Gerald Fisk / Torch mortgage|RESOLVED. Mortgage assumed. $800/mo.|
 |6|Lucian feeding rights|DELIVERED. Annual, renewable. Accepted.|
 |7|Brief Victor on FBI|RESOLVED (D016). Kept Victor ignorant — genuine ignorance IS the cover.|
 |8|Chuc Luc callback|DONE (D016). New orders: warehouse + customs gap by Tue July 17.|
-|9-10|Sullivan Dane's witch-hunt (2x)|2/6. Nine months of data.|
+|9-10|Sullivan Dane's witch-hunt (2x)|4/6. Pamphlet diagnostic on Cutlass. Confirmed nocturnal pattern. Active surveillance. Eleven months of data.|
 |11|The slave auction / D-Train|ESCALATED. D-Train visited burned church July 25 with companion who searched basement. Was in midtown Gary (Fifth & Grant Amoco) before. Knows operation is dead. Thursday intercept dead. Will report to Mama Roux. Keisha at risk if threads pulled.|
 |12|Juggler's secret (Evelyn)|OPEN. Juggler met (D018). Evelyn not mentioned. Hidden.|
 |13|Protect the Masquerade|OPEN.|
 |14|Claudette's Diablerie plot|HIDDEN.|
 |15|FBI/Shepard investigation|PLAN FORMING. Proxy + Danov forger. Juggler partnered. Torch Heat 5/6.|
-|16|Evelyn's existence|OPEN.|
+|16|Evelyn's existence|OBSERVED. Lives in ore smelter (Juggler's haven). Feeds at Torch. Unauthorized. Not reported to Modius. Leverage over Juggler.|
 |17|Baptism by Fire (LATENT — NYE 1990)|—|
-|18|Marcus Webb — handle before Chuc Luc does|CONDITIONING IN PROGRESS. **5/14** (session 2 complete July 22, timeskip +2 succ). Halfway (7) = -1 diff Dominate vs Webb. Danov print shop DELAYED — Danov spooked, next window Tue July 31.|
+|18|Marcus Webb — handle before Chuc Luc does|COMPLETE. 14/14. Webb = Birch. Fully conditioned proxy.|
 |19|Warehouse + customs gap|RESOLVED (D017). Warehouse active. Eddie Fells = customs gap. Pipeline operational.|
-|20|Sal Cantone — stolen operation|ESCALATING. Warehouse lease = **Lakeshore Industrial Services LLC** (Cantone's own shell, DeVecchio & Assoc. Cicero). Suits hit port commission AND union hall. Tracing their own paper to find who hijacked the operation. Lease paid through year. Coterie action: Lonnie Greer to pull Lakeshore IS incorporation docs via Lake County Recorder (task Sable, Fri call). Cantone NPC Activity 3/6.|
+|20|Sal Cantone — stolen operation|CLOSED. Paper trail dead. RICO. Cantone moved on.|
 |21|Lucian delivery / Modius mission|SUMMONS ANSWERED (D022). Mission: clean waterfront before Chicago representative (~2 weeks). Identify union hall men. Dock feeding rights granted. Don't involve Lucian or feds. Modius wants simple, boring, his.|
-|22|Warren Birch proxy|CONDITIONING **5/14**. Session 2 complete (July 22, timeskip). Halfway (7) = -1 diff. Danov print shop DELAYED — Danov spooked July 24, told Darius "next Tuesday, come alone first." Next window July 31.|
+|22|Warren Birch proxy|COMPLETE. Federal-grade paper from Danov. Webb operational as Birch.|
 |23|Church disposal|RESOLVED (D020). Polk & 13th burned. Ray Pulaski delivered.|
 |24|Williams notebook intel|RECEIVED (D019). 43 entries: D-Train (Thu), Mr. White (Milwaukee, Oct/Mar), B7/SC (Cantone-dock link). Intelligence asset.|
 |25|Lucian payment|$2K/month, lockbox in warehouse, first of August. Mutual discretion. Keyed scene resolved.|
 |26|COTERIE with Sable|ACTIVE. Comms gap identified (D022): no emergency contact method. Next scheduled call Fri July 27 11 PM. Full debrief: Obfuscate visitor, surveillance blind, water presence, waymarker, Lakeshore IS, Modius reaction. Task Sable: Greer → Lakeshore IS records.|
 |27|Waterfront legibility|Modius mission (D022). PATROL COMPLETE (D023): mortal surveillance blind Berth 8 (Marlboro, binoculars, weeks of use), water presence Berth 3 (fast, low, gone), Gangrel waymarker rail spur (fresh, "claimed ground"). Reported to Modius. Orders: continue monitoring, watch for more waymarkers, identify water presence. Do NOT approach Lucian.|
 |28|Mystery Obfuscate visitor|NEW (D023). Cased warehouse (wiped window, repositioned pallet). Asked Ray about Eddie, FBI, Shepard, warehouse activity. Memory-fogging effect on Ray. Vanished at rail spur "corner that wasn't there." Message via Ray: "not his enemy, wants to meet directly, Tuesday." Darius thinks Danov proxy (**WRONG — botched Int+Politics**). Identity unknown. Obfuscate 3+ confirmed.|
+|29|Dane at 4/6|Pamphlet diagnostic, active surveillance, True Faith 5 hunter closing in. Notebook mark Dec 2 — no breath-cloud confirmation.|
 
 ### Sable Threads
 
 |Thread|Weight|Status|
 |---|---|---|
-|Allicia — protect from Modius|2x|**ESCALATED (S022).** Returned to Torch since Thursday July 26. Private meeting at Miller Beach (S022). CRITICAL: Modius can taste foreign blood in Allicia when he feeds on her. He asked who. She didn't answer. He will ask again (Auspex). Bond-breaking options explored — only viable path is Carna (Tremere, Milwaukee). Allicia tried Milwaukee 1971, lasted 12 days. V20 rules: full bond blocks competing Step 3. Sable's Step 1 bond is a tourniquet, not a cure.|
-|Spy assignment (double agent)|2x|**PROMOTED (S021).** Attaché for incoming Chicago representative. Receive, charm, read aura, report. Within 2 weeks. More court access + more mansion proximity + more Auspex scrutiny. Torch report delivered successfully — Birch name de-emphasized.|
+|Allicia — protect from Modius|2x|**WORSENING.** Confined Wed/Sat Torch piano only, shorter leash. Bond-breaking thread urgent — Carna (Tremere, Milwaukee) only viable path. Modius not pressing with Auspex — pressing with architecture (isolation, confinement, schedule control). Blood-taste bomb still ticking.|
+|Spy assignment (double agent)|2x|COMPLETED (Pierce visit). Attaché role fulfilled. No further assignment pending.|
 |Modius leash|2x|4/6. Successful audience (S021). Attaché role = more access + more obligation. Modius pleased with FBI handling. Near-entrancement at scene open (SC 1 net). Relationship deepening in complexity.|
 |Sharon Payne's vendetta|3x|1/6. Letter sent. Unknown sender. COTERIE-LEVEL THREAT. Darius building early warning system.|
 |Michael Payne — absent sire|2x|ESCALATED. Missing. Darius now aware.|
@@ -602,8 +603,8 @@ Use one headline at scene open to add mortal friction unrelated to the Jyhad. Th
 |Burgundy Oldsmobile|1x|**IDENTIFIED (S021).** Frank Kowalski, probable PI, Berwyn IL. Schedule: Mon 11 PM-2 AM. Monday stakeout prepped (S022): Spoon back Sunday, DeShawn overwatch Fifteenth, Coop on call, Sable on foot south Sixteenth. Watching first. Next: identify Kowalski's client.|
 |COTERIE with Darius|2x|ACTIVE. First scheduled call completed (S021, July 24 11 PM). Full disclosure both directions. Darius processing Chicago representative implications. Tue/Fri 11 PM comms.|
 |Modius mansion visit|1x|**RESOLVED (S021).** Audience complete. Report delivered. Task received. Allicia concession won.|
-|**Chicago representative (NEW)**|**2x**|**Lodin's seneschal sending assessor to Gary within 2 weeks. Sable = Modius's attaché. Must present stable Gary, charm representative, read their aura, report everything. Coterie exposure risk: representative with Auspex reads Sable while she carries coterie secrets. Unknown: who, when, what Disciplines.**|
-|**Carna bond-breaking (BACKGROUND)**|**1x**|**Allicia's only viable path to break 52-year blood bond to Modius. Carna (Tremere, Milwaukee) offered to weaken the bond in 1971. Allicia was too afraid. V20: (12-WP) months avoidance per level to reduce naturally. Killing Modius or Vaulderie are alternatives. Chicago Tremere would betray the request (Pyramid loyalty). Milwaukee = Act III territory. Long-term thread.**|
+|Chicago representative|2x|RESOLVED. Pierce visited Aug. Left satisfied. No Archon. Coterie undetected.|
+|Carna bond-breaking (BACKGROUND)|1x|Allicia's only viable path to break 52-year blood bond to Modius. Carna (Tremere, Milwaukee) offered to weaken the bond in 1971. Allicia was too afraid. Allicia now confined Wed/Sat Torch only — shorter leash, deteriorating. Thread URGENT. Milwaukee = Act III territory. Long-term thread but timeline compressing.|
 
 ### Shared Characters
 
