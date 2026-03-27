@@ -130,6 +130,14 @@ Published scenes from **Chicago Chronicles** in chronological order. Current pub
 |---|---|---|---|
 | 37 | [The Proxy](/posts/the-proxy/) | Darius | Jul 21, 1990, 8:23 PM |
 
+### Chapter 8 — The Hunger
+
+*Jul 25, 1990, 8:19 PM through Jul 25, 1990, 8:19 PM.*
+
+| # | Scene | PC | Date |
+|---|---|---|---|
+| 38 | [The Hunger](/posts/the-hunger/) | Darius | Jul 25, 1990, 8:19 PM |
+
 ## Other Chronicles
 
 ### Hell's Highway
