@@ -170,6 +170,14 @@ Published scenes from **Chicago Chronicles** in chronological order. Current pub
 |---|---|---|---|
 | 42 | [The Diagnostic](/posts/the-diagnostic/) | Darius | Dec 2, 1990, 4:25 PM |
 
+### Chapter 10 — The Hunt
+
+*Dec 3, 1990, 4:25 PM through Dec 3, 1990, 4:25 PM.*
+
+| # | Scene | PC | Date |
+|---|---|---|---|
+| 43 | [The Hunt](/posts/the-hunt-d025/) | Darius | Dec 3, 1990, 4:25 PM |
+
 ## Other Chronicles
 
 ### Hell's Highway
