@@ -138,6 +138,14 @@ Published scenes from **Chicago Chronicles** in chronological order. Current pub
 |---|---|---|---|
 | 38 | [The Hunger](/posts/the-hunger/) | Darius | Jul 25, 1990, 8:19 PM |
 
+### Chapter 8 — The Operational
+
+*Jul 26, 1990, 8:19 PM through Jul 26, 1990, 8:19 PM.*
+
+| # | Scene | PC | Date |
+|---|---|---|---|
+| 39 | [The Ledger](/posts/the-ledger/) | Darius | Jul 26, 1990, 8:19 PM |
+
 ## Other Chronicles
 
 ### Hell's Highway

@@ -16,56 +16,39 @@ menu:
 
 ## Mythic and Tourniquet Core
 
-## FATE CHECK (Mythic GME)
+## FATE CHART (Mythic GME 2E — d100 roll-under)
 
-Roll 2d10, sum them, apply modifiers.
-Odds Modifier:
+Roll d100 (percentile). Compare to threshold from the chart below. Roll ≤ threshold = Yes. Roll > threshold = No.
+Exceptional results: ExYes = roll ≤ threshold/5 (round down, min 1). ExNo = roll ≥ 100 - floor((100-threshold)/5) + 1.
+Example: threshold 50 → ExYes ≤10, Yes 11-50, No 51-90, ExNo 91-100.
+Example: threshold 65 → ExYes ≤13, Yes 14-65, No 66-93, ExNo 94-100.
+Example: threshold 35 → ExYes ≤7, Yes 8-35, No 36-87, ExNo 88-100.
 
-| Odds | Modifier |
-|---|---|
-| Certain | +4 |
-| Nearly Certain | +3 |
-| Very Likely | +2 |
-| Likely | +1 |
-| 50/50 | 0 |
-| Unlikely | -1 |
-| Very Unlikely | -2 |
-| Nearly Impossible | -3 |
-| Impossible | -4 |
+Fate Chart (Odds vs CF — cell = Yes threshold, roll d100 ≤ this = Yes):
 
-CF Modifier:
+| Odds \ CF | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 |
+|---|---|---|---|---|---|---|---|---|---|
+| Certain | 85 | 90 | 90 | 90 | 90 | 95 | 95 | 95 | 95 |
+| Nearly Certain | 75 | 80 | 80 | 85 | 85 | 85 | 90 | 90 | 95 |
+| Very Likely | 55 | 60 | 65 | 70 | 75 | 80 | 85 | 90 | 90 |
+| Likely | 35 | 45 | 50 | 55 | 65 | 70 | 75 | 80 | 85 |
+| 50/50 | 20 | 25 | 35 | 45 | 50 | 55 | 65 | 70 | 75 |
+| Unlikely | 10 | 15 | 20 | 25 | 35 | 45 | 50 | 55 | 65 |
+| Very Unlikely | 5 | 8 | 10 | 15 | 25 | 30 | 35 | 40 | 50 |
+| Nearly Impossible | 2 | 3 | 5 | 10 | 15 | 20 | 25 | 30 | 35 |
+| Impossible | — | 1 | 2 | 5 | 10 | 12 | 15 | 18 | 25 |
 
-| CF | Modifier |
-|---|---|
-| 1 | -4 |
-| 2 | -3 |
-| 3 | -2 |
-| 4 | -1 |
-| 5 | 0 |
-| 6 | +1 |
-| 7 | +2 |
-| 8 | +3 |
-| 9 | +4 |
-
-Total modifier = Odds modifier + CF modifier. Add to 2d10 sum.
-Fate Check Answers:
-
-| Modified Total | Result |
-|---|---|
-| 18-20 | Exceptional Yes |
-| 11-17 | Yes |
-| 5-10 | No |
-| 2-4 | Exceptional No |
-
-Above 20 = regular Yes (not Exceptional). Below 2 = regular No (not Exceptional). Total must fall within the Exceptional range.
 Interpreting: Yes = expectation confirmed. Exceptional Yes = yes, intensified to next logical level. No = next most expected outcome. Exceptional No = opposite of Yes, or opposite intensified.
-Random Event trigger: if both d10 show the same number AND that digit <= CF, a Random Event occurs (roll still answers the Fate Question).
+Random Event trigger: doubles on d100 (11, 22, 33, 44, 55, 66, 77, 88, 99) where the single digit ≤ CF. The Random Event occurs IN ADDITION to the Fate answer (roll still answers the question).
 When to ask: binary outcome matters, NPC action/knowledge uncertain, coincidence/luck in play, consequences unclear. Don't ask about PC actions or controlled narrative elements.
 Fate Questions as RPG rules: treat CF as 5 regardless of actual CF. Treat Exceptional results as regular Yes/No unless the rule uses degrees of success.
+Recording format: `**Fate:** [Q]? Odds: [X]. CF: [Y]. Threshold: [T]. d100: [roll]. **[Answer].** [+Random Event if doubles ≤ CF.]`
+
+Quick Yes/No Oracle (d10+modifier) is retained for low-stakes checks where you don't want to risk Random Events.
 
 ## RANDOM EVENTS
 
-Trigger: doubles on Fate Check where digit <= CF, or Interrupted Scene.
+Trigger: doubles on d100 Fate roll (11, 22, 33...) where single digit ≤ CF, or Interrupted Scene.
 Generate: roll Event Focus (d100), then interpret Event Meaning through current Context. The GM (LLM) produces a contextually appropriate interpretation combining an Action concept and a Description concept based on the Event Focus result and the adventure's current situation.
 Event Focus Table (d100):
 
@@ -170,7 +153,7 @@ Reason Oracle (d10): Why is something happening?
 | 9 | Merit or Flaw |
 | 10 | Humanity or Path |
 
-Quick Yes/No Oracle (d10+modifier) — use for quick, low-stakes checks where you don't want to risk triggering a Random Event. For narrative Fate Questions during play, use the Fate Check instead:
+Quick Yes/No Oracle (d10+modifier) — use for quick, low-stakes checks where you don't want to risk triggering a Random Event. For narrative Fate Questions during play, use the d100 Fate Chart instead:
 Odds modifier: Slim to none -4, Not Likely -2, Don't Know 0, Likely +2, Very Likely +4. Roll 1d10 + modifier. 6+ = Yes.
 
 | Total | Result |
@@ -590,14 +573,15 @@ Use one headline at scene open to add mortal friction unrelated to the Jyhad. Th
 |17|Baptism by Fire (LATENT — NYE 1990)|—|
 |18|Marcus Webb — handle before Chuc Luc does|CONDITIONING IN PROGRESS. **5/14** (session 2 complete July 22, timeskip +2 succ). Halfway (7) = -1 diff Dominate vs Webb. Danov print shop DELAYED — Danov spooked, next window Tue July 31.|
 |19|Warehouse + customs gap|RESOLVED (D017). Warehouse active. Eddie Fells = customs gap. Pipeline operational.|
-|20|Sal Cantone — stolen operation|MANAGED + MODIUS MISSION. Eddie REINFORCED (D022): Forgetful Mind 5 + **Mesmerize 5** (both granite). Step 2 is paper trail — suits at union hall asking about warehouse leases. Modius assigned Darius to identify and resolve before Chicago representative (~2 weeks). Juggler's people at hall will hear if Darius investigates there.|
+|20|Sal Cantone — stolen operation|ESCALATING. Warehouse lease = **Lakeshore Industrial Services LLC** (Cantone's own shell, DeVecchio & Assoc. Cicero). Suits hit port commission AND union hall. Tracing their own paper to find who hijacked the operation. Lease paid through year. Coterie action: Lonnie Greer to pull Lakeshore IS incorporation docs via Lake County Recorder (task Sable, Fri call). Cantone NPC Activity 3/6.|
 |21|Lucian delivery / Modius mission|SUMMONS ANSWERED (D022). Mission: clean waterfront before Chicago representative (~2 weeks). Identify union hall men. Dock feeding rights granted. Don't involve Lucian or feds. Modius wants simple, boring, his.|
 |22|Warren Birch proxy|CONDITIONING **5/14**. Session 2 complete (July 22, timeskip). Halfway (7) = -1 diff. Danov print shop DELAYED — Danov spooked July 24, told Darius "next Tuesday, come alone first." Next window July 31.|
 |23|Church disposal|RESOLVED (D020). Polk & 13th burned. Ray Pulaski delivered.|
 |24|Williams notebook intel|RECEIVED (D019). 43 entries: D-Train (Thu), Mr. White (Milwaukee, Oct/Mar), B7/SC (Cantone-dock link). Intelligence asset.|
 |25|Lucian payment|$2K/month, lockbox in warehouse, first of August. Mutual discretion. Keyed scene resolved.|
-|26|COTERIE with Sable|ACTIVE. Comms gap identified (D022): no emergency contact method. Next scheduled call Fri July 27 11 PM. D-Train intel + Modius mission + Danov delay to share.|
-|27|Waterfront legibility (NEW)|Modius mission (D022). 2-week deadline. Identify Chicago men at union hall. Clean waterfront for representative. Juggler's people at hall. Unidentified waterfront presences after midnight. Dock feeding cleared.|
+|26|COTERIE with Sable|ACTIVE. Comms gap identified (D022): no emergency contact method. Next scheduled call Fri July 27 11 PM. Full debrief: Obfuscate visitor, surveillance blind, water presence, waymarker, Lakeshore IS, Modius reaction. Task Sable: Greer → Lakeshore IS records.|
+|27|Waterfront legibility|Modius mission (D022). PATROL COMPLETE (D023): mortal surveillance blind Berth 8 (Marlboro, binoculars, weeks of use), water presence Berth 3 (fast, low, gone), Gangrel waymarker rail spur (fresh, "claimed ground"). Reported to Modius. Orders: continue monitoring, watch for more waymarkers, identify water presence. Do NOT approach Lucian.|
+|28|Mystery Obfuscate visitor|NEW (D023). Cased warehouse (wiped window, repositioned pallet). Asked Ray about Eddie, FBI, Shepard, warehouse activity. Memory-fogging effect on Ray. Vanished at rail spur "corner that wasn't there." Message via Ray: "not his enemy, wants to meet directly, Tuesday." Darius thinks Danov proxy (**WRONG — botched Int+Politics**). Identity unknown. Obfuscate 3+ confirmed.|
 
 ### Sable Threads
 
@@ -657,6 +641,7 @@ Use one headline at scene open to add mortal friction unrelated to the Jyhad. Th
 |36|Lonnie Greer (mortal, bail bondsman, Gary — Sable Contact 2)|
 |37|Reva Watts (mortal, bartender, east side Gary — Sable Contact 1)|
 |38|Frank Kowalski (mortal, PI, Berwyn — Olds driver IDENTIFIED)|
+|39|Thomas Wójcik (mortal, fired dock supervisor, fed/wiped D023)|
 
 ## Live Story Oracles
 
