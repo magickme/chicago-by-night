@@ -20,7 +20,9 @@ menu:
 
 Roll 2d10, sum them, apply modifiers.
 Odds Modifier:
+
 | Odds | Modifier |
+|---|---|
 | Certain | +4 |
 | Nearly Certain | +3 |
 | Very Likely | +2 |
@@ -30,8 +32,11 @@ Odds Modifier:
 | Very Unlikely | -2 |
 | Nearly Impossible | -3 |
 | Impossible | -4 |
+
 CF Modifier:
+
 | CF | Modifier |
+|---|---|
 | 1 | -4 |
 | 2 | -3 |
 | 3 | -2 |
@@ -41,13 +46,17 @@ CF Modifier:
 | 7 | +2 |
 | 8 | +3 |
 | 9 | +4 |
+
 Total modifier = Odds modifier + CF modifier. Add to 2d10 sum.
 Fate Check Answers:
+
 | Modified Total | Result |
+|---|---|
 | 18-20 | Exceptional Yes |
 | 11-17 | Yes |
 | 5-10 | No |
 | 2-4 | Exceptional No |
+
 Above 20 = regular Yes (not Exceptional). Below 2 = regular No (not Exceptional). Total must fall within the Exceptional range.
 Interpreting: Yes = expectation confirmed. Exceptional Yes = yes, intensified to next logical level. No = next most expected outcome. Exceptional No = opposite of Yes, or opposite intensified.
 Random Event trigger: if both d10 show the same number AND that digit <= CF, a Random Event occurs (roll still answers the Fate Question).
@@ -59,7 +68,9 @@ Fate Questions as RPG rules: treat CF as 5 regardless of actual CF. Treat Except
 Trigger: doubles on Fate Check where digit <= CF, or Interrupted Scene.
 Generate: roll Event Focus (d100), then interpret Event Meaning through current Context. The GM (LLM) produces a contextually appropriate interpretation combining an Action concept and a Description concept based on the Event Focus result and the adventure's current situation.
 Event Focus Table (d100):
+
 | d100 | Focus |
+|---|---|
 | 1-7 | Remote Event (offscreen, PC learns now) |
 | 8-28 | NPC Action (existing NPC does something; roll Characters List) |
 | 29-35 | New NPC (new character enters) |
@@ -71,13 +82,16 @@ Event Focus Table (d100):
 | 76-83 | Ambiguous (unclear, may be foreshadowing) |
 | 84-92 | NPC Negative (bad for NPC; roll Characters List) |
 | 93-100 | NPC Positive (good for NPC; roll Characters List) |
+
 If rolled Focus references empty List, use Current Context instead.
 
 ## SCENE TESTING
 
 Scene Check procedure is in HOW TO RUN A SCENE (step 2). First scene of adventure is NOT tested.
 Altered Scene methods: (1) next most expected scene, (2) tweak one element, (3) test alteration as Fate Question, (4) Scene Adjustment Table:
+
 | d10 | Adjustment |
+|---|---|
 | 1 | Remove a Character |
 | 2 | Add a Character |
 | 3 | Reduce/Remove an Activity |
@@ -86,49 +100,65 @@ Altered Scene methods: (1) next most expected scene, (2) tweak one element, (3) 
 | 6 | Add an Object |
 | 7-8 | Make 2 Adjustments (roll twice, reroll 7-8) |
 | 9-10 | Reroll or choose contextually |
+
 Automatic Interrupt: when you have no idea what happens next, skip CF roll and make next scene an automatic Interrupt.
 
 ## THE SCALE
 
 Range: -10 to +10. Carries between scenes. Resets to 0 ONLY after triggering Major Trouble or Major Grace.
 The Scale interacts with every action roll the character takes (not soak or willpower rolls).
+### Adding Points
 
-Adding Points: On any action roll:
+On any action roll:
 - Each die showing 8, 9, or 10 adds +1 to the Scale
 - Each die showing 1, 2, or 3 subtracts -1 from the Scale
 - Dice showing 4-7 do not affect the Scale
 - Subtract 1s first (per normal VtM botch rules); subtracted dice don't count for Scale
-If total reaches -10: Major Trouble triggers (mandatory). Roll Story Oracle (d10) then Trouble chart (d10). Reset to 0.
-If total reaches +10: Major Grace triggers (mandatory). Roll Story Oracle (d10) then Grace chart (d10). Reset to 0.
+### Triggers
 
-Burning the Scale: If adding/subtracting 3+ points and those points WON'T drive Scale to ±10, you may BURN them instead.
+| Condition | Result |
+|---|---|
+| Hits -10 | Major Trouble triggers. Roll Story Oracle (d10), then Trouble chart (d10). Reset to 0. |
+| Hits +10 | Major Grace triggers. Roll Story Oracle (d10), then Grace chart (d10). Reset to 0. |
+
+### Burning the Scale
+
+If adding or subtracting 3+ points and those points will not drive the Scale to ±10, you may burn them instead.
 - Burn negative points: suffer Minor Trouble (roll Trouble chart).
 - Burn positive points: gain Minor Grace (roll Grace chart).
 - Must burn ALL points from that roll (cannot partial burn).
 
-TROUBLE CHART (d10):
-1: TRAUMA — -2 dice penalty to one Attribute/Ability. Minor: fades after scene. Major: lasting (physical = full rest + 5 BP; mental/social = roleplay recovery + trigger Major Grace).
-2: FRENZY — Minor: standard frenzy check at normal diff. Major: frenzy check at +2 diff.
-3: HURT — Additional damage. Minor: 3 dmg (1d10: 1-5 B, 6-10 L), soak normally. Major: 6 dmg (same type roll).
-4: UNDERMINED — +2 diff to all rolls until resolved. Minor: until successful roll. Major: until Major Grace.
-5: BROKEN — Item lost/destroyed, add to Story Oracle. Minor: retrievable. Major: gone forever.
-6-7: THREAT — New/escalated threat. Minor: equal/weaker, +1 succ needed on next Resisted or +2 diff. Major: greater, +2 bonus or +2 diff permanently.
-8-10: SHIFT — Story moves unwanted direction. Minor: narrate shift. Major: shift + compound (reroll: 1-2 Trauma, 3 Frenzy, 4-5 Hurt, 6-7 Broken, 8-10 Threatened).
+### Trouble (d10)
 
-GRACE CHART (d10):
-1: INSIGHT — Minor: +2 dice next roll OR -1 foe succ on next Resisted. Major: keep Minor for scene OR double for one roll.
-2: VIGOR — Minor: recover 1 HL. Major: recover from Trauma OR 3 HL OR heal 1 agg.
-3-4: ADVANTAGE — -2 diff. Minor: one roll. Major: until fail/scene end/burn trouble.
-5-6: FOUND — Minor: a clue or non-major item. Major: major plot element, rare item, or quest resolution if narratively appropriate.
-7: POWERFUL — Minor: +2 dmg or +2 degrees of success. Major: +4 dmg or +4 degrees. Extra succ can snatch victory from failure.
-8-10: SHIFT — Story moves in PC's favor. Minor: narrate shift. Major: shift + compound (reroll: 1-2 Insight, 3-4 Vigor, 5-6 Advantage, 7-8 Found, 9-10 Powerful).
+| Roll | Result | Minor | Major |
+|---|---|---|---|
+| 1 | Trauma | fades after scene. | lasting (physical = full rest + 5 BP; mental/social = roleplay recovery + trigger Major Grace). |
+| 2 | Frenzy | standard frenzy check at normal diff. | frenzy check at +2 diff. |
+| 3 | Hurt | 3 dmg (1d10: 1-5 B, 6-10 L), soak normally. | 6 dmg (same type roll). |
+| 4 | Undermined | until successful roll. | until Major Grace. |
+| 5 | Broken | retrievable. | gone forever. |
+| 6-7 | Threat | equal/weaker, +1 succ needed on next Resisted or +2 diff. | greater, +2 bonus or +2 diff permanently. |
+| 8-10 | Shift | narrate shift. | shift + compound (reroll: 1-2 Trauma, 3 Frenzy, 4-5 Hurt, 6-7 Broken, 8-10 Threatened). |
+
+### Grace (d10)
+
+| Roll | Result | Minor | Major |
+|---|---|---|---|
+| 1 | Insight | +2 dice next roll OR -1 foe succ on next Resisted. | keep Minor for scene OR double for one roll. |
+| 2 | Vigor | recover 1 HL. | recover from Trauma OR 3 HL OR heal 1 agg. |
+| 3-4 | Advantage | one roll. | until fail/scene end/burn trouble. |
+| 5-6 | Found | a clue or non-major item. | major plot element, rare item, or quest resolution if narratively appropriate. |
+| 7 | Powerful | +2 dmg or +2 degrees of success. | +4 dmg or +4 degrees. Extra succ can snatch victory from failure. |
+| 8-10 | Shift | narrate shift. | shift + compound (reroll: 1-2 Insight, 3-4 Vigor, 5-6 Advantage, 7-8 Found, 9-10 Powerful). |
 
 ## ORACLES
 
 Story Oracle (d10): Custom 10-entry table in session-state.md. Roll before Trouble/Grace to tie results to personal storylines. Entry 10 is always "(something new)." Remove resolved entries; fill empty slots with new story elements or roll Reason Oracle.
 
 Reason Oracle (d10): Why is something happening?
+
 | Roll | Source |
+|---|---|
 | 1 | Concept |
 | 2 | Nature |
 | 3 | Demeanor |
@@ -142,7 +172,9 @@ Reason Oracle (d10): Why is something happening?
 
 Quick Yes/No Oracle (d10+modifier) — use for quick, low-stakes checks where you don't want to risk triggering a Random Event. For narrative Fate Questions during play, use the Fate Check instead:
 Odds modifier: Slim to none -4, Not Likely -2, Don't Know 0, Likely +2, Very Likely +4. Roll 1d10 + modifier. 6+ = Yes.
+
 | Total | Result |
+|---|---|
 | 0 or under | No, and more bad news |
 | 1-2 | No |
 | 3-5 | No, but some good news |
@@ -151,7 +183,9 @@ Odds modifier: Slim to none -4, Not Likely -2, Don't Know 0, Likely +2, Very Lik
 | 10+ | Yes, and some good news |
 
 Threats Oracle (d10):
+
 | Roll | Threat | Sub-roll (d10) |
+|---|---|---|
 | 1 | Supernatural (werewolf, mage, ghost) | — |
 | 2-3 | Vampire | 1-2 Elder, 3-6 Ancilla, 7-10 Neonate |
 | 4-5 | Ghoul | 1-4 Highly Skilled, 5-10 Average |
@@ -159,14 +193,18 @@ Threats Oracle (d10):
 | 10 | Animal | 1 Exotic/Monstrous, 2-5 Wild, 6-10 Pet |
 
 Clan Oracle (2d10): First roll = sect, second = clan.
+
 | Roll | Sect | Clans (d10) |
+|---|---|---|
 | 1-5 | Camarilla | 1 Brujah, 2 Gangrel, 3 Malkavian, 4 Nosferatu, 5 Toreador, 6 Tremere, 7 Ventrue, 8 obscure bloodline, 9 Sabbat/Ind defector, 10 Caitiff |
 | 6 | Sabbat | 1-3 Lasombra, 4-6 Tzimisce, 7-10 Antitribu |
 | 7-8 | Independent | 1-3 Assamite, 4-6 Followers of Set, 7-8 Giovanni, 9-10 Ravnos |
 | 9-10 | Anarch | 1-7 roll Camarilla, 8-10 Caitiff |
 
 Encounter System (CbN adapted for Gary): Roll 2d10, sum for Theme (2-20). Then 1d10 for specific encounter.
+
 | 2d10 | Theme |
+|---|---|
 | 2 | The Beast (hunger, frenzy, loss of control) |
 | 3 | Conspiracy (hidden plots, secret meetings) |
 | 4 | Desire (want, temptation, obsession) |
@@ -186,13 +224,38 @@ Encounter System (CbN adapted for Gary): Roll 2d10, sum for Theme (2-20). Then 1
 | 18 | Threats (direct danger, enemies moving) |
 | 19 | Vengeance (payback, old debts) |
 | 20 | Weirdness (bizarre, unexplained, Malkavian territory) |
+
 Gary Location Map: The Rack = The Torch, Rack strip. Elysium = Modius's mansion. The Hive = Downtown Gary. The Barrens = Wasteland, Telton Cemetery, Docks, abandoned factories. Haven = Darius's haven.
 
-Location Oracle: roll 2d10 on Tourniquet location tables (90 locations across 9 tables).
-Personalities Oracle: roll 2d10 on Tourniquet tables (95 mortal archetypes across 10 tables).
+Location Oracle (d10 twice — first roll picks table, second picks entry; table 10 is blank for custom locations):
+
+| Table | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
+|---|---|---|---|---|---|---|---|---|---|---|
+| 1 | Airport | After-Hours Dive Bar | Alley | All-You-Can-Eat Buffet | Amusement Park | Animal Shelter | Aquatics Center | Army Surplus Store | Art Gallery | Art House Cinema |
+| 2 | Asylum | Attorney's Office | Bank | Bookstore | Brothel | Bus Station | City Hall | Courthouse | Community College | Crematorium |
+| 3 | Doctors Office | Dojo | Docks | Drug Lab | Electronics Shop | Elysium | Ethnic Enclave | Factory | Fashion House | Five-Star Hotel |
+| 4 | Front Company | Gas Station | Gun Shop | Hardware Store | Hidden Temple | Homeless Shanty | Hospital | Indy Coffee Shop | Junk Shop | Junk Yard |
+| 5 | Laundromat | Library | Mechanic's Shop | Morgue | Museum | Newspaper Office | Nightclub | Nightclub, Trendy | No Tell Motel | Occult Bookseller |
+| 6 | Park | Pawnshop | Penthouse Condo | Photo Studio | Place of Worship | Police Substation | Police Station | Powerplant | Private Club | Private Detective Agency |
+| 7 | Psychic's Parlor | Public Swimming Pool | Racetrack | Restaurant | Rental Car Service | Roller Rink | Safe House | Sewer | Shooting Range | Slaughterhouse |
+| 8 | Slum Housing | Street Corner | Street Food Vendor | Sweatshop | Subway or Rail Station | Taxi Dispatch | Tech-Sector Office | Tenement Squat | Theater | TV or Radio Station |
+| 9 | Underground Boxing Club | Underground Nightclub | Underground Parking Lot | University | University Lab | Upscale Neighborhood | Used Car Dealership | Waste Plant | Zoo | — |
+| 10 | — | — | — | — | — | — | — | — | — | — |
+
+Personalities Oracle (d10 twice — first roll picks table, second picks entry; blank slots on tables 9-10 for custom archetypes):
+
+| Table | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
+|---|---|---|---|---|---|---|---|---|---|---|
+| 1-2 | Academic | Actor | Artist | Armed Robber | Bodyguard | Burglar | Card Shark | Clown | Club Kid | Comedian |
+| 3-4 | Computer Tech | Cowboy | Church Goer | Detective | Dilettante | Doctor | Drifter | Drug Dealer | Farmer | Federal Agent |
+| 5-6 | Gang Member | Journalist | Musician | Office Worker | Organized Crime Soldier | Organized Crime Boss | Photographer | Public Official, Local | Public Official, National | Priest |
+| 7-8 | Punk | Prostitute | Runaway | Scholar | Soldier | Spouse | Store Clerk | Street Rat | Student | Sycophant |
+| 9-10 | Teenager | Truck Driver | TV/Radio News Personality | Uniformed Police Officer | Writer | — | — | — | — | — |
 
 City District Oracle (d10):
+
 | Roll | District |
+|---|---|
 | 1 | Downtown, Business |
 | 2 | Downtown, Neighborhood |
 | 3 | Historical |
@@ -205,6 +268,7 @@ City District Oracle (d10):
 | 10 | Abandoned or Warehouse district |
 
 NPC Behavior (Mythic GME): Know + unimportant = improvise. Know + want to test = Fate Question. No idea = generate via context. Yes=expected. ExYes=expected+intense. No=next-most-expected. ExNo=opposite/intensified. Random Event=additional action.
+
 
 ## Chicago / Gary Encounter Tables
 
@@ -509,6 +573,7 @@ Use one headline at scene open to add mortal friction unrelated to the Jyhad. Th
 ### Darius Threads
 
 |Slot|Thread|Progress|
+|---|---|---|
 |1-2|Chuc Luc's pipeline (2x)|Pipeline OPERATIONAL. Berth 7 → warehouse → truck. Eddie Fells Dominated. Torch secured. Report to Chuc Luc Tuesday.|
 |3-4|Cover story (2x)|3/6. Replacement identity in motion via Chuc Luc.|
 |5|Gerald Fisk / Torch mortgage|RESOLVED. Mortgage assumed. $800/mo.|
@@ -516,26 +581,28 @@ Use one headline at scene open to add mortal friction unrelated to the Jyhad. Th
 |7|Brief Victor on FBI|RESOLVED (D016). Kept Victor ignorant — genuine ignorance IS the cover.|
 |8|Chuc Luc callback|DONE (D016). New orders: warehouse + customs gap by Tue July 17.|
 |9-10|Sullivan Dane's witch-hunt (2x)|2/6. Nine months of data.|
-|11|The slave auction|OPEN.|
+|11|The slave auction / D-Train|ESCALATED. D-Train visited burned church July 25 with companion who searched basement. Was in midtown Gary (Fifth & Grant Amoco) before. Knows operation is dead. Thursday intercept dead. Will report to Mama Roux. Keisha at risk if threads pulled.|
 |12|Juggler's secret (Evelyn)|OPEN. Juggler met (D018). Evelyn not mentioned. Hidden.|
 |13|Protect the Masquerade|OPEN.|
 |14|Claudette's Diablerie plot|HIDDEN.|
 |15|FBI/Shepard investigation|PLAN FORMING. Proxy + Danov forger. Juggler partnered. Torch Heat 5/6.|
 |16|Evelyn's existence|OPEN.|
 |17|Baptism by Fire (LATENT — NYE 1990)|—|
-|18|Marcus Webb — handle before Chuc Luc does|CONDITIONING IN PROGRESS. Session 1 complete (3/14). Session 2 Sunday July 22. Halfway (7) = -1 diff Dominate vs Webb. Danov print shop Tue July 24.|
+|18|Marcus Webb — handle before Chuc Luc does|CONDITIONING IN PROGRESS. **5/14** (session 2 complete July 22, timeskip +2 succ). Halfway (7) = -1 diff Dominate vs Webb. Danov print shop DELAYED — Danov spooked, next window Tue July 31.|
 |19|Warehouse + customs gap|RESOLVED (D017). Warehouse active. Eddie Fells = customs gap. Pipeline operational.|
-|20|Sal Cantone — stolen operation|MANAGED. Eddie REPROGRAMMED (D021). Forgetful Mind 5 (granite) + Mesmerize 3 (script holds unless violent). Step 2 expected ~July 25-28. Gap: violent interrogation cracks behavioral layer but memories hold.|
-|21|Lucian delivery (feeding rights)|REPORTED (D021). Layers 1-2 delivered to Modius by phone. Prince pleased. Court summons with "developments."|
-|22|Warren Birch proxy|CONDITIONING 3/14. Session 1 complete (July 21). Session 2 Sunday July 22 at 8 PM. Halfway (7) = -1 diff. Danov print shop Tue July 24 for photos/measurements.|
+|20|Sal Cantone — stolen operation|MANAGED + MODIUS MISSION. Eddie REINFORCED (D022): Forgetful Mind 5 + **Mesmerize 5** (both granite). Step 2 is paper trail — suits at union hall asking about warehouse leases. Modius assigned Darius to identify and resolve before Chicago representative (~2 weeks). Juggler's people at hall will hear if Darius investigates there.|
+|21|Lucian delivery / Modius mission|SUMMONS ANSWERED (D022). Mission: clean waterfront before Chicago representative (~2 weeks). Identify union hall men. Dock feeding rights granted. Don't involve Lucian or feds. Modius wants simple, boring, his.|
+|22|Warren Birch proxy|CONDITIONING **5/14**. Session 2 complete (July 22, timeskip). Halfway (7) = -1 diff. Danov print shop DELAYED — Danov spooked July 24, told Darius "next Tuesday, come alone first." Next window July 31.|
 |23|Church disposal|RESOLVED (D020). Polk & 13th burned. Ray Pulaski delivered.|
 |24|Williams notebook intel|RECEIVED (D019). 43 entries: D-Train (Thu), Mr. White (Milwaukee, Oct/Mar), B7/SC (Cantone-dock link). Intelligence asset.|
 |25|Lucian payment|$2K/month, lockbox in warehouse, first of August. Mutual discretion. Keyed scene resolved.|
-|26|COTERIE with Sable (NEW)|FORMED (S019, July 22). Full disclosure. MAD pact. Sable knows: 10th gen, Chuc Luc, pipeline, Webb Conditioning. Darius knows: 9th gen, Michael Payne, Big Six kill, ghouls, Allicia bond, H5. Tue/Fri 11 PM comms.|
+|26|COTERIE with Sable|ACTIVE. Comms gap identified (D022): no emergency contact method. Next scheduled call Fri July 27 11 PM. D-Train intel + Modius mission + Danov delay to share.|
+|27|Waterfront legibility (NEW)|Modius mission (D022). 2-week deadline. Identify Chicago men at union hall. Clean waterfront for representative. Juggler's people at hall. Unidentified waterfront presences after midnight. Dock feeding cleared.|
 
 ### Sable Threads
 
 |Thread|Weight|Status|
+|---|---|---|
 |Allicia — protect from Modius|2x|**PROGRESSING (S021).** Confined to mansion 4+ nights (since Sat July 20). Modius agreed to "make arrangements" to return Allicia to Torch for representative's visit. Timeline TBD but logic is too clean to refuse. Mutual blood bond (Allicia→Sable Step 2, Sable→Allicia Step 1). Window opening — Torch return = access outside mansion.|
 |Spy assignment (double agent)|2x|**PROMOTED (S021).** Attaché for incoming Chicago representative. Receive, charm, read aura, report. Within 2 weeks. More court access + more mansion proximity + more Auspex scrutiny. Torch report delivered successfully — Birch name de-emphasized.|
 |Modius leash|2x|4/6. Successful audience (S021). Attaché role = more access + more obligation. Modius pleased with FBI handling. Near-entrancement at scene open (SC 1 net). Relationship deepening in complexity.|
@@ -556,6 +623,7 @@ Use one headline at scene open to add mortal friction unrelated to the Jyhad. Th
 ### Shared Characters
 
 |Slot|Character|
+|---|---|
 |1-2|Modius (2x)|
 |3-4|Allicia (2x)|
 |5-6|Lucian (2x)|
@@ -595,6 +663,7 @@ Use one headline at scene open to add mortal friction unrelated to the Jyhad. Th
 ### Darius
 
 |d10|Prompt|
+|---|---|
 |1|I build systems. Structure underneath, who needs what, who pays.|
 |2|Keep your head down. Play the game. Survive.|
 |3|Chuc Luc has me in Gary doing a job. I don't know when it ends.|
@@ -609,6 +678,7 @@ Use one headline at scene open to add mortal friction unrelated to the Jyhad. Th
 ### Sable
 
 |d10|Prompt|
+|---|---|
 |1|My face is my business. Protect it like money.|
 |2|Every man who looks at me sees something different. None of them see me.|
 |3|Michael painted me like I was already dead. I didn't know how right he was.|
