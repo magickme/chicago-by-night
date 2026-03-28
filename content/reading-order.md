@@ -3,11 +3,6 @@ title: "Reading Order"
 description: "Published scenes in chronological order, organized by chapter."
 layout: "page"
 slug: "reading-order"
-menu:
-  main:
-    weight: 2
-    params:
-      icon: "hash"
 ---
 
 Published scenes from **Chicago Chronicles** in chronological order. Current public material is from **Act I: Forged in Steel**.

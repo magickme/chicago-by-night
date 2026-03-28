@@ -3,11 +3,6 @@ title: "Gary — 1990 Territory Map"
 description: "Interactive map of Gary, Indiana. Kindred territories, key locations, and the killing ground."
 layout: "page"
 slug: "map"
-menu:
-  main:
-    weight: 8
-    params:
-      icon: "home"
 ---
 
 <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />

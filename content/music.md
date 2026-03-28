@@ -3,11 +3,6 @@ title: "Soundtrack"
 description: "Instrumental music for every act. Matched to scene, city, and mood."
 layout: "page"
 slug: "music"
-menu:
-  main:
-    weight: 12
-    params:
-      icon: "rss"
 ---
 
 <style>

@@ -3,11 +3,6 @@ title: "Dashboard"
 description: "Live chronicle state derived from session-state.md."
 layout: "page"
 slug: "dashboard"
-menu:
-  main:
-    weight: 4
-    params:
-      icon: "dots"
 ---
 
 *Chicago Chronicles. Act I: Forged in Steel. Updated: **1990-12-05 (Wednesday night/Thursday morning)**.*

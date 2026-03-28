@@ -1,97 +1,49 @@
 baseURL: "https://chicago-by-night.pages.dev/"
 languageCode: en-us
 title: Chicago Chronicles
-theme: hugo-theme-stack
+theme: archie
+copyright: "Chicago Chronicles"
+
+pygmentsStyle: monokai
+pygmentsCodeFences: true
+pygmentsCodeFencesGuessSyntax: true
 
 pagination:
   pagerSize: 20
 
 params:
-  mainSections:
-    - posts
+  mode: "light"
+  useCDN: false
+  subtitle: "Act I: Forged in Steel. Gary, Indiana, 1990."
   description: "Chicago Chronicles — solo Vampire: The Masquerade across the southern Lake Michigan corridor"
-  rssFullContent: true
-
-  footer:
-    since: 2026
-    customText: ""
-
-  dateFormat:
-    published: "January 2, 2006"
-    lastUpdated: "January 2, 2006"
-
-  sidebar:
-    compact: false
-    emoji: ""
-    subtitle: "Chicago Chronicles. Act I: Forged in Steel. Gary, Indiana, 1990."
-
-  article:
-    headingAnchor: false
-    math: false
-    toc: false
-    readingTime: true
-    license:
-      enabled: false
-
-  colorScheme:
-    toggle: false
-    default: "light"
-
-  comments:
-    enabled: false
-
-  imageProcessing:
-    content:
-      widths: [800, 1600]
-      enabled: false
-    thumbnail:
-      enabled: false
-
-  widgets:
-    homepage:
-      - type: categories
-    page:
-      - type: categories
-      - type: toc
+  customcss:
+    - "css/gothic.css"
 
 menu:
   main:
-    - identifier: campaign
-      name: Campaign
+    - name: Posts
+      url: /posts/
+      weight: 1
+    - name: Campaign
       url: /campaign/
-      weight: 20
-      params:
-        icon: hash
-    - identifier: characters
-      name: Characters
+      weight: 2
+    - name: Characters
       url: /characters/
-      weight: 22
-      params:
-        icon: user
-    - identifier: world
-      name: World
+      weight: 3
+    - name: World
       url: /world/
-      weight: 24
-      params:
-        icon: categories
-    - identifier: guide
-      name: Method
+      weight: 4
+    - name: Method
       url: /guide/
-      weight: 26
-      params:
-        icon: search
-    - identifier: about
-      name: About
+      weight: 5
+    - name: About
       url: /about/
-      weight: 28
-      params:
-        icon: link
+      weight: 6
 
 outputs:
   home:
     - HTML
     - RSS
-    - JSON
 
 markup:
   goldmark:

@@ -3,11 +3,6 @@ title: "Random Tables"
 description: "Canonical oracle and encounter tables for Chicago Chronicles, generated from the live vault."
 layout: "page"
 slug: "random-tables"
-menu:
-  main:
-    weight: 6
-    params:
-      icon: "hash"
 ---
 
 *Chicago Chronicles random tables. Generated from the vault's current canonical sources, including live Mythic lists and story oracles from `session-state.md`.*

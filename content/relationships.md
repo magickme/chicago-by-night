@@ -3,11 +3,6 @@ title: "Relationship Maps"
 description: "Gary's Kindred power structure and the coterie's personal networks. July 1990."
 layout: "page"
 slug: "relationships"
-menu:
-  main:
-    weight: 10
-    params:
-      icon: "infinity"
 ---
 
 *Current as of July 21, 1990. Solid lines = active relationships. Dashed lines = hidden, latent, or threatened.*
