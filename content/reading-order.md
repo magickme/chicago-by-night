@@ -180,11 +180,12 @@ Published scenes from **Chicago Chronicles** in chronological order. Current pub
 
 ### Chapter 10 -- The Spur
 
-*Dec 4, 1990, 4:25 PM through Dec 4, 1990, 4:25 PM.*
+*Dec 4, 1990, 4:25 PM through Dec 5, 1990, 4:25 PM.*
 
 | # | Scene | PC | Date |
 |---|---|---|---|
 | 44 | [The Spur -- Tuesday, 4 December 1990, 4:25 PM](/posts/the-spur/) | Darius | Dec 4, 1990, 4:25 PM |
+| 45 | [The Rounds -- Wednesday, 5 December 1990, 4:25 PM](/posts/the-rounds/) | Sable | Dec 5, 1990, 4:25 PM |
 
 ## Other Chronicles
 
