@@ -3,6 +3,11 @@ title: "Reading Order"
 description: "Published scenes in chronological order, organized by chapter."
 layout: "page"
 slug: "reading-order"
+menu:
+  main:
+    weight: 2
+    params:
+      icon: "hash"
 ---
 
 Published scenes from **Chicago Chronicles** in chronological order. Current public material is from **Act I: Forged in Steel**.
@@ -175,12 +180,13 @@ Published scenes from **Chicago Chronicles** in chronological order. Current pub
 
 ### Chapter 10 -- The Spur
 
-*Dec 4, 1990, 4:25 PM through Dec 5, 1990, 4:25 PM.*
+*Dec 4, 1990, 4:25 PM through Dec 6, 1990, 4:25 PM.*
 
 | # | Scene | PC | Date |
 |---|---|---|---|
 | 44 | [The Spur -- Tuesday, 4 December 1990, 4:25 PM](/posts/the-spur/) | Darius | Dec 4, 1990, 4:25 PM |
 | 45 | [The Rounds -- Wednesday, 5 December 1990, 4:25 PM](/posts/the-rounds/) | Sable | Dec 5, 1990, 4:25 PM |
+| 46 | [The Hunt -- Thursday, 6 December 1990, 4:25 PM](/posts/the-hunt-s024/) | Sable | Dec 6, 1990, 4:25 PM |
 
 ## Other Chronicles
 
