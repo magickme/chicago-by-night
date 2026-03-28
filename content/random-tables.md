@@ -557,7 +557,7 @@ Use one headline at scene open to add mortal friction unrelated to the Jyhad. Th
 
 |Slot|Thread|Progress|
 |---|---|---|
-|1-2|Chuc Luc's pipeline (2x)|Pipeline OPERATIONAL. Berth 7 → warehouse → truck. Eddie Fells Dominated. Torch secured. Report to Chuc Luc Tuesday.|
+|1-2|Chuc Luc's pipeline (2x)|Pipeline OPERATIONAL. Berth 7 → warehouse → truck. Eddie Fells Dominated. Torch secured. AUTONOMY GRANTED (D026). Monthly reports, first Tuesday. Three conditions: no expansion, no Chicago contact, no unauthorized spending.|
 |3-4|Cover story (2x)|2/6. Federal-grade Birch paper delivered. Webb operational as proxy. Identity solid.|
 |5|Gerald Fisk / Torch mortgage|RESOLVED. Mortgage assumed. $800/mo.|
 |6|Lucian feeding rights|DELIVERED. Annual, renewable. Accepted.|
@@ -570,7 +570,7 @@ Use one headline at scene open to add mortal friction unrelated to the Jyhad. Th
 |14|Claudette's Diablerie plot|HIDDEN.|
 |15|FBI/Shepard investigation|PLAN FORMING. Proxy + Danov forger. Juggler partnered. Torch Heat 5/6.|
 |16|Evelyn's existence|OBSERVED. Lives in ore smelter (Juggler's haven). Feeds at Torch. Unauthorized. Not reported to Modius. Leverage over Juggler.|
-|17|Baptism by Fire (LATENT — NYE 1990)|—|
+|17|Baptism by Fire (LATENT — NYE 1990)|Chicago views Gary as 'stable but fragile' (per Horace). Coterie signal system planned, deliverable Friday.|
 |18|Marcus Webb — handle before Chuc Luc does|COMPLETE. 14/14. Webb = Birch. Fully conditioned proxy.|
 |19|Warehouse + customs gap|RESOLVED (D017). Warehouse active. Eddie Fells = customs gap. Pipeline operational.|
 |20|Sal Cantone — stolen operation|CLOSED. Paper trail dead. RICO. Cantone moved on.|
@@ -581,15 +581,16 @@ Use one headline at scene open to add mortal friction unrelated to the Jyhad. Th
 |25|Lucian payment|$2K/month, lockbox in warehouse, first of August. Mutual discretion. Keyed scene resolved.|
 |26|COTERIE with Sable|ACTIVE. Comms gap identified (D022): no emergency contact method. Next scheduled call Fri July 27 11 PM. Full debrief: Obfuscate visitor, surveillance blind, water presence, waymarker, Lakeshore IS, Modius reaction. Task Sable: Greer → Lakeshore IS records.|
 |27|Waterfront legibility|Modius mission (D022). PATROL COMPLETE (D023): mortal surveillance blind Berth 8 (Marlboro, binoculars, weeks of use), water presence Berth 3 (fast, low, gone), Gangrel waymarker rail spur (fresh, "claimed ground"). Reported to Modius. Orders: continue monitoring, watch for more waymarkers, identify water presence. Do NOT approach Lucian.|
-|28|Mystery Obfuscate visitor|NEW (D023). Cased warehouse (wiped window, repositioned pallet). Asked Ray about Eddie, FBI, Shepard, warehouse activity. Memory-fogging effect on Ray. Vanished at rail spur "corner that wasn't there." Message via Ray: "not his enemy, wants to meet directly, Tuesday." Darius thinks Danov proxy (**WRONG — botched Int+Politics**). Identity unknown. Obfuscate 3+ confirmed.|
+|28|Mystery Obfuscate visitor|RESOLVED (D026). Was Horace Turnbull, Chicago Malkavian. Matchbook received. Communication channel established.|
 |29|Dane at 4/6|Pamphlet diagnostic, active surveillance, True Faith 5 hunter closing in. Notebook mark Dec 2 — no breath-cloud confirmation.|
+|30|Horace Turnbull / Chicago Line|ACTIVE. Boon owed (one favor, open-ended). Communication: The Cave, Fred, 'chess tournament.' WARNING: violates Chuc Luc's 'no Chicago Kindred contact' condition.|
 
 ### Sable Threads
 
 |Thread|Weight|Status|
 |---|---|---|
 |Allicia — protect from Modius|2x|**WORSENING.** Confined Wed/Sat Torch piano only, shorter leash. Bond-breaking thread urgent — Carna (Tremere, Milwaukee) only viable path. Modius not pressing with Auspex — pressing with architecture (isolation, confinement, schedule control). Blood-taste bomb still ticking.|
-|Spy assignment (double agent)|2x|COMPLETED (Pierce visit). Attaché role fulfilled. No further assignment pending.|
+|Spy assignment (double agent)|2x|COMPLETED (Sir Henry visit). Attaché role fulfilled. No further assignment pending.|
 |Modius leash|2x|4/6. Successful audience (S021). Attaché role = more access + more obligation. Modius pleased with FBI handling. Near-entrancement at scene open (SC 1 net). Relationship deepening in complexity.|
 |Sharon Payne's vendetta|3x|1/6. Letter sent. Unknown sender. COTERIE-LEVEL THREAT. Darius building early warning system.|
 |Michael Payne — absent sire|2x|ESCALATED. Missing. Darius now aware.|
@@ -603,7 +604,7 @@ Use one headline at scene open to add mortal friction unrelated to the Jyhad. Th
 |Burgundy Oldsmobile|1x|**IDENTIFIED (S021).** Frank Kowalski, probable PI, Berwyn IL. Schedule: Mon 11 PM-2 AM. Monday stakeout prepped (S022): Spoon back Sunday, DeShawn overwatch Fifteenth, Coop on call, Sable on foot south Sixteenth. Watching first. Next: identify Kowalski's client.|
 |COTERIE with Darius|2x|ACTIVE. First scheduled call completed (S021, July 24 11 PM). Full disclosure both directions. Darius processing Chicago representative implications. Tue/Fri 11 PM comms.|
 |Modius mansion visit|1x|**RESOLVED (S021).** Audience complete. Report delivered. Task received. Allicia concession won.|
-|Chicago representative|2x|RESOLVED. Pierce visited Aug. Left satisfied. No Archon. Coterie undetected.|
+|Chicago representative|2x|RESOLVED. Sir Henry visited Aug. Left satisfied. No Archon. Coterie undetected.|
 |Carna bond-breaking (BACKGROUND)|1x|Allicia's only viable path to break 52-year blood bond to Modius. Carna (Tremere, Milwaukee) offered to weaken the bond in 1971. Allicia was too afraid. Allicia now confined Wed/Sat Torch only — shorter leash, deteriorating. Thread URGENT. Milwaukee = Act III territory. Long-term thread but timeline compressing.|
 
 ### Shared Characters
@@ -644,6 +645,7 @@ Use one headline at scene open to add mortal friction unrelated to the Jyhad. Th
 |37|Reva Watts (mortal, bartender, east side Gary — Sable Contact 1)|
 |38|Frank Kowalski (mortal, PI, Berwyn — Olds driver IDENTIFIED)|
 |39|Thomas Wójcik (mortal, fired dock supervisor, fed/wiped D023)|
+|40|Horace Turnbull (Malkavian 10th, Chicago, double agent)|
 
 ## Live Story Oracles
 

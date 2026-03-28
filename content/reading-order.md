@@ -178,6 +178,14 @@ Published scenes from **Chicago Chronicles** in chronological order. Current pub
 |---|---|---|---|
 | 43 | [The Hunt](/posts/the-hunt-d025/) | Darius | Dec 3, 1990, 4:25 PM |
 
+### Chapter 10 -- The Spur
+
+*Dec 4, 1990, 4:25 PM through Dec 4, 1990, 4:25 PM.*
+
+| # | Scene | PC | Date |
+|---|---|---|---|
+| 44 | [The Spur -- Tuesday, 4 December 1990, 4:25 PM](/posts/the-spur/) | Darius | Dec 4, 1990, 4:25 PM |
+
 ## Other Chronicles
 
 ### Hell's Highway
