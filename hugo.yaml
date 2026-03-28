@@ -1,7 +1,7 @@
 baseURL: "https://chicago-by-night.pages.dev/"
 languageCode: en-us
 title: Chicago Chronicles
-theme: archie
+theme: ananke
 copyright: "Chicago Chronicles"
 
 pygmentsStyle: monokai
@@ -12,12 +12,19 @@ pagination:
   pagerSize: 20
 
 params:
-  mode: "light"
-  useCDN: false
-  subtitle: "Act I: Forged in Steel. Gary, Indiana, 1990."
+  mainSections:
+    - posts
   description: "Chicago Chronicles — solo Vampire: The Masquerade across the southern Lake Michigan corridor"
-  customcss:
-    - "css/gothic.css"
+  date_format: "January 2, 2006"
+  body_classes: "avenir bg-near-white"
+  background_color_class: "bg-black"
+  text_color: "dark-gray"
+  post_content_classes: "serif"
+  show_reading_time: true
+  custom_css:
+    - "gothic.css"
+  ananke:
+    show_recent_posts: true
 
 menu:
   main:
