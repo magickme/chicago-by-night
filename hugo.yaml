@@ -17,11 +17,8 @@ params:
   nav:
     - heading: "The Story"
       items:
-        - name: "Reading Order"
+        - name: "All Scenes"
           url: "/reading-order/"
-        - name: "Latest Scenes"
-          url: "/posts/"
-          children: 5
         - name: "Characters"
           url: "/characters/"
     - heading: "The Chronicle"
