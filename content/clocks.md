@@ -7,27 +7,33 @@ slug: "clocks"
 
 <style>
 .clock-grid { display: grid; grid-template-columns: 1fr; gap: 2rem; margin: 2rem 0; }
-.clock-card { border: 2px solid #d4d4d4; border-radius: 12px; padding: 2rem; background: #fafafa; font-size: 18px !important; }
+.clock-card { border: 2px solid var(--border); border-radius: 12px; padding: 2rem; background: var(--cream); font-size: 18px !important; }
 .clock-card * { font-size: inherit; }
 .clock-card.critical { border-color: #dc2626; border-width: 3px; background: #fef2f2; }
 .clock-card.keyed { border-color: #d97706; border-width: 3px; background: #fffbeb; }
 .clock-card.closed { border-color: #a8a29e; background: #f5f5f4; opacity: 0.5; }
 .clock-card.complete { border-color: #16a34a; border-width: 3px; background: #f0fdf4; }
-.clock-name { font-weight: 700 !important; font-size: 24px !important; margin-bottom: 0.5rem; }
+.clock-name { font-weight: 700 !important; font-size: 24px !important; margin-bottom: 0.5rem; color: inherit; }
 .clock-pips { font-size: 56px !important; letter-spacing: 0.4rem; margin: 0.75rem 0; font-family: monospace; line-height: 1.2; }
 .pip-filled { color: #dc2626 !important; }
 .pip-empty { color: #d4d4d4 !important; }
 .pip-filled.green { color: #16a34a !important; }
 .pip-filled.amber { color: #d97706 !important; }
 .pip-filled.blue { color: #2563eb !important; }
-.clock-status { font-size: 16px !important; color: #57534e !important; margin-top: 0.75rem; line-height: 1.6; }
-.clock-status strong { color: #1c1917 !important; }
+.clock-status { font-size: 16px !important; color: var(--text-muted) !important; margin-top: 0.75rem; line-height: 1.6; }
+.clock-status strong { color: var(--text) !important; }
 .clock-badge { display: inline-block; font-size: 13px !important; font-weight: 700; text-transform: uppercase; padding: 0.25rem 0.7rem; border-radius: 4px; margin-left: 0.5rem; vertical-align: middle; letter-spacing: 0.05rem; }
 .badge-critical { background: #dc2626; color: white !important; }
 .badge-keyed { background: #d97706; color: white !important; }
 .badge-closed { background: #a8a29e; color: white !important; }
 .badge-complete { background: #16a34a; color: white !important; }
-.section-label { font-size: 18px !important; text-transform: uppercase; letter-spacing: 0.12rem; color: #78716c !important; font-weight: 700; margin: 3rem 0 1rem; padding-bottom: 0.5rem; border-bottom: 2px solid #e7e5e4; }
+.section-label { font-size: 18px !important; text-transform: uppercase; letter-spacing: 0.12rem; color: var(--text-faint) !important; font-weight: 700; margin: 3rem 0 1rem; padding-bottom: 0.5rem; border-bottom: 2px solid var(--border); }
+/* Dark mode: muted tinted backgrounds for status cards */
+[data-theme="dark"] .clock-card.critical { background: #2A1A1A; }
+[data-theme="dark"] .clock-card.keyed { background: #2A2418; }
+[data-theme="dark"] .clock-card.closed { background: #252322; }
+[data-theme="dark"] .clock-card.complete { background: #1A2A1C; }
+[data-theme="dark"] .pip-empty { color: #4A4745 !important; }
 </style>
 
 *Gary, Indiana. Updated: **December 6, 1990.** All clocks /6. At 4/6, local heat spills into Masquerade. At 6/6, active crisis. Baptism by Fire: 25 days.*

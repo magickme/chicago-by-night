@@ -6,6 +6,21 @@ description: "Sable Ann Price. Toreador. Gary, Indiana. Chicago Chronicles, Act 
 image: cover.webp
 ---
 
+<div class="character-profile">
+<img src="cover.webp" alt="Sable Price" class="character-portrait">
+<div class="character-stats">
+<dl>
+<dt>Full Name</dt><dd>Sable Ann Price</dd>
+<dt>Clan</dt><dd>Toreador</dd>
+<dt>Generation</dt><dd>9th</dd>
+<dt>Sire</dt><dd>Michael Payne (absent)</dd>
+<dt>Haven</dt><dd>Kendrick's Auto, Gary</dd>
+<dt>Nature / Demeanor</dt><dd>Survivor / Bon Vivant</dd>
+<dt>Disciplines</dt><dd>Presence, Auspex, Celerity</dd>
+</dl>
+</div>
+</div>
+
 ## Who Is She
 
 Sable Ann Price is a twenty-one-year-old Black woman from the Robert Taylor Homes who has been dead for fourteen months and beautiful her entire life and has never once been seen.

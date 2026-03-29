@@ -28,11 +28,13 @@
   </header>
 
   {{ with .PrevInSection }}
+    {{ if intersect .Params.tags (slice "vtm") }}
   <details class="previously" aria-label="Previous scene context">
     <summary>Previously: {{ .Title | truncate 60 }}</summary>
     <p>{{ with .Description }}{{ . }}{{ else }}{{ .Summary | plainify | truncate 200 }}{{ end }}</p>
     <a href="{{ .Permalink }}">Read full scene</a>
   </details>
+    {{ end }}
   {{ end }}
 
   {{ with .Description }}

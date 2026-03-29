@@ -8,20 +8,20 @@ slug: "music"
 <style>
 .act-block { margin: 3rem 0; }
 .act-header { font-size: 22px !important; font-weight: 800; margin-bottom: 0.25rem; }
-.act-sub { font-size: 15px !important; color: #78716c; margin-bottom: 1.5rem; font-style: italic; }
+.act-sub { font-size: 15px !important; color: var(--text-faint); margin-bottom: 1.5rem; font-style: italic; }
 .album-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 1rem; margin: 1rem 0; }
 @media (max-width: 768px) { .album-grid { grid-template-columns: 1fr; } }
-.album-card { border: 1px solid #292524; border-radius: 6px; padding: 1rem 1.25rem; background: #1c1917; color: #e7e5e4; }
-.album-artist { font-weight: 700; font-size: 16px !important; color: #fbbf24; }
-.album-title { font-size: 15px !important; font-style: italic; color: #d6d3d1; }
-.album-year { font-size: 12px !important; color: #78716c; }
-.album-use { font-size: 13px !important; color: #a8a29e; margin-top: 0.5rem; line-height: 1.5; }
-.transition-card { border-left: 3px solid #fbbf24; padding: 1rem 1.25rem; margin: 2rem 0; background: #292524; border-radius: 0 6px 6px 0; color: #e7e5e4; }
-.transition-label { font-size: 12px !important; text-transform: uppercase; letter-spacing: 0.1rem; color: #fbbf24; font-weight: 700; }
-.transition-desc { font-size: 14px !important; color: #d6d3d1; margin-top: 0.4rem; line-height: 1.6; }
+.album-card { border: 1px solid var(--border); border-radius: 6px; padding: 1rem 1.25rem; background: var(--code-bg); color: var(--text); }
+.album-artist { font-weight: 700; font-size: 16px !important; color: var(--accent); }
+.album-title { font-size: 15px !important; font-style: italic; color: var(--text-muted); }
+.album-year { font-size: 12px !important; color: var(--text-faint); }
+.album-use { font-size: 13px !important; color: var(--text-muted); margin-top: 0.5rem; line-height: 1.5; }
+.transition-card { border-left: 3px solid var(--accent); padding: 1rem 1.25rem; margin: 2rem 0; background: var(--cream); border-radius: 0 6px 6px 0; color: var(--text); }
+.transition-label { font-size: 12px !important; text-transform: uppercase; letter-spacing: 0.1rem; color: var(--accent); font-weight: 700; }
+.transition-desc { font-size: 14px !important; color: var(--text-muted); margin-top: 0.4rem; line-height: 1.6; }
 .scene-table { width: 100%; border-collapse: collapse; margin: 1.5rem 0; font-size: 14px !important; }
-.scene-table th { text-align: left; padding: 0.5rem; border-bottom: 2px solid #292524; color: #78716c; font-size: 12px !important; text-transform: uppercase; }
-.scene-table td { padding: 0.5rem; border-bottom: 1px solid #e7e5e4; }
+.scene-table th { text-align: left; padding: 0.5rem; border-bottom: 2px solid var(--border); color: var(--text-faint); font-size: 12px !important; text-transform: uppercase; }
+.scene-table td { padding: 0.5rem; border-bottom: 1px solid var(--border); }
 .scene-table td:first-child { font-weight: 600; }
 </style>
 

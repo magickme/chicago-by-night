@@ -6,6 +6,21 @@ description: "Darius Jeremiah Cole. Ventrue. Gary, Indiana. Chicago Chronicles, 
 image: cover.webp
 ---
 
+<div class="character-profile">
+<img src="cover.webp" alt="Darius Cole" class="character-portrait">
+<div class="character-stats">
+<dl>
+<dt>Full Name</dt><dd>Darius Jeremiah Cole</dd>
+<dt>Clan</dt><dd>Ventrue</dd>
+<dt>Generation</dt><dd>10th (presents as 12th)</dd>
+<dt>Sire</dt><dd>Chuc Luc (secret)</dd>
+<dt>Haven</dt><dd>West-side apartment, Gary</dd>
+<dt>Nature / Demeanor</dt><dd>Director / Conformist</dd>
+<dt>Feeding Restriction</dt><dd>People who owe debts they can't pay</dd>
+</dl>
+</div>
+</div>
+
 ## Who Is He
 
 Darius Jeremiah Cole is a twenty-seven-year-old Black man from Gary, Indiana, who has been dead for approximately eight months. In mortal terms, he was a mid-level fence and street broker — successful enough to eat well, not successful enough to attract federal attention. In Kindred terms, he is a 10th-generation Ventrue neonate pretending to be 12th — an illicit childe of a sire no one knows exists, planted in a city ruled by a puppet prince, tasked with building a money pipeline through an ancient Gangrel's smuggling operation.

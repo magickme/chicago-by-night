@@ -8,7 +8,7 @@ ShowToc: false
 
 # World-Building: Vampire: The Masquerade
 
-<img src="/setting-images/brujah.webp" alt="Brujah revolutionary" class="w-full rounded-lg my-6" />
+<img src="/setting-images/brujah.webp" alt="Brujah revolutionary" class="world-img" />
 <figcaption>Brujah: Punks, rabble-rousers, anarchists, revolutionaries, communists, union heavies.</figcaption>
 
 ## A Beast I Am, Lest a Beast I Become
@@ -23,7 +23,7 @@ The world of the game is the same as our world, except that vampires are real, a
 
 As initially written, the game was meant to be played within a single city setting. Players took the roles of new vampires in the city, comparatively weaker than elder vampires who might be hundreds or thousands of years old, who had to navigate their way through a world of conspiracies, supernatural creatures and political machinations going back centuries if not millennia. *It was, and is, a whole lot of fun.*
 
-<img src="/setting-images/chicago_coterie.webp" alt="A coterie of Kindred in Chicago, 1991" class="w-full rounded-lg my-6" />
+<img src="/setting-images/chicago_coterie.webp" alt="A coterie of Kindred in Chicago, 1991" class="world-img" />
 <figcaption>A coterie of Kindred in Chicago, 1991.</figcaption>
 
 ### The Curse of Caine
@@ -38,7 +38,7 @@ This means that, while theoretically immortal, Kindred are also very vulnerable 
 
 The primary goal of all Kindred is to make sure that the mortals they feed on like cattle (called "Kine" by vampires) never, ever find out they exist. In order to do this, the various sub-types (or "Clans") of Kindred have banded together to create "The Masquerade," a species-wide enforced law that Kindred must remain hidden at all times.
 
-<img src="/setting-images/blood.webp" alt="Kindred with Blood Doll" class="w-full rounded-lg my-6" />
+<img src="/setting-images/blood.webp" alt="Kindred with Blood Doll" class="world-img" />
 <figcaption>Kindred with Blood Doll, a mortal whose erotic fulfillment comes from being prey to vampires. Private VIP lounge, Succubus Club, Chicago, 1991.</figcaption>
 
 The most important method by which the Masquerade is upheld is by keeping the Kindred population low—as a general rule of thumb, the mortal population will support about one vampire per 100,000 humans without things getting out of hand.
@@ -51,7 +51,7 @@ The second order effect of this constraint on population is that Kindred are per
 
 It also means that vampiric reproduction rights are tightly controlled by the Camarilla. In the United States (with some notable exceptions), nearly every city that harbors more than a few Kindred has a "Prince," who rules over the city in an almost feudal style, and bears final responsibility for upholding the Masquerade and rewarding or denying the ability to create more Kindred. Princes usually, though not always, belong to the Ventrue clan.
 
-<img src="/setting-images/blood3.webp" alt="Ventrue domitor with ghoul vassals" class="w-full rounded-lg my-6" />
+<img src="/setting-images/blood3.webp" alt="Ventrue domitor with ghoul vassals" class="world-img" />
 <figcaption>Ventrue domitor feeds her brood of ghoul vassals—mortals who have become temporarily imbued with vampiric strength by drinking small amounts of Kindred vitae, often used as mind-controlled slaves. Chicago, 1991.</figcaption>
 
 ### Power, Politics, and the Addiction
@@ -66,7 +66,7 @@ Ultimately, vampires are addicts. They are addicted to blood, and will do litera
 
 ## The Seven Clans
 
-<img src="/setting-images/elysium2.webp" alt="Kindred of many clans gather in Elysium, a designated social area where violence is expressly forbidden" class="w-full rounded-lg" />
+<img src="/setting-images/elysium2.webp" alt="Kindred of many clans gather in Elysium, a designated social area where violence is expressly forbidden" class="world-img" />
 <figcaption>Kindred of many clans gather in Elysium, a designated social area that exists in all Camarilla cities, where violence is expressly forbidden.</figcaption>
 
 There are seven (plus one) Clans of Kindred. They are as follows.
@@ -87,7 +87,7 @@ There are seven (plus one) Clans of Kindred. They are as follows.
 
 - To these are added **Caitiff**, the clanless, who are considered the status-less untouchables of the Vampire world.
 
-<img src="/setting-images/elysium1.webp" alt="Toreador gathering at Elysium" class="w-full rounded-lg" />
+<img src="/setting-images/elysium1.webp" alt="Toreador gathering at Elysium" class="world-img" />
 <figcaption>The Toreador: Art-obsessed, pretentious, high society vampires consumed by beauty and culture.</figcaption>
 
 Kindred cannot choose their clan. Whatever clan the vampire that Sired (created) them was will determine the clan the fledgling vampire is. It is the blood itself that determines the clan, and passes down the strengths, weaknesses and even supernatural powers (Disciplines) that vampire has access to.
@@ -106,7 +106,7 @@ A *Sect* is a political coalition of Kindred of many different clans who have ba
 
 During the Middle Ages, the Kindred were nearly annihilated by the Catholic Inquisition, who discovered their existence while looking for mortal witches. In response, the remaining vampires of the seven clans banded together in a mafia-like syndicate called the Camarilla, and adopted the Masquerade and other sect-wide rules and strategies designed to hide vampires completely from mortal society. The Kindred of the Camarilla have essentially made a pact to stay "in the closet" forever, and make sure the other vampires stay there, too, for their own collective safety.
 
-<img src="/setting-images/camarilla.webp" alt="Board meeting of a Camarilla Prince and her Primogen" class="w-full rounded-lg" />
+<img src="/setting-images/camarilla.webp" alt="Board meeting of a Camarilla Prince and her Primogen" class="world-img" />
 <figcaption>Board meeting of a Camarilla Prince and her Primogen.</figcaption>
 
 The Camarilla appoints a **Prince** (who can be of any gender or Clan) over each city that contains a Kindred population. This Prince is advised and overseen by a group of Kindred called the **Primogen**, usually composed of the eldest Kindred in the city, who act as a kind of Board of Directors for the city.
@@ -117,7 +117,7 @@ In 1991, the Camarilla controls much of the East Coast, South and Midwest of Ame
 
 However, not all Kindred accepted the mandate of the Camarilla. Many at the time, and many today, are in open revolt against it, and refuse the rule of Princes, Primogen or elders. While nearly all ancillae (100-200+ years old) and elders (200-300+) actively support and uphold the Camarilla, many younger vampires, known as Neonates, are tempted to rebel against their elders, and make up the bulk of the Anarchs. The Anarchs and Camarilla are often at war in major cities (including Chicago), engaged in brutal paramilitary struggle reminiscent of the Troubles in Ireland, including riots, sabotage, car bombs, urban snipers and all the rest.
 
-<img src="/setting-images/anarch.webp" alt="A Brujah Anarch prepares for war" class="w-full rounded-lg" />
+<img src="/setting-images/anarch.webp" alt="A Brujah Anarch prepares for war" class="world-img" />
 <figcaption>A Brujah Anarch prepares Molotov cocktails and readies himself for war.</figcaption>
 
 In 1991, the Anarchs control much of the West Coast of America, from San Diego to just south of San Francisco, which they refer to as the "Anarch Free States." The Anarchs' primary stronghold and crown jewel is Los Angeles, California, which is engaged in almost constant warfare between groups of Anarchs that fight each other for control in gang warfare reminiscent of (and often intertwined with) that of mortal gangs like the Crips and Bloods. This situation consistently strains the Masquerade, and is a major source of stress for the Camarilla heirarchy.
@@ -132,14 +132,14 @@ As our Chronicle opens, the characters—having only recently become Kindred, an
 
 The American Dream of picket white fences, union jobs and Bruce Springsteen might not quite be dead yet, but it has Stage IV terminal cancer, and the cancer started here, in the blackened carcinoma sites of America's manufacturing hubs, Gary and Detroit.
 
-<img src="/setting-images/gary3.webp" alt="Gary, Indiana, 1991" class="w-full rounded-lg" />
+<img src="/setting-images/gary3.webp" alt="Gary, Indiana, 1991" class="world-img" />
 <figcaption>Gary, Indiana, 1991.</figcaption>
 
 ### The Cemetery City
 
 Unlike the jewelled spires of Chicago—the Camarilla's shining city on a hill—Gary is a cemetery, appearing less like a once-thriving American city and more like a bombed-out European city after World War II. Reaganomics, corporate power and East Asian competition have murdered it; now drug dealers, gangs, organized crime, human traffickers and Vampires chew the corpse.
 
-<img src="/setting-images/gary_union.webp" alt="Unionized steel workers on strike, Gary, Indiana, 1987" class="w-full rounded-lg" />
+<img src="/setting-images/gary_union.webp" alt="Unionized steel workers on strike, Gary, Indiana, 1987" class="world-img" />
 <figcaption>Unionized steel workers on strike, Gary, Indiana, 1987.</figcaption>
 
 ### The Political Destruction
@@ -150,7 +150,7 @@ For the Kindred, however, Gary holds special significance. Specifically, Gary is
 
 The Anarchs are not all Lodin has had to worry about, however. Another of the thorns in his side has been **Modius, the Toreador Prince of Gary**. Modius is no Anarch; he is a stalwart of the Camarilla—but a very, very jealous one. Long feeling himself cast in the shadow of Lodin's star, Modius's ego has driven him for almost a century to claw away some of Lodin's spotlight.
 
-<img src="/setting-images/gary_church.webp" alt="The ruins of an abandoned church in Gary, Indiana, 1991" class="w-full rounded-lg" />
+<img src="/setting-images/gary_church.webp" alt="The ruins of an abandoned church in Gary, Indiana, 1991" class="world-img" />
 <figcaption>The ruins of an abandoned church in Gary, Indiana, 1991.</figcaption>
 
 ### Salieri to Mozart
@@ -163,7 +163,7 @@ Seeing an opportunity to both hamper the Anarch Movement and crush his rival to 
 
 As Modius' power base in Gary had been both the steel mills and the unions, both the lesser Prince and his city were devastated.
 
-<img src="/setting-images/gary_strike2.webp" alt="Unionized steel workers on strike, Gary, Indiana, 1986" class="w-full rounded-lg" />
+<img src="/setting-images/gary_strike2.webp" alt="Unionized steel workers on strike, Gary, Indiana, 1986" class="world-img" />
 <figcaption>Union workers on strike, Gary, Indiana, 1986.</figcaption>
 
 ### The Collateral Damage
@@ -174,7 +174,7 @@ Yet even in 1991, Gary is already in ruins, a rusted skeleton of steel where an 
 
 **Though Lodin rules Chicago with all-reaching control, Gary has become a lawless no-man's-land.** Kindred from Chicago can come here to hunt hopeless mortals with abandon, without having to worry about encroaching on a more powerful vampire's territory.
 
-<img src="/setting-images/gary_streets.webp" alt="Gary's streets in 1991" class="w-full rounded-lg" />
+<img src="/setting-images/gary_streets.webp" alt="Gary's streets in 1991" class="world-img" />
 <figcaption>Street view of Gary, Indiana, 1991.</figcaption>
 
 ### The Hunting Ground
@@ -185,5 +185,5 @@ They can also, critically, come here to Embrace new vampires. Lodin restricts th
 
 It is within this anarchic wilderness of rusted steel that we meet our characters, and our Chronicle begins.
 
-<img src="/setting-images/archon.webp" alt="Anarch operations" class="w-full rounded-lg" />
+<img src="/setting-images/archon.webp" alt="Anarch operations" class="world-img" />
 <figcaption>Camarilla enforcer hunts Anarch insurgents during peacekeeping operations in Sarajevo, 1992.</figcaption>
