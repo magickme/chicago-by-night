@@ -95,55 +95,27 @@ Published scenes from **Chicago Chronicles** in chronological order. Current pub
 | 29 | [The Fixer](/posts/the-fixer/) | Darius | Jul 17, 1990, 10:30 PM |
 | 30 | [The Placement](/posts/the-placement/) | Sable | Jul 19, 1990, 9:30 PM |
 
-### Chapter 7 — The Cartographer
+### Chapter 7
 
-*Jul 18, 1990, 10:30 PM through Jul 18, 1990, 10:30 PM.*
+*Jul 18, 1990, 10:30 PM through Jul 23, 1990, 8:20 PM.*
 
 | # | Scene | PC | Date |
 |---|---|---|---|
 | 31 | [The Cartographer](/posts/the-cartographer/) | Darius | Jul 18, 1990, 10:30 PM |
-
-### Chapter 7 — The Landlord
-
-*Jul 20, 1990, 9:00 PM through Jul 20, 1990, 9:00 PM.*
-
-| # | Scene | PC | Date |
-|---|---|---|---|
 | 32 | [The Landlord](/posts/the-landlord/) | Darius | Jul 20, 1990, 9:00 PM |
-
-### Chapter 7 — The Predator
-
-*Jul 20, 1990, 10:00 PM through Jul 23, 1990, 8:20 PM.*
-
-| # | Scene | PC | Date |
-|---|---|---|---|
 | 33 | [The Predator](/posts/the-predator/) | Sable | Jul 20, 1990, 10:00 PM |
 | 34 | [The Kennel](/posts/the-kennel/) | Sable | Jul 21, 1990, 8:22 PM |
-| 35 | [The Handshake](/posts/the-handshake/) | Sable | Jul 22, 1990, 8:21 PM |
-| 36 | [The Leash](/posts/the-leash/) | Sable | Jul 23, 1990, 8:20 PM |
+| 35 | [The Proxy](/posts/the-proxy/) | Darius | Jul 21, 1990, 8:23 PM |
+| 36 | [The Handshake](/posts/the-handshake/) | Sable | Jul 22, 1990, 8:21 PM |
+| 37 | [The Leash](/posts/the-leash/) | Sable | Jul 23, 1990, 8:20 PM |
 
-### Chapter 7 — The Proxy
+### Chapter 8
 
-*Jul 21, 1990, 8:23 PM through Jul 21, 1990, 8:23 PM.*
-
-| # | Scene | PC | Date |
-|---|---|---|---|
-| 37 | [The Proxy](/posts/the-proxy/) | Darius | Jul 21, 1990, 8:23 PM |
-
-### Chapter 8 — The Hunger
-
-*Jul 25, 1990, 8:19 PM through Jul 25, 1990, 8:19 PM.*
+*Jul 25, 1990, 8:19 PM through Jul 26, 1990, 8:19 PM.*
 
 | # | Scene | PC | Date |
 |---|---|---|---|
 | 38 | [The Hunger](/posts/the-hunger/) | Darius | Jul 25, 1990, 8:19 PM |
-
-### Chapter 8 — The Operational
-
-*Jul 26, 1990, 8:19 PM through Jul 26, 1990, 8:19 PM.*
-
-| # | Scene | PC | Date |
-|---|---|---|---|
 | 39 | [The Ledger](/posts/the-ledger/) | Darius | Jul 26, 1990, 8:19 PM |
 
 ### Chapter 9 — The Hunt
@@ -162,31 +134,17 @@ Published scenes from **Chicago Chronicles** in chronological order. Current pub
 |---|---|---|---|
 | 41 | [The Long Game](/posts/the-long-game/) | Darius + Sable | Dec 1, 1990, 4:25 PM |
 
-### Chapter 10 — The Diagnostic
+### Chapter 10
 
-*Dec 2, 1990, 4:25 PM through Dec 2, 1990, 4:25 PM.*
+*Dec 2, 1990, 4:25 PM through Dec 6, 1990, 4:25 PM.*
 
 | # | Scene | PC | Date |
 |---|---|---|---|
 | 42 | [The Diagnostic](/posts/the-diagnostic/) | Darius | Dec 2, 1990, 4:25 PM |
-
-### Chapter 10 — The Hunt
-
-*Dec 3, 1990, 4:25 PM through Dec 3, 1990, 4:25 PM.*
-
-| # | Scene | PC | Date |
-|---|---|---|---|
 | 43 | [The Hunt](/posts/the-hunt-d025/) | Darius | Dec 3, 1990, 4:25 PM |
-
-### Chapter 10 — The Spur
-
-*Dec 4, 1990, 4:25 PM through Dec 6, 1990, 4:25 PM.*
-
-| # | Scene | PC | Date |
-|---|---|---|---|
-| 44 | [The Spur — Tuesday, 4 December 1990, 4:25 PM](/posts/the-spur/) | Darius | Dec 4, 1990, 4:25 PM |
-| 45 | [The Rounds — Wednesday, 5 December 1990, 4:25 PM](/posts/the-rounds/) | Sable | Dec 5, 1990, 4:25 PM |
-| 46 | [The Hunt — Thursday, 6 December 1990, 4:25 PM](/posts/the-hunt-s024/) | Sable | Dec 6, 1990, 4:25 PM |
+| 44 | [The Spur](/posts/the-spur/) | Darius | Dec 4, 1990, 4:25 PM |
+| 45 | [The Rounds](/posts/the-rounds/) | Sable | Dec 5, 1990, 4:25 PM |
+| 46 | [The Hunt](/posts/the-hunt-s024/) | Sable | Dec 6, 1990, 4:25 PM |
 
 ### Chapter 11 — The Frequency
 
@@ -194,7 +152,7 @@ Published scenes from **Chicago Chronicles** in chronological order. Current pub
 
 | # | Scene | PC | Date |
 |---|---|---|---|
-| 47 | [The Frequency — Friday, 7 December 1990, 4:25 PM](/posts/the-frequency/) | Sable | Dec 7, 1990, 4:25 PM |
+| 47 | [The Frequency](/posts/the-frequency/) | Sable | Dec 7, 1990, 4:25 PM |
 
 ## Other Chronicles
 
