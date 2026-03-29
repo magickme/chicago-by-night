@@ -36,15 +36,11 @@ Published scenes from **Chicago Chronicles** in chronological order. Current pub
 
 ### Chapter 2 — Convergence
 
-*Feb 2, 1990, 9:00 PM through Feb 2, 1990, 9:00 PM.*
-
 | # | Scene | PC | Date |
 |---|---|---|---|
 | 12 | [February Elysium](/posts/february-elysium/) | Darius + Sable | Feb 2, 1990, 9:00 PM |
 
 ### Interlude — The Distance
-
-*Jun 15, 1990 through Jun 15, 1990.*
 
 | # | Scene | PC | Date |
 |---|---|---|---|
@@ -120,15 +116,11 @@ Published scenes from **Chicago Chronicles** in chronological order. Current pub
 
 ### Chapter 9 — The Hunt
 
-*Jul 28, 1990, 8:19 PM through Jul 28, 1990, 8:19 PM.*
-
 | # | Scene | PC | Date |
 |---|---|---|---|
 | 40 | [The Hunt](/posts/the-hunt/) | Sable | Jul 28, 1990, 8:19 PM |
 
 ### Interlude — The Long Game
-
-*Dec 1, 1990, 4:25 PM through Dec 1, 1990, 4:25 PM.*
 
 | # | Scene | PC | Date |
 |---|---|---|---|
@@ -147,8 +139,6 @@ Published scenes from **Chicago Chronicles** in chronological order. Current pub
 | 46 | [The Hunt](/posts/the-hunt-s024/) | Sable | Dec 6, 1990, 4:25 PM |
 
 ### Chapter 11 — The Frequency
-
-*Dec 7, 1990, 4:25 PM through Dec 7, 1990, 4:25 PM.*
 
 | # | Scene | PC | Date |
 |---|---|---|---|
