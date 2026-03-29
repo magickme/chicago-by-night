@@ -20,7 +20,7 @@
   --font-display:  'Cinzel', 'Trajan Pro', serif;
   --font-body:     'Cormorant Garamond', 'Georgia', serif;
   --sidebar-width: 18rem;
-  --prose-width:   38rem;       /* ~65-75 chars at 1.2rem Cormorant */
+  --prose-width:   40rem;       /* ~65-75 chars at 1.32rem Cormorant */
   --content-width: 48rem;
   --focus-ring:    0 0 0 3px rgba(139, 0, 0, 0.4);
 }
@@ -76,7 +76,7 @@ html {
 
 body {
   font-family: var(--font-body);
-  font-size: 1.1rem;
+  font-size: 1.18rem;
   line-height: 1.75;
   color: var(--text);
   background: var(--bg);
@@ -251,7 +251,7 @@ h4 { font-size: 1.05rem; margin-top: 1.5rem; margin-bottom: 0.4rem; }
    ============================================ */
 .prose {
   font-family: var(--font-body);
-  font-size: 1.2rem;
+  font-size: 1.32rem;
   line-height: 1.9;
   max-width: var(--prose-width);
   font-variant-ligatures: common-ligatures contextual;
@@ -408,7 +408,7 @@ h4 { font-size: 1.05rem; margin-top: 1.5rem; margin-bottom: 0.4rem; }
    ============================================ */
 .reference {
   font-family: var(--font-body);
-  font-size: 1.1rem;
+  font-size: 1.18rem;
   line-height: 1.75;
   overflow-wrap: break-word;
 }
@@ -808,7 +808,7 @@ figcaption {
   }
 
   .prose {
-    font-size: 1.1rem;
+    font-size: 1.18rem;
     line-height: 1.85;
   }
 
