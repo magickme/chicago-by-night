@@ -1,7 +1,7 @@
 ---
 title: "World"
 url: "/world/"
-summary: world
+description: "Gary, Chicago, and the Lake Michigan corridor — factions, NPCs, and the cities that shape the chronicle."
 hidemeta: true
 ShowToc: false
 ---

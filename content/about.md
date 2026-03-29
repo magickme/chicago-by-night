@@ -1,7 +1,7 @@
 ---
 title: "About"
 url: "/about/"
-summary: about
+description: "A solo Vampire: The Masquerade chronicle played with dice, oracles, and permanent consequences. Gary, Indiana, 1990."
 hidemeta: true
 ShowToc: false
 ---

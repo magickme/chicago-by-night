@@ -2,5 +2,5 @@
 title: "Archive"
 layout: "archives"
 url: "/archives/"
-summary: archives
+description: "All published scenes and posts."
 ---

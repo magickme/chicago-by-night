@@ -3,7 +3,7 @@ title: "Nefer-Hotep"
 url: "/nefer-hotep/"
 hidemeta: true
 description: "Nefer-Hotep, the Wandering Magician. Mummy: The Resurrection. Hell's Highway."
-image: cover.png
+image: cover.webp
 ---
 
 ## Who Is He
