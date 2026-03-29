@@ -1,12 +1,12 @@
 {{ define "main" }}
 <div class="home-page">
-  <section class="hero">
+  <section class="hero" aria-label="Introduction">
     <p class="lead">{{ .Site.Params.description }}</p>
   </section>
 
   {{ $posts := where .Site.RegularPages "Type" "posts" }}
   {{ with index $posts 0 }}
-  <section class="latest-scene">
+  <section class="latest-scene" aria-label="Latest scene">
     <h2>Latest Scene</h2>
     <a href="{{ .RelPermalink }}" class="scene-card">
       <h3>{{ .Title }}</h3>
@@ -14,10 +14,10 @@
         {{ with .Params.categories }}
           {{ with index . 0 }}
             <span class="chapter">{{ . }}</span>
-            <span class="sep">&middot;</span>
+            <span class="sep" aria-hidden="true">&middot;</span>
           {{ end }}
         {{ end }}
-        <time>{{ .Date.Format "January 2, 2006" }}</time>
+        <time datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}">{{ .Date.Format "January 2, 2006" }}</time>
       </div>
       {{ with .Description }}
         <p class="scene-card-desc">{{ . }}</p>
@@ -26,7 +26,7 @@
   </section>
   {{ end }}
 
-  <section class="quick-links">
+  <section class="quick-links" aria-label="Quick links">
     <a href="/reading-order/" class="card">
       <strong>Start Reading</strong>
       <span>Full chronological scene list</span>
@@ -41,13 +41,13 @@
     </a>
   </section>
 
-  <section class="recent-posts">
+  <section class="recent-posts" aria-label="Recent scenes">
     <h2>Recent Scenes</h2>
-    <ul class="scene-list">
+    <ul class="scene-list" role="list">
     {{ range first 10 $posts }}
       <li>
         <a href="{{ .RelPermalink }}">{{ .Title }}</a>
-        <time>{{ .Date.Format "Jan 2, 2006" }}</time>
+        <time datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}">{{ .Date.Format "Jan 2, 2006" }}</time>
       </li>
     {{ end }}
     </ul>

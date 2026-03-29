@@ -2,11 +2,12 @@
 <html lang="{{ .Site.LanguageCode | default "en" }}">
   {{ partial "head.html" . }}
   <body class="{{ .Type }}{{ if .IsHome }} is-home{{ end }}">
+    <a href="#main-content" class="skip-link">Skip to content</a>
     <div class="site-wrapper">
-      <aside class="sidebar">
+      <aside class="sidebar" aria-label="Site navigation">
         {{ partial "nav.html" . }}
       </aside>
-      <main class="content">
+      <main id="main-content" class="content" role="main">
         {{ block "main" . }}{{ end }}
       </main>
     </div>

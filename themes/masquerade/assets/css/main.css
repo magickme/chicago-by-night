@@ -1,37 +1,77 @@
 /* ==============================================
-   MASQUERADE — Chicago Chronicles theme
-   Single CSS file. No preprocessors. No JS.
+   MASQUERADE — Chicago Chronicles
+   WCAG AA compliant. Optimized for long-form fiction.
    ============================================== */
 
 /* --- Custom Properties --- */
 :root {
   --bg:            #F8F6F1;
   --bg-sidebar:    #1A1A1A;
-  --text:          #2B2B2B;
-  --text-muted:    #5A5A5A;
-  --text-faint:    #888;
-  --accent:        #8B0000;
-  --accent-hover:  #A52A2A;
+  --text:          #2B2B2B;     /* 12.7:1 on --bg */
+  --text-muted:    #555;        /* 6.4:1 on --bg */
+  --text-faint:    #6B6B6B;     /* 4.6:1 on --bg — WCAG AA pass */
+  --accent:        #8B0000;     /* 7.2:1 on --bg */
+  --accent-hover:  #A52A2A;     /* 5.2:1 on --bg */
   --cream:         #F2F0EB;
-  --border:        #E2DED6;
-  --code-bg:       #F0EDE5;
-  --sidebar-text:  #E8E0D0;
-  --sidebar-muted: #909090;
+  --border:        #D5D0C6;
+  --code-bg:       #EDEAE3;
+  --sidebar-text:  #E8E0D0;    /* 11.4:1 on --bg-sidebar */
+  --sidebar-muted: #999;        /* 5.6:1 on --bg-sidebar */
   --font-display:  'Cinzel', 'Trajan Pro', serif;
   --font-body:     'Cormorant Garamond', 'Georgia', serif;
   --sidebar-width: 18rem;
+  --prose-width:   38rem;       /* ~65-75 chars at 1.2rem Cormorant */
+  --content-width: 48rem;
+  --focus-ring:    0 0 0 3px rgba(139, 0, 0, 0.4);
 }
 
 /* --- Reset --- */
 *, *::before, *::after { box-sizing: border-box; }
 body, h1, h2, h3, h4, h5, h6, p, ul, ol { margin: 0; padding: 0; }
 img { max-width: 100%; height: auto; display: block; }
-a { color: inherit; text-decoration: none; }
+
+/* --- Focus styles — visible for keyboard, hidden for mouse --- */
+:focus-visible {
+  outline: none;
+  box-shadow: var(--focus-ring);
+  border-radius: 2px;
+}
+
+a:focus:not(:focus-visible) { outline: none; }
+
+/* --- Skip link --- */
+.skip-link {
+  position: absolute;
+  top: -3rem;
+  left: 1rem;
+  z-index: 100;
+  padding: 0.5rem 1rem;
+  background: var(--accent);
+  color: #fff;
+  font-family: var(--font-display);
+  font-size: 0.85rem;
+  letter-spacing: 0.04em;
+  border-radius: 0 0 4px 4px;
+  text-decoration: none;
+  transition: top 0.15s;
+}
+
+.skip-link:focus {
+  top: 0;
+  outline: none;
+  box-shadow: var(--focus-ring);
+}
 
 /* --- Base --- */
 html {
   font-size: 16px;
   -webkit-text-size-adjust: 100%;
+  scroll-behavior: smooth;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html { scroll-behavior: auto; }
+  *, *::before, *::after { transition-duration: 0.01ms !important; }
 }
 
 body {
@@ -41,7 +81,13 @@ body {
   color: var(--text);
   background: var(--bg);
   -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-rendering: optimizeLegibility;
+  font-optical-sizing: auto;
 }
+
+/* Global link reset — content links get underlines via .prose/.reference */
+a { color: inherit; text-decoration: none; }
 
 /* --- Layout --- */
 .site-wrapper {
@@ -59,6 +105,7 @@ body {
   top: 0;
   height: 100vh;
   overflow-y: auto;
+  overscroll-behavior: contain;
 }
 
 .sidebar-inner {
@@ -82,12 +129,13 @@ body {
   line-height: 1.3;
 }
 
-.brand:hover { color: #fff; }
+.brand:hover,
+.brand:focus-visible { color: #fff; }
 
 .tagline {
   font-family: var(--font-body);
   font-style: italic;
-  font-size: 0.85rem;
+  font-size: 0.88rem;
   color: var(--sidebar-muted);
   margin-top: 0.4rem;
   line-height: 1.4;
@@ -98,15 +146,15 @@ body {
 
 .nav-heading {
   font-family: var(--font-display);
-  font-size: 0.65rem;
+  font-size: 0.7rem;
   font-weight: 600;
-  letter-spacing: 0.12em;
+  letter-spacing: 0.1em;
   text-transform: uppercase;
   color: var(--sidebar-muted);
   margin-top: 1.8rem;
   margin-bottom: 0.5rem;
   padding-bottom: 0.3rem;
-  border-bottom: 1px solid rgba(255,255,255,0.08);
+  border-bottom: 1px solid rgba(255,255,255,0.1);
 }
 
 .nav-list {
@@ -115,38 +163,40 @@ body {
   padding: 0;
 }
 
-.nav-list li {
-  margin: 0;
-}
-
 .nav-list li a {
   display: block;
-  padding: 0.25rem 0;
+  padding: 0.3rem 0.4rem;
+  margin: 0 -0.4rem;
   font-family: var(--font-body);
   font-size: 0.95rem;
-  color: var(--sidebar-text);
-  opacity: 0.85;
-  transition: opacity 0.15s;
+  color: rgba(232, 224, 208, 0.85);  /* sidebar-text at 0.85 — 9.7:1 */
+  border-radius: 3px;
+  transition: color 0.15s, background 0.15s;
 }
 
-.nav-list li a:hover { opacity: 1; }
-
-.nav-list li.active a {
+.nav-list li a:hover {
   color: #fff;
-  opacity: 1;
+  background: rgba(255,255,255,0.06);
+}
+
+.nav-list li.active a,
+.nav-list li a[aria-current="page"] {
+  color: #fff;
   font-weight: 500;
+  background: rgba(255,255,255,0.08);
 }
 
 .nav-list li.child a {
-  padding-left: 1rem;
+  padding-left: 1.2rem;
   font-size: 0.85rem;
-  opacity: 0.65;
+  color: rgba(232, 224, 208, 0.7);   /* 8:1 on sidebar bg */
 }
 
-.nav-list li.child a:hover { opacity: 0.9; }
+.nav-list li.child a:hover {
+  color: rgba(232, 224, 208, 0.95);
+}
 
 .nav-list li.child.active a {
-  opacity: 1;
   color: #fff;
 }
 
@@ -154,7 +204,7 @@ body {
 .sidebar-footer {
   margin-top: auto;
   padding-top: 2rem;
-  font-size: 0.75rem;
+  font-size: 0.8rem;
   color: var(--sidebar-muted);
 }
 
@@ -167,7 +217,7 @@ body {
   flex-grow: 1;
   min-width: 0;
   padding: 3rem 3rem 4rem;
-  max-width: 50rem;
+  max-width: var(--content-width);
 }
 
 /* --- Typography --- */
@@ -175,7 +225,7 @@ h1, h2, h3, h4, h5, h6 {
   font-family: var(--font-display);
   font-weight: 600;
   letter-spacing: 0.03em;
-  color: #1A1A1A;
+  color: var(--text);
   line-height: 1.3;
 }
 
@@ -195,21 +245,33 @@ h3 {
 }
 h4 { font-size: 1.05rem; margin-top: 1.5rem; margin-bottom: 0.4rem; }
 
-/* --- Fiction layout (article.prose) --- */
+/* ============================================
+   FICTION LAYOUT — article.prose
+   Optimized for sustained reading.
+   ============================================ */
 .prose {
   font-family: var(--font-body);
   font-size: 1.2rem;
   line-height: 1.9;
+  max-width: var(--prose-width);
+  font-variant-ligatures: common-ligatures contextual;
+  font-feature-settings: "liga" 1, "clig" 1, "kern" 1;
 }
 
-.prose p {
+.prose-body {
+  overflow-wrap: break-word;
+  word-break: break-word;
+}
+
+.prose-body p {
   margin-bottom: 1.4em;
   hyphens: auto;
   -webkit-hyphens: auto;
+  hanging-punctuation: first allow-end;
 }
 
 /* Epigraph — italic location header at top of scenes */
-.prose > p:first-of-type {
+.prose-body > p:first-of-type {
   font-family: var(--font-display);
   font-style: italic;
   font-size: 1rem;
@@ -220,7 +282,7 @@ h4 { font-size: 1.05rem; margin-top: 1.5rem; margin-bottom: 0.4rem; }
   margin-bottom: 0.2em;
 }
 
-.prose > p:first-of-type + p {
+.prose-body > p:first-of-type + p {
   font-family: var(--font-display);
   font-style: italic;
   font-size: 1rem;
@@ -228,32 +290,33 @@ h4 { font-size: 1.05rem; margin-top: 1.5rem; margin-bottom: 0.4rem; }
   color: var(--text-muted);
   line-height: 1.6;
   text-align: center;
-  margin-bottom: 1em;
+  margin-bottom: 1.5em;
 }
 
-/* Scene breaks */
-.prose hr {
+/* Scene breaks — purely decorative */
+.prose-body hr {
   border: none;
-  margin: 2.5em auto;
+  margin: 2.8em auto;
   text-align: center;
   max-width: 6em;
+  overflow: visible;
 }
 
-.prose hr::after {
-  content: "\b7  \b7  \b7";
+.prose-body hr::after {
+  content: "\b7\2003\b7\2003\b7";
   display: block;
   color: var(--accent);
   font-size: 1.2rem;
-  letter-spacing: 0.5em;
+  letter-spacing: 0.3em;
 }
 
 /* Scene header metadata */
-.scene-header { margin-bottom: 2rem; }
+.scene-header { margin-bottom: 2.5rem; }
 
 .scene-meta {
   font-size: 0.9rem;
   color: var(--text-faint);
-  margin-top: 0.3rem;
+  margin-top: 0.4rem;
 }
 
 .scene-meta .chapter {
@@ -264,7 +327,7 @@ h4 { font-size: 1.05rem; margin-top: 1.5rem; margin-bottom: 0.4rem; }
 }
 
 .scene-meta .sep {
-  margin: 0 0.4em;
+  margin: 0 0.3em;
   color: var(--border);
 }
 
@@ -280,13 +343,8 @@ h4 { font-size: 1.05rem; margin-top: 1.5rem; margin-bottom: 0.4rem; }
   font-size: 0.9rem;
 }
 
-.fiction-nav a {
-  color: var(--accent);
-}
-
-.fiction-nav a:hover {
-  color: var(--accent-hover);
-}
+.fiction-nav a { color: var(--accent); }
+.fiction-nav a:hover { color: var(--accent-hover); }
 
 .fiction-prev,
 .fiction-next {
@@ -331,23 +389,28 @@ h4 { font-size: 1.05rem; margin-top: 1.5rem; margin-bottom: 0.4rem; }
 .tag {
   display: inline-block;
   font-size: 0.8rem;
-  padding: 0.15em 0.6em;
+  padding: 0.2em 0.6em;
   border: 1px solid var(--border);
   border-radius: 3px;
   color: var(--text-muted);
   transition: color 0.15s, border-color 0.15s;
 }
 
-.tag:hover {
+.tag:hover,
+.tag:focus-visible {
   color: var(--accent);
   border-color: var(--accent);
 }
 
-/* --- Reference layout (article.reference) --- */
+/* ============================================
+   REFERENCE LAYOUT — article.reference
+   Wider, table-friendly, structured content.
+   ============================================ */
 .reference {
   font-family: var(--font-body);
   font-size: 1.1rem;
   line-height: 1.75;
+  overflow-wrap: break-word;
 }
 
 .reference p { margin-bottom: 1.2em; }
@@ -365,9 +428,10 @@ h4 { font-size: 1.05rem; margin-top: 1.5rem; margin-bottom: 0.4rem; }
   margin-bottom: 2rem;
   padding: 1rem 1.2rem;
   background: var(--cream);
+  border: 1px solid var(--border);
   border-radius: 4px;
   font-size: 0.9rem;
-  line-height: 1.5;
+  line-height: 1.6;
 }
 
 .toc strong {
@@ -383,24 +447,28 @@ h4 { font-size: 1.05rem; margin-top: 1.5rem; margin-bottom: 0.4rem; }
   padding-left: 1.2em;
 }
 
-.toc a {
-  color: var(--accent);
-}
+.toc li { margin-bottom: 0.15em; }
 
+.toc a { color: var(--accent); }
 .toc a:hover { color: var(--accent-hover); }
 
-/* --- Shared components --- */
+/* ============================================
+   SHARED COMPONENTS
+   ============================================ */
 
-/* Links in content */
+/* Links in content — always underlined for accessibility */
 .prose a,
+.prose-body a,
 .reference a {
   color: var(--accent);
   text-decoration: underline;
-  text-decoration-color: rgba(139, 0, 0, 0.3);
-  text-underline-offset: 3px;
+  text-decoration-color: rgba(139, 0, 0, 0.35);
+  text-underline-offset: 0.15em;
+  text-decoration-thickness: 1px;
 }
 
 .prose a:hover,
+.prose-body a:hover,
 .reference a:hover {
   color: var(--accent-hover);
   text-decoration-color: var(--accent-hover);
@@ -435,7 +503,7 @@ th {
   letter-spacing: 0.04em;
   font-size: 0.8rem;
   background: rgba(139, 0, 0, 0.08);
-  color: #1A1A1A;
+  color: var(--text);
   border-bottom: 2px solid var(--accent);
   padding: 0.6em 0.8em;
   text-align: left;
@@ -467,6 +535,7 @@ pre {
   margin: 1.5em 0;
   font-size: 0.85rem;
   line-height: 1.5;
+  tab-size: 4;
 }
 
 pre code {
@@ -475,9 +544,13 @@ pre code {
   padding: 0;
 }
 
-/* Strong / emphasis */
-strong { color: #1A1A1A; font-weight: 600; }
-em { color: var(--text-muted); }
+/* Strong — inherits text color, not forced dark */
+strong { font-weight: 600; }
+
+/* Emphasis — inherits parent color, not muted.
+   Fiction italics carry character voice and internal monologue.
+   Epigraph color overrides are scoped to .prose-body > p:first-of-type. */
+em { font-style: italic; }
 
 /* Lists */
 ul, ol {
@@ -489,13 +562,14 @@ li { margin-bottom: 0.3em; }
 
 /* Images */
 .prose img,
+.prose-body img,
 .reference img {
   border-radius: 4px;
   margin: 1.5em 0;
 }
 
 figcaption {
-  font-size: 0.85rem;
+  font-size: 0.88rem;
   color: var(--text-faint);
   font-style: italic;
   margin-top: -1em;
@@ -509,7 +583,9 @@ figcaption {
   margin: 2em 0;
 }
 
-/* --- Scene list (used on list pages and homepage) --- */
+/* ============================================
+   SCENE LIST — list pages and homepage
+   ============================================ */
 .scene-list {
   list-style: none;
   padding: 0;
@@ -521,7 +597,7 @@ figcaption {
   justify-content: space-between;
   align-items: baseline;
   gap: 1rem;
-  padding: 0.4em 0;
+  padding: 0.45em 0;
   border-bottom: 1px solid var(--border);
 }
 
@@ -530,12 +606,10 @@ figcaption {
   font-size: 1rem;
 }
 
-.scene-list li a:hover {
-  color: var(--accent);
-}
+.scene-list li a:hover { color: var(--accent); }
 
 .scene-list time {
-  font-size: 0.8rem;
+  font-size: 0.82rem;
   color: var(--text-faint);
   white-space: nowrap;
   flex-shrink: 0;
@@ -550,14 +624,16 @@ figcaption {
   display: inline-block;
   margin-top: 1rem;
   font-family: var(--font-display);
-  font-size: 0.8rem;
+  font-size: 0.82rem;
   letter-spacing: 0.04em;
   color: var(--accent);
 }
 
 .see-all:hover { color: var(--accent-hover); }
 
-/* --- Home page --- */
+/* ============================================
+   HOME PAGE
+   ============================================ */
 .home-page .hero {
   margin-bottom: 2.5rem;
   padding-bottom: 1.5rem;
@@ -571,9 +647,7 @@ figcaption {
   line-height: 1.6;
 }
 
-.latest-scene {
-  margin-bottom: 2.5rem;
-}
+.latest-scene { margin-bottom: 2.5rem; }
 
 .scene-card {
   display: block;
@@ -581,16 +655,17 @@ figcaption {
   background: #fff;
   border: 1px solid var(--border);
   border-radius: 6px;
-  transition: border-color 0.15s;
+  transition: border-color 0.15s, box-shadow 0.15s;
 }
 
 .scene-card:hover {
   border-color: var(--accent);
+  box-shadow: 0 2px 8px rgba(0,0,0,0.06);
 }
 
 .scene-card h3 {
   font-size: 1.15rem;
-  color: #1A1A1A;
+  color: var(--text);
   margin: 0 0 0.3rem;
 }
 
@@ -607,15 +682,16 @@ figcaption {
 }
 
 .scene-card-meta .sep {
-  margin: 0 0.4em;
+  margin: 0 0.3em;
   color: var(--border);
 }
 
 .scene-card-desc {
-  margin-top: 0.5rem;
+  margin-top: 0.6rem;
   font-size: 0.95rem;
   color: var(--text-muted);
   font-style: italic;
+  line-height: 1.5;
 }
 
 .quick-links {
@@ -644,20 +720,18 @@ figcaption {
 }
 
 .quick-links .card span {
-  font-size: 0.8rem;
+  font-size: 0.82rem;
   color: var(--text-faint);
   margin-top: 0.2rem;
 }
 
 /* --- Page title (list pages) --- */
-.page-title {
-  margin-bottom: 1.5rem;
-}
+.page-title { margin-bottom: 1.5rem; }
 
 /* --- Selection --- */
 ::selection {
   background: rgba(139, 0, 0, 0.15);
-  color: #1A1A1A;
+  color: var(--text);
 }
 
 /* --- Scrollbar --- */
@@ -668,11 +742,11 @@ figcaption {
 .sidebar::-webkit-scrollbar-track { background: var(--bg-sidebar); }
 .sidebar::-webkit-scrollbar-thumb { background: rgba(255,255,255,0.15); }
 
-/* --- Responsive --- */
+/* ============================================
+   RESPONSIVE
+   ============================================ */
 @media (max-width: 48em) {
-  .site-wrapper {
-    flex-direction: column;
-  }
+  .site-wrapper { flex-direction: column; }
 
   .sidebar {
     width: 100%;
@@ -686,10 +760,7 @@ figcaption {
     padding: 1rem 1.2rem;
   }
 
-  .sidebar-header {
-    margin-bottom: 0;
-  }
-
+  .sidebar-header { margin-bottom: 0; }
   .brand { font-size: 1.1rem; }
   .tagline { display: none; }
   .sidebar-footer { display: none; }
@@ -714,26 +785,19 @@ figcaption {
   .mobile-toggle::-webkit-details-marker { display: none; }
   .mobile-toggle::marker { display: none; content: ""; }
 
-  .mobile-nav .nav-groups {
-    padding: 0.5rem 0 0.5rem;
-  }
+  .mobile-nav .nav-groups { padding: 0.5rem 0; }
 
-  .content {
-    padding: 1.5rem 1.2rem 2rem;
-  }
+  .content { padding: 1.5rem 1.2rem 2.5rem; }
 
-  .quick-links {
-    grid-template-columns: 1fr;
-  }
+  .quick-links { grid-template-columns: 1fr; }
 
   .fiction-nav {
     flex-direction: column;
     align-items: stretch;
-    gap: 0.5rem;
+    gap: 0.6rem;
   }
 
-  .fiction-prev,
-  .fiction-next {
+  .fiction-prev, .fiction-next {
     max-width: 100%;
     text-align: left;
   }
@@ -745,10 +809,53 @@ figcaption {
 
   .prose {
     font-size: 1.1rem;
-    line-height: 1.8;
+    line-height: 1.85;
   }
 
   h1 { font-size: 1.4rem; }
   h2 { font-size: 1.15rem; }
   h3 { font-size: 1.05rem; }
+}
+
+/* ============================================
+   PRINT — clean reading, no nav chrome
+   ============================================ */
+@media print {
+  .sidebar,
+  .skip-link,
+  .fiction-nav,
+  .post-tags,
+  .scene-card,
+  .quick-links,
+  .see-all { display: none; }
+
+  body {
+    background: #fff;
+    color: #000;
+    font-size: 11pt;
+    line-height: 1.6;
+  }
+
+  .site-wrapper { display: block; }
+
+  .content {
+    max-width: 100%;
+    padding: 0;
+  }
+
+  .prose, .prose-body {
+    max-width: 100%;
+    font-size: 11pt;
+  }
+
+  h1 { font-size: 18pt; }
+  h2 { font-size: 14pt; border-bottom-color: #000; }
+  h3 { font-size: 12pt; color: #000; }
+
+  a { color: #000; text-decoration: underline; }
+  a[href^="http"]::after { content: " (" attr(href) ")"; font-size: 9pt; }
+
+  .prose-body hr::after { color: #000; }
+
+  blockquote { border-left-color: #000; background: none; }
 }

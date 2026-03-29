@@ -1,5 +1,5 @@
 {{ define "main" }}
-<article class="reference">
+<article class="reference" aria-label="{{ .Title }}">
   <header>
     <h1>{{ .Title }}</h1>
     {{ with .Description }}
@@ -8,7 +8,7 @@
   </header>
 
   {{ if or (.Params.ShowToc) (.Params.toc) }}
-    <nav class="toc" aria-label="Table of Contents">
+    <nav class="toc" aria-label="Table of contents">
       <strong>Contents</strong>
       {{ .TableOfContents }}
     </nav>

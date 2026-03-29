@@ -1,32 +1,34 @@
 {{ define "main" }}
-<article class="prose">
+<article class="prose" aria-label="{{ .Title }}">
   <header class="scene-header">
     <h1>{{ .Title }}</h1>
     <div class="scene-meta">
       {{ with .Params.categories }}
         {{ with index . 0 }}
           <span class="chapter">{{ . }}</span>
-          <span class="sep">&middot;</span>
+          <span class="sep" aria-hidden="true">&middot;</span>
         {{ end }}
       {{ end }}
       {{ if not .Date.IsZero }}
-      <time datetime="{{ .Date.Format "2006-01-02" }}">
+      <time datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}">
         {{ .Date.Format "January 2, 2006" }}
       </time>
       {{ end }}
-      <span class="sep">&middot;</span>
+      <span class="sep" aria-hidden="true">&middot;</span>
       <span class="reading-time">{{ .ReadingTime }} min read</span>
     </div>
   </header>
 
-  {{ .Content }}
+  <div class="prose-body">
+    {{ .Content }}
+  </div>
 
   {{ if .Params.tags }}
-  <div class="post-tags">
+  <footer class="post-tags" aria-label="Tags">
     {{ range .Params.tags }}
-      <a href="{{ "/tags/" | relLangURL }}{{ . | urlize }}/" class="tag">{{ . }}</a>
+      <a href="{{ "/tags/" | relLangURL }}{{ . | urlize }}/" class="tag" rel="tag">{{ . }}</a>
     {{ end }}
-  </div>
+  </footer>
   {{ end }}
 
   {{ partial "fiction-nav.html" . }}
