@@ -111,6 +111,7 @@ If adding or subtracting 3+ points and those points will not drive the Scale to 
 - Burn negative points: suffer Minor Trouble (roll Trouble chart).
 - Burn positive points: gain Minor Grace (roll Grace chart).
 - Must burn ALL points from that roll (cannot partial burn).
+- Offer burn concisely (one line, end of roll narration). If player doesn't address within their next message, bank automatically. Don't re-ask or interrupt narrative flow with repeated burn offers.
 
 ### Trouble (d10)
 
@@ -252,6 +253,8 @@ City District Oracle (d10):
 | 10 | Abandoned or Warehouse district |
 
 NPC Behavior (Mythic GME): Know + unimportant = improvise. Know + want to test = Fate Question. No idea = generate via context. Yes=expected. ExYes=expected+intense. No=next-most-expected. ExNo=opposite/intensified. Random Event=additional action.
+Threading over inventing: When oracle results require new NPCs or complications, FIRST check: can this be achieved by connecting existing NPCs in a new way? Prefer threading existing characters into novel configurations over introducing standalone new ones. Cross-faction connections produce the strongest engagement.
+Published adventure check: When a Fate Question or Random Event touches a PUBLISHED adventure (BbF, Blood at Dawn, Ashes to Ashes, etc.), check the published source structure before narrating. Adding to published material is fine; contradicting it breaks continuity.
 
 
 ## Chicago / Gary Encounter Tables
@@ -560,10 +563,10 @@ Use one headline at scene open to add mortal friction unrelated to the Jyhad. Th
 |---|---|---|
 |1-2|Chuc Luc's pipeline (2x)|Pipeline OPERATIONAL. Berth 7 → warehouse → truck. Eddie Fells Dominated. Torch secured. AUTONOMY GRANTED (D026). Monthly reports, first Tuesday. Three conditions: no expansion, no Chicago contact, no unauthorized spending.|
 |3-4|Cover story (2x)|2/6. Federal-grade Birch paper delivered. Webb operational as proxy. Identity solid.|
-|5|Gerald Fisk / Torch mortgage|RESOLVED. Mortgage assumed. $800/mo.|
-|6|Lucian feeding rights|DELIVERED. Annual, renewable. Accepted.|
-|7|Brief Victor on FBI|RESOLVED (D016). Kept Victor ignorant — genuine ignorance IS the cover.|
-|8|Chuc Luc callback|DONE (D016). New orders: warehouse + customs gap by Tue July 17.|
+|5|~~Gerald Fisk / Torch mortgage~~|ARCHIVED.|
+|6|~~Lucian feeding rights~~|ARCHIVED.|
+|7|~~Brief Victor on FBI~~|ARCHIVED.|
+|8|~~Chuc Luc callback~~|ARCHIVED.|
 |9-10|Sullivan Dane's witch-hunt (2x)|4/6. Pamphlet diagnostic on Cutlass. Confirmed nocturnal pattern. Active surveillance. Eleven months of data.|
 |11|The slave auction / D-Train|ESCALATED. D-Train visited burned church July 25 with companion who searched basement. Was in midtown Gary (Fifth & Grant Amoco) before. Knows operation is dead. Thursday intercept dead. Will report to Mama Roux. Keisha at risk if threads pulled.|
 |12|Juggler's secret (Evelyn)|OPEN. Juggler met (D018). Evelyn not mentioned. Hidden.|
@@ -571,18 +574,18 @@ Use one headline at scene open to add mortal friction unrelated to the Jyhad. Th
 |14|Claudette's Diablerie plot|HIDDEN.|
 |15|FBI/Shepard investigation|PLAN FORMING. Proxy + Danov forger. Juggler partnered. Torch Heat 5/6.|
 |16|Evelyn's existence|OBSERVED. Lives in ore smelter (Juggler's haven). Feeds at Torch. Unauthorized. Not reported to Modius. Leverage over Juggler.|
-|17|Baptism by Fire (LATENT — NYE 1990)|Chicago views Gary as 'stable but fragile' (per Horace). Coterie signal system planned, deliverable Friday.|
-|18|Marcus Webb — handle before Chuc Luc does|COMPLETE. 14/14. Webb = Birch. Fully conditioned proxy.|
-|19|Warehouse + customs gap|RESOLVED (D017). Warehouse active. Eddie Fells = customs gap. Pipeline operational.|
-|20|Sal Cantone — stolen operation|CLOSED. Paper trail dead. RICO. Cantone moved on.|
+|17|Baptism by Fire (LATENT — NYE 1990)|Chicago views Gary as 'stable but fragile' (per Horace). Coterie signal system COMPLETED (S025). BbF room selection for Allicia privacy window in progress (Darius).|
+|18|~~Marcus Webb~~|ARCHIVED. 14/14 conditioned.|
+|19|~~Warehouse + customs gap~~|ARCHIVED.|
+|20|~~Sal Cantone~~|ARCHIVED. RICO closed.|
 |21|Lucian delivery / Modius mission|SUMMONS ANSWERED (D022). Mission: clean waterfront before Chicago representative (~2 weeks). Identify union hall men. Dock feeding rights granted. Don't involve Lucian or feds. Modius wants simple, boring, his.|
-|22|Warren Birch proxy|COMPLETE. Federal-grade paper from Danov. Webb operational as Birch.|
-|23|Church disposal|RESOLVED (D020). Polk & 13th burned. Ray Pulaski delivered.|
+|22|~~Warren Birch proxy~~|ARCHIVED. Webb operational.|
+|23|~~Church disposal~~|ARCHIVED.|
 |24|Williams notebook intel|RECEIVED (D019). 43 entries: D-Train (Thu), Mr. White (Milwaukee, Oct/Mar), B7/SC (Cantone-dock link). Intelligence asset.|
 |25|Lucian payment|$2K/month, lockbox in warehouse, first of August. Mutual discretion. Keyed scene resolved.|
-|26|COTERIE with Sable|ACTIVE. Comms gap identified (D022): no emergency contact method. Next scheduled call Fri July 27 11 PM. Full debrief: Obfuscate visitor, surveillance blind, water presence, waymarker, Lakeshore IS, Modius reaction. Task Sable: Greer → Lakeshore IS records.|
+|26|COTERIE with Sable|ACTIVE. Fri Dec 7 call completed (S025). Signal system delivered. Received: Milwaukee contact/15-min window, Dane 5-night data, Halloran trace. Working: BbF room selection for privacy window. Next call: Tue Dec 11.|
 |27|Waterfront legibility|Modius mission (D022). PATROL COMPLETE (D023): mortal surveillance blind Berth 8 (Marlboro, binoculars, weeks of use), water presence Berth 3 (fast, low, gone), Gangrel waymarker rail spur (fresh, "claimed ground"). Reported to Modius. Orders: continue monitoring, watch for more waymarkers, identify water presence. Do NOT approach Lucian.|
-|28|Mystery Obfuscate visitor|RESOLVED (D026). Was Horace Turnbull, Chicago Malkavian. Matchbook received. Communication channel established.|
+|28|~~Mystery Obfuscate visitor~~|ARCHIVED. Was Horace Turnbull (D026).|
 |29|Dane at 4/6|Pamphlet diagnostic, active surveillance, True Faith 5 hunter closing in. Notebook mark Dec 2 — no breath-cloud confirmation.|
 |30|Horace Turnbull / Chicago Line|ACTIVE. Boon owed (one favor, open-ended). Communication: The Cave, Fred, 'chess tournament.' WARNING: violates Chuc Luc's 'no Chicago Kindred contact' condition.|
 
@@ -591,23 +594,24 @@ Use one headline at scene open to add mortal friction unrelated to the Jyhad. Th
 |Thread|Weight|Status|
 |---|---|---|
 |Allicia — protect from Modius|2x|**CRITICAL.** Confined Wed/Sat Torch piano only. Modius STOPPED ASKING about foreign blood — worse than asking (already decided). Allicia visibly deteriorating — aura read: bruised violet, fading gold, white sparks of confusion. **BbF WINDOW OPEN (S024):** Erichtho (Chicago Tremere, Carna sympathizer) will evaluate Allicia's bond at BbF under cover of Nicolai's observer mission. Coterie must build 15-min privacy window at party. Allicia must be present. This is the only shot before Modius finishes closing the door.|
-|Spy assignment (double agent)|2x|COMPLETED (Sir Henry visit). Attaché role fulfilled. No further assignment pending.|
+|~~Spy assignment (double agent)~~|2x|ARCHIVED. Sir Henry visit complete.|
 |Modius leash|2x|4/6. Successful audience (S021). Attaché role = more access + more obligation. Modius pleased with FBI handling. Near-entrancement at scene open (SC 1 net). Relationship deepening in complexity.|
-|Sharon Payne's vendetta|3x|1/6. Letter sent. Chicago woman asking about Sable at Reva's east side bar — well-dressed, white, 40s, wool coat, dark sedan. Asked for "Sable or Ann" (birth name = insider knowledge). Left 312 number on napkin (S024, recovered from Danny via Reva). Traceable via Lonnie Greer. Possible Sharon proxy. UNCONFIRMED. COTERIE-LEVEL THREAT.|
+|Sharon Payne's vendetta|3x|2/6 (ADVANCED S024). Proxy ID'd (S025): Margaret Halloran, PI, North Dearborn Chicago. Licensed 1984, domestic work, not cheap. Deeper trace (client ID) running, due ~Dec 10, $200+. Asked for "Sable or Ann" (birth name). COTERIE-LEVEL THREAT. Darius informed (S025 call).|
 |Michael Payne — absent sire|2x|ESCALATED. Missing. Darius now aware.|
-|Denise Price — the mother|1x|**ESCALATED.** Second message November (S023). "Mrs. Henderson said you moved months ago." Aunt Clarice saw someone like Sable in Hammond. Getting closer. Denise worried, persistent, narrowing.|
-|Feed and survive|1x|Fed S023 (west side, 3 vessels — Marie 4 BP, Guerrero 4 BP Entranced, Dayton conventioneer 3 BP). 14/14 → 11/14 after ghouls. West Side Heat 1/6 (two workers same block). Docks 0/6. East Broadway 1/6. East side 1/6. Diversified but App 5 remains memorable.|
-|Ghoul management|1x|ACTIVE. Bond Step 2 (DeShawn, Pete, Spoon). Coop part-time Step 1. Spoon LOCKED. Maintenance done Dec 5 (DeShawn, Pete fed; Coop scheduled Thu). DeShawn redeployed: van watch Seventeenth/Adams after midnight. Terrell still loose. Deacon (south side boss, weeks out).|
+|Denise Price — the mother|1x|**ESCALATED.** November message heard (S024): emotional, not actionable. "I just need to know you're okay." Aunt Clarice Hammond sighting. No PI, no police. Sable did not call back. Getting closer but not yet dangerous.|
+|Feed and survive|1x|Fed S024 (Nisha, pickpocket, Kiefer's lot → studio, 4 BP). Coop fed 1 BP. Blood 13/14. Heat: West Side 1/6, Docks 3/6 (territorial, mostly Darius), East Broadway 1/6, East Side 1/6. App 5 remains memorable.|
+|Ghoul management|1x|ACTIVE. Bond Step 2 (DeShawn, Pete, Spoon). Coop part-time Step 1. Spoon LOCKED. Maintenance current: DeShawn+Pete fed Dec 5, Coop fed Dec 6. DeShawn on van watch (Seventeenth/Adams after midnight). Terrell still loose. Deacon (south side boss, weeks out).|
 |West side territory|1x|ACTIVE. Spoon on overnight Olds surveillance (Sixteenth & Grant). DeShawn resting. Terrell (loose), Deacon (south side, weeks out).|
 |The Torch — hunting ground|1x|OPEN. Heat 5/6 makes it risky. Modius monitoring foot traffic.|
 |Chicago scrutiny|1x|Lodin's seneschal called Modius. 'Conditions in Gary.' Archon threat implicit. Shared coterie concern.|
 |Warren Birch proxy|1x|Acknowledged. Darius handling. Webb identified. Danov print shop Tue July 24.|
 |Burgundy Oldsmobile|1x|**IDENTIFIED (S021).** Frank Kowalski, probable PI, Berwyn IL. Surveillance stopped since October (timeskip). Client = Lakefront Recovery Associates (Bridgeport, ghouled agent, Kindred-connected).|
-|White van / Dane surveillance|2x|**ESCALATED (S024).** White Econoline, west side blocks after midnight. Driver: white male 50s-60s, reading glasses, notebook, brown oxfords (church shoes), thick dark book, military/LE gait. True Faith aura burned Sable's Auspex (S023). DeShawn confirmed (S024): van Dec 5 11:08 PM-2:50 AM. Man walked Seventeenth to Nineteenth & Adams, studied buildings 10 min, looked north toward Kendrick's. Four consecutive nights. Two blocks from Sable's haven. Almost certainly Dane.|
+|White van / Dane surveillance|2x|**ESCALATED (S024-S025).** White Econoline, west side blocks after midnight. FIVE consecutive nights (Dec 3-7). DeShawn warned about Dane by name (S025): "people like me." Ghoul redeployment: Pete to studio, DeShawn on van watch (Olds, Sixteenth & Grant, 11 PM), Spoon home. Darius coordinated (S025 call): "He's looking for me, not you. Keep your people off Seventeenth after ten PM." If pattern shifts west, call Tuesday. Two blocks from Sable's haven. Almost certainly Dane.|
 |Gary PD task force|1x|**NEW (S023).** Four officers, Midtown precinct, "quality of life" cases on west side + Broadway. Started November. City Hall push. Source: Reva Watts (dispatcher regular).|
-|COTERIE with Darius|2x|ACTIVE. First scheduled call completed (S021, July 24 11 PM). Full disclosure both directions. Darius processing Chicago representative implications. Tue/Fri 11 PM comms.|
-|Modius mansion visit|1x|**RESOLVED (S021).** Audience complete. Report delivered. Task received. Allicia concession won.|
-|Chicago representative|2x|RESOLVED. Sir Henry visited Aug. Left satisfied. No Archon. Coterie undetected.|
+|COTERIE with Darius|2x|ACTIVE. Friday Dec 7 call completed (S025). Signal system established (3 levels: cufflinks=watch, collarbone=leave, "weather's turning"=abort). Shared: Milwaukee contact/15-min window, Dane proximity (both sides), 312/Halloran trace. Darius working BbF room selection. Next call: Tue Dec 11.|
+|~~Modius mansion visit~~|1x|ARCHIVED.|
+|~~Chicago representative~~|2x|ARCHIVED. Sir Henry visited Aug.|
+|Allicia at BbF|1x|**NEW.** Allicia currently confined Wed/Sat Torch only. BbF = Monday NYE. Erichtho evaluation REQUIRES Allicia present. If Modius brings her to the party, problem solved. If not, coterie must arrange. Prerequisite for Carna thread.|
 |Carna bond-breaking|2x|**BREAKTHROUGH (S024).** Milwaukee back-channel reached (ExYes on Unlikely). Carna remembers Allicia (1971). Can't send anyone openly (Dr. Mortius watching, still Pyramid-bound in 1990). BUT: Erichtho (Tremere 7th, Chicago) is being sent to BbF by Nicolai as Tremere observer — Carna added secondary mission via back-channel: evaluate Allicia's bond. Erichtho = triple agent (Nicolai's observer / Carna's evaluator / her own bond-breaking research). Path of Blood 3 can diagnose bond structure. Coterie task: create 15-min privacy window at BbF. Allicia present, no Auspex, no witnesses. Erichtho CAN'T break the bond herself — she evaluates and reports to Carna. Long-term: Tremere PC bridge (post-Act II).|
 
 ### Shared Characters
@@ -620,12 +624,12 @@ Use one headline at scene open to add mortal friction unrelated to the Jyhad. Th
 |7-8|Chuc Luc (2x, offscreen)|
 |9-10|Sullivan Dane (2x)|
 |11|Juggler|
-|12|Claudette|
+|12|Claudette (REMOVED — exposed, delivered to Lucian)|
 |13|Sable Price / Darius Cole (other PC — COTERIE)|
 |14|Victor Salonika|
 |15|Gerald Fisk|
 |16|SA Shepard|
-|17|Williams|
+|17|Williams (REMOVED — delivered to Lucian)|
 |18|DeShawn (ghouled)|
 |19|Denise Price|
 |20|Marcus Webb|
@@ -641,15 +645,15 @@ Use one headline at scene open to add mortal friction unrelated to the Jyhad. Th
 |30|Little Pete (ghouled)|
 |31|Coop (ghouled)|
 |32|Terrell (Big Six crew, loose)|
-|33|Spoon / Antoine (Blood Bond Step 1, lookout)|
+|33|Spoon / Antoine (Blood Bond Step 2, Entranced 1yr from July 1990, lookout)|
 |34|Deacon (GD south side, offscreen)|
-|35|Burgundy Olds Driver / Frank Kowalski (mortal, PI, Berwyn IL)|
+|35|Frank Kowalski (mortal, PI, Berwyn IL — Olds driver IDENTIFIED, client Lakefront Recovery)|
 |36|Lonnie Greer (mortal, bail bondsman, Gary — Sable Contact 2)|
 |37|Reva Watts (mortal, bartender, east side Gary — Sable Contact 1)|
-|38|Frank Kowalski (mortal, PI, Berwyn — Olds driver IDENTIFIED)|
-|39|Thomas Wójcik (mortal, fired dock supervisor, fed/wiped D023)|
-|40|Horace Turnbull (Malkavian 10th, Chicago, double agent)|
-|41|Erichtho (Tremere 7th, Chicago, triple agent — Nicolai/Carna/self)|
+|38|Thomas Wójcik (mortal, fired dock supervisor, fed/wiped D023)|
+|39|Horace Turnbull (Malkavian 10th, Chicago, double agent)|
+|40|Erichtho (Tremere 7th, Chicago, triple agent — Nicolai/Carna/self)|
+|41|Margaret Halloran (mortal, PI, North Dearborn Chicago — Sharon proxy investigation)|
 
 ## Live Story Oracles
 

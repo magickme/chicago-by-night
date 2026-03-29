@@ -30,7 +30,7 @@ slug: "clocks"
 .section-label { font-size: 18px !important; text-transform: uppercase; letter-spacing: 0.12rem; color: #78716c !important; font-weight: 700; margin: 3rem 0 1rem; padding-bottom: 0.5rem; border-bottom: 2px solid #e7e5e4; }
 </style>
 
-*Gary, Indiana. Updated: **July 17, 1990.** All clocks /6. At 4/6, local heat spills into Masquerade. At 6/6, active crisis.*
+*Gary, Indiana. Updated: **December 6, 1990.** All clocks /6. At 4/6, local heat spills into Masquerade. At 6/6, active crisis. Baptism by Fire: 25 days.*
 
 ---
 
@@ -38,33 +38,39 @@ slug: "clocks"
 <div class="clock-grid">
 
 <div class="clock-card">
-<div class="clock-name">Modius Leash — Darius</div>
-<div class="clock-pips"><span class="pip-filled blue">&#9632;</span><span class="pip-empty">&#9632;&#9632;&#9632;&#9632;&#9632;</span></div>
-<div class="clock-status"><strong>1/6</strong> — The handshake. Prince trusts Darius after Torch play.</div>
+<div class="clock-name">Modius Leash -- Darius</div>
+<div class="clock-pips"><span class="pip-filled blue">&#9632;&#9632;</span><span class="pip-empty">&#9632;&#9632;&#9632;&#9632;</span></div>
+<div class="clock-status"><strong>2/6</strong> -- Biweekly reports expected. Questions about haven. Tightening.</div>
 </div>
 
-<div class="clock-card critical">
-<div class="clock-name">Modius Leash — Sable <span class="clock-badge badge-critical">CRITICAL</span></div>
-<div class="clock-pips"><span class="pip-filled">&#9632;&#9632;&#9632;&#9632;&#9632;</span><span class="pip-empty">&#9632;</span></div>
-<div class="clock-status"><strong>5/6</strong> — Blood sharing violation undiscovered. Drawing room surveillance. One more tick = property, suspect, or sacrifice.</div>
+<div class="clock-card keyed">
+<div class="clock-name">Modius Leash -- Sable <span class="clock-badge badge-keyed">HOT</span></div>
+<div class="clock-pips"><span class="pip-filled">&#9632;&#9632;&#9632;&#9632;</span><span class="pip-empty">&#9632;&#9632;</span></div>
+<div class="clock-status"><strong>4/6</strong> -- Attach&eacute; role completed. Allicia squeeze continuing. Blood-taste bomb ticking.</div>
+</div>
+
+<div class="clock-card keyed">
+<div class="clock-name">Modius Internal Audit <span class="clock-badge badge-keyed">HOT</span></div>
+<div class="clock-pips"><span class="pip-filled">&#9632;&#9632;&#9632;&#9632;</span><span class="pip-empty">&#9632;&#9632;</span></div>
+<div class="clock-status"><strong>4/6</strong> -- Cross-checking reports. Tasted foreign blood in Allicia. Stopped asking -- worse. Squeezing through constraint, not confrontation.</div>
 </div>
 
 <div class="clock-card">
 <div class="clock-name">Cover Story Exposure</div>
-<div class="clock-pips"><span class="pip-filled amber">&#9632;&#9632;&#9632;</span><span class="pip-empty">&#9632;&#9632;&#9632;</span></div>
-<div class="clock-status"><strong>3/6</strong> — Lucian + Modius both holding questions. Chuc Luc building replacement identity.</div>
+<div class="clock-pips"><span class="pip-filled amber">&#9632;&#9632;</span><span class="pip-empty">&#9632;&#9632;&#9632;&#9632;</span></div>
+<div class="clock-status"><strong>2/6</strong> -- REDUCED. Federal-grade Birch identity in play. Webb proxy operational.</div>
 </div>
 
 <div class="clock-card">
 <div class="clock-name">Sharon's Vendetta</div>
-<div class="clock-pips"><span class="pip-filled">&#9632;</span><span class="pip-empty">&#9632;&#9632;&#9632;&#9632;&#9632;</span></div>
-<div class="clock-status"><strong>1/6</strong> — Letter sent to Denise Price. At 2/6: proxy arrives in Gary. At 4/6: Sharon arrives personally.</div>
+<div class="clock-pips"><span class="pip-filled">&#9632;&#9632;</span><span class="pip-empty">&#9632;&#9632;&#9632;&#9632;</span></div>
+<div class="clock-status"><strong>2/6</strong> -- Chicago proxy entered Gary with birth name "Sable or Ann." 312 number recovered. At 4/6: Sharon confirms identity. At 6/6: she arrives.</div>
 </div>
 
 <div class="clock-card complete">
 <div class="clock-name">Allicia Alliance <span class="clock-badge badge-complete">COMPLETE</span></div>
 <div class="clock-pips"><span class="pip-filled green">&#9632;&#9632;&#9632;&#9632;&#9632;&#9632;</span></div>
-<div class="clock-status"><strong>6/6</strong> — Blood Bond Step 1 (Allicia to Sable). Competing with Modius's 3-step bond.</div>
+<div class="clock-status"><strong>6/6</strong> -- Mutual bond. Allicia deteriorating under Modius pressure. Carna thread urgent. BbF evaluation window open.</div>
 </div>
 
 </div>
@@ -75,25 +81,25 @@ slug: "clocks"
 <div class="clock-card critical">
 <div class="clock-name">Torch / Rack Heat <span class="clock-badge badge-critical">CRITICAL</span></div>
 <div class="clock-pips"><span class="pip-filled">&#9632;&#9632;&#9632;&#9632;&#9632;</span><span class="pip-empty">&#9632;</span></div>
-<div class="clock-status"><strong>5/6</strong> — FBI physically visited. Shepard questioned Victor, has Warren Birch name. One more tick = the Torch becomes a trap.</div>
+<div class="clock-status"><strong>5/6</strong> -- STABILIZED. Webb proxy gives Birch a face. Shepard has paper trail that checks out. Investigation dormant but open.</div>
 </div>
 
-<div class="clock-card">
-<div class="clock-name">Dane Identifies Darius</div>
-<div class="clock-pips"><span class="pip-filled amber">&#9632;&#9632;</span><span class="pip-empty">&#9632;&#9632;&#9632;&#9632;</span></div>
-<div class="clock-status"><strong>2/6</strong> — Patient, thorough, nine months of data. At 3/6: Dane appears in 1d4 scenes.</div>
+<div class="clock-card keyed">
+<div class="clock-name">Dane Identifies Darius <span class="clock-badge badge-keyed">HOT</span></div>
+<div class="clock-pips"><span class="pip-filled">&#9632;&#9632;&#9632;&#9632;</span><span class="pip-empty">&#9632;&#9632;</span></div>
+<div class="clock-status"><strong>4/6</strong> -- Pamphlet diagnostic. Confirmed nocturnal pattern. Active surveillance. White van on Seventeenth St, four consecutive nights. Next: direct encounter.</div>
 </div>
 
 <div class="clock-card">
 <div class="clock-name">Gregory + Shepard Convergence</div>
 <div class="clock-pips"><span class="pip-filled amber">&#9632;&#9632;</span><span class="pip-empty">&#9632;&#9632;&#9632;&#9632;</span></div>
-<div class="clock-status"><strong>2/6</strong> — FBI investigating Lakeside/Torch. At 4/6: they share intelligence.</div>
+<div class="clock-status"><strong>2/6</strong> -- FBI has Warren Birch face (Webb). Paper trail checks out. Investigation dormant but open.</div>
 </div>
 
 <div class="clock-card">
 <div class="clock-name">Masquerade Heat</div>
 <div class="clock-pips"><span class="pip-filled">&#9632;</span><span class="pip-empty">&#9632;&#9632;&#9632;&#9632;&#9632;</span></div>
-<div class="clock-status"><strong>1/6</strong> — Fragile but not burning. At 4/6: local heat auto-spills. At 6/6: Chicago sends an Archon.</div>
+<div class="clock-status"><strong>1/6</strong> -- Fragile but not burning. At 4/6: local heat auto-spills. At 6/6: Chicago sends an Archon.</div>
 </div>
 
 </div>
@@ -101,28 +107,28 @@ slug: "clocks"
 <div class="section-label">Territory Heat</div>
 <div class="clock-grid">
 
-<div class="clock-card keyed">
-<div class="clock-name">Dock Pipeline Exposure <span class="clock-badge badge-keyed">KEYED</span></div>
+<div class="clock-card">
+<div class="clock-name">Dock Pipeline Exposure</div>
 <div class="clock-pips"><span class="pip-filled amber">&#9632;&#9632;&#9632;</span><span class="pip-empty">&#9632;&#9632;&#9632;</span></div>
-<div class="clock-status"><strong>3/6</strong> — Pipeline ACTIVE. Eddie Fells Dominated. Warehouse operational. <strong>Lucian makes friendly contact soon.</strong></div>
+<div class="clock-status"><strong>3/6</strong> -- Pipeline ACTIVE. Eddie Dominated (granite). Warehouse operational. Lucian deal stable. $2K/month.</div>
 </div>
 
 <div class="clock-card">
 <div class="clock-name">Docks Heat</div>
-<div class="clock-pips"><span class="pip-filled amber">&#9632;&#9632;</span><span class="pip-empty">&#9632;&#9632;&#9632;&#9632;</span></div>
-<div class="clock-status"><strong>2/6</strong> — Dockworkers guarding words around strangers.</div>
+<div class="clock-pips"><span class="pip-filled amber">&#9632;&#9632;&#9632;</span><span class="pip-empty">&#9632;&#9632;&#9632;</span></div>
+<div class="clock-status"><strong>3/6</strong> -- Third dock-adjacent feed (D026). Second Hennessey's visit. Lucian deal stable.</div>
+</div>
+
+<div class="clock-card">
+<div class="clock-name">West Side Heat</div>
+<div class="clock-pips"><span class="pip-filled">&#9632;</span><span class="pip-empty">&#9632;&#9632;&#9632;&#9632;&#9632;</span></div>
+<div class="clock-status"><strong>1/6</strong> -- Two city workers found dazed same block (S023). Paramedics called.</div>
 </div>
 
 <div class="clock-card">
 <div class="clock-name">Wasteland Heat</div>
 <div class="clock-pips"><span class="pip-filled">&#9632;</span><span class="pip-empty">&#9632;&#9632;&#9632;&#9632;&#9632;</span></div>
-<div class="clock-status"><strong>1/6</strong> — Gangs, anarchs, bodies.</div>
-</div>
-
-<div class="clock-card">
-<div class="clock-name">West Side Heat</div>
-<div class="clock-pips"><span class="pip-empty">&#9632;&#9632;&#9632;&#9632;&#9632;&#9632;</span></div>
-<div class="clock-status"><strong>0/6</strong> — Room to build quietly.</div>
+<div class="clock-status"><strong>1/6</strong> -- Gangs, anarchs, bodies.</div>
 </div>
 
 </div>

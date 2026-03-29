@@ -188,6 +188,14 @@ Published scenes from **Chicago Chronicles** in chronological order. Current pub
 | 45 | [The Rounds -- Wednesday, 5 December 1990, 4:25 PM](/posts/the-rounds/) | Sable | Dec 5, 1990, 4:25 PM |
 | 46 | [The Hunt -- Thursday, 6 December 1990, 4:25 PM](/posts/the-hunt-s024/) | Sable | Dec 6, 1990, 4:25 PM |
 
+### Chapter 11 -- The Frequency
+
+*Dec 7, 1990, 4:25 PM through Dec 7, 1990, 4:25 PM.*
+
+| # | Scene | PC | Date |
+|---|---|---|---|
+| 47 | [The Frequency -- Friday, 7 December 1990, 4:25 PM](/posts/the-frequency/) | Sable | Dec 7, 1990, 4:25 PM |
+
 ## Other Chronicles
 
 ### Hell's Highway
