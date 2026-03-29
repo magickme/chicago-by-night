@@ -1,0 +1,21 @@
+{{ range .Site.Params.nav }}
+  {{ if .heading }}
+    <div class="nav-heading">{{ .heading }}</div>
+  {{ end }}
+  <ul class="nav-list">
+    {{ range .items }}
+      {{ $active := hasPrefix $.RelPermalink .url }}
+      <li{{ if $active }} class="active"{{ end }}>
+        <a href="{{ .url }}">{{ .name }}</a>
+      </li>
+      {{ with .children }}
+        {{ $section := index (where $.Site.RegularPages "Type" "posts") 0 }}
+        {{ range first . (where $.Site.RegularPages "Type" "posts") }}
+          <li class="child{{ if eq $.RelPermalink .RelPermalink }} active{{ end }}">
+            <a href="{{ .RelPermalink }}">{{ .Title | truncate 40 }}</a>
+          </li>
+        {{ end }}
+      {{ end }}
+    {{ end }}
+  </ul>
+{{ end }}

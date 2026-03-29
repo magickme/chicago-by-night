@@ -1,12 +1,7 @@
 baseURL: "https://chicago-by-night.pages.dev/"
 languageCode: en-us
 title: Chicago Chronicles
-theme: poison
-copyright: "Chicago Chronicles"
-
-pygmentsStyle: monokai
-pygmentsCodeFences: true
-pygmentsCodeFencesGuessSyntax: true
+theme: masquerade
 
 pagination:
   pagerSize: 20
@@ -14,56 +9,51 @@ pagination:
 taxonomies:
   tag: tags
   series: series
+  category: categories
 
 params:
   brand: "Chicago Chronicles"
   description: "Solo Vampire: The Masquerade across the southern Lake Michigan corridor"
-  dark_mode: false
-  front_page_content:
-    - posts
-  hideToc: true
-
-  # Light mode colors — warm parchment + dark red
-  sidebar_bg_color: "#1A1A1A"
-  sidebar_h1_color: "#E8E0D0"
-  sidebar_p_color: "#909090"
-  sidebar_a_color: "#E8E0D0"
-  sidebar_socials_color: "#E8E0D0"
-  sidebar_img_border_color: "#8B0000"
-  content_bg_color: "#F8F6F1"
-  text_color: "#2B2B2B"
-  post_title_color: "#1A1A1A"
-  list_color: "#5A5A5A"
-  link_color: "#8B0000"
-  date_color: "#888"
-  table_border_color: "#E2DED6"
-  table_stripe_color: "#F2F0EB"
-  code_color: "#8B0000"
-  code_background_color: "#F0EDE5"
-  code_block_color: "#F8F6F1"
-  code_block_background_color: "#1A1A1A"
-
-  menu:
-    - Name: "Posts"
-      URL: "/posts/"
-      HasChildren: true
-      Limit: 5
-      Pre: "Recent"
-    - Name: "Campaign"
-      URL: "/campaign/"
-      HasChildren: false
-    - Name: "Characters"
-      URL: "/characters/"
-      HasChildren: false
-    - Name: "World"
-      URL: "/world/"
-      HasChildren: false
-    - Name: "Method"
-      URL: "/guide/"
-      HasChildren: false
-    - Name: "About"
-      URL: "/about/"
-      HasChildren: false
+  nav:
+    - heading: "The Story"
+      items:
+        - name: "Reading Order"
+          url: "/reading-order/"
+        - name: "Latest Scenes"
+          url: "/posts/"
+          children: 5
+        - name: "Characters"
+          url: "/characters/"
+    - heading: "The Chronicle"
+      items:
+        - name: "Dashboard"
+          url: "/dashboard/"
+        - name: "Campaign"
+          url: "/campaign/"
+        - name: "World"
+          url: "/world/"
+        - name: "Method"
+          url: "/guide/"
+    - heading: "Reference"
+      items:
+        - name: "Threat Clocks"
+          url: "/clocks/"
+        - name: "Quest Log"
+          url: "/quests/"
+        - name: "Relationships"
+          url: "/relationships/"
+        - name: "Boon Ledger"
+          url: "/boons/"
+        - name: "Map"
+          url: "/map/"
+        - name: "Random Tables"
+          url: "/random-tables/"
+        - name: "Soundtrack"
+          url: "/music/"
+    - heading: ""
+      items:
+        - name: "About"
+          url: "/about/"
 
 outputs:
   home:

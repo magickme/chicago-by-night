@@ -1,0 +1,19 @@
+{{ define "main" }}
+<article class="reference">
+  <header>
+    <h1>{{ .Title }}</h1>
+    {{ with .Description }}
+      <p class="subtitle">{{ . }}</p>
+    {{ end }}
+  </header>
+
+  {{ if or (.Params.ShowToc) (.Params.toc) }}
+    <nav class="toc" aria-label="Table of Contents">
+      <strong>Contents</strong>
+      {{ .TableOfContents }}
+    </nav>
+  {{ end }}
+
+  {{ .Content }}
+</article>
+{{ end }}

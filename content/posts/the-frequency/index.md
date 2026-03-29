@@ -1,5 +1,5 @@
 ---
-title: "The Frequency -- Friday, 7 December 1990, 4:25 PM"
+title: "The Frequency — Friday, 7 December 1990, 4:25 PM"
 date: 1990-12-07T16:25:00
 lastmod: 2026-03-29
 tags: ["forged-in-steel", "sable", "vtm", "gary"]

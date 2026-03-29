@@ -1,0 +1,18 @@
+{{ define "main" }}
+<div class="reference">
+  <h1 class="page-title">{{ .Title }}</h1>
+
+  {{ .Content }}
+
+  <ul class="scene-list">
+  {{ range .Pages.ByDate.Reverse }}
+    <li>
+      <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+      {{ if not .Date.IsZero }}
+        <time>{{ .Date.Format "Jan 2, 2006" }}</time>
+      {{ end }}
+    </li>
+  {{ end }}
+  </ul>
+</div>
+{{ end }}

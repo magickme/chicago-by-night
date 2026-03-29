@@ -1,0 +1,18 @@
+{{ define "main" }}
+<div class="reference">
+  <h1 class="page-title">All Scenes</h1>
+
+  {{ $categories := .Site.Taxonomies.categories }}
+  {{ range $categories.Alphabetical }}
+    <h2 class="chapter-heading">{{ .Term }}</h2>
+    <ul class="scene-list">
+    {{ range .Pages.ByDate }}
+      <li>
+        <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+        <time>{{ .Date.Format "Jan 2, 2006" }}</time>
+      </li>
+    {{ end }}
+    </ul>
+  {{ end }}
+</div>
+{{ end }}

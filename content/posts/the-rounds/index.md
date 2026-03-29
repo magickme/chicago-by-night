@@ -1,5 +1,5 @@
 ---
-title: "The Rounds -- Wednesday, 5 December 1990, 4:25 PM"
+title: "The Rounds — Wednesday, 5 December 1990, 4:25 PM"
 date: 1990-12-05T16:25:00
 lastmod: 2026-03-28
 tags: ["forged-in-steel", "sable", "vtm", "gary"]

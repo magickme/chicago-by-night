@@ -1,0 +1,25 @@
+<div class="sidebar-inner">
+  <header class="sidebar-header">
+    <a href="/" class="brand">{{ .Site.Params.brand | default .Site.Title }}</a>
+    {{ with .Site.Params.description }}
+      <p class="tagline">{{ . }}</p>
+    {{ end }}
+  </header>
+
+  {{/* Mobile toggle */}}
+  <details class="mobile-nav">
+    <summary class="mobile-toggle" aria-label="Toggle navigation">Menu</summary>
+    <nav class="nav-groups" aria-label="Site navigation">
+      {{ partial "nav-links.html" . }}
+    </nav>
+  </details>
+
+  {{/* Desktop nav */}}
+  <nav class="nav-groups desktop-only" aria-label="Site navigation">
+    {{ partial "nav-links.html" . }}
+  </nav>
+
+  <footer class="sidebar-footer">
+    <small>&copy; {{ now.Format "2006" }} {{ .Site.Copyright | default .Site.Title }}</small>
+  </footer>
+</div>

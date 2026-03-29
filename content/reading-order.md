@@ -178,23 +178,23 @@ Published scenes from **Chicago Chronicles** in chronological order. Current pub
 |---|---|---|---|
 | 43 | [The Hunt](/posts/the-hunt-d025/) | Darius | Dec 3, 1990, 4:25 PM |
 
-### Chapter 10 -- The Spur
+### Chapter 10 — The Spur
 
 *Dec 4, 1990, 4:25 PM through Dec 6, 1990, 4:25 PM.*
 
 | # | Scene | PC | Date |
 |---|---|---|---|
-| 44 | [The Spur -- Tuesday, 4 December 1990, 4:25 PM](/posts/the-spur/) | Darius | Dec 4, 1990, 4:25 PM |
-| 45 | [The Rounds -- Wednesday, 5 December 1990, 4:25 PM](/posts/the-rounds/) | Sable | Dec 5, 1990, 4:25 PM |
-| 46 | [The Hunt -- Thursday, 6 December 1990, 4:25 PM](/posts/the-hunt-s024/) | Sable | Dec 6, 1990, 4:25 PM |
+| 44 | [The Spur — Tuesday, 4 December 1990, 4:25 PM](/posts/the-spur/) | Darius | Dec 4, 1990, 4:25 PM |
+| 45 | [The Rounds — Wednesday, 5 December 1990, 4:25 PM](/posts/the-rounds/) | Sable | Dec 5, 1990, 4:25 PM |
+| 46 | [The Hunt — Thursday, 6 December 1990, 4:25 PM](/posts/the-hunt-s024/) | Sable | Dec 6, 1990, 4:25 PM |
 
-### Chapter 11 -- The Frequency
+### Chapter 11 — The Frequency
 
 *Dec 7, 1990, 4:25 PM through Dec 7, 1990, 4:25 PM.*
 
 | # | Scene | PC | Date |
 |---|---|---|---|
-| 47 | [The Frequency -- Friday, 7 December 1990, 4:25 PM](/posts/the-frequency/) | Sable | Dec 7, 1990, 4:25 PM |
+| 47 | [The Frequency — Friday, 7 December 1990, 4:25 PM](/posts/the-frequency/) | Sable | Dec 7, 1990, 4:25 PM |
 
 ## Other Chronicles
 

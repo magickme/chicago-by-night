@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode | default "en" }}">
+  {{ partial "head.html" . }}
+  <body class="{{ .Type }}{{ if .IsHome }} is-home{{ end }}">
+    <div class="site-wrapper">
+      <aside class="sidebar">
+        {{ partial "nav.html" . }}
+      </aside>
+      <main class="content">
+        {{ block "main" . }}{{ end }}
+      </main>
+    </div>
+    {{ partial "footer.html" . }}
+  </body>
+</html>

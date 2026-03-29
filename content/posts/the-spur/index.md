@@ -1,5 +1,5 @@
 ---
-title: "The Spur -- Tuesday, 4 December 1990, 4:25 PM"
+title: "The Spur — Tuesday, 4 December 1990, 4:25 PM"
 date: 1990-12-04T16:25:00
 lastmod: 2026-03-27
 tags: ["forged-in-steel", "darius", "vtm", "gary"]
