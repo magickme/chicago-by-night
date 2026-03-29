@@ -15,6 +15,22 @@
   {{ $style := resources.Get "css/main.css" | minify | fingerprint }}
   <link rel="stylesheet" href="{{ $style.RelPermalink }}">
 
+  {{/* Mermaid — only loaded on pages that contain mermaid code blocks */}}
+  {{ if and .IsPage (findRE "language-mermaid" .Content) }}
+  <script type="module">
+    import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@11/dist/mermaid.esm.min.mjs';
+    mermaid.initialize({ startOnLoad: false, theme: 'neutral', fontFamily: "'Cormorant Garamond', Georgia, serif" });
+    document.querySelectorAll('code.language-mermaid').forEach(el => {
+      const pre = el.parentElement;
+      const div = document.createElement('div');
+      div.className = 'mermaid';
+      div.textContent = el.textContent;
+      pre.replaceWith(div);
+    });
+    await mermaid.run();
+  </script>
+  {{ end }}
+
   {{/* RSS */}}
   {{ with .OutputFormats.Get "RSS" }}
     <link rel="alternate" type="application/rss+xml" href="{{ .RelPermalink }}" title="{{ $.Site.Title }}">
