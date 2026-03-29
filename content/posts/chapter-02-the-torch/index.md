@@ -1,5 +1,5 @@
 ---
-title: "Sable Price — Monday, 1 January 1990, 1:00 AM"
+title: "The Torch — Monday, 1 January 1990, 1:00 AM"
 date: 1990-01-01T01:00:00
 lastmod: 2026-03-17
 tags: ["chapter", "sable", "vtm", "forged-in-steel", "gary"]

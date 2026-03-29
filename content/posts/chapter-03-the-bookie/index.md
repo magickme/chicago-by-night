@@ -1,5 +1,5 @@
 ---
-title: "Darius Cole — Friday, 5 January 1990, 10:15 PM"
+title: "The Bookie — Friday, 5 January 1990, 10:15 PM"
 date: 1990-01-05T22:15:00
 lastmod: 2026-03-17
 tags: ["chapter", "darius", "vtm", "forged-in-steel", "gary"]

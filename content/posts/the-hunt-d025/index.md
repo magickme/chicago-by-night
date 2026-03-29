@@ -1,5 +1,5 @@
 ---
-title: "The Hunt — Monday, 3 December 1990, 4:25 PM"
+title: "The Shore Bar — Monday, 3 December 1990, 4:25 PM"
 date: 1990-12-03T16:25:00
 lastmod: 2026-03-27
 tags: ["forged-in-steel", "darius", "vtm", "gary"]

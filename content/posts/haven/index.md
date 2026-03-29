@@ -1,5 +1,5 @@
 ---
-title: "Sable Price — Thursday, 4 January 1990, 9:00 PM"
+title: "Haven — Thursday, 4 January 1990, 9:00 PM"
 date: 1990-01-04T21:00:00
 lastmod: 2026-03-17
 tags: ["chapter", "sable", "vtm", "forged-in-steel", "gary"]

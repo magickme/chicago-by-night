@@ -133,10 +133,10 @@ Published scenes from **Chicago Chronicles** in chronological order. Current pub
 | # | Scene | PC | Date |
 |---|---|---|---|
 | 42 | [The Diagnostic](/posts/the-diagnostic/) | Darius | Dec 2, 1990, 4:25 PM |
-| 43 | [The Hunt](/posts/the-hunt-d025/) | Darius | Dec 3, 1990, 4:25 PM |
+| 43 | [The Shore Bar](/posts/the-hunt-d025/) | Darius | Dec 3, 1990, 4:25 PM |
 | 44 | [The Spur](/posts/the-spur/) | Darius | Dec 4, 1990, 4:25 PM |
 | 45 | [The Rounds](/posts/the-rounds/) | Sable | Dec 5, 1990, 4:25 PM |
-| 46 | [The Hunt](/posts/the-hunt-s024/) | Sable | Dec 6, 1990, 4:25 PM |
+| 46 | [The Pickup](/posts/the-hunt-s024/) | Sable | Dec 6, 1990, 4:25 PM |
 
 ### Chapter 11 — The Frequency
 

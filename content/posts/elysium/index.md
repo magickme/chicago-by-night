@@ -1,5 +1,5 @@
 ---
-title: "Sable Price — Friday, 5 January 1990, 8:00 PM"
+title: "Elysium — Friday, 5 January 1990, 8:00 PM"
 date: 1990-01-05T20:00:00
 lastmod: 2026-03-17
 tags: ["chapter", "sable", "vtm", "forged-in-steel", "gary"]

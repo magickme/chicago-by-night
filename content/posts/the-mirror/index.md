@@ -1,5 +1,5 @@
 ---
-title: "Sable Price — Friday, 12 January 1990, 10:00 PM"
+title: "The Mirror — Friday, 12 January 1990, 10:00 PM"
 date: 1990-01-12T22:00:00
 lastmod: 2026-03-19
 tags: ["chapter", "sable", "vtm", "forged-in-steel", "gary"]

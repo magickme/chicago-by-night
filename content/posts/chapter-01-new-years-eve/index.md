@@ -1,5 +1,5 @@
 ---
-title: "Darius Cole — Sunday, 31 December 1989, 11:47 PM"
+title: "New Year's Eve — Sunday, 31 December 1989, 11:47 PM"
 date: 1989-12-31T23:47:00
 lastmod: 2026-03-17
 tags: ["chapter", "darius", "vtm", "forged-in-steel", "gary"]
