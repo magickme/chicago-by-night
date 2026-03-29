@@ -19,7 +19,12 @@
     {{ partial "nav-links.html" . }}
   </nav>
 
+  <div class="search-container">
+    <input type="search" class="search-input" placeholder="Search scenes..." aria-label="Search" id="site-search">
+  </div>
+
   <footer class="sidebar-footer">
+    <button class="theme-toggle" id="theme-toggle" aria-label="Toggle dark mode">Dark mode</button>
     <small>&copy; {{ now.Format "2006" }} {{ .Site.Copyright | default .Site.Title }}</small>
   </footer>
 </div>

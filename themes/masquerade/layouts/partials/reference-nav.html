@@ -1,0 +1,21 @@
+{{ $links := slice
+  (dict "url" "/dashboard/" "name" "Dashboard")
+  (dict "url" "/clocks/" "name" "Threat Clocks")
+  (dict "url" "/quests/" "name" "Quest Log")
+  (dict "url" "/relationships/" "name" "Relationships")
+  (dict "url" "/boons/" "name" "Boon Ledger")
+  (dict "url" "/map/" "name" "Map")
+}}
+{{ $current := .RelPermalink }}
+{{ $others := slice }}
+{{ range $links }}
+  {{ if ne .url $current }}
+    {{ $others = $others | append . }}
+  {{ end }}
+{{ end }}
+{{ if $others }}
+<nav class="reference-nav" aria-label="Related pages">
+  <span class="reference-nav-label">See also</span>
+  {{ range $i, $link := $others }}{{ if $i }}<span class="reference-nav-sep" aria-hidden="true">&middot;</span>{{ end }}<a href="{{ .url }}">{{ .name }}</a>{{ end }}
+</nav>
+{{ end }}

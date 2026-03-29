@@ -19,6 +19,12 @@
     </div>
   </header>
 
+  {{ with .Description }}
+  <blockquote class="epigraph" aria-label="Scene description">
+    <p>{{ . }}</p>
+  </blockquote>
+  {{ end }}
+
   <div class="prose-body">
     {{ .Content }}
   </div>

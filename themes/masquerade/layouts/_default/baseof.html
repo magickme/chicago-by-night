@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="{{ .Site.LanguageCode | default "en" }}">
   {{ partial "head.html" . }}
-  <body class="{{ .Type }}{{ if .IsHome }} is-home{{ end }}">
+  <body class="{{ .Type }}{{ if .IsHome }} is-home{{ end }}{{ with .Params.slug }} page-{{ . }}{{ end }}">
     <a href="#main-content" class="skip-link">Skip to content</a>
     <div class="site-wrapper">
       <aside class="sidebar" aria-label="Site navigation">
@@ -12,5 +12,37 @@
       </main>
     </div>
     {{ partial "footer.html" . }}
+    <script>
+      // Dark mode — respects localStorage, then system preference
+      (function() {
+        var toggle = document.getElementById('theme-toggle');
+        var stored = localStorage.getItem('theme');
+        var prefersDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
+        var theme = stored || (prefersDark ? 'dark' : 'light');
+        document.documentElement.setAttribute('data-theme', theme);
+        toggle.textContent = theme === 'dark' ? 'Light mode' : 'Dark mode';
+        toggle.addEventListener('click', function() {
+          var next = document.documentElement.getAttribute('data-theme') === 'dark' ? 'light' : 'dark';
+          document.documentElement.setAttribute('data-theme', next);
+          localStorage.setItem('theme', next);
+          toggle.textContent = next === 'dark' ? 'Light mode' : 'Dark mode';
+        });
+      })();
+    </script>
+    <script>
+      // Sidebar search — filters by navigating to pagefind or simple client-side
+      (function() {
+        var input = document.getElementById('site-search');
+        if (!input) return;
+        var debounce;
+        input.addEventListener('keydown', function(e) {
+          if (e.key === 'Enter') {
+            e.preventDefault();
+            var q = input.value.trim();
+            if (q) window.location.href = '/search/?q=' + encodeURIComponent(q);
+          }
+        });
+      })();
+    </script>
   </body>
 </html>

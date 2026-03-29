@@ -6,11 +6,13 @@ hidemeta: true
 ShowToc: false
 ---
 
-This site documents **Chicago Chronicles**, a solo playthrough of *Vampire: The Masquerade* (1st Edition) set in the Chicago by Night sourcebook, using the Mythic Game Master Emulator 2nd Edition as a solo engine.
+Two vampires. One ruined city. No game master. Every decision is real, every consequence permanent — the dice and the oracle decide what happens next.
 
-The guides here cover the method — how to merge a political vampire sandbox with Mythic's scene and Fate Question structure — and the actual play reports that result.
+**Chicago Chronicles** is a solo *Vampire: The Masquerade* campaign played with the Mythic Game Master Emulator, set in Gary, Indiana, 1990. [Start reading from Scene 1](/posts/chapter-01-new-years-eve/), meet [the characters](/characters/), or check the [dashboard](/dashboard/) for where things stand now.
 
-If you're interested in solo tabletop RPGs, Vampire: The Masquerade, or the World of Darkness, you're in the right place.
+---
+
+This site documents the full playthrough — the prose fiction that results from play, plus the campaign state, threat clocks, and method behind the madness.
 
 > *"Nothing is as it seems."*
 > — Theme of Chicago by Night

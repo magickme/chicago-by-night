@@ -25,6 +25,37 @@
   --focus-ring:    0 0 0 3px rgba(139, 0, 0, 0.4);
 }
 
+/* --- Dark mode --- */
+[data-theme="dark"] {
+  --bg:            #1C1B1A;
+  --bg-sidebar:    #121111;
+  --text:          #D5D0C6;     /* 11.2:1 on --bg */
+  --text-muted:    #A09A8F;     /* 6.1:1 on --bg */
+  --text-faint:    #8A8480;     /* 4.5:1 on --bg */
+  --accent:        #C24B4B;     /* 5.1:1 on --bg */
+  --accent-hover:  #D46A6A;
+  --cream:         #242220;
+  --border:        #3A3735;
+  --code-bg:       #2A2826;
+  --sidebar-text:  #D5D0C6;
+  --sidebar-muted: #7A756F;
+}
+
+[data-theme="dark"] .scene-card,
+[data-theme="dark"] .quick-links .card {
+  background: var(--cream);
+}
+
+[data-theme="dark"] ::selection {
+  background: rgba(194, 75, 75, 0.25);
+}
+
+[data-theme="dark"] pre { background: #0E0D0D; }
+
+[data-theme="dark"] ::-webkit-scrollbar-track { background: var(--bg); }
+[data-theme="dark"] ::-webkit-scrollbar-thumb { background: var(--border); }
+[data-theme="dark"] .sidebar::-webkit-scrollbar-track { background: var(--bg-sidebar); }
+
 /* --- Reset --- */
 *, *::before, *::after { box-sizing: border-box; }
 body, h1, h2, h3, h4, h5, h6, p, ul, ol { margin: 0; padding: 0; }
@@ -826,6 +857,250 @@ figcaption {
 }
 
 /* ============================================
+   HERO SUBTITLE
+   ============================================ */
+.hero-sub {
+  font-size: 1rem;
+  color: var(--text-muted);
+  margin-top: 0.3rem;
+  line-height: 1.5;
+}
+
+/* ============================================
+   SCENE EPIGRAPH — pull quote on fiction pages
+   ============================================ */
+.epigraph {
+  border-left: none;
+  background: none;
+  padding: 0;
+  margin: 0 0 2rem;
+  text-align: center;
+  font-style: italic;
+  font-size: 1.05rem;
+  color: var(--text-muted);
+  line-height: 1.6;
+  max-width: var(--prose-width);
+}
+
+.epigraph p { margin: 0; }
+
+/* ============================================
+   CHARACTER CARDS
+   ============================================ */
+.character-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  gap: 1.5rem;
+  margin: 1.5rem 0 2rem;
+}
+
+.character-card {
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  overflow: hidden;
+  transition: border-color 0.15s, box-shadow 0.15s;
+}
+
+.character-card:hover {
+  border-color: var(--accent);
+  box-shadow: 0 2px 8px rgba(0,0,0,0.06);
+}
+
+.character-card a {
+  display: block;
+  text-decoration: none;
+  color: inherit;
+}
+
+.character-card img {
+  width: 100%;
+  aspect-ratio: 3 / 4;
+  object-fit: cover;
+  margin: 0;
+}
+
+.character-info {
+  padding: 1rem 1.2rem 1.2rem;
+}
+
+.character-info strong {
+  font-family: var(--font-display);
+  font-size: 1.1rem;
+  display: block;
+  margin-bottom: 0.15rem;
+}
+
+.character-info .lineage {
+  font-size: 0.85rem;
+  color: var(--accent);
+  font-family: var(--font-display);
+  letter-spacing: 0.03em;
+  display: block;
+  margin-bottom: 0.5rem;
+}
+
+.character-info p {
+  font-size: 0.92rem;
+  color: var(--text-muted);
+  line-height: 1.5;
+  margin: 0;
+}
+
+/* ============================================
+   REFERENCE NAV — lateral links between pages
+   ============================================ */
+.reference-nav {
+  margin-top: 3rem;
+  padding-top: 1.5rem;
+  border-top: 1px solid var(--border);
+  font-size: 0.88rem;
+  line-height: 1.8;
+}
+
+.reference-nav-label {
+  font-family: var(--font-display);
+  font-size: 0.75rem;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: var(--text-faint);
+  margin-right: 0.6rem;
+}
+
+.reference-nav a {
+  color: var(--accent);
+  text-decoration: none;
+}
+
+.reference-nav a:hover { color: var(--accent-hover); }
+
+.reference-nav-sep {
+  margin: 0 0.4em;
+  color: var(--border);
+}
+
+/* ============================================
+   DARK MODE TOGGLE
+   ============================================ */
+.theme-toggle {
+  background: none;
+  border: 1px solid rgba(255,255,255,0.12);
+  border-radius: 4px;
+  color: var(--sidebar-muted);
+  font-family: var(--font-display);
+  font-size: 0.7rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  padding: 0.35rem 0.7rem;
+  cursor: pointer;
+  margin-top: 1rem;
+  transition: color 0.15s, border-color 0.15s;
+}
+
+.theme-toggle:hover {
+  color: var(--sidebar-text);
+  border-color: rgba(255,255,255,0.25);
+}
+
+/* ============================================
+   READING ORDER — styled table enhancements
+   ============================================ */
+.page-reading-order table {
+  display: table;
+  font-size: 0.92rem;
+}
+
+.page-reading-order td:first-child {
+  font-family: var(--font-display);
+  font-size: 0.78rem;
+  color: var(--text-faint);
+  text-align: center;
+  width: 2.5rem;
+}
+
+.page-reading-order td:nth-child(2) a {
+  font-weight: 500;
+  color: var(--text);
+  text-decoration: none;
+  transition: color 0.15s;
+}
+
+.page-reading-order td:nth-child(2) a:hover {
+  color: var(--accent);
+}
+
+.page-reading-order td:nth-child(3) {
+  font-size: 0.82rem;
+  color: var(--accent);
+  font-family: var(--font-display);
+  letter-spacing: 0.03em;
+  white-space: nowrap;
+}
+
+.page-reading-order td:last-child {
+  font-size: 0.82rem;
+  color: var(--text-faint);
+  white-space: nowrap;
+}
+
+.page-reading-order tr {
+  transition: background 0.1s;
+}
+
+.page-reading-order tr:hover {
+  background: rgba(139, 0, 0, 0.04);
+}
+
+/* ============================================
+   SEARCH
+   ============================================ */
+.search-container {
+  margin-top: 1rem;
+}
+
+.search-input {
+  width: 100%;
+  padding: 0.5rem 0.7rem;
+  font-family: var(--font-body);
+  font-size: 0.9rem;
+  background: rgba(255,255,255,0.08);
+  border: 1px solid rgba(255,255,255,0.12);
+  border-radius: 4px;
+  color: var(--sidebar-text);
+  transition: border-color 0.15s;
+}
+
+.search-input::placeholder { color: var(--sidebar-muted); }
+.search-input:focus {
+  outline: none;
+  border-color: rgba(255,255,255,0.3);
+  box-shadow: var(--focus-ring);
+}
+
+.search-results {
+  max-width: var(--content-width);
+}
+
+.search-results mark {
+  background: rgba(139, 0, 0, 0.15);
+  color: inherit;
+  padding: 0.05em 0.1em;
+  border-radius: 2px;
+}
+
+/* Pagefind UI overrides */
+.search-page .pagefind-ui {
+  --pagefind-ui-scale: 0.9;
+  --pagefind-ui-primary: var(--accent);
+  --pagefind-ui-text: var(--text);
+  --pagefind-ui-background: var(--bg);
+  --pagefind-ui-border: var(--border);
+  --pagefind-ui-tag: var(--cream);
+  --pagefind-ui-border-width: 1px;
+  --pagefind-ui-border-radius: 4px;
+  --pagefind-ui-font: var(--font-body);
+}
+
+/* ============================================
    PRINT — clean reading, no nav chrome
    ============================================ */
 @media print {
@@ -835,6 +1110,9 @@ figcaption {
   .post-tags,
   .scene-card,
   .quick-links,
+  .reference-nav,
+  .theme-toggle,
+  .search-container,
   .see-all { display: none; }
 
   body {
