@@ -28,6 +28,7 @@ menu:
 | Allicia Alliance | 6/6 | COMPLETE. Bond mutual. Allicia deteriorating under Modius pressure. Carna thread urgent. |
 | Torch/Rack Heat | 5/6 | STABILIZED. Webb proxy gives Birch a face. Shepard has paper trail that checks out. Investigation dormant. |
 | Dane Identifies Darius | 4/6 | ADVANCED x2. Pamphlet diagnostic placed on Cutlass. Dane confirmed nocturnal pattern. Active surveillance. Next: direct encounter. |
+| Modius Internal Audit | 4/6 | Cross-checking reports. Tasted foreign blood in Allicia. Stopped asking (worse). Squeezing through constraint, not confrontation. |
 | Modius Leash (Sable) | 4/6 | Attaché role COMPLETED (Sir Henry visit). Allicia squeeze continuing. Blood-taste bomb still ticking. |
 | Dock Pipeline Exposure | 3/6 | Pipeline ACTIVE. Eddie Dominated. Warehouse operational. Lucian deal stable. $2K/month. |
 | Docks Heat | 3/6 | Third dock-adjacent feed (D026). Second Hennessey's visit. Lucian deal stable. |
@@ -38,14 +39,13 @@ menu:
 | Masquerade Heat | 1/6 | Fragile but not burning |
 | Wasteland Heat | 1/6 | Gangs, anarchs, bodies |
 | West Side Heat | 1/6 | Two city workers found dazed, same block, water main break zone (S023). Paramedics called. |
-| Blood at Dawn | 0/6 | CLOSED. Adventure resolved. |
 
 ## Shared Goals
 
 - Survive 1990 sandbox year
 - Build independent power beneath Modius's awareness
 - Manage FBI/Shepard threat (Birch proxy + Danov paper)
-- Identify and neutralize burgundy Olds watcher
+- Burgundy Olds watcher IDENTIFIED (Kowalski, Lakefront Recovery). Surveillance stopped. Monitor for resumption.
 - Prepare for Baptism by Fire (NYE 1990)
 - Early warning system for Sharon Payne
 - Diversify Sable's feeding grounds (west side bars burning through repetition)
@@ -58,10 +58,10 @@ menu:
 |---|---|
 | Chuc Luc's pipeline (2x) | Pipeline OPERATIONAL. Berth 7 → warehouse → truck. Eddie Fells Dominated. Torch secured. AUTONOMY GRANTED (D026). Monthly reports, first Tuesday. Three conditions: no expansion, no Chicago contact, no unauthorized spending. |
 | Cover story (2x) | 2/6. Federal-grade Birch paper delivered. Webb operational as proxy. Identity solid. |
-| Gerald Fisk / Torch mortgage | RESOLVED. Mortgage assumed. $800/mo. |
-| Lucian feeding rights | DELIVERED. Annual, renewable. Accepted. |
-| Brief Victor on FBI | RESOLVED (D016). Kept Victor ignorant — genuine ignorance IS the cover. |
-| Chuc Luc callback | DONE (D016). New orders: warehouse + customs gap by Tue July 17. |
+| ~~Gerald Fisk / Torch mortgage~~ | ARCHIVED. |
+| ~~Lucian feeding rights~~ | ARCHIVED. |
+| ~~Brief Victor on FBI~~ | ARCHIVED. |
+| ~~Chuc Luc callback~~ | ARCHIVED. |
 | Sullivan Dane's witch-hunt (2x) | 4/6. Pamphlet diagnostic on Cutlass. Confirmed nocturnal pattern. Active surveillance. Eleven months of data. |
 | The slave auction / D-Train | ESCALATED. D-Train visited burned church July 25 with companion who searched basement. Was in midtown Gary (Fifth & Grant Amoco) before. Knows operation is dead. Thursday intercept dead. Will report to Mama Roux. Keisha at risk if threads pulled. |
 
@@ -70,10 +70,10 @@ menu:
 | Thread | Weight | Status |
 |---|---|---|
 | Allicia — protect from Modius | 2x | **CRITICAL.** Confined Wed/Sat Torch piano only. Modius STOPPED ASKING about foreign blood — worse than asking (already decided). Allicia visibly deteriorating — aura read: bruised violet, fading gold, white sparks of confusion. **BbF WINDOW OPEN (S024):** Erichtho (Chicago Tremere, Carna sympathizer) will evaluate Allicia's bond at BbF under cover of Nicolai's observer mission. Coterie must build 15-min privacy window at party. Allicia must be present. This is the only shot before Modius finishes closing the door. |
-| Spy assignment (double agent) | 2x | COMPLETED (Sir Henry visit). Attaché role fulfilled. No further assignment pending. |
+| ~~Spy assignment (double agent)~~ | 2x | ARCHIVED. Sir Henry visit complete. |
 | Modius leash | 2x | 4/6. Successful audience (S021). Attaché role = more access + more obligation. Modius pleased with FBI handling. Near-entrancement at scene open (SC 1 net). Relationship deepening in complexity. |
-| Sharon Payne's vendetta | 3x | 1/6. Letter sent. Chicago woman asking about Sable at Reva's east side bar — well-dressed, white, 40s, wool coat, dark sedan. Asked for "Sable or Ann" (birth name = insider knowledge). Left 312 number on napkin (S024, recovered from Danny via Reva). Traceable via Lonnie Greer. Possible Sharon proxy. UNCONFIRMED. COTERIE-LEVEL THREAT. |
+| Sharon Payne's vendetta | 3x | 2/6 (ADVANCED S024). Chicago woman entered Gary, asked for "Sable or Ann" (birth name = insider knowledge) at east side bar. 312 number on napkin recovered (S024). Lonnie Greer trace pending. Proxy UNCONFIRMED as Sharon's but evidence strong. COTERIE-LEVEL THREAT. |
 | Michael Payne — absent sire | 2x | ESCALATED. Missing. Darius now aware. |
-| Denise Price — the mother | 1x | **ESCALATED.** Second message November (S023). "Mrs. Henderson said you moved months ago." Aunt Clarice saw someone like Sable in Hammond. Getting closer. Denise worried, persistent, narrowing. |
-| Feed and survive | 1x | Fed S023 (west side, 3 vessels — Marie 4 BP, Guerrero 4 BP Entranced, Dayton conventioneer 3 BP). 14/14 → 11/14 after ghouls. West Side Heat 1/6 (two workers same block). Docks 0/6. East Broadway 1/6. East side 1/6. Diversified but App 5 remains memorable. |
-| Ghoul management | 1x | ACTIVE. Bond Step 2 (DeShawn, Pete, Spoon). Coop part-time Step 1. Spoon LOCKED. Maintenance done Dec 5 (DeShawn, Pete fed; Coop scheduled Thu). DeShawn redeployed: van watch Seventeenth/Adams after midnight. Terrell still loose. Deacon (south side boss, weeks out). |
+| Denise Price — the mother | 1x | **ESCALATED.** November message heard (S024): emotional, not actionable. "I just need to know you're okay." Aunt Clarice Hammond sighting. No PI, no police. Sable did not call back. Getting closer but not yet dangerous. |
+| Feed and survive | 1x | Fed S024 (Nisha, pickpocket, Kiefer's lot → studio, 4 BP). Coop fed 1 BP. Blood 13/14. Heat: West Side 1/6, Docks 3/6 (territorial, mostly Darius), East Broadway 1/6, East Side 1/6. App 5 remains memorable. |
+| Ghoul management | 1x | ACTIVE. Bond Step 2 (DeShawn, Pete, Spoon). Coop part-time Step 1. Spoon LOCKED. Maintenance current: DeShawn+Pete fed Dec 5, Coop fed Dec 6. DeShawn on van watch (Seventeenth/Adams after midnight). Terrell still loose. Deacon (south side boss, weeks out). |
