@@ -12,6 +12,8 @@ menu:
 
 Published scenes from **Chicago Chronicles** in chronological order. Current public material is from **Act I: Forged in Steel**.
 
+**New here?** Start with [New Year's Eve, 1989](/posts/chapter-01-new-years-eve/) or meet [the characters](/characters/) first.
+
 ## Act I: Forged in Steel
 
 ### Chapter 1 — Gary Sandbox
@@ -20,7 +22,7 @@ Published scenes from **Chicago Chronicles** in chronological order. Current pub
 
 | # | Scene | PC | Date |
 |---|---|---|---|
-| 1 | [New Year's Eve](/posts/chapter-01-new-years-eve/) | Darius | Dec 31, 1989, 11:47 PM |
+| 1 | [New Year's Eve](/posts/chapter-01-new-years-eve/) <span class="start-here">Start here</span> | Darius | Dec 31, 1989, 11:47 PM |
 | 2 | [The Torch](/posts/chapter-02-the-torch/) | Sable | Jan 1, 1990, 1:00 AM |
 | 3 | [Haven](/posts/haven/) | Sable | Jan 4, 1990, 9:00 PM |
 | 4 | [Elysium](/posts/elysium/) | Sable | Jan 5, 1990, 8:00 PM |

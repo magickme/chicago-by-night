@@ -53,9 +53,14 @@ params:
           url: "/search/"
         - name: "About"
           url: "/about/"
+        - name: "Why This Game"
+          url: "/why/"
 
 outputs:
   home:
+    - HTML
+    - RSS
+  section:
     - HTML
     - RSS
 

@@ -12,6 +12,21 @@ menu:
 
 *Chicago Chronicles. Act I: Forged in Steel. Updated: **1990-12-07 (Friday night/Saturday morning)**.*
 
+<details class="dashboard-glossary">
+<summary>Glossary of abbreviations</summary>
+<dl>
+<dt>D001–D026</dt><dd>Darius scene numbers (e.g., D026 = Darius's 26th scene)</dd>
+<dt>S001–S025</dt><dd>Sable scene numbers (e.g., S025 = Sable's 25th scene)</dd>
+<dt>BbF</dt><dd>Baptism by Fire — the upcoming New Year's Eve 1990 event in Chicago</dd>
+<dt>SC</dt><dd>Succubus Club — a Chicago nightclub and future story location</dd>
+<dt>CF</dt><dd>Chaos Factor — a Mythic GME mechanic that measures how volatile the current situation is (1–9)</dd>
+<dt>BP</dt><dd>Blood Pool — a vampire's stored blood (fuel for powers and healing)</dd>
+<dt>WP</dt><dd>Willpower — mental resilience, spent to resist compulsions or push through difficulty</dd>
+<dt>x/6</dt><dd>Threat clock progress — reaches 6/6 when the threat fully materializes</dd>
+<dt>1x / 2x / 3x</dt><dd>Thread weight — how heavily a subplot factors into oracle rolls (higher = more likely to trigger)</dd>
+</dl>
+</details>
+
 ## Coterie Snapshot
 
 - 1990-12-07 (Friday night/Saturday morning) — Darius at west-side haven (D026 played Dec 4). Sable at Kendrick's Auto (S025 played Dec 7).

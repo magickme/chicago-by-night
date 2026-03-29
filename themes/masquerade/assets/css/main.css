@@ -1145,3 +1145,234 @@ figcaption {
 
   blockquote { border-left-color: #000; background: none; }
 }
+
+/* ============================================
+   "BEGIN THE STORY" card — accent border
+   ============================================ */
+.card-start {
+  border-color: var(--accent);
+  border-width: 2px;
+}
+
+.card-start strong { color: var(--accent); }
+
+/* ============================================
+   HOMEPAGE SCENE LIST — enhanced with chapter + PC
+   ============================================ */
+.scene-list li a {
+  display: flex;
+  flex-direction: column;
+  min-width: 0;
+}
+
+.scene-list-title {
+  color: var(--text);
+  font-size: 1rem;
+}
+
+.scene-list-chapter {
+  font-family: var(--font-display);
+  font-size: 0.72rem;
+  letter-spacing: 0.04em;
+  color: var(--text-faint);
+}
+
+.scene-list li a:hover .scene-list-title { color: var(--accent); }
+
+.scene-list-meta {
+  display: flex;
+  align-items: baseline;
+  gap: 0.5em;
+  flex-shrink: 0;
+  white-space: nowrap;
+}
+
+.scene-list-pc {
+  font-family: var(--font-display);
+  font-size: 0.72rem;
+  letter-spacing: 0.04em;
+  color: var(--accent);
+}
+
+/* ============================================
+   PREVIOUSLY — collapsed recap on scene pages
+   ============================================ */
+.previously {
+  margin-bottom: 1.5rem;
+  font-size: 0.92rem;
+  color: var(--text-muted);
+  border: 1px solid var(--border);
+  border-radius: 4px;
+  padding: 0;
+}
+
+.previously summary {
+  cursor: pointer;
+  padding: 0.6em 1em;
+  font-family: var(--font-display);
+  font-size: 0.78rem;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  color: var(--text-faint);
+  list-style: none;
+}
+
+.previously summary::-webkit-details-marker { display: none; }
+.previously summary::marker { display: none; content: ""; }
+
+.previously summary::before {
+  content: "\25B8\2003";
+  font-size: 0.7rem;
+}
+
+.previously[open] summary::before { content: "\25BE\2003"; }
+
+.previously p {
+  padding: 0 1em 0.6em;
+  font-style: italic;
+  line-height: 1.6;
+  margin: 0;
+}
+
+.previously a {
+  display: inline-block;
+  padding: 0 1em 0.8em;
+  color: var(--accent);
+  font-size: 0.85rem;
+  text-decoration: none;
+}
+
+.previously a:hover { color: var(--accent-hover); }
+
+/* ============================================
+   SCENE PROGRESS — "Scene X of Y"
+   ============================================ */
+.scene-progress {
+  font-family: var(--font-display);
+  font-size: 0.78rem;
+  letter-spacing: 0.04em;
+  color: var(--text-faint);
+}
+
+/* ============================================
+   SCENE ACTIONS — tags + share button row
+   ============================================ */
+.scene-actions {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  gap: 1rem;
+  margin-top: 2rem;
+}
+
+.share-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35em;
+  background: none;
+  border: 1px solid var(--border);
+  border-radius: 3px;
+  padding: 0.3em 0.7em;
+  font-family: var(--font-display);
+  font-size: 0.75rem;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  color: var(--text-faint);
+  cursor: pointer;
+  transition: color 0.15s, border-color 0.15s;
+  flex-shrink: 0;
+}
+
+.share-btn:hover {
+  color: var(--accent);
+  border-color: var(--accent);
+}
+
+.share-btn svg { flex-shrink: 0; }
+
+/* ============================================
+   DASHBOARD GLOSSARY
+   ============================================ */
+.dashboard-glossary {
+  font-size: 0.88rem;
+  color: var(--text-muted);
+  border: 1px solid var(--border);
+  border-radius: 4px;
+  margin-bottom: 1.5rem;
+}
+
+.dashboard-glossary summary {
+  cursor: pointer;
+  padding: 0.5em 1em;
+  font-family: var(--font-display);
+  font-size: 0.78rem;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: var(--text-faint);
+  list-style: none;
+}
+
+.dashboard-glossary summary::-webkit-details-marker { display: none; }
+.dashboard-glossary summary::marker { display: none; content: ""; }
+
+.dashboard-glossary dl {
+  padding: 0.5em 1em 0.8em;
+  margin: 0;
+  display: grid;
+  grid-template-columns: auto 1fr;
+  gap: 0.2em 1em;
+}
+
+.dashboard-glossary dt {
+  font-family: var(--font-display);
+  font-size: 0.82rem;
+  font-weight: 600;
+  color: var(--accent);
+}
+
+.dashboard-glossary dd {
+  margin: 0;
+  font-size: 0.85rem;
+}
+
+/* ============================================
+   START-HERE BADGE — reading order page
+   ============================================ */
+.start-here {
+  display: inline-block;
+  font-family: var(--font-display);
+  font-size: 0.68rem;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: #fff;
+  background: var(--accent);
+  padding: 0.15em 0.5em;
+  border-radius: 3px;
+  margin-left: 0.5em;
+  vertical-align: middle;
+}
+
+/* ============================================
+   CHARACTER APPEARANCES
+   ============================================ */
+.character-appearances {
+  font-size: 0.82rem;
+  color: var(--text-faint);
+  margin-top: 0.4rem;
+}
+
+.character-appearances a {
+  color: var(--accent);
+  text-decoration: none;
+}
+
+.character-appearances a:hover { color: var(--accent-hover); }
+
+/* ============================================
+   RESPONSIVE — new components
+   ============================================ */
+@media (max-width: 48em) {
+  .scene-actions { flex-direction: column; }
+  .scene-list li { flex-wrap: wrap; }
+  .scene-list-meta { margin-left: auto; }
+}
