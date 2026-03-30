@@ -6,10 +6,6 @@
     {{ end }}
   </header>
 
-  <div class="search-container">
-    <input type="search" class="search-input" placeholder="Search scenes..." aria-label="Search" id="site-search">
-  </div>
-
   {{/* Mobile toggle */}}
   <details class="mobile-nav">
     <summary class="mobile-toggle" aria-label="Toggle navigation">Menu</summary>
@@ -22,6 +18,10 @@
   <nav class="nav-groups desktop-only" aria-label="Site navigation">
     {{ partial "nav-links.html" . }}
   </nav>
+
+  <div class="search-container">
+    <input type="search" class="search-input" placeholder="Search..." aria-label="Search" id="site-search">
+  </div>
 
   <footer class="sidebar-footer">
     <button class="theme-toggle" id="theme-toggle" aria-label="Toggle dark mode">Dark mode</button>

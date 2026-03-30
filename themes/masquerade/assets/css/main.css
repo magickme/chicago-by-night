@@ -1054,14 +1054,16 @@ figcaption {
    SEARCH
    ============================================ */
 .search-container {
-  margin-top: 1rem;
+  margin-top: 1.5rem;
+  padding-top: 1rem;
+  border-top: 1px solid rgba(255,255,255,0.08);
 }
 
 .search-input {
   width: 100%;
-  padding: 0.5rem 0.7rem;
+  padding: 0.35rem 0.6rem;
   font-family: var(--font-body);
-  font-size: 0.9rem;
+  font-size: 0.82rem;
   background: rgba(255,255,255,0.08);
   border: 1px solid rgba(255,255,255,0.12);
   border-radius: 4px;
