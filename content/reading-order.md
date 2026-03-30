@@ -1,6 +1,6 @@
 ---
 title: "Reading Order"
-description: "Published scenes in chronological order, organized by chapter."
+description: "Published scenes in chronological order, organized by act and chapter."
 layout: "page"
 slug: "reading-order"
 menu:
@@ -10,11 +10,13 @@ menu:
       icon: "hash"
 ---
 
-Published scenes from **Chicago Chronicles** in chronological order. Current public material is from **Act II: Ashes and Blood**.
+Published scenes from **Chicago Chronicles** in chronological order.
 
 
 
-## Act II: Ashes and Blood
+## Act I: Forged in Steel
+
+*Gary, Indiana. 1990. Darius Cole (Ventrue 10th) and Sable Price (Toreador 9th) navigate the dying city's seven Kindred, one broken Prince, and the machine underneath it all.*
 
 ### Chapter 1 — Gary Sandbox
 
@@ -144,11 +146,19 @@ Published scenes from **Chicago Chronicles** in chronological order. Current pub
 |---|---|---|---|
 | 47 | [The Frequency](/posts/the-frequency/) | Sable | Dec 7, 1990, 4:25 PM |
 
-### Act II — Ashes to Ashes
+---
+
+## Act II: Ashes and Blood
+
+*Chicago, Illinois. 1991. The coterie arrives as Modius's emissaries. The Prince is missing. The machine is bigger than anything Gary prepared them for.*
+
+### Chapter 1 — Ashes to Ashes
 
 | # | Scene | PC | Date |
 |---|---|---|---|
 | 48 | [Welcome To Chicago](/posts/welcome-to-chicago/) | Darius + Sable | Jan 1, 1991, 4:28 PM |
+
+---
 
 ## Other Chronicles
 
