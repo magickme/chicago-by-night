@@ -3,7 +3,6 @@ title: "Random Tables"
 description: "Canonical oracle and encounter tables for Chicago Chronicles, generated from the live vault."
 layout: "page"
 slug: "random-tables"
-ShowToc: true
 menu:
   main:
     weight: 6
@@ -12,6 +11,8 @@ menu:
 ---
 
 *Chicago Chronicles random tables. Generated from the vault's current canonical sources, including live Mythic lists and story oracles from `session-state.md`.*
+
+
 
 ## Mythic and Tourniquet Core
 
@@ -258,29 +259,147 @@ Published adventure check: When a Fate Question or Random Event touches a PUBLIS
 
 ## Chicago / Gary Encounter Tables
 
-## Chicago by Night Encounter System (Adapted for Gary)
+# Ashes and Blood — Chicago Encounter System
 
-### How It Works
+> *"Gary was a cage. Chicago is an arena. Bigger cage, more animals,
+> better lighting. Same blood on the floor."*
+> — Darius Cole, internal
+
+**Sources:** Chicago by Night 1E (Chapter 5 Encounters), Ashes to Ashes,
+Blood Bond, Succubus Club, Mythic GME 2nd Edition (Picard),
+Tourniquet Revised (Parigo).
+
+**Usage:** Roll **2d10** and add for a **Theme** (2-20). Roll **d10** for a
+specific encounter. Each encounter has a **location type** in parentheses.
+Use the Chicago Location Map below to place the scene.
+
+**Scope:** Acts II and III of the campaign. The coterie has left Gary.
+Chicago is Lodin's machine, the Succubus Club is the social center,
+and two Methuselahs are playing chess with every Kindred on the board.
+
+---
+
+## How It Works
 
 Roll **2d10** and add the results for a **Theme** (2-20). Then roll **d10**
 for a specific encounter within that theme. Each encounter has a
-**location type** in parentheses — use the Gary Location Map below to
-translate Chicago locations to Gary equivalents.
+**location type** in parentheses — use the Chicago Location Map below to
+place the scene in a specific district.
 
-### Gary Location Map
+When an encounter says "Roll Characters List," roll d25 against the
+Chicago Characters List below. When it says "Roll Story Oracle," use
+Darius's Story Oracle from Ashes-and-Blood.md or session-state.md.
 
-| CbN Location | Gary Equivalent |
+**Tone shift from Gary:** Chicago is larger, faster, more layered. Gary
+had seven Kindred and twelve blocks that mattered. Chicago has dozens
+of Kindred, six Primogen, two Methuselahs, organized crime, federal
+surveillance, and the Sabbat probing the perimeter. The encounters
+reflect this density. More factions, more angles, more ways to be
+destroyed by someone you never saw coming.
+
+The dominant register is **decadence** — excess, corruption,
+sophistication covering rot. The Succubus Club is the symbolic center:
+a nightclub built on top of a Methuselah's tomb, where Blood Dolls
+offer their wrists voluntarily and the music never stops. Gary was
+industrial collapse. Chicago is imperial decline.
+
+---
+
+## Chicago Characters List (d25)
+
+| Slot | Character |
 |---|---|
-| **The Rack** (Succubus Club, The Cave) | The Torch, the Rack strip, any Gary nightlife |
-| **Elysium** (Opera House, Museums) | Modius's mansion, wherever he holds court |
-| **Papillion** (Red light district) | The Rack area (Gary's too dead for a real Papillion — fold into The Torch) |
-| **The Hive** (Downtown, offices, shops) | Downtown Gary, what's left of it — city hall, abandoned storefronts, projects |
-| **The Barrens** (Wasteland, stockyards, graveyards, docks) | The Wasteland, Telton Cemetery, the Docks, abandoned factories |
-| **Haven** | Darius's haven (wherever he's established it) |
-| **Anywhere** | Roll on Gary City Oracle (d10) |
-| **Downtown** | Downtown Gary or the Tollway corridor |
+| 1 | Lodin (Prince, Ventrue 7th) |
+| 2 | Lodin |
+| 3 | Ballard (Lieutenant, Ventrue 8th, 500 lbs) |
+| 4 | Ballard |
+| 5 | Critias (Brujah Primogen, Blood Bound to Menele) |
+| 6 | Tyler (Brujah Primogen, secret Sabbat deal) |
+| 7 | Annabelle Triabell (Toreador Primogen) |
+| 8 | Nicolai (Tremere Primogen) |
+| 9 | Kevin Jackson (Ventrue, Cabrini Green, Bloods) |
+| 10 | Capone (Ventrue 8th, organized crime) |
+| 11 | Chuc Luc (offscreen sire, Ventrue 9th) |
+| 12 | Chuc Luc |
+| 13 | Helena / "Portia" (Toreador Methuselah, 4th gen) |
+| 14 | Menele (Brujah Methuselah, torpored, 4th gen) |
+| 15 | Damien (Brujah 6th, apparent age 14) |
+| 16 | Gengis (Succubus Club bartender / enforcer) |
+| 17 | Sir Henry (ancient Toreador, Succubus Club regular) |
+| 18 | Khalid al-Rashid (Nosferatu, sewer network) |
+| 19 | Modius (offscreen, Gary Prince, Toreador 7th) |
+| 20 | Jefferson Foster (Sabbat Ventrue 9th, offscreen Act II) |
+| 21 | Belthazar (Ventrue elder, vendetta) |
+| 22 | FBI Agent Shepard |
+| 23 | Drummond (Ventrue, eccentric railroad baron) |
+| 24 | Sabbat scouts (Rigaud, Wade, embedded) |
+| 25 | Society of Leopold (Sayles, Tomba) |
 
-### Theme Table (2d10)
+**Weighting rationale:** Lodin and Ballard double-weighted as the
+Prince and his enforcer, the two figures most likely to intrude on
+any scene. Chuc Luc double-weighted as the offscreen sire whose
+pipeline operations drive Darius's arc. Helena and Menele split
+across separate slots because their interests diverge. The Sabbat
+and hunters occupy single slots — they're present but peripheral
+until Act III.
+
+---
+
+## Chicago Threads List
+
+| Slot | Thread |
+|---|---|
+| 1 | Ashes to Ashes: find the Prince |
+| 2 | Ashes to Ashes: find the Prince |
+| 3 | Chuc Luc's pipeline (Chicago expansion) |
+| 4 | Chuc Luc's pipeline (Chicago expansion) |
+| 5 | The cover story (Darius's true generation / sire) |
+| 6 | The Methuselah game (Helena vs. Menele) |
+| 7 | The Methuselah game (Helena vs. Menele) |
+| 8 | Blood Bond web (Lodin, Modius, Jefferson) |
+| 9 | Blood Bond web (Lodin, Modius, Jefferson) |
+| 10 | Sabbat infiltration (Rigaud, Wade, scouts) |
+| 11 | Ballard's coup (undermining the Primogen) |
+| 12 | The Succubus Club (social nexus, Helena's vault) |
+| 13 | Annabelle's Party (Ballard vs. Toreador Primogen) |
+| 14 | Player of Pawns (Critias's chess game) |
+| 15 | Paper Chase (Nicolai's Tremere test) |
+| 16 | The hunter network (Shepard, Society of Leopold) |
+| 17 | Sharon Payne's vendetta (Sable's thread) |
+| 18 | Kevin Jackson's territory war |
+| 19 | The Anarch Brewery (North Side) |
+| 20 | Protect the Masquerade |
+| 21 | Gary aftermath (Modius's rage, unfinished business) |
+| 22 | Blood Bond (Act III main quest, LATENT until April) |
+| 23 | Fundamental Differences (LATENT, Succubus Club) |
+| 24 | Death's Sweet Sting (LATENT, Succubus Club) |
+| 25 | Grand Elusion (LATENT, Succubus Club) |
+
+**Thread notes:** Act II threads (slots 1-21) are active from January
+1992. Act III threads (slots 22-25) activate in April 1992 when the
+Sabbat announce themselves. Ashes to Ashes double-weighted because
+the kidnapped Prince dominates the first week. The Methuselah game
+double-weighted because Helena and Menele touch everything. Chuc
+Luc's pipeline double-weighted as Darius's operational spine.
+
+---
+
+## Chicago Location Map
+
+| CbN Location | Chicago Equivalent |
+|---|---|
+| **The Rack** | Rush Street clubs, The Succubus Club, The Cave, bar scene |
+| **Elysium** | Art Institute, Opera House, Museum of Science and Industry |
+| **Papillion** | Red light district, Rush Street lower end, Division Street |
+| **The Hive** | The Loop, Michigan Avenue, corporate towers, Sears Tower |
+| **The Barrens** | Cabrini Green, South Side, industrial districts, Stockyards |
+| **Haven** | Coterie's current haven |
+| **Anywhere** | Roll Chicago City Oracle |
+| **Downtown** | The Loop, State Street, financial district |
+
+---
+
+## Theme Table (2d10)
 
 | 2d10 | Theme | Tone |
 |---|---|---|
@@ -304,255 +423,492 @@ translate Chicago locations to Gary equivalents.
 | 19 | **Vengeance** | Payback, grudges, old debts called in |
 | 20 | **Weirdness** | The bizarre, the unexplained, Malkavian territory |
 
-### Encounter Tables (d10 per theme)
+---
 
-Use these as prompts. Adapt freely to Gary. "The characters" = Darius.
+## Encounter Tables (d10 per theme)
+
+Use these as prompts. "The characters" = the coterie. Adapt freely.
 
 #### THE BEAST
 
 | d10 | Encounter | Location |
 |---|---|---|
-| 1-2 | **Out of Touch.** While hunting, Darius encounters a terrified runaway child. Frenzy roll. Her blood is potent but she's being pursued by her captors. | Barrens / Hive |
-| 3-4 | **Monster.** Darius catches his own reflection mid-feed and doesn't recognize the thing staring back. Humanity check moment. | Anywhere |
-| 5-6 | **Your Money or Your Life.** A drugged-out teenager with a knife demands money, then attacks. If Darius drinks the blood: it's loaded with PCP/crack. Immediate Frenzy roll. Hallucinations for the rest of the night, double Willpower cost to resist. | The Rack |
-| 7-8 | **Ties.** A mortal event draws a crowd. Rumors say Kindred will be there. Opportunity — or a Frenzy-inducing crush of warm bodies. | The Hive |
-| 9 | **Colors.** Two mortal gangs are fighting. Blood everywhere. The smell is overwhelming. Frenzy roll or walk away. | The Rack |
-| 10 | **A Private Struggle.** Alone in his haven, Darius wrestles with the Beast. No external threat — just the hunger and the silence. | Haven |
+| 1-2 | **Rush Hour Bloodbath.** A packed Red Line car at midnight. Standing room only, bodies pressed together, arterial heat in the recycled air. The scent of an open wound somewhere in the crowd triggers a Frenzy roll. If the coterie loses control underground, a dozen witnesses have nowhere to run. | The Rack |
+| 3-4 | **Succubus Tasting Room.** In the Succubus Club's lower levels, a Blood Doll offers a wrist laced with methamphetamine. One taste and the world turns chemical and bright. Frenzy roll at +2 difficulty. The hallucination period lasts until dawn, and whoever's watching from the balcony above sees everything. | The Rack |
+| 5-6 | **The Stockyards at 3 AM.** The old Union Stockyards south of Bridgeport still smell like the killing floor, seventy years later. Animal blood seeps from a rendering plant's drainage pipe. A dozen rats are fighting over the runoff. The Beast responds to the stink of industrial slaughter with something close to nostalgia. Frenzy roll. A Gangrel is already feeding here, and she doesn't share. | Barrens |
+| 7-8 | **Soldier Field Aftermath.** A Bears game lets out. Forty thousand drunk humans flood the parking lots in a wash of body heat and spilled beer. The sheer density of prey is staggering. Frenzy roll. Lodin's Sheriff has people watching for exactly this kind of mistake. | The Hive |
+| 9 | **The Ghoul Who Bit Back.** A feeding gone wrong in a Gold Coast apartment. The target fought harder than expected, clawing at the coterie member's face, screaming into the pillow. She's someone's wife. The husband is downstairs. There's blood on the Berber carpet and the answering machine light is blinking. | Haven |
+| 10 | **Lake Effect.** Walking the lakefront path south of Navy Pier, alone. No mortals, no witnesses. Lake Michigan lies flat and black under a winter sky. The Beast is quiet for once. Then a jogger rounds the bend, headphones in, alone, oblivious. The silence afterward is the worst part. | Anywhere |
 
 #### CONSPIRACY
 
 | d10 | Encounter | Location |
 |---|---|---|
-| 1-2 | **Wet Conspiracy.** Darius overhears a conversation he shouldn't have — two Kindred discussing something that implicates a powerful NPC. Roll Characters List for who's involved. | Downtown |
-| 3-4 | **Hell Comes to Your House.** Someone has been in Darius's haven while he slept. Nothing taken, but something left: a message, a warning, or an object that shouldn't be there. | Haven |
-| 5-6 | **Begging Ghouls.** A desperate ghoul approaches Darius, offering information in exchange for Vitae. Their master doesn't know they're here. Roll Characters List for the master. | Downtown |
-| 7 | **Just a Trim.** Someone is spying on Darius's haven. Mortal? Kindred? Hunter? | Haven |
-| 8 | **Keep This Under Your Hat.** An NPC confides a dangerous secret to Darius — and now he can't unknow it. Roll Characters List. | Downtown |
-| 9 | **The Burning Haven.** Someone torches a Kindred's haven. Whose? Roll Characters List. Was it Dane? Arson? A message from Chicago? | Haven |
-| 10 | **Secret Brood.** Darius discovers an unknown Kindred hiding in the Wasteland — someone not on anyone's list. A Nosferatu? An anarch? A spy? | Barrens |
+| 1-2 | **Ballard's Invitation.** Lawrence Ballard, Lodin's 500-pound lieutenant, summons a coterie member to dinner at Daley's Restaurant. He orders for both of them. He talks about loyalty. He never quite asks a question, but by dessert it's clear he wants the coterie spying on the Primogen. Refusing isn't presented as an option. | The Hive |
+| 3-4 | **The Dead Drop.** A sealed envelope appears in the coterie's haven. Inside: a photograph of Chuc Luc's restaurant in New Chinatown, taken from across the street. No note. No sender. Someone knows Darius's connection. | Haven |
+| 5-6 | **Capone's Errand Boy.** A Vietnamese man in an expensive suit approaches Darius at a Rush Street bar. He speaks English with a flat Chicago accent. He says Capone wants to discuss the Gary pipeline. He doesn't say how Capone found out. The meeting is tonight, at a meatpacking warehouse in the Back of the Yards. | The Rack |
+| 7 | **Critias at the Art Institute.** The Brujah Primogen lingers in front of a Roman bust, comparing it unfavorably to someone he knew in Athens. He seems to be speaking to no one. When the coterie passes, he mentions a name connected to one of their threads. He doesn't look at them when he says it. | Elysium |
+| 8 | **The Primogen's Closed Session.** Word reaches the coterie that the six Primogen met without Lodin present. An unprecedented breach of protocol. Nicolai's ghoul whispers that the subject was the coterie specifically. No one will confirm what was decided. | Elysium |
+| 9 | **Kevin Jackson's Proposal.** Jackson controls the Cabrini Green projects through the Bloods. He arrives at the coterie's haven uninvited, flanked by two ghouls carrying Uzis under their coats. He offers territory on the South Side. The cost: a favor, unnamed, to be called in later. He smiles like a man who already owns you. | Haven |
+| 10 | **The Wiretap.** A sweep of the coterie's haven turns up a listening device. Professional installation, possibly police, possibly Kindred. Tracing the signal leads to a relay in the Loop, rented under a name that traces to the Arcanum. | Haven |
 
 #### DESIRE
 
 | d10 | Encounter | Location |
 |---|---|---|
-| 1-3 | **Hold Me.** A mortal from Darius's past life turns up in Gary. Someone he cared about. They don't know what he's become. | Domain |
-| 4-5 | **Days of Your Life.** After a stressful scene, Darius is struck by a memory of his mortal life — something beautiful he can never have again. | After stress |
-| 6-7 | **"Don't I Know You?"** At Elysium or a gathering, an NPC claims to have met Darius before — but he doesn't remember them. They seem to know too much. | Elysium |
-| 8-9 | **For the Love of Money.** An opportunity to make serious money — but it requires crossing a line (a dangerous deal, a betrayal, an alliance with the wrong faction). | Anywhere |
-| 10 | **Hey Honey.** A mortal at The Torch is dangerously attractive. The Ventrue feeding restriction makes this either perfect or impossible. | The Rack |
+| 1-3 | **The Blood Doll's Plea.** In the Succubus Club's Labyrinth, a mortal recognizes Darius from Gary. She followed a Kindred here two months ago and hasn't left. Track marks on both wrists. She's strung out on Vitae and begging for more, or for someone to take her home. She used to work the pawnshop circuit in Gary. She owes debts she can't pay. | The Rack |
+| 4-5 | **Magnificent Mile Window.** Passing the shops on Michigan Avenue, the coterie sees a life they can't return to. A couple laughing in a restaurant window. A child asleep in a stroller. The Ventrue feeding restriction means Darius can only consume people in crisis. These happy mortals are poison to him. The wanting is physical. | The Hive |
+| 6-7 | **The Offer from Annabelle.** Annabelle Triabell, Toreador Primogen, invites Sable to a private gathering at her Wicker Park salon. The room smells of oil paint and old money. Annabelle offers mentorship, introduction to Toreador society, a patron's shield. The price is aesthetic loyalty, which means cutting ties with anyone Annabelle deems inelegant. | Elysium |
+| 8-9 | **Sears Tower at Midnight.** An invitation to the 107th floor. Lodin's old haven, now sealed but accessible through a service elevator. The view of Chicago at night is a kingdom spread below. Whoever arranged this meeting is offering a glimpse of what it feels like to own a city. Roll Characters List for who's waiting. | The Hive |
+| 10 | **Emily Carter.** A woman at the Succubus Club bar orders bourbon and looks at Darius like she's already decided something. She's beautiful, reckless, and carrying Jefferson Foster's blood in her veins. Three drinks, and she'll try to share. | The Rack |
 
 #### DIABLERIE
 
 | d10 | Encounter | Location |
 |---|---|---|
-| 1-2 | **A Good Read.** Darius encounters a book, letter, or document describing Diablerie in disturbing detail. Who left it, and why? | Elysium |
-| 3-4 | **Stench.** Darius detects the telltale signs of Diablerie on another Kindred — dark streaks in the aura. Roll Characters List. Who did it? Who did they consume? | Anywhere |
-| 5-6 | **Taste the Pain.** A weakened, staked Kindred is found in the Barrens. Someone left them as bait — or as an offering. The temptation is obvious. | Barrens |
-| 7-8 | **A Feast Unknown.** Rumors spread that someone in Gary has committed Diablerie. Modius is furious. Suspicion falls on everyone. | Barrens |
-| 9-10 | **Burning Passion.** An NPC tries to convince Darius that Diablerie is justified — even necessary — under the right circumstances. Roll Characters List. | The Rack |
+| 1-2 | **The Alley Behind the Cave.** Horace's Malkavian bar. In the service alley, a Kindred is pinned against the dumpster by two others. One is feeding from the throat. The other is feeding from the wrist. The victim's aura is being consumed in real time. The attackers see the coterie. They don't stop. | The Rack |
+| 3-4 | **Nicolai's Warning.** The Tremere Primogen summons the coterie to a meeting at the Chantry. On his desk: an aura photograph of a Chicago Kindred whose soul-threads are corrupted with black veins. Nicolai identifies them by name. He wants the coterie to confirm it and report. He doesn't say what the Tremere will do after. | Downtown |
+| 5-6 | **The Torpored Elder.** Beneath an abandoned factory on the West Side, behind a false wall, a coffin. Inside: a staked Kindred of unknown clan and age. The blood smells ancient. Someone went to great effort to hide this body, and someone else left a trail of breadcrumbs for the coterie to find it. The temptation is a test. Whose test? | Barrens |
+| 7-8 | **The Confession.** At Elysium, an ancilla pulls the coterie aside. Shaking hands, dilated pupils. She committed Diablerie three nights ago and can feel the soul of her victim pressing against the inside of her skull. She needs help hiding the evidence before anyone reads her aura. She offers anything. | Elysium |
+| 9-10 | **Jefferson's Sermon.** Through Emily Carter or a Sabbat contact, the coterie receives a recorded message from Jefferson Foster. He speaks calmly about the Amaranth as liberation rather than murder. He calls the Camarilla's prohibition cowardice. The recording ends with coordinates to a location outside Chicago. Something is buried there. | Anywhere |
 
 #### FOOLS
 
 | d10 | Encounter | Location |
 |---|---|---|
-| 1-2 | **A Rose by Any Other Name.** A Kindred is trying to pass themselves off as a member of a different clan. The disguise is bad. Darius spots it immediately. | The Rack |
-| 3-4 | **Shout!** A drunk neonate is making a scene — drawing mortal attention, breaking the Masquerade, and daring anyone to stop them. | The Rack |
-| 5-6 | **The Jilted Groom.** A ghoul's domitor has abandoned them. The ghoul is unraveling publicly, alternating between begging for Vitae and threatening to expose everyone. | Downtown |
-| 7-8 | **Asking for Trouble.** Someone has wandered into the Wasteland — a mortal thrill-seeker, a journalist, or a college kid doing "urban exploration." They're about to find more than rust. | Wasteland |
-| 9-10 | **The Railroad Eccentric.** A strange old Kindred shows up at The Torch with bizarre stories and an even more bizarre request. Harmless? Or dangerously connected? | The Rack |
+| 1-2 | **The Poseur Prince.** A neonate at the Succubus Club is telling anyone who'll listen that he's Lodin's secret childe. He has the Ventrue bearing, the expensive suit, and nothing behind the eyes. Gengis is watching from behind the bar, deciding whether to let this play out or shut it down. The real danger: Ballard is also watching. | The Rack |
+| 3-4 | **Houdini's Last Trick.** Ehrich Weiss, the renegade Tremere formerly known as Houdini, is performing escape acts at The Cave. Chained, staked, locked in a trunk, dumped in Lake Michigan. He keeps escaping. The mortals think it's theater. Nicolai has sent two Gargoyles to retrieve him. The situation is about thirty seconds from catastrophe. | The Rack |
+| 5-6 | **L Train Diplomat.** Two Brujah are having a Kindred political argument on a crowded Blue Line car at 1 AM. One of them is shouting about Lodin's Blood Hunt policies. A transit cop is walking through the next car. The mortals are filming on camcorders. Someone has to shut this down before the six o'clock news. | Anywhere |
+| 7-8 | **The Ghoul Wedding.** A ghoul is throwing a lavish wedding reception at the Palmer House, funded entirely by stolen Vitae profits. Three Kindred are in attendance pretending to eat. The bride's mortal family keeps asking why the groom's friends are so cold and pale. The champagne toast is imminent and glass-clinking will get awkward fast. | The Hive |
+| 9-10 | **Drummond's Party.** Drummond, the eccentric railroad Ventrue, has rented the entire Field Museum for a private soiree. He's dressed a dozen mannequins as guests and is introducing them by name. The hired jazz band is deeply uncomfortable. Real Kindred are arriving and can't tell which figures in the dim exhibit halls are dummies, ghouls, or predators. | Elysium |
 
 #### HEROIC
 
 | d10 | Encounter | Location |
 |---|---|---|
-| 1-2 | **Fire.** A building fire in the projects. Mortals trapped. The fire itself is dangerous to Kindred. Does Darius risk Rötschreck to save someone? | Barrens |
-| 3-4 | **Darkness Remembered.** Darius finds evidence of a terrible crime committed by a Kindred against mortals. He can expose it — but doing so threatens the Masquerade. | Barrens |
-| 5-6 | **Look, No Hands!** A mortal is being attacked by a Kindred in the Rack. Darius can intervene — but why would a vampire save a human from another vampire? | The Rack |
-| 7-8 | **Tattle Tale.** An NPC has information that could save lives but won't share it without something in return. Roll Characters List. | Elysium |
-| 9-10 | **Vital.** A Kindred is torpored or staked in the Barrens. Leaving them means Final Death when the sun rises. Rescuing them means owing someone — or being owed. | Barrens |
+| 1-2 | **Cabrini Green Fire.** A high-rise in the projects catches fire on the ninth floor. Families trapped above. Fire department is twenty minutes out. Kevin Jackson's ghouls are evacuating gang members and leaving everyone else. Two children are screaming from a window. Rotschreck check to enter, Humanity check to walk away. | Barrens |
+| 3-4 | **The Runaway Fledgling.** A week-old Kindred, Embraced without permission by a Malkavian who vanished, is hiding in a Dumpster behind a Magnificent Mile restaurant. She doesn't know what she is. She fed on her roommate last night and thinks she killed her. She's a Masquerade breach on legs, and if the Sheriff finds her first, she's ash. | The Hive |
+| 5-6 | **Neon's Hunger.** Neon, the seven-year-old Caitiff, hasn't fed in four nights. Damien left her in a safe house and hasn't returned. She's tiny and shaking and her eyes have gone solid black. She needs blood. She'll take it from anyone. The moral calculus of feeding a child vampire is not something the Traditions cover. | Barrens |
+| 7-8 | **The Mortal Witness.** A homeless man sheltering under the Michigan Avenue bridge saw a Kindred kill someone last night. He told a cop, who didn't believe him. He told a reporter, who is starting to. The man isn't crazy. He's specific. He can describe the killer's face. If the coterie silences him, they protect the Masquerade. If they don't, the killer walks and the Masquerade cracks. | Anywhere |
+| 9-10 | **Damien's Stand.** Damien, the 6th-generation Brujah in a fourteen-year-old body, has cornered a pack of three Sabbat scouts in a Lincoln Park alley. He can take them. But one of them is holding a mortal hostage, a teenage girl. Damien won't risk her. He sends word to the coterie: come now, bring muscle, and nobody innocent dies. | Barrens |
 
 #### HORROR
 
 | d10 | Encounter | Location |
 |---|---|---|
-| 1-2 | **Nothing Ventured.** Darius wakes in his haven with the certainty that someone was standing over him while he slept. No evidence. No marks. Just the knowledge. | Haven |
-| 3-4 | **As Above, So Below.** Deep in the Wasteland or sewers, Darius finds something that shouldn't exist — a ritual circle, a wall covered in writing, a room full of drained bodies arranged in a pattern. | Barrens |
-| 5-6 | **Look Out Behind You.** While hunting or socializing, Darius realizes he's being followed. By something he can't see. Auspex reveals nothing. | The Rack |
-| 7 | **Surprise.** An attack from an unexpected direction. Not hunters, not Kindred — something else entirely. Roll Threat Oracle. | The Rack |
-| 8 | **Cast the First Stone.** A mob of mortals has cornered a Kindred. They don't know what it is, but they know it's wrong. The Kindred is losing. | Barrens |
-| 9 | **Assassination.** Someone tries to kill an NPC in Darius's presence. Roll Characters List for the target. | Anywhere |
-| 10 | **Victim of the Victim.** A mortal who was fed upon by a Kindred has been changed — not ghouled, not Embraced, but something is wrong with them. They're drawn to Darius. | Anywhere |
+| 1-2 | **The Sound Beneath the Succubus Club.** In the Labyrinth, the lowest level of the Succubus Club, the walls vibrate with a subsonic pulse. Blood Dolls complain of nausea. Gengis says it's been happening for weeks. The pulse keeps time with a heartbeat, but there's nothing alive down there. Or there shouldn't be. Helena's vault is somewhere below. | The Rack |
+| 3-4 | **The L Train at 4 AM.** The coterie boards the Red Line and realizes every passenger in the car is dead. Throats opened, blood pooled on the floor, bodies propped upright in their seats. The train keeps moving. The next station is two minutes away. The conductor's booth is locked and something inside it is still broadcasting the automated stop announcements. | Anywhere |
+| 5-6 | **The Meatpacking District.** Following a lead to the old Stockyards, the coterie discovers a cold-storage room containing forty-three body bags hung from ceiling hooks. Each bag holds a drained corpse. The bodies are arranged by blood type, labeled with handwritten tags. Someone has been building a supply chain. The padlock on the door is new. | Barrens |
+| 7 | **Michael's Warning.** Michael, the Malkavian child from Gary, appears on a Chicago street corner at 2 AM. He shouldn't be here. He says one sentence, something that makes no sense now but will make terrible sense in three sessions. Then he walks into traffic and vanishes. He was never physically present. | Anywhere |
+| 8 | **The Painting.** At Annabelle's Wicker Park salon, a new painting on the wall depicts a scene that hasn't happened yet: the coterie, in a location they recognize, surrounded by fire. The artist is unknown. Annabelle claims it was delivered anonymously. She doesn't seem alarmed. She seems fascinated. | Elysium |
+| 9 | **The Nosferatu Tunnels.** Khalid al-Rashid controls the sewer network. The coterie needs passage and pays the toll. Halfway through the tunnel, the guide stops. Ahead, scratched into the concrete walls for a hundred feet, the same word repeated in a language none of them speak. The guide refuses to translate. He says it's a name. He turns around. | Barrens |
+| 10 | **The Mirror.** In the coterie's haven, a mirror that used to show nothing now shows something. Not a reflection. A room that doesn't exist in the building, furnished in a style a century out of date. A figure in the room is sitting with its back to the glass. It hasn't moved. It might not be alive. But it wasn't there yesterday. | Haven |
 
 #### INTRIGUE
 
 | d10 | Encounter | Location |
 |---|---|---|
-| 1-2 | **An Offer You Can't Refuse.** A powerful NPC makes Darius a proposition — alliance, favor, information — but the price is steep. Roll Characters List. | Elysium |
-| 3 | **Yo, Homey.** An anarch approaches Darius with an offer to work together against the establishment. Juggler's people? Or a test? | The Rack |
-| 4 | **Money for Nothing.** Someone offers Darius resources, blood, or territory with no apparent strings attached. What's the catch? | Anywhere |
-| 5 | **Paranoia.** Darius receives credible intelligence that someone is investigating him specifically. Who? Why? Roll Characters List. | Anywhere |
-| 6 | **Touche.** An NPC outmaneuvers Darius politically — a deal falls apart, an ally switches sides, information he relied on turns out to be wrong. | Anywhere |
-| 7 | **Spies Like Us.** Darius discovers that two NPCs he thought were rivals are actually working together in secret. Roll Characters List twice. | Anywhere |
-| 8 | **We Don't Need No Education.** A young Kindred who knows nothing about the rules approaches Darius for mentorship. Helping them is risky but builds loyalty. | The Rack |
-| 9 | **Sign on the Dotted Line.** Modius or another elder requests a formal oath, boon, or agreement from Darius. The terms are specific and binding. | Elysium |
-| 10 | **Desperately Seeking.** An NPC asks Darius to find someone who's gone missing. Roll Characters List. | Barrens |
+| 1-2 | **Lodin's Chessboard.** The Prince summons the coterie to the Prudential Building. The office is all glass and steel, the city spread below like a circuit board. Lodin speaks about Gary, about Modius, about the docks. He knows more than he should. He offers patronage in exchange for complete transparency about the coterie's Gary operations. Complete. | The Hive |
+| 3 | **The Anarch Brewery.** The Brujah anarchs operate from an abandoned brewery on the North Side. Damien vouches for the coterie. The anarchs want information on Lodin's security, specifically the police department's nightshift deployment. In exchange: safe passage through the North Side, no questions asked. | Barrens |
+| 4 | **Tyler's Game.** Tyler, the Brujah Primogen, approaches Sable at the Art Institute. She's charming, measured, ancient. She asks about the coterie's time in Gary. She mentions Juggler fondly. She never quite says what she wants, but by the end of the conversation, she's planted three ideas that all benefit the Brujah and none benefit Lodin. | Elysium |
+| 5 | **The Tremere Test.** Nicolai sends the coterie to retrieve a book from a rare-books dealer in Hyde Park. The book is real but the dealer is a Society of Leopold plant. Nicolai knows this. He wants to see how the coterie handles the trap. Passing means Tremere support. Failing means Nicolai writes them off. | The Hive |
+| 6 | **Sir Henry's Grovel.** Sir Henry, the ancient Toreador who haunts the Succubus Club like a powdered ghost, corners the coterie. He claims to have information about the Methuselahs. He wants protection from Ballard, who has threatened to expose his feeding habits. The information might be real. Sir Henry has been in Chicago longer than almost anyone. | The Rack |
+| 7 | **The Boon Market.** At Elysium, the coterie witnesses a formal prestation exchange between two elders. One boon is owed for a service rendered during the 1968 riots. The currency of favors becomes suddenly concrete. An intermediary approaches: someone wants to buy a boon the coterie doesn't know they're owed. | Elysium |
+| 8 | **Portia's Interest.** The woman the Succubus Club knows as "Portia" watches the coterie from her usual balcony seat. She summons one of them with a nod. Her voice is older than the building. She asks a question about Gary that no one in Chicago should know to ask. She is Helena. She is 2,000 years old. She is interested. This is worse than being ignored. | The Rack |
+| 9 | **The Ventrue Board Meeting.** Capone's Ventrue hold an informal directorate in a private room at the Metropolitan Club. Darius is invited as a courtesy to his generation. The agenda: redistribution of feeding rights on the North Side. The real agenda: determining which neonates are assets and which are liabilities. Darius is being assessed. | The Hive |
+| 10 | **Gengis's Whisper.** The Succubus Club's bartender, scarred and ancient, slides a folded napkin across the bar. An address. A time. No name. Gengis has survived centuries by knowing everything and saying almost nothing. Whatever is at that address matters, or he wouldn't have written it down. | The Rack |
 
 #### INTRODUCTIONS
 
 | d10 | Encounter | Location |
 |---|---|---|
-| 1-2 | **The Message.** A message is delivered to Darius from an unknown source — cryptic, threatening, or enticing. | The Rack |
-| 3-4 | **Lounge-Chair Philosopher.** An elder NPC engages Darius in conversation and reveals an unexpectedly nuanced worldview. A potential mentor — or manipulator. | Elysium |
-| 5-6 | **Angels in the Night.** Darius encounters a Kindred he's never seen before — beautiful, powerful, and completely unaffiliated with any faction in Gary. Who are they? | Barrens |
-| 7-8 | **Old Newcomer.** A Kindred arrives in Gary claiming to have been here decades ago. They know things about the city that don't match the current power structure. | Wasteland |
-| 9-10 | **An Unexpected Meeting.** While conducting mundane business, Darius runs into someone who changes his understanding of the situation. Generate new NPC. | Downtown |
+| 1-2 | **The Assamite.** A stranger at Elysium. Dark-skinned, silent, drinking nothing. No one claims him. No one introduces him. When asked his clan, he changes the subject. He's interested in the coterie's reputation. He asks precise questions about Gary's power structure. He smells like old iron. He leaves before dawn and no one remembers exactly when. | Elysium |
+| 3-4 | **Inyanga's Summons.** Inyanga, the Toreador elder who watches Chicago for Menele, sends an invitation to her South Side salon. She wants to discuss art, philosophy, the nature of immortality. She's been alive since before the Zulu kingdom. Her real interest is evaluating whether the coterie serves Helena or Menele. They may not know the difference yet. | The Hive |
+| 5-6 | **The Giovanni Doctor.** Dr. Genet, Giovanni clan, has recently established a practice in Chicago specializing in "hospice care." She meets the coterie at a fundraising gala. She's warm, professional, and her handshake is cold enough to hurt. She wants allies outside the traditional power blocs. The Giovanni are playing their own game in Chicago, and she needs locals who owe no one. | Elysium |
+| 7-8 | **Damien and Neon.** In a parking garage off Rush Street, the coterie encounters Damien carrying Neon on his back. The fourteen-year-old 6th-generation Brujah and the seven-year-old Caitiff are moving safe houses again. Damien sizes up the coterie with the look of someone who has killed ancillae older than their entire lineage. He decides they're useful. He tells them where Belthazar sleeps. | Barrens |
+| 9-10 | **The Inconnu Observer.** A woman in a museum gallery, sketching a Caravaggio reproduction. She's been in the same chair for three nights. No one notices her except the coterie. When approached, she identifies herself only as a student of history. She knows every Kindred in Chicago by name and watches the Jyhad the way a naturalist watches an ecosystem. She may be Rebekah of the Inconnu. She may be someone worse. | Elysium |
 
 #### MASQUERADE
 
 | d10 | Encounter | Location |
 |---|---|---|
-| 1-2 | **"Hey Mommy, Look!"** A child sees Darius do something inhuman. The mother is right there. | Anywhere |
-| 3-4 | **Inquiring Minds.** A journalist or blogger is investigating "strange occurrences" in Gary. They're getting close to the truth. | Elysium |
-| 5-6 | **Discovered.** Someone has found Darius's haven — a mortal, a city inspector, a squatter. | Haven |
-| 7 | **The Dancers.** A mortal at The Torch notices something wrong with one of the Kindred patrons — no reflection, no breathing, cold skin. | The Rack |
-| 8 | **The Weeping.** A Kindred loses control in public — tears of blood, visible fangs, feeding in the open. Darius must contain the situation. | The Rack |
-| 9 | **The Panic.** A mortal crowd in the Rack witnesses something supernatural. Stampede. Someone is going to die. The Masquerade is seconds from shattering. | The Rack |
-| 10 | **The Skewered Feline.** Someone leaves a dead animal at Darius's haven with a stake through it. A warning — but from whom? Mortal hunters? Kindred rivals? | Haven |
+| 1-2 | **The Tribune Reporter.** Joseph Peterson, Ventrue media magnate, controls the Tribune. But a junior reporter has gone rogue, investigating a pattern of exsanguinated bodies found in the Chicago River over six months. The reporter has photographs, autopsy reports, and a theory about a cult. Peterson wants it killed. The reporter's editor is not on the payroll. | The Hive |
+| 3-4 | **Rush Street Feeding Gone Public.** A neonate is feeding in a club bathroom on Rush Street. The door wasn't locked. A bouncer walked in with a flashlight. The bouncer is on the floor, unconscious, and two club patrons saw the neonate bolt with blood on her chin. Cell phones don't exist yet, but Polaroid cameras do. | The Rack |
+| 5-6 | **The Succubus Club Inspection.** A city health inspector has arrived at the Succubus Club's front door at 11 PM. He has a warrant. Gengis is stalling. The Labyrinth is full of Blood Dolls, and the subbasement contains things no mortal should see. Someone has to make this man leave, forget, or disappear, and each option has a different price. | The Rack |
+| 7 | **Campus Witness.** A University of Chicago grad student is writing a thesis on "nocturnal subcultures" and has been hanging around the Rack with a tape recorder. Her field notes contain physical descriptions of six Kindred, accurate enough for identification. She thinks they're a goth community. She's half right. | The Rack |
+| 8 | **The Church Vigil.** A Catholic parish on the Near West Side has organized a nighttime vigil against "satanic activity" in the neighborhood. Fifty parishioners with candles, a priest with a bullhorn. The coterie's haven is two blocks away. The priest doesn't have True Faith, but he has a TV crew from WGN. | Haven |
+| 9 | **The Coroner's Question.** A Cook County coroner has noticed that bodies drained of blood keep arriving from the same four neighborhoods. She's filed a report with the CPD. Lodin's police contacts should have intercepted it, but someone in the department passed it to the FBI instead. Shepard's name is on the routing. | Anywhere |
+| 10 | **Blood in the Snow.** A blizzard blankets Chicago. The coterie feeds and leaves a trail of blood drops in the fresh snow leading directly to their haven. A morning jogger will find it in six hours. The city is still and white and everything is visible. | Haven |
 
 #### NOSTALGIA
 
 | d10 | Encounter | Location |
 |---|---|---|
-| 1-2 | **A Familiar Odor.** A smell — food, perfume, motor oil — triggers a powerful memory of Darius's mortal life. For a moment, the Beast is silent. | Downtown |
-| 3-4 | **Stop Me If You've Heard This One.** An NPC tells a story that Darius recognizes — because he was there, or because his sire told him. | The Rack |
-| 5-6 | **Ancient Battles.** An elder reminisces about a conflict from centuries ago that has direct parallels to what's happening in Gary now. | Elysium |
-| 7 | **Memories of Mother.** Something — a woman's face, a song, a street corner — reminds Darius of someone from his mortal life. Do they still live? | The Rack |
-| 8 | **Nightmare of Blood.** Darius dreams during daysleep. The dream is vivid, disturbing, and may be prophetic. | Haven |
-| 9 | **Childhood Remembered.** Darius passes through a neighborhood from his mortal youth. Everything has changed — or nothing has, and that's worse. | Downtown |
-| 10 | **The Memory Auction.** An odd curio shop in downtown Gary sells something that belonged to someone Darius knew. How did it get here? | Downtown |
+| 1-2 | **Maxwell Street Market.** The Sunday morning flea market where Darius used to buy secondhand suits before the Embrace. The blues musicians are still there, playing Elmore James licks on plywood stages. A vendor is selling something that belonged to someone Darius knew. The sun will rise in four hours and this is the closest he's felt to human since Gary. | Downtown |
+| 3-4 | **The Old Neighborhood.** Sable passes through the Robert Taylor Homes, the South Side projects where she grew up. The hallways smell the same. A woman on the seventh floor looks like her mother. The elevator is still broken. Nothing has changed except that Sable feeds on the desperate now instead of living among them. | Barrens |
+| 5-6 | **Critias Remembers.** At Elysium, Critias is in a rare mood. He talks about Athens, about the agora, about a philosopher he loved who drank hemlock on principle. The parallel to Chicago's political suicides is not subtle. He's speaking to the room but looking at the coterie. He's been alive 2,400 years and the same patterns still bore him. | Elysium |
+| 7 | **The Jazz Club.** A basement bar on the South Side, playing the kind of jazz that doesn't exist above 47th Street. The band is all mortals, all old, and the trumpet player hasn't missed a beat since 1962. The music does something to the Beast, quiets it in a way that feeding doesn't. One of the musicians has a heart condition. His blood pressure is visible in his temples. | Anywhere |
+| 8 | **Garfield Park Conservatory.** The greenhouse is open late for a charity event. Tropical heat, living green, the smell of soil and growing things. For five minutes the coterie can pretend the world isn't made of concrete and blood. Then a mortal cuts herself on a rosebush thorn, and the evening changes. | Anywhere |
+| 9 | **Chuc Luc's Restaurant.** Darius sits alone in the back of the Vietnamese restaurant in New Chinatown. His sire isn't there. The waitress brings pho that Darius can't eat. The cellar door is locked. The restaurant smells like lemongrass and fish sauce and the life he had before the Embrace, when debts were measured in dollars instead of blood. | Downtown |
+| 10 | **The Photograph.** At a thrift store in Pilsen, the coterie finds a framed photograph dated 1943. It shows a group of steelworkers outside U.S. Steel's South Works. In the back row, partially obscured, a face that might be Lodin. The photograph is $3.00. The implications are not. | Downtown |
 
 #### PARANOIA
 
 | d10 | Encounter | Location |
 |---|---|---|
-| 1-2 | **Death Smell.** The scent of old blood and ash near a location Darius frequents. Someone died here recently. Or is it a warning? | The Rack |
-| 3-4 | **Cats.** A large number of cats have gathered near Darius's haven. Gangrel? Coincidence? Surveillance? | Barrens |
-| 5-6 | **Light Switch.** Darius arrives somewhere and the lights are off when they should be on — or on when they should be off. | Anywhere |
-| 7-8 | **Being Watched.** The absolute certainty of being observed. No evidence. Perception + Alertness reveals nothing. But the feeling doesn't go away. | Anywhere |
-| 9-10 | **Mysterious Assassination.** A Kindred or mortal connected to the story is found destroyed. No witnesses. No motive. Roll Characters List for the victim. | Anywhere |
+| 1-2 | **The Second Shadow.** Walking Michigan Avenue at 2 AM, one of the coterie notices a second shadow where there should only be one. It keeps pace. It turns when they turn. Auspex reveals nothing. The shadow disappears at a crosswalk and doesn't return. It was there. | The Hive |
+| 3-4 | **The Familiar Car.** A dark blue Crown Victoria has been parked outside the coterie's haven for three consecutive nights. Illinois plates. No driver visible. On the fourth night, it's gone. In its place: a business card on the sidewalk. FBI Chicago Field Office. Agent William Shepard. | Haven |
+| 5-6 | **Nicolai's Files.** Through a contact at the Tremere Chantry, the coterie learns that Nicolai maintains dossiers on every Kindred in Chicago. The contact will let them see their own file for a price. What the file contains is almost certainly incomplete, but what it does contain proves the Tremere have been watching them since Gary. | Downtown |
+| 7-8 | **The Replaced Ghoul.** A ghoul the coterie has used as a daytime agent begins behaving differently. Subtle changes: word choice, route to work, a new cologne. Either the ghoul has been replaced, Dominated, or is feeding information to someone else. Investigation confirms at least one of these. Which one depends on who's asking. | Anywhere |
+| 9-10 | **The Empty Room.** The coterie arrives at a meeting location to find the room prepared but abandoned. Two chairs, an ashtray with a still-warm cigarette, and a tape recorder running. The tape has forty minutes of silence followed by five seconds of a voice they recognize saying a name they shouldn't know. | Anywhere |
 
 #### PREMONITIONS
 
 | d10 | Encounter | Location |
 |---|---|---|
-| 1-2 | **Glimpse.** For a split second, Darius sees something that hasn't happened yet — a building burning, a face he doesn't recognize, blood on snow. | Anywhere |
-| 3-4 | **Unholy Fear.** An overwhelming sense of dread washes over Darius for no reason. Something is coming. | The Rack |
-| 5-6 | **Dreams of Blue.** During daysleep, Darius dreams of water — Lake Michigan, the docks, a freighter. Something important is happening at the waterfront. | Haven |
-| 7-8 | **Unknown Admirer.** Darius finds gifts or notes from someone he can't identify. The gifts are strangely appropriate — whoever this is, they know him well. | The Rack |
-| 9-10 | **Vision of Gehenna.** A flash of the End Times — the Antediluvians rising, the sun turning red, the blood boiling. Is this real? A Malkavian projection? Or Darius's own fear? | Barrens |
+| 1-2 | **The Red Sky.** Driving south on Lake Shore Drive, the coterie sees the sky over Chicago turn the color of arterial blood. It lasts thirty seconds. No mortal seems to notice. The radio plays static for the same duration. When it stops, the announcer is mid-sentence about a warehouse fire on the West Side. The fire won't actually happen for two weeks. | Anywhere |
+| 3-4 | **The Malkavian Network.** A Malkavian ancilla corners a coterie member in a bathroom at the Succubus Club. She grabs their wrist and speaks in a voice that isn't hers, reciting a sequence of events that describe something that will happen to the coterie in the next three sessions. She releases the wrist, blinks, and asks what time it is. She remembers nothing. | The Rack |
+| 5-6 | **Daysleep Vision.** During daysleep, the coterie member dreams of standing in a room they've never seen. A long table. Six chairs, five occupied. The faces are obscured but the voices are recognizable: the Primogen. They're voting on something. The dreamer's name is mentioned. The vote is three to two. The sixth chair is empty. Then the sun hits the window and the dream burns white. | Haven |
+| 7-8 | **The Chess Piece.** Someone leaves a black king on the coterie's doorstep. It matches the set from Lodin's 107th-floor haven. It matches the chess motif from the Methuselah game. It was not there at midnight and it is there at 12:05. No one passed through the door. The piece is cold, colder than the night air. It doesn't warm up. | Haven |
+| 9-10 | **Helena's Gaze.** At the Succubus Club, Portia fixes a coterie member with a stare that lasts too long. For a moment, the club falls away and there is only her face, her eyes, and a sensation of falling through two thousand years of accumulated memory. She looks away. She sips her wine. She says nothing. But the coterie member now knows, with absolute certainty, that something is buried beneath the Succubus Club. Something alive. | The Rack |
 
 #### PURSUIT
 
 | d10 | Encounter | Location |
 |---|---|---|
-| 1-2 | **Guess Who's Coming to Dinner.** An unexpected visitor arrives at Elysium or a gathering — someone who shouldn't be here, someone dangerous. | Elysium |
-| 3-4 | **"You Gotta Help Me."** A panicked Kindred or mortal bursts in, begging for protection. They're being chased. By what? | Barrens |
-| 5-6 | **"Look at What We've Got Here."** Darius stumbles into the wrong place at the wrong time and discovers something he shouldn't have. Now he has to get out before whoever left it comes back. | Barrens |
-| 7-8 | **They're All Around.** Darius's haven is surrounded — hunters, police, or Kindred enemies. He needs to escape. | Haven |
-| 9-10 | **"Who Loves Ya, Baby?"** Someone is doing Darius favors — clearing his path, eliminating his problems, watching his back. He doesn't know who. | Elysium |
+| 1-2 | **Rooftop Chase.** A Sabbat scout spotted on a North Side roof. The coterie pursues across a five-block stretch of apartment buildings, jumping gaps, smashing through access doors, dodging clotheslines and pigeon coops. The scout is fast and knows the terrain. If caught, she carries intelligence documents that map Camarilla haven locations across the city. | Barrens |
+| 3-4 | **The L Train Escape.** The coterie is cornered in a Rush Street alley by Belthazar's ghouls. The only exit is up, onto the elevated L tracks. An approaching train gives them thirty seconds to run the rails before it arrives. If they make the next platform, they disappear into the crowds. If they don't, the physics of a train are unkind even to Kindred. | The Rack |
+| 5-6 | **Lake Michigan at Night.** Someone the coterie is tracking boards a cigarette boat at Burnham Harbor and guns it north into the lake. Pursuing means open water, exposure, and the horizon starting to lighten in the east. The target is heading toward a marina in Evanston. Dawn is in ninety minutes. | Anywhere |
+| 7-8 | **The Sewer Pursuit.** Following an informant into the sewer system beneath the Loop. The tunnels branch and rebranch. The informant knows the way. The coterie doesn't. The Nosferatu who control these tunnels haven't given permission to enter. Khalid's people are aware of every footstep. The informant leads them deeper than anyone should go voluntarily. | Barrens |
+| 9-10 | **Highway 41.** A car chase south on the Dan Ryan Expressway at 3 AM. Four lanes, light traffic, and the speedometer climbing past 100. The other car is a stolen ambulance and the driver is a ghoul running from a blood hunt. He has information the coterie needs. He also has a shotgun and nothing left to lose. | Anywhere |
 
 #### ROMANCE
 
 | d10 | Encounter | Location |
 |---|---|---|
-| 1-2 | **"It's Been So Long!"** A Kindred Darius is attracted to reappears after an absence. Where were they? What happened? | The Rack |
-| 3-4 | **Eye of the Beholder.** At a gathering, Darius's attention is captured by someone — Kindred or mortal — and the feeling is clearly mutual. | Elysium |
-| 5-6 | **Adoring Eyes.** A mortal has become dangerously fixated on Darius. Stalking, gifts, declarations. The mortal doesn't know what Darius is — yet. | Anywhere |
-| 7-8 | **Lost in Love.** Two NPCs are in a relationship that's complicating politics. Darius gets caught in the middle. Roll Characters List twice. | Wasteland |
-| 9-10 | **The Diary.** Darius finds a journal or letters revealing an intimate history between two NPCs that changes everything. Roll Characters List twice. | Barrens |
+| 1-2 | **The Mortal from Before.** At a Loop restaurant, visible through the glass, someone from Darius's mortal life. An ex-girlfriend, a cousin, a friend from the neighborhood. She's having dinner with a man. She looks happy. She looks alive. Standing on the sidewalk in January, watching through condensation on the glass, the distance between human and Kindred becomes measureable. | The Hive |
+| 3-4 | **Annabelle's Confession.** After a Toreador gathering, Annabelle Triabell stays behind. She's been Primogen for decades and the loneliness of office is eating her alive. She speaks about love, about the Embrace, about a mortal she almost saved once. She's looking for someone who still remembers what wanting felt like. She's looking at Sable. | Elysium |
+| 5-6 | **The Blood Bond Pull.** A coterie member who has tasted an elder's blood (Lodin, Modius, Jefferson through Emily) feels the Bond stirring. Not compulsion, not yet. Warmth. The desire to be near the source. A pull like homesickness that has nothing to do with home. The elder didn't plan this. Or maybe they did. | Anywhere |
+| 7-8 | **The Succubus Club Dance Floor.** 2 AM. The DJ drops something slow and heavy. The lights go low. Two Kindred who've been circling each other for weeks are finally in the same room with nowhere to pretend they haven't noticed. Roll Characters List twice. The attraction is inconvenient, politically dangerous, and entirely real. | The Rack |
+| 9-10 | **Sharon Payne's Shadow.** A letter arrives at the coterie's haven addressed to Sable. No return address. The handwriting is precise, feminine, furious. The letter describes Sable's movements over the past week in detail. It ends with: "He chose you. I am going to show you why that was a mistake." Sharon Payne is in Chicago. Sharon Payne has Presence 5. | Haven |
 
 #### SECRETS
 
 | d10 | Encounter | Location |
 |---|---|---|
-| 1-2 | **An Unwitting Investigator.** A mortal (cop, journalist, academic) is investigating something that will lead them directly to Darius's secrets. | Haven |
-| 3-4 | **Dark and Lovely Brood.** Darius discovers a hidden group of Kindred in Gary that no one knows about. Who sired them? Why are they here? | Barrens |
-| 5-6 | **The Secret Survivor.** Someone who was supposed to be dead — destroyed, staked, burned — turns out to be alive. Roll Characters List. | Barrens |
-| 7 | **The Hidden Haven.** Darius finds an abandoned haven — someone's old sanctuary. What's inside reveals something important about an NPC. | The Rack |
-| 8 | **Death and Discovery.** A destroyed Kindred's possessions become available. Among them: a piece of information that changes everything. | Barrens |
-| 9 | **Manna.** At Elysium, an NPC drops a piece of information they didn't mean to share. The slip is small but the implications are enormous. Roll Characters List. | Elysium |
-| 10 | **A Chance Meeting.** Darius encounters two NPCs meeting secretly in a place neither of them should be. Roll Characters List twice. | Anywhere |
+| 1-2 | **The Arcanum File.** A break-in at a Near North academic office yields a file from the Arcanum, the mortal occult research society. The file documents three centuries of "unusual nocturnal activity" in Chicago with maps, dates, and descriptions that correspond exactly to known Kindred territories. Someone in the Arcanum has been doing serious fieldwork. The file names Lodin. | The Hive |
+| 3-4 | **The Ledger.** Hidden in a wall safe in an abandoned Capone-era speakeasy on the South Side: a financial ledger. The entries are coded, but a Finance roll reveals they document blood money flowing from Chicago's organized crime families through three shell companies. One of those companies is connected to Chuc Luc's operation. The ledger was hidden in 1979. | Barrens |
+| 5-6 | **The Second Childe.** Lodin's ban on new Embraces is absolute. Except it isn't. The coterie discovers that an elder has secretly Embraced a childe within the last year. The childe is hidden in a penthouse on the Gold Coast, educated by ghouls, and has never met another Kindred. Roll Characters List for the sire. The childe doesn't know the Embrace was illegal. | Haven |
+| 7 | **Portia's True Name.** Through research at the Newberry Library or a slip from Sir Henry, the coterie pieces together that "Portia" at the Succubus Club is Helena, the 4th-generation Toreador Methuselah. The oldest vampire in Chicago. The one who has been watching them since their first night at the club. Knowing her name is dangerous. Not knowing was worse. | Elysium |
+| 8 | **The Tunnel Map.** A Nosferatu trades information: a partial map of the tunnel network beneath Chicago. The map marks three locations with red circles. Two are known Kindred havens. The third is beneath the Succubus Club, at a depth that shouldn't be structurally possible. The Nosferatu wants a favor for the map. He won't say from whom. | Barrens |
+| 9 | **Ballard's Weakness.** A source inside the Ventrue reveals that Ballard, Lodin's seemingly invulnerable lieutenant, is being blackmailed. The blackmailer has evidence of something Ballard did during the 1968 riots. The evidence is in a safety deposit box at First National Bank. The box number is included. The source wants the coterie to steal it. | The Hive |
+| 10 | **The Unsent Letter.** Among the possessions of a destroyed Kindred: a letter to Modius in Gary, never mailed. The letter describes Chicago's true power structure with an accuracy that suggests the writer had centuries of observation. The letter warns Modius about something coming. The letter is dated six months ago. The writer was destroyed three months ago. Roll Characters List. | Anywhere |
 
 #### THREATS
 
 | d10 | Encounter | Location |
 |---|---|---|
-| 1-2 | **A Person in Your Neighborhood.** A mortal in Darius's regular territory has started paying too much attention. They've noticed patterns — Darius's schedule, his visitors, his nocturnal habits. | Anywhere |
-| 3-4 | **Private Property.** Darius has unknowingly been operating in someone else's claimed territory. The owner shows up to enforce boundaries. | The Rack |
-| 5-6 | **The Note.** A written threat left in Darius's haven. Specific enough to be credible. Who sent it? | Haven |
-| 7-8 | **Hit and Run.** An attack from unknown assailants — quick, professional, then gone. Not a killing blow, but a warning. | Anywhere |
-| 9 | **"You're Under Arrest."** Police have questions for Darius. They may not know what he is, but they know he's connected to something illegal. | Anywhere |
-| 10 | **An Elder's Wrath.** An elder NPC has taken personal offense at something Darius did — or something he's accused of doing. Roll Characters List. | Elysium |
+| 1-2 | **Bach's Riders.** The Sabbat biker gang rolls down Michigan Avenue at 2 AM, twelve Harleys in formation. They don't attack. They don't stop. They ride the full length of the Magnificent Mile, past the Water Tower, past the Drake Hotel, past every Elysium-adjacent location in the city. A declaration of presence. A promise. The Sheriff's ghouls watch from unmarked cars and do nothing. | The Hive |
+| 3-4 | **The Marked Haven.** Someone has spray-painted a symbol on the building where the coterie sleeps. The symbol is the Sabbat sword-and-sun. Below it, a date. The date is three nights from now. The paint is fresh and the security cameras show static for the relevant fifteen minutes. | Haven |
+| 5-6 | **Belthazar's Retribution.** If Damien staked Belthazar during Ashes to Ashes and he's free, he's hunting the coterie now. A ghoul delivers a package: a rat's skull with human teeth glued into the jaw. Belthazar's calling card. He knows where they sleep. He's older, stronger, and has the patience of centuries. He also has a sense of humor, which makes him worse. | Haven |
+| 7-8 | **The Society of Leopold.** Sayles and Tomba, Society of Leopold operatives, have set up surveillance in a van outside the Succubus Club. They've been photographing everyone entering after midnight. Their van is parked in a legal space and they have legitimate press credentials. Destroying the photographs is easy. Destroying the negatives at their hotel requires breaking and entering. Destroying the operatives brings the full Society. | The Rack |
+| 9 | **Lodin's Ultimatum.** The Prince sends word through Ballard: the coterie has seventy-two hours to declare formal allegiance. Swear a blood oath to Lodin, or be classified as unaffiliated. In Chicago, unaffiliated means unprotected. The oath includes a feeding, which means one step closer to a Blood Bond. The clock starts now. | Anywhere |
+| 10 | **The Lupine Border.** Driving through the northern suburbs after a meeting, the coterie's car breaks down in forest preserve territory. The trees are old-growth and the silence is wrong. Something large moves in the underbrush. Lupine territory begins north of the city and the border is not marked on any map a Kindred would carry. Dawn is three hours away. The next gas station is a two-mile walk. | Anywhere |
 
 #### VENGEANCE
 
 | d10 | Encounter | Location |
 |---|---|---|
-| 1-2 | **Revenge.** Someone Darius wronged (or someone connected to them) has come back for payback. Roll Story Oracle for which thread it connects to. | Anywhere |
-| 3-4 | **Hell Raisers.** A group of young Kindred or anarchs is on a rampage — smashing Elysium, breaking the peace, targeting specific elders. Are they justified? | The Rack |
-| 5-6 | **A Conversation Overheard.** Darius overhears someone plotting revenge against him — or against an NPC he depends on. Roll Characters List for the plotter. | The Rack |
-| 7-8 | **A Friend in Need.** An NPC Darius is connected to is in trouble — being hunted, staked, or set up for destruction. Will Darius help? Roll Characters List. | Anywhere |
-| 9-10 | **The Rumor.** A damaging rumor about Darius is circulating among Gary's Kindred. It may be true, partially true, or completely fabricated. | Anywhere |
+| 1-2 | **Modius's Rage.** A letter arrives from Gary, delivered by a Kindred courier. Modius knows the coterie carried his message to Chicago and it was ignored. He blames them. The letter is formal, cold, and includes a demand: return to Gary within the month and answer for the insult, or Modius will send Lucian. Lucian is six hundred years old and he doesn't deliver messages. | Anywhere |
+| 3-4 | **The Gary Anarchs in Chicago.** Juggler's people have followed the coterie to the city. They want to know what Modius's letter to Lodin actually said. They believe the coterie is working for the prince who kept them in a cage. The confrontation happens in a warehouse on the North Side, and Juggler's representative has Potence 3 and a grudge. | Barrens |
+| 5-6 | **Ballard's Memory.** Ballard remembers an insult, real or imagined, from the coterie's first week in Chicago. He engineers a minor disaster, a permit violation at the haven, a ghoul arrested on a fabricated charge, a critical contact blacklisted. The damage is specific and surgical. Ballard doesn't need to throw a punch. He controls the machinery. | The Hive |
+| 7-8 | **The Betrayed Contact.** A mortal the coterie used and discarded in Gary or early Chicago has found them. He's sober, furious, and carrying a tape recorder with conversations the coterie assumed were private. He wants money. He wants an apology. He'll settle for revenge. He doesn't know what the coterie is, but he knows where they live. | Haven |
+| 9-10 | **Blood Hunt.** Lodin declares a Blood Hunt on a Kindred the coterie has ties to. Roll Characters List. The target is now fair game for any Kindred in Chicago. Helping them means defying the Prince. Abandoning them means losing an ally, and trust, and possibly the last person in the city who would have done the same for them. | Anywhere |
 
 #### WEIRDNESS
 
 | d10 | Encounter | Location |
 |---|---|---|
-| 1-2 | **Rampant Hell.** Something is causing mass Frenzy among the Kindred in the Rack. All at once. No visible stimulus. | The Rack |
-| 3-4 | **Frenzied Animals.** A pack of dogs (or rats, or birds) attacks with unnatural coordination and ferocity. Gangrel? Nosferatu? Something else? | Barrens |
-| 5-6 | **Bizarre Voodoo.** Occult symbols and ritualistic materials are found in downtown Gary. Not Tremere-style — something unfamiliar. | Downtown |
-| 7 | **The Ghoul at the Zoo.** Rumors of a strange creature at a local attraction or industrial site. Investigation reveals a ghoul — feral, abandoned, dangerous. | Anywhere |
-| 8 | **Astral Visitor.** Darius senses a presence — someone observing through Auspex or astral projection. They're not physically here, but they're watching. | The Rack |
-| 9 | **The Hunter Hunted.** Darius is hunting prey and realizes too late that his prey was hunting him. The mortal is armed, prepared, and knows exactly what Darius is. | Downtown |
-| 10 | **Unnerving Experience.** Something happens that defies explanation — even by Kindred standards. A glitch in reality. Describe it, then leave it unexplained. | Anywhere |
+| 1-2 | **Mass Frenzy at the Succubus Club.** Every Kindred in the building simultaneously enters Frenzy. No visible trigger. The mortals on the dance floor become prey. Gengis, the oldest and strongest, is the last to lose control. It lasts ninety seconds. When it stops, six Blood Dolls are dead and no one can explain what happened. The subsonic pulse from the basement is louder than before. | The Rack |
+| 3-4 | **The Dead Bird Migration.** Thousands of starlings fall dead from the sky over Grant Park at midnight. They land in a rough circle two hundred feet in diameter. The center of the circle is warm, ten degrees warmer than the surrounding air. The warmth fades by dawn. The Park District will find the birds in the morning. The news will call it environmental poisoning. It isn't. | Anywhere |
+| 5-6 | **Chinatown Exorcism.** In Bridgeport, near Chuc Luc's territory, a Taoist priest is conducting a street-corner exorcism on a storefront. The ritual works. Something leaves the building, something visible only to Kindred with Auspex, and it moves through the crowd like smoke through a grate. It pauses near the coterie. It recognizes them as dead things. Then it moves on. | Downtown |
+| 7 | **The Stopped Clock.** Every clock in the coterie's haven stops at the same time: 3:17 AM. Watches, wall clocks, the VCR, the microwave. They resume ten minutes later, all synchronized, as if nothing happened. The next night, it happens again. Same time. A newspaper from 1929 mentions a fire at this address at 3:17 AM. Everyone inside died. | Haven |
+| 8 | **The Sears Tower Whisper.** At the top of the Sears Tower observation deck, alone after hours, a coterie member hears whispering. Not from the vents, not from below. From the glass. The words are indistinct but the tone is instructional, as if someone is explaining how the city works to someone who isn't there yet. The whispering stops when a second person enters the room. | The Hive |
+| 9 | **The Awakened Gargoyle.** A stone gargoyle on the facade of the Tribune Tower blinks. Not a trick of light. Not a pigeon. It blinks, turns its head two inches to the left, and resumes its original position. A Tremere creation, escaped or abandoned. It's been watching Michigan Avenue for decades. It may be reporting to Nicolai. It may have stopped reporting to anyone. | The Hive |
+| 10 | **The Woman on the Lake.** At 4 AM, from the lakeshore path, the coterie sees a woman standing on the surface of Lake Michigan, fifty feet from the breakwall. She's wearing a white dress. She's looking at the city. She's dry. The water doesn't move around her feet because her feet don't touch it. She turns, sees the coterie, and walks toward the horizon. She does not sink. She does not return. Nothing about this fits any Kindred, Lupine, or mortal explanation the coterie possesses. | Anywhere |
 
 ---
 
-## Gary City Oracle (d10)
+## Chicago City Oracle (d10)
 
 | d10 | District |
 |---|---|
-| 1 | The Wasteland (ruined factories, toxic waste, gangs, anarch hideouts) |
-| 2 | The Docks / East Chicago (stevedores, smuggling, Lucian's domain) |
-| 3 | Modius's neighborhood (decaying mansions, the prince's haven) |
-| 4 | The Rack / The Torch area (nightlife strip, feeding grounds) |
-| 5 | Downtown Gary (city hall, abandoned storefronts, projects) |
-| 6 | Telton Cemetery / residential ruins (Michael's domain) |
-| 7 | Indiana East Tollway corridor (highway, motels, truck stops) |
-| 8 | The abandoned church district (Williams's auction) |
-| 9 | Near the lakeshore (taconite plant, Lake Michigan, container ships) |
-| 10 | Chicago (Chinatown, Succubus Club, Lodin's domain — you're out of Gary) |
+| 1 | The Loop / State Street (financial district, skyscrapers, daytime power) |
+| 2 | Rush Street / Near North (nightlife strip, Succubus Club, The Cave) |
+| 3 | Magnificent Mile / Gold Coast (wealth, Elysium, elder havens) |
+| 4 | Cabrini Green / Near West (projects, gangs, Kevin Jackson's domain) |
+| 5 | Chinatown / Bridgeport (Chuc Luc's territory, ethnic neighborhoods) |
+| 6 | South Side / Hyde Park (university area, residential, feeding grounds) |
+| 7 | Lakefront / Grant Park (open exposure, dawn danger, scenic meetings) |
+| 8 | North Side / Lincoln Park (Anarch territory, Brewery, suburban interface) |
+| 9 | Industrial corridors / Stockyards (abandoned factories, Nosferatu tunnels) |
+| 10 | Suburbs / Outskirts (Hell's Pasture, rural compounds, Lupine border) |
+
+---
+
+## Key Chicago Locations
+
+Brief reference for locations that appear repeatedly in the encounter
+tables. Full dossiers should be created in `Locations/Chicago/` as
+they come into play.
+
+**The Succubus Club.** Nightclub at the center of Kindred social life.
+Three levels: the main floor (dance music, mortals and Kindred mixing,
+feeding happens openly if you know where to look), the balcony
+(reserved for elders, Portia's permanent table), and the Labyrinth
+(underground, Blood Dolls, drug-adjacent Vitae culture, and deeper
+still the entrance to Helena's vault). Gengis tends bar and enforces
+the peace. The subsonic pulse from below has been getting louder. The
+club is simultaneously the safest and most dangerous place in Chicago:
+everyone is watching, and everyone has something to hide.
+
+**The Cave.** Horace's Malkavian bar. Dark, strange, performance-art
+atmosphere. Houdini does escape acts. The clientele skews Malkavian
+and the conversations are difficult to follow. Useful for weird
+encounters, information that arrives in riddled form, and the feeling
+that reality is thinner than usual.
+
+**The Prudential Building.** Lodin's base of operations. Top floors.
+Glass and steel and the view of a city he owns. Security is layered:
+mortal guards, ghouled police, Dominated building staff. Getting an
+audience with the Prince requires an invitation. Getting out requires
+his permission.
+
+**Sears Tower, 107th Floor.** Lodin's former haven. Sealed since the
+events of Ashes to Ashes. The seven-ton vault door was ripped open by
+someone with Potence 7+. The crime scene is technically cold, but
+whatever happened there left a psychic residue that Auspex-sensitive
+Kindred can feel in the elevator.
+
+**The Anarch Brewery.** Abandoned brewery on the North Side. Damien
+and the Brujah anarchs use it as a headquarters. Fortified, watched,
+and full of Kindred who remember what Lodin did in 1968. The
+architecture is industrial and the politics are revolutionary.
+
+**Cabrini Green.** The Robert Taylor Homes and surrounding projects.
+Kevin Jackson's domain. The Bloods gang is his mortal army.
+Feeding is easy here. Getting out with your conscience intact is harder.
+The poverty is real and the desperation makes every mortal a potential
+meal for Darius's Ventrue restriction.
+
+**The Tremere Chantry.** Nicolai's headquarters. Location shifts
+depending on the source, but functionally: a secured building in the
+Loop or Near North with warded rooms, bound spirits, and Gargoyle
+sentries. The Tremere don't invite visitors. They summon subjects.
+
+**The Art Institute / Opera House.** Elysium locations. The Traditions
+apply here with extra force. No violence, no feeding, no politics
+conducted above a whisper. In practice, everything is politics, and
+the whispers carry more weight than the shouting outside.
+
+**The Stockyards / Industrial Corridors.** South Side. The old Union
+Stockyards, meatpacking plants, abandoned factories. Nosferatu tunnels
+connect to the sewer network beneath. This is where bodies are hidden,
+where the Nosferatu trade information, and where things that don't
+belong in polite Kindred society get done. The smell of old blood never
+quite fades.
+
+---
+
+## Chicago NPC Quick Reference
+
+Voice and roleplaying notes for NPCs who appear in the encounter tables.
+Full dossiers should be created in `NPCs/Chicago/` as they become
+active in play.
+
+| # | Character | Quick Profile | How to Voice |
+|---|---|---|---|
+| 1 | **Lodin** | Ventrue 7th. Prince of Chicago. Rules through Dominate 6 and the police department. Paranoid, effective, aging out of relevance. | Corporate authority. Every sentence is an instruction, even when it sounds like a question. Never raises his voice. The anger is in what he doesn't say. |
+| 2 | **Ballard** | Ventrue 8th. Lodin's lieutenant. 500 pounds, wheezing, brilliant. Controls the city's bureaucratic machinery. | Heavy breathing between sentences. Jovial surface, calculating underneath. Orders food for other people. Talks about loyalty the way a butcher talks about livestock. |
+| 3 | **Critias** | Brujah Primogen. 2,400 years old. Blood Bound to Menele. Classical philosopher trapped in a modern city. | Weary intellectual. References Athens the way old men reference the war. Every political observation is also a lament. Speaks to the coterie like students he hasn't decided to fail yet. |
+| 4 | **Tyler** | Brujah Primogen. Ancient, charming, secretly dealing with the Sabbat. | Warm, measured, motherly. Never in a hurry. Plants ideas like seeds and walks away. Ask about Juggler to see her mask slip for half a second. |
+| 5 | **Annabelle Triabell** | Toreador Primogen. Art patron. Lonely at the top. | Generous hostess. The warmth is real, which makes it dangerous. She wants to be loved and she's powerful enough that her desire reshapes the room. |
+| 6 | **Nicolai** | Tremere Primogen. Runs the Chantry. Uses everyone as test subjects. | Clinical. Precise. Never explains himself. Asks questions he already knows the answer to. The silence after you answer tells you whether you passed. |
+| 7 | **Kevin Jackson** | Ventrue 8th. Controls Cabrini Green through the Bloods gang. | Street general. Code-switches between boardroom and block. The smile is a weapon. He already has what he wants; the meeting is about letting you know. |
+| 8 | **Capone** | Ventrue 8th. Organized crime. Chuc Luc's sire. Rumored to seek Golconda. | Old Chicago. Italian accent smoothed by decades. Speaks quietly because everyone is already listening. Mentions loyalty to his people and means it in a way that excludes you. |
+| 9 | **Helena / Portia** | Toreador 4th gen. Methuselah. 2,000+ years old. Watches from the Succubus Club balcony. | Ancient stillness. Speaks rarely. When she does, every word has been chosen over centuries of practice. Her attention feels like sunlight through a magnifying glass. |
+| 10 | **Gengis** | Succubus Club bartender/enforcer. Scarred. Ancient. Knows everything. | Monosyllabic. Slides things across the bar. Communicates through what he pours and what he withholds. A nod from Gengis is worth more than a speech from anyone else. |
+| 11 | **Sir Henry** | Ancient Toreador. Succubus Club fixture. Powdered, pathetic, surprisingly informed. | Faded grandeur. Speaks in elaborate courtesies that haven't been fashionable since the 18th century. Grasps at sleeves. The desperation is real, and so is the memory. |
+| 12 | **Damien** | Brujah 6th gen. Apparent age 14. Phenomenally strong. Protects Neon. | Teenager's vocabulary, tactician's mind. Sizes people up in seconds. Loyal to exactly three people and will kill anyone who threatens them. Speaks in short, flat sentences when he's angry, which is often. |
+| 13 | **Khalid al-Rashid** | Nosferatu. Controls the sewer network. Information broker. | Rarely seen. Communicates through intermediaries. When he does appear, speaks formally in a voice that echoes as if the tunnels are still around him. The price for passage is always information, never money. |
+| 14 | **Drummond** | Ventrue. Eccentric railroad baron. Rich, strange, possibly senile. | Victorian diction. Introduces furniture by name. Throws lavish parties for imaginary guests. Accidentally brilliant twice a night. The madness might be an act. Nobody has tested the theory. |
+| 15 | **Jefferson Foster** | Ventrue 9th. Sabbat. Acts II-III background, then foreground. | Calm preacher. Speaks about the Sabbat with the certainty of a convert. Never threatens. Offers. The offer is always worse than the threat would have been. |
+
+---
+
+## Notes on Chicago Encounters
+
+**Scale:** Gary had one prince, one nightclub, and seven Kindred
+fighting over scraps. Chicago has a Prince who rules through the
+police department, six Primogen who scheme behind his back, two
+Methuselahs older than Christianity, a Sabbat infiltration in
+progress, and nightlife venues where Kindred feed openly on willing
+mortals. Encounters should reflect this scale. A conspiracy in Gary
+was two vampires whispering. A conspiracy in Chicago involves shell
+companies, wiretaps, and the federal government.
+
+**The Succubus Club:** Chicago's social center. Three levels: the
+dance floor (mortals and Kindred, loud music, feeding opportunities),
+the balcony (elders watching, Portia/Helena in her usual seat), and
+the Labyrinth (underground, Blood Dolls, the entrance to something
+beneath). Most Rack encounters default here unless specified otherwise.
+Gengis tends bar and knows everything. Sir Henry haunts the corners.
+The music covers the screaming.
+
+**Act II vs. Act III tone:** Act II encounters trend toward investigation,
+political maneuvering, and the coterie establishing themselves. Act III
+encounters grow more violent as the Sabbat announce themselves. When
+running Act III, weight the d10 rolls: on a result of 9-10 in any theme,
+consider adding a Sabbat element. Bach's bikers, Jefferson's influence
+through Emily, the Creation Rite's shadow over every encounter.
+
+**The Ventrue feeding restriction in Chicago:** Darius can only feed
+on people who owe debts they can't pay. In Gary, the entire city
+qualified. In Chicago, the Gold Coast and Magnificent Mile are full of
+solvent professionals. Darius's hunting grounds narrow to Cabrini Green,
+the South Side, Chinatown's gambling debts, and the service workers
+crushed between rent and the wrong end of the L line. This restriction
+should make hunting scenes feel different in Chicago: harder, more
+targeted, requiring Streetwise or Empathy rolls to identify valid prey.
+
+**Cross-referencing with Gary tables:** If the coterie returns to Gary
+for any reason, use the encounter tables from Forged-in-Steel-Mythic-
+GME-Setup-v3. If a Chicago encounter generates a Gary-connected NPC
+(Modius, Lucian, Juggler), the scene occurs in Chicago but the NPC's
+presence raises immediate questions about what's happening back home.
+
+---
+
+## Supplemental Oracles
+
+### Threat Oracle (d10)
+
+| d10 | Threat Source |
+|---|---|
+| 1 | Sabbat (scouts, bikers, embedded agents) |
+| 2 | Society of Leopold (Sayles, Tomba, new operatives) |
+| 3 | FBI (Shepard, federal investigation) |
+| 4 | Lupines (border incursion, territorial response) |
+| 5 | Anarch factions (Brewery, Damien's network) |
+| 6 | Tremere internal politics (Nicolai's tests) |
+| 7 | Ventrue power struggle (Ballard, Capone, Jackson) |
+| 8 | Methuselah interference (Helena or Menele's proxies) |
+| 9 | Chicago PD (Lodin's police contacts, or rogue cops) |
+| 10 | Unknown (something new, generate via Mythic) |
+
+### Clan Oracle (d10)
+
+| d10 | Clan |
+|---|---|
+| 1 | Ventrue |
+| 2 | Brujah |
+| 3 | Toreador |
+| 4 | Tremere |
+| 5 | Nosferatu |
+| 6 | Malkavian |
+| 7 | Gangrel |
+| 8 | Caitiff |
+| 9 | Giovanni / Independent |
+| 10 | Sabbat clan (Lasombra, Tzimisce, or antitribu) |
+
+### Reason Oracle (d10)
+
+When the encounter calls for a motive and none is obvious, roll d10.
+
+| d10 | Reason |
+|---|---|
+| 1 | Hunger (blood, Vitae, resources) |
+| 2 | Fear (exposure, destruction, loss of status) |
+| 3 | Ambition (power, territory, generation) |
+| 4 | Loyalty (sire, coterie, faction, Blood Bond) |
+| 5 | Vengeance (old grudge, recent betrayal) |
+| 6 | Curiosity (forbidden knowledge, the occult) |
+| 7 | Love (mortal attachment, Kindred obsession) |
+| 8 | Duty (Traditions, clan obligations, boons owed) |
+| 9 | Survival (immediate threat, dawn approaching) |
+| 10 | Madness (the Beast, Malkavian insight, broken mind) |
+
+---
+
+## Source Material
+
+- [[Chicago by Night]] — Encounter system adapted from Chapter 5
+- [[Ashes to Ashes]] — Scene locations
+- [[V20]] — Mechanics reference
+
+---
+
+## Unchanged Sections
+
+The following sections from **Forged-in-Steel-Mythic-GME-Setup-v3**
+are unchanged and should be used as-is with the Chicago encounter
+system. They are not repeated here:
+
+- **VTM Solo Rules** (player-facing rolls, resisted actions, combat,
+  Quick NPC generation, experience, Humanity tracking)
+- **The Scale** (-10 to +10, Trouble/Grace charts)
+- **Mythic GME Cheat Sheet** (Fate Chart, CF adjustment, Random Event
+  Focus, Scene Check)
+- **Replacing Overlapping Systems** table
+- **Play Loop** flowchart
+- **Darius's Story Oracle** (d10)
+- **Sable's Story Oracle** (reference her PC file)
+
+## Chicago City Oracle (d10)
+
+| d10 | District |
+|---|---|
+| 1 | The Loop / State Street (financial district, skyscrapers, daytime power) |
+| 2 | Rush Street / Near North (nightlife strip, Succubus Club, The Cave) |
+| 3 | Magnificent Mile / Gold Coast (wealth, Elysium, elder havens) |
+| 4 | Cabrini Green / Near West (projects, gangs, Kevin Jackson's domain) |
+| 5 | Chinatown / Bridgeport (Chuc Luc's territory, ethnic neighborhoods) |
+| 6 | South Side / Hyde Park (university area, residential, feeding grounds) |
+| 7 | Lakefront / Grant Park (open exposure, dawn danger, scenic meetings) |
+| 8 | North Side / Lincoln Park (Anarch territory, Brewery, suburban interface) |
+| 9 | Industrial corridors / Stockyards (abandoned factories, Nosferatu tunnels) |
+| 10 | Suburbs / Outskirts (Hell's Pasture, rural compounds, Lupine border) |
 
 ---
 
 ## Mortal Noise
 
-# Gary 1990 Headlines
+# Chicago 1991 Headlines
 
 Use one headline at scene open to add mortal friction unrelated to the Jyhad. The city should keep moving even when Kindred politics are quiet.
 
 | Roll | Headline | Street Effect | Pressure |
 |---|---|---|---|
-| 1 | Wildcat talk at Gary Works | Shift change traffic snarls Broadway and fills bars with angry mill hands. | Tired workers, blocked routes, short tempers. |
-| 2 | School budget cut rumor | Parents crowd payphones and bus stops; arguments start earlier in the night. | Nervous crowds, delayed buses, more eyes outside. |
-| 3 | House fire on the west side | Fire trucks and onlookers choke two blocks for hours. | Sirens, smoke, police tape, displaced families. |
-| 4 | Mayor Barnes patronage scandal | Downtown is full of courthouse chatter, reporters, and men pretending to know more than they do. | More questions, more paper trails, more talk. |
-| 5 | Scrap theft crackdown | Patrol cars lean on junkyards, rail spurs, and anyone hauling metal after dark. | Truck checks, suspicious cops, fences going quiet. |
-| 6 | Funeral for a crushed mill hand | Bars fill after the service; grief and payday liquor mix badly. | Mourning crowds, easy feeding, explosive emotion. |
-| 7 | Water main break near Broadway | Mud, detours, and utility crews leave half the strip dark. | Blocked streets, dead lights, opportunistic crime. |
-| 8 | Lake storm warning | Dock crews rush cargo and leave early; everyone watches the sky instead of each other. | Wind, hurried labor, weather cover for mistakes. |
-| 9 | Pantry line overflow at a church | Hunger is visible tonight. Families stay out later than they should. | Shame, need, witnesses who remember faces. |
-| 10 | County drug sweep rumor | Dealers disappear before sunset and every regular starts wondering who talked. | Nervous bars, spotty street traffic, paranoia. |
+| 1 | Drive-by on the South Side | Blue lights, crime tape, and Channel 7 vans clog two blocks. Witnesses scatter before cops arrive. | Sirens, helicopters, jumpy patrol cars on every cross street. |
+| 2 | CTA service disruption | L trains stopped between stations, buses rerouted. Commuters spill into the cold, angry and stranded. | Crowds on platforms, taxi shortages, foot traffic in unexpected places. |
+| 3 | Aldermanic corruption indictment | Federal courthouse swarming with press. City Hall staff making calls they don't want overheard. | More suits downtown, more nervousness in ward offices, more paper shredders running. |
+| 4 | Cabrini-Green shooting | Projects locked down. Police flood the high-rises. Mothers pull children off the gallery walkways. | Checkpoints, hostile cops, residents who've stopped talking to strangers. |
+| 5 | Lake-effect snow warning | Six inches expected by morning. Salt trucks out early. The Dan Ryan slows to a crawl. | Reduced visibility, abandoned cars, empty streets after midnight. |
+| 6 | Union rally at McCormick Place | Teamsters, SEIU, and building trades march for contract renewal. Traffic diverts through the Loop. | Picket noise, rerouted buses, off-duty cops earning overtime. |
+| 7 | House fire in Pilsen | Three-flat gutted. Two families displaced. Arson suspected but unconfirmed. | Smoke smell carries six blocks. Fire trucks, onlookers, Red Cross van. |
+| 8 | Crack bust on West Madison | Tactical unit raids a known house. Dealers scatter. Customers too. Everything within four blocks goes quiet. | Empty corners, nervous foot traffic, squad cars parked with engines running. |
+| 9 | Bulls game at the Stadium | 18,000 people pouring onto Madison after the final buzzer. Bars overflowing. Traffic impossible. | Crowds, noise, easy cover, drunk pedestrians, scalpers and pickpockets working the exits. |
+| 10 | Factory closing in Back of the Yards | Third plant this year. Two hundred jobs gone. The bar on Ashland is full by five PM. | Anger without a target. Men drinking on a Tuesday. Hiring signs that aren't there. |
+| 11 | GD-BD turf war flare-up | Shots fired near 63rd and Halsted. Four wounded, none dead. Retaliation expected by morning. | Gang activity, corner lookouts, cars moving too slow or too fast. |
+| 12 | Homeless camp cleared under Wacker | City crews with dump trucks. Forty people scattered into the cold. Some drift toward shelters. Some don't. | Displaced people in doorways, under viaducts, in L stations. Cops pushing them along. |
+| 13 | Water main break in the Loop | Jackson Boulevard flooded curb to curb. Steam rising. ComEd cutting power to the block. | Detours, darkness, utility crews with flashlights, impatient taxi drivers. |
+| 14 | Mayoral press conference on crime stats | Daley at City Hall, cameras rolling. Numbers down on paper, up on the street. Nobody believes either. | More patrol presence for 48 hours. Then back to normal. |
+| 15 | El Rukn trial coverage | Federal building security doubled. Spectators line up at 6 AM. Jeff Fort's name on every newscast. | Courthouse district crawling with feds, marshals, reporters. Everyone being watched. |
+| 16 | Cold snap advisory | Wind chill below zero. Warming centers open. The lakefront is empty and dangerous. | Fewer pedestrians, faster walks, nobody lingering. Cars won't start. |
+| 17 | Restaurant health code scandal | Tribune runs an expose. Three Gold Coast restaurants closed. The owner knows an alderman. | Health inspectors visible. Kitchen staff nervous. Reservations cancelled. |
+| 18 | CHA maintenance protest | Robert Taylor Homes residents block State Street with signs. Broken elevators, no heat, rats. | Traffic diversion, TV cameras, police keeping distance. Politicians absent. |
+| 19 | Jazz funeral procession on the South Side | Second-line parade for a beloved musician. Brass band, two hundred people, streets closed for an hour. | Music, crowds, genuine grief. A neighborhood remembering someone who mattered. |
+| 20 | Stockyards methane leak | Industrial corridor evacuated three blocks. Hazmat trucks. The smell is worse than the danger. | Closed streets, emergency lights, residents in bathrobes on the sidewalk. |
 
 ## Live Mythic Lists
 
@@ -560,99 +916,66 @@ Use one headline at scene open to add mortal friction unrelated to the Jyhad. Th
 
 |Slot|Thread|Progress|
 |---|---|---|
-|1-2|Chuc Luc's pipeline (2x)|Pipeline OPERATIONAL. Berth 7 → warehouse → truck. Eddie Fells Dominated. Torch secured. AUTONOMY GRANTED (D026). Monthly reports, first Tuesday. Three conditions: no expansion, no Chicago contact, no unauthorized spending.|
-|3-4|Cover story (2x)|2/6. Federal-grade Birch paper delivered. Webb operational as proxy. Identity solid.|
-|5|~~Gerald Fisk / Torch mortgage~~|ARCHIVED.|
-|6|~~Lucian feeding rights~~|ARCHIVED.|
-|7|~~Brief Victor on FBI~~|ARCHIVED.|
-|8|~~Chuc Luc callback~~|ARCHIVED.|
-|9-10|Sullivan Dane's witch-hunt (2x)|4/6. Pamphlet diagnostic on Cutlass. Confirmed nocturnal pattern. Active surveillance. Eleven months of data.|
-|11|The slave auction / D-Train|ESCALATED. D-Train visited burned church July 25 with companion who searched basement. Was in midtown Gary (Fifth & Grant Amoco) before. Knows operation is dead. Thursday intercept dead. Will report to Mama Roux. Keisha at risk if threads pulled.|
-|12|Juggler's secret (Evelyn)|OPEN. Juggler met (D018). Evelyn not mentioned. Hidden.|
-|13|Protect the Masquerade|OPEN.|
-|14|Claudette's Diablerie plot|HIDDEN.|
-|15|FBI/Shepard investigation|PLAN FORMING. Proxy + Danov forger. Juggler partnered. Torch Heat 5/6.|
-|16|Evelyn's existence|OBSERVED. Lives in ore smelter (Juggler's haven). Feeds at Torch. Unauthorized. Not reported to Modius. Leverage over Juggler.|
-|17|Baptism by Fire (LATENT — NYE 1990)|Chicago views Gary as 'stable but fragile' (per Horace). Coterie signal system COMPLETED (S025). BbF room selection for Allicia privacy window in progress (Darius).|
-|18|~~Marcus Webb~~|ARCHIVED. 14/14 conditioned.|
-|19|~~Warehouse + customs gap~~|ARCHIVED.|
-|20|~~Sal Cantone~~|ARCHIVED. RICO closed.|
-|21|Lucian delivery / Modius mission|SUMMONS ANSWERED (D022). Mission: clean waterfront before Chicago representative (~2 weeks). Identify union hall men. Dock feeding rights granted. Don't involve Lucian or feds. Modius wants simple, boring, his.|
-|22|~~Warren Birch proxy~~|ARCHIVED. Webb operational.|
-|23|~~Church disposal~~|ARCHIVED.|
-|24|Williams notebook intel|RECEIVED (D019). 43 entries: D-Train (Thu), Mr. White (Milwaukee, Oct/Mar), B7/SC (Cantone-dock link). Intelligence asset.|
-|25|Lucian payment|$2K/month, lockbox in warehouse, first of August. Mutual discretion. Keyed scene resolved.|
-|26|COTERIE with Sable|ACTIVE. Fri Dec 7 call completed (S025). Signal system delivered. Received: Milwaukee contact/15-min window, Dane 5-night data, Halloran trace. Working: BbF room selection for privacy window. Next call: Tue Dec 11.|
-|27|Waterfront legibility|Modius mission (D022). PATROL COMPLETE (D023): mortal surveillance blind Berth 8 (Marlboro, binoculars, weeks of use), water presence Berth 3 (fast, low, gone), Gangrel waymarker rail spur (fresh, "claimed ground"). Reported to Modius. Orders: continue monitoring, watch for more waymarkers, identify water presence. Do NOT approach Lucian.|
-|28|~~Mystery Obfuscate visitor~~|ARCHIVED. Was Horace Turnbull (D026).|
-|29|Dane at 4/6|Pamphlet diagnostic, active surveillance, True Faith 5 hunter closing in. Notebook mark Dec 2 — no breath-cloud confirmation.|
-|30|Horace Turnbull / Chicago Line|ACTIVE. Boon owed (one favor, open-ended). Communication: The Cave, Fred, 'chess tournament.' WARNING: violates Chuc Luc's 'no Chicago Kindred contact' condition.|
+|1-2|Modius's mission: deliver reply (2x)|OPEN. Letter sealed. Safe passage letter. Present to Lodin or regent.|
+|3-4|Ashes to Ashes: find the Prince (2x)|LATENT. Activates when Lodin is discovered missing.|
+|5-6|Cover story under new scrutiny (2x)|OPEN. Warren Birch built for Gary. Chicago has 100 Kindred with Auspex.|
+|7-8|Chuc Luc's expanded pipeline (2x)|OPEN. Sire operates from Chinatown. Capone's territory. Conflict of interest.|
+|9-10|Succubus Club politics (2x)|OPEN. Social center of Chicago Kindred. Every thread crosses here.|
+|11|Anarch unrest|OPEN. Gengis/Damien. Brewery. Reform vs revolution.|
+|12|Annabelle's manipulations|OPEN. She collects neonates smarter than their prince.|
+|13-14|Blood Bond steps (2x)|OPEN. Allicia carryover. Lodin forced bond after rescue. Methuselah vial.|
+|15|Lodin's siring ban|OPEN. 18 years, no new Embraces. Lodin broke his own rule.|
+|16|Hunter convergence|OPEN. Shepard (FBI), Dane (may follow), Society of Leopold.|
+|17|Sabbat infiltration|LATENT. Rigaud and Wade embedded.|
+|18|The Methuselah War|HIDDEN. Helena vs Menele. Proxy moves only.|
+|19|Tremere PC integration|LATENT. Third PC planned post-Act II.|
+|20|Under a Blood Red Moon prep|LATENT. Distant.|
+|21-25|*(open)*||
 
 ### Sable Threads
 
 |Thread|Weight|Status|
 |---|---|---|
-|Allicia — protect from Modius|2x|**CRITICAL.** Confined Wed/Sat Torch piano only. Modius STOPPED ASKING about foreign blood — worse than asking (already decided). Allicia visibly deteriorating — aura read: bruised violet, fading gold, white sparks of confusion. **BbF WINDOW OPEN (S024):** Erichtho (Chicago Tremere, Carna sympathizer) will evaluate Allicia's bond at BbF under cover of Nicolai's observer mission. Coterie must build 15-min privacy window at party. Allicia must be present. This is the only shot before Modius finishes closing the door.|
-|~~Spy assignment (double agent)~~|2x|ARCHIVED. Sir Henry visit complete.|
-|Modius leash|2x|4/6. Successful audience (S021). Attaché role = more access + more obligation. Modius pleased with FBI handling. Near-entrancement at scene open (SC 1 net). Relationship deepening in complexity.|
-|Sharon Payne's vendetta|3x|2/6 (ADVANCED S024). Proxy ID'd (S025): Margaret Halloran, PI, North Dearborn Chicago. Licensed 1984, domestic work, not cheap. Deeper trace (client ID) running, due ~Dec 10, $200+. Asked for "Sable or Ann" (birth name). COTERIE-LEVEL THREAT. Darius informed (S025 call).|
-|Michael Payne — absent sire|2x|ESCALATED. Missing. Darius now aware.|
-|Denise Price — the mother|1x|**ESCALATED.** November message heard (S024): emotional, not actionable. "I just need to know you're okay." Aunt Clarice Hammond sighting. No PI, no police. Sable did not call back. Getting closer but not yet dangerous.|
-|Feed and survive|1x|Fed S024 (Nisha, pickpocket, Kiefer's lot → studio, 4 BP). Coop fed 1 BP. Blood 13/14. Heat: West Side 1/6, Docks 3/6 (territorial, mostly Darius), East Broadway 1/6, East Side 1/6. App 5 remains memorable.|
-|Ghoul management|1x|ACTIVE. Bond Step 2 (DeShawn, Pete, Spoon). Coop part-time Step 1. Spoon LOCKED. Maintenance current: DeShawn+Pete fed Dec 5, Coop fed Dec 6. DeShawn on van watch (Seventeenth/Adams after midnight). Terrell still loose. Deacon (south side boss, weeks out).|
-|West side territory|1x|ACTIVE. Spoon on overnight Olds surveillance (Sixteenth & Grant). DeShawn resting. Terrell (loose), Deacon (south side, weeks out).|
-|The Torch — hunting ground|1x|OPEN. Heat 5/6 makes it risky. Modius monitoring foot traffic.|
-|Chicago scrutiny|1x|Lodin's seneschal called Modius. 'Conditions in Gary.' Archon threat implicit. Shared coterie concern.|
-|Warren Birch proxy|1x|Acknowledged. Darius handling. Webb identified. Danov print shop Tue July 24.|
-|Burgundy Oldsmobile|1x|**IDENTIFIED (S021).** Frank Kowalski, probable PI, Berwyn IL. Surveillance stopped since October (timeskip). Client = Lakefront Recovery Associates (Bridgeport, ghouled agent, Kindred-connected).|
-|White van / Dane surveillance|2x|**ESCALATED (S024-S025).** White Econoline, west side blocks after midnight. FIVE consecutive nights (Dec 3-7). DeShawn warned about Dane by name (S025): "people like me." Ghoul redeployment: Pete to studio, DeShawn on van watch (Olds, Sixteenth & Grant, 11 PM), Spoon home. Darius coordinated (S025 call): "He's looking for me, not you. Keep your people off Seventeenth after ten PM." If pattern shifts west, call Tuesday. Two blocks from Sable's haven. Almost certainly Dane.|
-|Gary PD task force|1x|**NEW (S023).** Four officers, Midtown precinct, "quality of life" cases on west side + Broadway. Started November. City Hall push. Source: Reva Watts (dispatcher regular).|
-|COTERIE with Darius|2x|ACTIVE. Friday Dec 7 call completed (S025). Signal system established (3 levels: cufflinks=watch, collarbone=leave, "weather's turning"=abort). Shared: Milwaukee contact/15-min window, Dane proximity (both sides), 312/Halloran trace. Darius working BbF room selection. Next call: Tue Dec 11.|
-|~~Modius mansion visit~~|1x|ARCHIVED.|
-|~~Chicago representative~~|2x|ARCHIVED. Sir Henry visited Aug.|
-|Allicia at BbF|1x|**NEW.** Allicia currently confined Wed/Sat Torch only. BbF = Monday NYE. Erichtho evaluation REQUIRES Allicia present. If Modius brings her to the party, problem solved. If not, coterie must arrange. Prerequisite for Carna thread.|
-|Carna bond-breaking|2x|**BREAKTHROUGH (S024).** Milwaukee back-channel reached (ExYes on Unlikely). Carna remembers Allicia (1971). Can't send anyone openly (Dr. Mortius watching, still Pyramid-bound in 1990). BUT: Erichtho (Tremere 7th, Chicago) is being sent to BbF by Nicolai as Tremere observer — Carna added secondary mission via back-channel: evaluate Allicia's bond. Erichtho = triple agent (Nicolai's observer / Carna's evaluator / her own bond-breaking research). Path of Blood 3 can diagnose bond structure. Coterie task: create 15-min privacy window at BbF. Allicia present, no Auspex, no witnesses. Erichtho CAN'T break the bond herself — she evaluates and reports to Carna. Long-term: Tremere PC bridge (post-Act II).|
+|Modius's mission: deliver reply|2x|OPEN. Emissary. Present to Lodin.|
+|Ashes to Ashes: find the Prince|2x|LATENT. Activates when Lodin missing.|
+|Sharon Payne's vendetta|3x|ESCALATED. Sharon is IN CHICAGO. Proxy chain: Halloran → Warwick → law firm. Sable entering her territory.|
+|Succubus Club politics|2x|OPEN. Natural habitat for Toreador. Helena's basement.|
+|Annabelle's manipulations|2x|OPEN. Toreador elder, collects neonates. Sable's clan.|
+|Blood Bond steps|2x|OPEN. Allicia carryover. Lodin forced bond. Methuselah vial.|
+|Allicia bond-breaking (remote)|2x|ACTIVE. Erichtho evaluation done. Carna path. Months in Milwaukee needed. Coordinate from Chicago.|
+|Michael Payne — absent sire|2x|ESCALATED. Michael in Gary or Chicago? Sharon's ex-husband.|
+|Denise Price — the mother|1x|ESCALATED. Denise in Chicago (Robert Taylor Homes area). Thirty miles from wherever Sable ends up.|
+|Ghoul management (remote)|1x|ACTIVE. DeShawn, Pete at Kendrick's. Coop on call. Spoon home. Maintenance 3 BP/month. Distance = decay risk.|
+|Cover story under scrutiny|1x|OPEN. Sable's identity less fabricated than Darius's, but App 5 is memorable.|
+|Anarch unrest|1x|OPEN. Gengis/Damien. Brewery.|
+|Hunter convergence|1x|OPEN. Shepard, Dane, Society of Leopold.|
+|Methuselah War|HIDDEN|Helena vs Menele. Portia at Succubus Club.|
+|Sabbat infiltration|LATENT|Activates Act III.|
 
 ### Shared Characters
 
 |Slot|Character|
 |---|---|
-|1-2|Modius (2x)|
-|3-4|Allicia (2x)|
-|5-6|Lucian (2x)|
-|7-8|Chuc Luc (2x, offscreen)|
-|9-10|Sullivan Dane (2x)|
-|11|Juggler|
-|12|Claudette (REMOVED — exposed, delivered to Lucian)|
-|13|Sable Price / Darius Cole (other PC — COTERIE)|
-|14|Victor Salonika|
-|15|Gerald Fisk|
-|16|SA Shepard|
-|17|Williams (REMOVED — delivered to Lucian)|
-|18|DeShawn (ghouled)|
-|19|Denise Price|
-|20|Marcus Webb|
-|21|Danov|
-|22|Evelyn|
-|23|Michael (Malkavian)|
-|24|Sharon Payne (offscreen, COTERIE THREAT)|
-|25|Annabelle Triabell (offscreen)|
-|26|Eddie Fells (Dominated)|
-|27|Sal Cantone (offscreen, Chicago)|
-|28|Gloria Serrano (mortal, Gary)|
-|29|Ms. Okonkwo (mortal, Englewood)|
-|30|Little Pete (ghouled)|
-|31|Coop (ghouled)|
-|32|Terrell (Big Six crew, loose)|
-|33|Spoon / Antoine (Blood Bond Step 2, Entranced 1yr from July 1990, lookout)|
-|34|Deacon (GD south side, offscreen)|
-|35|Frank Kowalski (mortal, PI, Berwyn IL — Olds driver IDENTIFIED, client Lakefront Recovery)|
-|36|Lonnie Greer (mortal, bail bondsman, Gary — Sable Contact 2)|
-|37|Reva Watts (mortal, bartender, east side Gary — Sable Contact 1)|
-|38|Thomas Wójcik (mortal, fired dock supervisor, fed/wiped D023)|
-|39|Horace Turnbull (Malkavian 10th, Chicago, double agent)|
-|40|Erichtho (Tremere 7th, Chicago, triple agent — Nicolai/Carna/self)|
-|41|Margaret Halloran (mortal, PI, North Dearborn Chicago — Sharon proxy investigation)|
+|1-3|Lodin (3x)|
+|4-5|Ballard (2x)|
+|6-7|Annabelle Triabell (2x)|
+|8|Critias|
+|9|Nicolai|
+|10-11|Chuc Luc (2x)|
+|12|Gengis|
+|13|Damien|
+|14|Belthazar|
+|15|Tyler|
+|16|Edward Neally|
+|17|Sir Henry Johnson|
+|18|Maldavis|
+|19|Capone|
+|20|Sullivan Dane|
+|21|SA William Shepard|
+|22|Helena / "Portia" (HIDDEN)|
+|23|Horace Turnbull|
+|24|Inyanga|
+|25|Jefferson Foster (LATENT Act III)|
 
 ## Live Story Oracles
 
@@ -660,28 +983,28 @@ Use one headline at scene open to add mortal friction unrelated to the Jyhad. Th
 
 |d10|Prompt|
 |---|---|
-|1|I build systems. Structure underneath, who needs what, who pays.|
-|2|Keep your head down. Play the game. Survive.|
-|3|Chuc Luc has me in Gary doing a job. I don't know when it ends.|
-|4|The underground economy is my native language.|
-|5|I read people the way a bookie reads odds.|
-|6|My cover story has a hole in it. 10th gen pretending to be 12th.|
-|7|Fencing stolen goods was my first real income.|
-|8|I carry a gun. Never fired it at a person. Prop, not a tool.|
-|9|The west side is my territory. The Torch is my building. The docks are my target.|
+|1|I build systems. Chicago's system is bigger than I thought.|
+|2|Keep your head down. Play the game. There are a hundred Kindred here who could end me.|
+|3|Chuc Luc wants a Chicago pipeline. His sire Capone owns this territory. I'm caught between them.|
+|4|The underground economy is different here. Bigger money, better security, more eyes.|
+|5|I read people. In Chicago, the people I'm reading have been playing this game for centuries.|
+|6|My cover story was built for seven Kindred in a dying city. Chicago has a hundred, and they have Auspex.|
+|7|The Succubus Club is where every thread crosses. I need to be there without being noticed.|
+|8|I saw what they did to Neally. I saw what the Camarilla did to make him vulnerable.|
+|9|The Primogen run the city and the Methuselahs run the Primogen. The game has more layers than I knew.|
 |10|(something new)|
 
 ### Sable
 
 |d10|Prompt|
 |---|---|
-|1|My face is my business. Protect it like money.|
-|2|Every man who looks at me sees something different. None of them see me.|
-|3|Michael painted me like I was already dead. I didn't know how right he was.|
-|4|I learned the price of everything in a kitchen on State Street.|
-|5|The smile is load-bearing. If it cracks, the whole structure comes down.|
-|6|Denise doesn't know. She can never know. That's the cost.|
-|7|Sharon is coming. I don't know when. I know she's coming.|
-|8|I can make anyone want me. I can't make anyone stay.|
-|9|Allicia counted seven words. I counted every one.|
+|1|My face is my business. Chicago has a thousand faces and none of them are looking at mine yet.|
+|2|The Succubus Club is where I belong. The problem is everything else that belongs there too.|
+|3|Sharon is here. Not offscreen. Not a name on a clock. Here.|
+|4|I can make anyone want me. In this city, everyone is already wanted by someone more dangerous.|
+|5|Michael painted me like I was already dead. He painted me in Chicago.|
+|6|Allicia is in Gary. I'm here. The distance is the point.|
+|7|Denise is thirty miles south. I could drive there in an hour.|
+|8|The smile is load-bearing. If it cracks in front of these people, they'll eat me alive.|
+|9|Annabelle walked into a room and the room rearranged itself around her. That's what I do. She's been doing it for three hundred years.|
 |10|(something new)|

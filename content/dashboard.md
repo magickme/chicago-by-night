@@ -10,58 +10,60 @@ menu:
       icon: "dots"
 ---
 
-*Chicago Chronicles. Act I: Forged in Steel. Updated: **1990-12-07 (Friday night/Saturday morning)**.*
+*Chicago Chronicles. Act II: Ashes and Blood. Updated: **1991-01-02 (Wednesday morning)**.*
 
-<details class="dashboard-glossary">
-<summary>Glossary of abbreviations</summary>
-<dl>
-<dt>D001–D026</dt><dd>Darius scene numbers (e.g., D026 = Darius's 26th scene)</dd>
-<dt>S001–S025</dt><dd>Sable scene numbers (e.g., S025 = Sable's 25th scene)</dd>
-<dt>BbF</dt><dd>Baptism by Fire — the upcoming New Year's Eve 1990 event in Chicago</dd>
-<dt>SC</dt><dd>Succubus Club — a Chicago nightclub and future story location</dd>
-<dt>CF</dt><dd>Chaos Factor — a Mythic GME mechanic that measures how volatile the current situation is (1–9)</dd>
-<dt>BP</dt><dd>Blood Pool — a vampire's stored blood (fuel for powers and healing)</dd>
-<dt>WP</dt><dd>Willpower — mental resilience, spent to resist compulsions or push through difficulty</dd>
-<dt>x/6</dt><dd>Threat clock progress — reaches 6/6 when the threat fully materializes</dd>
-<dt>1x / 2x / 3x</dt><dd>Thread weight — how heavily a subplot factors into oracle rolls (higher = more likely to trigger)</dd>
-</dl>
-</details>
+
 
 ## Coterie Snapshot
 
-- 1990-12-07 (Friday night/Saturday morning) — Darius at west-side haven (D026 played Dec 4). Sable at Kendrick's Auto (S025 played Dec 7).
-- Scenes played: Darius 26, Sable 25 (51 total + timeskip bluebook Aug-Nov). PCs met at Feb 2 Elysium. **COTERIE FORMED (S019, July 22).**
-- Sunset: 4:25 PM CST. Sunrise: 7:05 AM CST. Darkness: ~14.5 hours (early December).
-- Communications: Payphones. Tue + Fri, 11 PM, Sable calls Darius's haven. Studio phone compromised (Denise has number). No dead drop yet — TBD.
+- 1991-01-02 (Wednesday morning) — Both PCs in Ballard's custody. Helicopter from Soldier Field. Location unknown. Weapons in Cutlass trunk, Museum Campus lot.
+- Scenes played: Darius 29, Sable 27 (56 total + timeskip bluebook Aug-Nov + Dec timeskip). PCs met at Feb 2 Elysium. **COTERIE FORMED (S019, July 22).**
+- Scene-note inventory: Darius 29, Sable 27 (56 total on disk).
+- Sunset: 4:28 PM CST. Sunrise: 7:06 AM CST. Darkness: ~14.5 hours (early January).
+- Communications: Chicago protocol seeded. Tue/Fri 11 PM remains the default check-in window, using rotating nodes instead of a fixed haven line. If one node feels watched, move immediately to the next. Horace contact: The Cave, ask for Fred, "chess tournament."
 
 ## Threat Clocks
 
 | Clock | Level | Status |
 |---|---|---|
-| Allicia Alliance | 6/6 | COMPLETE. Bond mutual. Allicia deteriorating under Modius pressure. Carna thread urgent. |
-| Torch/Rack Heat | 5/6 | STABILIZED. Webb proxy gives Birch a face. Shepard has paper trail that checks out. Investigation dormant. |
-| Dane Identifies Darius | 4/6 | ADVANCED x2. Pamphlet diagnostic placed on Cutlass. Dane confirmed nocturnal pattern. Active surveillance. Next: direct encounter. |
-| Modius Internal Audit | 4/6 | Cross-checking reports. Tasted foreign blood in Allicia. Stopped asking (worse). Squeezing through constraint, not confrontation. |
-| Modius Leash (Sable) | 4/6 | Attaché role COMPLETED (Sir Henry visit). Allicia squeeze continuing. Blood-taste bomb still ticking. |
-| Dock Pipeline Exposure | 3/6 | Pipeline ACTIVE. Eddie Dominated. Warehouse operational. Lucian deal stable. $2K/month. |
-| Docks Heat | 3/6 | Third dock-adjacent feed (D026). Second Hennessey's visit. Lucian deal stable. |
-| Cover Story Exposure | 2/6 | REDUCED. Danov paper delivered. Federal-grade Birch identity in play. Webb = Birch proxy. |
-| Gregory+Shepard Convergence | 2/6 | FBI has Warren Birch face (Webb). Paper trail checks out. Investigation dormant but open. |
-| Modius Leash (Darius) | 2/6 | ADVANCED. Biweekly reports expected. Questions about haven location. Modius wants more. |
-| Sharon's Vendetta | 2/6 | ADVANCED (S024). Chicago proxy ID'd (S025): Margaret Halloran, PI, North Dearborn Chicago. Licensed since 1984. Domestic work. Deeper trace (client ID) running, due ~Dec 10. Proxy UNCONFIRMED as Sharon's but evidence strong. |
-| Masquerade Heat | 1/6 | Fragile but not burning |
-| Wasteland Heat | 1/6 | Gangs, anarchs, bodies |
-| West Side Heat | 1/6 | Two city workers found dazed, same block, water main break zone (S023). Paramedics called. |
+| Allicia Alliance | 6/6 | COMPLETE. Erichtho evaluation done. Carna path active. Allicia in Gary. |
+| Dane Identifies Darius | 5/6 | Active hunt. Saw BbF attendees, got plates. In Gary or following. |
+| Torch/Rack Heat | 5/6 | Stabilized. Webb proxy. Dormant while PCs away. |
+| Modius Internal Audit | 4/6 | Blood-taste bomb. Allicia. Offscreen while PCs in Chicago. |
+| Modius Leash (Sable) | 4/6 | Sent first. More expendable or more useful. |
+| Docks Heat | 3/6 | Pipeline on autopilot. Eddie granite. |
+| Modius Leash (Darius) | 2/6 | Emissary mission = continued obligation at distance. |
+| Sharon's Vendetta | 2/6 | Proxy Halloran → Warwick → law firm. Sharon is IN CHICAGO. |
+| Ashes to Ashes Progress | 1/6 | Letter delivered to Edward Neally. Coterie entered Ballard's system. In custody. |
+| Anarch Tension | 0/6 | Gengis vs Damien. Brewery. Reform vs revolution. |
+| Blood Bond Web | 0/6 | Every sip tracked: Lodin (forced), Methuselah vial, Jefferson (Act III), Allicia carryover. |
+| Chuc Luc's Chicago Operations | 0/6 | Pipeline expansion into Capone's territory. |
+| Cover Story Exposure (Chicago) | 0/6 | Warren Birch fiction meets Chicago Auspex. Darius 10th claiming 12th. |
+| Hunter Convergence (Chicago) | 0/6 | Shepard, Dane (if follows), Society of Leopold, Standdown. |
+| Lodin's Grip | 0/6 | Forced Bond. Assignments. Surveillance. Intensifies after rescue. |
+| Masquerade Heat (Chicago) | 0/6 | Fresh start. Chicago is bigger — more witnesses, more cover. |
+| Methuselah War | 0/6 HIDDEN | Helena vs Menele. Proxy moves only. PCs unaware. |
+| Primogen Power Plays | 0/6 | Annabelle, Critias, Tyler, Nicolai — each has an agenda. |
+| Sabbat Infiltration | 0/6 LATENT | Phillipe Rigaud and Wendy Wade embedded. Activates Act III. |
+| Succubus Club Heat | 0/6 | Club as focal point. Helena's basement. Every thread passes through. |
+
+## Chicago Standing
+
+- Court 1/5 (Known): Arriving as Modius's emissaries with letters. Status comes from purpose, not trust
+- Society 1/5 (Known): Sir Henry referral gives them one soft entry point into Toreador / Succubus space
+- Underworld 0/5 (Unknown): No standing yet with Capone, Chuc Luc's Chicago operators, or the city's criminal brokers
+- Street 0/5 (Unknown): No established footing yet with Anarchs, Brewery traffic, or district-level crews
 
 ## Shared Goals
 
-- Survive 1990 sandbox year
-- Build independent power beneath Modius's awareness
-- Manage FBI/Shepard threat (Birch proxy + Danov paper)
-- Burgundy Olds watcher IDENTIFIED (Kowalski, Lakefront Recovery). Surveillance stopped. Monitor for resumption.
-- Prepare for Baptism by Fire (NYE 1990)
-- Early warning system for Sharon Payne
-- Diversify Sable's feeding grounds (west side bars burning through repetition)
+- Deliver Modius's letter to Lodin (or his regent)
+- Present themselves per Lodin's demand
+- Survive Chicago's Kindred politics
+- Establish haven and communication infrastructure
+- Find the Succubus Club and Sir Henry Johnson
+- Maintain Gary operations remotely
+- Advance Allicia bond-breaking (Carna coordination from Chicago)
+- Identify and avoid Sharon Payne's Chicago network
 
 ## Hottest Threads
 
@@ -69,24 +71,24 @@ menu:
 
 | Thread | Status |
 |---|---|
-| Chuc Luc's pipeline (2x) | Pipeline OPERATIONAL. Berth 7 → warehouse → truck. Eddie Fells Dominated. Torch secured. AUTONOMY GRANTED (D026). Monthly reports, first Tuesday. Three conditions: no expansion, no Chicago contact, no unauthorized spending. |
-| Cover story (2x) | 2/6. Federal-grade Birch paper delivered. Webb operational as proxy. Identity solid. |
-| ~~Gerald Fisk / Torch mortgage~~ | ARCHIVED. |
-| ~~Lucian feeding rights~~ | ARCHIVED. |
-| ~~Brief Victor on FBI~~ | ARCHIVED. |
-| ~~Chuc Luc callback~~ | ARCHIVED. |
-| Sullivan Dane's witch-hunt (2x) | 4/6. Pamphlet diagnostic on Cutlass. Confirmed nocturnal pattern. Active surveillance. Eleven months of data. |
-| The slave auction / D-Train | ESCALATED. D-Train visited burned church July 25 with companion who searched basement. Was in midtown Gary (Fifth & Grant Amoco) before. Knows operation is dead. Thursday intercept dead. Will report to Mama Roux. Keisha at risk if threads pulled. |
+| Modius's mission: deliver reply (2x) | OPEN. Letter sealed. Safe passage letter. Present to Lodin or regent. |
+| Ashes to Ashes: find the Prince (2x) | LATENT. Activates when Lodin is discovered missing. |
+| Cover story under new scrutiny (2x) | OPEN. Warren Birch built for Gary. Chicago has 100 Kindred with Auspex. |
+| Chuc Luc's expanded pipeline (2x) | OPEN. Sire operates from Chinatown. Capone's territory. Conflict of interest. |
+| Succubus Club politics (2x) | OPEN. Social center of Chicago Kindred. Every thread crosses here. |
+| Anarch unrest | OPEN. Gengis/Damien. Brewery. Reform vs revolution. |
+| Annabelle's manipulations | OPEN. She collects neonates smarter than their prince. |
+| Blood Bond steps (2x) | OPEN. Allicia carryover. Lodin forced bond after rescue. Methuselah vial. |
 
 ### Sable
 
 | Thread | Weight | Status |
 |---|---|---|
-| Allicia — protect from Modius | 2x | **CRITICAL.** Confined Wed/Sat Torch piano only. Modius STOPPED ASKING about foreign blood — worse than asking (already decided). Allicia visibly deteriorating — aura read: bruised violet, fading gold, white sparks of confusion. **BbF WINDOW OPEN (S024):** Erichtho (Chicago Tremere, Carna sympathizer) will evaluate Allicia's bond at BbF under cover of Nicolai's observer mission. Coterie must build 15-min privacy window at party. Allicia must be present. This is the only shot before Modius finishes closing the door. |
-| ~~Spy assignment (double agent)~~ | 2x | ARCHIVED. Sir Henry visit complete. |
-| Modius leash | 2x | 4/6. Successful audience (S021). Attaché role = more access + more obligation. Modius pleased with FBI handling. Near-entrancement at scene open (SC 1 net). Relationship deepening in complexity. |
-| Sharon Payne's vendetta | 3x | 2/6 (ADVANCED S024). Proxy ID'd (S025): Margaret Halloran, PI, North Dearborn Chicago. Licensed 1984, domestic work, not cheap. Deeper trace (client ID) running, due ~Dec 10, $200+. Asked for "Sable or Ann" (birth name). COTERIE-LEVEL THREAT. Darius informed (S025 call). |
-| Michael Payne — absent sire | 2x | ESCALATED. Missing. Darius now aware. |
-| Denise Price — the mother | 1x | **ESCALATED.** November message heard (S024): emotional, not actionable. "I just need to know you're okay." Aunt Clarice Hammond sighting. No PI, no police. Sable did not call back. Getting closer but not yet dangerous. |
-| Feed and survive | 1x | Fed S024 (Nisha, pickpocket, Kiefer's lot → studio, 4 BP). Coop fed 1 BP. Blood 13/14. Heat: West Side 1/6, Docks 3/6 (territorial, mostly Darius), East Broadway 1/6, East Side 1/6. App 5 remains memorable. |
-| Ghoul management | 1x | ACTIVE. Bond Step 2 (DeShawn, Pete, Spoon). Coop part-time Step 1. Spoon LOCKED. Maintenance current: DeShawn+Pete fed Dec 5, Coop fed Dec 6. DeShawn on van watch (Seventeenth/Adams after midnight). Terrell still loose. Deacon (south side boss, weeks out). |
+| Modius's mission: deliver reply | 2x | OPEN. Emissary. Present to Lodin. |
+| Ashes to Ashes: find the Prince | 2x | LATENT. Activates when Lodin missing. |
+| Sharon Payne's vendetta | 3x | ESCALATED. Sharon is IN CHICAGO. Proxy chain: Halloran → Warwick → law firm. Sable entering her territory. |
+| Succubus Club politics | 2x | OPEN. Natural habitat for Toreador. Helena's basement. |
+| Annabelle's manipulations | 2x | OPEN. Toreador elder, collects neonates. Sable's clan. |
+| Blood Bond steps | 2x | OPEN. Allicia carryover. Lodin forced bond. Methuselah vial. |
+| Allicia bond-breaking (remote) | 2x | ACTIVE. Erichtho evaluation done. Carna path. Months in Milwaukee needed. Coordinate from Chicago. |
+| Michael Payne — absent sire | 2x | ESCALATED. Michael in Gary or Chicago? Sharon's ex-husband. |
