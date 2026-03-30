@@ -16,6 +16,10 @@
   {{/* Favicon */}}
   <link rel="icon" href="/favicon.svg" type="image/svg+xml">
 
+  {{/* Font preloads — critical weights for first paint */}}
+  <link rel="preload" href="/fonts/cormorant-400.woff2" as="font" type="font/woff2" crossorigin>
+  <link rel="preload" href="/fonts/cinzel-600.woff2" as="font" type="font/woff2" crossorigin>
+
   {{/* Self-hosted fonts */}}
   <style>
     @font-face { font-family: 'Cinzel'; font-style: normal; font-weight: 400; font-display: swap; src: url('/fonts/cinzel-400.woff2') format('woff2'); }

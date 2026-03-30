@@ -7,7 +7,7 @@ image: cover.webp
 ---
 
 <div class="character-profile">
-<img src="cover.webp" alt="Darius Cole" class="character-portrait">
+<img src="cover.webp" alt="Darius Cole" class="character-portrait" loading="lazy">
 <div class="character-stats">
 <dl>
 <dt>Full Name</dt><dd>Darius Jeremiah Cole</dd>

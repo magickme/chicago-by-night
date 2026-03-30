@@ -3,6 +3,7 @@ title: "Random Tables"
 description: "Canonical oracle and encounter tables for Chicago Chronicles, generated from the live vault."
 layout: "page"
 slug: "random-tables"
+ShowToc: true
 menu:
   main:
     weight: 6

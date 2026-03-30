@@ -7,7 +7,7 @@ image: cover.webp
 ---
 
 <div class="character-profile">
-<img src="cover.webp" alt="Sable Price" class="character-portrait">
+<img src="cover.webp" alt="Sable Price" class="character-portrait" loading="lazy">
 <div class="character-stats">
 <dl>
 <dt>Full Name</dt><dd>Sable Ann Price</dd>

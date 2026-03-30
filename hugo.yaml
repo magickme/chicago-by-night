@@ -15,6 +15,12 @@ params:
   brand: "Chicago Chronicles"
   description: "Solo Vampire: The Masquerade across the southern Lake Michigan corridor"
   nav:
+    - heading: ""
+      items:
+        - name: "About"
+          url: "/about/"
+        - name: "Why This Game"
+          url: "/why/"
     - heading: "The Story"
       items:
         - name: "Dashboard"
@@ -47,14 +53,6 @@ params:
           url: "/random-tables/"
         - name: "Soundtrack"
           url: "/music/"
-    - heading: ""
-      items:
-        - name: "Search"
-          url: "/search/"
-        - name: "About"
-          url: "/about/"
-        - name: "Why This Game"
-          url: "/why/"
 
 outputs:
   home:

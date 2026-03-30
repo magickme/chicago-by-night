@@ -5,6 +5,69 @@ layout: "page"
 slug: "quests"
 ---
 
+<style>
+/* ── Quest Log table overrides ── */
+.page-quests table {
+  display: table;
+  font-size: 0.9rem;
+  line-height: 1.55;
+}
+
+/* Thread name column */
+.page-quests td:first-child {
+  font-weight: 600;
+  white-space: nowrap;
+  min-width: 10em;
+}
+
+/* Strikethrough (archived) threads — fade out */
+.page-quests td:first-child del {
+  color: var(--text-faint);
+  font-weight: 400;
+}
+
+/* Weight column (Sable table, 2nd col) */
+.page-quests table:nth-of-type(2) td:nth-child(2) {
+  text-align: center;
+  font-family: var(--font-display);
+  font-size: 0.78rem;
+  color: var(--text-faint);
+  white-space: nowrap;
+  width: 3em;
+}
+
+/* Status column — tighten for readability */
+.page-quests td:last-child {
+  font-size: 0.85rem;
+  color: var(--text-muted);
+  line-height: 1.5;
+}
+
+/* Bold text inside status cells — accent color to pop */
+.page-quests td:last-child strong {
+  color: var(--accent);
+  font-weight: 700;
+}
+
+/* Row hover */
+.page-quests tr {
+  transition: background 0.1s;
+}
+.page-quests tbody tr:hover {
+  background: var(--code-bg);
+}
+
+/* Shared Goals / Shared Threats lists */
+.page-quests ul {
+  padding-left: 1.2em;
+}
+.page-quests li {
+  margin-bottom: 0.35em;
+  font-size: 0.9rem;
+  line-height: 1.5;
+}
+</style>
+
 *Chicago Chronicles. Act I: Forged in Steel. Updated: **1990-12-07 (Friday night/Saturday morning)**.*
 
 ## Darius
