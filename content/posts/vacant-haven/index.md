@@ -1,6 +1,6 @@
 ---
-title: "Vacant Haven — Wednesday, 2 January 1991, 6:30 PM"
-date: 1991-01-02T18:30:00
+title: "Vacant Haven — Wednesday, 2 January 1991, 9:30 PM"
+date: 1991-01-02T21:30:00
 lastmod: 2026-03-30
 tags: ["ashes-to-ashes", "darius", "sable", "vtm", "ashes-and-blood", "chicago"]
 categories: ["Act II — Ashes to Ashes"]
