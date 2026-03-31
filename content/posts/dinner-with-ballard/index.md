@@ -1,6 +1,6 @@
 ---
-title: "Dinner with Ballard — Wednesday, 2 January 1991, 4:29 PM"
-date: 1991-01-02T16:29:00
+title: "Dinner with Ballard — Tuesday, 1 January 1991, 4:28 PM"
+date: 1991-01-01T16:28:00
 lastmod: 2026-03-30
 tags: ["ashes-to-ashes", "darius", "sable", "vtm", "ashes-and-blood", "chicago"]
 categories: ["Act II — Ashes to Ashes"]
