@@ -29,6 +29,8 @@ params:
           url: "/reading-order/"
         - name: "Characters"
           url: "/characters/"
+        - name: "Locations"
+          url: "/locations/"
     - heading: "The Chronicle"
       items:
         - name: "Campaign"
