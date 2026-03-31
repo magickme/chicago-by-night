@@ -15,7 +15,7 @@ slug: "clocks"
 |---|---|---|---|
 | Masquerade Heat (Chicago) | □□□□□□ | 0/6 | Fresh start. Chicago is bigger — more witnesses, more cover. |
 | Cover Story Exposure (Chicago) | □□□□□□ | 0/6 | Warren Birch fiction meets Chicago Auspex. Darius 10th claiming 12th. |
-| Ashes to Ashes Progress (COMPLETE) | ■■□□□□ | 2/6 | Investigation assigned. Dinner with Ballard complete. Belthazar watchdog. Deadline tomorrow night. |
+| Ashes to Ashes Progress | ■■■□□□ | 3/6 | Haven searched (S029). Clues: one attacker, ancient blood, Roarke, woods map, pendant. Critias involved. Deadline tonight (Jan 3). |
 | Blood Bond Web | □□□□□□ | 0/6 | Every sip tracked: Lodin (forced), Methuselah vial, Jefferson (Act III), Allicia carryover. |
 | Sabbat Infiltration (LATENT) | □□□□□□ | 0/6 LATENT | Phillipe Rigaud and Wendy Wade embedded. Activates Act III. |
 | Anarch Tension | □□□□□□ | 0/6 | Gengis vs Damien. Brewery. Reform vs revolution. |

@@ -53,12 +53,12 @@ graph TD
     Coterie -->|"2"| Danov
     Ballard["Ballard"]
     Coterie -->|"-1"| Ballard
+    Critias["Critias"]
+    Coterie -->|"1"| Critias
     SirHenryJohnson["Sir Henry Johnson"]
     Coterie -->|"1"| SirHenryJohnson
     Gengis["Gengis"]
     Coterie -->|"1"| Gengis
-    HoraceTurnbull["Horace Turnbull"]
-    Coterie -->|"1"| HoraceTurnbull
 ```
 
 ## Chicago Standing
