@@ -154,9 +154,12 @@ Published scenes from **Chicago Chronicles** in chronological order.
 
 ### Chapter 1 — Ashes to Ashes
 
+*Jan 1, 1991, 4:28 PM through Jan 3, 1991, 4:29 PM.*
+
 | # | Scene | PC | Date |
 |---|---|---|---|
 | 48 | [Welcome To Chicago](/posts/welcome-to-chicago/) | Darius + Sable | Jan 1, 1991, 4:28 PM |
+| 49 | [Dinner With Ballard](/posts/dinner-with-ballard/) | Darius + Sable | Jan 3, 1991, 4:29 PM |
 
 ---
 

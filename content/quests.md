@@ -5,7 +5,7 @@ layout: "page"
 slug: "quests"
 ---
 
-*Chicago Chronicles. Act II: Ashes and Blood. Updated: **1991-01-02 (Wednesday morning)**.*
+*Chicago Chronicles. Act II: Ashes and Blood. Updated: **1991-01-03 (Thursday evening)**.*
 
 
 
@@ -13,8 +13,8 @@ slug: "quests"
 
 | Thread | Status |
 |---|---|
-| Modius's mission: deliver reply (2x) | OPEN. Letter sealed. Safe passage letter. Present to Lodin or regent. |
-| Ashes to Ashes: find the Prince (2x) | LATENT. Activates when Lodin is discovered missing. |
+| Modius's mission: deliver reply (2x) | DELIVERED. Letter given to Neally. Now under Ballard's assignment. |
+| Ashes to Ashes: find the Prince (2x) | ACTIVE. Ballard assigned investigation. Belthazar watchdog. Deadline Jan 4 night. |
 | Cover story under new scrutiny (2x) | OPEN. Warren Birch built for Gary. Chicago has 100 Kindred with Auspex. |
 | Chuc Luc's expanded pipeline (2x) | OPEN. Sire operates from Chinatown. Capone's territory. Conflict of interest. |
 | Succubus Club politics (2x) | OPEN. Social center of Chicago Kindred. Every thread crosses here. |
@@ -32,8 +32,8 @@ slug: "quests"
 
 | Thread | Weight | Status |
 |---|---|---|
-| Modius's mission: deliver reply | 2x | OPEN. Emissary. Present to Lodin. |
-| Ashes to Ashes: find the Prince | 2x | LATENT. Activates when Lodin missing. |
+| Modius's mission: deliver reply | 2x | DELIVERED. Letter given to Neally. Under Ballard's assignment. |
+| Ashes to Ashes: find the Prince | 2x | ACTIVE. Ballard assigned investigation. Belthazar watchdog. Deadline Jan 4 night. |
 | Sharon Payne's vendetta | 3x | ESCALATED. Sharon is IN CHICAGO. Proxy chain: Halloran → Warwick → law firm. Sable entering her territory. |
 | Succubus Club politics | 2x | OPEN. Natural habitat for Toreador. Helena's basement. |
 | Annabelle's manipulations | 2x | OPEN. Toreador elder, collects neonates. Sable's clan. |

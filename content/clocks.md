@@ -5,7 +5,7 @@ layout: "page"
 slug: "clocks"
 ---
 
-*Chicago pressure board. Updated: **1991-01-02 (Wednesday morning)**. Session state is authoritative for all clock levels.*
+*Chicago pressure board. Updated: **1991-01-03 (Thursday evening)**. Session state is authoritative for all clock levels.*
 
 
 
@@ -15,7 +15,7 @@ slug: "clocks"
 |---|---|---|---|
 | Masquerade Heat (Chicago) | □□□□□□ | 0/6 | Fresh start. Chicago is bigger — more witnesses, more cover. |
 | Cover Story Exposure (Chicago) | □□□□□□ | 0/6 | Warren Birch fiction meets Chicago Auspex. Darius 10th claiming 12th. |
-| Ashes to Ashes Progress | ■□□□□□ | 1/6 | Letter delivered to Edward Neally. Coterie entered Ballard's system. In custody. |
+| Ashes to Ashes Progress (COMPLETE) | ■■□□□□ | 2/6 | Investigation assigned. Dinner with Ballard complete. Belthazar watchdog. Deadline tomorrow night. |
 | Blood Bond Web | □□□□□□ | 0/6 | Every sip tracked: Lodin (forced), Methuselah vial, Jefferson (Act III), Allicia carryover. |
 | Sabbat Infiltration (LATENT) | □□□□□□ | 0/6 LATENT | Phillipe Rigaud and Wendy Wade embedded. Activates Act III. |
 | Anarch Tension | □□□□□□ | 0/6 | Gengis vs Damien. Brewery. Reform vs revolution. |
