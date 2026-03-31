@@ -58,7 +58,9 @@ Published scenes from **Chicago Chronicles** in chronological order.
 | 15 | [Blood at Dawn, Part 2](/posts/blood-at-dawn-02/) | Darius + Sable | Jun 17, 1990, 1:30 AM |
 | 16 | [Blood at Dawn, Part 3](/posts/blood-at-dawn-03/) | Darius + Sable | Jun 17, 1990, 9:00 PM |
 | 17 | [Blood at Dawn, Part 4](/posts/blood-at-dawn-04/) | Darius | Jun 18, 1990, 9:00 PM |
-| 18 | [Blood at Dawn, Part 5](/posts/blood-at-dawn-05/) | Darius | Jun 19, 1990, 11:00 PM |
+| 18 | [The Debrief](/posts/the-debrief/) | Darius | Jun 18, 1990, 10:30 PM |
+| 19 | [Blood at Dawn, Part 5](/posts/blood-at-dawn-05/) | Darius | Jun 19, 1990, 11:00 PM |
+| 20 | [The Brooch](/posts/the-brooch/) | Darius | Jun 19, 1990, 9:00 PM |
 
 ### Chapter 4 — The Alliance
 
@@ -66,10 +68,10 @@ Published scenes from **Chicago Chronicles** in chronological order.
 
 | # | Scene | PC | Date |
 |---|---|---|---|
-| 19 | [Scorched Earth](/posts/scorched-earth/) | Darius + Sable | Jun 23, 1990, 9:00 PM |
-| 20 | [The Alliance](/posts/the-alliance/) | Sable | Jun 27, 1990, 10:00 PM |
-| 21 | [Friday Court](/posts/friday-court/) | Darius + Sable | Jun 29, 1990, 9:00 PM |
-| 22 | [The Report](/posts/the-report/) | Sable | Jul 2, 1990, 9:30 PM |
+| 21 | [Scorched Earth](/posts/scorched-earth/) | Darius + Sable | Jun 23, 1990, 9:00 PM |
+| 22 | [The Alliance](/posts/the-alliance/) | Sable | Jun 27, 1990, 10:00 PM |
+| 23 | [Friday Court](/posts/friday-court/) | Darius + Sable | Jun 29, 1990, 9:00 PM |
+| 24 | [The Report](/posts/the-report/) | Sable | Jul 2, 1990, 9:30 PM |
 
 ### Chapter 5 — The Deals
 
@@ -77,9 +79,9 @@ Published scenes from **Chicago Chronicles** in chronological order.
 
 | # | Scene | PC | Date |
 |---|---|---|---|
-| 23 | [The Lucian Approach](/posts/the-lucian-approach/) | Darius | Jun 25, 1990, 11:00 PM |
-| 24 | [The Ghost Lane](/posts/the-ghost-lane/) | Darius | Jun 28, 1990, 11:45 PM |
-| 25 | [The Assumption](/posts/the-assumption/) | Darius | Jul 12, 1990, 9:00 PM |
+| 25 | [The Lucian Approach](/posts/the-lucian-approach/) | Darius | Jun 25, 1990, 11:00 PM |
+| 26 | [The Ghost Lane](/posts/the-ghost-lane/) | Darius | Jun 28, 1990, 11:45 PM |
+| 27 | [The Assumption](/posts/the-assumption/) | Darius | Jul 12, 1990, 9:00 PM |
 
 ### Chapter 6 — The Pipeline
 
@@ -87,11 +89,11 @@ Published scenes from **Chicago Chronicles** in chronological order.
 
 | # | Scene | PC | Date |
 |---|---|---|---|
-| 26 | [The Callback](/posts/the-callback/) | Darius | Jul 14, 1990, 9:30 PM |
-| 27 | [The Green Door](/posts/the-green-door/) | Sable | Jul 14, 1990, 11:30 PM |
-| 28 | [The Dock Walk](/posts/the-dock-walk/) | Darius | Jul 16, 1990, 10:00 PM |
-| 29 | [The Fixer](/posts/the-fixer/) | Darius | Jul 17, 1990, 10:30 PM |
-| 30 | [The Placement](/posts/the-placement/) | Sable | Jul 19, 1990, 9:30 PM |
+| 28 | [The Callback](/posts/the-callback/) | Darius | Jul 14, 1990, 9:30 PM |
+| 29 | [The Green Door](/posts/the-green-door/) | Sable | Jul 14, 1990, 11:30 PM |
+| 30 | [The Dock Walk](/posts/the-dock-walk/) | Darius | Jul 16, 1990, 10:00 PM |
+| 31 | [The Fixer](/posts/the-fixer/) | Darius | Jul 17, 1990, 10:30 PM |
+| 32 | [The Placement](/posts/the-placement/) | Sable | Jul 19, 1990, 9:30 PM |
 
 ### Chapter 7
 
@@ -99,14 +101,14 @@ Published scenes from **Chicago Chronicles** in chronological order.
 
 | # | Scene | PC | Date |
 |---|---|---|---|
-| 31 | [The Cartographer](/posts/the-cartographer/) | Darius | Jul 18, 1990, 10:30 PM |
-| 32 | [The Landlord](/posts/the-landlord/) | Darius | Jul 20, 1990, 9:00 PM |
-| 33 | [The Predator](/posts/the-predator/) | Sable | Jul 20, 1990, 10:00 PM |
-| 34 | [The Kennel](/posts/the-kennel/) | Sable | Jul 21, 1990, 8:22 PM |
-| 35 | [The Proxy](/posts/the-proxy/) | Darius | Jul 21, 1990, 8:23 PM |
-| 36 | [The Handshake](/posts/the-handshake/) | Sable | Jul 22, 1990, 8:21 PM |
-| 37 | [The Leash](/posts/the-leash/) | Sable | Jul 23, 1990, 8:20 PM |
-| 38 | [The Mansion](/posts/the-mansion/) | Sable | Jul 24, 1990, 8:19 PM |
+| 33 | [The Cartographer](/posts/the-cartographer/) | Darius | Jul 18, 1990, 10:30 PM |
+| 34 | [The Landlord](/posts/the-landlord/) | Darius | Jul 20, 1990, 9:00 PM |
+| 35 | [The Predator](/posts/the-predator/) | Sable | Jul 20, 1990, 10:00 PM |
+| 36 | [The Kennel](/posts/the-kennel/) | Sable | Jul 21, 1990, 8:22 PM |
+| 37 | [The Proxy](/posts/the-proxy/) | Darius | Jul 21, 1990, 8:23 PM |
+| 38 | [The Handshake](/posts/the-handshake/) | Sable | Jul 22, 1990, 8:21 PM |
+| 39 | [The Leash](/posts/the-leash/) | Sable | Jul 23, 1990, 8:20 PM |
+| 40 | [The Mansion](/posts/the-mansion/) | Sable | Jul 24, 1990, 8:19 PM |
 
 ### Chapter 8
 
@@ -114,20 +116,20 @@ Published scenes from **Chicago Chronicles** in chronological order.
 
 | # | Scene | PC | Date |
 |---|---|---|---|
-| 39 | [The Hunger](/posts/the-hunger/) | Darius | Jul 25, 1990, 8:19 PM |
-| 40 | [The Ledger](/posts/the-ledger/) | Darius | Jul 26, 1990, 8:19 PM |
+| 41 | [The Hunger](/posts/the-hunger/) | Darius | Jul 25, 1990, 8:19 PM |
+| 42 | [The Ledger](/posts/the-ledger/) | Darius | Jul 26, 1990, 8:19 PM |
 
 ### Chapter 9 — The Hunt
 
 | # | Scene | PC | Date |
 |---|---|---|---|
-| 41 | [The Hunt](/posts/the-hunt/) | Sable | Jul 28, 1990, 8:19 PM |
+| 43 | [The Hunt](/posts/the-hunt/) | Sable | Jul 28, 1990, 8:19 PM |
 
 ### Interlude — The Long Game
 
 | # | Scene | PC | Date |
 |---|---|---|---|
-| 42 | [The Long Game](/posts/the-long-game/) | Darius + Sable | Dec 1, 1990, 4:25 PM |
+| 44 | [The Long Game](/posts/the-long-game/) | Darius + Sable | Dec 1, 1990, 4:25 PM |
 
 ### Chapter 10
 
@@ -135,17 +137,17 @@ Published scenes from **Chicago Chronicles** in chronological order.
 
 | # | Scene | PC | Date |
 |---|---|---|---|
-| 43 | [The Diagnostic](/posts/the-diagnostic/) | Darius | Dec 2, 1990, 4:25 PM |
-| 44 | [The Shore Bar](/posts/the-hunt-d025/) | Darius | Dec 3, 1990, 4:25 PM |
-| 45 | [The Spur](/posts/the-spur/) | Darius | Dec 4, 1990, 4:25 PM |
-| 46 | [The Rounds](/posts/the-rounds/) | Sable | Dec 5, 1990, 4:25 PM |
-| 47 | [The Pickup](/posts/the-hunt-s024/) | Sable | Dec 6, 1990, 4:25 PM |
+| 45 | [The Diagnostic](/posts/the-diagnostic/) | Darius | Dec 2, 1990, 4:25 PM |
+| 46 | [The Shore Bar](/posts/the-hunt-d025/) | Darius | Dec 3, 1990, 4:25 PM |
+| 47 | [The Spur](/posts/the-spur/) | Darius | Dec 4, 1990, 4:25 PM |
+| 48 | [The Rounds](/posts/the-rounds/) | Sable | Dec 5, 1990, 4:25 PM |
+| 49 | [The Pickup](/posts/the-hunt-s024/) | Sable | Dec 6, 1990, 4:25 PM |
 
 ### Chapter 11 — The Frequency
 
 | # | Scene | PC | Date |
 |---|---|---|---|
-| 48 | [The Frequency](/posts/the-frequency/) | Sable | Dec 7, 1990, 4:25 PM |
+| 50 | [The Frequency](/posts/the-frequency/) | Sable | Dec 7, 1990, 4:25 PM |
 
 ### Chapter 12 — Baptism by Fire
 
@@ -153,8 +155,8 @@ Published scenes from **Chicago Chronicles** in chronological order.
 
 | # | Scene | PC | Date |
 |---|---|---|---|
-| 49 | [The Archive](/posts/the-archive/) | Darius | Dec 18, 1990, 12:00 AM |
-| 50 | [Baptism by Fire](/posts/baptism-by-fire/) | Darius + Sable | Dec 31, 1990, 9:00 PM |
+| 51 | [The Archive](/posts/the-archive/) | Darius | Dec 18, 1990, 12:00 AM |
+| 52 | [Baptism by Fire](/posts/baptism-by-fire/) | Darius + Sable | Dec 31, 1990, 9:00 PM |
 
 ---
 
@@ -168,9 +170,9 @@ Published scenes from **Chicago Chronicles** in chronological order.
 
 | # | Scene | PC | Date |
 |---|---|---|---|
-| 51 | [Welcome To Chicago](/posts/welcome-to-chicago/) | Darius + Sable | Jan 1, 1991, 4:28 PM |
-| 52 | [Vacant Haven](/posts/vacant-haven/) | Sable | Jan 2, 1991, 4:25 PM |
-| 53 | [Dinner With Ballard](/posts/dinner-with-ballard/) | Darius + Sable | Jan 3, 1991, 4:29 PM |
+| 53 | [Welcome To Chicago](/posts/welcome-to-chicago/) | Darius + Sable | Jan 1, 1991, 4:28 PM |
+| 54 | [Dinner With Ballard](/posts/dinner-with-ballard/) | Darius + Sable | Jan 2, 1991, 4:29 PM |
+| 55 | [Vacant Haven](/posts/vacant-haven/) | Sable | Jan 2, 1991, 9:30 PM |
 
 ---
 
