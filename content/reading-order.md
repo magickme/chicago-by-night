@@ -106,6 +106,7 @@ Published scenes from **Chicago Chronicles** in chronological order.
 | 35 | [The Proxy](/posts/the-proxy/) | Darius | Jul 21, 1990, 8:23 PM |
 | 36 | [The Handshake](/posts/the-handshake/) | Sable | Jul 22, 1990, 8:21 PM |
 | 37 | [The Leash](/posts/the-leash/) | Sable | Jul 23, 1990, 8:20 PM |
+| 38 | [The Mansion](/posts/the-mansion/) | Sable | Jul 24, 1990, 8:19 PM |
 
 ### Chapter 8
 
@@ -113,20 +114,20 @@ Published scenes from **Chicago Chronicles** in chronological order.
 
 | # | Scene | PC | Date |
 |---|---|---|---|
-| 38 | [The Hunger](/posts/the-hunger/) | Darius | Jul 25, 1990, 8:19 PM |
-| 39 | [The Ledger](/posts/the-ledger/) | Darius | Jul 26, 1990, 8:19 PM |
+| 39 | [The Hunger](/posts/the-hunger/) | Darius | Jul 25, 1990, 8:19 PM |
+| 40 | [The Ledger](/posts/the-ledger/) | Darius | Jul 26, 1990, 8:19 PM |
 
 ### Chapter 9 — The Hunt
 
 | # | Scene | PC | Date |
 |---|---|---|---|
-| 40 | [The Hunt](/posts/the-hunt/) | Sable | Jul 28, 1990, 8:19 PM |
+| 41 | [The Hunt](/posts/the-hunt/) | Sable | Jul 28, 1990, 8:19 PM |
 
 ### Interlude — The Long Game
 
 | # | Scene | PC | Date |
 |---|---|---|---|
-| 41 | [The Long Game](/posts/the-long-game/) | Darius + Sable | Dec 1, 1990, 4:25 PM |
+| 42 | [The Long Game](/posts/the-long-game/) | Darius + Sable | Dec 1, 1990, 4:25 PM |
 
 ### Chapter 10
 
@@ -134,17 +135,26 @@ Published scenes from **Chicago Chronicles** in chronological order.
 
 | # | Scene | PC | Date |
 |---|---|---|---|
-| 42 | [The Diagnostic](/posts/the-diagnostic/) | Darius | Dec 2, 1990, 4:25 PM |
-| 43 | [The Shore Bar](/posts/the-hunt-d025/) | Darius | Dec 3, 1990, 4:25 PM |
-| 44 | [The Spur](/posts/the-spur/) | Darius | Dec 4, 1990, 4:25 PM |
-| 45 | [The Rounds](/posts/the-rounds/) | Sable | Dec 5, 1990, 4:25 PM |
-| 46 | [The Pickup](/posts/the-hunt-s024/) | Sable | Dec 6, 1990, 4:25 PM |
+| 43 | [The Diagnostic](/posts/the-diagnostic/) | Darius | Dec 2, 1990, 4:25 PM |
+| 44 | [The Shore Bar](/posts/the-hunt-d025/) | Darius | Dec 3, 1990, 4:25 PM |
+| 45 | [The Spur](/posts/the-spur/) | Darius | Dec 4, 1990, 4:25 PM |
+| 46 | [The Rounds](/posts/the-rounds/) | Sable | Dec 5, 1990, 4:25 PM |
+| 47 | [The Pickup](/posts/the-hunt-s024/) | Sable | Dec 6, 1990, 4:25 PM |
 
 ### Chapter 11 — The Frequency
 
 | # | Scene | PC | Date |
 |---|---|---|---|
-| 47 | [The Frequency](/posts/the-frequency/) | Sable | Dec 7, 1990, 4:25 PM |
+| 48 | [The Frequency](/posts/the-frequency/) | Sable | Dec 7, 1990, 4:25 PM |
+
+### Chapter 12 — Baptism by Fire
+
+*Dec 18, 1990, 12:00 AM through Dec 31, 1990, 9:00 PM.*
+
+| # | Scene | PC | Date |
+|---|---|---|---|
+| 49 | [The Archive](/posts/the-archive/) | Darius | Dec 18, 1990, 12:00 AM |
+| 50 | [Baptism by Fire](/posts/baptism-by-fire/) | Darius + Sable | Dec 31, 1990, 9:00 PM |
 
 ---
 
@@ -158,8 +168,9 @@ Published scenes from **Chicago Chronicles** in chronological order.
 
 | # | Scene | PC | Date |
 |---|---|---|---|
-| 48 | [Welcome To Chicago](/posts/welcome-to-chicago/) | Darius + Sable | Jan 1, 1991, 4:28 PM |
-| 49 | [Dinner With Ballard](/posts/dinner-with-ballard/) | Darius + Sable | Jan 3, 1991, 4:29 PM |
+| 51 | [Welcome To Chicago](/posts/welcome-to-chicago/) | Darius + Sable | Jan 1, 1991, 4:28 PM |
+| 52 | [Vacant Haven](/posts/vacant-haven/) | Sable | Jan 2, 1991, 4:25 PM |
+| 53 | [Dinner With Ballard](/posts/dinner-with-ballard/) | Darius + Sable | Jan 3, 1991, 4:29 PM |
 
 ---
 
