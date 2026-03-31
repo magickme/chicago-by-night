@@ -2,8 +2,6 @@
 title: "Locations"
 hidemeta: true
 ShowToc: false
-build:
-  list: false
 ---
 
 ## Gary, Indiana
@@ -250,6 +248,60 @@ build:
 </div>
 </a>
 </div>
+<div class="character-card">
+<a href="/locations/gold-coast/">
+<div class="character-info">
+<strong>Gold Coast</strong>
+<span class="lineage">Elite district</span>
+<p>Chicago's wealthiest neighborhood. Ventrue territory where old money and older blood keep their addresses private.</p>
+</div>
+</a>
+</div>
+<div class="character-card">
+<a href="/locations/hyde-park/">
+<div class="character-info">
+<strong>Hyde Park</strong>
+<span class="lineage">University district</span>
+<p>University of Chicago's neighborhood. Academic cover for Kindred who prefer libraries to nightclubs.</p>
+</div>
+</a>
+</div>
+<div class="character-card">
+<a href="/locations/tremere-chantry/">
+<div class="character-info">
+<strong>Tremere Chantry</strong>
+<span class="lineage">Clan stronghold</span>
+<p>Chicago's Tremere Chantry. Warded, guarded, and sealed against uninvited guests — living or dead.</p>
+</div>
+</a>
+</div>
+<div class="character-card">
+<a href="/locations/nosferatu-warrens/">
+<div class="character-info">
+<strong>Nosferatu Warrens</strong>
+<span class="lineage">Underground domain</span>
+<p>Khalid's domain beneath the city. Miles of tunnels, forgotten infrastructure, and the information network that knows everything.</p>
+</div>
+</a>
+</div>
+<div class="character-card">
+<a href="/locations/the-sepulcher/">
+<div class="character-info">
+<strong>The Sepulcher</strong>
+<span class="lineage">Hidden chamber</span>
+<p>A sealed chamber beneath Chicago. What it contains is a secret that predates the city itself.</p>
+</div>
+</a>
+</div>
+<div class="character-card">
+<a href="/locations/blue-velvet/">
+<div class="character-info">
+<strong>Blue Velvet</strong>
+<span class="lineage">Nightclub</span>
+<p>Neon and smoke. A nightclub where the Kindred hunt and the mortals never quite realize the danger.</p>
+</div>
+</a>
+</div>
 </div>
 
 ---
@@ -336,6 +388,15 @@ build:
 <strong>The Outlands</strong>
 <span class="lineage">Lupine border territory, patrol zone</span>
 <p>Lupine border territory at the city's edge. The patrol zone where werewolves remind vampires what fear tastes like.</p>
+</div>
+</a>
+</div>
+<div class="character-card">
+<a href="/locations/volo-bog/">
+<div class="character-info">
+<strong>Volo Bog</strong>
+<span class="lineage">Wetland, Lupine territory</span>
+<p>A bog preserve on Milwaukee's edge. Lupine sacred ground where the Garou remind everyone what the food chain looks like.</p>
 </div>
 </a>
 </div>
