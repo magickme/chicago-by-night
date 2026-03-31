@@ -10,8 +10,7 @@ ShowToc: false
 
 This is an anonymous blog to keep it separate from my public identity.
 
-I am a tier-1 autistic / ADHD individual in his mid 40s. I have suffered with chronic depression and complex post-traumatic stress disorder for most of my life, due to a combination of biochemical factors, early life sexual abuse, persistent narcissistic familial abuse, lifelong social isolation, online scapegoating, and the forever-rippling effects of familial suicide. (Don't worry, this is not a call for help. I am happily married now, in therapy, and medicated. I am an adult.)
-
+I am a tier-1 autistic / ADHD individual in his mid 40s. I have suffered with chronic depression and complex post-traumatic stress disorder for most of my life.
 Throughout all of this, tabletop role-playing games have been there for me, especially (but not limited to) White Wolf's World of Darkness games. I love this retarded hobby. When I'm sad, they allow me to go to another universe in my mind, no matter where I am—I simply begin imagining these other worlds in all their complexity and joy. Autism has often made normal socializing so immensely difficult and painful for me that actually playing these games with other people has often been a challenge for me, and so I absolutely treasure the times I am able to, in person or online.
 
 I am putting this up (again, anonymously) because I suspect that a sizable proportion of adults who play these games likely have similar stories.
