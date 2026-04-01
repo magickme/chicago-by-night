@@ -18,9 +18,9 @@ Published scenes from **Chicago Chronicles** in chronological order.
 
 *Gary, Indiana. 1990. Darius Cole (Ventrue 10th) and Sable Price (Toreador 9th) navigate the dying city's seven Kindred, one broken Prince, and the machine underneath it all.*
 
-### Chapter 1 — Gary Sandbox
+### Chapter 1
 
-*Dec 31, 1989, 11:47 PM through Jan 17, 1990, 10:00 PM.*
+*Dec 31, 1989, 11:47 PM through Jun 19, 1990, 9:00 PM.*
 
 | # | Scene | PC | Date |
 |---|---|---|---|
@@ -35,18 +35,20 @@ Published scenes from **Chicago Chronicles** in chronological order.
 | 9 | [The Oasis](/posts/the-oasis/) | Sable | Jan 13, 1990, 11:50 PM |
 | 10 | [The Shipment](/posts/chapter-05-the-shipment/) | Darius | Jan 14, 1990, 11:30 PM |
 | 11 | [Aftermath](/posts/chapter-06-aftermath/) | Darius | Jan 17, 1990, 10:00 PM |
+| 12 | [The Debrief](/posts/the-debrief/) | Darius | Jun 18, 1990, 10:30 PM |
+| 13 | [The Brooch](/posts/the-brooch/) | Darius | Jun 19, 1990, 9:00 PM |
 
 ### Chapter 2 — Convergence
 
 | # | Scene | PC | Date |
 |---|---|---|---|
-| 12 | [February Elysium](/posts/february-elysium/) | Darius + Sable | Feb 2, 1990, 9:00 PM |
+| 14 | [February Elysium](/posts/february-elysium/) | Darius + Sable | Feb 2, 1990, 9:00 PM |
 
 ### Interlude — The Distance
 
 | # | Scene | PC | Date |
 |---|---|---|---|
-| 13 | [The Distance](/posts/bluebooking-the-distance/) | Darius + Sable | Jun 15, 1990 |
+| 15 | [The Distance](/posts/bluebooking-the-distance/) | Darius + Sable | Jun 15, 1990 |
 
 ### Chapter 3 — Blood at Dawn
 
@@ -54,13 +56,11 @@ Published scenes from **Chicago Chronicles** in chronological order.
 
 | # | Scene | PC | Date |
 |---|---|---|---|
-| 14 | [Blood at Dawn, Part 1](/posts/blood-at-dawn-01/) | Darius + Sable | Jun 16, 1990, 10:47 PM |
-| 15 | [Blood at Dawn, Part 2](/posts/blood-at-dawn-02/) | Darius + Sable | Jun 17, 1990, 1:30 AM |
-| 16 | [Blood at Dawn, Part 3](/posts/blood-at-dawn-03/) | Darius + Sable | Jun 17, 1990, 9:00 PM |
-| 17 | [Blood at Dawn, Part 4](/posts/blood-at-dawn-04/) | Darius | Jun 18, 1990, 9:00 PM |
-| 18 | [The Debrief](/posts/the-debrief/) | Darius | Jun 18, 1990, 10:30 PM |
-| 19 | [Blood at Dawn, Part 5](/posts/blood-at-dawn-05/) | Darius | Jun 19, 1990, 11:00 PM |
-| 20 | [The Brooch](/posts/the-brooch/) | Darius | Jun 19, 1990, 9:00 PM |
+| 16 | [Blood at Dawn, Part 1](/posts/blood-at-dawn-01/) | Darius + Sable | Jun 16, 1990, 10:47 PM |
+| 17 | [Blood at Dawn, Part 2](/posts/blood-at-dawn-02/) | Darius + Sable | Jun 17, 1990, 1:30 AM |
+| 18 | [Blood at Dawn, Part 3](/posts/blood-at-dawn-03/) | Darius + Sable | Jun 17, 1990, 9:00 PM |
+| 19 | [Blood at Dawn, Part 4](/posts/blood-at-dawn-04/) | Darius | Jun 18, 1990, 9:00 PM |
+| 20 | [Blood at Dawn, Part 5](/posts/blood-at-dawn-05/) | Darius | Jun 19, 1990, 11:00 PM |
 
 ### Chapter 4 — The Alliance
 
@@ -97,7 +97,7 @@ Published scenes from **Chicago Chronicles** in chronological order.
 
 ### Chapter 7
 
-*Jul 18, 1990, 10:30 PM through Jul 23, 1990, 8:20 PM.*
+*Jul 18, 1990, 10:30 PM through Jul 24, 1990, 8:19 PM.*
 
 | # | Scene | PC | Date |
 |---|---|---|---|
@@ -151,12 +151,12 @@ Published scenes from **Chicago Chronicles** in chronological order.
 
 ### Chapter 12 — Baptism by Fire
 
-*Dec 18, 1990, 12:00 AM through Dec 31, 1990, 9:00 PM.*
+*Dec 18, 1990 through Dec 31, 1990, 9:00 PM.*
 
 | # | Scene | PC | Date |
 |---|---|---|---|
-| 51 | [The Archive](/posts/the-archive/) | Darius | Dec 18, 1990, 12:00 AM |
-| 52 | [Baptism by Fire](/posts/baptism-by-fire/) | Darius + Sable | Dec 31, 1990, 9:00 PM |
+| 51 | [The Archive](/posts/the-archive/) | Darius | Dec 18, 1990 |
+| 52 | [Baptism By Fire](/posts/baptism-by-fire/) | Darius + Sable | Dec 31, 1990, 9:00 PM |
 
 ---
 
@@ -166,13 +166,14 @@ Published scenes from **Chicago Chronicles** in chronological order.
 
 ### Chapter 1 — Ashes to Ashes
 
-*Jan 1, 1991, 4:28 PM through Jan 3, 1991, 4:29 PM.*
+*Oct 15, 1969, 5:53 PM through Jan 2, 1991, 9:30 PM.*
 
 | # | Scene | PC | Date |
 |---|---|---|---|
-| 53 | [Welcome To Chicago](/posts/welcome-to-chicago/) | Darius + Sable | Jan 1, 1991, 4:28 PM |
-| 54 | [Dinner With Ballard](/posts/dinner-with-ballard/) | Darius + Sable | Jan 2, 1991, 4:29 PM |
-| 55 | [Vacant Haven](/posts/vacant-haven/) | Sable | Jan 2, 1991, 9:30 PM |
+| 53 | [At Ease And The Trip](/posts/at-ease-and-the-trip/) | Chronicle | Oct 15, 1969, 5:53 PM |
+| 54 | [Welcome To Chicago](/posts/welcome-to-chicago/) | Darius + Sable | Jan 1, 1991, 4:28 PM |
+| 55 | [Dinner With Ballard](/posts/dinner-with-ballard/) | Darius + Sable | Jan 2, 1991, 4:29 PM |
+| 56 | [Vacant Haven](/posts/vacant-haven/) | Darius + Sable | Jan 2, 1991, 9:30 PM |
 
 ---
 

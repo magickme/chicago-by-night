@@ -10,15 +10,15 @@ menu:
       icon: "dots"
 ---
 
-*Chicago Chronicles. Act II: Ashes and Blood. Updated: **1991-01-03 (Thursday evening)**.*
+*Chicago Chronicles. Act II: Ashes and Blood. Updated: **1991-01-04 (Friday, sleeping)**.*
 
 
 
 ## Coterie Snapshot
 
-- 1991-01-03 (Thursday evening) — Coterie wakes in Lodin's haven (Sears Tower, 107th floor). Haven searched Jan 2 night. Clues gathered: one attacker, ancient blood, master Dominate, Roarke (dead retainer), map to woods NW of Chicago, pendant with living connection, Natasha memory-wiped. Critias (Brujah Primogen) observed the investigation. Belthazar watchdog. Deadline: TONIGHT. Weapons in Cutlass trunk, Museum Campus lot.
-- Scenes played: Darius 29, Sable 29 (58 total + timeskip bluebook Aug-Nov + Dec timeskip). PCs met at Feb 2 Elysium. **COTERIE FORMED (S019, July 22).**
-- Scene-note inventory: Darius 29, Sable 29 (58 total on disk).
+- 1991-01-04 (Friday, sleeping) — Coterie at Starlite Motel, Room 9 (South Side). Torpored Methuselah body in bathtub. Belthazar staked on Wacker Drive (Neon guarding). Deadline EXPIRED. Investigation advanced: Roarke IDed as cult leader/Ghoulie Man, body recovered from Standdown's facility, research notes + tapes secured, evidence destroyed. Next: Hell's Pasture (woods NW) to find Lodin. Villain's Flashback (1969 London) IN PROGRESS — Scenes 1-2 complete, Scene 3 (Settling In) next.
+- Scenes played: Darius 30, Sable 30 (60 total + timeskip bluebook Aug-Nov + Dec timeskip). PCs met at Feb 2 Elysium. **COTERIE FORMED (S019, July 22).**
+- Scene-note inventory: Darius 30, Sable 30 (60 total on disk).
 - Sunset: 4:28 PM CST. Sunrise: 7:06 AM CST. Darkness: ~14.5 hours (early January).
 - Communications: Chicago protocol seeded. Tue/Fri 11 PM remains the default check-in window, using rotating nodes instead of a fixed haven line. If one node feels watched, move immediately to the next. Horace contact: The Cave, ask for Fred, "chess tournament."
 
@@ -27,22 +27,22 @@ menu:
 | Clock | Level | Status |
 |---|---|---|
 | Allicia Alliance | 6/6 | COMPLETE. Erichtho evaluation done. Carna path active. Allicia in Gary. |
+| Ashes to Ashes Progress | 5/6 | S030: Roarke IDed as cult leader. Body recovered from Standdown. Research secured. Reporter intel. Next: Hell's Pasture. |
 | Dane Identifies Darius | 5/6 | Active hunt. Saw BbF attendees, got plates. In Gary or following. |
 | Torch/Rack Heat | 5/6 | Stabilized. Webb proxy. Dormant while PCs away. |
 | Modius Internal Audit | 4/6 | Blood-taste bomb. Allicia. Offscreen while PCs in Chicago. |
 | Modius Leash (Sable) | 4/6 | Sent first. More expendable or more useful. |
-| Ashes to Ashes Progress | 3/6 | Haven searched (S029). Clues: one attacker, ancient blood, Roarke, woods map, pendant. Critias involved. Deadline tonight (Jan 3). |
 | Docks Heat | 3/6 | Pipeline on autopilot. Eddie granite. |
 | Modius Leash (Darius) | 2/6 | Emissary mission = continued obligation at distance. |
 | Sharon's Vendetta | 2/6 | Proxy Halloran → Warwick → law firm. Sharon is IN CHICAGO. |
-| Anarch Tension | 0/6 | Gengis vs Damien. Brewery. Reform vs revolution. |
+| Anarch Tension | 1/6 | S030: Damien staked Sheriff Belthazar. Coterie interacted with Anarch faction. |
+| Hunter Convergence (Chicago) | 1/6 | S030: PCs encountered Standdown. Evidence destroyed but he lives with "body walked away." Shepard connected. |
+| Masquerade Heat (Chicago) | 1/6 | S030: botched Forgetful Mind on ghoul driver (fragments), sleeping cops, reporter contact, body moved on streets. |
+| Methuselah War | 1/6 HIDDEN | S030: Coterie possesses Menele's torpored body (unknowingly). Jyhad infrastructure disrupted. |
 | Blood Bond Web | 0/6 | Every sip tracked: Lodin (forced), Methuselah vial, Jefferson (Act III), Allicia carryover. |
 | Chuc Luc's Chicago Operations | 0/6 | Pipeline expansion into Capone's territory. |
 | Cover Story Exposure (Chicago) | 0/6 | Warren Birch fiction meets Chicago Auspex. Darius 10th claiming 12th. |
-| Hunter Convergence (Chicago) | 0/6 | Shepard, Dane (if follows), Society of Leopold, Standdown. |
 | Lodin's Grip | 0/6 | Forced Bond. Assignments. Surveillance. Intensifies after rescue. |
-| Masquerade Heat (Chicago) | 0/6 | Fresh start. Chicago is bigger — more witnesses, more cover. |
-| Methuselah War | 0/6 HIDDEN | Helena vs Menele. Proxy moves only. PCs unaware. |
 | Primogen Power Plays | 0/6 | Annabelle, Critias, Tyler, Nicolai — each has an agenda. |
 | Sabbat Infiltration | 0/6 LATENT | Phillipe Rigaud and Wendy Wade embedded. Activates Act III. |
 | Succubus Club Heat | 0/6 | Club as focal point. Helena's basement. Every thread passes through. |
@@ -72,7 +72,7 @@ menu:
 | Thread | Status |
 |---|---|
 | Modius's mission: deliver reply (2x) | DELIVERED. Letter given to Neally. Now under Ballard's assignment. |
-| Ashes to Ashes: find the Prince (2x) | ACTIVE. Haven searched (S029). Clues: Roarke, ancient blood, woods map, pendant. Deadline Jan 3 night. |
+| Ashes to Ashes: find the Prince (2x) | ADVANCED (5/6). Roarke IDed. Body recovered. Standdown wiped. Next: Hell's Pasture for Lodin. |
 | Cover story under new scrutiny (2x) | OPEN. Warren Birch built for Gary. Chicago has 100 Kindred with Auspex. Critias now aware of coterie. |
 | Chuc Luc's expanded pipeline (2x) | OPEN. Sire operates from Chinatown. Capone's territory. Conflict of interest. |
 | Succubus Club politics (2x) | OPEN. Social center of Chicago Kindred. Every thread crosses here. |
@@ -85,7 +85,7 @@ menu:
 | Thread | Weight | Status |
 |---|---|---|
 | Modius's mission: deliver reply | 2x | DELIVERED. Letter given to Neally. Under Ballard's assignment. |
-| Ashes to Ashes: find the Prince | 2x | ACTIVE. Haven searched (S029). Clues: Roarke, ancient blood, woods map, pendant. Deadline Jan 3 night. |
+| Ashes to Ashes: find the Prince | 2x | ADVANCED (5/6). Roarke IDed. Body recovered. Standdown wiped. Next: Hell's Pasture for Lodin. |
 | Sharon Payne's vendetta | 3x | ESCALATED. Sharon is IN CHICAGO. Proxy chain: Halloran → Warwick → law firm. Sable entering her territory. |
 | Succubus Club politics | 2x | OPEN. Natural habitat for Toreador. Helena's basement. |
 | Annabelle's manipulations | 2x | OPEN. Toreador elder, collects neonates. Sable's clan. |
