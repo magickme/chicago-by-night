@@ -174,7 +174,7 @@ Published scenes from **Chicago Chronicles** in chronological order.
 | 54 | [Dinner With Ballard](/posts/dinner-with-ballard/) | Darius + Sable | Jan 2, 1991, 4:29 PM |
 | 55 | [Vacant Haven](/posts/vacant-haven/) | Darius + Sable | Jan 2, 1991, 9:30 PM |
 
-### Chapter 2 — Villain's Flashback
+### Chapter 2 — Pawns in the Game
 
 *London, 1969. The player controls Roarke, leader of Lodin's mortal retainers.*
 
