@@ -66,7 +66,7 @@ ShowToc: false
 </div>
 <div class="character-card">
 <a href="/npcs/chuc-luc/">
-<div class="no-portrait"></div>
+<img src="/npcs/chuc-luc/cover.webp" alt="Chuc Luc" loading="lazy">
 <div class="character-info">
 <strong>Chuc Luc</strong>
 <span class="lineage">Ventrue, 9th generation</span>
@@ -75,7 +75,7 @@ ShowToc: false
 </div>
 <div class="character-card">
 <a href="/npcs/claudette-mallet/">
-<div class="no-portrait"></div>
+<img src="/npcs/claudette-mallet/cover.webp" alt="Claudette Mallet" loading="lazy">
 <div class="character-info">
 <strong>Claudette Mallet</strong>
 <span class="lineage">Brujah, 10th generation</span>
@@ -84,7 +84,7 @@ ShowToc: false
 </div>
 <div class="character-card">
 <a href="/npcs/crystal-spinner/">
-<div class="no-portrait"></div>
+<img src="/npcs/crystal-spinner/cover.webp" alt="Crystal Spinner" loading="lazy">
 <div class="character-info">
 <strong>Crystal Spinner</strong>
 <span class="lineage">Mage (Hollow Ones), N/Ath generation</span>
@@ -102,7 +102,7 @@ ShowToc: false
 </div>
 <div class="character-card">
 <a href="/npcs/gloria-serrano/">
-<div class="no-portrait"></div>
+<img src="/npcs/gloria-serrano/cover.webp" alt="Gloria Serrano" loading="lazy">
 <div class="character-info">
 <strong>Gloria Serrano</strong>
 <span class="lineage">Mortal, N/Ath generation</span>
@@ -129,7 +129,7 @@ ShowToc: false
 </div>
 <div class="character-card">
 <a href="/npcs/john-wierus/">
-<div class="no-portrait"></div>
+<img src="/npcs/john-wierus/cover.webp" alt="John Wierus" loading="lazy">
 <div class="character-info">
 <strong>John Wierus</strong>
 <span class="lineage">Mortal (sorcerer), N/Ath generation</span>
@@ -156,7 +156,7 @@ ShowToc: false
 </div>
 <div class="character-card">
 <a href="/npcs/marlene-voss/">
-<div class="no-portrait"></div>
+<img src="/npcs/marlene-voss/cover.webp" alt="Marlene Voss" loading="lazy">
 <div class="character-info">
 <strong>Marlene Voss</strong>
 <span class="lineage">Mortal, N/Ath generation</span>
@@ -183,7 +183,7 @@ ShowToc: false
 </div>
 <div class="character-card">
 <a href="/npcs/ray-pulaski/">
-<div class="no-portrait"></div>
+<img src="/npcs/ray-pulaski/cover.webp" alt="Ray Pulaski" loading="lazy">
 <div class="character-info">
 <strong>Ray Pulaski</strong>
 <span class="lineage">Mortal, N/Ath generation</span>
@@ -201,7 +201,7 @@ ShowToc: false
 </div>
 <div class="character-card">
 <a href="/npcs/spoon-antoine/">
-<div class="no-portrait"></div>
+<img src="/npcs/spoon-antoine/cover.webp" alt="Spoon (Antoine)" loading="lazy">
 <div class="character-info">
 <strong>Spoon (Antoine)</strong>
 <span class="lineage">Mortal (Blood Bond Step 2 + Entranced), N/Ath generation</span>
@@ -237,7 +237,7 @@ ShowToc: false
 </div>
 <div class="character-card">
 <a href="/npcs/williams/">
-<div class="no-portrait"></div>
+<img src="/npcs/williams/cover.webp" alt="Williams" loading="lazy">
 <div class="character-info">
 <strong>Williams</strong>
 <span class="lineage">Ghoul, N/Ath generation</span>
@@ -381,7 +381,7 @@ ShowToc: false
 </div>
 <div class="character-card">
 <a href="/npcs/dr-angela-hernandez/">
-<div class="no-portrait"></div>
+<img src="/npcs/dr-angela-hernandez/cover.webp" alt="Dr. Angela Hernandez" loading="lazy">
 <div class="character-info">
 <strong>Dr. Angela Hernandez</strong>
 <span class="lineage">Mage (Iteration X), N/Ath generation</span>
@@ -579,7 +579,7 @@ ShowToc: false
 </div>
 <div class="character-card">
 <a href="/npcs/keisha-williams/">
-<div class="no-portrait"></div>
+<img src="/npcs/keisha-williams/cover.webp" alt="Keisha Williams" loading="lazy">
 <div class="character-info">
 <strong>Keisha Williams</strong>
 <span class="lineage">Mortal, N/Ath generation</span>
@@ -687,7 +687,7 @@ ShowToc: false
 </div>
 <div class="character-card">
 <a href="/npcs/ms-okonkwo/">
-<div class="no-portrait"></div>
+<img src="/npcs/ms-okonkwo/cover.webp" alt="Ms. Okonkwo" loading="lazy">
 <div class="character-info">
 <strong>Ms. Okonkwo</strong>
 <span class="lineage">Mortal, N/Ath generation</span>
@@ -894,7 +894,7 @@ ShowToc: false
 </div>
 <div class="character-card">
 <a href="/npcs/the-jade-demon/">
-<div class="no-portrait"></div>
+<img src="/npcs/the-jade-demon/cover.webp" alt="The Jade Demon" loading="lazy">
 <div class="character-info">
 <strong>The Jade Demon</strong>
 <span class="lineage">Mage (Akashic Brotherhood — fallen), N/Ath generation</span>
@@ -1569,7 +1569,7 @@ ShowToc: false
 </div>
 <div class="character-card">
 <a href="/npcs/tomas/">
-<div class="no-portrait"></div>
+<img src="/npcs/tomas/cover.webp" alt="Tomas" loading="lazy">
 <div class="character-info">
 <strong>Tomas</strong>
 <span class="lineage">Brujah antitribu, 11th generation</span>
@@ -1650,7 +1650,7 @@ ShowToc: false
 <div class="character-grid">
 <div class="character-card">
 <a href="/npcs/justin-stone/">
-<div class="no-portrait"></div>
+<img src="/npcs/justin-stone/cover.webp" alt="Justin Stone" loading="lazy">
 <div class="character-info">
 <strong>Justin Stone</strong>
 <span class="lineage">Gangrel, 10th generation</span>
@@ -1668,7 +1668,7 @@ ShowToc: false
 <div class="character-grid">
 <div class="character-card">
 <a href="/npcs/baron-vulture/">
-<div class="no-portrait"></div>
+<img src="/npcs/baron-vulture/cover.webp" alt="Baron Vulture" loading="lazy">
 <div class="character-info">
 <strong>Baron Vulture</strong>
 <span class="lineage">Gangrel, Unknown (elder)th generation</span>
