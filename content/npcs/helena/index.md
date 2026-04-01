@@ -18,7 +18,7 @@ ShowToc: false
 </div>
 </div>
 
-Toreador Methuselah. Childe of Minos. 4th generation via diablerie. Three thousand two hundred years old. Even just coming out of torpor, one of the most beautiful creatures in existence. She still has dirt in her hair. Goes by the name Portia. **Conscience 0.** Willpower 10. Humanity 5.
+Toreador Methuselah. Childe of Minos. 4th generation via diablerie. Three thousand two hundred years old. Even just coming out of torpor, one of the most beautiful creatures in existence. She still has dirt in her hair. Goes by the name [Portia](/npcs/portia/). **Conscience 0.** Willpower 10. Humanity 5.
 
 Dominate 8 (without eye contact — only needs to know the target's location; can "lock out" other Dominations by adding 3 to target's Willpower against new commands; can Dominate multiple people simultaneously), Auspex 7 (sense over vast area as if looking from high above; locate anyone she knows), Celerity 5, Presence 5, Fortitude 5, Obfuscate 5, Potence 4, Thaumaturgy 3. Manipulation 8. Appearance 5 (8 when fully recovered).
 
@@ -28,7 +28,7 @@ Weakened from torpor. Stats in parentheses are her full recovered values — pro
 
 Around 1200 B.C., Helena was the most beautiful of Achaean women. Favorite daughter of the king of the coastal city of Argos. Then Minos came to visit — an ancient, horribly ugly Kindred who fell in love with her immediately. When Helena begged her father to drive the creature out, she watched his eyes glaze over as he told her she was going to marry the old man. She fled the palace with a single handmaiden.
 
-On the shore of the Aegean she met Prince Prias — the most beautiful man she had ever seen. He convinced her to flee to his city in Asia Minor, where his family was one of the most noble houses in that part of the world. For ten years they lived happily.
+On the shore of the Aegean she met Prince [Prias](/npcs/prias/) — the most beautiful man she had ever seen. He convinced her to flee to his city in Asia Minor, where his family was one of the most noble houses in that part of the world. For ten years they lived happily.
 
 Then Minos tracked them down. Her horrible suspicions that he was not human proved correct. He tore through Prias's ancestral home like mice against an elephant, hurled Prias through a wall, and seized Helena.
 
@@ -62,7 +62,7 @@ When Helena fell into torpor at Fort Dearborn, Prias stopped feeding on her bloo
 
 Helena and Prias reached Carthage just as the Brujah were raising it to its greatest glory. At first they fought for Carthage. Then they saw who the winners would be. They fled to Rome and gave the Ventrue the intelligence they needed to destroy the city. In exchange, Helena received the fief of Pompeii.
 
-Menele discovered the betrayal and swore vengeance. He tracked her to Pompeii and summoned a spirit of fire. The eruption buried the city. Helena survived through Prias's aid. They fled to Egypt.
+[Menele](/npcs/menele/) discovered the betrayal and swore vengeance. He tracked her to Pompeii and summoned a spirit of fire. The eruption buried the city. Helena survived through Prias's aid. They fled to Egypt.
 
 ## The Conquistadors
 
@@ -88,17 +88,17 @@ Both Methuselahs fell into torpor. Prias carried Helena to a place of safety und
 
 ## The Sleeping War — Chicago
 
-Even in torpor, Helena used Auspex and Dominate to fight. She controlled soldiers in the fort, then settlers, then civilians as Chicago grew. When she discovered Menele had already begun work in the city and controlled the Prince, she found a new pawn — Lodin. She caused Chicago's Malkavians to light the Great Fire of 1871, destroying many of Menele's pieces. Lodin defeated Prince Maxwell and took praxis. Helena's puppet sat on Chicago's throne.
+Even in torpor, Helena used Auspex and Dominate to fight. She controlled soldiers in the fort, then settlers, then civilians as Chicago grew. When she discovered Menele had already begun work in the city and controlled the Prince, she found a new pawn — [Lodin](/npcs/lodin/). She caused Chicago's Malkavians to light the Great Fire of 1871, destroying many of Menele's pieces. Lodin defeated Prince [Maxwell](/npcs/maxwell/) and took praxis. Helena's puppet sat on Chicago's throne.
 
-## The Succubus Club
+## The [Succubus Club](/locations/succubus-club/)
 
-As Helena began to shrug off torpor, she telepathically contacted Prias. He found Brennon Thornhill — a rich drug dealer — and used Domination to convince him to open a nightclub directly above her resting place. May 23, 1982: the Succubus Club opened. Construction workers who excavated the earth above Helena were Dominated by Maria, then killed.
+As Helena began to shrug off torpor, she telepathically contacted Prias. He found [Brennon Thornhill](/npcs/brennon-thornhill/) — a rich drug dealer — and used Domination to convince him to open a nightclub directly above her resting place. May 23, 1982: the Succubus Club opened. Construction workers who excavated the earth above Helena were Dominated by Maria, then killed.
 
 Helena clawed her way through the earth, sucking what little vitae she could from worms and maggots. Met at the top by Maria — her own childe, 5th generation, the most powerful Toreador in Chicago for decades. Helena promptly slew her. First feeding upon waking. No hesitation.
 
 She collapsed back into torpor for another month. When she came to her senses, Prias stood next to her. She entered the Succubus Club for the first time.
 
-The haven beneath the club is defended in depth: Kevin Jackson's gang members near the entrance (automatics, memory-wiped), a secret door requiring Perception + Alertness of 9, a ghoul scorpion named **Hecabe** fed on 4th-gen blood since Pompeii (grown to the size of a house cat, poison causes aggravated wounds to Kindred), a six-inch steel vault door, a decoy vial of drugged blood, a pressure-plate scythe trap, electrified crawlspace, and the well itself.
+The haven beneath the club is defended in depth: [Kevin Jackson](/npcs/kevin-jackson/)'s gang members near the entrance (automatics, memory-wiped), a secret door requiring Perception + Alertness of 9, a ghoul scorpion named **Hecabe** fed on 4th-gen blood since Pompeii (grown to the size of a house cat, poison causes aggravated wounds to Kindred), a six-inch steel vault door, a decoy vial of drugged blood, a pressure-plate scythe trap, electrified crawlspace, and the well itself.
 
 ## The Portia Identity
 
@@ -112,15 +112,15 @@ No Kindred in Chicago knows Maria is dead. All Toreador are very interested in w
 
 **Prias** — her ghoul-lover for three millennia. All attributes at 5. Melee 7. He possesses the Carthaginian silver sword. He operates independently, cultivating allies. He has killed a number of Chicago's Kindred on both sides of the Jyhad. He still has some of their blood in storage.
 
-**Tyler / Patricia** — born 1352, Embraced 1381 by Robin Leeland (7th gen Brujah). 6th generation after diablerizing a Ventrue Elder in Spain — the event that triggered the Anarch Revolt. Helena sensed her in Cartagena and "immediately recognized her potential as an assassin of Vampires." Thirty years of manipulation, then Blood Bond. Called to Chicago in the early 1900s. Receives orders through telepathy. Ordered to stay away from the Succubus Club so no one recognizes her. During the Council Wars, Tyler slew a 6th-generation descendant of Critias who refused to end his support of Maldavis.
+**[Tyler](/npcs/tyler/) / Patricia** — born 1352, Embraced 1381 by Robin Leeland (7th gen Brujah). 6th generation after diablerizing a Ventrue Elder in Spain — the event that triggered the Anarch Revolt. Helena sensed her in Cartagena and "immediately recognized her potential as an assassin of Vampires." Thirty years of manipulation, then Blood Bond. Called to Chicago in the early 1900s. Receives orders through telepathy. Ordered to stay away from the Succubus Club so no one recognizes her. During the Council Wars, Tyler slew a 6th-generation descendant of [Critias](/npcs/critias/) who refused to end his support of [Maldavis](/npcs/maldavis/).
 
-**Tyler → Juggler** — Helena Blood-Bonded Tyler to Juggler, making Juggler believe the Bond was his own idea. She developed Juggler's potential as an Anarch leader.
+**Tyler → [Juggler](/npcs/juggler/)** — Helena Blood-Bonded Tyler to Juggler, making Juggler believe the Bond was his own idea. She developed Juggler's potential as an Anarch leader.
 
-**Nicolai** — Tremere Regent. Thoroughly controlled by Helena. The only reason he has not stood for Clan Justicar.
+**[Nicolai](/npcs/nicolai/)** — Tremere Regent. Thoroughly controlled by Helena. The only reason he has not stood for Clan Justicar.
 
 **Brennon Thornhill** — Ventrue, Succubus Club owner. Helena led Lodin to Embrace him. Unconsciously serves as her main protector. Beginning to suspect his decisions were not his own.
 
-**Annabelle Triabell** — Helena believes she controls Annabelle through Domination, having taken her during the Council Wars. Central to Helena's understanding of the power structure.
+**[Annabelle Triabell](/npcs/annabelle-triabell/)** — Helena believes she controls Annabelle through Domination, having taken her during the Council Wars. Central to Helena's understanding of the power structure.
 
 **Maria** — 5th gen childe. Slain upon Helena's awakening. No one knows she is dead.
 
@@ -134,4 +134,4 @@ No Kindred in Chicago knows Maria is dead. All Toreador are very interested in w
 
 **Nature:** Plotter. **Demeanor:** Bon Vivant.
 
-**Lineage:** Helena → Minos (3rd gen, destroyed via Amaranth) → unknown Toreador Antediluvian. Downward: Helena → Maria (5th, destroyed) → Annabelle (6th) → Sharon/Michael Payne (8th/9th). Helena → Francois Villon (5th, Prince of Paris). Helena → Marie Galbraith (5th, Mexico).
+**Lineage:** Helena → Minos (3rd gen, destroyed via Amaranth) → unknown Toreador Antediluvian. Downward: Helena → Maria (5th, destroyed) → Annabelle (6th) → [Sharon](/npcs/sharon-payne/)/[Michael](/npcs/michael/) Payne (8th/9th). Helena → Francois Villon (5th, Prince of Paris). Helena → Marie Galbraith (5th, Mexico).

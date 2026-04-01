@@ -9,24 +9,32 @@ ShowToc: false
 <img class="character-portrait" src="cover.webp" alt="Inyanga">
 <div class="character-stats">
 <dl>
-<dt>Clan</dt><dd>Gangrel</dd>
+<dt>Clan</dt><dd>Gangrel (cover — actually Laibon)</dd>
 <dt>Generation</dt><dd>6th generation</dd>
-<dt>Role</dt><dd>Gangrel Primogen</dd>
+<dt>Role</dt><dd>Gangrel Primogen / pipeline operator</dd>
 <dt>City</dt><dd>Chicago</dd>
 </dl>
 </div>
 </div>
 
-Not Gangrel. Laibon — an African vampire operating under Kindred cover. She has been covertly colonizing the New World with Laibon for an unknown period, smuggling them in through established trade routes and letting the Camarilla assume they are Gangrel immigrants.
+Not Gangrel. Laibon — an African vampire operating under Kindred cover. She has been covertly colonizing the New World with Laibon for an unknown period, smuggling them in through established trade routes and letting the Camarilla assume they are Gangrel immigrants. Her strange abilities — the Leopard Form, her rapport with African werecats, her survival instincts that read as preternatural even by elder standards — derive from her Laibon heritage, a tradition with its own cosmology and disciplines that predates the Camarilla by millennia.
 
-Co-operates the "Psychopomp" — an underground shuttle running between Milwaukee and Chicago — with Prince [Mark Decker](/npcs/mark-decker/). The Goblin Roads between the two cities cut through Lupine-haunted wasteland: cornfields that whisper at frequencies below human hearing, roadside memorials where esoteric blood offerings must be laid for safe passage. Travel without the ritual is suicide.
+## Pipeline Role
 
-[Lucian](/npcs/lucian/) imports Laibon through the Gary Export Company on her behalf. The docklands are the entry point; Gary is the staging ground.
+Inyanga touches every node on the Great Lakes corridor:
 
-Brokered the truce with the werewolves after the events of Under a Blood Red Moon. Whatever she offered the Lupines, she has never disclosed it.
+- **Gary docks:** [Lucian](/npcs/lucian/) imports Laibon through the Gary Export Company on her behalf. The docklands are the entry point; Gary is the staging ground.
+- **Chicago-Milwaukee Psychopomp:** Co-operates the underground shuttle with Prince [Mark Decker](/npcs/mark-decker/). The Goblin Roads between the two cities cut through Lupine-haunted wasteland: cornfields that whisper at frequencies below human hearing, roadside memorials where esoteric blood offerings must be laid for safe passage. Travel without the ritual is suicide.
+- **Gangrel mobilization:** If word comes from Inyanga, every Gangrel in Chicago listens. In very short order the entire clan can be mobilized.
 
-"Her strange abilities" — the Leopard Form, her rapport with African werecats, her survival instincts that read as preternatural even by elder standards — are attributed by other Kindred to mortal mysticism or some obscure Gangrel bloodline. They actually derive from her Laibon heritage, a tradition with its own cosmology and disciplines that predates the Camarilla by millennia.
+She is the connective tissue between the water axis (Atlantic → Kingston → Gary → Chicago) and the north-south axis (Chicago → Milwaukee). Every major transit operation in the region passes through infrastructure she controls or influences.
+
+## The Deeper Game
+
+Brokered the truce with the werewolves after Under a Blood Red Moon. Whatever she offered the Lupines, she has never disclosed it.
 
 Can calm Xaviar, the former Gangrel Justicar, with a single word. The nature of their bond is unclear, but it predates his departure from the sect.
 
-Controlled by [Menele](/npcs/menele/) through extended Domination. She does not know this. Her decisions, loyalties, and strategic instincts are shaped by a Methuselah she has never consciously met.
+In the V20 era, Inyanga pursued [the Heart](/locations/the-heart/) of Osiris — a Coptic jar whose power could awaken an ancient Methuselah at full strength. Beckett confronted her directly: "You're not actually a Gangrel, are you, Mother Inyanga?" She responded ambiguously.
+
+Controlled by [Menele](/npcs/menele/) through extended Domination. She does not know this. Her decisions, loyalties, and strategic instincts are shaped by a Methuselah she has never consciously met. The pipeline is Menele's circulatory system, and Inyanga is its heart.

@@ -7,7 +7,7 @@ ShowToc: false
 <div class="character-profile">
 <div class="character-stats">
 <dl>
-<dt>Type</dt><dd>Ghoul (Menele's network)</dd>
+<dt>Type</dt><dd>Ghoul ([Menele](/npcs/menele/)'s network)</dd>
 <dt>Role</dt><dd>Operative / assassin</dd>
 <dt>City</dt><dd>London / Chicago</dd>
 <dt>Era</dt><dd>1969 flashback</dd>
@@ -17,7 +17,7 @@ ShowToc: false
 
 The man in the lavender tie. American suit, American shoes, American tan. The professional stillness of someone who already knows how the evening ends and is letting the clock run.
 
-Quinn is a mortal agent in Menele's network — likely the ghoul of one of the Methuselah's distant progeny. He carries a vial of 4th-generation Brujah vitae, old enough to taste like time. His mission in London was not about the Book of Nod. It was about turning Roarke into a delayed-action weapon against Lodin, and by extension against Helena.
+Quinn is a mortal agent in Menele's network — likely the ghoul of one of the Methuselah's distant progeny. He carries a vial of 4th-generation Brujah vitae, old enough to taste like time. His mission in London was not about the Book of Nod. It was about turning [Roarke](/npcs/roarke/) into a delayed-action weapon against [Lodin](/npcs/lodin/), and by extension against [Helena](/npcs/helena/).
 
 ## The London Operation (October 1969)
 
@@ -33,6 +33,6 @@ Then he uncorked a vial of ancient blood and fed it to the dying man. Not enough
 
 Roarke woke up transformed. Returned to Chicago consumed with justified rage against Lodin. Took up with the Anarchs — Menele's people. A dying Anarch led him to a torpored Methuselah in a basement. Roarke thought he had found leverage. He thought the revenge was his own idea.
 
-It wasn't. The blood Quinn fed him created a proto-Bond. The Anarchs who sheltered Roarke were Menele's network. The Anarch who revealed the torpid body was nudged by Menele's psychic communion. Roarke's cult, his powers, his assault on Lodin's Haven — all of it served one purpose: removing Helena's puppet-Prince from the board.
+It wasn't. The blood Quinn fed him created a proto-Bond. The Anarchs who sheltered Roarke were Menele's network. The Anarch who revealed the torpid body was nudged by Menele's psychic communion. Roarke's cult, his powers, his assault on [Lodin's Haven](/locations/lodins-haven/) — all of it served one purpose: removing Helena's puppet-Prince from the board.
 
 Quinn's single surgical strike in 1969 produced Lodin's kidnapping on New Year's Eve 1990. One move in a four-thousand-year chess game. The puppet never felt the strings because the strings were woven from his own desires.

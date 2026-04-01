@@ -19,8 +19,8 @@ Silver-haired. The posture of a man who has been opening doors for important peo
 
 Pershing is [Lady Anne](/npcs/lady-anne/)'s butler at her gothic mansion south of London. He greets [Lodin](/npcs/lodin/) at the front door and pays absolutely no attention to the retainers. He leads the ghouls down a corridor lined with portraits painted by someone who understood what power looks like when it sits still, then deposits them in a game room with billiards, chess, decanters, and leather chairs — the kind of room designed to keep people comfortable and irrelevant at the same time.
 
-When Lodin's business concludes, Pershing opens the door without knocking and informs the retainers that their master is finished. No small talk. No acknowledgment that they are people rather than luggage.
+When [Lodin](/npcs/lodin/)'s business concludes, Pershing opens the door without knocking and informs the retainers that their master is finished. No small talk. No acknowledgment that they are people rather than luggage.
 
-He coughs strategically when the retainers pause in the hallway to eavesdrop on Lady Anne's conversation with Lodin.
+He coughs strategically when the retainers pause in the hallway to eavesdrop on [Lady Anne](/npcs/lady-anne/)'s conversation with Lodin.
 
 Nature: Loner. Demeanor: Caretaker.

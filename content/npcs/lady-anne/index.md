@@ -23,7 +23,7 @@ In October 1969, [Lodin](/npcs/lodin/) flew from Chicago to London to meet with 
 
 When [Lodin](/npcs/lodin/) arrives, [Pershing](/npcs/pershing/) greets him at the door. The retainers hear a fragment of conversation through a closed door:
 
-*"So, Prince Lodin, I'm very glad you have arrived. Did you encounter any problems during your journey?"*
+*"So, Prince [Lodin](/npcs/lodin/), I'm very glad you have arrived. Did you encounter any problems during your journey?"*
 
 *"None, my Lady, that troubled me to any degree."*
 

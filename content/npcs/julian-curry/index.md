@@ -17,7 +17,7 @@ ShowToc: false
 
 Age 36 in 1969. Born 1933. Stands 5'6", slightly overweight, thinning hair that makes him look older than he is. Fond of mohair cardigans.
 
-Manages all of [Lodin](/npcs/lodin/)'s financial affairs. Lodin stole him from Chase Manhattan Bank with a salary no mortal employer could match and a side benefit beyond price — immortal life through the blood. Proud of his education and upper-class upbringing. A lover of classical music who clashes constantly with [Derek](/npcs/derek-gallen/) and [Amber](/npcs/amber/) over the radio.
+Manages all of [Lodin](/npcs/lodin/)'s financial affairs. [Lodin](/npcs/lodin/) stole him from Chase Manhattan Bank with a salary no mortal employer could match and a side benefit beyond price — immortal life through the blood. Proud of his education and upper-class upbringing. A lover of classical music who clashes constantly with [Derek](/npcs/derek-gallen/) and [Amber](/npcs/amber/) over the radio.
 
 Recently disowned by his mother — a secret he keeps from the others. The family status that once defined him is now a wound he carries in private.
 

@@ -38,9 +38,9 @@ A Brujah named Altamira told Menele of a place where Kindred and kine lived toge
 
 Menele was entranced. It was the embodiment of all his hopes and dreams.
 
-He found Carthage to be everything Altamira had promised. As an experienced diplomat and famed orator, Menele became Carthage's envoy, trying to enlist Gangrel and Nosferatu support. He drew new Toreadors to the city — including the beautiful and powerful Helena.
+He found Carthage to be everything Altamira had promised. As an experienced diplomat and famed orator, Menele became Carthage's envoy, trying to enlist Gangrel and Nosferatu support. He drew new Toreadors to the city — including the beautiful and powerful [Helena](/npcs/helena/).
 
-Helena betrayed Carthage. She and Prias fled to Rome and gave the Ventrue the intelligence they needed to destroy the city. The legions salted the earth. They burned the library — over half a million volumes. Almost all the Brujah were destroyed.
+Helena betrayed Carthage. She and [Prias](/npcs/prias/) fled to Rome and gave the Ventrue the intelligence they needed to destroy the city. The legions salted the earth. They burned the library — over half a million volumes. Almost all the Brujah were destroyed.
 
 Menele was away when it happened, trying to recruit help from the Gangrels of southern Africa. He returned to find only ruins. Unable to believe these were all that remained, he fled into the wilds of Western Europe, forswearing cities and civilization forever. He was the sole 4th-generation Brujah to survive the massacre.
 
@@ -62,7 +62,7 @@ Helena survived through Prias's aid. They fled to Egypt. For over 1,300 years, t
 
 In a climactic battle near Agincourt, France, in 1415, Menele was dealt a near-fatal blow. He escaped with the aid of a force of knights he controlled. Phoenician legends of a land to the west prompted him to trick Helena into thinking he was destroyed. Trusted retainers carried his body aboard a specially prepared ship which sailed westward.
 
-Critias — his childe, who did not know his sire still existed — had been compelled through the Blood Bond to finance a secret voyage by a sea-captain who believed the world was round. Critias never heard from the captain again. He had unknowingly funded his sire's escape.
+[Critias](/npcs/critias/) — his childe, who did not know his sire still existed — had been compelled through the Blood Bond to finance a secret voyage by a sea-captain who believed the world was round. Critias never heard from the captain again. He had unknowingly funded his sire's escape.
 
 ## The New World — Incas, Pueblos, Golconda
 
@@ -88,21 +88,21 @@ Both Methuselahs fell into torpor. Prias took Helena to safety beneath the fort.
 
 From torpor, Menele called out to supporters around the world. His extra level of Auspex allows awareness of events around him while he sleeps — distorted, dreamlike, but functional. His Dominate works through touch without eye contact. The Bond carries his will to the surface through agents who do not feel the strings.
 
-The war continued through proxies. Helena's forces centered around Prince Lodin. Menele controlled the Anarchs through Critias and Dominated the other clan leaders. Most battles revolved around each Methuselah's attempts to kill off the other's allies.
+The war continued through proxies. Helena's forces centered around Prince [Lodin](/npcs/lodin/). Menele controlled the Anarchs through Critias and Dominated the other clan leaders. Most battles revolved around each Methuselah's attempts to kill off the other's allies.
 
-### The Maldavis Sacrifice (Council Wars, 1983-1987)
+### The [Maldavis](/npcs/maldavis/) Sacrifice (Council Wars, 1983-1987)
 
-Maldavis led a Brujah uprising against Lodin. Menele sacrificed her — allowed her to fail — in order to make Helena believe she had taken control of Annabelle Triabell. Helena could not believe Menele would sacrifice such a powerful tool for any reason. The gambit worked.
+Maldavis led a Brujah uprising against Lodin. Menele sacrificed her — allowed her to fail — in order to make Helena believe she had taken control of [Annabelle Triabell](/npcs/annabelle-triabell/). Helena could not believe Menele would sacrifice such a powerful tool for any reason. The gambit worked.
 
 During this period, his sleep was plagued with questions. As he traced the entire history of his Jyhad, a gnawing doubt welled up: *Were his actions his own? Did someone manipulate him as he manipulated others? Some even older and more powerful Vampire?* The thought assailed him and rode his dreams.
 
-### The Saul Osiecki Gambit
+### The [Saul Osiecki](/npcs/saul-osiecki/) Gambit
 
-Through correspondence between Saul Osiecki and Dr. Phillips (a close ally of Critias), Menele learned of the biologist's work on a strain of mononucleosis virus designed to kill vampires. He manipulated events to direct this biological weapon toward the Succubus Club — Helena's base.
+Through correspondence between Saul Osiecki and Dr. Phillips (a close ally of Critias), Menele learned of the biologist's work on a strain of mononucleosis virus designed to kill vampires. He manipulated events to direct this biological weapon toward the [Succubus Club](/locations/succubus-club/) — Helena's base.
 
-### The Heart of Osiris (Coptic Jar)
+### [The Heart](/locations/the-heart/) of Osiris (Coptic Jar)
 
-A Coptic jar containing the Heart of Osiris surfaced in Chicago. Channeling its energy would enable Menele to awaken at full strength — unstoppable, a god in the modern world. Inyanga pursued it on his behalf. Critias, after breaking free of the Blood Bond by falling 73 stories from the Sears Tower, tried to prevent Menele from obtaining it. Beckett, the Noddist scholar, became entangled in the search.
+A Coptic jar containing the Heart of Osiris surfaced in Chicago. Channeling its energy would enable Menele to awaken at full strength — unstoppable, a god in the modern world. [Inyanga](/npcs/inyanga/) pursued it on his behalf. Critias, after breaking free of the Blood Bond by falling 73 stories from the [Sears Tower](/locations/sears-tower/), tried to prevent Menele from obtaining it. Beckett, the Noddist scholar, became entangled in the search.
 
 Critias, newly free: *"It took the massive injuries I sustained from that accident to break free of my sire's influence. I, like many other Cainites in this city, have been Menele's unwitting agent for some time now. It has been thus for over two millennia."*
 
@@ -110,19 +110,19 @@ Critias, newly free: *"It took the massive injuries I sustained from that accide
 
 **Critias** (5th gen) — his childe, Embraced in the baths of Athens ~400 BC after a night debating the nature of existence. Blood-Bonded through centuries of feeding on his sire's blood. The "Brujah School," the Path of Entelechy, the vision of Chicago as the new Carthage — convictions Critias considers his own philosophical legacy. They originate from Menele's sleeping mind. Critias does not realize his sire survived Carthage. *(In the V20 era, Critias broke free after nearly dying. Whether the Bond has been re-established is unclear.)*
 
-**Inyanga** (6th gen) — fell under Menele's control shortly after arriving in Chicago. Extended Domination, not Blood Bond. Through her, Menele commands the entire Gangrel clan. If word comes from Inyanga, every Gangrel mobilizes. Her Laibon immigration operation through Lucian's docks in Gary moves bodies and resources through Menele's corridor. She is not actually Gangrel — she is Laibon, operating under Kindred cover.
+**Inyanga** (6th gen) — fell under Menele's control shortly after arriving in Chicago. Extended Domination, not Blood Bond. Through her, Menele commands the entire Gangrel clan. If word comes from Inyanga, every Gangrel mobilizes. Her Laibon immigration operation through [Lucian](/npcs/lucian/)'s docks in Gary moves bodies and resources through Menele's corridor. She is not actually Gangrel — she is Laibon, operating under Kindred cover.
 
 **Annabelle Triabell** (6th gen) — the deepest play. Menele's double agent inside Helena's camp. Helena believes she controls Annabelle through Domination. Through Annabelle, Menele has a window into everything Helena's network does.
 
-**Khalid** (Nosferatu Primogen) — initially independent. Each Methuselah assumed the other controlled him. In the V20 era, Critias claims: "Despite his claims, Khalid is as much a creature of Menele's now as I once was."
+**[Khalid](/npcs/khalid-al-rashid/)** (Nosferatu Primogen) — initially independent. Each Methuselah assumed the other controlled him. In the V20 era, Critias claims: "Despite his claims, Khalid is as much a creature of Menele's now as I once was."
 
-**Ublo-Satha** — sleeper agent inside the Tremere. A Gargoyle conditioned by Menele before her transformation — the dormant commands survived the process. Her dual loyalty is unknown to the Tremere hierarchy. She watches Nicolai (Helena's controlled Tremere Regent) from within the Chantry.
+**[Ublo-Satha](/npcs/ublo-satha/)** — sleeper agent inside the Tremere. A Gargoyle conditioned by Menele before her transformation — the dormant commands survived the process. Her dual loyalty is unknown to the Tremere hierarchy. She watches [Nicolai](/npcs/nicolai/) (Helena's controlled Tremere Regent) from within the Chantry.
 
-**Annabelle → Modius** — Annabelle sired the Prince of Gary. Gary is not exile. Gary is a staging ground.
+**Annabelle → [Modius](/npcs/modius/)** — Annabelle sired the Prince of Gary. Gary is not exile. Gary is a staging ground.
 
-**Annabelle → Sharon → Michael → Sable** — four steps from a sleeping god.
+**Annabelle → [Sharon](/npcs/sharon-payne/) → [Michael](/npcs/michael/) → [Sable](/sable-price/)** — four steps from a sleeping god.
 
-**Heath Quinn** — mortal operative. Carried Menele's blood to London in 1969. Shot Roarke, fed him 4th-gen vitae. The twenty-year weapon: Roarke returned to Chicago, lived among the Anarchs, found the torpid Methuselah, kidnapped Lodin. One move in a four-thousand-year chess game.
+**[Heath Quinn](/npcs/heath-quinn/)** — mortal operative. Carried Menele's blood to London in 1969. Shot [Roarke](/npcs/roarke/), fed him 4th-gen vitae. The twenty-year weapon: Roarke returned to Chicago, lived among the Anarchs, found the torpid Methuselah, kidnapped Lodin. One move in a four-thousand-year chess game.
 
 **Roarke** — kidnapped Lodin on New Year's Eve 1990. Built a cult in the woods around Menele's torpid body. While Roarke thought he was using the Ancient, the Ancient was using him.
 
