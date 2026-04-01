@@ -53,6 +53,8 @@ params:
           url: "/boons/"
         - name: "Map"
           url: "/map/"
+        - name: "Kindred Globe"
+          url: "/globe.html"
         - name: "Random Tables"
           url: "/random-tables/"
         - name: "Soundtrack"
