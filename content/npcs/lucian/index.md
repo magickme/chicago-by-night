@@ -21,6 +21,6 @@ Owns the Gary Export Company. Controls the passage of vampires traveling to and 
 
 Has a lucrative working arrangement with [Iain MacLaren](/npcs/iain-maclaren/), Prince of Kingston, Ontario, for ferrying vampires down the St. Lawrence through the Great Lakes. The pipeline is old, quiet, and profitable.
 
-Is importing Laibon — African vampires — on behalf of [Inyanga](/npcs/inyanga/)'s covert diaspora operation. [Inyanga](/npcs/inyanga/) is actually Laibon, not Gangrel. The distinction matters to those who know it, and Lucian knows it.
+Is importing Laibon — African vampires — on behalf of [Inyanga](/npcs/inyanga/)'s covert diaspora operation. Inyanga is actually Laibon, not Gangrel. The distinction matters to those who know it, and Lucian knows it.
 
 The dock pipeline [Darius](/darius-cole/) is building for [Chuc Luc](/npcs/chuc-luc/) runs parallel to, and potentially threatens, Lucian's existing international smuggling operation. If Lucian discovers a competing route through his own waterfront, the response will not be a conversation.

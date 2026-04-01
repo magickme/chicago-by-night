@@ -16,28 +16,28 @@ She fed in a parking lot behind a strip club at eight o'clock on a Friday, which
 
 The drawing room. The chandelier. The piano lid closed, which meant [Modius](/npcs/modius/) was working. Small court: [Victor](/npcs/victor-salonika/) at the sideboard, [Falcon](/npcs/raymond-falcon/) in the corner cycling through whoever lived behind his eyes tonight, [Darius](/darius-cole/) at the bookshelf performing invisibility, and [Allicia](/npcs/allicia/) on the settee in a green dress with her hands folded and her mask so tight it could have been painted on.
 
-[Modius](/npcs/modius/) looked at everyone in the room except [Allicia](/npcs/allicia/). In a room that small, not looking at someone was the loudest sound in the building.
+Modius looked at everyone in the room except Allicia. In a room that small, not looking at someone was the loudest sound in the building.
 
-He called [Darius](/darius-cole/) to the study first. Ten minutes. When [Darius](/darius-cole/) came out something had shifted behind his eyes but his face gave nothing. Then [Modius](/npcs/modius/) appeared in the doorway and said [Sable](/sable-price/)'s name the way a dentist calls the next appointment.
+He called Darius to the study first. Ten minutes. When Darius came out something had shifted behind his eyes but his face gave nothing. Then Modius appeared in the doorway and said Sable's name the way a dentist calls the next appointment.
 
 The study. Wood panels. A self-portrait on the wall, the brushwork competent and vain. One lamp. The door closed.
 
-"My childe has become willful," the prince said. "She has refused an instruction. This is unusual for [Allicia](/npcs/allicia/). In eighty years, she has not refused me."
+"My childe has become willful," the prince said. "She has refused an instruction. This is unusual for Allicia. In eighty years, she has not refused me."
 
-He asked what was happening between them. [Sable](/sable-price/) told him what he needed to hear: [Allicia](/npcs/allicia/) loved him and wanted more of his attention. She said it with warmth and concern and the right amount of deference, and the lie cost her a piece of willpower she couldn't afford to waste, and [Modius](/npcs/modius/) read her aura and saw anxiety and affection and a shimmer of something not quite honest, and he chose to believe the shimmer was nerves because the alternative was worse.
+He asked what was happening between them. Sable told him what he needed to hear: Allicia loved him and wanted more of his attention. She said it with warmth and concern and the right amount of deference, and the lie cost her a piece of willpower she couldn't afford to waste, and Modius read her aura and saw anxiety and affection and a shimmer of something not quite honest, and he chose to believe the shimmer was nerves because the alternative was worse.
 
 "Be her friend," he said. "Be her comfort. Tell me what she needs so I can provide it."
 
-The assignment. The same one from January, the same leash in a different hand. Spy on [Allicia](/npcs/allicia/). Report what she says, what she wants, what she needs. One rule, delivered to the painting on the wall instead of to [Sable](/sable-price/)'s face: "Do not give her blood. Do not accept hers."
+The assignment. The same one from January, the same leash in a different hand. Spy on Allicia. Report what she says, what she wants, what she needs. One rule, delivered to the painting on the wall instead of to Sable's face: "Do not give her blood. Do not accept hers."
 
 She nodded her deference and left.
 
-At the bookshelf, [Darius](/darius-cole/) stood beside her and they spoke in voices that didn't carry past the spines.
+At the bookshelf, Darius stood beside her and they spoke in voices that didn't carry past the spines.
 
-"He wants me to spy on [Allicia](/npcs/allicia/) again. She told him no about something and he's rattled."
+"He wants me to spy on Allicia again. She told him no about something and he's rattled."
 
 "Just keep it cool. No sudden moves. We're in a good spot."
 
-Court ended. [Allicia](/npcs/allicia/) rose from the settee and walked toward the staircase without looking at anyone. Her back was straight. The green dress disappeared around the corner. [Modius](/npcs/modius/) watched her go and his face was the face of a man who owns a house and has just noticed a crack in the foundation and is deciding whether to repair it or tear the whole thing down.
+Court ended. Allicia rose from the settee and walked toward the staircase without looking at anyone. Her back was straight. The green dress disappeared around the corner. Modius watched her go and his face was the face of a man who owns a house and has just noticed a crack in the foundation and is deciding whether to repair it or tear the whole thing down.
 
-The porch. The night. The cars. [Sable](/sable-price/) drove west and [Darius](/darius-cole/) drove west and somewhere behind them the porch light held its post and inside the mansion a prince sat at his piano with the lid closed and his childe sat in her room with a snow globe and a face-down photograph and the memory of a woman who asked *may I* before touching her, and the distance between the piano and the bedroom was thirty feet and eighty years and growing.
+The porch. The night. The cars. Sable drove west and Darius drove west and somewhere behind them the porch light held its post and inside the mansion a prince sat at his piano with the lid closed and his childe sat in her room with a snow globe and a face-down photograph and the memory of a woman who asked *may I* before touching her, and the distance between the piano and the bedroom was thirty feet and eighty years and growing.

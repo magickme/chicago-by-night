@@ -23,7 +23,7 @@ ShowToc: false
 
 - The Rack's other anchor. If the [Succubus Club](/locations/succubus-club/) is where Chicago's Kindred conduct politics over absinthe, Blue Velvet is where they hunt without pretending they came for the conversation. Less formal, less observed, more dangerous.
 - Feeding ground that multiple Kindred use without formal claim. Rack territory means shared access and shared risk. The absence of a single controlling elder makes it both useful and volatile.
-- Alternative social venue for Kindred who find the [Succubus Club](/locations/succubus-club/) too performative or too monitored. The politics at Blue Velvet happen between drinks, not as the main event.
+- Alternative social venue for Kindred who find the Succubus Club too performative or too monitored. The politics at Blue Velvet happen between drinks, not as the main event.
 
 ## Physical Read
 
@@ -33,9 +33,9 @@ ShowToc: false
 
 ## Geographic Placement
 
-- **Address:** State Street north of Division, Near North Side. Two blocks from the [Succubus Club](/locations/succubus-club/). The strip between Division and Elm is Chicago's nightlife corridor in 1991 — clubs, bars, late-night restaurants, and the kind of foot traffic that makes hunting easy.
+- **Address:** State Street north of Division, Near North Side. Two blocks from the Succubus Club. The strip between Division and Elm is Chicago's nightlife corridor in 1991 — clubs, bars, late-night restaurants, and the kind of foot traffic that makes hunting easy.
 - **Neighborhood:** Near North / Rush Street corridor. The area transitions from nightlife commercial (Division) to [Gold Coast](/locations/gold-coast/) residential (north of Elm) within four blocks. Blue Velvet sits on the commercial side of that line.
-- **Proximity:** Two blocks from the [Succubus Club](/locations/succubus-club/) on the same strip. Five blocks south of the [Tremere Chantry](/locations/tremere-chantry/). Rush Street bars are one block west. Lake Shore Drive is three blocks east.
+- **Proximity:** Two blocks from the Succubus Club on the same strip. Five blocks south of the [Tremere Chantry](/locations/tremere-chantry/). Rush Street bars are one block west. Lake Shore Drive is three blocks east.
 - **Transit:** CTA Red Line at Clark/Division, five-minute walk. Cab traffic on Division is constant after 10 PM. Street parking is competitive; most patrons arrive by cab or on foot from other bars.
 
 ## Who Controls It

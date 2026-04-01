@@ -27,11 +27,11 @@ ShowToc: false
 
 ## Function in Play
 
-Where the gang war happens. East Downtown is the feeding ground, the combat zone, and the place the Primogen Council pretends does not exist. Bars, clubs, live venues, and the violence that follows them. [Akawa](/npcs/akawa/)'s Blood Brothers hold the east blocks, [Turk](/npcs/turk/)'s Union holds the area around the marina. The border between them shifts nightly.
+Where the gang war happens. East Downtown is the feeding ground, the combat zone, and the place the Primogen Council pretends does not exist. Bars, clubs, live venues, and the violence that follows them. [Akawa](/npcs/akawa/)'s Blood Brothers hold the east blocks, Turk's Union holds the area around the marina. The border between them shifts nightly.
 
 ## Who Controls It
 
-- Nobody. [Akawa](/npcs/akawa/) and [Turk](/npcs/turk/) each claim sections, but the border is contested.
+- Nobody. Akawa and Turk each claim sections, but the border is contested.
 - The Primogen Council has no official presence. Elder Kindred do not visit.
 - Mortal gang structures overlap with Kindred territory. The violence is layered.
-- [Scott](/npcs/sir-edward-scott/) and Badr maintain havens on the east side but do not involve themselves in the gang war.
+- Scott and Badr maintain havens on the east side but do not involve themselves in the gang war.

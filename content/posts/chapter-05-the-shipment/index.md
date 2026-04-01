@@ -12,13 +12,13 @@ description: "January 14. The date from the clipboard. Darius comes to observe. 
 
 ---
 
-The containers were already there. That was the first wrong thing. The clipboard said January 14 — arrival date, Dock 7, three units, no origin, no contents, initials L.C. — but when [Darius](/darius-cole/) came through the south gate at half past eleven, the containers were sitting on the concrete like they'd been waiting for days. Dark steel, forty feet long, stacked in a row at the far end of the dock behind the corrugated warehouse that blocked the sightline from the dispatch office. The work light in the middle container threw a rectangle of yellow across the ground that looked, from the service gate, like an open mouth.
+The containers were already there. That was the first wrong thing. The clipboard said January 14 — arrival date, Dock 7, three units, no origin, no contents, initials L.C. — but when Darius came through the south gate at half past eleven, the containers were sitting on the concrete like they'd been waiting for days. Dark steel, forty feet long, stacked in a row at the far end of the dock behind the corrugated warehouse that blocked the sightline from the dispatch office. The work light in the middle container threw a rectangle of yellow across the ground that looked, from the service gate, like an open mouth.
 
 The second wrong thing was the man behind the pallets.
 
-[Darius](/darius-cole/) almost missed him. He was good — crouched low, leather jacket, no badge, no flashlight, just a shape in the shadow of stacked wood that didn't belong to the geometry of the dock. But [Darius](/darius-cole/) had spent eleven nights building a map of this place in his head, and the shape was new, and the shape was breathing, and breathing meant alive, and alive at Dock 7 at midnight on a Sunday meant trouble.
+Darius almost missed him. He was good — crouched low, leather jacket, no badge, no flashlight, just a shape in the shadow of stacked wood that didn't belong to the geometry of the dock. But Darius had spent eleven nights building a map of this place in his head, and the shape was new, and the shape was breathing, and breathing meant alive, and alive at Dock 7 at midnight on a Sunday meant trouble.
 
-[Detective](/npcs/detective-wilks/) [Gregory Stephens](/npcs/gregory-stephens/). [Evelyn](/npcs/evelyn-stephens/)'s brother. Chicago PD, no jurisdiction in Gary, no business at the docks, and yet here he was, watching the same containers [Darius](/darius-cole/) had come to watch. The man who knew about Kindred. The man who'd followed his sister's trail into the dark and kept going.
+[Detective](/npcs/detective-wilks/) [Gregory Stephens](/npcs/gregory-stephens/). [Evelyn](/npcs/evelyn-stephens/)'s brother. Chicago PD, no jurisdiction in Gary, no business at the docks, and yet here he was, watching the same containers Darius had come to watch. The man who knew about Kindred. The man who'd followed his sister's trail into the dark and kept going.
 
 Two predators in the same blind. Neither one aware of the other. And behind both of them, in the container with the open mouth, something was sleeping in the earth.
 
@@ -26,31 +26,31 @@ Two predators in the same blind. Neither one aware of the other. And behind both
 
 The dock fought him from the start.
 
-The south gate was the same — bent chain-link, no camera — but the night watchman was on duty, a flashlight bobbing near the main entrance. [Darius](/darius-cole/) came through the gap in the fence and moved along the warehouse wall, and his feet betrayed him twice.
+The south gate was the same — bent chain-link, no camera — but the night watchman was on duty, a flashlight bobbing near the main entrance. Darius came through the gap in the fence and moved along the warehouse wall, and his feet betrayed him twice.
 
-The first time, he stopped short in the open, exposed, the wall ten feet away instead of five. He pressed himself flat and waited. The detective didn't turn. The watchman didn't swing his beam this direction. [Darius](/darius-cole/) breathed air he didn't need. Stealth had never been among his gifts.
+The first time, he stopped short in the open, exposed, the wall ten feet away instead of five. He pressed himself flat and waited. The detective didn't turn. The watchman didn't swing his beam this direction. Darius breathed air he didn't need. Stealth had never been among his gifts.
 
 He let the blood do what the skill couldn't. Felt it surge into his legs, his ankles, his feet — the stolen vitae remembering what dexterity felt like, sharpening his proprioception, making each step lighter by a fraction that mattered. He moved again.
 
-The stack of pallets was invisible in the shadow. He caught it with his shin. The top pallet slid, tilted, and fell three feet to the concrete, and the sound it made was the loudest thing [Darius](/darius-cole/) had ever heard. A flat wooden crack that bounced off every steel surface on the dock and came back as an echo that said *you are here and everyone knows it.*
+The stack of pallets was invisible in the shadow. He caught it with his shin. The top pallet slid, tilted, and fell three feet to the concrete, and the sound it made was the loudest thing Darius had ever heard. A flat wooden crack that bounced off every steel surface on the dock and came back as an echo that said *you are here and everyone knows it.*
 
-[Gregory Stephens](/npcs/gregory-stephens/) was ten feet away, running — not toward [Darius](/darius-cole/) but away from something behind him, the dock crew, two big men, one with a crowbar — and the crack stopped him like a wall. He spun. His hand went to his hip. His eyes found the gap between the containers where [Darius](/darius-cole/) was standing in the dark, and for one second that lasted much longer than a second, they looked at each other.
+Gregory Stephens was ten feet away, running — not toward Darius but away from something behind him, the dock crew, two big men, one with a crowbar — and the crack stopped him like a wall. He spun. His hand went to his hip. His eyes found the gap between the containers where Darius was standing in the dark, and for one second that lasted much longer than a second, they looked at each other.
 
 The detective saw a Black man in a dark coat. Calm face. No weapon visible. Not running, not hiding, just standing there like he had a reason to be in this particular shadow at this particular moment.
 
-[Darius](/darius-cole/) could have used a word. One word and [Gregory](/npcs/gregory-stephens/) would have done anything — slept, frozen, walked into the lake. The power was right there, sitting behind his teeth, waiting.
+Darius could have used a word. One word and Gregory would have done anything — slept, frozen, walked into the lake. The power was right there, sitting behind his teeth, waiting.
 
 He didn't use it.
 
 "I'm not with them. Move."
 
-[Gregory](/npcs/gregory-stephens/) moved. He ran past [Darius](/darius-cole/) close enough to touch, through the gap between containers, south toward the gate, and [Darius](/darius-cole/) heard the chain-link rattle and then he was gone.
+Gregory moved. He ran past Darius close enough to touch, through the gap between containers, south toward the gate, and Darius heard the chain-link rattle and then he was gone.
 
 ---
 
 The crew came around the warehouse corner and the bigger man was right there. Three feet. Crowbar. A face that said *I do this for a living and you are in my workplace.*
 
-[Darius](/darius-cole/) looked into his eyes and said, "Sleep."
+Darius looked into his eyes and said, "Sleep."
 
 The man's knees buckled first. Then his hand opened and the crowbar rang on the concrete — that sound again, metal on stone, everything tonight was sound and echo — and then he was down, face-first, out before he finished falling.
 
@@ -66,31 +66,31 @@ The words went in through the eyes and settled into the brain like sediment drop
 
 "Shit," the man said. He crouched and shook his partner's shoulder. "Tony. Tony, get up, man."
 
-[Darius](/darius-cole/) was already gone. But not toward the gate. Toward the containers. Toward the open mouth.
+Darius was already gone. But not toward the gate. Toward the containers. Toward the open mouth.
 
 ---
 
-The container smelled like machine oil and something older. The work light ran on a battery and cast hard shadows across a landscape of crates stenciled in a language [Darius](/darius-cole/) didn't read. Cyrillic. The shipping labels said Odessa in English underneath — Black Sea, Soviet Union, the empire that was falling apart on the evening news while Gary fell apart in the same way, quietly, from the inside, and nobody on television cared about either collapse.
+The container smelled like machine oil and something older. The work light ran on a battery and cast hard shadows across a landscape of crates stenciled in a language Darius didn't read. Cyrillic. The shipping labels said Odessa in English underneath — Black Sea, Soviet Union, the empire that was falling apart on the evening news while Gary fell apart in the same way, quietly, from the inside, and nobody on television cared about either collapse.
 
-The crates were not machine parts. The first one was open and inside it, packed in cosmoline and factory plastic, eight assault rifles lay in a row like instruments in a case. Soviet military surplus. The kind of hardware that fell off the back of a collapsing superpower and ended up wherever someone was willing to pay. [Darius](/darius-cole/) counted eleven more crates. A clipboard on the wall listed three recipients — initials only, no names, no addresses. J.W. Four crates. C.A. Four crates. W. Three crates. Somebody was arming three groups out of Gary's docks, and the supply line ran from the Black Sea to Lake Michigan through a company that [Lucian](/npcs/lucian/) owned and a customs office he'd bought.
+The crates were not machine parts. The first one was open and inside it, packed in cosmoline and factory plastic, eight assault rifles lay in a row like instruments in a case. Soviet military surplus. The kind of hardware that fell off the back of a collapsing superpower and ended up wherever someone was willing to pay. Darius counted eleven more crates. A clipboard on the wall listed three recipients — initials only, no names, no addresses. J.W. Four crates. C.A. Four crates. W. Three crates. Somebody was arming three groups out of Gary's docks, and the supply line ran from the Black Sea to Lake Michigan through a company that [Lucian](/npcs/lucian/) owned and a customs office he'd bought.
 
-But the rifles were not what [Darius](/darius-cole/) had come to find, and they were not what he found.
+But the rifles were not what Darius had come to find, and they were not what he found.
 
 The boxes were along the left wall. Four of them. Plywood, hand-built — someone had cut these with a table saw and driven the screws by hand, and the craftsmanship was careful, the corners tight, the ventilation holes drilled in even rows along both sides. Each box was six feet long. Two feet wide. Eighteen inches deep. The size and shape of a coffin, if coffins were built by carpenters who worked in shipping containers after midnight.
 
 Three of them were room temperature. The fourth was warm.
 
-[Darius](/darius-cole/) put his eye to a ventilation hole. The smell came first — earth, deep earth, the kind of soil that has never seen a plow or a foundation, soil that has been itself for centuries, undisturbed, the slow black accumulation of everything that has ever fallen and rotted and been pressed into the dark. Not Gary's sandy fill. Not American dirt at all. Old-world loam, packed tight around a shape that the work light couldn't quite reach.
+Darius put his eye to a ventilation hole. The smell came first — earth, deep earth, the kind of soil that has never seen a plow or a foundation, soil that has been itself for centuries, undisturbed, the slow black accumulation of everything that has ever fallen and rotted and been pressed into the dark. Not Gary's sandy fill. Not American dirt at all. Old-world loam, packed tight around a shape that the work light couldn't quite reach.
 
 A hand. Pale. The fingers were long and the nails were wrong — too thick, too curved, yellowed like old ivory. A hand that had stopped aging a long time ago and had been still for long enough that the earth had formed around it the way water forms around a stone.
 
-And a ring. Gold, heavy, carved with a crest that [Darius](/darius-cole/) couldn't fully make out from this angle. He shifted, pressed his cheek against the plywood, and the work light caught the face of the signet for one frame. A dragon. Coiled around a shield. Old Eastern European heraldry — the kind of device that hadn't been struck since before the modern map of Europe existed.
+And a ring. Gold, heavy, carved with a crest that Darius couldn't fully make out from this angle. He shifted, pressed his cheek against the plywood, and the work light caught the face of the signet for one frame. A dragon. Coiled around a shield. Old Eastern European heraldry — the kind of device that hadn't been struck since before the modern map of Europe existed.
 
 A Gangrel elder. Melded into ancestral earth. Being shipped through Gary Exports Co. like cargo, through the St. Lawrence Seaway, from Odessa to Lake Michigan, bypassing Chicago, bypassing the Camarilla, bypassing every structure and protocol and prince that existed between the Black Sea and the Rust Belt.
 
-[Lucian](/npcs/lucian/) wasn't running a smuggling operation. He was running an underground railroad. The guns were a side business — currency, payment, the grease that kept the machine turning. The real cargo was the boxes. Ancient Kindred, traveling in their native earth, arriving in the New World through a back door that nobody was watching because nobody thought Gary, Indiana, was worth watching.
+Lucian wasn't running a smuggling operation. He was running an underground railroad. The guns were a side business — currency, payment, the grease that kept the machine turning. The real cargo was the boxes. Ancient Kindred, traveling in their native earth, arriving in the New World through a back door that nobody was watching because nobody thought Gary, Indiana, was worth watching.
 
-[Darius](/darius-cole/) pulled back from the ventilation hole. His hands were shaking. Vampires don't shake. He was shaking.
+Darius pulled back from the ventilation hole. His hands were shaking. Vampires don't shake. He was shaking.
 
 From behind the warehouse, voices. Tony was awake and unhappy about it.
 

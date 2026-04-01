@@ -28,4 +28,4 @@ ShowToc: false
 
 ## Who Controls It
 
-- [Williams](/npcs/williams/) through terror, routine, and the complicity of buyers who want no record.
+- Williams through terror, routine, and the complicity of buyers who want no record.

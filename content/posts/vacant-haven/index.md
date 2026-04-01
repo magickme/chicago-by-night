@@ -14,11 +14,11 @@ description: "A Toreador pulls off her gloves in a dead Prince's apartment and r
 
 The town car pulled away from Daley's and [Sable](/sable-price/) counted the seconds before anyone spoke. [Belthazar](/npcs/belthazar/) sat in the front passenger seat with his coat folded across his knees. He hadn't looked at either of them since the restaurant. The driver was a ghoul with the stillness of someone who had been told not to listen, not to remember, and not to exist unless the car needed turning.
 
-Rain on the windshield. Michigan Avenue in the dark, the buildings lit from inside, and the street wet enough to double every light so the city looked like two cities stacked on top of each other — the real one and the drowned one underneath. [Sable](/sable-price/) watched the water sheet across the glass and thought about nothing, deliberately, the way she'd learned to think about nothing when men were watching.
+Rain on the windshield. Michigan Avenue in the dark, the buildings lit from inside, and the street wet enough to double every light so the city looked like two cities stacked on top of each other — the real one and the drowned one underneath. Sable watched the water sheet across the glass and thought about nothing, deliberately, the way she'd learned to think about nothing when men were watching.
 
-The [Sears Tower](/locations/sears-tower/) filled the windshield three blocks before they reached it. A hundred and ten stories of black steel and glass disappearing into low cloud. The top floors were gone — swallowed — so the building looked like it went up forever, like it was a thing driven into the earth from above.
+The Sears Tower filled the windshield three blocks before they reached it. A hundred and ten stories of black steel and glass disappearing into low cloud. The top floors were gone — swallowed — so the building looked like it went up forever, like it was a thing driven into the earth from above.
 
-The car turned onto Wacker. The ghoul pulled to the south entrance. [Belthazar](/npcs/belthazar/) opened his door before the car stopped and said "Move" without looking back, and [Sable](/sable-price/) stepped into the rain and felt it on her face (cold, mineral, the particular taste of January rain in a city built on a swamp) and then she felt something else.
+The car turned onto Wacker. The ghoul pulled to the south entrance. Belthazar opened his door before the car stopped and said "Move" without looking back, and Sable stepped into the rain and felt it on her face (cold, mineral, the particular taste of January rain in a city built on a swamp) and then she felt something else.
 
 Pressure.
 
@@ -26,25 +26,25 @@ Not physical. Not wind, not sound. Something older than either. The predatory au
 
 He was standing under the awning.
 
-Not tall. Lean, compact, dark overcoat that looked like it cost nothing and fit like it cost everything. Face that could have been forty or four hundred — olive skin, close-cropped grey hair, jaw that had been broken at least once in a life where bones still broke. His eyes moved to [Sable](/sable-price/) first (she noticed that — first, before [Darius](/darius-cole/), before [Belthazar](/npcs/belthazar/)) and they were the eyes of something that had been reading people since before the language she spoke had been invented.
+Not tall. Lean, compact, dark overcoat that looked like it cost nothing and fit like it cost everything. Face that could have been forty or four hundred — olive skin, close-cropped grey hair, jaw that had been broken at least once in a life where bones still broke. His eyes moved to Sable first (she noticed that — first, before Darius, before Belthazar) and they were the eyes of something that had been reading people since before the language she spoke had been invented.
 
-[Belthazar](/npcs/belthazar/) stopped walking. "Primogen."
+Belthazar stopped walking. "Primogen."
 
-"Sheriff." The voice was measured, unhurried, the cadence of complete sentences considered before they were spoken. He looked at [Belthazar](/npcs/belthazar/) the way a man looks at a tool he didn't request. "[Ballard](/npcs/ballard/) informed the council. I am here to observe."
+"Sheriff." The voice was measured, unhurried, the cadence of complete sentences considered before they were spoken. He looked at Belthazar the way a man looks at a tool he didn't request. "[Ballard](/npcs/ballard/) informed the council. I am here to observe."
 
 "This investigation is under my authority."
 
-"Your authority extends to enforcement, not to the evaluation of evidence. I am Primogen. You are welcome to call [Ballard](/npcs/ballard/) and confirm."
+"Your authority extends to enforcement, not to the evaluation of evidence. I am Primogen. You are welcome to call Ballard and confirm."
 
-The rain fell between them. [Sable](/sable-price/) could feel [Darius](/darius-cole/) beside her — the quality of his stillness when he was calculating — and she kept her face smooth and her thoughts quiet (or tried to, because something in the air near this man made her feel like her skull was made of glass, like everything inside it was visible, like the act of thinking was the same as speaking aloud).
+The rain fell between them. Sable could feel Darius beside her — the quality of his stillness when he was calculating — and she kept her face smooth and her thoughts quiet (or tried to, because something in the air near this man made her feel like her skull was made of glass, like everything inside it was visible, like the act of thinking was the same as speaking aloud).
 
-He looked at her. Measured. Not dismissive the way [Ballard](/npcs/ballard/) had been — this was something worse. Attention. The full, unhurried attention of an intelligence that had outlived empires.
+He looked at her. Measured. Not dismissive the way Ballard had been — this was something worse. Attention. The full, unhurried attention of an intelligence that had outlived empires.
 
 "You are the Toreador."
 
 "I am."
 
-Two words. No ornamentation. His eyes stayed on her for one more second — the particular quality of attention that weighs what it sees and files the result somewhere it won't be lost — and then he looked at [Darius](/darius-cole/).
+Two words. No ornamentation. His eyes stayed on her for one more second — the particular quality of attention that weighs what it sees and files the result somewhere it won't be lost — and then he looked at Darius.
 
 "And the Ventrue."
 
@@ -54,9 +54,9 @@ Two words. No ornamentation. His eyes stayed on her for one more second — the 
 
 ---
 
-The indoor plaza was vast — marble, glass, the hushed acoustics of money spent on empty space. Double-decker elevators, brass and steel. Five police officers stood near the service bank and straightened when [Belthazar](/npcs/belthazar/) approached. None of them looked at [Critias](/npcs/critias/). None of them seemed to notice him at all.
+The indoor plaza was vast — marble, glass, the hushed acoustics of money spent on empty space. Double-decker elevators, brass and steel. Five police officers stood near the service bank and straightened when Belthazar approached. None of them looked at [Critias](/npcs/critias/). None of them seemed to notice him at all.
 
-The elevator was the express — 107 floors in under a minute. [Sable](/sable-price/) watched the digital numbers climb and watched [Critias](/npcs/critias/) in the polished brass of the door. He stood with his hands in his coat pockets, perfectly still, and his reflection looked back at her with the patience of a man who had ridden elevators and stage coaches and horse carts and walked barefoot on roads that hadn't been named yet.
+The elevator was the express — 107 floors in under a minute. Sable watched the digital numbers climb and watched Critias in the polished brass of the door. He stood with his hands in his coat pockets, perfectly still, and his reflection looked back at her with the patience of a man who had ridden elevators and stage coaches and horse carts and walked barefoot on roads that hadn't been named yet.
 
 The doors opened onto a hallway that ran the full eastern side of the floor. No windows on this side — deliberate. A Prince who planned for sieges.
 
@@ -72,11 +72,11 @@ Beyond: a vault door. Seven tons of steel, reinforced, time-locked. Torn from it
 
 ---
 
-"Let me try psychometry," [Sable](/sable-price/) said, taking off her evening gloves. "[Darius](/darius-cole/). Unlock the girl."
+"Let me try psychometry," Sable said, taking off her evening gloves. "Darius. Unlock the girl."
 
-[Critias](/npcs/critias/)'s head turned. Slight motion. The interest of a man who just heard a word he didn't expect from the source he didn't expect it from. *Psychometry.* A neonate Toreador with Spirit's Touch.
+Critias's head turned. Slight motion. The interest of a man who just heard a word he didn't expect from the source he didn't expect it from. *Psychometry.* A neonate Toreador with Spirit's Touch.
 
-"Proceed," he said. To [Sable](/sable-price/), not to [Belthazar](/npcs/belthazar/). That distinction filled the room.
+"Proceed," he said. To Sable, not to Belthazar. That distinction filled the room.
 
 She put her hand on the vault door and the world went white.
 
@@ -100,35 +100,35 @@ She reached for it and stopped. Not because she chose to. Because her hand told 
 
 ---
 
-Across the hall, [Darius](/darius-cole/) sat knee-to-knee with Natasha. His eyes held hers and she couldn't look away. He slid into her memories the way he'd learned to — carefully, like opening a filing cabinet in someone else's office. Her night was there: the security room, the monitors, the routine. And then a wall. Clean. Surgical. Someone had removed a section of her experience with a precision that made his Dominate feel like a child's toy. What he got was the scar tissue: her thoughts, looping. *I opened the door to enter a dark room and then I opened the door to enter a dark room.* The same phrase, repeated, the brain trying to bridge the gap by running the last complete thought on a loop.
+Across the hall, Darius sat knee-to-knee with Natasha. His eyes held hers and she couldn't look away. He slid into her memories the way he'd learned to — carefully, like opening a filing cabinet in someone else's office. Her night was there: the security room, the monitors, the routine. And then a wall. Clean. Surgical. Someone had removed a section of her experience with a precision that made his Dominate feel like a child's toy. What he got was the scar tissue: her thoughts, looping. *I opened the door to enter a dark room and then I opened the door to enter a dark room.* The same phrase, repeated, the brain trying to bridge the gap by running the last complete thought on a loop.
 
 She knew whoever came in. She let them in willingly. Then she forgot everything.
 
 ---
 
-[Sable](/sable-price/) summarized for [Critias](/npcs/critias/). The ancient blood. The single attacker. The chess game played with someone loved. The security gap cut with Dominate beyond anything she could measure. The pendant that hummed with a connection to something alive.
+Sable summarized for Critias. The ancient blood. The single attacker. The chess game played with someone loved. The security gap cut with Dominate beyond anything she could measure. The pendant that hummed with a connection to something alive.
 
-[Critias](/npcs/critias/) listened without interrupting. When she finished, he was quiet for four seconds — which, from a man who weighed every sentence, was a long time.
+Critias listened without interrupting. When she finished, he was quiet for four seconds — which, from a man who weighed every sentence, was a long time.
 
 "The blood you describe," he said. "You have nothing to compare it to."
 
-[Darius](/darius-cole/) came back from the security room. Reported: Natasha's memory had been surgically removed. Whoever did it knew her. She let them in. The wipe was beyond his ability to reverse.
+Darius came back from the security room. Reported: Natasha's memory had been surgically removed. Whoever did it knew her. She let them in. The wipe was beyond his ability to reverse.
 
-"One person," [Critias](/npcs/critias/) said from the vault doorway. He hadn't raised his voice. "One individual entered this haven, shot the retainer at the desk, disabled the security system through the second retainer's willing cooperation, tore a seven-ton vault door from reinforced concrete with physical force derived from blood older than this city, and carried the Prince of Chicago out of the building." He paused. "That individual knew both retainers by name."
+"One person," Critias said from the vault doorway. He hadn't raised his voice. "One individual entered this haven, shot the retainer at the desk, disabled the security system through the second retainer's willing cooperation, tore a seven-ton vault door from reinforced concrete with physical force derived from blood older than this city, and carried the Prince of Chicago out of the building." He paused. "That individual knew both retainers by name."
 
 ---
 
 The search continued. On the desk, half-buried under burned papers: a typed report from [Edward](/npcs/sir-edward-scott/) [Neally](/npcs/neally-edwards/). Satanic activity in a wooded area northwest of the city. Two elders claiming Auspex power had detected mystical energies there. A map underneath, a section of woods circled in red. [Lodin](/npcs/lodin/) had written three letters in the margin: FLI.
 
-In a filing cabinet: a folder of intelligence on Chicago's Anarchs. [Lodin](/npcs/lodin/)'s handwriting in the margin of one printout — *When will they stop? Can their activity mean anything but my eventual demise?* And on another sheet, a reference to a troublesome Anarch called [Damien](/npcs/damien/) who had moved into a neutral elder's haven.
+In a filing cabinet: a folder of intelligence on Chicago's Anarchs. Lodin's handwriting in the margin of one printout — *When will they stop? Can their activity mean anything but my eventual demise?* And on another sheet, a reference to a troublesome Anarch called [Damien](/npcs/damien/) who had moved into a neutral elder's haven.
 
 On a shelf in the office: a leather-bound journal. Admiral Tourney — a British naval officer and member of an organization he referred to only as A. And on the final page, in different handwriting: *Dedicated to [Roarke](/npcs/roarke/), a fine retainer who sacrificed his life to bring me a book of worthless value.*
 
-"Look at this. Who's [Roarke](/npcs/roarke/)?" [Sable](/sable-price/) asked, offering the journal.
+"Look at this. Who's Roarke?" Sable asked, offering the journal.
 
-[Belthazar](/npcs/belthazar/) answered first. "One of [Lodin](/npcs/lodin/)'s people. Sent to England on some errand, before my appointment. Never came back. The Prince wrote him off as dead."
+Belthazar answered first. "One of Lodin's people. Sent to England on some errand, before my appointment. Never came back. The Prince wrote him off as dead."
 
-[Critias](/npcs/critias/) took the journal. Read the inscription. Read it again.
+Critias took the journal. Read the inscription. Read it again.
 
 "A retainer believed dead," he said. "Dedicated in a book purchased at a London auction. And the Prince's haven was entered by someone the surviving retainer opened the door for."
 
@@ -136,15 +136,15 @@ He set the journal back on the desk and let the silence carry the weight.
 
 ---
 
-[Critias](/npcs/critias/) moved through the vault. He stood over the pendant for a long time — longer than he'd stood anywhere else — and his hand moved toward it and then stopped. Something crossed his face. Not recognition. Something quieter. He turned away from it.
+Critias moved through the vault. He stood over the pendant for a long time — longer than he'd stood anywhere else — and his hand moved toward it and then stopped. Something crossed his face. Not recognition. Something quieter. He turned away from it.
 
-He looked at [Sable](/sable-price/). Then at [Darius](/darius-cole/).
+He looked at Sable. Then at Darius.
 
-"You are more capable than [Ballard](/npcs/ballard/) led me to expect. That may or may not work in your favor." He turned to [Belthazar](/npcs/belthazar/). "The map. The woods northwest. That is the lead worth following."
+"You are more capable than Ballard led me to expect. That may or may not work in your favor." He turned to Belthazar. "The map. The woods northwest. That is the lead worth following."
 
 Then he left. No farewell. The elevator doors closed behind him and the pressure in the room dropped by half.
 
-The search consumed the rest of the night. By three in the morning, every room had been opened, every document read, every surface touched. [Belthazar](/npcs/belthazar/) stood by the office door.
+The search consumed the rest of the night. By three in the morning, every room had been opened, every document read, every surface touched. Belthazar stood by the office door.
 
 "We stay here until sunset. Nobody leaves."
 

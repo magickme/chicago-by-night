@@ -21,7 +21,7 @@ ShowToc: false
 
 ## Function in Play
 
-- Ventrue territory in the purest sense: a district where wealth is the organizing principle and [Gordon Keaton](/npcs/gordon-keaton/) maintains domain through financial leverage rather than physical force. The mortals here have lawyers. The Kindred here have better ones.
+- Ventrue territory in the purest sense: a district where wealth is the organizing principle and Gordon Keaton maintains domain through financial leverage rather than physical force. The mortals here have lawyers. The Kindred here have better ones.
 - [Annabelle Triabell](/npcs/annabelle-triabell/)'s social terrain. The Gold Coast is where Toreador and Ventrue interests overlap at gallery openings, fundraisers, and private dinners in brownstones where the guest list is curated by people who have been curating guest lists since 1920.
 - For [Darius](/darius-cole/), this is the Chicago version of what Gary's Ventrue politics could become if the money were real. The debt structures here are old and deep. Valid prey territory for any Ventrue who feeds on obligation.
 
@@ -40,6 +40,6 @@ ShowToc: false
 
 ## Who Controls It
 
-- [Gordon Keaton](/npcs/gordon-keaton/) holds acknowledged domain over the residential Gold Coast. His control is financial — he owns or holds mortgage paper on several buildings and maintains relationships with the old-money families who set the neighborhood's social tone.
-- [Annabelle Triabell](/npcs/annabelle-triabell/) operates socially within the district without challenging [Keaton](/npcs/gordon-keaton/)'s claim. Her gallery events and social functions serve both their interests. The arrangement is symbiotic and unspoken.
-- [Nicolai](/npcs/nicolai/)'s [Tremere Chantry](/locations/tremere-chantry/) sits within the Gold Coast's boundaries on Astor Street. This is tolerated because [Nicolai](/npcs/nicolai/) and [Keaton](/npcs/gordon-keaton/) reached an understanding decades ago. The chantry's presence is not [Keaton](/npcs/gordon-keaton/)'s domain — it is an embassy.
+- Gordon Keaton holds acknowledged domain over the residential Gold Coast. His control is financial — he owns or holds mortgage paper on several buildings and maintains relationships with the old-money families who set the neighborhood's social tone.
+- Annabelle Triabell operates socially within the district without challenging Keaton's claim. Her gallery events and social functions serve both their interests. The arrangement is symbiotic and unspoken.
+- [Nicolai](/npcs/nicolai/)'s Tremere Chantry sits within the Gold Coast's boundaries on Astor Street. This is tolerated because Nicolai and Keaton reached an understanding decades ago. The chantry's presence is not Keaton's domain — it is an embassy.

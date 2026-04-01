@@ -27,12 +27,12 @@ ShowToc: false
 
 ## Function in Play
 
-The dead ground between the city Kindred hold and the border the Anubi defend. Abandoned houses, shuttered businesses, empty lots. Milwaukee's version of Gary's Wasteland. Nobody claims the Barrens because claiming them means defending them, and the Barrens are not worth the cost. Feeding is possible among the homeless, the addicted, and the people who fell through the cracks. [Demetri](/npcs/demetri/)'s tunnel network runs beneath parts of it.
+The dead ground between the city Kindred hold and the border the Anubi defend. Abandoned houses, shuttered businesses, empty lots. Milwaukee's version of Gary's Wasteland. Nobody claims the Barrens because claiming them means defending them, and the Barrens are not worth the cost. Feeding is possible among the homeless, the addicted, and the people who fell through the cracks. Demetri's tunnel network runs beneath parts of it.
 
 ## Who Controls It
 
 - Nobody. The Barrens are a vacuum.
-- [Demetri](/npcs/demetri/) operates in the tunnels beneath — the sewer and storm drain network that feeds into the Menomonee River Valley. He does not control the surface.
+- Demetri operates in the tunnels beneath — the sewer and storm drain network that feeds into the Menomonee River Valley. He does not control the surface.
 - [Parovich](/npcs/parovich/) uses dead drops in the Barrens for Sabbat communication. His condemned house is in the inner south side.
 - [Lisa Urgen](/npcs/lisa-urgen/) moves through here. Hunters prefer terrain where witnesses are absent.
 - [Jacob](/npcs/jacob-the-glitch/) holds his Greendale mansion at the far southern edge. Esau keeps a condo north of downtown — they bracket the Barrens between them.

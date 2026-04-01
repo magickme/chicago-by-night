@@ -50,7 +50,7 @@ The payphone on Broadway and Eleventh smelled like cold metal. She fed two quart
 
 She led with the party. The thing she hadn't said to anyone because the shape of it was still forming -- a room inside a room at a party hosted by a prince who saw everything, and inside that room a woman who had been owned for fifty-two years and a stranger from Milwaukee who could look at the chain and say whether it could be cut.
 
-[Darius](/darius-cole/) listened. He built. He measured the shape of the problem the way he always measured -- who benefits, who's exposed, what's the cost -- and then he gave her the signal system. Three levels. Cufflinks. Collarbone. The weather's turning. The third one only if it's real.
+Darius listened. He built. He measured the shape of the problem the way he always measured -- who benefits, who's exposed, what's the cost -- and then he gave her the signal system. Three levels. Cufflinks. Collarbone. The weather's turning. The third one only if it's real.
 
 She told him about the van. Five nights. The walking pattern. The look north toward Kendrick's from the corner of Nineteenth and Adams. He told her about the pamphlet on the Cutlass. They were quiet for a moment -- the particular silence of two people who have just realized that the same man is sitting between both of them and neither of them can make him leave.
 

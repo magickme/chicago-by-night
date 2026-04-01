@@ -21,7 +21,7 @@ Brujah Methuselah. Childe of Troile. 4th generation. Four thousand years of accu
 
 Torpid beneath Chicago, but his mind is active. Psychically communes with followers across continents. The Bond carries his will to the surface through [Critias](/npcs/critias/), [Inyanga](/npcs/inyanga/), and [Annabelle](/npcs/annabelle-triabell/) — but the communion is more than Bond compulsion. He reaches into their thoughts and leaves instructions that feel like inspiration.
 
-Subtly influencing [Critias](/npcs/critias/) without his childe's knowledge. The "Brujah School," the Path of Entelechy, the vision of Chicago as the new Carthage — these convictions that [Critias](/npcs/critias/) considers his own philosophical legacy originate from Menele's sleeping mind. The puppet does not feel the strings because the strings are woven from his own desires.
+Subtly influencing Critias without his childe's knowledge. The "Brujah School," the Path of Entelechy, the vision of Chicago as the new Carthage — these convictions that Critias considers his own philosophical legacy originate from Menele's sleeping mind. The puppet does not feel the strings because the strings are woven from his own desires.
 
 Has a sleeper agent inside the Tremere: [Ublo-Satha](/npcs/ublo-satha/), a Gargoyle conditioned before her transformation. Her dual loyalty is unknown to the Tremere hierarchy. Whatever task Menele has prepared her for, it has not yet been triggered.
 

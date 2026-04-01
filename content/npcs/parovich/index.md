@@ -23,6 +23,6 @@ Boronisk and Parovich joined Anarch packs during the Revolt. Boronisk fell in ba
 
 His infiltration of Milwaukee has been running for approximately thirty years. He feeds intelligence to the Black Hand and prepares the city for an invasion signal. Every Council meeting, every defensive plan, every internal fracture — catalogued, coded, and shipped east through sewer couriers and trained animals. The patience of a man who spent his mortal life catching spies, now turned to being one.
 
-His childe [Kristian](/npcs/kristian/) discovered the secret and fled into Milwaukee's tunnel network. Parovich has summoned Nosferatu antitribu to hunt [Kristian](/npcs/kristian/) in the sewers. If they fail to silence him, Parovich signals the Sabbat to move on Milwaukee immediately — a forced timetable that benefits no one, but exposure benefits him less.
+His childe [Kristian](/npcs/kristian/) discovered the secret and fled into Milwaukee's tunnel network. Parovich has summoned Nosferatu antitribu to hunt Kristian in the sewers. If they fail to silence him, Parovich signals the Sabbat to move on Milwaukee immediately — a forced timetable that benefits no one, but exposure benefits him less.
 
 Confirmed as a Sabbat agent by two independent sources: **Lore of the Clans** and **Beckett's Jyhad Diary**, where Beckett left a letter for [Decker](/npcs/mark-decker/) exposing Parovich by name.

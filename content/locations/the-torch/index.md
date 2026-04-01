@@ -31,7 +31,7 @@ ShowToc: false
 
 ## Who Controls It
 
-- [Victor](/npcs/victor-salonika/) runs the floor.
-- [Allicia](/npcs/allicia/) defines the mood.
-- [Modius](/npcs/modius/) benefits from it.
+- Victor runs the floor.
+- Allicia defines the mood.
+- Modius benefits from it.
 - Every other faction tries to use it without owning it.

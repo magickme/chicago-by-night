@@ -25,10 +25,10 @@ ShowToc: false
 
 ## Function in Play
 
-- [Darius](/darius-cole/)'s operational base.
+- Darius's operational base.
 - Where debt, hunger, laundering, and cover-story maintenance all meet.
 
 ## Who Controls It
 
-- [Darius](/darius-cole/) for now.
+- Darius for now.
 - Mortals like [Marlene](/npcs/marlene-voss/) and local debtors define whether it feels invisible or talked about.

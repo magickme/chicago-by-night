@@ -29,5 +29,5 @@ ShowToc: false
 
 ## Who Controls It
 
-- [Juggler](/npcs/juggler/) through reputation and violence.
+- Juggler through reputation and violence.
 - Peripheral gangs and dumped anarchs make the space feel larger than one haven.

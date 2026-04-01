@@ -70,7 +70,7 @@ Little Pete added one thing. Quiet. "Six owed money. To somebody in Chicago. He 
 
 Chicago again. The gravity well. The city that owned this one reaching its fingers through debt into every structure that could bear weight.
 
-A burgundy Oldsmobile passed them on Fifteenth heading east and then passed them again on Adams heading south. Same car. Same speed. Same tinted windows hiding a driver [Sable](/sable-price/) couldn't make out even with her senses at maximum. Could be nothing. Saturday night, people cruise. She filed it where she filed things that might be nothing and might be everything and would reveal which they were at the worst possible moment.
+A burgundy Oldsmobile passed them on Fifteenth heading east and then passed them again on Adams heading south. Same car. Same speed. Same tinted windows hiding a driver Sable couldn't make out even with her senses at maximum. Could be nothing. Saturday night, people cruise. She filed it where she filed things that might be nothing and might be everything and would reveal which they were at the worst possible moment.
 
 ---
 
@@ -86,17 +86,17 @@ Two hours. The building settled around her. The Spanish conversation on the side
 
 ---
 
-She found [Allicia](/npcs/allicia/) at the Rack. Pressed into the shadow of a closed barbershop two doors from [the Torch](/locations/the-torch/), making herself small the way the starving make themselves small — not to hide but because the body contracts when there's nothing left to fuel expansion. Her aura read pale, grey, threaded with hunger, and underneath it a strand of rose-gold pulling toward the Caprice like a needle finding north.
+She found Allicia at the Rack. Pressed into the shadow of a closed barbershop two doors from [the Torch](/locations/the-torch/), making herself small the way the starving make themselves small — not to hide but because the body contracts when there's nothing left to fuel expansion. Her aura read pale, grey, threaded with hunger, and underneath it a strand of rose-gold pulling toward the Caprice like a needle finding north.
 
-"Come with me," [Sable](/sable-price/) said.
+"Come with me," Sable said.
 
-In the car, [Allicia](/npcs/allicia/) fed from Pete. Her hand on his jaw, tilting his face toward the light that came through the window, her mouth on his neck. Three pulls. Controlled. The starving woman eating with a knife and fork because manners were the last thing standing when everything else was gone. Pete made a sound — soft, involuntary — and his body went slack against the door.
+In the car, Allicia fed from Pete. Her hand on his jaw, tilting his face toward the light that came through the window, her mouth on his neck. Three pulls. Controlled. The starving woman eating with a knife and fork because manners were the last thing standing when everything else was gone. Pete made a sound — soft, involuntary — and his body went slack against the door.
 
-[Allicia](/npcs/allicia/) pulled back with blood on her lips and color in her skin and her eyes held something that wasn't hunger anymore but wasn't full either. Something closer to grief. The grief of a woman who had to eat from a stranger's ghoul in the backseat of a car because the man who made her wouldn't let her eat at home.
+Allicia pulled back with blood on her lips and color in her skin and her eyes held something that wasn't hunger anymore but wasn't full either. Something closer to grief. The grief of a woman who had to eat from a stranger's ghoul in the backseat of a car because the man who made her wouldn't let her eat at home.
 
 ---
 
-The studio. [Sable](/sable-price/) called [Darius](/darius-cole/).
+The studio. Sable called Darius.
 
 "Big Six is gone. I've got his people. One of them says he owed money to somebody in Chicago."
 
@@ -116,41 +116,41 @@ She didn't tell him how Big Six got gone. She told him what he needed and kept t
 
 After the call, the room was quiet. The ghouls were gone — sent to East Chicago for the Buick, an hour's errand, the studio empty except for two women and a lamp and the smell of turpentine and the ghost of a painter who wasn't there.
 
-[Allicia](/npcs/allicia/) opened her eyes.
+Allicia opened her eyes.
 
-[Sable](/sable-price/) sat beside her. Close. Their knees touching. She looked at [Allicia](/npcs/allicia/) with every sense open, every detail amplified — the line of her jaw, the lamplight in the hollow of her throat, the stillness of pianist's hands that had played Debussy for a prince for fifty years and never hit a wrong note.
+Sable sat beside her. Close. Their knees touching. She looked at Allicia with every sense open, every detail amplified — the line of her jaw, the lamplight in the hollow of her throat, the stillness of pianist's hands that had played Debussy for a prince for fifty years and never hit a wrong note.
 
 She felt the pull. The Toreador weakness reaching for her, the beauty sharp enough to cut. She held. Stayed present. Stayed in control.
 
-That was worse. Being entranced was the easy version. You fell into beauty the way you fell into water and when you surfaced you could say the blood made you helpless. [Sable](/sable-price/) wasn't helpless. She reached for [Allicia](/npcs/allicia/) because she wanted to.
+That was worse. Being entranced was the easy version. You fell into beauty the way you fell into water and when you surfaced you could say the blood made you helpless. Sable wasn't helpless. She reached for Allicia because she wanted to.
 
 She kissed her.
 
-[Allicia](/npcs/allicia/)'s mouth was cool and tasted like Pete's blood — copper, youth, fear — and underneath it something older, something that had been alive in the 1930s when the jazz was real and the gin was bathtub and the women who kissed women in speakeasies did it knowing the world would burn them for it. She kissed back with the precision of a woman who had learned patience from decades of not being touched by anyone who wasn't also her jailer, and the precision dissolved, and what was underneath was not precise at all.
+Allicia's mouth was cool and tasted like Pete's blood — copper, youth, fear — and underneath it something older, something that had been alive in the 1930s when the jazz was real and the gin was bathtub and the women who kissed women in speakeasies did it knowing the world would burn them for it. She kissed back with the precision of a woman who had learned patience from decades of not being touched by anyone who wasn't also her jailer, and the precision dissolved, and what was underneath was not precise at all.
 
 They moved together on the chaise. Hands on skin. Mouths on necks. The architecture of blood and desire collapsing into a single structure that had no name in the language of the Camarilla because the Camarilla had no word for what happened when two women who had been owned by the same kind of men discovered they could own each other instead, and the owning was not ownership but something gentler and more dangerous.
 
-[Allicia](/npcs/allicia/) said one word. "Please."
+Allicia said one word. "Please."
 
 Nine.
 
-[Sable](/sable-price/) offered her neck, and [Allicia](/npcs/allicia/) took it — slow, deliberate, two mouthfuls, the bond between them tightening from cord to cable. Then [Sable](/sable-price/) bit [Allicia](/npcs/allicia/)'s neck. Not because she was hungry. Because the symmetry demanded it. Because two Toreador in a room full of a dead man's paintings knew that the most beautiful thing in the world was not a painting but a circuit — blood moving between two bodies in a loop that was older than language and more honest than anything either of them would ever say.
+Sable offered her neck, and Allicia took it — slow, deliberate, two mouthfuls, the bond between them tightening from cord to cable. Then Sable bit Allicia's neck. Not because she was hungry. Because the symmetry demanded it. Because two Toreador in a room full of a dead man's paintings knew that the most beautiful thing in the world was not a painting but a circuit — blood moving between two bodies in a loop that was older than language and more honest than anything either of them would ever say.
 
-[Allicia](/npcs/allicia/)'s blood tasted like old music. Like a chord held for fifty years in a dark room. Like the specific loneliness of a woman who had been owned so long she'd forgotten what her own name sounded like when someone said it with tenderness.
+Allicia's blood tasted like old music. Like a chord held for fifty years in a dark room. Like the specific loneliness of a woman who had been owned so long she'd forgotten what her own name sounded like when someone said it with tenderness.
 
 They stayed. Tangled on the chaise, the lamp painting their shadows on the wall as a single shape. Outside, the temperature dropped and the moon rose thin over Lake Michigan, throwing silver on the ruins of a city that had no use for silver. Inside, two vampires held each other and didn't count the words.
 
 ---
 
-She drove [Allicia](/npcs/allicia/) back to the mansion at three. Two blocks out, killed the lights. The house was dark. [Allicia](/npcs/allicia/) opened the door, paused, touched [Sable](/sable-price/)'s hand on the steering wheel — two fingers, light, the pressure of a promise or a warning — and got out and walked toward the porch and didn't look back.
+She drove Allicia back to the mansion at three. Two blocks out, killed the lights. The house was dark. Allicia opened the door, paused, touched Sable's hand on the steering wheel — two fingers, light, the pressure of a promise or a warning — and got out and walked toward the porch and didn't look back.
 
 The front door opened and closed.
 
-[Sable](/sable-price/) drove to Kendrick's with the window down and the night air cooling on her skin and the taste of [Allicia](/npcs/allicia/)'s blood fading on her tongue like a note held until it stopped being sound and became memory.
+Sable drove to Kendrick's with the window down and the night air cooling on her skin and the taste of Allicia's blood fading on her tongue like a note held until it stopped being sound and became memory.
 
 DeShawn was awake. Pete was sleeping. The Buick was parked on Adams, two doors down. The roll-up door was chained.
 
-She lay on the couch. Two ghouls breathing. The smell of old motor oil and new blood. She closed her eyes and the last thing she thought was that she had tasted [Allicia](/npcs/allicia/)'s blood and [Allicia](/npcs/allicia/) had tasted hers and the circuit was closed and the current was running and the current felt like something she'd been looking for since a fire escape on State Street at four in the morning when she was eighteen and the city was spread out below her and she wanted to be seen.
+She lay on the couch. Two ghouls breathing. The smell of old motor oil and new blood. She closed her eyes and the last thing she thought was that she had tasted Allicia's blood and Allicia had tasted hers and the circuit was closed and the current was running and the current felt like something she'd been looking for since a fire escape on State Street at four in the morning when she was eighteen and the city was spread out below her and she wanted to be seen.
 
 She'd been seen.
 

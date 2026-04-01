@@ -26,7 +26,7 @@ ShowToc: false
 ## Function in Play
 
 - Chicago's premier Elysium. Where the Primogen gather to debate policy, settle disputes, and stab each other with words instead of knives.
-- Toreador territory in all but official designation. The Impressionist galleries are [Annabelle](/npcs/annabelle-triabell/)'s court within the court.
+- Toreador territory in all but official designation. The Impressionist galleries are Annabelle's court within the court.
 - A Ventrue neonate from Gary has no natural allies in this room. Every conversation is a test.
 
 ## Geographic Placement
