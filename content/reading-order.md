@@ -166,14 +166,27 @@ Published scenes from **Chicago Chronicles** in chronological order.
 
 ### Chapter 1 — Ashes to Ashes
 
-*Jan 1, 1991, 4:28 PM through Jan 2, 1991, 10:00 PM.*
+*Jan 1, 1991, 4:28 PM through Jan 4, 1991.*
 
 | # | Scene | PC | Date |
 |---|---|---|---|
 | 53 | [Welcome To Chicago](/posts/welcome-to-chicago/) | Darius + Sable | Jan 1, 1991, 4:28 PM |
 | 54 | [Dinner With Ballard](/posts/dinner-with-ballard/) | Darius + Sable | Jan 2, 1991, 4:29 PM |
 | 55 | [Vacant Haven](/posts/vacant-haven/) | Darius + Sable | Jan 2, 1991, 9:30 PM |
-| 56 | [Villains Flashback](/posts/villains-flashback/) | Chronicle | Jan 2, 1991, 10:00 PM |
+| 56 | [Rescued from Victory](/posts/rescued-from-victory/) | Darius + Sable | Jan 2-4, 1991 |
+
+### Pawns in the Game
+
+*London, England. October 1969. Lodin's ghoul Roarke flies to London to attend an auction, guard a coffin, and carry a package. He does everything right.*
+
+| # | Scene | PC | Date |
+|---|---|---|---|
+| 57 | [At Ease in the Windy City](/posts/at-ease-in-the-windy-city/) | Roarke | October 1969 |
+| 58 | [The Trip](/posts/the-trip/) | Roarke | October 1969 |
+| 59 | [Settling In](/posts/settling-in/) | Roarke | October 1969 |
+| 60 | [Pawns in the Game](/posts/pawns-in-the-game/) | Roarke | October 1969 |
+| 61 | [The Auction](/posts/the-auction/) | Roarke | October 1969 |
+| 62 | [Fool's Errand](/posts/fools-errand/) | Roarke | October 1969 |
 
 ---
 
