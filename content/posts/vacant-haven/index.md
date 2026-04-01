@@ -7,12 +7,12 @@ categories: ["Act II — Ashes to Ashes"]
 description: "A Toreador pulls off her gloves in a dead Prince's apartment and reads the walls. A Brujah Primogen who has outlived empires watches her do it. The vault door was torn like paper. Someone is on the other end of the pendant."
 ---
 
-*Sears Tower, 107th Floor — Lodin's Haven*
+*[Sears Tower](/locations/sears-tower/), 107th Floor — [Lodin's Haven](/locations/lodins-haven/)*
 *Chicago, Illinois*
 
 ---
 
-The town car pulled away from Daley's and Sable counted the seconds before anyone spoke. Belthazar sat in the front passenger seat with his coat folded across his knees. He hadn't looked at either of them since the restaurant. The driver was a ghoul with the stillness of someone who had been told not to listen, not to remember, and not to exist unless the car needed turning.
+The town car pulled away from Daley's and [Sable](/sable-price/) counted the seconds before anyone spoke. [Belthazar](/npcs/belthazar/) sat in the front passenger seat with his coat folded across his knees. He hadn't looked at either of them since the restaurant. The driver was a ghoul with the stillness of someone who had been told not to listen, not to remember, and not to exist unless the car needed turning.
 
 Rain on the windshield. Michigan Avenue in the dark, the buildings lit from inside, and the street wet enough to double every light so the city looked like two cities stacked on top of each other — the real one and the drowned one underneath. Sable watched the water sheet across the glass and thought about nothing, deliberately, the way she'd learned to think about nothing when men were watching.
 
@@ -22,7 +22,7 @@ The car turned onto Wacker. The ghoul pulled to the south entrance. Belthazar op
 
 Pressure.
 
-Not physical. Not wind, not sound. Something older than either. The predatory aura of a vampire she had never met, and it was wrong in a way that Modius's had never been wrong, wrong in a way that Lucian's had been wrong but deeper — the difference between standing near a fire and standing near the thing that makes fire possible. Her dead skin prickled. The rain tasted like copper.
+Not physical. Not wind, not sound. Something older than either. The predatory aura of a vampire she had never met, and it was wrong in a way that [Modius](/npcs/modius/)'s had never been wrong, wrong in a way that [Lucian](/npcs/lucian/)'s had been wrong but deeper — the difference between standing near a fire and standing near the thing that makes fire possible. Her dead skin prickled. The rain tasted like copper.
 
 He was standing under the awning.
 
@@ -30,7 +30,7 @@ Not tall. Lean, compact, dark overcoat that looked like it cost nothing and fit 
 
 Belthazar stopped walking. "Primogen."
 
-"Sheriff." The voice was measured, unhurried, the cadence of complete sentences considered before they were spoken. He looked at Belthazar the way a man looks at a tool he didn't request. "Ballard informed the council. I am here to observe."
+"Sheriff." The voice was measured, unhurried, the cadence of complete sentences considered before they were spoken. He looked at Belthazar the way a man looks at a tool he didn't request. "[Ballard](/npcs/ballard/) informed the council. I am here to observe."
 
 "This investigation is under my authority."
 
@@ -48,13 +48,13 @@ Two words. No ornamentation. His eyes stayed on her for one more second — the 
 
 "And the Ventrue."
 
-"Darius Cole. Tenth generation."
+"[Darius Cole](/darius-cole/). Tenth generation."
 
 "Inside."
 
 ---
 
-The indoor plaza was vast — marble, glass, the hushed acoustics of money spent on empty space. Double-decker elevators, brass and steel. Five police officers stood near the service bank and straightened when Belthazar approached. None of them looked at Critias. None of them seemed to notice him at all.
+The indoor plaza was vast — marble, glass, the hushed acoustics of money spent on empty space. Double-decker elevators, brass and steel. Five police officers stood near the service bank and straightened when Belthazar approached. None of them looked at [Critias](/npcs/critias/). None of them seemed to notice him at all.
 
 The elevator was the express — 107 floors in under a minute. Sable watched the digital numbers climb and watched Critias in the polished brass of the door. He stood with his hands in his coat pockets, perfectly still, and his reflection looked back at her with the patience of a man who had ridden elevators and stage coaches and horse carts and walked barefoot on roads that hadn't been named yet.
 
@@ -118,11 +118,11 @@ Darius came back from the security room. Reported: Natasha's memory had been sur
 
 ---
 
-The search continued. On the desk, half-buried under burned papers: a typed report from Edward Neally. Satanic activity in a wooded area northwest of the city. Two elders claiming Auspex power had detected mystical energies there. A map underneath, a section of woods circled in red. Lodin had written three letters in the margin: FLI.
+The search continued. On the desk, half-buried under burned papers: a typed report from Edward Neally. Satanic activity in a wooded area northwest of the city. Two elders claiming Auspex power had detected mystical energies there. A map underneath, a section of woods circled in red. [Lodin](/npcs/lodin/) had written three letters in the margin: FLI.
 
-In a filing cabinet: a folder of intelligence on Chicago's Anarchs. Lodin's handwriting in the margin of one printout — *When will they stop? Can their activity mean anything but my eventual demise?* And on another sheet, a reference to a troublesome Anarch called Damien who had moved into a neutral elder's haven.
+In a filing cabinet: a folder of intelligence on Chicago's Anarchs. Lodin's handwriting in the margin of one printout — *When will they stop? Can their activity mean anything but my eventual demise?* And on another sheet, a reference to a troublesome Anarch called [Damien](/npcs/damien/) who had moved into a neutral elder's haven.
 
-On a shelf in the office: a leather-bound journal. Admiral Tourney — a British naval officer and member of an organization he referred to only as A. And on the final page, in different handwriting: *Dedicated to Roarke, a fine retainer who sacrificed his life to bring me a book of worthless value.*
+On a shelf in the office: a leather-bound journal. Admiral Tourney — a British naval officer and member of an organization he referred to only as A. And on the final page, in different handwriting: *Dedicated to [Roarke](/npcs/roarke/), a fine retainer who sacrificed his life to bring me a book of worthless value.*
 
 "Look at this. Who's Roarke?" Sable asked, offering the journal.
 

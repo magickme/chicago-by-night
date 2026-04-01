@@ -7,16 +7,16 @@ categories: ["Chapter 2 — Convergence"]
 description: "February court at Modius's mansion. Two neonates meet for the first time."
 ---
 
-*Modius's Mansion, Miller Beach*
+*[Modius's Mansion](/locations/modius-mansion/), Miller Beach*
 *Gary, Indiana*
 
 ---
 
-The mansion on Miller Beach sat at the end of a dead street the way a casket sits at the end of an aisle. Two stories of timber and stone, porch light the only light on the block, the lake behind it black and restless in the February cold. Victor Salonika opened the door before Sable knocked.
+The mansion on Miller Beach sat at the end of a dead street the way a casket sits at the end of an aisle. Two stories of timber and stone, porch light the only light on the block, the lake behind it black and restless in the February cold. [Victor Salonika](/npcs/victor-salonika/) opened the door before Sable knocked.
 
 "He's in the drawing room."
 
-Nine o'clock. The hallway smelled like lemon polish and wet plaster. Modius's hell-paintings lined the walls, figures burning in landscapes that looked like Gary through a cracked windshield. Sable walked through them the way she'd walked through the Robert Taylor Homes at fourteen: eyes forward, inventory running. Exits, sight lines, the particular weight of a building that knows it's dying and hasn't told anyone yet.
+Nine o'clock. The hallway smelled like lemon polish and wet plaster. [Modius](/npcs/modius/)'s hell-paintings lined the walls, figures burning in landscapes that looked like Gary through a cracked windshield. Sable walked through them the way she'd walked through the Robert Taylor Homes at fourteen: eyes forward, inventory running. Exits, sight lines, the particular weight of a building that knows it's dying and hasn't told anyone yet.
 
 The drawing room. Piano lid closed. Modius stood at the window in a charcoal suit that was expensive when Kennedy was president. He turned. The smile arrived on schedule.
 
@@ -24,7 +24,7 @@ The drawing room. Piano lid closed. Modius stood at the window in a charcoal sui
 
 She sat where he pointed. The settee breathed dust. Modius took the armchair and crossed his legs and studied her the way a man studies a painting he hasn't finished hanging.
 
-"You've done well these past weeks. The report on Allicia was useful." He let the compliment settle. "Tonight I'd like you near me during court. Not beside me. Close. When the others speak, watch their faces."
+"You've done well these past weeks. The report on [Allicia](/npcs/allicia/) was useful." He let the compliment settle. "Tonight I'd like you near me during court. Not beside me. Close. When the others speak, watch their faces."
 
 She waited. Modius needed the next sentence the way a singer needs the chorus, and she'd learned a long time ago that silence was the best invitation.
 
@@ -68,7 +68,7 @@ She looked at Sable. Nodded once. The door closed, quiet as a coffin lid.
 
 ---
 
-Nine-fifty. Darius parked the Cutlass three blocks south on a residential street where the streetlights had quit. He walked the last stretch in the cold. Heavy coat, clean shirt, the check-cashing man calling on his prince. Three weeks since he'd been here. The mansion looked the same way Gary always looked: unchanged until you noticed the new crack in the foundation.
+Nine-fifty. [Darius](/darius-cole/) parked the Cutlass three blocks south on a residential street where the streetlights had quit. He walked the last stretch in the cold. Heavy coat, clean shirt, the check-cashing man calling on his prince. Three weeks since he'd been here. The mansion looked the same way Gary always looked: unchanged until you noticed the new crack in the foundation.
 
 Victor in the foyer.
 
@@ -82,13 +82,13 @@ The sheepish grin. The apologetic posture. "Yeah, I wasn't sure about the schedu
 
 The ballroom. Moth-eaten curtains, half-dead chandelier, chairs in a semicircle facing an armchair that wasn't a throne because Modius wasn't that obvious. Dust and old carpet and the particular staleness of money that stopped circulating.
 
-Three Kindred already present. Darius read the room in a sweep. Lucian in a wingback chair apart from the semicircle, arms folded, the posture of a man who attended court the way a lion attends a dog show. Claudette beside him, standing. Eighteen forever, watching everything with the flat attention of a blade laid on a table.
+Three Kindred already present. Darius read the room in a sweep. [Lucian](/npcs/lucian/) in a wingback chair apart from the semicircle, arms folded, the posture of a man who attended court the way a lion attends a dog show. Claudette beside him, standing. Eighteen forever, watching everything with the flat attention of a blade laid on a table.
 
 And at the piano, a woman he'd never seen. Black, early twenties, the kind of face that rearranged a room's gravity just by existing in it. She stood with the practiced stillness of someone who'd been managing the weight of being looked at since long before she died.
 
 He walked over. "I don't think we've met. Warren Birch."
 
-The handshake was quick and polite and gave him nothing. "Sable Price. I haven't seen you at court before."
+The handshake was quick and polite and gave him nothing. "[Sable Price](/sable-price/). I haven't seen you at court before."
 
 She was waiting for him to fill the silence. He gave her enough to be interesting and not enough to be readable. The orphan getting settled. A self-deprecating laugh. One look that lasted a half-second longer than casual required. Then he excused himself and found a chair and sat down and did not think about the woman at the piano.
 
@@ -212,7 +212,7 @@ Darius heard the code-switch and felt something unlock in his chest. One frequen
 
 The deflection dressed as honesty. The street phrasing. The woman who'd been in transactional arrangements before and could describe them without flinching. She gave him exactly one inch for the inch he'd given her.
 
-He thought about Chuc Luc's cellar and the Polaroid in his kitchen cabinet and the six-hundred-year-old Nosferatu who'd just read his blood like a ledger. He thought about the errand to Hammond and the pipeline and the game he was playing inside the game Modius thought he was playing.
+He thought about [Chuc Luc](/npcs/chuc-luc/)'s cellar and the Polaroid in his kitchen cabinet and the six-hundred-year-old Nosferatu who'd just read his blood like a ledger. He thought about the errand to Hammond and the pipeline and the game he was playing inside the game Modius thought he was playing.
 
 Then he looked at the woman beside him on the sidewalk, the only other person in Gary who understood what it cost to smile in that room.
 

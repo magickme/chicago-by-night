@@ -7,12 +7,12 @@ categories: ["Act II — Ashes to Ashes"]
 description: "Three hundred pounds of Ventrue authority orders wine and porterhouse for two neonates who cannot eat. The Prince is missing. The assignment is not a request."
 ---
 
-*Daley's Restaurant, Gold Coast*
+*[Daley's Restaurant](/locations/daleys-restaurant/), [Gold Coast](/locations/gold-coast/)*
 *Chicago, Illinois*
 
 ---
 
-The ghoul held the car door at the Hyatt's lower entrance, and the cold came in like a blade — sixteen degrees and dropping, the kind of January that turns breath to glass before it leaves your mouth. Sable slid into the back seat. Darius followed. Neither spoke. The town car smelled like Armor All and something botanical, an air freshener that cost more than her first month's rent on State Street.
+The ghoul held the car door at the Hyatt's lower entrance, and the cold came in like a blade — sixteen degrees and dropping, the kind of January that turns breath to glass before it leaves your mouth. [Sable](/sable-price/) slid into the back seat. Darius followed. Neither spoke. The town car smelled like Armor All and something botanical, an air freshener that cost more than her first month's rent on State Street.
 
 Michigan Avenue at six o'clock. The Magnificent Mile in winter through tinted glass, all light and stone, and Sable could feel the difference between this city and Gary the way you feel the difference between a house where someone lives and a house where someone died. She had been here twice as a mortal — once on a school trip and once with a man whose name she kept in a locked room in her memory and did not open. Chicago looked the same both times. It looked the same now. Big and clean and indifferent, and the cold made the buildings taller.
 
@@ -20,7 +20,7 @@ The ghoul pulled to the curb on North State Street. No sign on the building, jus
 
 Inside: butter and old wood and the ghost of cigarette smoke that never quite leaves a room where powerful men have been eating since before the war. The maitre d' walked them through the dining room without asking their names. Half-full — mortal couples, business dinners, a woman in pearls laughing at something that wasn't funny. Nobody looked up. The frosted glass partition at the back. The velvet curtain.
 
-Ballard.
+[Ballard](/npcs/ballard/).
 
 He was enormous. Three hundred pounds in a suit tailored to accommodate the body rather than improve it, and his face had the florid, damp quality of a man who sweats in every season. Small eyes. Manicured nails, which made everything else worse — the precision of the grooming against the ruin of the flesh, like a clean collar on a dirty shirt. The table in front of him was covered with plates. Eleven of them, Sable counted as the waiter cleared them away, most scraped clean. He had been here for hours. He was eating bread and he did not stop when they came through the curtain.
 
@@ -40,13 +40,13 @@ Then the food. Ballard ordered for the table — porterhouse, lobster, risotto, 
 
 Ballard turned to Darius. "Your name. Your real name, and who is your sire."
 
-Sable leaned forward. Drew the eye. The geometry of attention she'd learned before she was dead and perfected after. "Mr. Ballard, we appreciate your hospitality. The letter speaks for itself, and we're happy to discuss Prince Modius's intentions in whatever detail you—"
+Sable leaned forward. Drew the eye. The geometry of attention she'd learned before she was dead and perfected after. "Mr. Ballard, we appreciate your hospitality. The letter speaks for itself, and we're happy to discuss Prince [Modius](/npcs/modius/)'s intentions in whatever detail you—"
 
 "I wasn't talking to you."
 
 He didn't look at her. He was looking at Darius, and the dismissal was so complete that the room rearranged itself around the fact of her irrelevance. Not hostility. Something worse: she wasn't worth the energy of hostility. A Ventrue talking to another Ventrue, and the Toreador in the room was furniture.
 
-"Darius Cole," Darius said. "Tenth generation."
+"[Darius Cole](/darius-cole/)," Darius said. "Tenth generation."
 
 Ballard went still. The stillness of something large recalculating. "Tenth generation. Modius sent a tenth-generation Ventrue as a courier. Either he respects Chicago more than I thought, or he respects you less than you think."
 
@@ -66,7 +66,7 @@ Ballard set down his knife. Folded his hands — enormous hands, thick fingers, 
 
 The curtain parted.
 
-Edward Neally stepped through — double-breasted suit, wing tips, hairpiece that might as well have been real. The man who had played Lodin at the Field Museum two nights ago, performing a Prince's authority with a bureaucrat's precision. He sat beside Ballard without being invited.
+Edward Neally stepped through — double-breasted suit, wing tips, hairpiece that might as well have been real. The man who had played [Lodin](/npcs/lodin/) at the [Field Museum](/locations/field-museum/) two nights ago, performing a Prince's authority with a bureaucrat's precision. He sat beside Ballard without being invited.
 
 "It's done. The Primogen know."
 
@@ -88,7 +88,7 @@ The silence stretched. Restaurant sounds filled it — silverware, conversation,
 
 He held her gaze a moment longer than necessary. Then he grunted and lifted a hand. The frosted glass partition behind her clicked, and a figure stepped through — lean, dark-haired, long coat that didn't hide the way he moved, which was the way people move when hurting other people is a practiced skill. He stood by the curtain and said nothing.
 
-"Belthazar. He goes where you go. He sees what you see."
+"[Belthazar](/npcs/belthazar/). He goes where you go. He sees what you see."
 
 Belthazar looked at Sable the way a man looks at a parking meter.
 

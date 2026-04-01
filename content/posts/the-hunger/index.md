@@ -7,12 +7,12 @@ categories: ["Chapter 8 — The Hunger"]
 description: "Four nights without feeding and the west side is on fire. A nurse's arithmetic. A puppet's strings retied. A prince's fear dressed as a favor. And at a burned church after midnight, tire tracks that shouldn't be there."
 ---
 
-*Adams Street / The Docks / Modius's Mansion / Polk & 13th*
+*Adams Street / The Docks / [Modius's Mansion](/locations/modius-mansion/) / Polk & 13th*
 *Gary, Indiana*
 
 ---
 
-The apartment held the heat like a closed hand. Eighty-five degrees outside and the radiator pipes carried it through the walls, summer turning the building into something Gary's winter would never manage. Darius opened his eyes at sundown and smelled smoke.
+The apartment held the heat like a closed hand. Eighty-five degrees outside and the radiator pipes carried it through the walls, summer turning the building into something Gary's winter would never manage. [Darius](/darius-cole/) opened his eyes at sundown and smelled smoke.
 
 Not the apartment. Not the stove or the wiring or any of the sixteen things wrong with the building that the landlord before him never fixed. This smoke came from the west, three or four blocks south, and it carried the particular sweetness of house insulation melting into cinderblock. A fire truck idled somewhere on Adams. He could hear the diesel and the crackle of hand radios and the low murmur of a crowd with nowhere better to be.
 
@@ -30,7 +30,7 @@ The bartender went to change a keg. The men at the bar argued about the White So
 
 Darius moved from across the booth to beside her. Not sudden. The way you shift when you want to say something quieter. She didn't pull away. He found the vein in her neck and the Kiss opened her like a door she didn't know was locked, and Nadine Palmer made a sound that was not pain and not fear and not anything the conscious mind has a word for, and went still.
 
-Three draws. The blood carried exhaustion and cortisol and the iron taste of a body running on caffeine and obligation. Underneath it, the debt. He could taste every dollar she owed the way a machine reads a barcode — each one specific, each one permanent, each one feeding him in the way that nothing else could. The restriction was a mirror, Chuc Luc had said once. What you eat is what you are. Darius ate debt. He lived on the taste of people drowning.
+Three draws. The blood carried exhaustion and cortisol and the iron taste of a body running on caffeine and obligation. Underneath it, the debt. He could taste every dollar she owed the way a machine reads a barcode — each one specific, each one permanent, each one feeding him in the way that nothing else could. The restriction was a mirror, [Chuc Luc](/npcs/chuc-luc/) had said once. What you eat is what you are. Darius ate debt. He lived on the taste of people drowning.
 
 He stopped at three. Left the five on the table. Walked out. She'd wake in twenty minutes and call her sister from the pay phone and never remember the man who bought her coffee on the worst night of her year.
 
@@ -38,13 +38,13 @@ The docks were fifteen minutes east and the smoke thinned as he drove. The lake 
 
 Eddie looked up when Darius walked in. The half-second of blankness, then the mechanical warmth. "Mr. Birch." Forty seconds later the script was installed — not the words but the posture, the boredom, the mild irritation of a man who'd been asked the same question twice and didn't understand why anyone cared. Five successes. Granite on granite. If Cantone sent a crew with baseball bats, Eddie would bore them into leaving.
 
-Ray was in the foreman's shed with his Racing Form and his Marlboros. The intel came with the smoke — two suits at the union hall last Thursday, Chicago accents, asking about warehouse lease structures. Not muscle. Paperwork. Cantone was tracing ownership chains, narrowing the field, building a case before he sent the crew. And Lucian's new man at Berth 5 was walking all the berths after midnight, checking manifests that weren't his to check.
+Ray was in the foreman's shed with his Racing Form and his Marlboros. The intel came with the smoke — two suits at the union hall last Thursday, Chicago accents, asking about warehouse lease structures. Not muscle. Paperwork. Cantone was tracing ownership chains, narrowing the field, building a case before he sent the crew. And [Lucian](/npcs/lucian/)'s new man at Berth 5 was walking all the berths after midnight, checking manifests that weren't his to check.
 
 The machine had parts Darius hadn't installed. Parts that moved on their own schedules, toward their own conclusions.
 
 The mansion sat at the Emerson-Midtown seam like a mausoleum that still accepted visitors. White columns going gray. Classical music from inside. Chopin becoming Debussy becoming Satie, the soundtrack of a man who'd been alone for a very long time.
 
-Modius received him in the study. Lamp positioned to catch the caller's face and leave the prince in shadow. The predatory aura of a seventh-generation Toreador filled the room like barometric pressure, and Darius sat in the deep chair and felt every vertebra in his spine register the difference between his blood and the blood on the other side of the desk.
+[Modius](/npcs/modius/) received him in the study. Lamp positioned to catch the caller's face and leave the prince in shadow. The predatory aura of a seventh-generation Toreador filled the room like barometric pressure, and Darius sat in the deep chair and felt every vertebra in his spine register the difference between his blood and the blood on the other side of the desk.
 
 The prince was warm. Pleased with the Lucian work. And frightened, under the warmth, of something he spoke about the way people speak about weather they can't control.
 
@@ -64,9 +64,9 @@ D-Train had come early. Before sunset, before Darius was even awake. He'd brough
 
 The receipt was in the gravel near the van's front tire. Amoco. Fifth and Grant. 6:47 PM. Eleven dollars and forty cents. Cash.
 
-Three blocks from The Torch. D-Train had been in the heart of Gary's Kindred territory before he drove south to check the church, and now he was gone, back to Chicago, back to Mama Roux, carrying the news that the Gary operation was dead and the question of who killed it.
+Three blocks from [The Torch](/locations/the-torch/). D-Train had been in the heart of Gary's Kindred territory before he drove south to check the church, and now he was gone, back to Chicago, back to Mama Roux, carrying the news that the Gary operation was dead and the question of who killed it.
 
-Darius stood in the ash at Polk and Thirteenth and looked at the receipt under the streetlight and knew two things. The first was that the Thursday intercept was finished before it started. The second was that he needed to talk to Sable and it was Wednesday and the next call was Friday and there was no emergency channel and that gap in the architecture was going to cost him if he didn't close it.
+Darius stood in the ash at Polk and Thirteenth and looked at the receipt under the streetlight and knew two things. The first was that the Thursday intercept was finished before it started. The second was that he needed to talk to [Sable](/sable-price/) and it was Wednesday and the next call was Friday and there was no emergency channel and that gap in the architecture was going to cost him if he didn't close it.
 
 He pocketed the receipt. Drove home. The west side smelled like smoke and the docks smelled like rust and the mansion had smelled like furniture polish over something older, and all of it — the nurse's blood, Eddie's compliance, the prince's fear, the van tracks in the gravel — was the same machine. His machine. The one he'd built to survive a year in a dying city, and the one that required, every night, the specific fuel of other people's misfortune to keep running.
 

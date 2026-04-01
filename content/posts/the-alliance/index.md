@@ -7,18 +7,18 @@ categories: ["Chapter 4 — The Alliance"]
 description: "A side entrance. A silk robe. Five words across six months. A woman who learned the word no."
 ---
 
-*Modius's Mansion, Miller Beach*
+*[Modius's Mansion](/locations/modius-mansion/), Miller Beach*
 *Gary, Indiana*
 
 ---
 
 Victor called on Tuesday. The formal voice. The one he used when the words weren't his.
 
-"Allicia would like to see you. Tomorrow evening. The mansion. Come to the side entrance."
+"[Allicia](/npcs/allicia/) would like to see you. Tomorrow evening. The mansion. Come to the side entrance."
 
-The side entrance. Not the front door with the drawing room and the piano and the prince behind the lid. The other door — the one that led to the private wing, the lake-facing rooms, the part of the house where Modius kept the things he considered his.
+The side entrance. Not the front door with the drawing room and the piano and the prince behind the lid. The other door — the one that led to the private wing, the lake-facing rooms, the part of the house where [Modius](/npcs/modius/) kept the things he considered his.
 
-Sable drove the Park Avenue east on Wednesday night. Miller Beach. The dead-end road. The porch light. Two cars in the drive: the black Lincoln and a sedan she didn't recognize. She parked on the street and walked the flagstone path between the hedgerow and the foundation wall to a door she'd never used.
+[Sable](/sable-price/) drove the Park Avenue east on Wednesday night. Miller Beach. The dead-end road. The porch light. Two cars in the drive: the black Lincoln and a sedan she didn't recognize. She parked on the street and walked the flagstone path between the hedgerow and the foundation wall to a door she'd never used.
 
 Unlocked. A narrow staircase. One wall sconce. The air smelled like old wood and lake damp and gardenia — something floral that didn't belong in Gary, something someone had been wearing alone in a room for a very long time.
 

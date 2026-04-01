@@ -13,11 +13,11 @@ description: "A letter with no name. A drawing room with ears. A lake at two in 
 
 The letter had no name on it. Cream paper, old cursive, slid under the studio door like a knife between ribs. *Your mother called the salon on Cottage Grove looking for you. She's been calling every week. Someone told her you moved to Indiana. She has the Gary area code now.*
 
-Sable read it twice and put it face-down on the counter and drove to Miller Beach with a dead woman's handwriting following her all the way east.
+[Sable](/sable-price/) read it twice and put it face-down on the counter and drove to Miller Beach with a dead woman's handwriting following her all the way east.
 
 Victor met her at the front door. Not the side. The front, with the porch light and the drawing room and the prince's acoustics designed to carry every whisper to every corner. New rules. All visits in the drawing room. Victor available. The side entrance and the private wing sealed off like a crime scene nobody had the nerve to call a crime.
 
-Allicia sat in a chair by the window. Dark dress. Hair down. Thinner than Friday. The collarbone sitting wrong under the skin, the dullness that comes from a blood pool running on fumes. Sable sharpened her senses and read the room: dilated pupils, the sour scent of hunger, no fresh blood. Modius was withholding. Starving his childe the way a man turns off the heat in February — not to kill, but to remind you who controls the furnace.
+[Allicia](/npcs/allicia/) sat in a chair by the window. Dark dress. Hair down. Thinner than Friday. The collarbone sitting wrong under the skin, the dullness that comes from a blood pool running on fumes. Sable sharpened her senses and read the room: dilated pupils, the sour scent of hunger, no fresh blood. [Modius](/npcs/modius/) was withholding. Starving his childe the way a man turns off the heat in February — not to kill, but to remind you who controls the furnace.
 
 Modius wasn't home. No heartbeat upstairs. Just Victor at the sideboard and two Toreador women with a language nobody taught them.
 
@@ -39,7 +39,7 @@ Sable left at ten-fifteen. Fed on the west side — a man outside a bar on Broad
 
 At two in the morning she stood on the shingle beach behind the mansion. The porch light was off. One window on the second floor glowed and died. Then Allicia was on the lawn — Celerity-fast, bare feet on the grass, dark clothes, shaking with the kind of hunger that lives in the jaw.
 
-Sable undressed on the bluff. Not the Torch. Not performance. She let the blouse fall and stood in the moonlight and let the woman who hadn't been touched gently in eighty years see her the way no one in the drawing room would ever be allowed to see her.
+Sable undressed on the bluff. Not [the Torch](/locations/the-torch/). Not performance. She let the blouse fall and stood in the moonlight and let the woman who hadn't been touched gently in eighty years see her the way no one in the drawing room would ever be allowed to see her.
 
 She stepped into the lake. The water took her to the waist. Cold and black and alive. She turned and beckoned.
 

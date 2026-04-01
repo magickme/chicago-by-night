@@ -12,13 +12,13 @@ description: "Four months between scenes. Two neonates circle each other in a dy
 
 ---
 
-Sable called first.
+[Sable](/sable-price/) called first.
 
-A Tuesday in February, ten days after the Elysium. She used the studio phone, the line Modius knew about, which meant the call was insurance before it was anything else. Darius picked up on the third ring. They talked for forty minutes about nothing — court, The Torch, the weather in Gary as if either of them felt it. When she hung up she sat on the floor of Allicia's old studio and looked at the pointe shoes turning on their ribbons and thought about the man on the other end of the line and what she was doing and whether she was doing it for Modius or for herself and whether the distinction mattered.
+A Tuesday in February, ten days after the Elysium. She used the studio phone, the line [Modius](/npcs/modius/) knew about, which meant the call was insurance before it was anything else. [Darius](/darius-cole/) picked up on the third ring. They talked for forty minutes about nothing — court, [The Torch](/locations/the-torch/), the weather in Gary as if either of them felt it. When she hung up she sat on the floor of [Allicia](/npcs/allicia/)'s old studio and looked at the pointe shoes turning on their ribbons and thought about the man on the other end of the line and what she was doing and whether she was doing it for Modius or for herself and whether the distinction mattered.
 
 She called again three days later. He picked up on the second ring.
 
-By March they had a rhythm. The Torch on weekends. A parked car on a side street after feeding, engine off, the heater running because it made the silence feel inhabited. He drove the Cutlass. She drove the Buick Michael had given her, the one she should have abandoned months ago but couldn't because it was the only thing her sire had left her and throwing it away would mean something she wasn't ready to mean. They parked on Lake Street, or Tyler, or the access road behind the old Sears on Broadway where the streetlights had been out since the store closed in '83.
+By March they had a rhythm. The Torch on weekends. A parked car on a side street after feeding, engine off, the heater running because it made the silence feel inhabited. He drove the Cutlass. She drove the Buick [Michael](/npcs/michael/) had given her, the one she should have abandoned months ago but couldn't because it was the only thing her sire had left her and throwing it away would mean something she wasn't ready to mean. They parked on Lake Street, or [Tyler](/npcs/tyler/), or the access road behind the old Sears on Broadway where the streetlights had been out since the store closed in '83.
 
 They talked. They said nothing.
 

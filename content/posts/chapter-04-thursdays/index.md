@@ -7,7 +7,7 @@ categories: ["Chapter 1 — Gary Sandbox"]
 description: "Darius drives to Telton Cemetery with a gift for a man who isn't home and finds a hunter instead."
 ---
 
-*Telton Cemetery*
+*[Telton Cemetery](/locations/telton-cemetery/)*
 *Gary, Indiana*
 
 ---
@@ -18,7 +18,7 @@ Almost nothing left. He'd done the math that morning, lying in the dark behind t
 
 He'd thought about it. Then he'd stopped thinking about it. Discipline. The load-bearing wall inside him that held the Beast on the other side.
 
-The drive from the west side to Telton took eleven minutes. Darius used every one of them to run the scenario: park a block north, approach on foot, leave the bag at the mausoleum door, be gone before the hunger made decisions for him. A gift that acknowledged Michael's domain without demanding anything in return. Candles for the dead. A blanket for the living dead. Wine nobody would drink. The gesture mattered more than the objects.
+The drive from the west side to Telton took eleven minutes. Darius used every one of them to run the scenario: park a block north, approach on foot, leave the bag at the mausoleum door, be gone before the hunger made decisions for him. A gift that acknowledged [Michael](/npcs/michael/)'s domain without demanding anything in return. Candles for the dead. A blanket for the living dead. Wine nobody would drink. The gesture mattered more than the objects.
 
 He was four blocks from the cemetery when he started the sweep.
 
@@ -48,7 +48,7 @@ At 10:47 PM the driver's door opened.
 
 The man who got out was tall. Long dark coat, the kind that covered a shoulder holster or a hip rig without showing the outline. Gloves — he wore gloves, and even from fifty yards Darius could see that the gloves weren't leather, they were cotton, the kind you wore when your hands had been burned badly enough that the scar tissue cracked in cold air.
 
-Sullivan Dane. It had to be. Everything matched the fragments — Modius's whispered warnings, the profile Darius had assembled over months of listening at court: tall, British, ex-Jesuit, burn scars, always gloves. A man whose faith was a weapon. Six confirmed kills. Connected to the Inquisition. Patient.
+[Sullivan Dane](/npcs/sullivan-dane/). It had to be. Everything matched the fragments — [Modius](/npcs/modius/)'s whispered warnings, the profile Darius had assembled over months of listening at court: tall, British, ex-Jesuit, burn scars, always gloves. A man whose faith was a weapon. Six confirmed kills. Connected to the Inquisition. Patient.
 
 Dane walked the cemetery perimeter on the outside of the fence. He didn't enter. He moved with the unhurried precision of a man who had been doing this for weeks or months, who knew every headstone and fence post and sight line, who was not looking for anything new but confirming that nothing had changed. At the south gate he stopped, crouched, and studied the ground. Footprints. Michael's boots in the January mud — Dane was tracking Michael's schedule by the impressions he left at the gate.
 
@@ -102,6 +102,6 @@ Darius took the paper bag inside. He'd deliver it another night. Not Thursday.
 
 He locked the door. Checked the curtains. Sat at the kitchen table with the napkin and his Field Notes notebook and wrote down everything — the Buick, the plates, the mirror checks, the footprint tracking, the stake, the fob, Gideon Ministries — and when he was done he had two pages of operational intelligence on the most dangerous mortal in Gary, Indiana.
 
-Eleven days into the new year and Darius Cole had not yet spoken to the bookie, had not delivered the gift, had not made a single move on the pipeline his sire demanded. But he knew things. He knew the shape of the docks and the name of the man who ran the money and the schedule of the Malkavian who picked up envelopes on Thursdays and the make and model and rental history of the car that a witch-hunter used to watch a cemetery.
+Eleven days into the new year and [Darius Cole](/darius-cole/) had not yet spoken to the bookie, had not delivered the gift, had not made a single move on the pipeline his sire demanded. But he knew things. He knew the shape of the docks and the name of the man who ran the money and the schedule of the Malkavian who picked up envelopes on Thursdays and the make and model and rental history of the car that a witch-hunter used to watch a cemetery.
 
 He knew the architecture. The building was going up. And nobody else knew it was there.

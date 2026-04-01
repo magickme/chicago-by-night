@@ -7,14 +7,14 @@ categories: ["Chapter 3 — Blood at Dawn"]
 description: "Telling Allicia. A photograph face-down. A prince who wants the full story. A snow globe on a nightstand."
 ---
 
-*Modius's Mansion, Miller Beach*
+*[Modius's Mansion](/locations/modius-mansion/), Miller Beach*
 *Gary, Indiana*
 
 ---
 
-Sable sat on the edge of the bed and told the truth. All of it. The dead boy in the alley, the mouth working, the three syllables of a name being forced through a throat that had forgotten what throats were for. The sorcerer on Pennsylvania Avenue with the shotgun and the ritual circles and the photographs spread across his kitchen table. The spirit bag pulsing in her pocket. The fire in the Wasteland. The sound the door made when it closed.
+[Sable](/sable-price/) sat on the edge of the bed and told the truth. All of it. The dead boy in the alley, the mouth working, the three syllables of a name being forced through a throat that had forgotten what throats were for. The sorcerer on Pennsylvania Avenue with the shotgun and the ritual circles and the photographs spread across his kitchen table. The spirit bag pulsing in her pocket. The fire in the Wasteland. The sound the door made when it closed.
 
-Allicia stood at the window with her arms crossed and the lake behind her and didn't move. The green eyes took it in the way stone takes in rain — absorbing, not reacting, the surface unchanged while something underneath shifted.
+[Allicia](/npcs/allicia/) stood at the window with her arms crossed and the lake behind her and didn't move. The green eyes took it in the way stone takes in rain — absorbing, not reacting, the surface unchanged while something underneath shifted.
 
 When Sable pulled out the photograph and held it up, Allicia looked at her own hands on a piano through the eyes of a man who'd watched her for years and built a weapon out of his son to reach her, and whatever moved in her face was too old and too deep to read. She took the photograph and set it face-down on the nightstand. Next to the snow globe. The bird in the cage and the woman at the piano side by side, two images of the same captivity.
 
@@ -28,7 +28,7 @@ They sat. The lake sounded through the window. Allicia didn't speak again. She d
 
 ---
 
-Downstairs, Darius gave Modius the version that worked. A threat to Allicia. Mortal, occult, aimed and neutralized. The framing was careful: *your* court, *your* people, *we* acted in service to *your* authority. The prince heard what the prince needed to hear: his neonates were loyal, his collection was safe, the machine was working.
+Downstairs, [Darius](/darius-cole/) gave [Modius](/npcs/modius/) the version that worked. A threat to Allicia. Mortal, occult, aimed and neutralized. The framing was careful: *your* court, *your* people, *we* acted in service to *your* authority. The prince heard what the prince needed to hear: his neonates were loyal, his collection was safe, the machine was working.
 
 Modius listened with the piano lid open and the Auspex scanning and the Conniver's mind running the geometry of two neonates who solved a problem without asking permission. The geometry bothered him. He filed it.
 
@@ -54,8 +54,8 @@ The mansion shrank in the rearview mirror. The lake was dark. The porch light he
 
 "She kept the snow globe," Sable said.
 
-Darius drove. The city was quiet in the way Gary was quiet: not peace, just the pause between one thing going wrong and the next. Somewhere on the east side, John Wierus was sitting at his kitchen table writing in notebooks that no longer had a companion volume, and the space underneath his son's bedroom floor was empty, and the discovery of that emptiness was hours or days away, and when it came the man who had summoned a spirit and lost a son and spoken to a vampire in his kitchen would become something worse than all three, because grief with a target is just another word for war.
+Darius drove. The city was quiet in the way Gary was quiet: not peace, just the pause between one thing going wrong and the next. Somewhere on the east side, [John Wierus](/npcs/john-wierus/) was sitting at his kitchen table writing in notebooks that no longer had a companion volume, and the space underneath his son's bedroom floor was empty, and the discovery of that emptiness was hours or days away, and when it came the man who had summoned a spirit and lost a son and spoken to a vampire in his kitchen would become something worse than all three, because grief with a target is just another word for war.
 
-The brooch sat in Sable's pocket. The initials E.K. The craftsmanship of a dead man's clan. One thread resolved, another knotted tighter, and the Torch auction three weeks away, and Shepard in the wind, and the coterie driving west on a Sunday night with more answers than they'd started with and more questions than they could carry.
+The brooch sat in Sable's pocket. The initials E.K. The craftsmanship of a dead man's clan. One thread resolved, another knotted tighter, and [the Torch](/locations/the-torch/) auction three weeks away, and Shepard in the wind, and the coterie driving west on a Sunday night with more answers than they'd started with and more questions than they could carry.
 
 The game was the game. But for the first time, they were playing it together.

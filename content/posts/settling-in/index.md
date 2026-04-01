@@ -20,11 +20,11 @@ A man named Harvey walked in carrying a clipboard and the expression of someone 
 
 He said it the way a dentist says *open wide.*
 
-Amber went down first. Roarke caught her eye -- the look that sixty-one years teaches you to send without moving your face -- and she understood. Her breathing changed. Her hands started shaking with something that looked real because she was remembering something real to fuel it. She grabbed the edge of the detector frame and her knees buckled and Harvey turned and everyone turned and Roarke jerked his chin at Derek and the two of them carried the crate into a maintenance alcove on the far wall while Natasha blocked the sightline.
+Amber went down first. [Roarke](/npcs/roarke/) caught her eye -- the look that sixty-one years teaches you to send without moving your face -- and she understood. Her breathing changed. Her hands started shaking with something that looked real because she was remembering something real to fuel it. She grabbed the edge of the detector frame and her knees buckled and Harvey turned and everyone turned and Roarke jerked his chin at Derek and the two of them carried the crate into a maintenance alcove on the far wall while Natasha blocked the sightline.
 
 Concrete walls. No windows. The brass fittings stopped catching anything.
 
-Harvey came back. Five suitcases for four visible people. He opened them one by one and asked who they belonged to. Lodin's was the blue one -- wrong size for everyone here. Roarke said it was clothes Amber packed for her father in Kensington. Amber, still catching her breath on a folding chair, nodded. Dad's hopeless about shopping for himself, she said. Harvey checked the manifest. There was a large wooden chest listed. Where was it?
+Harvey came back. Five suitcases for four visible people. He opened them one by one and asked who they belonged to. [Lodin](/npcs/lodin/)'s was the blue one -- wrong size for everyone here. Roarke said it was clothes Amber packed for her father in Kensington. Amber, still catching her breath on a folding chair, nodded. Dad's hopeless about shopping for himself, she said. Harvey checked the manifest. There was a large wooden chest listed. Where was it?
 
 Roarke lied. Harvey didn't buy it. He started walking toward the alcove.
 

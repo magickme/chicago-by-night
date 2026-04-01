@@ -7,7 +7,7 @@ categories: ["Chapter 1 — Gary Sandbox"]
 description: "New Year's morning. Sable walks into The Torch and walks right back out."
 ---
 
-*The Torch*
+*[The Torch](/locations/the-torch/)*
 *Gary, Indiana*
 
 ---
@@ -22,7 +22,7 @@ The hindbrain — the part that had kept her alive on State Street and in the Ro
 
 Marcus "Big Six" Tillman.
 
-Sable stopped walking. The music was Bobby Brown, tinny through speakers that had been blown out and repaired and blown out again. The runway stripper was working the pole with the mechanical disinterest of a woman counting ceiling tiles. Victor Salonika was behind the bar with his shotgun underneath and his patience on top, polishing a glass that would never be clean. Near the piano, in her yellow lace, Allicia sat perfectly still and watched nothing.
+[Sable](/sable-price/) stopped walking. The music was Bobby Brown, tinny through speakers that had been blown out and repaired and blown out again. The runway stripper was working the pole with the mechanical disinterest of a woman counting ceiling tiles. [Victor Salonika](/npcs/victor-salonika/) was behind the bar with his shotgun underneath and his patience on top, polishing a glass that would never be clean. Near the piano, in her yellow lace, [Allicia](/npcs/allicia/) sat perfectly still and watched nothing.
 
 None of them mattered. Big Six was twenty feet from the bar and he was watching the dancer the way he used to watch Sable — with the patience of a man who has already decided what belongs to him and is simply waiting for the formality of possession to catch up with the fact of it.
 
@@ -98,7 +98,7 @@ The parking garage on Madison had been dead for years. Three levels, the top two
 
 She killed the engine. The dashboard clock said 4:17 AM. Dawn was two hours away.
 
-She climbed into the back seat. The fur coat — Sharon's coat, stolen from the Roselle house the night she left, the last piece of the woman who had shared her and then tried to destroy her — was bundled on the seat. She pulled it over herself and lay in the dark and listened to the Buick's engine ticking as it cooled, and the sound was the loneliest sound she had ever heard, lonelier than the empty apartment in Robert Taylor after Denise went to work, lonelier than the dressing room at The Oasis after the last customer left, lonelier than the three nights in Michael's basement when the old life burned out of her and nothing grew in its place.
+She climbed into the back seat. The fur coat — Sharon's coat, stolen from the Roselle house the night she left, the last piece of the woman who had shared her and then tried to destroy her — was bundled on the seat. She pulled it over herself and lay in the dark and listened to the Buick's engine ticking as it cooled, and the sound was the loneliest sound she had ever heard, lonelier than the empty apartment in Robert Taylor after Denise went to work, lonelier than the dressing room at The Oasis after the last customer left, lonelier than the three nights in [Michael](/npcs/michael/)'s basement when the old life burned out of her and nothing grew in its place.
 
 The coat smelled like Chanel No. 5. Sharon's perfume. The woman who had kissed her and shared blood with her and looked at her with the appraising calm of a collector evaluating a purchase, and who would kill her if she found her, not out of hatred but out of the principle that broken toys should not be left where other people can find them.
 

@@ -7,14 +7,14 @@ categories: ["Chapter 7 — The Cartographer"]
 description: "A notebook with forty-three names that aren't names. A Nosferatu who trades in truth. A man in a sedan who will remember nothing."
 ---
 
-*The Torch / Telton Cemetery / The Wasteland*
+*[The Torch](/locations/the-torch/) / [Telton Cemetery](/locations/telton-cemetery/) / The Wasteland*
 *Gary, Indiana*
 
 ---
 
-The notebook landed on the table between them like evidence being entered into a case file that nobody would ever read. Blue spiral-bound, coffee ring on the cover, forty-three lines of inventory in a dead man's careful hand. Sable sat across the booth and didn't explain it because the room she'd found it in was already behind her, filed in the part of Humanity 5 that catalogs horror as geometry.
+The notebook landed on the table between them like evidence being entered into a case file that nobody would ever read. Blue spiral-bound, coffee ring on the cover, forty-three lines of inventory in a dead man's careful hand. [Sable](/sable-price/) sat across the booth and didn't explain it because the room she'd found it in was already behind her, filed in the part of Humanity 5 that catalogs horror as geometry.
 
-Darius opened it. Read it the way he read everything — for leverage, for liability, for the architecture underneath the numbers.
+[Darius](/darius-cole/) opened it. Read it the way he read everything — for leverage, for liability, for the architecture underneath the numbers.
 
 D-Train. Thursdays. Blue van. Twelve to nineteen, female, mostly Black, dollar amounts that said wholesale. B7/SC — Berth 7, Sal Cantone, the dock pipeline and the trafficking pipeline sharing infrastructure like two parasites on the same host. And Mr. White. Milwaukee. October and March. Twice a year, buying in bulk, paying three times the going rate for a product that had specific taste and pale old hands.
 
@@ -22,15 +22,15 @@ Forty-three people reduced to abbreviations. The youngest was twelve. The column
 
 Darius closed the notebook. The church needed to burn.
 
-Sable said, "A better question might be who carries the insurance," and the answer was nobody, because nobody insures a boarded-up church in south Gary, and that was the point. Buildings burned in Gary every month. Fire trucks came in twenty minutes if they came at all. Squatter candle. Wiring. An origin story that wrote itself in a city where everything was already on fire. Darius would give the key to Ray Pulaski and the church would be gone by the weekend and the anchor bolts and the chain and the stain in the wood would become ash that nobody would test because nobody in Gary tested ash.
+Sable said, "A better question might be who carries the insurance," and the answer was nobody, because nobody insures a boarded-up church in south Gary, and that was the point. Buildings burned in Gary every month. Fire trucks came in twenty minutes if they came at all. Squatter candle. Wiring. An origin story that wrote itself in a city where everything was already on fire. Darius would give the key to [Ray Pulaski](/npcs/ray-pulaski/) and the church would be gone by the weekend and the anchor bolts and the chain and the stain in the wood would become ash that nobody would test because nobody in Gary tested ash.
 
-He briefed her on Juggler. She filed it. They didn't linger. Two vampires exchanging operational intelligence in a booth at a bar where the jukebox covered the words and the bartender knew enough to keep his distance. Sable left the way she always left — the room tilting toward her, then settling back to its natural shape when the door closed.
+He briefed her on [Juggler](/npcs/juggler/). She filed it. They didn't linger. Two vampires exchanging operational intelligence in a booth at a bar where the jukebox covered the words and the bartender knew enough to keep his distance. Sable left the way she always left — the room tilting toward her, then settling back to its natural shape when the door closed.
 
 Darius checked his watch. Quarter to twelve. Cemetery at midnight.
 
 ---
 
-The Cutlass rolled south on Grant past the dead blocks where the streetlights gave up. Telton Cemetery sat on the edge of the wasteland — six acres of headstones and overgrown paths behind chain-link that hadn't been maintained since the groundskeeper stopped getting paid. The docks were a quarter mile southeast. Lucian's territory started somewhere in the dark between the last headstone and the water.
+The Cutlass rolled south on Grant past the dead blocks where the streetlights gave up. Telton Cemetery sat on the edge of the wasteland — six acres of headstones and overgrown paths behind chain-link that hadn't been maintained since the groundskeeper stopped getting paid. The docks were a quarter mile southeast. [Lucian](/npcs/lucian/)'s territory started somewhere in the dark between the last headstone and the water.
 
 Darius parked on the access road. Killed the engine. The cemetery was black, the kind of dark that cities aren't supposed to have — no lights, no ambient glow, just the industrial orange reflecting off low clouds and the smell of lake water carried inland on warm July wind.
 
@@ -66,15 +66,15 @@ The cemetery went quiet. The rats stopped. The crow watched.
 
 Darius deflected. Danov refused the deflection with the patience of a man who had been deflected by better liars for centuries. The conversation shifted — Darius asked about independence, about endgame, about where the information went once it entered the vault.
 
-Danov told him. Independent. Not Modius's, not Lucian's. Nosferatu. The economy underneath every other economy. "I'm building nothing. I'm maintaining. When Gary collapses — and the math is already done — the man who kept the records is the man Chicago calls first."
+Danov told him. Independent. Not [Modius](/npcs/modius/)'s, not Lucian's. Nosferatu. The economy underneath every other economy. "I'm building nothing. I'm maintaining. When Gary collapses — and the math is already done — the man who kept the records is the man Chicago calls first."
 
 An archive. Not a weapon.
 
 Whether Darius believed that was a calculation he ran in three seconds — the posture, the voice, the fact that Danov had been sitting on information about the warehouse and the FBI and the handshake for weeks without using any of it. An information broker who used what he knew would have already sold Darius's cover story to Modius for a favor. The fact that he hadn't meant either he was playing a longer game or he was telling the truth, and in Gary, in 1990, in a cemetery at midnight, the longer game and the truth looked exactly the same.
 
-"Chuc Luc."
+"[Chuc Luc](/npcs/chuc-luc/)."
 
-He said it once and watched it land. Danov processed in three seconds — the name, the generation, the lineage, the implication. Ninth generation. Chicago. Ventrue. Lodin's line. The dead sire story was furniture. The twelfth-generation cover was furniture. The pipeline wasn't a Gary initiative — it was a Chicago directive.
+He said it once and watched it land. Danov processed in three seconds — the name, the generation, the lineage, the implication. Ninth generation. Chicago. Ventrue. [Lodin](/npcs/lodin/)'s line. The dead sire story was furniture. The twelfth-generation cover was furniture. The pipeline wasn't a Gary initiative — it was a Chicago directive.
 
 "That's worth paper."
 

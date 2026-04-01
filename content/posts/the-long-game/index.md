@@ -14,9 +14,9 @@ description: "Four months in a dying city. A pipeline hums. A proxy takes shape.
 
 ## August
 
-The Chicago representative arrived on a Tuesday. His name was Pierce and he was Ventrue and he wore his authority the way certain men wore expensive shoes -- visible only to those trained to notice. Three nights in Gary. Modius played the gracious host in his rotting mansion and Pierce sat in the drawing room touching nothing, drinking nothing, asking questions that sounded like statements.
+The Chicago representative arrived on a Tuesday. His name was Pierce and he was Ventrue and he wore his authority the way certain men wore expensive shoes -- visible only to those trained to notice. Three nights in Gary. [Modius](/npcs/modius/) played the gracious host in his rotting mansion and Pierce sat in the drawing room touching nothing, drinking nothing, asking questions that sounded like statements.
 
-Sable wore the midnight blue. Court dress. She stood where Modius placed her and read Pierce's aura when his attention was on the Prince -- concentrated amber shot through with gray boredom and a single vein of something colder that might have been contempt. She charmed when charming was useful and disappeared when disappearing was smarter and reported everything to Modius in the tone of a woman who had never had a private thought in her life.
+[Sable](/sable-price/) wore the midnight blue. Court dress. She stood where Modius placed her and read Pierce's aura when his attention was on the Prince -- concentrated amber shot through with gray boredom and a single vein of something colder that might have been contempt. She charmed when charming was useful and disappeared when disappearing was smarter and reported everything to Modius in the tone of a woman who had never had a private thought in her life.
 
 Pierce left Thursday before dawn. His report to the seneschal, whatever it said, did not produce an Archon. One fire put out with a performance and a smile and a dress that cost a week's feeding.
 
@@ -30,27 +30,27 @@ Danov delivered the last week of the month. The Washington Street print shop at 
 
 The paper was federal grade. Social Security number repurposed from a dead man in Terre Haute. Indiana driver's license with Webb's photograph and Birch's name and a DOB that made the math work. Two credit cards with six months of fabricated history. A lease on a studio apartment in Merrillville backdated to spring. Danov's craft was invisible -- every document looked like it had been touched by a dozen bored clerks, carried in wallets, folded wrong, softened by the ordinary friction of a life lived on paper.
 
-Webb was the paper now. Fourteen sessions of Conditioning, Tuesday and Thursday nights in the apartment, Darius's voice layered under every reflex until the name was bone-deep. Webb opened Birch's mail. Signed Birch's checks. Answered when someone said Birch's name. If Shepard came back to the Torch asking for Warren Birch, there was a man who would appear and shake his hand and know the right things and believe every word he said because the words were his now.
+Webb was the paper now. Fourteen sessions of Conditioning, Tuesday and Thursday nights in the apartment, Darius's voice layered under every reflex until the name was bone-deep. Webb opened Birch's mail. Signed Birch's checks. Answered when someone said Birch's name. If Shepard came back to [the Torch](/locations/the-torch/) asking for Warren Birch, there was a man who would appear and shake his hand and know the right things and believe every word he said because the words were his now.
 
-The cost was a file in Danov's archives. Everything the Nosferatu knew about Darius Cole -- real name, generation, sire, pipeline, the Chicago directive -- written in whatever cipher Danov used and stored in whatever hole Danov called home. Insurance, not weapon. The distinction between those two things is a disposition number, and disposition numbers change.
+The cost was a file in Danov's archives. Everything the Nosferatu knew about [Darius Cole](/darius-cole/) -- real name, generation, sire, pipeline, the Chicago directive -- written in whatever cipher Danov used and stored in whatever hole Danov called home. Insurance, not weapon. The distinction between those two things is a disposition number, and disposition numbers change.
 
-Cantone's paper trail died. His suits traced the Lakeshore Industrial shell company back to itself and found a warehouse that looked dormant and a night supervisor whose cover story was granite. Darius helped it along through a Dominated port commission clerk who filed a lease transfer notice into a bureaucratic cul-de-sac. By the end of September the Cicero caporegime had a federal RICO investigation chewing on his other operations and a stolen drug pipeline in Gary stopped being worth the questions. Chuc Luc received the monthly reports. The two thousand went into Lucian's lockbox. The machine ran.
+Cantone's paper trail died. His suits traced the Lakeshore Industrial shell company back to itself and found a warehouse that looked dormant and a night supervisor whose cover story was granite. Darius helped it along through a Dominated port commission clerk who filed a lease transfer notice into a bureaucratic cul-de-sac. By the end of September the Cicero caporegime had a federal RICO investigation chewing on his other operations and a stolen drug pipeline in Gary stopped being worth the questions. [Chuc Luc](/npcs/chuc-luc/) received the monthly reports. The two thousand went into [Lucian](/npcs/lucian/)'s lockbox. The machine ran.
 
 ## October
 
 Mr. White didn't come.
 
-Williams's notebook had the schedule. Twice yearly, October and March. The pale man with the accent who bought from the docks and went back to Milwaukee. The October window opened and closed and nobody came. The Milwaukee pipeline was dead or rerouted, and either way the absence was a signal Darius filed without understanding. Something had changed in a city two hours north. The notebook sat in a drawer at the haven. Its last secrets were still encrypted by context he didn't have.
+[Williams](/npcs/williams/)'s notebook had the schedule. Twice yearly, October and March. The pale man with the accent who bought from the docks and went back to Milwaukee. The October window opened and closed and nobody came. The Milwaukee pipeline was dead or rerouted, and either way the absence was a signal Darius filed without understanding. Something had changed in a city two hours north. The notebook sat in a drawer at the haven. Its last secrets were still encrypted by context he didn't have.
 
-Allicia came back to the Torch in August with conditions attached like ankle monitors. Wednesday and Saturday piano. Victor reported her movements. She did not leave the building between sets. Modius had not pressed the blood-taste question with Auspex -- he pressed it with architecture instead, the way an engineer doesn't remove a load-bearing wall but slowly fills the rooms around it until the occupant can't reach the door.
+[Allicia](/npcs/allicia/) came back to the Torch in August with conditions attached like ankle monitors. Wednesday and Saturday piano. Victor reported her movements. She did not leave the building between sets. Modius had not pressed the blood-taste question with Auspex -- he pressed it with architecture instead, the way an engineer doesn't remove a load-bearing wall but slowly fills the rooms around it until the occupant can't reach the door.
 
 Sable met her twice. September at the Miller Beach house, October in the Torch's back room during a set break. Notepad conversations conducted in handwriting and burned at Kendrick's after. The handwriting was getting smaller and tighter, the sentences shorter. Allicia in September had been hard. Allicia in October was something else -- not broken, not yet, but the thing that kept her upright was bending under a weight that had been on it for fifty-two years and was getting heavier every night Modius chose silence over the question.
 
-Carna. Milwaukee. The only name that came up both times. The Tremere who had offered once to weaken a blood bond and Allicia who had been too afraid to stay long enough to find out if it worked. Twenty years ago. The door was still there. Whether anyone could reach it was another kind of question.
+[Carna](/npcs/carna/). Milwaukee. The only name that came up both times. The Tremere who had offered once to weaken a blood bond and Allicia who had been too afraid to stay long enough to find out if it worked. Twenty years ago. The door was still there. Whether anyone could reach it was another kind of question.
 
 ## November
 
-Sullivan Dane found the thread.
+[Sullivan Dane](/npcs/sullivan-dane/) found the thread.
 
 Thirteen months of data. Church records and missing-persons reports and bar closing times and the pattern of a man who was never awake before four in the afternoon and never home after midnight. The pattern of a man who visited the docks but didn't work them. Who owned a bar through a mortgage he'd assumed from a dead man. Who kept company with people who disappeared or changed their stories or forgot what they'd seen.
 

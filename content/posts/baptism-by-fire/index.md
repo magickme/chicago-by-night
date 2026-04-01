@@ -7,7 +7,7 @@ categories: ["Chapter 12 — Baptism by Fire"]
 description: "New Year's Eve. Every Kindred in Gary under one roof. Annabelle Triabell arrives in white. Modius performs outrage and chooses compliance. The coterie leaves for Chicago carrying a sealed letter and the knowledge that the bond can break."
 ---
 
-*Modius's Mansion / Gary Streets / Outbound toward Chicago*
+*[Modius's Mansion](/locations/modius-mansion/) / Gary Streets / Outbound toward Chicago*
 *Gary, Indiana*
 
 ---
@@ -16,17 +16,17 @@ The mansion wanted to pretend it still belonged to a prince.
 
 The chandeliers helped. So did the suits, the dresses, the crystal, the old wood trying to remember a century when money had been more patient and less embarrassed by Indiana. But every room carried the truth underneath the theater: Gary was too small for this much hierarchy, too poor for this much ceremony, and everyone present knew it except the mortals who had been brought in to clap at midnight and not remember any of it in the morning.
 
-Darius kept to the discipline of angle and sequence.
+[Darius](/darius-cole/) kept to the discipline of angle and sequence.
 
-Stand where the exits stay visible. Never be trapped in the center of someone else's conversation. Answer the question that was asked and not the question beneath it. When Modius asked about havens, Darius gave the west-side apartment because a partial truth was cleaner than resistance. When Danov asked a moral question dressed as philosophy, Darius gave him thoughtfulness and no confession. When Lucian spoke about Rome as though the republic had fallen yesterday, Darius listened for the one line hidden inside the performance and found it there: Chicago meant the Succubus Club, and the club meant Sir Henry Johnson.
+Stand where the exits stay visible. Never be trapped in the center of someone else's conversation. Answer the question that was asked and not the question beneath it. When [Modius](/npcs/modius/) asked about havens, Darius gave the west-side apartment because a partial truth was cleaner than resistance. When Danov asked a moral question dressed as philosophy, Darius gave him thoughtfulness and no confession. When [Lucian](/npcs/lucian/) spoke about Rome as though the republic had fallen yesterday, Darius listened for the one line hidden inside the performance and found it there: Chicago meant the [Succubus Club](/locations/succubus-club/), and the club meant [Sir Henry Johnson](/npcs/sir-henry-johnson/).
 
-Then Juggler broke the room open.
+Then [Juggler](/npcs/juggler/) broke the room open.
 
 Noise, mortals, Evelyn exposed to every court eye worth fearing. The kind of disruption that turns hierarchy honest. In the spill and recoil and shouted contempt, Darius did what architecture does under stress: redistributed weight. Doorway. Sightline. Steward. Hall. Time purchased by seconds and used by other people for more dangerous work.
 
 Annabelle arrived when the room was already wounded and made the wound ceremonial.
 
-White. Late. Untouchable. She did not need volume because rank handled acoustics for her. Lodin's letter in hand, expression amused in the way only the truly secure can afford to be amused inside another man's house.
+White. Late. Untouchable. She did not need volume because rank handled acoustics for her. [Lodin](/npcs/lodin/)'s letter in hand, expression amused in the way only the truly secure can afford to be amused inside another man's house.
 
 Modius shouted for the crowd. He complied for reality.
 
@@ -34,13 +34,13 @@ By the time Darius left, the whole year had collapsed into three objects and one
 
 Go to the Succubus Club.
 
-He stepped into the cold and felt Dane somewhere beyond sight, not absent, not solved, just deferred by geography and whatever grace distance still offered. Gary behind him. Chicago ahead. The machine getting larger, not kinder.
+He stepped into the cold and felt [Dane](/npcs/sullivan-dane/) somewhere beyond sight, not absent, not solved, just deferred by geography and whatever grace distance still offered. Gary behind him. Chicago ahead. The machine getting larger, not kinder.
 
 ---
 
-Allicia was at the piano because Modius liked his cruelties arranged symmetrically.
+[Allicia](/npcs/allicia/) was at the piano because Modius liked his cruelties arranged symmetrically.
 
-Sable saw her before anyone spoke to her, before the room's machinery began, before the first elder tested a neonate with a compliment sharpened on the underside. The hands were steady on the keys. The face was the face that always made other people think silence meant serenity. The performance was flawless. The fact of the performance was the injury.
+[Sable](/sable-price/) saw her before anyone spoke to her, before the room's machinery began, before the first elder tested a neonate with a compliment sharpened on the underside. The hands were steady on the keys. The face was the face that always made other people think silence meant serenity. The performance was flawless. The fact of the performance was the injury.
 
 Greer's note was folded inside Sable's glove.
 
@@ -54,7 +54,7 @@ When Juggler detonated the evening, Sable moved.
 
 Evelyn visible. Mortals loud. Every eye pulled off axis. For a few minutes the mansion stopped being court and became logistics. That was enough.
 
-Allicia did not ask where they were going. Erichtho did not waste time pretending this was anything but surgery performed with no scalpel. Sable stood inside the borrowed privacy and watched the Tremere read a structure no one else in Gary had ever named correctly.
+Allicia did not ask where they were going. [Erichtho](/npcs/erichtho/) did not waste time pretending this was anything but surgery performed with no scalpel. Sable stood inside the borrowed privacy and watched the Tremere read a structure no one else in Gary had ever named correctly.
 
 Fifty-two years.
 

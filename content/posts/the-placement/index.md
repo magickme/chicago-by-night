@@ -7,24 +7,24 @@ categories: ["Chapter 6 — The Pipeline"]
 description: "Seven locations. Four phone calls. Two girls who needed more than a vampire could give. One night that wasn't long enough."
 ---
 
-*Broadway / Modius's Mansion / Fifth Avenue / Englewood / East Chicago*
+*Broadway / [Modius's Mansion](/locations/modius-mansion/) / Fifth Avenue / Englewood / East Chicago*
 *Gary, Indiana — Chicago, Illinois*
 
 ---
 
-The Torch was wrong from the sidewalk.
+[The Torch](/locations/the-torch/) was wrong from the sidewalk.
 
-Sable could read it through the window — the geometry of a room that had shifted, the way a painting looks different when someone has moved the light source. Victor behind the bar with his shoulders a quarter inch too high. The corner booth occupied by a man who wasn't drinking, whose posture said authority the way a uniform says it, except this man's authority was a dark suit and a badge wallet placed on the table like a chess piece you want your opponent to see before you move it.
+[Sable](/sable-price/) could read it through the window — the geometry of a room that had shifted, the way a painting looks different when someone has moved the light source. Victor behind the bar with his shoulders a quarter inch too high. The corner booth occupied by a man who wasn't drinking, whose posture said authority the way a uniform says it, except this man's authority was a dark suit and a badge wallet placed on the table like a chess piece you want your opponent to see before you move it.
 
 Federal. Not local. Gary cops drank at the bar and left their badges in the car. This man wore his investigation the way Sable wore Presence — visibly, deliberately, because the visibility was the point.
 
 She didn't go in. The math was simple: Appearance 5 walks into a federal agent's field of vision and Appearance 5 never leaves it. Men remembered her face the way they remembered car accidents — complete, involuntary, permanent. A face the Bureau could run. A face attached to a name attached to a Social Security number that belonged to a woman who was supposed to be in Chicago and was not supposed to exist in Gary at all.
 
-Half a block south. The payphone outside the laundromat. Receiver that smelled like Parliament Lights and wet concrete. She dialed Darius and the night became something else.
+Half a block south. The payphone outside the laundromat. Receiver that smelled like Parliament Lights and wet concrete. She dialed [Darius](/darius-cole/) and the night became something else.
 
 ---
 
-Three phone calls compressed into forty minutes. Darius to Juggler. Juggler's verdict: second visit is a fishing trip, third comes with a subpoena, and the window between them was two weeks, maybe three. Don't touch the agent. Victor's ignorance is genuine and it's the best weapon they have.
+Three phone calls compressed into forty minutes. Darius to [Juggler](/npcs/juggler/). Juggler's verdict: second visit is a fishing trip, third comes with a subpoena, and the window between them was two weeks, maybe three. Don't touch the agent. Victor's ignorance is genuine and it's the best weapon they have.
 
 The problem underneath the problem: Warren Birch needed to exist. Not as a name on a filing — as a body in a chair, a man who could sit across from Shepard and say *I bought a bar in Gary because the price was right* and bore the agent into closing the file.
 
@@ -40,11 +40,11 @@ Nine-fourteenths. Operational.
 
 ---
 
-Modius's mansion held its secrets the way old houses hold heat — in the walls, in the floors, in the silence between rooms. The garden entrance was the spy door, the one for people doing work the street didn't need to see. The ghoul admitted her. The hallway. The drawing room.
+[Modius](/npcs/modius/)'s mansion held its secrets the way old houses hold heat — in the walls, in the floors, in the silence between rooms. The garden entrance was the spy door, the one for people doing work the street didn't need to see. The ghoul admitted her. The hallway. The drawing room.
 
 He was standing at the window. Not sitting. The difference mattered. Sitting was court, was control, was the prince in his chair dispensing or withholding. Standing was a man looking at a lawn he'd maintained for decades in a city that was dying around him, trying to calculate whether the maintenance was dignity or denial.
 
-"Tell me about Allicia."
+"Tell me about [Allicia](/npcs/allicia/)."
 
 She told him. The calibrated report — painting, his name mentioned three times, the detail about the lake that she'd invented because it sounded like the kind of thing Modius wanted to hear, and it was the kind of thing Modius wanted to hear, and the fact that she could predict his desire that precisely was either a skill or a symptom of having spent too long inside his orbit.
 
@@ -56,7 +56,7 @@ She gave him the answer she'd built on a payphone forty minutes ago: Birch is ha
 
 He relaxed by a quarter inch. Then he told her about Chicago.
 
-Lodin's seneschal. A phone call. "Conditions in Gary." The two words that meant the difference between a satellite prince who governed at sufferance and a problem that Chicago solved by sending someone who answered to no one and could dismantle everything Modius had built with a single ruling and a single night.
+[Lodin](/npcs/lodin/)'s seneschal. A phone call. "Conditions in Gary." The two words that meant the difference between a satellite prince who governed at sufferance and a problem that Chicago solved by sending someone who answered to no one and could dismantle everything Modius had built with a single ruling and a single night.
 
 "An Archon in Gary would be the end of everything I've built."
 
@@ -82,13 +82,13 @@ The note on the counter. Block letters, ballpoint pen, no question marks because
 
 Sable sat on the kitchen floor and told the truth sideways. Drugs and crime. Close enough to the architecture of her actual life that the walls didn't buckle. Close enough to Keisha's Englewood vocabulary that the girl could hold it and it held her, and the relief on Keisha's face wasn't joy — it was the relief of a known quantity replacing a gap in the map where monsters live.
 
-Then Amy. Three days without food. The blanket. The shaking. Gloria Serrano arrived at two-fifteen with a medical bag and hands that found veins on the first try and a diagnosis that landed in the room like something falling from a height: dissociative, acute, severe. Stable isn't recovering. Stable is holding the line.
+Then Amy. Three days without food. The blanket. The shaking. [Gloria Serrano](/npcs/gloria-serrano/) arrived at two-fifteen with a medical bag and hands that found veins on the first try and a diagnosis that landed in the room like something falling from a height: dissociative, acute, severe. Stable isn't recovering. Stable is holding the line.
 
 The IV bag hung from a nail in the wall where a painting used to be. Sable watched the saline drip into a girl who had retreated so far inside herself that the aura — when Sable looked, when she let the Auspex open and the colors bleed through skin — was dim. Not flickering. Dim. The light pulling inward the way a candle pulls inward before it goes out. Gray over white over something so faint it barely registered, and the faintness was the message: Amy was leaving her body the way you leave a house you've decided you'll never be safe in. Going somewhere internal where the chain and the storage unit couldn't follow. The not-eating wasn't a symptom. It was a border she was drawing with the last decision she was capable of making.
 
 And the one thing keeping the flame lit — the only thing — was the heartbeat on the mattress ten feet away. The one face she'd seen that wasn't holding a chain.
 
-Keisha said it plainly: Ms. Okonkwo, four houses from her grandmother's, green door, twenty years of fostering kids the system forgot. Cash. No paperwork. A room with a bed and a window and a person who'd be there during the day, when it was light, when the sounds outside were normal sounds.
+Keisha said it plainly: [Ms. Okonkwo](/npcs/ms-okonkwo/), four houses from her grandmother's, green door, twenty years of fostering kids the system forgot. Cash. No paperwork. A room with a bed and a window and a person who'd be there during the day, when it was light, when the sounds outside were normal sounds.
 
 Sable called Darius. He came.
 

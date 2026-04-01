@@ -14,7 +14,7 @@ description: "A seventeen-year-old pickpocket in a parking lot. A can of soup an
 
 She woke and the hunger was already dressed and waiting by the door.
 
-Ten out of fourteen. A number that should mean comfort but didn't, because Sable had learned to count blood the way a landlord counts days until the first -- not from abundance but from the distance to the next bill. Coop tonight. One point. DeShawn and Pete already fed. Spoon maintained by the Entrancement that was cheaper than blood and more fragile. The math of bodies sustained by a body that sustained nothing on its own.
+Ten out of fourteen. A number that should mean comfort but didn't, because [Sable](/sable-price/) had learned to count blood the way a landlord counts days until the first -- not from abundance but from the distance to the next bill. Coop tonight. One point. DeShawn and Pete already fed. [Spoon](/npcs/spoon-antoine/) maintained by the Entrancement that was cheaper than blood and more fragile. The math of bodies sustained by a body that sustained nothing on its own.
 
 Kendrick's smelled like propane and motor oil. DeShawn was on the folding chair by the heater, cleaning his nails. Pete behind the partition, sleeping the deep, ghoul-fed sleep of a nineteen-year-old who had stopped asking questions about why he felt so good when Miss Price was around.
 
@@ -44,7 +44,7 @@ Nisha looked at her with the eyes of a professional recognizing a professional's
 
 The offer was specific: heat, food, a bath. The bath did the work. If you have been seventeen and cold in December in a city that has stopped pretending to care whether you freeze, the idea of hot water is worth more than the forty-two dollars in somebody else's Carhartt. Sable understood this the way she understood leverage and approach angles and the pitch of a voice that says *I'm safe* while meaning something else entirely. She had lived inside that understanding once. Now she administered it.
 
-The studio on Fifth Avenue was cold. Sable hadn't been there in weeks. Michael's paintings watched from the walls -- three unfinished canvases, the brushwork of a man who started conversations and left before the other person could answer. The answering machine on the counter blinked twice. Red. Patient.
+The studio on Fifth Avenue was cold. Sable hadn't been there in weeks. [Michael](/npcs/michael/)'s paintings watched from the walls -- three unfinished canvases, the brushwork of a man who started conversations and left before the other person could answer. The answering machine on the counter blinked twice. Red. Patient.
 
 She ran the bath. The water took two minutes to clear. She set out the blue towel -- Egyptian cotton, Marshall Field's, a weight she had kept because the thread count was a memory of a life where thread count mattered. She heated a can of Campbell's chicken noodle from the shelf and put it in the one clean bowl.
 
@@ -86,7 +86,7 @@ Two blocks from Kendrick's.
 
 Two blocks from the cot where Sable slept and the cinderblock walls that were supposed to be invisible and the ghouls who were supposed to be enough.
 
-The payphone on Broadway smelled like wet metal. The Milwaukee number rang six times before a woman answered with the controlled patience of someone who answers that phone knowing what it means. Sable gave the name Allicia had whispered at Miller Beach. The line went quiet.
+The payphone on Broadway smelled like wet metal. The Milwaukee number rang six times before a woman answered with the controlled patience of someone who answers that phone knowing what it means. Sable gave the name [Allicia](/npcs/allicia/) had whispered at Miller Beach. The line went quiet.
 
 A different voice. Lower. Central European vowels worn smooth by decades of English. A woman who spoke carefully because she was trained to speak carefully.
 
@@ -96,7 +96,7 @@ A different voice. Lower. Central European vowels worn smooth by decades of Engl
 
 "And the situation is worse."
 
-Not a question. The woman on the other end took notes. Pen on paper, clinical, for the file. She remembered Allicia. Twelve days in 1971. And Modius had called twice in November asking if they were "still practicing."
+Not a question. The woman on the other end took notes. Pen on paper, clinical, for the file. She remembered Allicia. Twelve days in 1971. And [Modius](/npcs/modius/) had called twice in November asking if they were "still practicing."
 
 "There is an event. New Year's Eve. Someone who can evaluate the situation will attend. Arrange privacy. Fifteen minutes. No witnesses."
 

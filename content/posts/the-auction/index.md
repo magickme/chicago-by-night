@@ -12,11 +12,11 @@ description: "A narrow shop off Piccadilly. Lot 47. A man in a lavender tie who 
 
 ---
 
-Roarke took Natasha. Black cab to Piccadilly. The auction house was a narrow shopfront between a tailor and a tobacco merchant -- dark wood, brass fittings, glass cases full of naval memorabilia. A viewing area. A dozen men in tweed. Cold cuts and tea in proper cups.
+[Roarke](/npcs/roarke/) took Natasha. Black cab to Piccadilly. The auction house was a narrow shopfront between a tailor and a tobacco merchant -- dark wood, brass fittings, glass cases full of naval memorabilia. A viewing area. A dozen men in tweed. Cold cuts and tea in proper cups.
 
 He found it in the back corner. Lot 47. Admiral Tourney's journal. The right-hand page, near the bottom, in handwriting that had gone tight and private: *My greatest delight, though, was a memo from A relating that another fragment of the so-called Book of Nod has been* -- and the page ended there.
 
-Roarke knew the name. Every ghoul who'd served long enough had heard it. The vampire Genesis. The text that recorded the curse and the origin. This was what Lodin flew across an ocean for.
+Roarke knew the name. Every ghoul who'd served long enough had heard it. The vampire Genesis. The text that recorded the curse and the origin. This was what [Lodin](/npcs/lodin/) flew across an ocean for.
 
 He cased the room. Fourteen people. Twelve were what they looked like. Two weren't. A heavyset collector from the Naval Heritage Foundation who'd been at the journal case for twenty minutes. And a younger man at the back wall who hadn't looked at anything in particular but had looked at everyone.
 

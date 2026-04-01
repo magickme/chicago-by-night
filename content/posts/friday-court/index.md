@@ -7,14 +7,14 @@ categories: ["Chapter 4 — The Alliance"]
 description: "A piano lid closed. A prince who doesn't look at his childe. A lie that costs willpower. Thirty feet and eighty years."
 ---
 
-*Modius's Mansion, Miller Beach*
+*[Modius's Mansion](/locations/modius-mansion/), Miller Beach*
 *Gary, Indiana*
 
 ---
 
-She fed in a parking lot behind a strip club at eight o'clock on a Friday, which was not the worst place Sable had ever fed and not the best, and the man in the pickup truck came to believing he'd fainted and she left him in the passenger seat with the door open and the taste of cement dust on her tongue and drove east toward the mansion where a prince was waiting to ask her questions she couldn't answer honestly.
+She fed in a parking lot behind a strip club at eight o'clock on a Friday, which was not the worst place [Sable](/sable-price/) had ever fed and not the best, and the man in the pickup truck came to believing he'd fainted and she left him in the passenger seat with the door open and the taste of cement dust on her tongue and drove east toward the mansion where a prince was waiting to ask her questions she couldn't answer honestly.
 
-The drawing room. The chandelier. The piano lid closed, which meant Modius was working. Small court: Victor at the sideboard, Falcon in the corner cycling through whoever lived behind his eyes tonight, Darius at the bookshelf performing invisibility, and Allicia on the settee in a green dress with her hands folded and her mask so tight it could have been painted on.
+The drawing room. The chandelier. The piano lid closed, which meant [Modius](/npcs/modius/) was working. Small court: Victor at the sideboard, Falcon in the corner cycling through whoever lived behind his eyes tonight, [Darius](/darius-cole/) at the bookshelf performing invisibility, and [Allicia](/npcs/allicia/) on the settee in a green dress with her hands folded and her mask so tight it could have been painted on.
 
 Modius looked at everyone in the room except Allicia. In a room that small, not looking at someone was the loudest sound in the building.
 

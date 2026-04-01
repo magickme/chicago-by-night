@@ -14,7 +14,7 @@ description: "A cover story, a blood bond, a burgundy Oldsmobile, and a handshak
 
 Rain found the cracks in the cinderblock and came through as a seep, a thin mineral sweat that darkened the floor near the roll-up door and smelled like wet concrete and iron. She opened her eyes to Sunday night and the sound of water on metal and two men breathing and the specific weight of being responsible for people who hadn't asked to be hers.
 
-DeShawn gave the report before she asked. Spoon. The lot. The side door. Gone south on foot.
+DeShawn gave the report before she asked. [Spoon](/npcs/spoon-antoine/). The lot. The side door. Gone south on foot.
 
 She sat on the couch and looked at the two of them and asked what they thought, and the answers split along the line she'd expected: DeShawn offered a grave and Pete offered a story, and the difference between them was the difference between a soldier and a kid who still remembered what it felt like to trust someone. She went with the story.
 
@@ -56,7 +56,7 @@ On the way to Fifth Avenue she stopped at a bar off Fifteenth and took two blood
 
 ---
 
-The studio on Fifth Avenue. The lamp. The chaise. The paintings Michael left behind like a man leaving furniture in a house he knows he'll never come back to. The phone on the floor, silent, the fifteen minutes before Darius called back passing in the particular silence of a room that contains a phone that could ring with either of two voices.
+The studio on Fifth Avenue. The lamp. The chaise. The paintings [Michael](/npcs/michael/) left behind like a man leaving furniture in a house he knows he'll never come back to. The phone on the floor, silent, the fifteen minutes before Darius called back passing in the particular silence of a room that contains a phone that could ring with either of two voices.
 
 It didn't ring.
 
@@ -74,15 +74,15 @@ He sat in the wooden chair by the window. Folded his hands.
 
 "Does it matter? You and I are not so different, Darius. Not so different at all."
 
-He went first. The name she'd never heard: Darius Cole. The generation she'd never suspected: tenth, not twelfth. The sire: Chuc Luc, Pham Hong, ninth generation, Lodin's brood. Planted in Gary to build a pipeline through the docks. Every interaction she'd had with Warren Birch, every phone call, every intel exchange, recalculated in real time with the new variable inserted, and the new variable changed everything and changed nothing because the man in the chair was the same man who'd been in the chair before he said his name. Just more of him.
+He went first. The name she'd never heard: [Darius Cole](/darius-cole/). The generation she'd never suspected: tenth, not twelfth. The sire: [Chuc Luc](/npcs/chuc-luc/), Pham Hong, ninth generation, [Lodin](/npcs/lodin/)'s brood. Planted in Gary to build a pipeline through the docks. Every interaction she'd had with Warren Birch, every phone call, every intel exchange, recalculated in real time with the new variable inserted, and the new variable changed everything and changed nothing because the man in the chair was the same man who'd been in the chair before he said his name. Just more of him.
 
-She matched it. All of it. Michael Payne, eighth generation, the painter, the absent sire. Sharon Payne, seventh generation, Presence 5, the vendetta. She told him about Big Six without flinching and watched his face not flinch back, the single blink of a man updating a file. The ghouls. Kendrick's Auto. The Allicia bond, the spy assignment inverted, the mutual blood exchange on the chaise where they were sitting right now, which she told him because full disclosure meant full disclosure and the chaise still smelled faintly of turpentine and blood.
+She matched it. All of it. Michael Payne, eighth generation, the painter, the absent sire. [Sharon Payne](/npcs/sharon-payne/), seventh generation, Presence 5, the vendetta. She told him about Big Six without flinching and watched his face not flinch back, the single blink of a man updating a file. The ghouls. Kendrick's Auto. The [Allicia](/npcs/allicia/) bond, the spy assignment inverted, the mutual blood exchange on the chaise where they were sitting right now, which she told him because full disclosure meant full disclosure and the chaise still smelled faintly of turpentine and blood.
 
 "Humanity five," she said.
 
 He didn't react to that either. He filed it where he filed everything, in the architecture behind his eyes, and what came back was not judgment but assessment, the Ventrue reading the structural integrity of a wall he was about to lean against.
 
-They spent an hour building. His docks, her west side. His Dominate, her Presence. His pipeline to Chicago money, her window into Modius's household. They divided the threats between them like men dividing a bill: Dane, Shepard, Cantone, Sharon, the prince, the archon that hadn't arrived yet but would.
+They spent an hour building. His docks, her west side. His Dominate, her Presence. His pipeline to Chicago money, her window into [Modius](/npcs/modius/)'s household. They divided the threats between them like men dividing a bill: [Dane](/npcs/sullivan-dane/), Shepard, Cantone, Sharon, the prince, the archon that hadn't arrived yet but would.
 
 Court: separately. Communication: payphones, Tuesday and Friday. Never on the studio line, because the studio line belonged to a woman in Chicago with swollen hands who hadn't stopped calling and wouldn't stop calling because mothers don't.
 
@@ -102,4 +102,4 @@ Mutual assured destruction. The only foundation that lasts.
 
 She closed her eyes. The rain slowed. Somewhere on Sixteenth Street, DeShawn sat on a porch watching a burgundy Oldsmobile watching nothing, and somewhere on the highway a navy Buick Century carried a mortal man whose name was becoming someone else's, and somewhere in Chicago a hairdresser with swollen hands was asleep with a phone number on a scrap of paper on the nightstand, and the phone hadn't rung tonight but it would ring, because the things that are coming always come, and the only question is whether you've built something strong enough to stand in front of when they arrive.
 
-Dawn at 5:29 AM. The sun rose over Lake Michigan and burned the rain off the streets and the streets dried and forgot they'd been wet, which was what streets did, which was what Gary did, which was what everything did except the things that refused to forget, and Sable Price was one of those things, and Darius Cole was another, and together they might be enough or they might not, and the night was over, and the night had been Sunday, and Monday was coming for everyone.
+Dawn at 5:29 AM. The sun rose over Lake Michigan and burned the rain off the streets and the streets dried and forgot they'd been wet, which was what streets did, which was what Gary did, which was what everything did except the things that refused to forget, and [Sable Price](/sable-price/) was one of those things, and Darius Cole was another, and together they might be enough or they might not, and the night was over, and the night had been Sunday, and Monday was coming for everyone.

@@ -14,7 +14,7 @@ description: "The last night of the decade. Darius works the docks, feeds on Bro
 
 The last night of the year smelled like sulfur and frozen lake water.
 
-Darius Cole killed the engine and sat in the Cutlass for a full minute, listening. The heater ticked as it cooled. Somewhere south — the projects, probably — a string of firecrackers went off in a ragged chain, each pop a half-second late, like applause from people who'd forgotten what they were clapping for. Then nothing. The deep industrial nothing that was Gary's native sound: wind through chain-link, the groan of sheet metal nobody had come to repair, and under everything the low hum of Lake Michigan doing what Lake Michigan does, which is wait.
+[Darius Cole](/darius-cole/) killed the engine and sat in the Cutlass for a full minute, listening. The heater ticked as it cooled. Somewhere south — the projects, probably — a string of firecrackers went off in a ragged chain, each pop a half-second late, like applause from people who'd forgotten what they were clapping for. Then nothing. The deep industrial nothing that was Gary's native sound: wind through chain-link, the groan of sheet metal nobody had come to repair, and under everything the low hum of Lake Michigan doing what Lake Michigan does, which is wait.
 
 He got out. The cold hit him the way it always did now — not as pain but as information. Twenty-two degrees. Wind from the north-northwest. No exhaust smell, which meant no running engines, which meant no one sitting in a vehicle watching the gates. The dock security camera on its pole was a dead glass eye. Frost on the lens. Cable running to a guard shack with no light behind its window.
 
@@ -26,13 +26,13 @@ The Gary Exports Co. office was unlocked. He stood in the doorway and breathed �
 
 The clipboard was on the dispatch desk, half-buried under a manifest for scrap steel. January shipping schedule. He read it standing up, not touching the chair, not leaning on the desk. Most of the entries were mundane — scrap, industrial salvage, the legitimate carcass-picking that kept what was left of Gary's waterfront economy twitching. But three lines on the fourteenth had no origin port. No listed contents. Just a dock number and two initials in ballpoint, pressed hard enough to dent the paper: **L.C.**
 
-Lucian's containers.
+[Lucian](/npcs/lucian/)'s containers.
 
 Darius took out the pocket notepad he'd carried since he was sixteen — the same brand, always the same brand, a Field Notes memo book from the art supply store on Broadway that somehow hadn't closed yet — and copied everything. The date, the dock number, the code. He put the clipboard back exactly where he'd found it, angled the same way, the manifest on top. Then he walked to Dock 7.
 
 It was the last berth on the east end, tucked behind a corrugated warehouse whose loading door hadn't opened in years. Out of sightline from the main office. Out of sightline from the road. Someone had chosen this spot the way Darius would have chosen it — not for convenience but for privacy.
 
-He stood there for a moment, looking at the empty concrete where three unmarked containers would sit in two weeks, and thought about the architecture of it. The structure underneath. Chuc Luc wanted a pipeline through these docks, and the docks belonged to a Gangrel who had served under Julius Caesar. You didn't build a pipeline through a man like that. You built it *around* him, through the cracks in what he controlled, through the men he didn't bother to watch because they were too small to matter.
+He stood there for a moment, looking at the empty concrete where three unmarked containers would sit in two weeks, and thought about the architecture of it. The structure underneath. [Chuc Luc](/npcs/chuc-luc/) wanted a pipeline through these docks, and the docks belonged to a Gangrel who had served under Julius Caesar. You didn't build a pipeline through a man like that. You built it *around* him, through the cracks in what he controlled, through the men he didn't bother to watch because they were too small to matter.
 
 Men like the stevedores. Men with debts they couldn't pay.
 
@@ -66,7 +66,7 @@ He said the name to himself twice, quietly, the way you test the weight of a new
 
 ---
 
-The Polish bar on Michigan Avenue didn't have a name on the outside — just a Budweiser sign in the window and a screen door that didn't close all the way. Ray Pulaski's truck was in the lot, parked across two spaces in the way that announced its driver had arrived sober and would not be leaving that way.
+The Polish bar on Michigan Avenue didn't have a name on the outside — just a Budweiser sign in the window and a screen door that didn't close all the way. [Ray Pulaski](/npcs/ray-pulaski/)'s truck was in the lot, parked across two spaces in the way that announced its driver had arrived sober and would not be leaving that way.
 
 Inside was warm and loud and smelled like kielbasa and spilled beer. A television above the bar was showing Dick Clark's countdown from Times Square, the sound turned down so low that the crowd on screen appeared to be miming their enthusiasm. A dozen stevedores and former steelworkers were arranged along the bar and in the booths, drinking with the methodical focus of men who understood that this was the last hour of a bad year and the first hour of one that would probably be worse.
 

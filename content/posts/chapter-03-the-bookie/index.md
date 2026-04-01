@@ -14,7 +14,7 @@ description: "Darius comes to meet the bookie. The Malkavian is already there."
 
 The dispatch office had a light on. That was the first thing right about the evening. Everything after that was wrong.
 
-Darius parked the Cutlass in the same spot he'd used on New Year's Eve — south side of the loading bays, behind a dumpster that smelled like rust and fish guts even in January. He straightened his coat, checked his teeth in the rearview mirror out of a habit that no longer served any biological purpose, and walked toward the light.
+[Darius](/darius-cole/) parked the Cutlass in the same spot he'd used on New Year's Eve — south side of the loading bays, behind a dumpster that smelled like rust and fish guts even in January. He straightened his coat, checked his teeth in the rearview mirror out of a habit that no longer served any biological purpose, and walked toward the light.
 
 He was Ralph Rego tonight. Check-cashing operator from the west side. Friendly. A little rough. Looking to lay some action and maybe make a friend. The kind of man a bookie meets twice a week and forgets between visits. That was the plan. Seem dumber than your mark. Come bearing gifts. A hundred-dollar bill in his breast pocket and a smile that said *I'm not here to cause problems.*
 
@@ -22,7 +22,7 @@ He was six steps from the door when he saw the second shape through the window.
 
 Sal was behind the desk — Darius recognized the silhouette from Ray's description, the small man in the big chair. But across from him, hunched in a folding chair with his coat pulled around him like a cocoon, was a figure Darius knew. The limp. The slanted shoulders. The way he held himself like something that had been broken and set wrong.
 
-Michael.
+[Michael](/npcs/michael/).
 
 Darius stopped. The cold came off Lake Michigan in a long, flat push that pressed his coat against his legs and carried the smell of diesel and frozen water. He stood very still and thought about walking away.
 
@@ -50,7 +50,7 @@ Darius made his decision. He reached for the Presence — the discipline his sir
 
 "Just testing, Mikey!" He laughed. The laugh was good — he'd practiced it. Loose, warm, big-brotherly. He did a playful fake-lunge, the kind of gesture you'd make toward a kid sibling. "Gotta make sure you're staying on your game. Particularly if you're somewhere you're not supposed to be. Somewhere a *very old, very irritable* Roman likes keeping to himself."
 
-Michael stopped walking. He didn't flinch. He didn't smile. He looked at Darius with eyes that were flat and still and not at all the eyes of the nervous, lurching boy that the court saw at Modius's gatherings.
+Michael stopped walking. He didn't flinch. He didn't smile. He looked at Darius with eyes that were flat and still and not at all the eyes of the nervous, lurching boy that the court saw at [Modius](/npcs/modius/)'s gatherings.
 
 "You weren't testing," Michael said. His voice was quiet and higher than Darius expected and completely steady. "You were *pushing.*"
 
@@ -62,7 +62,7 @@ The laugh died in Darius's throat.
 
 They stood in the dark between the warehouse and the dispatch office, two Kindred in a domain that belonged to neither of them, and the conversation that followed was nothing like what Darius had planned.
 
-He tried the cover. Michael didn't buy it. He tried the mutual-exposure angle — *we're both in Lucian's backyard.* Michael acknowledged it with a silence that conceded nothing. He tried a false detail, mentioning money, and watched Michael's left hand twitch involuntarily toward the envelope before catching itself. Not money, then. Something else. Something Michael was protecting.
+He tried the cover. Michael didn't buy it. He tried the mutual-exposure angle — *we're both in [Lucian](/npcs/lucian/)'s backyard.* Michael acknowledged it with a silence that conceded nothing. He tried a false detail, mentioning money, and watched Michael's left hand twitch involuntarily toward the envelope before catching itself. Not money, then. Something else. Something Michael was protecting.
 
 "Why are you here, Birch?" Michael asked, and the use of the court name — Warren Birch, the orphan, the cover — told Darius that Michael had placed him, catalogued him, and was now deciding what to do with him.
 
@@ -124,7 +124,7 @@ Michael: saw Darius at the docks, resisted his Presence, rejected his cover stor
 
 Sal: a closed system. Impervious to charm, impervious to cash, impervious to everything except repetition. The kind of man who needed to see your face in the same place at the same time four or five times before he'd acknowledge you were real. Darius would have to become furniture before he could become a customer.
 
-The pipeline was stalling. Chuc Luc's instructions had sounded simple in the restaurant cellar — *get close to the docks, find out how the money moves* — but the docks were a machine with interlocking parts, and every part had its own resistance, its own inertia, its own reason for saying no to strangers.
+The pipeline was stalling. [Chuc Luc](/npcs/chuc-luc/)'s instructions had sounded simple in the restaurant cellar — *get close to the docks, find out how the money moves* — but the docks were a machine with interlocking parts, and every part had its own resistance, its own inertia, its own reason for saying no to strangers.
 
 He'd read them perfectly tonight. Michael, Sal — he'd seen exactly who they were, what they feared, what they needed. The reads were flawless. The execution was not. Knowing a man's thumbscrew and being able to reach it were two different things, and tonight the distance between the knowing and the reaching had felt like miles.
 

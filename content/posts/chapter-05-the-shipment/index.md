@@ -18,7 +18,7 @@ The second wrong thing was the man behind the pallets.
 
 Darius almost missed him. He was good — crouched low, leather jacket, no badge, no flashlight, just a shape in the shadow of stacked wood that didn't belong to the geometry of the dock. But Darius had spent eleven nights building a map of this place in his head, and the shape was new, and the shape was breathing, and breathing meant alive, and alive at Dock 7 at midnight on a Sunday meant trouble.
 
-Detective Gregory Stephens. Evelyn's brother. Chicago PD, no jurisdiction in Gary, no business at the docks, and yet here he was, watching the same containers Darius had come to watch. The man who knew about Kindred. The man who'd followed his sister's trail into the dark and kept going.
+Detective [Gregory Stephens](/npcs/gregory-stephens/). Evelyn's brother. Chicago PD, no jurisdiction in Gary, no business at the docks, and yet here he was, watching the same containers Darius had come to watch. The man who knew about Kindred. The man who'd followed his sister's trail into the dark and kept going.
 
 Two predators in the same blind. Neither one aware of the other. And behind both of them, in the container with the open mouth, something was sleeping in the earth.
 
@@ -72,7 +72,7 @@ Darius was already gone. But not toward the gate. Toward the containers. Toward 
 
 The container smelled like machine oil and something older. The work light ran on a battery and cast hard shadows across a landscape of crates stenciled in a language Darius didn't read. Cyrillic. The shipping labels said Odessa in English underneath — Black Sea, Soviet Union, the empire that was falling apart on the evening news while Gary fell apart in the same way, quietly, from the inside, and nobody on television cared about either collapse.
 
-The crates were not machine parts. The first one was open and inside it, packed in cosmoline and factory plastic, eight assault rifles lay in a row like instruments in a case. Soviet military surplus. The kind of hardware that fell off the back of a collapsing superpower and ended up wherever someone was willing to pay. Darius counted eleven more crates. A clipboard on the wall listed three recipients — initials only, no names, no addresses. J.W. Four crates. C.A. Four crates. W. Three crates. Somebody was arming three groups out of Gary's docks, and the supply line ran from the Black Sea to Lake Michigan through a company that Lucian owned and a customs office he'd bought.
+The crates were not machine parts. The first one was open and inside it, packed in cosmoline and factory plastic, eight assault rifles lay in a row like instruments in a case. Soviet military surplus. The kind of hardware that fell off the back of a collapsing superpower and ended up wherever someone was willing to pay. Darius counted eleven more crates. A clipboard on the wall listed three recipients — initials only, no names, no addresses. J.W. Four crates. C.A. Four crates. W. Three crates. Somebody was arming three groups out of Gary's docks, and the supply line ran from the Black Sea to Lake Michigan through a company that [Lucian](/npcs/lucian/) owned and a customs office he'd bought.
 
 But the rifles were not what Darius had come to find, and they were not what he found.
 
@@ -102,7 +102,7 @@ At a red light on Broadway he looked at his hands on the steering wheel and they
 
 He parked outside the check-cashing storefront. The neon was off. The street was empty in the way that Gary's streets were always empty — not peaceful, not sleeping, just absent, as if the people who had once lived here had been gently removed and no one had thought to put new ones back.
 
-Inside, he locked the door. Checked the curtains. Sat at the kitchen table. Opened the Field Notes notebook. And then he sat there for a long time without writing anything, because the thing he had seen did not fit in a notebook. It did not fit in the architecture he was building. It was too big and too old and too heavy with implication, and for the first time since the Embrace, Darius Cole did not know what to do with information.
+Inside, he locked the door. Checked the curtains. Sat at the kitchen table. Opened the Field Notes notebook. And then he sat there for a long time without writing anything, because the thing he had seen did not fit in a notebook. It did not fit in the architecture he was building. It was too big and too old and too heavy with implication, and for the first time since the Embrace, [Darius Cole](/darius-cole/) did not know what to do with information.
 
 The guns he understood. The money he understood. Sal and Ray and the stevedore debt markers and the pipeline — all of that was structure, and structure was his language, and he could build inside structure the way a mason builds inside a frame.
 

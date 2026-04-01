@@ -7,12 +7,12 @@ categories: ["Chapter 8 — The Operational"]
 description: "A phone rings at sundown and the wrong voice is on the other end. A man who can't be remembered has been asking questions about the warehouse, the night shift, the federal agent. The waterfront has three problems now, and one of them is underwater."
 ---
 
-*West-Side Haven / Docks / Modius's Mansion / Hennessey's Bar*
+*West-Side Haven / Docks / [Modius's Mansion](/locations/modius-mansion/) / Hennessey's Bar*
 *Gary, Indiana*
 
 ---
 
-The phone rang at sundown and Darius knew it was wrong before he picked it up. Four people had the number. Three of them had no reason to call tonight.
+The phone rang at sundown and [Darius](/darius-cole/) knew it was wrong before he picked it up. Four people had the number. Three of them had no reason to call tonight.
 
 He lifted the receiver and said nothing. Listened to the bar noise and the breathing and waited for whoever it was to show their hand.
 
@@ -50,11 +50,11 @@ Tuesday. Same night as Danov's print shop. The coincidence sealed it.
 
 The warehouse was cased but not breached. Someone had wiped a palm-sized circle in the grime on the west window and repositioned a pallet below it as a step. Looked in, saw the layout, left. Professional. Eddie was untouched on night shift, his granite layers untested. Both confirmed what Darius wanted confirmed: Danov was verifying, not attacking.
 
-He drove to Modius at one in the morning. Victor opened the door without surprise. The study smelled like old paper and furniture polish and the portrait of Gary's mills from 1920 looked down from the wall like a photograph of a body before the autopsy.
+He drove to [Modius](/npcs/modius/) at one in the morning. Victor opened the door without surprise. The study smelled like old paper and furniture polish and the portrait of Gary's mills from 1920 looked down from the wall like a photograph of a body before the autopsy.
 
 Darius gave the report the way a Ventrue gives a report. Three threats, described in order. The surveillance blind at Berth 8 with its Marlboro butts and binocular scuffs and weeks of patient watching. The thing on the water that moved too fast behind the Berth 3 hull. The Gangrel waymarker carved fresh into the rail spur tie.
 
-Modius recognized the mark. Old tradition. Claimed ground, pass through, do not hunt. Lucian had used them decades ago and stopped when they reached their arrangement.
+Modius recognized the mark. Old tradition. Claimed ground, pass through, do not hunt. [Lucian](/npcs/lucian/) had used them decades ago and stopped when they reached their arrangement.
 
 "If new ones are appearing," the Prince said, "someone is reasserting a claim."
 
@@ -84,7 +84,7 @@ LAKESHORE INDUSTRIAL SERVICES LLC. UNIT 4 -- BERTH 7 ACCESS. PROPERTY MGMT: DEVE
 
 Six months. He'd walked past it every night for six months.
 
-He drove home at three in the morning with ten blood points and the name of the company whose building he'd stolen and the knowledge that Cantone's suits were tracing their own paper back to a warehouse someone else was using. The coterie call was tomorrow night. Sable had a skip tracer who could pull incorporation documents from the county recorder. Saturday morning, maybe, the ownership chain would come clear.
+He drove home at three in the morning with ten blood points and the name of the company whose building he'd stolen and the knowledge that Cantone's suits were tracing their own paper back to a warehouse someone else was using. The coterie call was tomorrow night. [Sable](/sable-price/) had a skip tracer who could pull incorporation documents from the county recorder. Saturday morning, maybe, the ownership chain would come clear.
 
 Darius sat on the edge of the bed and wrote everything down. The Obfuscate visitor. The surveillance blind. The water. The waymarker. Lakeshore Industrial Services. DeVecchio and Associates. The plate on the wall he'd never looked up to read.
 

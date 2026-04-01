@@ -7,14 +7,14 @@ categories: ["Chapter 4 — The Alliance"]
 description: "The Torch is for sale. A shell company, a drowning owner, and a prince who needs a broker."
 ---
 
-*The Torch / Modius's Mansion, Miller Beach*
+*[The Torch](/locations/the-torch/) / [Modius's Mansion](/locations/modius-mansion/), Miller Beach*
 *Gary, Indiana*
 
 ---
 
 Victor wrote the name on a cocktail napkin the way men write names they know are dangerous: small letters, steady hand, the pen pressed hard enough to dent the cardboard underneath. Lakeside Holdings LLC. Gerald Fisk. Morris and Peck, attorneys, Hammond, Indiana.
 
-Darius folded the napkin and put it in his coat pocket next to Modius's note and drove south on Broadway to the mansion on Miller Beach with the numbers already assembling themselves in his head. The mortgage. The shell company. The attorneys in Hammond, which was Lucian's territory, which meant the money was Lucian's money, which meant the elder Gangrel who'd sat in a moth-eaten armchair at Elysium and told Darius that the docks didn't need a king was now buying the only bar in Gary and every Kindred in the city was about to find out what it felt like when the food supply changed hands.
+[Darius](/darius-cole/) folded the napkin and put it in his coat pocket next to [Modius](/npcs/modius/)'s note and drove south on Broadway to the mansion on Miller Beach with the numbers already assembling themselves in his head. The mortgage. The shell company. The attorneys in Hammond, which was [Lucian](/npcs/lucian/)'s territory, which meant the money was Lucian's money, which meant the elder Gangrel who'd sat in a moth-eaten armchair at Elysium and told Darius that the docks didn't need a king was now buying the only bar in Gary and every Kindred in the city was about to find out what it felt like when the food supply changed hands.
 
 The drawing room. The armchair. The folder of documents Modius had assembled with the particular thoroughness of a man who understands paperwork better than people. Darius sat across from him and looked at the mortgage numbers and the offer from Lakeside Holdings and the debt that was drowning Gerald Fisk, and he built the pitch the way he built everything: from the foundation up.
 
@@ -46,6 +46,6 @@ Seven months of furniture. Ralph Rego at Kiefer's, Eddie and Pete, the check-cas
 
 The pipeline wasn't going to be built alongside Lucian's operation. It was going to be built through it. Through the legitimate cover of a real estate negotiation, through the mortal contacts who owed debts they couldn't pay, through the specific architecture of a neonate who'd made himself useful enough to be trusted and harmless enough to be underestimated.
 
-Blood at thirteen. Willpower at five. The Modius leash at its lowest point. The docks at his fingertips. And somewhere in a restaurant cellar in Chicago's New Chinatown, a man in a cheap suit who smiled too wide was waiting for exactly this phone call.
+Blood at thirteen. Willpower at five. The Modius leash at its lowest point. The docks at his fingertips. And somewhere in a restaurant cellar in Chicago's New [Chinatown](/locations/chinatown/), a man in a cheap suit who smiled too wide was waiting for exactly this phone call.
 
 The game was the game. But for the first time, Darius was playing his own.

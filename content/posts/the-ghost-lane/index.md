@@ -13,11 +13,11 @@ description: "A sire's voice with no accent. A warehouse with two chairs. A tug 
 
 The pager went off at eleven forty-five. Fifteen minutes early. The number was Argyle Street.
 
-Darius picked up the phone and dialed and the voice on the other end was the fake one first — the bumbling uncle, the restaurant owner, the accent like a door painted to look like a wall. Then the accent fell and the real voice said: "What did you offer him, Warren?"
+[Darius](/darius-cole/) picked up the phone and dialed and the voice on the other end was the fake one first — the bumbling uncle, the restaurant owner, the accent like a door painted to look like a wall. Then the accent fell and the real voice said: "What did you offer him, Warren?"
 
 "Nothing yet. What should I do?"
 
-The real voice gave instructions the way a foreman gives a shift schedule. Find out what Lucian wants. Learn the mortal names — foremen, customs, the people who stamp paper. Don't mention Chicago. Don't promise anything longer than a month. Call tomorrow night or I come to Gary, and that visit will not be social. Click. Dial tone.
+The real voice gave instructions the way a foreman gives a shift schedule. Find out what [Lucian](/npcs/lucian/) wants. Learn the mortal names — foremen, customs, the people who stamp paper. Don't mention Chicago. Don't promise anything longer than a month. Call tomorrow night or I come to Gary, and that visit will not be social. Click. Dial tone.
 
 Eleven fifty-three. Seven minutes.
 
@@ -29,7 +29,7 @@ The warehouse. The loading dock light. A single work bulb hanging from a ceiling
 
 He laid out the numbers. The principal, the assessment, the Lakeside offer. Then: "I am not buying the building, Warren. I am buying what the building controls."
 
-Feeding rights. Formalized, written into the court structure, guaranteed for Lucian and anyone he vouched for. Not Modius's permission. Not a favor to be revoked. A seat at the table he'd been excluded from in a city he'd lived in since before Modius's sire drew breath.
+Feeding rights. Formalized, written into the court structure, guaranteed for Lucian and anyone he vouched for. Not [Modius](/npcs/modius/)'s permission. Not a favor to be revoked. A seat at the table he'd been excluded from in a city he'd lived in since before Modius's sire drew breath.
 
 "If you can broker that, the mortgage offer disappears. And you will have done me a service I remember."
 
@@ -53,7 +53,7 @@ The tug left at 2:25. Darius checked the berth and found concrete and oil and th
 
 Then Rosie's. Buchanan Street. A beer sign with half its letters burned out. Three AM and a man behind the bar wiping the same spot with the same rag, and Darius sat down and ordered a whiskey he wouldn't drink and let the silence work.
 
-Gerald Fisk was forty-six and tired the way foundations are tired — the weight of everything above pressing down on something that was never designed to hold this much. He talked about the Torch. His father built it in '61. Poured the foundation himself. Jazz club first, then a bar, then whatever it is now. The mortgage was $114,000 on a building assessed at ninety, and the attorneys in Hammond kept sending letters he put in a drawer and the company called Lakeside wanted to buy the building for less than the debt.
+Gerald Fisk was forty-six and tired the way foundations are tired — the weight of everything above pressing down on something that was never designed to hold this much. He talked about [the Torch](/locations/the-torch/). His father built it in '61. Poured the foundation himself. Jazz club first, then a bar, then whatever it is now. The mortgage was $114,000 on a building assessed at ninety, and the attorneys in Hammond kept sending letters he put in a drawer and the company called Lakeside wanted to buy the building for less than the debt.
 
 "My old man built that place with his hands. And I'm gonna lose it to a company that don't even have a real address."
 
@@ -71,4 +71,4 @@ He drove home. The west-side apartment. The kitchen table. The business card. Th
 
 $800 a month. The price of the whole board.
 
-He picked up the phone. Not Chuc Luc — that call was tomorrow. Not Lucian. Not Modius. He called information and asked for the number of the Lake County Recorder's Office, open at 8:30 AM, and wrote it on the back of the business card with no name on it, and set the card on the kitchen table next to everything else, and sat in the dark and did not sleep because the dead don't sleep, and the dead who are building something don't rest either, and the sun came up over Gary and turned the mill smoke gold and Darius Jeremiah Cole — Warren Birch, 12th generation, nobody, check-cashing man, squirrel trying to get a nut — sat at his kitchen table with $800 between him and everything he came here to build.
+He picked up the phone. Not [Chuc Luc](/npcs/chuc-luc/) — that call was tomorrow. Not Lucian. Not Modius. He called information and asked for the number of the Lake County Recorder's Office, open at 8:30 AM, and wrote it on the back of the business card with no name on it, and set the card on the kitchen table next to everything else, and sat in the dark and did not sleep because the dead don't sleep, and the dead who are building something don't rest either, and the sun came up over Gary and turned the mill smoke gold and Darius Jeremiah Cole — Warren Birch, 12th generation, nobody, check-cashing man, squirrel trying to get a nut — sat at his kitchen table with $800 between him and everything he came here to build.

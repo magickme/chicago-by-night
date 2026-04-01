@@ -7,24 +7,24 @@ categories: ["Chapter 3 — Blood at Dawn"]
 description: "The brooch delivered. A Malkavian found. Five personalities, one testimony, and an FBI card in a trumpet case."
 ---
 
-*Broadway / Modius's Mansion, Miller Beach*
+*Broadway / [Modius's Mansion](/locations/modius-mansion/), Miller Beach*
 *Gary, Indiana*
 
 ---
 
 Darius fed on Eddie Kowalski in the parking lot of Kiefer's and the blood tasted like alimony and child support and the specific desperation of a man who does the math every morning and comes up short. Full tank. The first time in days the hunger wasn't a factor in his calculations.
 
-The walk-up on Broadway was four blocks north of The Torch. Tapped power, a bare bulb on the second floor, and through the dirty window the silhouette of a man who couldn't decide how to stand. Darius watched from the street and counted the cycles: shoulders up, shoulders down, hands clasped, hands loose, the body rearranging itself every few seconds like a radio scanning frequencies and never locking onto one.
+The walk-up on Broadway was four blocks north of [The Torch](/locations/the-torch/). Tapped power, a bare bulb on the second floor, and through the dirty window the silhouette of a man who couldn't decide how to stand. Darius watched from the street and counted the cycles: shoulders up, shoulders down, hands clasped, hands loose, the body rearranging itself every few seconds like a radio scanning frequencies and never locking onto one.
 
 He went up the fire escape. The rust held. The trumpet covered the metal. Through the back window and into the hallway, ten feet from a Malkavian who was playing scales he couldn't finish.
 
 The trumpet stopped. A child's voice said "I don't want to play anymore." A commander's voice said "Sit down. We're staying." The trumpet started again. A different song.
 
-Darius stepped into the doorway and reached for the weapon he'd used on every mortal who'd ever stood between him and an objective, and the weapon didn't fire. The command left his mouth and hit Raymond Falcon's blood and stopped. Ninth generation. The power running the wrong direction, and for the first time in his unlife Darius felt his primary tool click empty.
+Darius stepped into the doorway and reached for the weapon he'd used on every mortal who'd ever stood between him and an objective, and the weapon didn't fire. The command left his mouth and hit [Raymond Falcon](/npcs/raymond-falcon/)'s blood and stopped. Ninth generation. The power running the wrong direction, and for the first time in his unlife Darius felt his primary tool click empty.
 
 Baron Winger reached for the revolver. Darius reached for something older. The thing in his blood that makes rooms lean toward him. It caught the Malkavian mid-reach and held him just long enough for the wheel to turn and Raymond to surface, confused, frightened, the original personality blinking behind borrowed eyes.
 
-"Modius needs to see you. On penalty of Blood Hunt."
+"[Modius](/npcs/modius/) needs to see you. On penalty of Blood Hunt."
 
 Raymond came. He brought the trumpet. Darius took the revolver.
 
@@ -34,7 +34,7 @@ In the Cutlass, between Broadway and Miller Beach, Darius listened to five peopl
 
 Falcon didn't breach the Masquerade. He defended it. The brooch fell during the struggle. Nobody noticed. Raymond surfaced after the violence, saw the blood on his hands, and ran. He'd been on Broadway ever since, four blocks from the alley, close enough to walk back to the scene of something he couldn't remember clearly and couldn't stop remembering entirely.
 
-Between personalities, the orderly one surfaced long enough to produce a business card from the lining of the trumpet case. SA William Shepard, Federal Bureau of Investigation, Chicago Field Office. The card had been there for four months, taken from the dumpster where Shepard left it the week after Ryan died, cataloged and forgotten by four out of five.
+Between personalities, the orderly one surfaced long enough to produce a business card from the lining of the trumpet case. SA [William Shepard](/npcs/william-shepard/), Federal Bureau of Investigation, Chicago Field Office. The card had been there for four months, taken from the dumpster where Shepard left it the week after Ryan died, cataloged and forgotten by four out of five.
 
 ---
 
@@ -54,4 +54,4 @@ Darius drove home. The west-side apartment was dark. Two guns in his coat, one f
 
 He sat at the kitchen table. Shepard's phone number from a dead detective's folder. Shepard's business card from a broken musician's trumpet case. The Polaroid of the unknown man at Dock 7. Three pieces of a federal investigation that kept circling the same points: the docks, the boy, the alley, the mansion. The circles were getting smaller. Eventually they'd close.
 
-But that was tomorrow's problem. Tonight the prince smiled. Tonight Falcon was in custody. Tonight the clock sat at one and the architecture held and the game was the game, and for the first time since New Year's Eve, Darius Cole was winning it.
+But that was tomorrow's problem. Tonight the prince smiled. Tonight Falcon was in custody. Tonight the clock sat at one and the architecture held and the game was the game, and for the first time since New Year's Eve, [Darius Cole](/darius-cole/) was winning it.

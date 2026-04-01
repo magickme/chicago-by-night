@@ -7,12 +7,12 @@ categories: ["Chapter 9 — The Hunt"]
 description: "Four nights without blood and the east side of Gary looks like a different city. She finds what she needs in a three-person bar. She finds what she wasn't looking for in a house by the lake."
 ---
 
-*East Side Bar / The Torch / Miller Beach / Kendrick's Auto*
+*East Side Bar / [The Torch](/locations/the-torch/) / Miller Beach / Kendrick's Auto*
 *Gary, Indiana*
 
 ---
 
-The water main had Broadway looking like a wound. Orange cones in standing water, utility trucks parked at angles that blocked two lanes, and the sodium lights out from Fifth to Ninth so the strip looked the way Gary would look if everyone finally gave up and left. Sable took Ridge Road east instead, and the city changed under the tires the way it always changed when you drove toward the lake -- the buildings got smaller, the lots got wider, and the air coming through the cracked window carried something green and sandy that didn't belong to the Gary she knew.
+The water main had Broadway looking like a wound. Orange cones in standing water, utility trucks parked at angles that blocked two lanes, and the sodium lights out from Fifth to Ninth so the strip looked the way Gary would look if everyone finally gave up and left. [Sable](/sable-price/) took Ridge Road east instead, and the city changed under the tires the way it always changed when you drove toward the lake -- the buildings got smaller, the lots got wider, and the air coming through the cracked window carried something green and sandy that didn't belong to the Gary she knew.
 
 Reva's bar didn't have a name. It had a Hamm's sign in the window and a painted number on the cinder block and a screen door that stuck halfway, and inside it smelled like fryer grease and Kool smoke and the pine cleaner somebody had used on the floor while the sun was still up. Three people. A box fan in the window moving the heat around. The bartender -- Reva Watts, mid-forties, heavyset, coral nails, a gold chain that said her name in cursive -- looked up when Sable walked in and did the quick inventory that women do when another woman enters a room and the math doesn't add up.
 
@@ -40,7 +40,7 @@ She pulled off and held him up by the shoulders while his knees remembered how t
 
 He nodded. His eyes were already closing. She wiped her mouth with the back of her hand and walked around the corner to the Buick and sat in the driver's seat with the engine running and the taste of him in her teeth. Budweiser. Drywall dust. The sadness of a man who married too young and works too hard and sits at a bar on Saturday because the alternative is going home to the argument. She didn't learn his last name. She didn't ask what the fight was about. She fed on him like filling a tank and left him with a fake memory and a buttoned collar, and the buttoned collar was the part that would sit in her chest, because it was kind, and kindness after feeding was the lie she told herself to keep the numbers working.
 
-Kendrick's smelled like motor oil and cold Popeyes and the cinderblock dark that every Gary building shared like a family resemblance. DeShawn was cleaning a .38 he didn't need to clean. Pete was on the couch with a water-damaged *Jet*. Spoon was at Tanya's.
+Kendrick's smelled like motor oil and cold Popeyes and the cinderblock dark that every Gary building shared like a family resemblance. DeShawn was cleaning a .38 he didn't need to clean. Pete was on the couch with a water-damaged *Jet*. [Spoon](/npcs/spoon-antoine/) was at Tanya's.
 
 "Olds only shows Monday," DeShawn said. "Told him stay close, stay sober, be back Sunday night."
 
@@ -48,9 +48,9 @@ She sent them out. Pete to The Torch -- he'd been inside before, he was young en
 
 Pete called from a payphone at 10:15. She's there. At the piano. Been back since Thursday. Playing like she used to. "She looked like she was waiting for somebody."
 
-DeShawn twelve minutes later. Mansion quiet. One car, Modius's Lincoln. Lights downstairs.
+DeShawn twelve minutes later. Mansion quiet. One car, [Modius](/npcs/modius/)'s Lincoln. Lights downstairs.
 
-The Torch on a Saturday was sixty bodies and Motown bass and cigarette smoke thick enough to taste. Victor behind the bar gave her the nod and nothing else. She took a stool at the dark end and ordered a whiskey she wouldn't touch and watched Allicia play through the gaps between shoulders and raised glasses and the backs of men who didn't know what was ten feet from them.
+The Torch on a Saturday was sixty bodies and Motown bass and cigarette smoke thick enough to taste. Victor behind the bar gave her the nod and nothing else. She took a stool at the dark end and ordered a whiskey she wouldn't touch and watched [Allicia](/npcs/allicia/) play through the gaps between shoulders and raised glasses and the backs of men who didn't know what was ten feet from them.
 
 Allicia in white. Hair pinned up. Playing something slow and minor-key that lived underneath the jukebox like a second conversation nobody else could hear. Her fingers hesitated on a chord when Sable walked in, and that hesitation said everything about who she'd been waiting for.
 

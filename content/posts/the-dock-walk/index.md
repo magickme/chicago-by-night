@@ -12,9 +12,9 @@ description: "A missing padlock. Double-bagged not-corn. A man who owes forty th
 
 ---
 
-The padlock was gone and the gate was open and Darius knew before he walked through it that the building wasn't empty.
+The padlock was gone and the gate was open and [Darius](/darius-cole/) knew before he walked through it that the building wasn't empty.
 
-Monday night. The industrial corridor between the docks and the expressway, where Gary keeps the things it doesn't want to look at. Ray Pulaski walked beside him with a Marlboro between his fingers and the nervous energy of a man who understands favors and debts but not why this particular favor feels heavier than the others. The warehouse sat behind Gary Exports Co., corrugated metal gone rust-orange, a chain-link fence with a gate swinging in the lake wind. No padlock. The chain coiled on the ground.
+Monday night. The industrial corridor between the docks and the expressway, where Gary keeps the things it doesn't want to look at. [Ray Pulaski](/npcs/ray-pulaski/) walked beside him with a Marlboro between his fingers and the nervous energy of a man who understands favors and debts but not why this particular favor feels heavier than the others. The warehouse sat behind Gary Exports Co., corrugated metal gone rust-orange, a chain-link fence with a gate swinging in the lake wind. No padlock. The chain coiled on the ground.
 
 They circled the building. Tire tracks in the gravel — heavy ruts, a truck, and lighter tracks, a car. A dumpster with crushed cardboard inside, no rain damage. Three pine pallets stacked against the east wall, new enough to smell like sawmill. Darius read it the way he read a balance sheet. Someone was running goods through this building on a schedule, and the schedule was recent, and the security was Gary itself — a city too tired to ask questions.
 
@@ -32,7 +32,7 @@ Darius sent him home. Told him the building was empty, the night was routine, Ed
 
 Berth 7. The dock office. A prefab box at the foot of the loading bay with one light on and one man inside. Eddie Fells sat at a desk with a radio playing George Strait and a face that had been tired since Reagan's first term. Broken capillaries across the nose. Hands that knew paperwork the way his boots knew concrete.
 
-Darius stood outside the door and called the blood up for Awe and the blood didn't catch. The Presence rose and fell flat, the supernatural charm sliding off the July air like a match that wouldn't strike. It happened sometimes. It happened now — at a dock office, on a Monday, at the exact moment he needed the world to bend. The streak that had carried him since the Ghost Lane, through the Torch assumption and the prince's handshake and the sire's phone call and the Victor lie — fourteen scenes of dice that rolled his way — broke on a door he hadn't opened yet.
+Darius stood outside the door and called the blood up for Awe and the blood didn't catch. The Presence rose and fell flat, the supernatural charm sliding off the July air like a match that wouldn't strike. It happened sometimes. It happened now — at a dock office, on a Monday, at the exact moment he needed the world to bend. The streak that had carried him since the Ghost Lane, through [the Torch](/locations/the-torch/) assumption and the prince's handshake and the sire's phone call and the Victor lie — fourteen scenes of dice that rolled his way — broke on a door he hadn't opened yet.
 
 He opened it anyway.
 
@@ -56,6 +56,6 @@ Humanity seven. The number that said he was still closer to the man than the mon
 
 He started the engine. Drove west. The list was shorter now. The warehouse was his. The customs gap was his. The inside man was his. Sal Cantone's operation was dead and wouldn't know it until Tuesday or Friday, whichever came first, when a panel van pulled up to an empty warehouse and a phone rang in a dock office and nobody answered.
 
-Tuesday's call to Chuc Luc would be simple. The sire asked for a warehouse and a customs gap. Darius was bringing him a working pipeline, a Dominated dock supervisor, and twenty-four sacks of product that belonged to a man in Chicago who was about to learn that someone in Gary had stolen his machine.
+Tuesday's call to [Chuc Luc](/npcs/chuc-luc/) would be simple. The sire asked for a warehouse and a customs gap. Darius was bringing him a working pipeline, a Dominated dock supervisor, and twenty-four sacks of product that belonged to a man in Chicago who was about to learn that someone in Gary had stolen his machine.
 
 The west side. The apartment. The lock. The dark. The architecture held, and the architecture was everything, and the architecture now ran on a man who didn't know his own mind.

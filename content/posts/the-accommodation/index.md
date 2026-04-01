@@ -7,16 +7,16 @@ categories: ["Chapter 1 — Gary Sandbox"]
 description: "A rumor about her sire. A prince who wants a pet. A dance studio that belongs to someone else."
 ---
 
-*The Torch / Modius's Mansion / Fifth Avenue*
+*[The Torch](/locations/the-torch/) / [Modius's Mansion](/locations/modius-mansion/) / Fifth Avenue*
 *Gary, Indiana*
 
 ---
 
-Victor Salonika was drying a glass when he said it.
+[Victor Salonika](/npcs/victor-salonika/) was drying a glass when he said it.
 
 "Your friend in Roselle. The painter."
 
-Sable had been sitting at the bar for twenty minutes, nursing a drink she couldn't taste, watching the door the way she watched every door, with her body angled away and her attention locked on the mirror behind the bottles where the reflection showed everything the room thought she wasn't looking at. Monday night at The Torch. Four mortals at a table by the wall. A woman alone in the corner booth with a cigarette and a crossword puzzle. The jukebox playing Sam Cooke low enough that the song was more a feeling than a sound.
+[Sable](/sable-price/) had been sitting at the bar for twenty minutes, nursing a drink she couldn't taste, watching the door the way she watched every door, with her body angled away and her attention locked on the mirror behind the bottles where the reflection showed everything the room thought she wasn't looking at. Monday night at The Torch. Four mortals at a table by the wall. A woman alone in the corner booth with a cigarette and a crossword puzzle. The jukebox playing Sam Cooke low enough that the song was more a feeling than a sound.
 
 "What about him," she said.
 
@@ -24,7 +24,7 @@ Victor set the glass down. Picked up another. The bartender's rhythm, the metron
 
 "Word is his wife caught him in something. Took it to the Primogen. He's been called to answer."
 
-The word *wife* landed first. Then *Primogen*. Then the distance between what Victor was saying and what he meant, which was this: Michael Payne, the man who made her, the man who put the curse in her blood and left her in Gary like a painting hung in a room nobody visits, had been dragged before the ruling council of Chicago by the woman he'd left.
+The word *wife* landed first. Then *Primogen*. Then the distance between what Victor was saying and what he meant, which was this: [Michael](/npcs/michael/) Payne, the man who made her, the man who put the curse in her blood and left her in Gary like a painting hung in a room nobody visits, had been dragged before the ruling council of Chicago by the woman he'd left.
 
 "When," Sable said.
 
@@ -66,7 +66,7 @@ The door opened.
 
 ---
 
-Modius was standing by the fireplace. No fire. The mantel framing him like a proscenium, and he knew it, and that was the thing about Modius: he was always performing the role of prince, even alone, even in a dead city, even when the audience was one fledgling in a slip who'd come to sell him the only thing she had left.
+[Modius](/npcs/modius/) was standing by the fireplace. No fire. The mantel framing him like a proscenium, and he knew it, and that was the thing about Modius: he was always performing the role of prince, even alone, even in a dead city, even when the audience was one fledgling in a slip who'd come to sell him the only thing she had left.
 
 "Sable." He tasted the name. "Three nights since court and here you are. I wasn't expecting you until February."
 
@@ -84,7 +84,7 @@ He put one finger under her chin.
 
 Not an accusation. A compliment. One craftsman to another.
 
-Then the negotiation. The carriage house, which she declined. Gently, with the specific calculus of a woman who understood that proximity to the current favorite was worse than distance from the prince. She'd seen Allicia stand at Elysium. She'd seen the crack.
+Then the negotiation. The carriage house, which she declined. Gently, with the specific calculus of a woman who understood that proximity to the current favorite was worse than distance from the prince. She'd seen [Allicia](/npcs/allicia/) stand at Elysium. She'd seen the crack.
 
 "I don't want to be a disruption," she said. "I want to be an asset."
 

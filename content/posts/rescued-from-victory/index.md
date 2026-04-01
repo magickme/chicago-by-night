@@ -7,22 +7,22 @@ categories: ["Act II — Ashes to Ashes"]
 description: "A staked Sheriff on Wacker Drive. An Anarch in a fourteen-year-old body. A torpored ancient in a stripped-out 7-11. The investigation compresses six scenes into one long night that ends in a thirty-dollar motel room with something very old in the bathtub."
 ---
 
-*Sears Tower / Wacker Drive / West Side 7-11 / Tell It All Offices / Standdown's Warehouse / Starlite Motel*
+*[Sears Tower](/locations/sears-tower/) / Wacker Drive / West Side 7-11 / Tell It All Offices / Standdown's Warehouse / Starlite Motel*
 *Chicago, Illinois — January 2-4, 1991*
 
 ---
 
 They woke in a dead man's room and the cold had gotten in while they slept — not through the walls (the walls were concrete and steel and built to hold a Prince) but through the glass at the end of the hallway, where January pressed itself against the 107th floor and the radiator had quit because the only person who knew how to fix it was Julian Curry and Julian Curry was in the office down the hall with a bullet through his head.
 
-Belthazar was already pacing. The boots on marble, back and forth, the rhythm of a man who wanted the sound noticed.
+[Belthazar](/npcs/belthazar/) was already pacing. The boots on marble, back and forth, the rhythm of a man who wanted the sound noticed.
 
-"Rise and shine, little ones." The drawl was all theater and something cruel underneath. He'd called Ballard three hours ago. The deadline was tonight. The reply had been four words: *the deadline is tonight.* He relayed them with the precision of a man who understood that precision was the only weapon he was currently authorized to use.
+"Rise and shine, little ones." The drawl was all theater and something cruel underneath. He'd called [Ballard](/npcs/ballard/) three hours ago. The deadline was tonight. The reply had been four words: *the deadline is tonight.* He relayed them with the precision of a man who understood that precision was the only weapon he was currently authorized to use.
 
-Darius provoked him. A clean hit — *you let Ballard make all your decisions for you?* — and the mask came off like paint off a radiator and what was underneath was a hundred and twenty years of enforcement done for men he privately despised. The finger came up, one thick digit aimed at Darius's chest, and the space between them contracted until it was nothing but aura and authority and the specific chemistry of two predators deciding whether the fight was worth the damage.
+[Darius](/darius-cole/) provoked him. A clean hit — *you let Ballard make all your decisions for you?* — and the mask came off like paint off a radiator and what was underneath was a hundred and twenty years of enforcement done for men he privately despised. The finger came up, one thick digit aimed at Darius's chest, and the space between them contracted until it was nothing but aura and authority and the specific chemistry of two predators deciding whether the fight was worth the damage.
 
 The elevator counted down in red digits. Ninety-four. Sixty. Thirty-eight.
 
-Wacker Drive. Twelve degrees. Belthazar opened the car door and started to speak and stopped because something had registered in his peripheral vision that his conscious mind hadn't caught up with. Sable saw the boy first — black hair, leather jacket three sizes wrong, sneakers that belonged to neither the weather nor the decade, and one finger over his lips and the other hand holding a stake.
+Wacker Drive. Twelve degrees. Belthazar opened the car door and started to speak and stopped because something had registered in his peripheral vision that his conscious mind hadn't caught up with. [Sable](/sable-price/) saw the boy first — black hair, leather jacket three sizes wrong, sneakers that belonged to neither the weather nor the decade, and one finger over his lips and the other hand holding a stake.
 
 She warned him.
 
@@ -34,7 +34,7 @@ The boy looked at Sable. "You *warned* him."
 
 Not angry. Confused. The face of someone who had risked his life to save people who tried to stop him.
 
-His name was Damien. He said it like it should mean something. It did — Lodin's files had mentioned a troublesome Anarch by that name — but the files hadn't mentioned the blood pressure that came off him like heat from a kiln, the predatory weight that had no business existing inside a fourteen-year-old body. A second child peeled out of the dark behind the parking structure. Seven years old. Brown hair. Eyes that had forgotten how not to be afraid.
+His name was [Damien](/npcs/damien/). He said it like it should mean something. It did — [Lodin](/npcs/lodin/)'s files had mentioned a troublesome Anarch by that name — but the files hadn't mentioned the blood pressure that came off him like heat from a kiln, the predatory weight that had no business existing inside a fourteen-year-old body. A second child peeled out of the dark behind the parking structure. Seven years old. Brown hair. Eyes that had forgotten how not to be afraid.
 
 Damien's voice changed when he talked about the smaller one. The bravado bled out and what was left was something Sable recognized — the sound of a person responsible for something fragile who is running out of ways to keep it intact. She'd made that sound. In different rooms, for different reasons, she'd made exactly that sound.
 
@@ -56,7 +56,7 @@ She found the drawer by touch — a seam in the wall that her fingertips caught 
 
 The blood was red the way a ruby is red — not flat, not dull, but luminous and thick and rolling against the glass with a viscosity that made physics feel approximate. Her mouth flooded. The hunger she'd just fed screamed. The Self-Control held. Darius went still beside her and his stillness was the Ventrue kind — the Beast awake and being managed through architecture and will — and his held too.
 
-They climbed out. They called a reporter from a payphone at two in the morning. His name was Scottie Cartwright and he'd been waiting his entire career for that call. He gave them Roarke. He gave them Shepard. He gave them an address — a specialist's facility on the near north side.
+They climbed out. They called a reporter from a payphone at two in the morning. His name was Scottie Cartwright and he'd been waiting his entire career for that call. He gave them [Roarke](/npcs/roarke/). He gave them Shepard. He gave them an address — a specialist's facility on the near north side.
 
 Sable turned on the Awe and let Appearance 5 do the rest and Scottie Cartwright spent the remainder of the conversation trying to be the kind of man a woman like that would take seriously. He gave them everything. When Darius tried to erase it, the man's will fought the rewrite — fought it hard enough to surface, for one moment, the particular delight of a hack journalist who had finally stumbled onto something real. "Did you just do what I think you did?" Sable killed it with a smile and a line she'd learned from Rue McClanahan and the moment passed and they left him with a turned-over notepad and a blush that would fade by morning.
 
@@ -68,7 +68,7 @@ The body had been moved to ground-floor cold storage. She let Darius in through 
 
 The photographs had lied by omission. The torpored Methuselah was a presence — grey-white skin like cracked marble, four fangs behind parted lips, matted hair, and the saber-toothed pendant on the chest. Three inches. Dark. The twin of the one humming in Lodin's vault, except this one was silent.
 
-The man upstairs was Michael Standdown. Occult investigator, not a doctor. Jerusalem pilgrim. Two weeks of tests that had led him to the conclusion that the thing in his basement was a vampire. He sat at a desk with a crucifix on the wall behind him and books that mixed anatomy with eschatology and he said, "I think it's a very old one. And I think you already knew that."
+The man upstairs was [Michael Standdown](/npcs/michael-standdown/). Occult investigator, not a doctor. Jerusalem pilgrim. Two weeks of tests that had led him to the conclusion that the thing in his basement was a vampire. He sat at a desk with a crucifix on the wall behind him and books that mixed anatomy with eschatology and he said, "I think it's a very old one. And I think you already knew that."
 
 Darius rewrote his night. Three successes on Forgetful Mind — enough to replace the encounter with something plausible. The body woke up and walked away. Standdown stood alone in his apartment and said "My God" to no one and the rewrite settled into his memory like silt into a riverbed, not granite but functional, the kind of false floor that holds weight until someone tests it.
 

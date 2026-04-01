@@ -7,18 +7,18 @@ categories: ["Act II — Ashes to Ashes"]
 description: "Two Black vampires from a dying city drive twenty-five minutes down the Skyway into a living one. The Succubus Club is empty. The Prince is a fraud. The helicopter is late."
 ---
 
-*Skyway / Succubus Club / The Cave / Field Museum / Soldier Field*
+*Skyway / [Succubus Club](/locations/succubus-club/) / [The Cave](/locations/the-cave/) / [Field Museum](/locations/field-museum/) / Soldier Field*
 *Chicago, Illinois*
 
 ---
 
 The Skyway was two lanes of frozen asphalt and the skyline getting closer. Gary shrank in the rearview mirror the way a bruise fades — slowly, and you kept touching it to make sure.
 
-Twenty-five minutes. That was the distance between a dying city of seven vampires and a living one with a hundred. The Wastelands rolled past the windows on both sides — tank farms, refineries bleeding orange flame into the January dark, the skeletal remains of factories that had closed before either of them learned to hunt. The Cutlass rattled over expansion joints. Behind it, Sable's Buick held a steady two car lengths.
+Twenty-five minutes. That was the distance between a dying city of seven vampires and a living one with a hundred. The Wastelands rolled past the windows on both sides — tank farms, refineries bleeding orange flame into the January dark, the skeletal remains of factories that had closed before either of them learned to hunt. The Cutlass rattled over expansion joints. Behind it, [Sable](/sable-price/)'s Buick held a steady two car lengths.
 
-They crossed the state line and the difference was immediate. Streetlights that worked. Roads that had been plowed. Windows with glass in them. The Dan Ryan opened up like a throat, six lanes moving fast. Sears Tower filled the windshield. The Prudential Building beside it. The city arranged itself against the sky like a resume.
+They crossed the state line and the difference was immediate. Streetlights that worked. Roads that had been plowed. Windows with glass in them. The Dan Ryan opened up like a throat, six lanes moving fast. [Sears Tower](/locations/sears-tower/) filled the windshield. The Prudential Building beside it. The city arranged itself against the sky like a resume.
 
-Darius noticed the exits first. Then the lane merges. Then the way the traffic sorted itself — expressway logic, the same in every city. His hands were steady on the wheel and his mind was already mapping contingencies. Sable, behind him, noticed the light. The way the high-rises caught the neon from below and threw it upward, each building a column of cold fire reflected in glass. She noticed the color of the sky between them.
+[Darius](/darius-cole/) noticed the exits first. Then the lane merges. Then the way the traffic sorted itself — expressway logic, the same in every city. His hands were steady on the wheel and his mind was already mapping contingencies. Sable, behind him, noticed the light. The way the high-rises caught the neon from below and threw it upward, each building a column of cold fire reflected in glass. She noticed the color of the sky between them.
 
 That was the difference. It had always been the difference.
 
@@ -28,11 +28,11 @@ The Succubus Club was on State Street, near the Rush Street bars, in a brick war
 
 They were the only Black faces in the room. Darius clocked it the way he clocked exits and sight lines — information, not grievance. A data point that informed every subsequent calculation. The Near North Side at night was white. The club was white. The music was white. In Gary the anxiety was violence and territory. Here the anxiety was visibility, the particular weight of being measured before you opened your mouth. Neither of them said anything. They looked at each other and the thought passed between them like a current through a wire and then they went to work.
 
-Gengis was on the dance floor. Shaved head, safety pin through his nose, black leather and studs, slamming around with three mortal friends to music that didn't match the violence of his movement. Brujah. Young. His Auspex was running like a searchlight — he read auras the way Darius read balance sheets, constantly and without asking.
+[Gengis](/npcs/gengis/) was on the dance floor. Shaved head, safety pin through his nose, black leather and studs, slamming around with three mortal friends to music that didn't match the violence of his movement. Brujah. Young. His Auspex was running like a searchlight — he read auras the way Darius read balance sheets, constantly and without asking.
 
-Sir was in a booth with three drunk lawyers, flushed red with too much blood, the English accent worn smooth by a century but never erased. He remembered them from Gary. Nobody sees Lodin, he said. Go through his man. Talk to Horace at The Cave.
+Sir was in a booth with three drunk lawyers, flushed red with too much blood, the English accent worn smooth by a century but never erased. He remembered them from Gary. Nobody sees [Lodin](/npcs/lodin/), he said. Go through his man. Talk to Horace at The Cave.
 
-Gengis approached after Sir's intelligence dried up. He walked like he owned the floor. Darius stood up out of the booth — not fast, not aggressive, just a man establishing the geometry of a conversation. Gengis ran his Auspex. Darius held. Whatever the Brujah saw, it was enough. The testing dropped. He had a meeting. A place called the Brewery. Three in the morning. He said it like a dare, then walked away without selling it.
+Gengis approached after Sir's intelligence dried up. He walked like he owned the floor. Darius stood up out of the booth — not fast, not aggressive, just a man establishing the geometry of a conversation. Gengis ran his Auspex. Darius held. Whatever the Brujah saw, it was enough. The testing dropped. He had a meeting. A place called [the Brewery](/locations/the-brewery/). Three in the morning. He said it like a dare, then walked away without selling it.
 
 ---
 
@@ -58,7 +58,7 @@ The blood tasted like bourbon and grief. The man slid down the wall and sat in t
 
 The Field Museum at three in the morning was a Greek temple full of dead things. Marble floors. Sixty-foot ceilings. Mastodon bones. The guard let them in because the word Prince was a key that turned every lock in the building.
 
-The man under the mastodon skeleton spoke with his back turned. Double-breasted suit. Wing tips that cost more than the Cutlass. He talked like a ruler — careful, imperious, each word placed. He asked about Modius the way a chief of staff asks about a regional office.
+The man under the mastodon skeleton spoke with his back turned. Double-breasted suit. Wing tips that cost more than the Cutlass. He talked like a ruler — careful, imperious, each word placed. He asked about [Modius](/npcs/modius/) the way a chief of staff asks about a regional office.
 
 Darius gave him what the letter already said and nothing more. Five words for every twenty the man wanted. The sealed envelope changed hands.
 

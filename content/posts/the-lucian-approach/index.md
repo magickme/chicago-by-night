@@ -12,11 +12,11 @@ description: "A cinderblock office. A mortgage folder. A six-hundred-year-old Ga
 
 ---
 
-The office at Gary Exports Co. was cinderblock and corrugated steel and a hand-painted sign that said FREIGHT & LOGISTICS, and the woman who opened the door looked at Darius the way a bouncer looks at someone who left their ID in the car.
+The office at Gary Exports Co. was cinderblock and corrugated steel and a hand-painted sign that said FREIGHT & LOGISTICS, and the woman who opened the door looked at [Darius](/darius-cole/) the way a bouncer looks at someone who left their ID in the car.
 
 "Office is closed."
 
-"I'm here for Lucian."
+"I'm here for [Lucian](/npcs/lucian/)."
 
 "He know you're coming?"
 
@@ -28,7 +28,7 @@ The office behind the office was small. Metal desk. Green glass lamp. A nautical
 
 Lucian sat behind the desk. Dark work shirt. No jewelry. The stillness of something that had stopped needing to move centuries ago and did it now only out of habit. He didn't stand. Didn't greet. The chair across from him was empty and Darius sat in it because standing would have said one thing and waiting would have said another and both of them were wrong.
 
-He laid it out. The mortgage folder. Lakeside Holdings LLC. Gerald Fisk drowning in debt. Morris & Peck in Hammond. The Torch. The math: whoever owns the building owns the food supply. And the turn, the reason he was sitting in an ancient Gangrel's office at eleven on a Monday night: maybe there's a deal where everybody gets something and nobody goes to war over a strip club.
+He laid it out. The mortgage folder. Lakeside Holdings LLC. Gerald Fisk drowning in debt. Morris & Peck in Hammond. [The Torch](/locations/the-torch/). The math: whoever owns the building owns the food supply. And the turn, the reason he was sitting in an ancient Gangrel's office at eleven on a Monday night: maybe there's a deal where everybody gets something and nobody goes to war over a strip club.
 
 One sentence from the elder. Then silence. Then: "How did you learn the name Lakeside Holdings?"
 
@@ -56,7 +56,7 @@ Lucian returned thirty seconds later. Whatever he'd found at berth three had cos
 
 There it was. The read. Six centuries of studying men who came to his office with folders and pitches and stories about county filings, and the elder had looked past all of it to the part underneath where the lie lived.
 
-Darius let the broker die. Let Warren Birch's careful diction fall away and the voice that came out was Tyler Street, was the back room at Marlene's pawnshop, was the parking lot behind the check-cashing place at two in the morning.
+Darius let the broker die. Let Warren Birch's careful diction fall away and the voice that came out was [Tyler](/npcs/tyler/) Street, was the back room at Marlene's pawnshop, was the parking lot behind the check-cashing place at two in the morning.
 
 "Look, I'm new here, OK? I'm just a squirrel trying to get a nut. I ain't got six hundred years, not even six. Give a nigga who's trying to just make a buck in the Great Jyhad a break."
 

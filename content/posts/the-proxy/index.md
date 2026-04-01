@@ -12,7 +12,7 @@ description: "A man waits eight hours in a bare apartment for a meeting that was
 
 ---
 
-The haven smelled like dust and the chemical signature of roach traps that had stopped working in June. Darius opened his eyes at 8:23 PM and the first thing he heard was the heartbeat through the wall. Sixty-two beats per minute. Patient. Controlled. The rhythm of a man who had been waiting eight hours and had decided to be professional about it, because Marcus Webb had been professional about Darius Cole's instructions for four years and the habit was structural, built into the foundation of a relationship that was about to become something else entirely.
+The haven smelled like dust and the chemical signature of roach traps that had stopped working in June. Darius opened his eyes at 8:23 PM and the first thing he heard was the heartbeat through the wall. Sixty-two beats per minute. Patient. Controlled. The rhythm of a man who had been waiting eight hours and had decided to be professional about it, because Marcus Webb had been professional about [Darius Cole](/darius-cole/)'s instructions for four years and the habit was structural, built into the foundation of a relationship that was about to become something else entirely.
 
 He unbolted the back room. Stepped into the front.
 
@@ -110,7 +110,7 @@ The Forgetful Mind went in like surgery. Five successes. Six weeks of warehouse 
 
 Eddie blinked. His face went slack for a moment, the expression of a man whose television had changed channels without anyone touching the remote. Then it settled into something neutral. A night-shift supervisor with nothing to report.
 
-The Mesmerize went on top. The behavioral script. When Cantone's people came asking — and they would come, because forty thousand dollars didn't disappear without someone noticing — Eddie would tell them the trafficking operation brought FBI heat. Williams and his people were the problem. He didn't know new management. The warehouse had been empty for weeks. He was the night shift guy. He kept his head down.
+The Mesmerize went on top. The behavioral script. When Cantone's people came asking — and they would come, because forty thousand dollars didn't disappear without someone noticing — Eddie would tell them the trafficking operation brought FBI heat. [Williams](/npcs/williams/) and his people were the problem. He didn't know new management. The warehouse had been empty for weeks. He was the night shift guy. He kept his head down.
 
 Three successes. Good enough for casual pressure. Not enough for violence. If Cantone sent soldiers who leaned hard, the script might crack. But the foundation wouldn't. Even if the behavioral layer broke, Eddie's memories were granite — he couldn't give up what he didn't have.
 
@@ -126,9 +126,9 @@ Then the Prince of Gary.
 
 "Mr. Birch."
 
-"Your Grace. The Lucian matter is resolved."
+"Your Grace. The [Lucian](/npcs/lucian/) matter is resolved."
 
-He gave Modius the first two layers. Cooperative terms on the waterfront. Feeding rights established. A financial arrangement — two thousand a month, out of Darius's own resources, first of August.
+He gave [Modius](/npcs/modius/) the first two layers. Cooperative terms on the waterfront. Feeding rights established. A financial arrangement — two thousand a month, out of Darius's own resources, first of August.
 
 "You're paying this yourself."
 

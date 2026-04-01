@@ -12,9 +12,9 @@ description: "Three conditions. Three fingers. A deal struck in a parked car on 
 
 ---
 
-The machine shop smelled like cutting oil and cold steel. Lakovic & Sons had been closed since '87 but someone still maintained the locks, and the back office where they'd died for the day had a concrete floor and no windows and a door that bolted from the inside. Good enough. Darius opened his eyes at 9:02 PM and the first thing he registered was Sable already awake, sitting on a folding chair with her legs crossed and her jacket zipped to the throat, watching the wall like it owed her money.
+The machine shop smelled like cutting oil and cold steel. Lakovic & Sons had been closed since '87 but someone still maintained the locks, and the back office where they'd died for the day had a concrete floor and no windows and a door that bolted from the inside. Good enough. Darius opened his eyes at 9:02 PM and the first thing he registered was [Sable](/sable-price/) already awake, sitting on a folding chair with her legs crossed and her jacket zipped to the throat, watching the wall like it owed her money.
 
-"Chicago," she said. No preamble. "Lodin's seneschal is asking questions. 'Conditions in Gary.' That's the phrase. Like we're a weather report."
+"Chicago," she said. No preamble. "[Lodin](/npcs/lodin/)'s seneschal is asking questions. 'Conditions in Gary.' That's the phrase. Like we're a weather report."
 
 Darius sat up. The blood was low. Six-thirteenths, and two nights since the wasteland. He could feel it in the joints, the slight delay between intention and movement that meant the tank was dropping toward the line where discipline started costing more than it returned.
 
@@ -22,13 +22,13 @@ Darius sat up. The blood was low. Six-thirteenths, and two nights since the wast
 
 "Not yet. But the word is in the air."
 
-He filed it. Chicago scrutiny went on the board next to Cantone and Shepard and Chuc Luc and every other convergence point that made Gary feel like a room with the walls closing in on a schedule he hadn't written. He stood. Brushed concrete dust off his slacks. The Cutlass was in the parking lot behind the building, hidden from Indianapolis Boulevard by a dumpster and a chain-link fence with slats.
+He filed it. Chicago scrutiny went on the board next to Cantone and Shepard and [Chuc Luc](/npcs/chuc-luc/) and every other convergence point that made Gary feel like a room with the walls closing in on a schedule he hadn't written. He stood. Brushed concrete dust off his slacks. The Cutlass was in the parking lot behind the building, hidden from Indianapolis Boulevard by a dumpster and a chain-link fence with slats.
 
 "We drive south," he said. "I need to make calls."
 
 ---
 
-Indianapolis Boulevard at nine-thirty on a Friday night was four lanes of nothing. Gary-bound traffic was light because nobody drove to Gary on purpose. The Cutlass rolled south past the refineries, past the BP plant with its flare stack burning against the purple sky, past the turnoff for the docks where Lucian's territory began at some unmarked line that only Gangrel could smell.
+Indianapolis Boulevard at nine-thirty on a Friday night was four lanes of nothing. Gary-bound traffic was light because nobody drove to Gary on purpose. The Cutlass rolled south past the refineries, past the BP plant with its flare stack burning against the purple sky, past the turnoff for the docks where [Lucian](/npcs/lucian/)'s territory began at some unmarked line that only Gangrel could smell.
 
 The man was standing on the shoulder of the access road like he'd been planted there.
 
@@ -80,7 +80,7 @@ Darius put the car in gear. His hands were steady. In the rearview mirror, Sable
 
 ---
 
-The Torch at ten. Sable out. The car lighter by the weight of one vampire and whatever she was carrying in the part of her expression that she didn't share.
+[The Torch](/locations/the-torch/) at ten. Sable out. The car lighter by the weight of one vampire and whatever she was carrying in the part of her expression that she didn't share.
 
 The haven. The phone. Webb picked up on the third ring and Darius could hear the television in the background, a game show, the sound of a life that was about to get simpler in ways that Marcus Webb would never understand.
 
@@ -118,7 +118,7 @@ The haven at midnight. West side. The building that nobody looked at twice becau
 
 Darius sat at the table and opened the notebook and spread the threads across the surface like a surgeon laying out instruments. Not physically. The notebook stayed closed. But the diagram was there, behind his eyes, the four assets and their connections and the pressure points and the vulnerable joints, and the Grace had given him the clarity to see all of it at once without the usual effort of holding one piece while reaching for the next.
 
-Four assets. The Torch -- social hub, Juggler's operation, the keystone that connected everything in Gary to everything else. Whoever controlled the Torch controlled the flow of information and the flow of blood and the flow of bodies through the only functioning Kindred space in a forty-mile radius. The Pipeline -- Chuc Luc's narcotics operation, the warehouse, Eddie, the sacks, the Chicago directive that had put Darius in Gary in the first place. Cantone's distribution network -- stolen, not built, a machine that had been running on Cantone's fuel and was now running on borrowed time before someone in Cicero noticed the fuel gauge was wrong. And the notebook. Williams's forty-three entries. The D-Train schedule, the Mr. White connection, the B7/SC notation. Intelligence that could be traded or weaponized or held in reserve, and the value of held intelligence was that it appreciated while everything else depreciated.
+Four assets. The Torch -- social hub, [Juggler](/npcs/juggler/)'s operation, the keystone that connected everything in Gary to everything else. Whoever controlled the Torch controlled the flow of information and the flow of blood and the flow of bodies through the only functioning Kindred space in a forty-mile radius. The Pipeline -- Chuc Luc's narcotics operation, the warehouse, Eddie, the sacks, the Chicago directive that had put Darius in Gary in the first place. Cantone's distribution network -- stolen, not built, a machine that had been running on Cantone's fuel and was now running on borrowed time before someone in Cicero noticed the fuel gauge was wrong. And the notebook. [Williams](/npcs/williams/)'s forty-three entries. The D-Train schedule, the Mr. White connection, the B7/SC notation. Intelligence that could be traded or weaponized or held in reserve, and the value of held intelligence was that it appreciated while everything else depreciated.
 
 The model took shape. Not operator. Landlord.
 
@@ -132,7 +132,7 @@ Vulnerable points. Eddie was a single point of failure -- one man between the wa
 
 The advantage pulsed. The diagram held.
 
-Not the throne. The building the throne sits in. Warren Birch was the keystone because Birch was the name on the infrastructure -- the name on the lease, the name on the phone, the name the FBI would find when they looked and the name Cantone's people would find when they looked and the name that existed precisely so that Darius Cole didn't have to exist anywhere that names were written down. Birch was a building. Darius was the landlord who owned the building and never appeared in the records.
+Not the throne. The building the throne sits in. Warren Birch was the keystone because Birch was the name on the infrastructure -- the name on the lease, the name on the phone, the name the FBI would find when they looked and the name Cantone's people would find when they looked and the name that existed precisely so that [Darius Cole](/darius-cole/) didn't have to exist anywhere that names were written down. Birch was a building. Darius was the landlord who owned the building and never appeared in the records.
 
 He sat with the diagram until three-thirty. The advantage faded somewhere around two, the clarity dropping back to normal like a tuning fork losing its ring. But the diagram stayed. The model stayed. The landlord model.
 

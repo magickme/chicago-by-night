@@ -18,7 +18,7 @@ DeShawn was sitting on the workbench with his arms folded and his eyes bloodshot
 
 Six's blocks. The territory of a dead man, watched by a living one who didn't know the dead man was dead because the dead man's crew was standing in Sable's garage pretending everything was fine.
 
-Pete had the other report. Spoon had called Tanya's twice during the day looking for Pete, sounding hungry in a way that had nothing to do with food. The Step 1 bond calling home. She'd heard DeShawn describe the same feeling in different words during the first week, the pull in the sternum, the warmth that wouldn't locate itself, the sense that there was somewhere he was supposed to be and he couldn't stop thinking about it.
+Pete had the other report. [Spoon](/npcs/spoon-antoine/) had called Tanya's twice during the day looking for Pete, sounding hungry in a way that had nothing to do with food. The Step 1 bond calling home. She'd heard DeShawn describe the same feeling in different words during the first week, the pull in the sternum, the warmth that wouldn't locate itself, the sense that there was somewhere he was supposed to be and he couldn't stop thinking about it.
 
 She told Pete to bring him.
 
@@ -44,11 +44,11 @@ Payphone on Adams Street. Three calls.
 
 Lonnie Greer picked up on the fourth ring with a ballgame in the background and the particular vocal shift men perform when they're alone and hear a woman's voice on the line. She gave him the plate number and he told her his cop buddy was off for the night but he could run it through his service first thing in the morning, results by noon, a hundred dollars, send your boy Pete.
 
-She hung up and called Darius.
+She hung up and called [Darius](/darius-cole/).
 
-His line was clean. No Webb in the apartment. She told him about Allicia and Victor's report and the three nights and the word *indisposed* and the silence on the other end was Darius processing, the sound of a man rearranging a diagram she couldn't see.
+His line was clean. No Webb in the apartment. She told him about [Allicia](/npcs/allicia/) and Victor's report and the three nights and the word *indisposed* and the silence on the other end was Darius processing, the sound of a man rearranging a diagram she couldn't see.
 
-Don't go to the mansion. Three nights behind closed doors with a three-step bond isn't punishment. Punishment is public. This is maintenance. Modius is afraid and when Modius gets afraid he pulls everything closer and Allicia is the first thing he reaches for because she's the thing he's most afraid of losing.
+Don't go to the mansion. Three nights behind closed doors with a three-step bond isn't punishment. Punishment is public. This is maintenance. [Modius](/npcs/modius/) is afraid and when Modius gets afraid he pulls everything closer and Allicia is the first thing he reaches for because she's the thing he's most afraid of losing.
 
 "So I do nothing."
 
@@ -56,7 +56,7 @@ Don't go to the mansion. Three nights behind closed doors with a three-step bond
 
 The dangerous read, he said. The one she didn't want to hear. Modius deepening the bond. Fresh vitae from a prince. Her Step 1 competing with decades of three-step dependency. The math getting ugly in a way that Darius described in the same voice he used for pipeline logistics and feeding schedules, which was the Ventrue's gift and his curse, the ability to reduce everything to structure, even a woman she could still taste when she closed her eyes.
 
-She called The Torch. Victor told her what she already knew and added the detail that made it worse: Modius had called twice that night asking about foot traffic. Who came in. Who asked questions. A prince taking attendance at a bar he owned through intermediaries, counting the names, looking for the one that didn't belong.
+She called [The Torch](/locations/the-torch/). Victor told her what she already knew and added the detail that made it worse: Modius had called twice that night asking about foot traffic. Who came in. Who asked questions. A prince taking attendance at a bar he owned through intermediaries, counting the names, looking for the one that didn't belong.
 
 She hung up. Leaned against the phone booth. The east side of Gary smelled like lake water and rust and the July heat doing something chemical to the asphalt that made it smell almost sweet.
 
@@ -88,4 +88,4 @@ She checked the locks. Pete took the door. The lamp went off. Monday became Tues
 
 Dawn at 5:30 AM. Somewhere on Sixteenth Street, Spoon sat on a porch watching a car watching nothing. Somewhere in a mansion on the Emerson seam, a woman who hadn't spoken in three days sat at a piano she wasn't allowed to play. Somewhere in a storefront on Broadway, a bail bondsman was setting an alarm for six AM so he could run a plate for a woman whose face he couldn't stop thinking about and whose hundred dollars he hadn't earned yet.
 
-And somewhere in Gary, under cinderblock and grease-stained concrete, Sable Price slept with nine-fourteenths of her blood and three-sixths of her will and five-tenths of her soul, and the numbers were the numbers, and the numbers didn't lie, and the machine was running, and the machine was hers.
+And somewhere in Gary, under cinderblock and grease-stained concrete, [Sable Price](/sable-price/) slept with nine-fourteenths of her blood and three-sixths of her will and five-tenths of her soul, and the numbers were the numbers, and the numbers didn't lie, and the machine was running, and the machine was hers.

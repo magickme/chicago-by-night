@@ -20,7 +20,7 @@ Father David's exercise. What do you control. What controls you. Where does one 
 
 He drove east on the dock access road with the heater pushing dust-smelling air through the vents and the mills putting their orange signature on the cloud ceiling behind him. Kiefer's was out -- last night's bar, too soon to return. He found Hennessey's on the access road south of the port. Cinder block, flat roof, a hand-lettered sign in the window advertising dollar drafts for Bobby J.
 
-Inside the air tasted like wet denim and Budweiser. Somebody had put the dead man's hard hat on the bar beside a candle in a jar. Darius ordered a beer he'd never drink and let his eyes work the room until he found the right shape in a corner booth. Walt. Mid-fifties. Gray crew cut. A woman's ring on a chain around his neck that caught the overhead light when he leaned forward to stare at his bourbon.
+Inside the air tasted like wet denim and Budweiser. Somebody had put the dead man's hard hat on the bar beside a candle in a jar. [Darius](/darius-cole/) ordered a beer he'd never drink and let his eyes work the room until he found the right shape in a corner booth. Walt. Mid-fifties. Gray crew cut. A woman's ring on a chain around his neck that caught the overhead light when he leaned forward to stare at his bourbon.
 
 Twenty-two years on the mill floor. Let go three months before his pension vested. A lien on the house and a truck he'd sold to pay for knee surgery and forty minutes on the CTA to say goodbye to a man who died doing the job they'd taken from him. Darius bought him a drink and sat across from him and listened to the math of a life that didn't add up anymore, and when they walked outside together into the seventeen-degree dark, Walt didn't question the hand on his shoulder or the turn toward the gap between the dumpster and the cinder-block wall.
 
@@ -34,17 +34,17 @@ He parked on the gravel shoulder, killed the headlights, and stood in front of t
 
 The man who stepped into the moonlight had a narrow face and a hooked nose and pale eyes that assessed everything and announced nothing. Dark wool overcoat, well-cut but old. English descent. He walked without hurrying because he'd never needed to hurry in two hundred and thirty-two years of not dying.
 
-"Horace Turnbull," the man said when Darius pulled the .357. He looked at the gun the way a bartender looks at a spilled drink. "I run a bar on State Street in Chicago called The Cave. I work for people who pay attention to what happens in Gary, and I've been paying attention since July."
+"[Horace Turnbull](/npcs/horace/)," the man said when Darius pulled the .357. He looked at the gun the way a bartender looks at a spilled drink. "I run a bar on State Street in Chicago called [The Cave](/locations/the-cave/). I work for people who pay attention to what happens in Gary, and I've been paying attention since July."
 
 Darius lowered the gun. Not holstered. Just down.
 
-"Here's what I see," Horace said. "A neonate who attends court like a good soldier and spends the rest of his nights doing things that don't match. Activity at the docks that isn't Lucian's and isn't the union's. An aura that reads heavier than a twelfth-generation anything. And a mortal infrastructure -- a bar, contacts, a name that didn't exist eighteen months ago -- that somebody built with a purpose."
+"Here's what I see," Horace said. "A neonate who attends court like a good soldier and spends the rest of his nights doing things that don't match. Activity at the docks that isn't [Lucian](/npcs/lucian/)'s and isn't the union's. An aura that reads heavier than a twelfth-generation anything. And a mortal infrastructure -- a bar, contacts, a name that didn't exist eighteen months ago -- that somebody built with a purpose."
 
 He put his hands in the pockets of the overcoat. Patient. A man settling in for a conversation he'd been planning for months.
 
 "I don't know the shape of it. I'd rather be useful to you than interesting to the people I report to."
 
-Darius leaned against the Cutlass. Crossed his arms. Let his eyes go slightly wide. The Conformist mask -- attentive, a little overwhelmed, the twelfth-generation nobody trying to keep up. He asked the questions a confused neonate would ask. How does that work. Is Modius aware. What happens if the report says something they don't like. Each answer Horace gave was another card shown, another minute invested, another step deeper into a conversation the man from Chicago couldn't walk away from empty-handed.
+Darius leaned against the Cutlass. Crossed his arms. Let his eyes go slightly wide. The Conformist mask -- attentive, a little overwhelmed, the twelfth-generation nobody trying to keep up. He asked the questions a confused neonate would ask. How does that work. Is [Modius](/npcs/modius/) aware. What happens if the report says something they don't like. Each answer Horace gave was another card shown, another minute invested, another step deeper into a conversation the man from Chicago couldn't walk away from empty-handed.
 
 And while Horace talked, Darius watched the cracks.
 
@@ -62,7 +62,7 @@ The pale eyes held. Three seconds. Five. Then Horace took his hands out of his p
 
 "You're not what I expected."
 
-Darius gave him two things. The FBI agent named Shepard who'd been asking questions at the Torch and the docks -- information that cost Darius nothing but made Horace realize his own surveillance had overlapped with a federal investigation. And the hunter. True Faith. Methodical. Patient. Eleven months of data and a god who answered.
+Darius gave him two things. The FBI agent named Shepard who'd been asking questions at [the Torch](/locations/the-torch/) and the docks -- information that cost Darius nothing but made Horace realize his own surveillance had overlapped with a federal investigation. And the hunter. True Faith. Methodical. Patient. Eleven months of data and a god who answered.
 
 Horace went still when Darius said True Faith. The kind of still that meant the chess player had seen a piece on the board he'd missed for five months.
 
@@ -82,7 +82,7 @@ Darius stood alone at the spur with the matchbook in his left hand and the .357 
 
 The haven. Eight o'clock. The phone on the nightstand.
 
-He dialed from memory. Three rings. Four. The click of a handset lifted and then silence. Chuc Luc never spoke first.
+He dialed from memory. Three rings. Four. The click of a handset lifted and then silence. [Chuc Luc](/npcs/chuc-luc/) never spoke first.
 
 "It's me."
 
@@ -112,7 +112,7 @@ The line went dead.
 
 Darius set the phone in its cradle. The matchbook from The Cave sat on the nightstand six inches from the receiver. A line to Chicago that his sire had specifically forbidden. Every time he touched it he'd be betraying the man who'd just given him the longest leash of his life.
 
-He left it where it was. Three hours until Sable's call.
+He left it where it was. Three hours until [Sable](/sable-price/)'s call.
 
 He sat in the dark. The radiator clicked. The television next door murmured through the wall. Outside, December pressed against the windows like something patient. He didn't move. Didn't think about the matchbook or the spur or the flat voice on the phone that had said good work the way another man might say I'm watching. He just sat with the architecture of the night arranging itself in the back of his mind, piece by piece, like a building taking shape in a city where everything else was falling down.
 
@@ -132,7 +132,7 @@ The voice was wrong. Not the pitch, not the words. The control. Sable's voice wa
 
 He told her about Hennessey's. The funeral crowd. Easy room, easy marks. She accepted the recommendation without redirecting it, which told him more about how bad it was than anything she'd said.
 
-Then the threads. Allicia down to Wednesdays only, new driver, Modius calling the Torch three times in one night. The Oldsmobile gone since October, trail cold. Denise's message sitting in September like something with a half-life. The ghouls holding, the blood math not working, the Beast getting louder in the silences between her sentences.
+Then the threads. [Allicia](/npcs/allicia/) down to Wednesdays only, new driver, Modius calling the Torch three times in one night. The Oldsmobile gone since October, trail cold. Denise's message sitting in September like something with a half-life. The ghouls holding, the blood math not working, the Beast getting louder in the silences between her sentences.
 
 Then the invitation. Cream cardstock. Wax seal. Every Kindred in Gary walking through the same door on the same night.
 

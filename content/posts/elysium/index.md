@@ -7,7 +7,7 @@ categories: ["Chapter 1 — Gary Sandbox"]
 description: "Sable's first Elysium. A prince who needs her. A woman at a piano who hates her already."
 ---
 
-*Modius's Mansion, Miller Beach*
+*[Modius's Mansion](/locations/modius-mansion/), Miller Beach*
 *Gary, Indiana*
 
 ---
@@ -16,7 +16,7 @@ The mansion looked like a skull with candles in it.
 
 That was Sable's first thought as she pulled the Buick up to the curb — the tall windows glowing amber from inside, the dark stone facade, the roofline sagging on the north side where the architecture had given up pretending it was still alive. Two men stood at the front door in the cold. They didn't move when she walked past them because they couldn't. Their eyes tracked her the way security cameras track: mechanically, without recognition, without will.
 
-She'd spent the day getting ready. Cold water from the cast-iron sink, the work light propped against the stone wall, the compact mirror she'd been carrying since The Oasis. The black dress was the only good thing she owned that she hadn't stolen — Michael had bought it for her during the painting sessions, had it delivered to the Roselle house in a box with tissue paper and a card that said *For the canvas* in handwriting that was older than photography. She put it on in a dead church basement and it fit the way Michael's clothes always fit: perfectly, possessively, like a frame built for a painting that hadn't been finished.
+She'd spent the day getting ready. Cold water from the cast-iron sink, the work light propped against the stone wall, the compact mirror she'd been carrying since The Oasis. The black dress was the only good thing she owned that she hadn't stolen — [Michael](/npcs/michael/) had bought it for her during the painting sessions, had it delivered to the Roselle house in a box with tissue paper and a card that said *For the canvas* in handwriting that was older than photography. She put it on in a dead church basement and it fit the way Michael's clothes always fit: perfectly, possessively, like a frame built for a painting that hadn't been finished.
 
 The fur coat was Sharon's. She wore it anyway. If you're going to walk into a room full of monsters, you might as well wear the skin of the one you fear most.
 
@@ -40,11 +40,11 @@ He came to her faster than a prince should.
 
 His hands were cold. Both of them, wrapped around hers, the gesture of a father or a buyer. He looked like Einstein in a tuxedo that had been stylish during the Reagan administration and had not been updated since. His eyes were the eyes of a man who had once been capable of seeing beauty and now just recognized it, the way a blind man recognizes the sun by its heat.
 
-She gave him everything he wanted to hear. The trembling voice. The catch in the breath. The name — *Sable Price* — offered like a confession. The story: grabbed outside a club, an alley, the blur, waking up dead and alone and not understanding. She didn't give him a sire's name because a name could be checked and a ghost couldn't. She gave him a girl in trouble. She gave him a beautiful orphan who needed a prince.
+She gave him everything he wanted to hear. The trembling voice. The catch in the breath. The name — *[Sable Price](/sable-price/)* — offered like a confession. The story: grabbed outside a club, an alley, the blur, waking up dead and alone and not understanding. She didn't give him a sire's name because a name could be checked and a ghost couldn't. She gave him a girl in trouble. She gave him a beautiful orphan who needed a prince.
 
 He led her to the good chair. He brought her wine she wouldn't drink. He sat beside her and his whole body leaned toward her the way buildings lean toward their foundations, structural, load-bearing, as if without her specific gravity in the room beside him he might tip over and never get up.
 
-She'd known men like this her entire life. Big Six had the same lean. The johns at The Oasis had the same lean. The difference was that Modius had been leaning for two hundred years and the weight of all that leaning had compressed him into something that was simultaneously the most powerful man in Gary and the loneliest creature she had ever seen, and Sable had seen a lot of lonely creatures because she'd been making them her whole career.
+She'd known men like this her entire life. Big Six had the same lean. The johns at The Oasis had the same lean. The difference was that [Modius](/npcs/modius/) had been leaning for two hundred years and the weight of all that leaning had compressed him into something that was simultaneously the most powerful man in Gary and the loneliest creature she had ever seen, and Sable had seen a lot of lonely creatures because she'd been making them her whole career.
 
 ---
 
@@ -56,7 +56,7 @@ He named the domains. He noted the absent. He mentioned Chicago the way a man me
 
 *Miss Price.* He said it the way a museum says *acquisition.* She was in the collection now.
 
-And then Allicia stood up.
+And then [Allicia](/npcs/allicia/) stood up.
 
 The whole room stopped. Not dramatically — the way a room stops when the barometric pressure changes. Everyone felt it. The silent woman at the piano, the one who hadn't spoken in fifty years, the one who sat and watched and existed as furniture in Modius's decaying gallery — she stood. She looked at Modius. She looked at Sable. Her eyes moved between them with the precision of a needle finding a vein.
 

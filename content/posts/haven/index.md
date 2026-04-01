@@ -14,17 +14,17 @@ description: "Sable goes looking for a place to sleep. A man with a van finds he
 
 The van was white and had no plates.
 
-That was the first thing Sable noticed, before the headlights swung across the road and the vehicle pulled sideways across both lanes with the practiced geometry of a roadblock. No plates meant no registration meant nobody was supposed to know this van existed, and in Sable's experience — which was longer than her twenty-one years suggested and deeper than any of them deserved — vehicles without plates belonged to two categories of men: the kind who were running from something and the kind who were collecting it.
+That was the first thing [Sable](/sable-price/) noticed, before the headlights swung across the road and the vehicle pulled sideways across both lanes with the practiced geometry of a roadblock. No plates meant no registration meant nobody was supposed to know this van existed, and in Sable's experience — which was longer than her twenty-one years suggested and deeper than any of them deserved — vehicles without plates belonged to two categories of men: the kind who were running from something and the kind who were collecting it.
 
 The man who got out of the passenger side was the second kind.
 
 He was built like a fire hydrant. Short, dense, carrying his weight low in his hips the way wrestlers and bouncers carry it, the center of gravity dropped to where you'd have to go through him rather than around him. He wore a dark coat over dark clothes and his face had the particular blankness of a man who had stopped making expressions years ago because expressions were information and information was currency and he was the kind of man who only spent when he had to.
 
-Williams. She knew the name before she knew the face. Everyone in Gary's Kindred world knew the name. The Saturday auction in the abandoned church. Tranquilized mortals laid out on folding tables like produce at a farmers' market. The kind of operation that made even the Kindred pause — even the ones who had forgotten what conscience felt like.
+[Williams](/npcs/williams/). She knew the name before she knew the face. Everyone in Gary's Kindred world knew the name. The Saturday auction in the abandoned church. Tranquilized mortals laid out on folding tables like produce at a farmers' market. The kind of operation that made even the Kindred pause — even the ones who had forgotten what conscience felt like.
 
 He walked to her window and knocked.
 
-Sable sat in the Buick with both hands on the wheel and thought about every man who had ever knocked on a car window she was sitting behind. The taxonomy of knocks: the john's knock, which was tentative and rhythmic. Big Six's knock, which was a single flat palm that said *open.* Michael Payne's knock, which was two fingertips, delicate, the knock of a man who touched everything like it was a canvas.
+Sable sat in the Buick with both hands on the wheel and thought about every man who had ever knocked on a car window she was sitting behind. The taxonomy of knocks: the john's knock, which was tentative and rhythmic. Big Six's knock, which was a single flat palm that said *open.* [Michael](/npcs/michael/) Payne's knock, which was two fingertips, delicate, the knock of a man who touched everything like it was a canvas.
 
 Williams knocked like a landlord. Firm, businesslike, nothing personal. The knock of a man who expected the door to open because doors opened for him. That was his whole career — doors opening, and behind each one something valuable and afraid.
 
@@ -76,7 +76,7 @@ She brought everything in from the Buick. The fur coat. The cosmetics bag. The l
 
 *Behind the Green Door.* The old song. The forbidden room. The thing you're not supposed to see.
 
-Sable lay in the dark under a dead church in Gary, Indiana, on the fourth night of January in the first year of a decade that belonged to no one, and listened to the boiler tick, and did not dream, and did not think about the shape in the van or the phrase *they sold the debt* or the look on Williams's face when she'd said *men infinitely greater than you* because those thoughts would keep until tomorrow and tomorrow she had to stand in Modius's decaying mansion and pretend to be something worth looking at, and the distance between the girl on the rectory floor and the woman she would have to perform at Elysium was the distance between the green door and the rest of the world, and she could not afford to think about that distance right now.
+Sable lay in the dark under a dead church in Gary, Indiana, on the fourth night of January in the first year of a decade that belonged to no one, and listened to the boiler tick, and did not dream, and did not think about the shape in the van or the phrase *they sold the debt* or the look on Williams's face when she'd said *men infinitely greater than you* because those thoughts would keep until tomorrow and tomorrow she had to stand in [Modius](/npcs/modius/)'s decaying mansion and pretend to be something worth looking at, and the distance between the girl on the rectory floor and the woman she would have to perform at Elysium was the distance between the green door and the rest of the world, and she could not afford to think about that distance right now.
 
 She could only afford to sleep.
 

@@ -198,7 +198,7 @@ I did not dodge. I did not move. I opened my mouth and spoke the oldest word I k
 
 "HOTEP."
 
-It came from somewhere below my lungs, below my Ka, from the foundation of who I was before I was anything else. The word my mother whispered when she named me. *Nefer-Hotep.* Beautiful is the Peace. I had carried the counter-name since birth and never needed it until now.
+It came from somewhere below my lungs, below my Ka, from the foundation of who I was before I was anything else. The word my mother whispered when she named me. *[Nefer-Hotep](/nefer-hotep/).* Beautiful is the Peace. I had carried the counter-name since birth and never needed it until now.
 
 The sound did not travel like sound. It expanded -- a pressure wave of silence, the anti-frequency of every battlefield, every scream, every blade falling. Peace, the true name, not the absence of war but the negation of it. The force that makes soldiers lower their swords not from exhaustion but because they suddenly remember what they were before they picked them up.
 

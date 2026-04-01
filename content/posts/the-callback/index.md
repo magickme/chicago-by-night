@@ -7,18 +7,18 @@ categories: ["Chapter 6 — The Pipeline"]
 description: "A federal agent two nights early. A ghoul who handled it. A payphone and a sire's voice. A man who trusts him and a sire who would kill that man."
 ---
 
-*The Torch, Broadway / Payphone, Broadway & 5th / West Side*
+*[The Torch](/locations/the-torch/), Broadway / Payphone, Broadway & 5th / West Side*
 *Gary, Indiana*
 
 ---
 
 He saw the blazer through the window and knew he was late.
 
-Saturday night, The Torch half-full, Otis Redding bleeding through the speakers and the neon turning everything on Broadway the color of a wound. Darius had driven four blocks to brief a man on a conversation that was already happening. SA William Shepard sat at the bar with his notebook open and his back to the door and Victor Salonika stood across from him with his hands flat on the wood like a man taking an oath.
+Saturday night, The Torch half-full, Otis Redding bleeding through the speakers and the neon turning everything on Broadway the color of a wound. [Darius](/darius-cole/) had driven four blocks to brief a man on a conversation that was already happening. SA [William Shepard](/npcs/william-shepard/) sat at the bar with his notebook open and his back to the door and [Victor Salonika](/npcs/victor-salonika/) stood across from him with his hands flat on the wood like a man taking an oath.
 
 Darius walked in. Sat three stools down. Ordered a bourbon he wouldn't drink and became the fourth piece of furniture in a conversation between three: the federal agent, the ghoul, and the empty stool between them.
 
-Victor was good. Better than good. He gave Shepard everything the agent wanted and nothing he could use. He knew Allicia, first name only. He managed the bar. He didn't handle paperwork. Lakeside Holdings was a name on the lease he'd never studied. Morris and Peck meant nothing to him.
+Victor was good. Better than good. He gave Shepard everything the agent wanted and nothing he could use. He knew [Allicia](/npcs/allicia/), first name only. He managed the bar. He didn't handle paperwork. Lakeside Holdings was a name on the lease he'd never studied. Morris and Peck meant nothing to him.
 
 "And you know a Warren Birch?"
 
@@ -40,7 +40,7 @@ Victor held the look. Darius held it back. The lie was simple and clean and Vict
 
 Broadway south to Fifth. The laundromat closed since '88. The payphone outside with a receiver that smelled like rain and cigarettes and the particular neglect of a phone company that services dead neighborhoods. Quarters in the slot. The Argyle Street number from memory.
 
-A woman answered in Vietnamese. Kitchen sounds. The restaurant upstairs where Chinatown ate spring rolls and the cellar below where the tri-state area's laundering operation ran on a handshake and a hundred-year-old network of debts.
+A woman answered in Vietnamese. Kitchen sounds. The restaurant upstairs where [Chinatown](/locations/chinatown/) ate spring rolls and the cellar below where the tri-state area's laundering operation ran on a handshake and a hundred-year-old network of debts.
 
 "Warren. For Luc."
 
@@ -62,7 +62,7 @@ Darius gave him the pipeline first because that was the sire's language and you 
 
 "I bought a position."
 
-He explained it the way you explain a bet to a man who plays odds — the Torch controls the Rack, the Rack controls feeding access, feeding access gave him something to trade with Lucian. Without the building he was asking. With it he was offering. The logic was clean. The logic was always clean. Whether Chuc Luc would accept clean logic from an asset who spent his money without permission was a different calculation.
+He explained it the way you explain a bet to a man who plays odds — the Torch controls the Rack, the Rack controls feeding access, feeding access gave him something to trade with [Lucian](/npcs/lucian/). Without the building he was asking. With it he was offering. The logic was clean. The logic was always clean. Whether [Chuc Luc](/npcs/chuc-luc/) would accept clean logic from an asset who spent his money without permission was a different calculation.
 
 "What else."
 

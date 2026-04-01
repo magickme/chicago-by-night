@@ -12,7 +12,7 @@ description: "A tail on Lake Shore Drive. A bomb that wasn't meant to work. Two 
 
 ---
 
-The next evening they loaded the Lincoln Continental and drove for O'Hare. Derek at the wheel. Lodin behind tinted glass. Roarke rode shotgun watching the mirrors the way he'd been watching mirrors since before the Model T.
+The next evening they loaded the Lincoln Continental and drove for O'Hare. Derek at the wheel. [Lodin](/npcs/lodin/) behind tinted glass. [Roarke](/npcs/roarke/) rode shotgun watching the mirrors the way he'd been watching mirrors since before the Model T.
 
 He saw the tail fifteen minutes in. Dark sedan, two cars back, professional spacing. It had been there since Lake Shore Drive. When traffic compressed at the Circle interchange and every other car bunched together, the sedan held its gap. Wrong behavior. Natasha saw it too. Derek saw it when they told him.
 

@@ -7,14 +7,14 @@ categories: ["Chapter 3 — Blood at Dawn"]
 description: "The lights go out at The Torch. Something scratches its way out. A dead boy says a woman's name."
 ---
 
-*The Torch, Broadway Strip*
+*[The Torch](/locations/the-torch/), Broadway Strip*
 *Gary, Indiana*
 
 ---
 
 The lights died at ten forty-seven. Three seconds of blackness, the jukebox cutting Bell Biv DeVoe mid-bar, and then the world came back on and the service door had four new gouges running down its inside face, deep enough to show the bright wood under the paint, spaced like fingers.
 
-Darius saw it from the pool tables. Sable saw it from the bar. Victor saw it with the shotgun already in his hand and an expression that said forty years of service had not prepared him for this particular moment.
+[Darius](/darius-cole/) saw it from the pool tables. [Sable](/sable-price/) saw it from the bar. Victor saw it with the shotgun already in his hand and an expression that said forty years of service had not prepared him for this particular moment.
 
 ---
 
@@ -44,7 +44,7 @@ The boy's mouth opened. The jaw worked. Bone on bone, the cartilage long gone. A
 
 "*Aaah — liii — see — ahh.*"
 
-Allicia. The name pushed through a broken instrument. Three syllables that a sixteen-year-old boy's mouth formed because the thing inside him was sent to find her and the mission survived the body's death.
+[Allicia](/npcs/allicia/). The name pushed through a broken instrument. Three syllables that a sixteen-year-old boy's mouth formed because the thing inside him was sent to find her and the mission survived the body's death.
 
 The boy looked past Sable into the bar. Scanned. Searched. Found nothing it wanted. The dead face recalculated. The interest dimmed. The body sagged, the strings loosening.
 
@@ -68,9 +68,9 @@ The word *friends* hung in the air for a moment. Sable pocketed the brooch and d
 
 ---
 
-The Cutlass. Telton Cemetery. Darius drove south on Broadway past the dead storefronts and Sable sat in the passenger seat and neither of them spoke. The silence had changed shape again. Not the distance of Lake Street or the careful blankness of Elysium. The silence of two people heading toward the same thing.
+The Cutlass. [Telton Cemetery](/locations/telton-cemetery/). Darius drove south on Broadway past the dead storefronts and Sable sat in the passenger seat and neither of them spoke. The silence had changed shape again. Not the distance of Lake Street or the careful blankness of Elysium. The silence of two people heading toward the same thing.
 
-Michael opened the shed door two inches. One pale eye.
+[Michael](/npcs/michael/) opened the shed door two inches. One pale eye.
 
 "You brought someone."
 

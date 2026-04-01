@@ -50,7 +50,7 @@ The blood came hot and thick with cheap beer and cortisol and the copper-ash tas
 
 It was good. It was the only thing that was good.
 
-The Beast wanted all of it. For two seconds there was no Darius Cole, no plan, no architecture, no cover story. Just a mouth and a throat and a heartbeat slowing under his hands and the imperative to drink until the heartbeat stopped. The thing in the basement wasn't watching anymore. It was standing. It was reaching for the wheel.
+The Beast wanted all of it. For two seconds there was no [Darius Cole](/darius-cole/), no plan, no architecture, no cover story. Just a mouth and a throat and a heartbeat slowing under his hands and the imperative to drink until the heartbeat stopped. The thing in the basement wasn't watching anymore. It was standing. It was reaching for the wheel.
 
 He pulled off.
 
@@ -98,9 +98,9 @@ And the last thing. The detail buried deepest, pulled out by a question asked th
 
 Darius stood at the kitchen window and looked at the parking lot and the snow and the sodium lights and ran the inventory. Not from inside the brief this time. From above it.
 
-The Torch. His building. The pipeline. Berth 7, the warehouse, Eddie Fells Dominated into granite, the customs gap sealed, Cantone dead from RICO. Webb with his federal-grade paper and his conditioned loyalty. The coterie. Sable's east side running parallel. Allicia blood-bound and the line of sight into Modius that came with her. Danov's paper. Juggler's pragmatism. Lucian's feeding rights. The informants and the ghouls and the contacts who didn't know what they were part of.
+[The Torch](/locations/the-torch/). His building. The pipeline. Berth 7, the warehouse, Eddie Fells Dominated into granite, the customs gap sealed, Cantone dead from RICO. Webb with his federal-grade paper and his conditioned loyalty. The coterie. [Sable](/sable-price/)'s east side running parallel. [Allicia](/npcs/allicia/) blood-bound and the line of sight into [Modius](/npcs/modius/) that came with her. Danov's paper. [Juggler](/npcs/juggler/)'s pragmatism. [Lucian](/npcs/lucian/)'s feeding rights. The informants and the ghouls and the contacts who didn't know what they were part of.
 
-Chuc Luc had sent him to Gary to build a money pipeline. He'd built a city inside a city.
+[Chuc Luc](/npcs/chuc-luc/) had sent him to Gary to build a money pipeline. He'd built a city inside a city.
 
 Ray was still talking. Ray always talked when the silence went on too long. "The crackdown, by the way. My cousin works dispatch. It's federal. DEA piggyback. They're using scrap warrants to get into the rail corridor. South spurs, inland yards. Drugs."
 
@@ -108,7 +108,7 @@ South spurs. Inland yards. Not the port. Not Berth 7. Not the waterfront.
 
 The entire law enforcement apparatus of Gary, Indiana, was about to spend the next month staring at the wrong end of the city while his pipeline ran clean on the lakefront.
 
-He drove home on a route he'd never taken. New streets, new turns, random pattern. Dane was out there with a notebook and a patience that smelled like burning, and Darius Cole was done being predictable.
+He drove home on a route he'd never taken. New streets, new turns, random pattern. [Dane](/npcs/sullivan-dane/) was out there with a notebook and a patience that smelled like burning, and Darius Cole was done being predictable.
 
 The Cutlass pulled into the alley behind the haven and the engine ticked in the cold and the snow started again. Small dry flakes that collected in the cracks of everything broken, which in Gary was everything. Tomorrow was Tuesday. The call to Chuc Luc was not a report. It was a negotiation.
 

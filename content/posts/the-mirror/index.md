@@ -7,7 +7,7 @@ categories: ["Chapter 1 — Gary Sandbox"]
 description: "A full tank of blood. A note from a dancer. A prince who wants a spy. A ghost in a black Lincoln."
 ---
 
-*The Torch / Fifth Avenue / Modius's Mansion / The Oasis, 75th Street*
+*[The Torch](/locations/the-torch/) / Fifth Avenue / [Modius's Mansion](/locations/modius-mansion/) / The Oasis, 75th Street*
 *Gary, Indiana / Chicago, Illinois*
 
 ---
@@ -64,19 +64,19 @@ The handwriting was elegant. Toreador precision, every letter a small performanc
 
 *—A*
 
-Sable read it twice. Folded it along its original crease and put it in her coat pocket and stood in the middle of the floor with the mirror showing nothing and the photograph of Allicia watching from the back wall.
+Sable read it twice. Folded it along its original crease and put it in her coat pocket and stood in the middle of the floor with the mirror showing nothing and the photograph of [Allicia](/npcs/allicia/) watching from the back wall.
 
 Four days of silence. Then this. Not hostile, not warm. Probing. The handwriting of a woman who had practiced patience for fifty years and was choosing, now, to break it.
 
 The Oasis. Sable's club. Her old life. The place where Big Six used to sit in the front row with his hands on his knees and watch her dance with the flat attention of a man selecting livestock.
 
-Allicia couldn't know that. Nobody in Gary knew where Sable Price came from or what she'd been before the Embrace turned her into something with a clan name and a patron. Allicia had picked a South Side club the way you'd pick any neutral ground. Coincidence. The universe arranging its furniture without consulting anyone who had to sit in it.
+Allicia couldn't know that. Nobody in Gary knew where [Sable Price](/sable-price/) came from or what she'd been before the Embrace turned her into something with a clan name and a patron. Allicia had picked a South Side club the way you'd pick any neutral ground. Coincidence. The universe arranging its furniture without consulting anyone who had to sit in it.
 
 ---
 
 Miller Beach. The mansion. White columns in the dark, the lawn dead with winter, the lake wind coming off Michigan in long flat gusts that pressed her coat against her body. She rang and the ghoul appeared and she walked past him before he could finish his sentence because she'd learned that momentum worked better than permission in this house.
 
-Modius was in the drawing room. Fire lit tonight. He was standing by the piano with one hand on the closed lid, dressed in charcoal and silk, and when he saw her his expression shifted into something she recognized from The Oasis, from every VIP lounge she'd ever worked: the satisfaction of a man whose investment is performing.
+[Modius](/npcs/modius/) was in the drawing room. Fire lit tonight. He was standing by the piano with one hand on the closed lid, dressed in charcoal and silk, and when he saw her his expression shifted into something she recognized from The Oasis, from every VIP lounge she'd ever worked: the satisfaction of a man whose investment is performing.
 
 "Twice in four days. I'm flattered."
 
@@ -130,7 +130,7 @@ Fifth Avenue. 2:15 AM.
 
 The studio was cold. The radiator took twenty minutes to warm. She sat against the wall beneath Allicia's photograph and thought about tomorrow and didn't come to any conclusions because the conclusions required information she didn't have yet. What Allicia wanted. Whether Big Six came to The Oasis every night or just some nights. Whether the back room was safe enough to have a conversation that mattered.
 
-She'd go early. Before Big Six arrived, if he came at all. Get into the back room first. Control the space. And she'd bring something, though she wasn't sure what yet. A knife. A plan. Williams, if she could reach him.
+She'd go early. Before Big Six arrived, if he came at all. Get into the back room first. Control the space. And she'd bring something, though she wasn't sure what yet. A knife. A plan. [Williams](/npcs/williams/), if she could reach him.
 
 Dawn pressed against the boarded windows. She could feel it in her feet first, then her spine, then the weight behind her eyes. The sun pushing everything dead back underground.
 

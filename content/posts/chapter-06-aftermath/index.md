@@ -7,16 +7,16 @@ categories: ["Chapter 1 — Gary Sandbox"]
 description: "A detective with a notebook. A word in a parking lot. A painter who accepts gifts but not trust. A bar where nobody asks questions."
 ---
 
-*West Side / The Horseshoe / Telton Cemetery / Kiefer's*
+*West Side / The Horseshoe / [Telton Cemetery](/locations/telton-cemetery/) / Kiefer's*
 *Gary, Indiana*
 
 ---
 
 The stevedore's blood tasted like January. Cold bourbon and brake fluid and the metallic tang of a man calculating how many payments he could miss before the bank took the truck. Darius drank until the hunger went quiet and then he drank a little more, because the night ahead required a full tank and a clear head, and in this city the two were the same thing.
 
-He left the man propped against the bar stool and walked into the cold. Michigan Avenue at ten o'clock, Gary in winter, the mills dark against a sky the color of ash. The Cutlass was parked around the corner. He sat behind the wheel and didn't start the engine and thought about Gregory Stephens.
+He left the man propped against the bar stool and walked into the cold. Michigan Avenue at ten o'clock, Gary in winter, the mills dark against a sky the color of ash. The Cutlass was parked around the corner. He sat behind the wheel and didn't start the engine and thought about [Gregory Stephens](/npcs/gregory-stephens/).
 
-A detective. Evelyn's brother. A man with a notebook and a set of questions about the docks and a memory that included Darius Cole's face at Dock 7 on the night the Soviet crates came in. Three days Darius had let that sit. Three days of lying on his bed in the west-side apartment staring at the water stain on the ceiling and running the math on how long it took for a cop's private investigation to become a cop's official report.
+A detective. Evelyn's brother. A man with a notebook and a set of questions about the docks and a memory that included [Darius Cole](/darius-cole/)'s face at Dock 7 on the night the Soviet crates came in. Three days Darius had let that sit. Three days of lying on his bed in the west-side apartment staring at the water stain on the ceiling and running the math on how long it took for a cop's private investigation to become a cop's official report.
 
 The stevedore had given him the answer without knowing what he was giving. Gregory Stephens went to a bar called the Horseshoe most nights after shift. Alone. Back booth. Notebook. Running his own investigation into the docks because his sister vanished and nobody in the department cared enough to look, so he was looking himself.
 
@@ -28,7 +28,7 @@ Darius started the engine.
 
 The Horseshoe sat on 5th Avenue three blocks from the Palace Theater. Brown brick, Budweiser sign in the window, the kind of bar where cops went to drink among their own and pretend the city outside the door was somebody else's problem. Darius parked two blocks south and walked back and found the alley — dumpsters, dead payphone, the cracked window of the men's room letting sound and yellow light leak into the dark.
 
-He waited. The cold pressed against him and he let it. Patience was the discipline Chuc Luc had valued above all others, above Dominate, above the blood, above everything. The ability to stand still while the world arranged itself around you. The elders who survived weren't the strongest or the smartest. They were the ones who could wait.
+He waited. The cold pressed against him and he let it. Patience was the discipline [Chuc Luc](/npcs/chuc-luc/) had valued above all others, above Dominate, above the blood, above everything. The ability to stand still while the world arranged itself around you. The elders who survived weren't the strongest or the smartest. They were the ones who could wait.
 
 Gregory arrived at eleven with another man. Older, heavier, plainclothes, the comfortable slouch of a cop who'd been doing it long enough to stop caring about posture. They came in a tan Crown Vic and Gregory was carrying a manila folder under his arm and they went inside and Darius watched them go and thought about the folder and what was in it.
 
@@ -76,7 +76,7 @@ He drove east.
 
 Telton Cemetery at a quarter past one in the morning was the kind of place that made Gary's living neighborhoods look optimistic. The gates were chained but the chain was theater — loose enough to squeeze through, the same way it had been the last time Darius came. Past the Civil War markers, through the section where the headstones leaned at angles that suggested the ground itself was tired of holding the dead upright, toward the maintenance shed at the back where a single candle burned in the window.
 
-Michael was sitting on a headstone outside the shed. Facing the direction Darius was coming from. Not surprised. The Malkavian had felt him approaching or seen it or known it the way the cracked ones knew things, through the fractures in their minds where something else looked through.
+[Michael](/npcs/michael/) was sitting on a headstone outside the shed. Facing the direction Darius was coming from. Not surprised. The Malkavian had felt him approaching or seen it or known it the way the cracked ones knew things, through the fractures in their minds where something else looked through.
 
 "You brought something."
 
@@ -116,7 +116,7 @@ Darius grinned Ralph Rego's grin. "Count on it, big guy."
 
 He drove home. The west-side apartment was dark. The check-cashing storefront was closed. He parked the Cutlass, locked the door, checked the blackout curtains, and sat at the kitchen table with Gregory's folder spread in front of him and the Polaroid of the unknown man propped against the salt shaker.
 
-White. Older. Heavy coat. Standing near Dock 7 with the ease of ownership. Not a stevedore. Not a cop. Something else. Someone who belonged at the docks the way Lucian belonged at the docks — because the docks belonged to him.
+White. Older. Heavy coat. Standing near Dock 7 with the ease of ownership. Not a stevedore. Not a cop. Something else. Someone who belonged at the docks the way [Lucian](/npcs/lucian/) belonged at the docks — because the docks belonged to him.
 
 Darius studied the face until the dawn pressed against the curtains and the weight came down and the blood pulled him toward sleep. He put the Polaroid in the folder and the folder in the bottom drawer of the kitchen cabinet, beneath a stack of fake tax returns for a check-cashing business that had never cashed a check.
 

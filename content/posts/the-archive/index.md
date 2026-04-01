@@ -7,28 +7,28 @@ categories: ["Chapter 12 — Baptism by Fire"]
 description: "An index card under a windshield wiper. Telton Cemetery at midnight. Alexander Danov pays an intel debt and prices the next one, and Darius leaves with the board clarified, not simplified."
 ---
 
-*Telton Cemetery / West-Side Haven*
+*[Telton Cemetery](/locations/telton-cemetery/) / West-Side Haven*
 *Gary, Indiana*
 
 ---
 
 The cemetery made every sound feel contractual.
 
-Snow hadn't come yet, but the ground had the iron hardness of a place already promised to winter. Darius left the Cutlass by the gate, hands in the coat pockets, and walked between markers whose names had been abandoned by everyone except stone and whatever kept records below language.
+Snow hadn't come yet, but the ground had the iron hardness of a place already promised to winter. [Darius](/darius-cole/) left the Cutlass by the gate, hands in the coat pockets, and walked between markers whose names had been abandoned by everyone except stone and whatever kept records below language.
 
 Danov appeared beside an angel missing its face.
 
 "You wanted the truth before the party," the Nosferatu said. "That is different from wanting comfort."
 
-He gave the first piece the way a clerk might slide a file across a desk. Sullivan Dane was not a mood, not a rumor, not one more dangerous mortal in a city full of dangerous mortals. He was disciplined, devout, methodical, and already linked to Gary once before. If he had Darius's plates, he had a line to work. Darius felt the architecture of that immediately: the difference between surveillance and pursuit is paperwork plus patience.
+He gave the first piece the way a clerk might slide a file across a desk. [Sullivan Dane](/npcs/sullivan-dane/) was not a mood, not a rumor, not one more dangerous mortal in a city full of dangerous mortals. He was disciplined, devout, methodical, and already linked to Gary once before. If he had Darius's plates, he had a line to work. Darius felt the architecture of that immediately: the difference between surveillance and pursuit is paperwork plus patience.
 
 The second piece was worse because it was social.
 
 Annabelle was coming to collect. Not bodies. Not tribute in the crude sense. Prospects. Assets. Neonates clever enough to be worth noticing and frightened enough to be moved. Danov said it almost lazily, as if this kind of sorting had always been the real business beneath declarations of princely dignity.
 
-"And if Modius must choose what to yield," Danov added, "the girl goes first."
+"And if [Modius](/npcs/modius/) must choose what to yield," Danov added, "the girl goes first."
 
-Sable. Because beauty is legible. Because Toreador can be framed as adornment. Because Modius understood value but valued utility first.
+[Sable](/sable-price/). Because beauty is legible. Because Toreador can be framed as adornment. Because Modius understood value but valued utility first.
 
 Darius did not let anything show.
 

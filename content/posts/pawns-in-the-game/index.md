@@ -12,7 +12,7 @@ description: "Eight white pawns with faces. A game room designed to keep people 
 
 ---
 
-At 5:47 the bedroom door opened and Lodin stepped out in the suit from the blue suitcase. He listened to the report without interrupting. The customs inspector, the Mesmerize, the hotel, the call. He was quiet for three seconds after Roarke finished.
+At 5:47 the bedroom door opened and [Lodin](/npcs/lodin/) stepped out in the suit from the blue suitcase. He listened to the report without interrupting. The customs inspector, the Mesmerize, the hotel, the call. He was quiet for three seconds after [Roarke](/npcs/roarke/) finished.
 
 The Mesmerize. One use?
 

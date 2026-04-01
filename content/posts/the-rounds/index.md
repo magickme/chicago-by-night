@@ -7,14 +7,14 @@ categories: ["Chapter 10 — The Spur"]
 description: "Seven nights without feeding. Three vessels in one night. A woman at a piano playing Chopin for an empty room. An answering machine that blinks twice. And on Seventeenth Street, after midnight, something in a white van that burns when you look at it with the wrong eyes."
 ---
 
-*Kendrick's Auto / West Side / The Torch / Seventeenth Street*
+*Kendrick's Auto / West Side / [The Torch](/locations/the-torch/) / Seventeenth Street*
 *Gary, Indiana*
 
 ---
 
 She woke hungry. Not the word for it. The word for it hadn't been invented yet, because the people who invent words have never spent seven days with their blood pool at a number that makes the walls seem thinner, the cinderblock seem warmer, the propane heater's dead click seem louder than it has any right to be.
 
-The space heater had quit sometime during the day. The cot smelled like motor oil and DeShawn's jacket and the ghost of whoever had slept here before Sable turned the garage bay into a coffin with better ventilation. She pushed up. The cold came through her coat and settled in the places where cold doesn't register anymore but the body remembers.
+The space heater had quit sometime during the day. The cot smelled like motor oil and DeShawn's jacket and the ghost of whoever had slept here before [Sable](/sable-price/) turned the garage bay into a coffin with better ventilation. She pushed up. The cold came through her coat and settled in the places where cold doesn't register anymore but the body remembers.
 
 Three. She could count the blood the way a checkout girl counts pennies at the end of a shift, mechanical and contemptuous. Three out of fourteen. Seven nights. DeShawn's heartbeat came through the sheet metal of the garage door, thirty feet away, steady as rent, and every chamber of it sounded like an invitation she was supposed to decline.
 
@@ -52,13 +52,13 @@ Her mother's voice. Different this time. Tighter. Mrs. Henderson told her Sable 
 
 The machine clicked and went steady and Sable stood in the dust and the turpentine ghost and did not call.
 
-At the Torch, Allicia was at the piano. Chopin. The nocturne in C-sharp minor, which is the one that sounds like it was written by someone who understood that the most precise expression of grief is restraint. Nobody in the bar was listening. Three men at the television. A couple in a booth. Victor behind the bar, polishing the same glass he'd been polishing since 1938.
+At the Torch, [Allicia](/npcs/allicia/) was at the piano. Chopin. The nocturne in C-sharp minor, which is the one that sounds like it was written by someone who understood that the most precise expression of grief is restraint. Nobody in the bar was listening. Three men at the television. A couple in a booth. Victor behind the bar, polishing the same glass he'd been polishing since 1938.
 
 Allicia looked wrong. The face was the same (Toreador, eighth generation, the architecture of the bone structure doesn't negotiate with entropy) but the skin was tighter, the wrists narrower, the black dress hanging where it used to fit. She was disappearing. Not dramatically. Not romantically. The way a photograph fades when you leave it in a window -- slowly, irreversibly, and without anyone noticing until the image is almost gone.
 
 Sable read her aura from the end of the bar and the colors confirmed what the dress already said. The old bond -- fifty-two years of violet -- had gone the shade of a bruise that refuses to heal. Depression lay over everything like silt. The rose thread (Sable's blood, Sable's bond, the newer and thinner connection) brightened when she walked in, pulling through the smoke toward its other half. The gold was almost gone. A fleck. A memory of hope that hadn't been fed in five months.
 
-They talked under the Satie. Carefully. The way you handle something that might break if you set it down too fast. Allicia's hours. Modius's calls. Milwaukee. The name she recognized from 1971.
+They talked under the Satie. Carefully. The way you handle something that might break if you set it down too fast. Allicia's hours. [Modius](/npcs/modius/)'s calls. Milwaukee. The name she recognized from 1971.
 
 Modius had stopped asking about the foreign blood in her. Three months of silence.
 

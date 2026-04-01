@@ -7,14 +7,14 @@ categories: ["Chapter 1 — Gary Sandbox"]
 description: "A strip club on 75th Street. A woman who doesn't dance anymore. A warning about the prince's wine."
 ---
 
-*The Oasis, 75th Street / Modius's Mansion*
+*The Oasis, 75th Street / [Modius's Mansion](/locations/modius-mansion/)*
 *Chicago, Illinois / Gary, Indiana*
 
 ---
 
 The razor fit in her jacket pocket the way a secret fits in a sentence — weightless until you need it. Bone handle, good steel, a dead man's vanity she'd taken from a coat pocket at The Oasis two years ago when she was alive and working the VIP and the john had passed out in the booth with his wallet open and his throat exposed and she'd thought, even then, even before she knew what she'd become: *You never know when you'll need something sharp.*
 
-She'd tried Williams first. The number she had rang out. The place she'd heard he frequented was empty. Williams was a ghost when he wanted to be, and tonight he wanted to be, and that left Sable alone in the Buick on I-90 north with a razor in her pocket and a strip club on 75th Street getting closer at sixty-five miles an hour.
+She'd tried [Williams](/npcs/williams/) first. The number she had rang out. The place she'd heard he frequented was empty. Williams was a ghost when he wanted to be, and tonight he wanted to be, and that left [Sable](/sable-price/) alone in the Buick on I-90 north with a razor in her pocket and a strip club on 75th Street getting closer at sixty-five miles an hour.
 
 The Oasis. THE OASIS in pink neon, the S flickering the way it had flickered for fifteen years, the way it would flicker until somebody cut the power or the building fell down, whichever came first in this part of Chicago. Two cars in the lot. No black Lincoln. No Big Six.
 
@@ -28,7 +28,7 @@ The back room was unlocked. She took the far booth, back to the wall, and waited
 
 ---
 
-Allicia came at midnight. She didn't knock.
+[Allicia](/npcs/allicia/) came at midnight. She didn't knock.
 
 She stood in the doorway and the red light hit her from two directions and for one second Sable saw the woman in the photograph on the studio wall — the dancer, the one with the straight spine and the chin that said *I have been looked at by better than you.* Then the second passed and what stood in the doorway was something else: a woman who had practiced stillness for fifty years until the stillness had become indistinguishable from the woman, the way water takes the shape of whatever holds it.
 
@@ -86,7 +86,7 @@ Then she was gone, and the door closed, and Sable was alone in the back room of 
 
 ---
 
-She drove to Miller Beach. The mansion. The ghoul. The drawing room. Modius at the piano, lid open tonight, one hand on the keys.
+She drove to Miller Beach. The mansion. The ghoul. The drawing room. [Modius](/npcs/modius/) at the piano, lid open tonight, one hand on the keys.
 
 "Well?"
 

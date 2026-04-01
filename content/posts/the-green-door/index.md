@@ -14,11 +14,11 @@ description: "An empty block. A chain bolted to a floor ring. Forty-three entrie
 
 The green door opened on the same room she'd left three weeks ago: cot, candle, duffle bag, the smell of cool stone and old wood and a silence that used to mean protection. The candle lit on the first match. The flame threw her shadow long against the wall and the shadow looked wrong the way all vampire shadows look wrong in candlelight — too sharp, too certain, as if the dark had opinions about her shape.
 
-Williams was gone. She'd heard it from Victor, obliquely, the way Gary delivered its worst news — a pause, a pronoun shift, the word "was" where "is" used to be. "Williams isn't around anymore." No details. No eulogy. In Gary, when someone wasn't around anymore, the surviving vocabulary was sufficient.
+[Williams](/npcs/williams/) was gone. She'd heard it from Victor, obliquely, the way Gary delivered its worst news — a pause, a pronoun shift, the word "was" where "is" used to be. "Williams isn't around anymore." No details. No eulogy. In Gary, when someone wasn't around anymore, the surviving vocabulary was sufficient.
 
 She'd paid rent to a dead man last month. The check hadn't bounced because there was nobody left to cash it.
 
-Sable climbed the interior stairs. The door at the top — the one Williams kept locked, the one she'd never opened in eleven months of sleeping twenty feet below whatever happened on the other side of it — turned freely. She stepped through into the nave and the smell hit her sharpened senses before the light did: old sweat, urine, industrial bleach laid over the rust-copper of blood soaked into wood grain. Weeks old. Impossible to scrub completely.
+[Sable](/sable-price/) climbed the interior stairs. The door at the top — the one Williams kept locked, the one she'd never opened in eleven months of sleeping twenty feet below whatever happened on the other side of it — turned freely. She stepped through into the nave and the smell hit her sharpened senses before the light did: old sweat, urine, industrial bleach laid over the rust-copper of blood soaked into wood grain. Weeks old. Impossible to scrub completely.
 
 The pews were pushed to the walls. The altar was a bare platform with carpet stains. Stained glass in the east wall threw fractured color from a streetlight through the surviving panels — blue, amber, a shard of red that fell across the center of the floor like a wound.
 
@@ -52,6 +52,6 @@ Nine-fourteenths. The hum in her chest quieted. The blood settled into her syste
 
 She drove back to Polk and 13th. Locked the green door. Lay on the cot in the dark and listened to the church settle around her — the creak of old wood, the wind in the broken clerestory panels, the silence of a building that had held people in chains and was now holding her, and the only difference was that her chain was a fifty-dollar lock on a door that nobody was guarding anymore.
 
-The notebook. Forty-three entries. She'd give it to Darius. He'd know what to do with it because Darius always knew what to do with information, and the information was a weapon and Sable was tired of carrying weapons that weren't hers.
+The notebook. Forty-three entries. She'd give it to [Darius](/darius-cole/). He'd know what to do with it because Darius always knew what to do with information, and the information was a weapon and Sable was tired of carrying weapons that weren't hers.
 
 The candle was out. The dark was complete. Somewhere north, two blocks away, a man coughed in a house with a rattling window unit, and that was the only sound in the world, and Sable closed her eyes and did not sleep because the dead don't sleep, and the last thing she thought before the stillness took her was that she'd paid fifty dollars a month to sleep twenty feet below a room where someone had chained a twelve-year-old to a floor ring, and she'd never gone upstairs, and she'd never asked, and at Humanity 5 the failure to ask didn't feel like guilt. It felt like arithmetic. Like a cost she'd already factored in. Like the price of the green door and the quiet.

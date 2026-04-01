@@ -38,7 +38,7 @@ She held up her wrist. The wound from last night was healed, the skin smooth and
 
 DeShawn spoke. "Coop got a wife. Two kids. He ain't been home. She's gonna call people."
 
-Not a challenge. A map of the weakest point in the perimeter, delivered by the man who understood perimeters best. Sable looked at Coop. Thirty-something, sitting on a moving blanket with his hands between his knees trying not to look desperate.
+Not a challenge. A map of the weakest point in the perimeter, delivered by the man who understood perimeters best. [Sable](/sable-price/) looked at Coop. Thirty-something, sitting on a moving blanket with his hands between his knees trying not to look desperate.
 
 "Go home. Tell your wife you were working. Call this number when I need you. First ring. Every time."
 
@@ -60,11 +60,11 @@ There were no working cars at Kendrick's Auto. An auto shop full of dead vehicle
 
 The command structure worked.
 
-She opened her senses and they drove east. The west side unreeled past the windows at thirty miles an hour and she read it the way Darius read financial statements — looking for the number that didn't add up, the line item that was out of place, the thing the ledger wanted to hide.
+She opened her senses and they drove east. The west side unreeled past the windows at thirty miles an hour and she read it the way [Darius](/darius-cole/) read financial statements — looking for the number that didn't add up, the line item that was out of place, the thing the ledger wanted to hide.
 
 The GD network on the west side was loose. Big Six ran a crew, not a block. His authority was personal and his territory was three blocks of cinderblock and chain-link. The corners on Fifteenth and Seventeenth had young men on them, but they weren't Six's — different set, different colors, different frequency. His absence wouldn't ripple through the whole west side. It would ripple through his specific people.
 
-The specific people. DeShawn talked. Two more of Six's crew: Terrell, who ran south side pickups and was already shopping for another crew, and a kid called Spoon who watched the lot and was loyal enough to come looking when the silence lasted too long. Six answered to a man called Deacon on the south side. Deacon ran the lower wards. He'd notice eventually. Eventually meant weeks.
+The specific people. DeShawn talked. Two more of Six's crew: Terrell, who ran south side pickups and was already shopping for another crew, and a kid called [Spoon](/npcs/spoon-antoine/) who watched the lot and was loyal enough to come looking when the silence lasted too long. Six answered to a man called Deacon on the south side. Deacon ran the lower wards. He'd notice eventually. Eventually meant weeks.
 
 Little Pete added one thing. Quiet. "Six owed money. To somebody in Chicago. He didn't talk about it but I seen the calls come in and he'd go outside and when he came back he was different."
 
@@ -80,13 +80,13 @@ She hunted at Dot's. A bar on the west side, blue neon, Budweiser sign buzzing. 
 
 The studio on Fifth Avenue was quiet in the way that rooms are quiet when they're waiting for someone who isn't coming. She sat on the chaise longue with her knees drawn up and the phone on the floor and the lamp humming and watched the moth tap the window screen with the persistence of something that couldn't understand glass.
 
-Allicia didn't come.
+[Allicia](/npcs/allicia/) didn't come.
 
 Two hours. The building settled around her. The Spanish conversation on the sidewalk below went from argument to laughter to silence. The phone sat on the floor six feet from her mother's voice and didn't ring.
 
 ---
 
-She found Allicia at the Rack. Pressed into the shadow of a closed barbershop two doors from the Torch, making herself small the way the starving make themselves small — not to hide but because the body contracts when there's nothing left to fuel expansion. Her aura read pale, grey, threaded with hunger, and underneath it a strand of rose-gold pulling toward the Caprice like a needle finding north.
+She found Allicia at the Rack. Pressed into the shadow of a closed barbershop two doors from [the Torch](/locations/the-torch/), making herself small the way the starving make themselves small — not to hide but because the body contracts when there's nothing left to fuel expansion. Her aura read pale, grey, threaded with hunger, and underneath it a strand of rose-gold pulling toward the Caprice like a needle finding north.
 
 "Come with me," Sable said.
 

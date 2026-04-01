@@ -18,7 +18,7 @@ DeShawn was on the folding chair with a copy of Jet. The cover was half torn off
 
 She told him about the man in the van.
 
-Not everything. Not the part about the aura that burned or the channel that went dark or the thing that looked back through the frequency she used to read the weather inside people's chests. She told him the man's name was Sullivan Dane. That he was ex-military and possibly ex-clergy and that he carried a Bible and believed what was in it. That he was looking for people like her.
+Not everything. Not the part about the aura that burned or the channel that went dark or the thing that looked back through the frequency she used to read the weather inside people's chests. She told him the man's name was [Sullivan Dane](/npcs/sullivan-dane/). That he was ex-military and possibly ex-clergy and that he carried a Bible and believed what was in it. That he was looking for people like her.
 
 DeShawn received this information the way he received all information -- without performance, without the theater of alarm that lesser men would have produced to demonstrate they understood the gravity. He folded the magazine. Set it on the toolbox. Asked what she wanted him to do.
 
@@ -26,7 +26,7 @@ She told him: watch. Don't approach. Don't follow. Don't be seen. The Olds on Si
 
 Pete she moved to the studio on Fifth. A property check -- pipes, heater, the kind of errand that would not occur to a nineteen-year-old as unusual because nineteen-year-olds who have been ghouled and bonded do not question the errands of the woman who feeds them. The purpose was distance. Four blocks between Pete and the van. Four blocks between a boy who didn't know what he was guarding and a man who knew exactly what he was hunting.
 
-Spoon would go home at ten. Coop was at his daughter's Christmas choir -- a gymnasium on the south side, folding chairs, a nine-year-old singing "Silent Night" with the certainty of a child who has not yet learned that faith is a bet you place without knowing the odds.
+[Spoon](/npcs/spoon-antoine/) would go home at ten. Coop was at his daughter's Christmas choir -- a gymnasium on the south side, folding chairs, a nine-year-old singing "Silent Night" with the certainty of a child who has not yet learned that faith is a bet you place without knowing the odds.
 
 The pantry tables at Greater Friendship Baptist were still out. She could see them through the frost on the bay window -- folding tables, metal legs, empty. Somebody didn't have the strength or the reason to bring them in. Three blocks east, a family was walking with a plastic bag that wasn't heavy enough. December in Gary was a month that took more than it gave and filed the difference under a category that had no name because nobody in the budget office had ever bothered to name it.
 
@@ -46,7 +46,7 @@ The gap between eight-thirty and eleven was three hours of nothing, and she spen
 
 At nine-forty she heard children singing. Faint, south, carrying in the cold air the way children's voices do -- thin and certain and ignorant of the distance they travel. Carolers, or a choir rehearsal, or Janelle in a gymnasium singing "Silent Night" while her father sat in a folding chair and believed every word because the blood in his veins told him to believe and the woman who put it there would never see the inside of that gymnasium.
 
-The payphone on Broadway and Eleventh smelled like cold metal. She fed two quarters and dialed and the line connected on the second ring and Darius's voice came through flat and clean, the composure already in place before the handle turned.
+The payphone on Broadway and Eleventh smelled like cold metal. She fed two quarters and dialed and the line connected on the second ring and [Darius](/darius-cole/)'s voice came through flat and clean, the composure already in place before the handle turned.
 
 She led with the party. The thing she hadn't said to anyone because the shape of it was still forming -- a room inside a room at a party hosted by a prince who saw everything, and inside that room a woman who had been owned for fifty-two years and a stranger from Milwaukee who could look at the chain and say whether it could be cut.
 

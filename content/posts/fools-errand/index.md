@@ -14,7 +14,7 @@ description: "The package. The pavement. A suppressed rifle. Something older tha
 
 The auction house was dark except for a light in the back. A gentleman in a waistcoat with a cup of tea and a paperback novel. The transfer confirmed. A brown paper package tied with string. Sign here, please. Thank you, sir.
 
-Roarke pushed the door open. The bell chimed. He stepped onto the pavement.
+[Roarke](/npcs/roarke/) pushed the door open. The bell chimed. He stepped onto the pavement.
 
 A half-second of wrongness. The street was too quiet for Piccadilly at seven. The couple was gone. A car idled at the far kerb with its lights off.
 
@@ -28,7 +28,7 @@ A face leaned into view. The lavender tie. The smile gone to something quieter.
 
 He picked up the journal. Leaned close.
 
-Lodin said he would send you out on your own sometime during this trip. I just had to wait for the right time.
+[Lodin](/npcs/lodin/) said he would send you out on your own sometime during this trip. I just had to wait for the right time.
 
 Roarke's hand shot up and closed around Quinn's throat. Quinn's eyes widened. He gagged. Clawed at Roarke's wrist. Hit him in the chest where the hole was. White light. The fingers loosened because the blood was leaving and the muscles followed the blood and the dark was patient.
 

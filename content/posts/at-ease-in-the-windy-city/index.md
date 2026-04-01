@@ -7,12 +7,12 @@ categories: ["Pawns in the Game"]
 description: "Sixty-one years of service. A crate the shape of what it is. The Prince says London like he means war."
 ---
 
-*Lodin's Penthouse, The Gold Coast*
+*[Lodin](/npcs/lodin/)'s Penthouse, The [Gold Coast](/locations/gold-coast/)*
 *Chicago, Illinois — October 1969*
 
 ---
 
-The television was on when Roarke came back from checking the windows. Cronkite. The Moratorium -- half a million people on the Mall with their signs and their candles and their belief that holding a placard changes the wiring underneath.
+The television was on when [Roarke](/npcs/roarke/) came back from checking the windows. Cronkite. The Moratorium -- half a million people on the Mall with their signs and their candles and their belief that holding a placard changes the wiring underneath.
 
 Derek had his boots on the coffee table. Natasha had her Walther field-stripped on a white cloth at the dining table. Julian read the Financial Times in the wingback chair nearest the vault door, one ear cocked toward the steel like a dog waiting for its master's whistle. Amber was in the kitchen. Garlic and wine and something French.
 
@@ -32,7 +32,7 @@ Twenty minutes later someone knocked on the door. Hard. Three times.
 
 Natasha had the Walther before the echo died. Julian's newspaper became a prop. Roarke went to the door and asked for a name.
 
-Belthazar. Ventrue. One of the Prince's Eyes -- the upper-class districts, the cushy beat. Roarke knew the name from the roster. He opened the door.
+[Belthazar](/npcs/belthazar/). Ventrue. One of the Prince's Eyes -- the upper-class districts, the cushy beat. Roarke knew the name from the roster. He opened the door.
 
 The Kindred filled the doorway. Charcoal overcoat, dark hair swept back, eyes that looked at mortals the way a man looks at furniture he's considering replacing. He walked past Roarke muttering about a crazy Malkavian bitch and her unsanctioned Embrace. Demanded to see the Prince. Roarke went to the vault door and knocked. Lodin told him to be silent. Five minutes passed. The vault opened.
 

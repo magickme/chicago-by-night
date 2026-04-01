@@ -7,14 +7,14 @@ categories: ["Chapter 10 — The Diagnostic"]
 description: "A girl he's never seen walks out of a Torch alley wiping blood from her mouth. He follows her to a door she has a key to. And on the way back, something in the dark makes the dead thing inside him remember what fear was."
 ---
 
-*Broadway / Torch Alley / Adams Street / Ore Smelter / Modius's Mansion*
+*Broadway / Torch Alley / Adams Street / Ore Smelter / [Modius's Mansion](/locations/modius-mansion/)*
 *Gary, Indiana*
 
 ---
 
-The Cutlass ran cold for three blocks. December in Gary meant the heater was a promise the engine broke every morning and kept every night, twenty minutes late, and by the time the vents pushed warm air Darius was already on Broadway heading south with the mills putting their orange signature on the cloud ceiling and the strip half-dead on a Sunday.
+The Cutlass ran cold for three blocks. December in Gary meant the heater was a promise the engine broke every morning and kept every night, twenty minutes late, and by the time the vents pushed warm air [Darius](/darius-cole/) was already on Broadway heading south with the mills putting their orange signature on the cloud ceiling and the strip half-dead on a Sunday.
 
-Nine cars in the Torch lot. Victor's Buick. A pickup he'd catalog later. The neon sign spelled its name in pink and gold and the bass came through the brick in a low pulse that matched nothing inside the building. He turned onto the access road toward the docks and the blood moved.
+Nine cars in [the Torch](/locations/the-torch/) lot. Victor's Buick. A pickup he'd catalog later. The neon sign spelled its name in pink and gold and the bass came through the brick in a low pulse that matched nothing inside the building. He turned onto the access road toward the docks and the blood moved.
 
 Not a sound. Not a thought. Something in the marrow that predated both -- a pressure shift behind the sternum, and the thing that lived in the lowest room of his body lifted its head. Kindred. Close. Moving south through the dead space between the Torch and the shuttered carpet warehouse, through the alley where the sodium light gave up and the dumpsters made a corridor into the back lot.
 
@@ -22,7 +22,7 @@ He pulled to the curb. Cut the engine.
 
 She came out of the alley mouth like a woman leaving a room she shouldn't have been in. Young. Black leather jacket over jeans and boots that had seen weather. She was wiping her mouth with the back of her hand, and the gesture was the tell -- the unconscious confession of someone who hadn't learned yet that the blood dries fast and the evidence is in the behavior, not the residue. She looked left, looked right, didn't see the Cutlass in the dark, and started walking north on Broadway with the raw momentum of someone who didn't know where safety was but knew the direction.
 
-He'd never seen her before. Not at Modius's court. Not at the Torch on the nights Allicia played. Not in any room where Gary's seven Kindred acknowledged each other's existence. But the blood knew what she was, and her predatory aura was sloppy -- broadcasting like a station that hadn't learned to modulate, wide open, a signal that said *new* and *careless* and *alive in the way that gets people killed*.
+He'd never seen her before. Not at [Modius](/npcs/modius/)'s court. Not at the Torch on the nights [Allicia](/npcs/allicia/) played. Not in any room where Gary's seven Kindred acknowledged each other's existence. But the blood knew what she was, and her predatory aura was sloppy -- broadcasting like a station that hadn't learned to modulate, wide open, a signal that said *new* and *careless* and *alive in the way that gets people killed*.
 
 Behind her, in the alley, someone was making a sound that belonged to neither pain nor pleasure. The aftermath of the Kiss, when the ecstasy ebbs and the body remembers it has a hole in it.
 
@@ -34,7 +34,7 @@ Fifteenth was residential and empty. Chain-link fences. Porch lights, mostly dea
 
 The ore smelter sat behind a chain-link gate in a row of decommissioned buildings that had stopped pretending to have a future. Gray cinderblock. Corrugated roof. Loading dock with a door that rust had welded shut twenty years ago. She pulled something from her jacket -- a key -- and opened the padlock and went through the gate and closed it and the padlock clicked and she walked to a side entrance and disappeared.
 
-Juggler's haven.
+[Juggler](/npcs/juggler/)'s haven.
 
 The implication had one shape and it wasn't ambiguous. An unauthorized Kindred with a key to Juggler's front door. The word was *childe* and the word carried a death sentence from any Prince who bothered to enforce it and a war with any sire who refused to hand one over.
 

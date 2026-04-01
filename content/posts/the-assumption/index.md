@@ -7,26 +7,26 @@ categories: ["Chapter 5 — The Deals"]
 description: "A signature. A federal agent two stools down. A prince's handshake. $800 a month."
 ---
 
-*Rosie's Bar, Buchanan Street / Modius's Mansion, Miller Beach*
+*Rosie's Bar, Buchanan Street / [Modius's Mansion](/locations/modius-mansion/), Miller Beach*
 *Gary, Indiana*
 
 ---
 
 The pen touched paper at 10:07 PM on a Thursday in July, and Gerald Fisk signed his father's building over to a dead man without knowing either of those things.
 
-Rosie's. The burned-out neon. Sam Cooke on the jukebox. Fisk looked at the assumption transfer the way parolees look at the door — like it might close again before he got through it. He signed. Darius folded the document into the envelope and put it in his coat pocket, and the weight of it was nothing and the weight of what it meant was a city.
+Rosie's. The burned-out neon. Sam Cooke on the jukebox. Fisk looked at the assumption transfer the way parolees look at the door — like it might close again before he got through it. He signed. [Darius](/darius-cole/) folded the document into the envelope and put it in his coat pocket, and the weight of it was nothing and the weight of what it meant was a city.
 
 Then the door opened and a man in a cheap blazer walked in and sat two stools down and put a business card on the bar that said FEDERAL BUREAU OF INVESTIGATION, and Darius became furniture.
 
-William Shepard. Special Agent. He asked Gerald Fisk about Lakeside Holdings and Morris & Peck and whether anyone else had expressed interest in the building on Broadway. Fisk said no. The Mesmerize held — Warren Birch lived in a different category than "interested party." Warren was a friend. Friends don't get reported to the FBI.
+[William Shepard](/npcs/william-shepard/). Special Agent. He asked Gerald Fisk about Lakeside Holdings and Morris & Peck and whether anyone else had expressed interest in the building on Broadway. Fisk said no. The Mesmerize held — Warren Birch lived in a different category than "interested party." Warren was a friend. Friends don't get reported to the FBI.
 
-Shepard wrote in a notebook and asked for Victor Salonika's phone number and left.
+Shepard wrote in a notebook and asked for [Victor Salonika](/npcs/victor-salonika/)'s phone number and left.
 
 Darius drove to Miller Beach. Knocked on the prince's door at 10:40 without an appointment, because the FBI investigating the building you signed thirty minutes ago doesn't wait for Elysium.
 
-The study. The self-portrait. The lamp. Modius behind the desk with the Auspex running like a searchlight.
+The study. The self-portrait. The lamp. [Modius](/npcs/modius/) behind the desk with the Auspex running like a searchlight.
 
-Darius gave him everything. The FBI. Lakeside. Lucian's ask — feeding rights, not the building. The assumption — $800 a month, paperwork filing tomorrow, the auction over by Monday. Three problems, two solutions, and one neonate standing in the prince's study at eleven at night with an envelope in his coat that changed the power structure of Gary.
+Darius gave him everything. The FBI. Lakeside. [Lucian](/npcs/lucian/)'s ask — feeding rights, not the building. The assumption — $800 a month, paperwork filing tomorrow, the auction over by Monday. Three problems, two solutions, and one neonate standing in the prince's study at eleven at night with an envelope in his coat that changed the power structure of Gary.
 
 "With what money, Warren?" the prince asked.
 
@@ -50,4 +50,4 @@ Modius extended his hand. A prince offering a handshake to a neonate. In eighty 
 
 "File the paperwork. Deliver my terms to Lucian. Brief Victor on the FBI. And Warren — next time you save my club, perhaps call ahead."
 
-The porch. The night. The Cutlass. The envelope in his coat. The signed assumption that would file tomorrow through Marcus Webb at the Lake County Recorder's Office, and by Monday the mortgage on The Torch would belong to Warren Birch, who did not exist, who was the mask worn by Darius Jeremiah Cole, who was the weapon aimed by Chuc Luc, who was the ghost behind every deal in the tri-state area, and the chain of ownership went: a dead man owns a building that feeds every vampire in a city ruled by a prince who just shook his hand, and the prince doesn't know the dead man's real name, and the dead man's sire doesn't know the dead man is keeping secrets from him, and the FBI is investigating the building, and the six-hundred-year-old Gangrel is waiting for feeding rights that the prince just granted, and somewhere on Argyle Street a phone is waiting to ring, and Marcus Webb is in Gary for the first time in a year pulling county filings for a boss who sounds different on the phone, and the architecture holds, and the architecture is everything, and the architecture is $800 a month.
+The porch. The night. The Cutlass. The envelope in his coat. The signed assumption that would file tomorrow through Marcus Webb at the Lake County Recorder's Office, and by Monday the mortgage on [The Torch](/locations/the-torch/) would belong to Warren Birch, who did not exist, who was the mask worn by Darius Jeremiah Cole, who was the weapon aimed by [Chuc Luc](/npcs/chuc-luc/), who was the ghost behind every deal in the tri-state area, and the chain of ownership went: a dead man owns a building that feeds every vampire in a city ruled by a prince who just shook his hand, and the prince doesn't know the dead man's real name, and the dead man's sire doesn't know the dead man is keeping secrets from him, and the FBI is investigating the building, and the six-hundred-year-old Gangrel is waiting for feeding rights that the prince just granted, and somewhere on Argyle Street a phone is waiting to ring, and Marcus Webb is in Gary for the first time in a year pulling county filings for a boss who sounds different on the phone, and the architecture holds, and the architecture is everything, and the architecture is $800 a month.
