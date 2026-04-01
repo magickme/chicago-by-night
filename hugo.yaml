@@ -35,6 +35,8 @@ params:
       items:
         - name: "Campaign"
           url: "/campaign/"
+        - name: "The Jyhad"
+          url: "/jyhad/"
         - name: "World"
           url: "/world/"
         - name: "Method"
