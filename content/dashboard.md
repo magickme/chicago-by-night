@@ -16,7 +16,7 @@ menu:
 
 ## Coterie Snapshot
 
-- 1991-01-04 (Friday, sleeping) — Coterie at Starlite Motel, Room 9 (South Side). Torpored Methuselah body in bathtub. Belthazar staked on Wacker Drive (Neon guarding). Deadline EXPIRED. Investigation advanced: Roarke IDed as cult leader/Ghoulie Man, body recovered from Standdown's facility, research notes + tapes secured, evidence destroyed. Next: Hell's Pasture (woods NW) to find Lodin. Villain's Flashback (1969 London) IN PROGRESS — Scenes 1-2 complete, Scene 3 (Settling In) next.
+- 1991-01-04 (Friday, sleeping) — Coterie at Starlite Motel, Room 9 (South Side). Torpored Methuselah body in bathtub. Belthazar staked on Wacker Drive (Neon guarding). Deadline EXPIRED. Investigation advanced: Roarke IDed as cult leader/Ghoulie Man, body recovered from Standdown's facility, research notes + tapes secured, evidence destroyed. Next: Hell's Pasture (woods NW) to find Lodin. Villain's Flashback (1969 London) COMPLETE — all 6 scenes played.
 - Scenes played: Darius 30, Sable 30 (60 total + timeskip bluebook Aug-Nov + Dec timeskip). PCs met at Feb 2 Elysium. **COTERIE FORMED (S019, July 22).**
 - Scene-note inventory: Darius 30, Sable 30 (60 total on disk).
 - Sunset: 4:28 PM CST. Sunrise: 7:06 AM CST. Darkness: ~14.5 hours (early January).
