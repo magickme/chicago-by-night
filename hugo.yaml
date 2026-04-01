@@ -55,6 +55,8 @@ params:
           url: "/map/"
         - name: "Kindred Globe"
           url: "/globe.html"
+        - name: "Kindred Census"
+          url: "/census/"
         - name: "Random Tables"
           url: "/random-tables/"
         - name: "Soundtrack"
