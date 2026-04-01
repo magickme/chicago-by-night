@@ -24,7 +24,7 @@ ShowToc: false
 
 ## Function in Play
 
-- Modius's emergency bolt-hole.
+- [Modius](/npcs/modius/)'s emergency bolt-hole.
 - Good for scenes where his polish drops and survival instinct replaces ceremony.
 
 ## Who Controls It

@@ -12,11 +12,11 @@ description: "A federal sedan. A sorcerer's kitchen. A spirit bag burning in the
 
 ---
 
-The Cutlass turned onto the lakefront road and Sable said "Stop" and [Darius](/darius-cole/)'s foot came off the gas because in four months he had learned exactly two things about [Sable Price](/sable-price/) that were not performance: she laughed from a place underneath all her other places, and when she said a word without inflection it meant she'd seen something that changed the math.
+The Cutlass turned onto the lakefront road and [Sable](/sable-price/) said "Stop" and [Darius](/darius-cole/)'s foot came off the gas because in four months he had learned exactly two things about [Sable Price](/sable-price/) that were not performance: she laughed from a place underneath all her other places, and when she said a word without inflection it meant she'd seen something that changed the math.
 
 A dark sedan. Fifty yards from the mansion's dead-end street. Government plates. Engine off, windows up, the faint orange glow of a cigarette behind the driver's side glass.
 
-SA [William Shepard](/npcs/william-shepard/). FBI. The phone number in Darius's kitchen cabinet, the name in a dead detective's folder, the federal question mark that had been sitting at the edge of the board for six months. Parked between them and [Allicia](/npcs/allicia/) at two in the morning, watching the mansion with the patient attention of a man who gets paid by the hour and has learned to love the work.
+SA [William Shepard](/npcs/william-shepard/). FBI. The phone number in [Darius](/darius-cole/)'s kitchen cabinet, the name in a dead detective's folder, the federal question mark that had been sitting at the edge of the board for six months. Parked between them and [Allicia](/npcs/allicia/) at two in the morning, watching the mansion with the patient attention of a man who gets paid by the hour and has learned to love the work.
 
 Darius killed the headlights and pulled onto a side street.
 
@@ -32,13 +32,13 @@ She ghosted back to the Cutlass.
 
 "Federal plate. USG-7734. He's alone." She told him about the photographs, the notebook, the name. "He's not watching [Modius](/npcs/modius/). He's looking for the kid."
 
-Darius looked at the lakefront road. The sedan. The mansion beyond it. Allicia inside, unaware.
+Darius looked at the lakefront road. The sedan. The mansion beyond it. [Allicia](/npcs/allicia/) inside, unaware.
 
-"Let Shepard guard Allicia. We go find the father."
+"Let [Shepard](/npcs/william-shepard/) guard Allicia. We go find the father."
 
 ---
 
-The BP station on Fifth Avenue. The phone book hanging from a chain. Wierus, John R. 1847 Pennsylvania Ave. One listing, one name, the whole equation reduced to a seven-digit number and an address six blocks from the lake.
+The BP station on Fifth Avenue. The phone book hanging from a chain. [Wierus](/npcs/john-wierus/), John R. 1847 Pennsylvania Ave. One listing, one name, the whole equation reduced to a seven-digit number and an address six blocks from the lake.
 
 Sable tore the page out. Darius was already in the car.
 

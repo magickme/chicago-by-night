@@ -22,7 +22,7 @@ She declined.
 
 Outside: December. Gary. The sky the color of old newspaper. Sunset had been at 4:25 and the dark was already settled in like it owned the place. On Broadway, two blocks north, the water main break had put half the streetlights down and the other half were running off a generator that hummed and coughed on the back of a flatbed. Orange cones. Detour signs. City workers in reflective vests standing in mud to their shins.
 
-Sable walked south on Adams. Hands in her coat. The posture of a woman with somewhere to be and no time for conversation, which was a lie on both counts. She had nowhere to be and the only conversation happening was between her and the thing that lived behind her teeth and wanted her to stop walking and start taking.
+[Sable](/sable-price/) walked south on Adams. Hands in her coat. The posture of a woman with somewhere to be and no time for conversation, which was a lie on both counts. She had nowhere to be and the only conversation happening was between her and the thing that lived behind her teeth and wanted her to stop walking and start taking.
 
 The flagger was alone at the barricade's dead end. Fifties. County parka under the reflective vest. Virginia Slim, last quarter inch. She had the face of a woman who'd been promised something twenty years ago and was still waiting to collect, and the anger -- Sable could feel it before she could smell the blood -- came off her in waves that had nothing to do with the cold.
 
@@ -54,13 +54,13 @@ The machine clicked and went steady and Sable stood in the dust and the turpenti
 
 At the Torch, [Allicia](/npcs/allicia/) was at the piano. Chopin. The nocturne in C-sharp minor, which is the one that sounds like it was written by someone who understood that the most precise expression of grief is restraint. Nobody in the bar was listening. Three men at the television. A couple in a booth. [Victor](/npcs/victor-salonika/) behind the bar, polishing the same glass he'd been polishing since 1938.
 
-Allicia looked wrong. The face was the same (Toreador, eighth generation, the architecture of the bone structure doesn't negotiate with entropy) but the skin was tighter, the wrists narrower, the black dress hanging where it used to fit. She was disappearing. Not dramatically. Not romantically. The way a photograph fades when you leave it in a window -- slowly, irreversibly, and without anyone noticing until the image is almost gone.
+[Allicia](/npcs/allicia/) looked wrong. The face was the same (Toreador, eighth generation, the architecture of the bone structure doesn't negotiate with entropy) but the skin was tighter, the wrists narrower, the black dress hanging where it used to fit. She was disappearing. Not dramatically. Not romantically. The way a photograph fades when you leave it in a window -- slowly, irreversibly, and without anyone noticing until the image is almost gone.
 
 Sable read her aura from the end of the bar and the colors confirmed what the dress already said. The old bond -- fifty-two years of violet -- had gone the shade of a bruise that refuses to heal. Depression lay over everything like silt. The rose thread (Sable's blood, Sable's bond, the newer and thinner connection) brightened when she walked in, pulling through the smoke toward its other half. The gold was almost gone. A fleck. A memory of hope that hadn't been fed in five months.
 
 They talked under the Satie. Carefully. The way you handle something that might break if you set it down too fast. Allicia's hours. [Modius](/npcs/modius/)'s calls. Milwaukee. The name she recognized from 1971.
 
-Modius had stopped asking about the foreign blood in her. Three months of silence.
+[Modius](/npcs/modius/) had stopped asking about the foreign blood in her. Three months of silence.
 
 *That's worse,* Allicia said. *When he stops asking, it means he already knows.*
 
@@ -70,7 +70,7 @@ They both knew what came after certainty in Modius's vocabulary.
 
 Sable nodded. One gesture, one syllable of motion, and left before the visit became long enough to note.
 
-Reva Watts, at the east side bar, gave her three things over a conversation that cost nothing but patience and the appearance of interest. A new Gary PD task force. The Torch's declining foot traffic. And a well-dressed white woman from Chicago who'd come asking about a pretty young Black woman, new in town.
+Reva Watts, at the east side bar, gave her three things over a conversation that cost nothing but patience and the appearance of interest. A new Gary PD task force. [The Torch](/locations/the-torch/)'s declining foot traffic. And a well-dressed white woman from Chicago who'd come asking about a pretty young Black woman, new in town.
 
 Reva hadn't told her anything. Good woman. Smart enough to know that questions about her customers were not questions she owed answers to.
 

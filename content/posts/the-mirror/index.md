@@ -12,9 +12,9 @@ description: "A full tank of blood. A note from a dancer. A prince who wants a s
 
 ---
 
-The Torch smelled like Friday even on a Monday. Spilled bourbon soaking into wood grain, cigarette tar layered so deep in the ceiling tiles it had become architecture, and underneath it the warm animal funk of human beings drinking because the alternative was thinking, which in Gary, Indiana, in January, was not an activity that led anywhere good.
+[The Torch](/locations/the-torch/) smelled like Friday even on a Monday. Spilled bourbon soaking into wood grain, cigarette tar layered so deep in the ceiling tiles it had become architecture, and underneath it the warm animal funk of human beings drinking because the alternative was thinking, which in Gary, Indiana, in January, was not an activity that led anywhere good.
 
-Sable took her seat at the bar the way she always took it. Three stools from occupied. Back straight, shoulders down, chin at the angle that said *I'm not looking for company* in a voice that made every man in the room want to provide it. She ordered a whiskey sour she'd never taste and set it on the bar and waited.
+[Sable](/sable-price/) took her seat at the bar the way she always took it. Three stools from occupied. Back straight, shoulders down, chin at the angle that said *I'm not looking for company* in a voice that made every man in the room want to provide it. She ordered a whiskey sour she'd never taste and set it on the bar and waited.
 
 [Victor](/npcs/victor-salonika/) brought the drink without comment. He'd learned her rhythms the way she'd learned his. The bartender and the predator, coexisting in the same ecosystem, each pretending the other was something simpler than what they were.
 
@@ -70,7 +70,7 @@ Four days of silence. Then this. Not hostile, not warm. Probing. The handwriting
 
 The Oasis. Sable's club. Her old life. The place where Big Six used to sit in the front row with his hands on his knees and watch her dance with the flat attention of a man selecting livestock.
 
-Allicia couldn't know that. Nobody in Gary knew where [Sable Price](/sable-price/) came from or what she'd been before the Embrace turned her into something with a clan name and a patron. Allicia had picked a South Side club the way you'd pick any neutral ground. Coincidence. The universe arranging its furniture without consulting anyone who had to sit in it.
+[Allicia](/npcs/allicia/) couldn't know that. Nobody in Gary knew where [Sable Price](/sable-price/) came from or what she'd been before the Embrace turned her into something with a clan name and a patron. Allicia had picked a South Side club the way you'd pick any neutral ground. Coincidence. The universe arranging its furniture without consulting anyone who had to sit in it.
 
 ---
 
@@ -84,7 +84,7 @@ She dropped her shoulders. Not the kneeling, not the slip, not the full performa
 
 The words were positioned. The concern was real but the framing was strategic, designed to make him reassure her, which would force him to show his hand on Allicia. She could feel the performance wavering at the edges, the scaffolding just visible enough that a man with centuries of practice could see it if he looked.
 
-He looked. For two seconds he turned the words over behind his eyes and she could feel him weighing the seams. Then the vanity caught. The idea that his new ward worried about his household, cared about his comfort, came to him first before acting. The flattery landed where it always landed with Modius, in the part of him that needed to believe he was loved rather than obeyed.
+He looked. For two seconds he turned the words over behind his eyes and she could feel him weighing the seams. Then the vanity caught. The idea that his new ward worried about his household, cared about his comfort, came to him first before acting. The flattery landed where it always landed with [Modius](/npcs/modius/), in the part of him that needed to believe he was loved rather than obeyed.
 
 "Allicia is settled," he said. He moved to the piano. One finger along the closed lid. "She has her role. She has her comforts. What she does not have is the right to interrogate my decisions."
 

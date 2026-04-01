@@ -14,11 +14,11 @@ description: "A strip club on 75th Street. A woman who doesn't dance anymore. A 
 
 The razor fit in her jacket pocket the way a secret fits in a sentence — weightless until you need it. Bone handle, good steel, a dead man's vanity she'd taken from a coat pocket at The Oasis two years ago when she was alive and working the VIP and the john had passed out in the booth with his wallet open and his throat exposed and she'd thought, even then, even before she knew what she'd become: *You never know when you'll need something sharp.*
 
-She'd tried [Williams](/npcs/williams/) first. The number she had rang out. The place she'd heard he frequented was empty. Williams was a ghost when he wanted to be, and tonight he wanted to be, and that left [Sable](/sable-price/) alone in the Buick on I-90 north with a razor in her pocket and a strip club on 75th Street getting closer at sixty-five miles an hour.
+She'd tried [Williams](/npcs/williams/) first. The number she had rang out. The place she'd heard he frequented was empty. [Williams](/npcs/williams/) was a ghost when he wanted to be, and tonight he wanted to be, and that left [Sable](/sable-price/) alone in the Buick on I-90 north with a razor in her pocket and a strip club on 75th Street getting closer at sixty-five miles an hour.
 
 The Oasis. THE OASIS in pink neon, the S flickering the way it had flickered for fifteen years, the way it would flicker until somebody cut the power or the building fell down, whichever came first in this part of Chicago. Two cars in the lot. No black Lincoln. No Big Six.
 
-Sable parked on the side street. Walked to the front door. The bouncer looked up from his newspaper and looked back down. A beautiful woman in a leather jacket walking into a strip club at midnight was not a question worth asking.
+[Sable](/sable-price/) parked on the side street. Walked to the front door. The bouncer looked up from his newspaper and looked back down. A beautiful woman in a leather jacket walking into a strip club at midnight was not a question worth asking.
 
 Inside, the smell took her back faster than the sight. Sweat, perfume, spilled drinks, cigarette smoke layered into the carpet like geological strata, each year's worth of smoke pressed down by the next until the building itself was more tar than brick. A dancer on the runway working for three men who weren't watching. Bass-heavy music that she could feel in her teeth.
 
@@ -38,7 +38,7 @@ Silence. The bass pulsed through the wall. The red lamp hummed.
 
 "You left the shoes on the barre."
 
-Sable looked at her. Allicia's face was a mask and the mask was the face and the question of which one was performing had been answered decades ago: both. Always. There was nothing behind the mask because the mask had eaten it.
+Sable looked at her. [Allicia](/npcs/allicia/)'s face was a mask and the mask was the face and the question of which one was performing had been answered decades ago: both. Always. There was nothing behind the mask because the mask had eaten it.
 
 "They're yours," Sable said. "Everything in that room is yours. I know what he did."
 
@@ -96,7 +96,7 @@ She gave him the version she'd built on the drive south. Allicia was territorial
 
 The probing. She could feel him pressing against the gaps in the report, testing the seams the way he'd tested her performance in the drawing room five days ago. The vanity had worked then. It nearly didn't work now. She spent the last of something she couldn't name and said: "She said the shoes are mine now. That she doesn't dance anymore."
 
-Modius was quiet. His hand lifted off the keys. Something crossed his face that was too fast and too old to read — not guilt, Modius didn't do guilt, but something adjacent to it, some cousin of recognition, the brief involuntary acknowledgment of a man who realizes he has broken something he didn't know was still breakable.
+[Modius](/npcs/modius/) was quiet. His hand lifted off the keys. Something crossed his face that was too fast and too old to read — not guilt, Modius didn't do guilt, but something adjacent to it, some cousin of recognition, the brief involuntary acknowledgment of a man who realizes he has broken something he didn't know was still breakable.
 
 "Good. Keep the shoes."
 

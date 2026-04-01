@@ -17,7 +17,7 @@ ShowToc: false
 
 Age 32 in 1969. Born 1937. Slender, 5'7", hardened by extensive workouts. Shoulder-length blunt-cut blond hair, finely sculpted face. The cold Nordic siren.
 
-[Lodin](/npcs/lodin/)'s bodyguard. Granted Marksman status at the FBI Academy — one of the first female students in the early fifties. Black belts in Judo, Tae Kwon Do, and Jujitsu. Attached to Special Affairs at the Bureau, where she first encountered [Lodin](/npcs/lodin/) while investigating suspected paranormal activity in the Chicago area. Her Russian ancestry put her under suspicion during the McCarthy era. When the Bureau fired her for "communist activities," Lodin offered her a job. He used his connections with the Ventrue Justicar — who had influence over Hoover — to have her name completely removed from FBI files.
+[Lodin](/npcs/lodin/)'s bodyguard. Granted Marksman status at the FBI Academy — one of the first female students in the early fifties. Black belts in Judo, Tae Kwon Do, and Jujitsu. Attached to Special Affairs at the Bureau, where she first encountered [Lodin](/npcs/lodin/) while investigating suspected paranormal activity in the Chicago area. Her Russian ancestry put her under suspicion during the McCarthy era. When the Bureau fired her for "communist activities," [Lodin](/npcs/lodin/) offered her a job. He used his connections with the Ventrue Justicar — who had influence over Hoover — to have her name completely removed from FBI files.
 
 She has served Lodin faithfully ever since, though she occasionally suspects he engineered her firing in the first place.
 

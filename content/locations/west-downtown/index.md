@@ -31,5 +31,5 @@ The power center. West Downtown is where the Elders keep their havens, where [ME
 ## Who Controls It
 
 - The Primogen Council, collectively. Individual Elders maintain havens throughout the district.
-- [Merik](/npcs/terence-merik/)'s penthouse anchors the district from above. MECCA sits at its center on W Kilbourn Ave.
+- [Merik](/npcs/terence-merik/)'s penthouse anchors the district from above. [MECCA](/locations/mecca/) sits at its center on W Kilbourn Ave.
 - [Gracis](/npcs/gracis-nostinus/) keeps his Kilbourntown house northwest of MECCA. [Hrothulf](/npcs/hrothulf/)'s primary compound is in [the Outlands](/locations/the-outlands/), but his Council presence radiates from this district.

@@ -17,7 +17,7 @@ ShowToc: false
 </div>
 </div>
 
-Lorraine Matthews' family has long been a power not only in Chicago politics but in Illinois, the Midwest, and occasionally on the national level. Though she does not know it, she is the great-great-granddaughter of Lodin. She spent her early life happily playing on her family's rich estates and being groomed for a life of public service and private gain. However, four years at Northwestern University brought a change in her attitude. She got heavily into both drugs and self-sacrifice, and signed up to join the Peace Corps upon graduation.
+Lorraine Matthews' family has long been a power not only in Chicago politics but in Illinois, the Midwest, and occasionally on the national level. Though she does not know it, she is the great-great-granddaughter of [Lodin](/npcs/lodin/). She spent her early life happily playing on her family's rich estates and being groomed for a life of public service and private gain. However, four years at Northwestern University brought a change in her attitude. She got heavily into both drugs and self-sacrifice, and signed up to join the Peace Corps upon graduation.
 
 Lodin met his great-great-granddaughter for the first time at a private party right after graduation, where he was hunting one of her friends. He quickly changed targets to this enchanting young woman. As they walked along the shore of Lake Michigan, the Prince found himself becoming more and more interested in this unique young lady, who was like no one he had ever met before (a head full of LSD was doing much to accentuate her natural strangeness).
 

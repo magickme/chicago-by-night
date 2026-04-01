@@ -17,7 +17,7 @@ ShowToc: false
 </div>
 </div>
 
-No memories of mortal life. Modius may have erased them.
+No memories of mortal life. [Modius](/npcs/modius/) may have erased them.
 
 Born 1912, Embraced 1938. 8th generation.
 

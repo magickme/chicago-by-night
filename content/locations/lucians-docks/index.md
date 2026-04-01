@@ -31,5 +31,5 @@ ShowToc: false
 
 ## Who Controls It
 
-- Lucian through dock labor, management influence, and fear.
+- [Lucian](/npcs/lucian/) through dock labor, management influence, and fear.
 - Gary Exports Co. provides the hidden lane for illicit traffic.

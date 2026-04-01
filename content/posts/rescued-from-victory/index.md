@@ -7,22 +7,22 @@ categories: ["Act II — Ashes to Ashes"]
 description: "A staked Sheriff on Wacker Drive. An Anarch in a fourteen-year-old body. A torpored ancient in a stripped-out 7-11. The investigation compresses six scenes into one long night that ends in a thirty-dollar motel room with something very old in the bathtub."
 ---
 
-*[Sears Tower](/locations/sears-tower/) / Wacker Drive / West Side 7-11 / Tell It All Offices / Standdown's Warehouse / Starlite Motel*
+*[Sears Tower](/locations/sears-tower/) / Wacker Drive / West Side 7-11 / Tell It All Offices / [Standdown](/npcs/michael-standdown/)'s Warehouse / Starlite Motel*
 *Chicago, Illinois — January 2-4, 1991*
 
 ---
 
-They woke in a dead man's room and the cold had gotten in while they slept — not through the walls (the walls were concrete and steel and built to hold a Prince) but through the glass at the end of the hallway, where January pressed itself against the 107th floor and the radiator had quit because the only person who knew how to fix it was [Julian Curry](/npcs/julian-curry/) and Julian Curry was in the office down the hall with a bullet through his head.
+They woke in a dead man's room and the cold had gotten in while they slept — not through the walls (the walls were concrete and steel and built to hold a Prince) but through the glass at the end of the hallway, where January pressed itself against the 107th floor and the radiator had quit because the only person who knew how to fix it was [Julian Curry](/npcs/julian-curry/) and [Julian Curry](/npcs/julian-curry/) was in the office down the hall with a bullet through his head.
 
 [Belthazar](/npcs/belthazar/) was already pacing. The boots on marble, back and forth, the rhythm of a man who wanted the sound noticed.
 
 "Rise and shine, little ones." The drawl was all theater and something cruel underneath. He'd called [Ballard](/npcs/ballard/) three hours ago. The deadline was tonight. The reply had been four words: *the deadline is tonight.* He relayed them with the precision of a man who understood that precision was the only weapon he was currently authorized to use.
 
-[Darius](/darius-cole/) provoked him. A clean hit — *you let Ballard make all your decisions for you?* — and the mask came off like paint off a radiator and what was underneath was a hundred and twenty years of enforcement done for men he privately despised. The finger came up, one thick digit aimed at Darius's chest, and the space between them contracted until it was nothing but aura and authority and the specific chemistry of two predators deciding whether the fight was worth the damage.
+[Darius](/darius-cole/) provoked him. A clean hit — *you let [Ballard](/npcs/ballard/) make all your decisions for you?* — and the mask came off like paint off a radiator and what was underneath was a hundred and twenty years of enforcement done for men he privately despised. The finger came up, one thick digit aimed at [Darius](/darius-cole/)'s chest, and the space between them contracted until it was nothing but aura and authority and the specific chemistry of two predators deciding whether the fight was worth the damage.
 
 The elevator counted down in red digits. Ninety-four. Sixty. Thirty-eight.
 
-Wacker Drive. Twelve degrees. Belthazar opened the car door and started to speak and stopped because something had registered in his peripheral vision that his conscious mind hadn't caught up with. [Sable](/sable-price/) saw the boy first — black hair, leather jacket three sizes wrong, sneakers that belonged to neither the weather nor the decade, and one finger over his lips and the other hand holding a stake.
+Wacker Drive. Twelve degrees. [Belthazar](/npcs/belthazar/) opened the car door and started to speak and stopped because something had registered in his peripheral vision that his conscious mind hadn't caught up with. [Sable](/sable-price/) saw the boy first — black hair, leather jacket three sizes wrong, sneakers that belonged to neither the weather nor the decade, and one finger over his lips and the other hand holding a stake.
 
 She warned him.
 
@@ -30,13 +30,13 @@ Two words. *Behind you.* The Survivor's instinct, not loyalty to the Elders but 
 
 And then back. From a different angle, at a speed that didn't fit the body carrying it. Ninety pounds moving like a freight car because the blood behind the movement was older than anyone on that sidewalk except the thing it powered, and the stake went through the Sheriff's coat and shirt and sternum and found the heart and Belthazar's body locked mid-syllable and fell like a pushed mannequin and his hat landed crown-down on the ice.
 
-The boy looked at Sable. "You *warned* him."
+The boy looked at [Sable](/sable-price/). "You *warned* him."
 
 Not angry. Confused. The face of someone who had risked his life to save people who tried to stop him.
 
 His name was [Damien](/npcs/damien/). He said it like it should mean something. It did — [Lodin](/npcs/lodin/)'s files had mentioned a troublesome Anarch by that name — but the files hadn't mentioned the blood pressure that came off him like heat from a kiln, the predatory weight that had no business existing inside a fourteen-year-old body. A second child peeled out of the dark behind the parking structure. Seven years old. Brown hair. Eyes that had forgotten how not to be afraid.
 
-Damien's voice changed when he talked about the smaller one. The bravado bled out and what was left was something Sable recognized — the sound of a person responsible for something fragile who is running out of ways to keep it intact. She'd made that sound. In different rooms, for different reasons, she'd made exactly that sound.
+[Damien](/npcs/damien/)'s voice changed when he talked about the smaller one. The bravado bled out and what was left was something Sable recognized — the sound of a person responsible for something fragile who is running out of ways to keep it intact. She'd made that sound. In different rooms, for different reasons, she'd made exactly that sound.
 
 The Civic had no heat and a cracked windshield and Damien drove fast and badly and talked the whole time. Ballard's frame. The investigation designed to fail. The way the Elders used neonates the way Gary used its mill workers — as material, consumed and replaced. He believed everything he was saying and he was right about most of it and the parts he was wrong about were the parts nobody could be right about because the machinery that ran Chicago was larger than any single ideology's map of it.
 
@@ -62,11 +62,11 @@ Sable turned on the Awe and let Appearance 5 do the rest and Scottie Cartwright 
 
 The facility was a stone warehouse on the near north side. Three stories, bottom two painted dark, top floor rebuilt with new glass. One heartbeat upstairs. Medical equipment on the middle floor, the hum of machines working in the dark. And below the hum — the pressure. Fainter than the 7-11 but the same signature. Whatever the police had pulled from that basement was here.
 
-Sable went in through the fire escape. The second-floor lab was a controlled environment — CAT scan, examination table, monitoring equipment, a desk with two weeks of handwritten notes that read like a man's faith being simultaneously confirmed and destroyed. *Day 1: Subject appears to be male, indeterminate age. Epidermis has undergone complete calcification.* And in the margin, different pen: *God help me, Shepard was right.*
+Sable went in through the fire escape. The second-floor lab was a controlled environment — CAT scan, examination table, monitoring equipment, a desk with two weeks of handwritten notes that read like a man's faith being simultaneously confirmed and destroyed. *Day 1: Subject appears to be male, indeterminate age. Epidermis has undergone complete calcification.* And in the margin, different pen: *God help me, [Shepard](/npcs/william-shepard/) was right.*
 
 The body had been moved to ground-floor cold storage. She let Darius in through the loading dock. The cold storage door opened with a hiss. Steel table. The body.
 
-The photographs had lied by omission. The torpored Methuselah was a presence — grey-white skin like cracked marble, four fangs behind parted lips, matted hair, and the saber-toothed pendant on the chest. Three inches. Dark. The twin of the one humming in Lodin's vault, except this one was silent.
+The photographs had lied by omission. The torpored Methuselah was a presence — grey-white skin like cracked marble, four fangs behind parted lips, matted hair, and the saber-toothed pendant on the chest. Three inches. Dark. The twin of the one humming in [Lodin](/npcs/lodin/)'s vault, except this one was silent.
 
 The man upstairs was [Michael Standdown](/npcs/michael-standdown/). Occult investigator, not a doctor. Jerusalem pilgrim. Two weeks of tests that had led him to the conclusion that the thing in his basement was a vampire. He sat at a desk with a crucifix on the wall behind him and books that mixed anatomy with eschatology and he said, "I think it's a very old one. And I think you already knew that."
 

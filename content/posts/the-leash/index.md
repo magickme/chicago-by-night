@@ -16,7 +16,7 @@ She woke to the smell of motor oil and the sound of two men breathing and the pa
 
 DeShawn was sitting on the workbench with his arms folded and his eyes bloodshot and his cap pushed back on his head. He looked like he'd been awake since the Eisenhower administration. He had the plate number written on a folded scrap of paper in handwriting so careful it might have been a love letter, and he read it to her the way a soldier reads a field report: burgundy Oldsmobile Cutlass, eighty-six or eighty-seven, Illinois plates, white male driver, forties or fifties, gray hair cut short, smoked Winstons, moved the car twice a night covering the blocks between Fifteenth and Seventeenth like a man being paid to remember what he saw.
 
-Six's blocks. The territory of a dead man, watched by a living one who didn't know the dead man was dead because the dead man's crew was standing in Sable's garage pretending everything was fine.
+Six's blocks. The territory of a dead man, watched by a living one who didn't know the dead man was dead because the dead man's crew was standing in [Sable](/sable-price/)'s garage pretending everything was fine.
 
 Pete had the other report. Spoon had called Tanya's twice during the day looking for Pete, sounding hungry in a way that had nothing to do with food. The Step 1 bond calling home. She'd heard DeShawn describe the same feeling in different words during the first week, the pull in the sternum, the warmth that wouldn't locate itself, the sense that there was somewhere he was supposed to be and he couldn't stop thinking about it.
 
@@ -36,7 +36,7 @@ Seven successes. A year. She'd never hit that deep before. The Entrancement sett
 
 She bit her wrist and told him to drink. He drank. The shudder, the grip, the sound he made when she pulled her arm back and the wound sealed itself. She had heard that sound three times now from three different men, and the sound was always the same, and the sameness of it was something she tried not to think about because thinking about it led to the studio and the chaise and the yellow silk robe and a painter who had made her make the same sound once, and the circuit was perfect and closed and she was on the wrong side of it now or the right side depending on how you counted.
 
-She sent him back to Pete. Pete would bring him tomorrow. By then the blood would be doing the work the Presence had started, and the work would not stop, and Antoine would be hers in a way that had nothing to do with choice and everything to do with what she'd put in his veins, and at Humanity five the thought filed itself in the place where thoughts like that went and the file closed and the cabinet stayed shut.
+She sent him back to Pete. Pete would bring him tomorrow. By then the blood would be doing the work the Presence had started, and the work would not stop, and [Antoine](/npcs/spoon-antoine/) would be hers in a way that had nothing to do with choice and everything to do with what she'd put in his veins, and at Humanity five the thought filed itself in the place where thoughts like that went and the file closed and the cabinet stayed shut.
 
 ---
 
@@ -46,9 +46,9 @@ Lonnie Greer picked up on the fourth ring with a ballgame in the background and 
 
 She hung up and called [Darius](/darius-cole/).
 
-His line was clean. No Webb in the apartment. She told him about [Allicia](/npcs/allicia/) and [Victor](/npcs/victor-salonika/)'s report and the three nights and the word *indisposed* and the silence on the other end was Darius processing, the sound of a man rearranging a diagram she couldn't see.
+His line was clean. No Webb in the apartment. She told him about [Allicia](/npcs/allicia/) and [Victor](/npcs/victor-salonika/)'s report and the three nights and the word *indisposed* and the silence on the other end was [Darius](/darius-cole/) processing, the sound of a man rearranging a diagram she couldn't see.
 
-Don't go to the mansion. Three nights behind closed doors with a three-step bond isn't punishment. Punishment is public. This is maintenance. [Modius](/npcs/modius/) is afraid and when Modius gets afraid he pulls everything closer and Allicia is the first thing he reaches for because she's the thing he's most afraid of losing.
+Don't go to the mansion. Three nights behind closed doors with a three-step bond isn't punishment. Punishment is public. This is maintenance. [Modius](/npcs/modius/) is afraid and when [Modius](/npcs/modius/) gets afraid he pulls everything closer and [Allicia](/npcs/allicia/) is the first thing he reaches for because she's the thing he's most afraid of losing.
 
 "So I do nothing."
 
@@ -56,7 +56,7 @@ Don't go to the mansion. Three nights behind closed doors with a three-step bond
 
 The dangerous read, he said. The one she didn't want to hear. Modius deepening the bond. Fresh vitae from a prince. Her Step 1 competing with decades of three-step dependency. The math getting ugly in a way that Darius described in the same voice he used for pipeline logistics and feeding schedules, which was the Ventrue's gift and his curse, the ability to reduce everything to structure, even a woman she could still taste when she closed her eyes.
 
-She called [The Torch](/locations/the-torch/). Victor told her what she already knew and added the detail that made it worse: Modius had called twice that night asking about foot traffic. Who came in. Who asked questions. A prince taking attendance at a bar he owned through intermediaries, counting the names, looking for the one that didn't belong.
+She called [The Torch](/locations/the-torch/). [Victor](/npcs/victor-salonika/) told her what she already knew and added the detail that made it worse: Modius had called twice that night asking about foot traffic. Who came in. Who asked questions. A prince taking attendance at a bar he owned through intermediaries, counting the names, looking for the one that didn't belong.
 
 She hung up. Leaned against the phone booth. The east side of Gary smelled like lake water and rust and the July heat doing something chemical to the asphalt that made it smell almost sweet.
 

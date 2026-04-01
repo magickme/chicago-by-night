@@ -20,7 +20,7 @@ ShowToc: false
 ## Physical Read
 
 - Abandoned brewery. Brick shell with the roof partially caved in the east wing. Concrete floors stained with decades of fermentation runoff. The yeast smell never left.
-- Gengis holds meetings in the old bottling room where the acoustics carry voices whether you want them to or not.
+- [Gengis](/npcs/gengis/) holds meetings in the old bottling room where the acoustics carry voices whether you want them to or not.
 - Crates, barrels, sleeping bags, stolen furniture. Someone welded a fire pit from an oil drum. Graffiti on every wall, some of it political, some of it territorial, some of it just bored.
 
 ## Function in Play

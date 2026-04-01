@@ -31,6 +31,6 @@ Milwaukee's Elysium. The neutral ground where the Primogen Council meets, announ
 
 ## Who Controls It
 
-- Lucina maintains Elysium protocol and venue access.
+- [Lucina](/npcs/lucina/) maintains Elysium protocol and venue access.
 - The Primogen Council convenes here. All seven representatives attend in theory.
 - No single faction dominates. That is the point.

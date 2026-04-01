@@ -167,13 +167,29 @@ The coterie arrives in Chicago. They meet [Ballard](/npcs/ballard/). They visit 
 
 Critias — still Blood-Bonded to Menele — accompanies the coterie to the Sears Tower. He stands in the polished brass of the elevator with the patience of a man who has walked barefoot on roads that hadn't been named yet.
 
+### 35. Re1 — Lodin is rescued (D031)
+
+The coterie pulls the stake. The Prince is returned to the board — but not the same prince. Roarke's blood carries Menele's vitae, and Lodin drinks it to wake. **White's queen is recovered, but she now carries traces of Black's influence.** The ghoul who stole her is dust on the amphitheater floor.
+
+### 35... Bb5! — Menele's triple combination (D031)
+
+**The deepest quiet move of the endgame.** Three things happen in a single night, and none of them look connected:
+
+1. **[Darius](/darius-cole/) drinks the vial** — a hunger frenzy redirects Menele's blood from the torpored body to the Ventrue emissary. Blood Bond Step 1. Black gains a new piece without moving. The frenzy was not accidental. Menele orchestrated it from torpor.
+
+2. **Lodin is fed Roarke's blood** — which is Menele's blood. The Prince of Chicago now carries the blood of the Methuselah who has been fighting him for three thousand years. Not a formal Bond. Something subtler. A frequency in the bloodstream.
+
+3. **Menele's body is delivered to Lodin** — the coterie hands the torpored Methuselah directly to the Prince, who locks it in a cedar closet at the Drake Hotel. **Black's king is now inside White's stronghold.** Helena doesn't know. Lodin doesn't understand what he has. Menele is exactly where he wants to be.
+
+**The bishop slides to b5 and pins White's rook to the king.** Three separate threads converge on a single square. The coterie thinks they rescued the Prince. The Prince thinks he secured a valuable artifact. Menele knows he's been carried home.
+
 ---
 
-## The Position After 34 Moves
+## The Position After 35 Moves
 
 **White (Helena):**
 - King active but weakened (Portia identity, recovering from torpor)
-- Lodin captured/removed (queen lost)
+- Lodin recovered but compromised (queen returned — carrying Black's blood)
 - [Nicolai](/npcs/nicolai/) controlled (bishop)
 - [Tyler](/npcs/tyler/) → [Juggler](/npcs/juggler/) chain (knight + pawn)
 - [Brennon Thornhill](/npcs/brennon-thornhill/) (rook — Succubus Club defense)
@@ -181,29 +197,31 @@ Critias — still Blood-Bonded to Menele — accompanies the coterie to the Sear
 - Annabelle (believed to be White's bishop — actually Black's)
 
 **Black (Menele):**
-- King still torpid but mind active (Auspex 6)
-- [Critias](/npcs/critias/) as Brujah Primogen (knight — may break free)
+- King torpid but now inside White's stronghold (Drake Hotel, Lodin's custody)
+- Mind active (Auspex 6) — closer to awakening than at any point since 1832
+- [Darius](/darius-cole/) Blood-Bonded Step 1 (new pawn — Ventrue, Dominate 4, in the Prince's orbit)
+- [Critias](/npcs/critias/) as Brujah Primogen (knight — Blood-Bonded, flagged the coterie as useful)
 - [Inyanga](/npcs/inyanga/) commands all Gangrel (bishop)
 - Annabelle as double agent (bishop inside White's camp)
 - [Ublo-Satha](/npcs/ublo-satha/) as sleeper in Tremere Chantry (knight behind enemy lines)
 - The pipeline (rook — continental logistics)
-- Gary staging ground with Modius, coterie, neonates (connected pawns)
-- Roarke's cult (passed pawn — Lodin captured)
+- Gary staging ground with Modius, neonates (connected pawns)
+- Roarke's cult dissolved, Roarke destroyed (passed pawn sacrificed after promotion)
 - Path of Entelechy worldwide (development in reserve)
 
 **Neutral / Contested:**
-- The coterie ([Darius](/darius-cole/), [Sable](/sable-price/)) — investigating for the Primogen; lineage traces to Menele's network but not directly controlled
+- [Sable](/sable-price/) — not directly bonded but linked through Darius; investigation served Black's interests
 - Khalid (Nosferatu Primogen) — hidden; each side assumes the other controls him
 - [Erichtho](/npcs/erichtho/) (Tremere) — suspicious of Portia; could blow Helena's cover
 - The Sabbat — a third player not on this board
 
 ### The Evaluation
 
-**Black has the advantage.** White has lost her queen (Lodin), her most powerful rook may defect (Prias), and her key bishop is actually Black's (Annabelle). White doesn't know any of this. She believes her position is stronger than it is.
+**Black is winning.** White's recovered queen carries Black's blood. Black's king has been delivered to the heart of White's camp by White's own pieces. Three of Black's agents surround the Prince: Critias (Primogen), Darius (emissary, bonded), and Annabelle (double agent). Helena doesn't know any of this.
 
-Black's weakness: the king is still torpid. If Helena finds Menele's body before he wakes, she wins.
+Black's remaining weakness: the king is still torpid. But he is no longer in the woods surrounded by rats. He is in a cedar closet in a luxury hotel, guarded by the Prince of Chicago, who is drinking his blood. **The conditions for Menele's awakening are assembling themselves.**
 
-**The game is not over. But the combination is in motion.**
+**The combination is nearly complete.**
 
 ---
 

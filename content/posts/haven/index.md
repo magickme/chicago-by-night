@@ -14,7 +14,7 @@ description: "Sable goes looking for a place to sleep. A man with a van finds he
 
 The van was white and had no plates.
 
-That was the first thing [Sable](/sable-price/) noticed, before the headlights swung across the road and the vehicle pulled sideways across both lanes with the practiced geometry of a roadblock. No plates meant no registration meant nobody was supposed to know this van existed, and in Sable's experience — which was longer than her twenty-one years suggested and deeper than any of them deserved — vehicles without plates belonged to two categories of men: the kind who were running from something and the kind who were collecting it.
+That was the first thing [Sable](/sable-price/) noticed, before the headlights swung across the road and the vehicle pulled sideways across both lanes with the practiced geometry of a roadblock. No plates meant no registration meant nobody was supposed to know this van existed, and in [Sable](/sable-price/)'s experience — which was longer than her twenty-one years suggested and deeper than any of them deserved — vehicles without plates belonged to two categories of men: the kind who were running from something and the kind who were collecting it.
 
 The man who got out of the passenger side was the second kind.
 
@@ -26,7 +26,7 @@ He walked to her window and knocked.
 
 Sable sat in the Buick with both hands on the wheel and thought about every man who had ever knocked on a car window she was sitting behind. The taxonomy of knocks: the john's knock, which was tentative and rhythmic. Big Six's knock, which was a single flat palm that said *open.* [Michael](/npcs/michael/) [Payne](/npcs/sharon-payne/)'s knock, which was two fingertips, delicate, the knock of a man who touched everything like it was a canvas.
 
-Williams knocked like a landlord. Firm, businesslike, nothing personal. The knock of a man who expected the door to open because doors opened for him. That was his whole career — doors opening, and behind each one something valuable and afraid.
+[Williams](/npcs/williams/) knocked like a landlord. Firm, businesslike, nothing personal. The knock of a man who expected the door to open because doors opened for him. That was his whole career — doors opening, and behind each one something valuable and afraid.
 
 She felt the Dread wash out of her chest before she made the decision to use it. The Presence built the way it always built, rising from somewhere behind her sternum like a wave of dark water, and when she rolled down the window and let Williams see her eyes, what he saw in them was the thing that lived at the bottom of every human being's nervous system, the thing that woke up in caves and forests and dark water, the ancient and mammalian certainty that something with teeth was looking at you and it was too late to run.
 

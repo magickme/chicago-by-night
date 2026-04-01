@@ -16,7 +16,7 @@ She could smell the Hennessy before she saw him.
 
 Not literally — not yet, not from the door, not through the wall of cigarette smoke and spilled beer and the particular musk of thirty human bodies generating heat in a room that hadn't been properly ventilated since the [Carter](/npcs/emily-carter/) administration. But the memory of Hennessy hit her the same way: a trigger buried so deep in the animal part of her brain that the Embrace hadn't touched it, hadn't killed it, had just frozen it in place alongside everything else she'd been at twenty-one. The smell of Hennessy meant Big Six. Big Six meant the front row at The Oasis. The front row meant the weight of eyes that didn't blink.
 
-She was three steps inside The Torch when her body told her to leave.
+She was three steps inside [The Torch](/locations/the-torch/) when her body told her to leave.
 
 The hindbrain — the part that had kept her alive on State Street and in the Robert Taylor stairwells and in the back seats of cars she shouldn't have gotten into — fired before the conscious mind caught up. A shape in the booth near the runway. The geometry of a man who took up space the way certain men take up space, not with size but with gravity, the legs spread wide, one arm across the back of the seat, the bottle of Hennessy centered on the table like a small golden monument to his own presence. Grey leather jacket. Gold rope chain. Two soldiers flanking him in the booth, younger, harder, wearing their GD affiliation the way cops wear badges — visible, deliberate, a statement of jurisdiction.
 
@@ -24,7 +24,7 @@ Marcus "Big Six" Tillman.
 
 [Sable](/sable-price/) stopped walking. The music was Bobby Brown, tinny through speakers that had been blown out and repaired and blown out again. The runway stripper was working the pole with the mechanical disinterest of a woman counting ceiling tiles. [Victor Salonika](/npcs/victor-salonika/) was behind the bar with his shotgun underneath and his patience on top, polishing a glass that would never be clean. Near the piano, in her yellow lace, [Allicia](/npcs/allicia/) sat perfectly still and watched nothing.
 
-None of them mattered. Big Six was twenty feet from the bar and he was watching the dancer the way he used to watch Sable — with the patience of a man who has already decided what belongs to him and is simply waiting for the formality of possession to catch up with the fact of it.
+None of them mattered. Big Six was twenty feet from the bar and he was watching the dancer the way he used to watch [Sable](/sable-price/) — with the patience of a man who has already decided what belongs to him and is simply waiting for the formality of possession to catch up with the fact of it.
 
 She turned around and walked out. The door closed behind her and the January air hit her dead skin and she stood in the parking lot under the red neon and felt her heart not beating.
 
@@ -100,7 +100,7 @@ She killed the engine. The dashboard clock said 4:17 AM. Dawn was two hours away
 
 She climbed into the back seat. The fur coat — [Sharon](/npcs/sharon-payne/)'s coat, stolen from the Roselle house the night she left, the last piece of the woman who had shared her and then tried to destroy her — was bundled on the seat. She pulled it over herself and lay in the dark and listened to the Buick's engine ticking as it cooled, and the sound was the loneliest sound she had ever heard, lonelier than the empty apartment in Robert Taylor after Denise went to work, lonelier than the dressing room at The Oasis after the last customer left, lonelier than the three nights in [Michael](/npcs/michael/)'s basement when the old life burned out of her and nothing grew in its place.
 
-The coat smelled like Chanel No. 5. Sharon's perfume. The woman who had kissed her and shared blood with her and looked at her with the appraising calm of a collector evaluating a purchase, and who would kill her if she found her, not out of hatred but out of the principle that broken toys should not be left where other people can find them.
+The coat smelled like Chanel No. 5. [Sharon](/npcs/sharon-payne/)'s perfume. The woman who had kissed her and shared blood with her and looked at her with the appraising calm of a collector evaluating a purchase, and who would kill her if she found her, not out of hatred but out of the principle that broken toys should not be left where other people can find them.
 
 Sable lay in the dark in the basement of a parking garage in Gary, Indiana, on the first day of 1990, and did not cry because crying cost blood and blood was the only currency she had left.
 

@@ -22,14 +22,14 @@ ShowToc: false
 ## Function in Play
 
 - Chicago's Nosferatu nerve center. Every rumor, every surveillance report, every piece of leverage the clan holds on the Camarilla passes through these tunnels.
-- Where Khalid al-Rashid runs an information brokerage that operates outside the Prince's direct oversight. What the Warrens know, the Warrens sell — or withhold.
+- Where [Khalid al-Rashid](/npcs/khalid-al-rashid/) runs an information brokerage that operates outside the Prince's direct oversight. What the Warrens know, the Warrens sell — or withhold.
 - [Ublo-Satha](/npcs/ublo-satha/) dwells in the deepest reaches, and no one talks about what that means for the structural integrity of the network. The deeper you go, the less the architecture follows human logic.
 
 ## Physical Read
 
 - The upper levels use the freight tunnels beneath Michigan Avenue — narrow-gauge rail corridors built in 1906 for coal and mail delivery. Forty miles of tunnel, six feet wide, most of it forgotten by the city above. The Nosferatu bricked off the access points that matter and left the rest as decoy routes.
 - Mid-level warrens branch into the storm sewer system south of the river. Condensation on every surface. The walls sweat. LED strings mark safe routes in colors only Nosferatu bother to learn. Wrong turn means three hours in pitch dark or worse.
-- The deep levels are older than the tunnels above them. Stone that predates the 1871 fire. Carved chambers that the Nosferatu did not build and cannot fully explain. Ublo-Satha's territory begins where the electric light stops working.
+- The deep levels are older than the tunnels above them. Stone that predates the 1871 fire. Carved chambers that the Nosferatu did not build and cannot fully explain. [Ublo-Satha](/npcs/ublo-satha/)'s territory begins where the electric light stops working.
 
 ## Geographic Placement
 

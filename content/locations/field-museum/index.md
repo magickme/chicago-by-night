@@ -40,4 +40,4 @@ ShowToc: false
 
 - The Prince declares Elysium. In practice, the Primogen enforce it through mutual self-interest.
 - Museum security is mortal and unaware. After hours access is arranged through a ghoul on the board of trustees.
-- During the crisis, Neally uses this space to project legitimacy. His control is as hollow as the dioramas.
+- During the crisis, [Neally](/npcs/neally-edwards/) uses this space to project legitimacy. His control is as hollow as the dioramas.

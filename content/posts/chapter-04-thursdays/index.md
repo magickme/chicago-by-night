@@ -12,7 +12,7 @@ description: "Darius drives to Telton Cemetery with a gift for a man who isn't h
 
 ---
 
-The candles were votives — six of them, white, unscented, the kind you bought at the dollar store on Broadway in packs of twelve. The blanket was army surplus, olive drab, still in the plastic from the thrift shop on Fifth. There was a bottle of Merlot that Darius had taken from a liquor store display because he didn't know anything about wine and the label looked serious enough to be respectful. He'd put all of it in a paper grocery bag and set it on the back seat of the Cutlass, and now he was driving east toward Telton Cemetery with the heater on and the Beast eating him from the inside out.
+The candles were votives — six of them, white, unscented, the kind you bought at the dollar store on Broadway in packs of twelve. The blanket was army surplus, olive drab, still in the plastic from the thrift shop on Fifth. There was a bottle of Merlot that [Darius](/darius-cole/) had taken from a liquor store display because he didn't know anything about wine and the label looked serious enough to be respectful. He'd put all of it in a paper grocery bag and set it on the back seat of the Cutlass, and now he was driving east toward [Telton Cemetery](/locations/telton-cemetery/) with the heater on and the Beast eating him from the inside out.
 
 Almost nothing left. He'd done the math that morning, lying in the dark behind the blackout curtains, counting the days since he'd last fed. Six nights since the gambler on Adams Street. The blood burning down a night's worth at a time — the tax the dead pay for pretending to be alive. He'd woken up with the hunger sitting on his chest like a physical weight, and for three bad seconds he'd thought about Marcus Webb, who sometimes stopped by the check-cashing storefront after dark, who trusted Darius, who had a pulse and a heartbeat and blood that would taste like loyalty and old friendship.
 
@@ -32,7 +32,7 @@ Someone was watching the cemetery. A professional — the heater discipline prov
 
 A hunter.
 
-The paper bag with Michael's gift sat on the back seat. The blanket, the candles, the Merlot. Darius looked at it in the rearview mirror and then looked at the street ahead and made a decision that felt less like a choice and more like a gear engaging.
+The paper bag with [Michael](/npcs/michael/)'s gift sat on the back seat. The blanket, the candles, the Merlot. Darius looked at it in the rearview mirror and then looked at the street ahead and made a decision that felt less like a choice and more like a gear engaging.
 
 The gift could wait. The sedan could not.
 
@@ -78,7 +78,7 @@ Rental agency in Indianapolis. Corporate card. Gideon Ministries, Inc.
 
 A church. The Inquisition didn't stamp its name on its mail. It used churches, nonprofits, ministerial associations — the bureaucratic camouflage of organized faith. Gideon Ministries was a shell, and inside the shell was a man with a stake and a notebook and the patience to sit in a frozen car counting a Malkavian's footprints.
 
-Darius put the napkin in his pocket and bought a clock radio from Marlene for twelve dollars because she expected him to buy something and the transaction was the relationship and the relationship was the network and the network was the architecture.
+Darius put the napkin in his pocket and bought a clock radio from [Marlene](/npcs/marlene-voss/) for twelve dollars because she expected him to buy something and the transaction was the relationship and the relationship was the network and the network was the architecture.
 
 ---
 
@@ -90,7 +90,7 @@ Darius used Dominate to walk him into the alley. Took six points. Enough to hurt
 
 Then he drove to Broadway and Fifth and fed twice more — split across a gambler and a stevedore, both valid, both cleaned, both left with headaches and nothing else. Methodical. Efficient. The way a machine feeds, not the way a person does.
 
-Full. The Beast retreated to its corner and went quiet, and Darius sat in the Cutlass outside his apartment with the engine off and the paper bag still on the back seat — candles, blanket, Merlot, all of it untouched — and thought about Sullivan Dane.
+Full. The Beast retreated to its corner and went quiet, and Darius sat in the Cutlass outside his apartment with the engine off and the paper bag still on the back seat — candles, blanket, Merlot, all of it untouched — and thought about [Sullivan Dane](/npcs/sullivan-dane/).
 
 The hunter was alone. No Inquisition backup, no partner, no institutional support beyond a rental car and a church credit card. He was building his case the way Darius built his networks: one data point at a time, alone, in the cold, with patience as his primary weapon.
 

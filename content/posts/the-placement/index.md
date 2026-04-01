@@ -16,7 +16,7 @@ description: "Seven locations. Four phone calls. Two girls who needed more than 
 
 [Sable](/sable-price/) could read it through the window — the geometry of a room that had shifted, the way a painting looks different when someone has moved the light source. [Victor](/npcs/victor-salonika/) behind the bar with his shoulders a quarter inch too high. The corner booth occupied by a man who wasn't drinking, whose posture said authority the way a uniform says it, except this man's authority was a dark suit and a badge wallet placed on the table like a chess piece you want your opponent to see before you move it.
 
-Federal. Not local. Gary cops drank at the bar and left their badges in the car. This man wore his investigation the way Sable wore Presence — visibly, deliberately, because the visibility was the point.
+Federal. Not local. Gary cops drank at the bar and left their badges in the car. This man wore his investigation the way [Sable](/sable-price/) wore Presence — visibly, deliberately, because the visibility was the point.
 
 She didn't go in. The math was simple: Appearance 5 walks into a federal agent's field of vision and Appearance 5 never leaves it. Men remembered her face the way they remembered car accidents — complete, involuntary, permanent. A face the Bureau could run. A face attached to a name attached to a Social Security number that belonged to a woman who was supposed to be in Chicago and was not supposed to exist in Gary at all.
 
@@ -24,7 +24,7 @@ Half a block south. The payphone outside the laundromat. Receiver that smelled l
 
 ---
 
-Three phone calls compressed into forty minutes. Darius to [Juggler](/npcs/juggler/). Juggler's verdict: second visit is a fishing trip, third comes with a subpoena, and the window between them was two weeks, maybe three. Don't touch the agent. Victor's ignorance is genuine and it's the best weapon they have.
+Three phone calls compressed into forty minutes. [Darius](/darius-cole/) to [Juggler](/npcs/juggler/). [Juggler](/npcs/juggler/)'s verdict: second visit is a fishing trip, third comes with a subpoena, and the window between them was two weeks, maybe three. Don't touch the agent. [Victor](/npcs/victor-salonika/)'s ignorance is genuine and it's the best weapon they have.
 
 The problem underneath the problem: Warren Birch needed to exist. Not as a name on a filing — as a body in a chair, a man who could sit across from [Shepard](/npcs/william-shepard/) and say *I bought a bar in Gary because the price was right* and bore the agent into closing the file.
 
@@ -46,7 +46,7 @@ He was standing at the window. Not sitting. The difference mattered. Sitting was
 
 "Tell me about [Allicia](/npcs/allicia/)."
 
-She told him. The calibrated report — painting, his name mentioned three times, the detail about the lake that she'd invented because it sounded like the kind of thing Modius wanted to hear, and it was the kind of thing Modius wanted to hear, and the fact that she could predict his desire that precisely was either a skill or a symptom of having spent too long inside his orbit.
+She told him. The calibrated report — painting, his name mentioned three times, the detail about the lake that she'd invented because it sounded like the kind of thing [Modius](/npcs/modius/) wanted to hear, and it was the kind of thing Modius wanted to hear, and the fact that she could predict his desire that precisely was either a skill or a symptom of having spent too long inside his orbit.
 
 He accepted it the way he accepted everything — by not rejecting it, which for Modius was enthusiasm.
 
@@ -80,7 +80,7 @@ The note on the counter. Block letters, ballpoint pen, no question marks because
 
 *WE NEED CLOTHES. AMY WONT EAT. IM NOT STUPID. WHERE DO YOU GO.*
 
-Sable sat on the kitchen floor and told the truth sideways. Drugs and crime. Close enough to the architecture of her actual life that the walls didn't buckle. Close enough to [Keisha](/npcs/keisha-williams/)'s Englewood vocabulary that the girl could hold it and it held her, and the relief on Keisha's face wasn't joy — it was the relief of a known quantity replacing a gap in the map where monsters live.
+Sable sat on the kitchen floor and told the truth sideways. Drugs and crime. Close enough to the architecture of her actual life that the walls didn't buckle. Close enough to [Keisha](/npcs/keisha-williams/)'s Englewood vocabulary that the girl could hold it and it held her, and the relief on [Keisha](/npcs/keisha-williams/)'s face wasn't joy — it was the relief of a known quantity replacing a gap in the map where monsters live.
 
 Then Amy. Three days without food. The blanket. The shaking. [Gloria Serrano](/npcs/gloria-serrano/) arrived at two-fifteen with a medical bag and hands that found veins on the first try and a diagnosis that landed in the room like something falling from a height: dissociative, acute, severe. Stable isn't recovering. Stable is holding the line.
 
@@ -98,7 +98,7 @@ The Cutlass on the Toll Road at four in the morning with two girls in the back s
 
 Sixty-Third and Dorchester. The grandmother's porch light. The door opening before Keisha reached it because the old woman had been awake since February, awake every night in case something exactly like this happened, and the hold lasted four seconds and the door closed and that was everything.
 
-Four houses down. Another green door. Okonkwo in reading glasses with a crossword and the quiet competence of a woman who'd been taking in the world's discarded children for two decades and had stopped asking where they came from because the answer didn't change the treatment. She took Amy the way she'd taken dozens before — blanket and all, into a room with clean sheets and a nightlight shaped like a seashell — and the exchange at the door was six hundred dollars and a deal: if the girl doesn't eat by tomorrow, I call the hospital, and you'll deal with whatever that brings.
+Four houses down. Another green door. [Okonkwo](/npcs/ms-okonkwo/) in reading glasses with a crossword and the quiet competence of a woman who'd been taking in the world's discarded children for two decades and had stopped asking where they came from because the answer didn't change the treatment. She took Amy the way she'd taken dozens before — blanket and all, into a room with clean sheets and a nightlight shaped like a seashell — and the exchange at the door was six hundred dollars and a deal: if the girl doesn't eat by tomorrow, I call the hospital, and you'll deal with whatever that brings.
 
 The Cutlass pulled away. The back seat was empty. The impression in the vinyl where Amy had sat was still warm.
 
@@ -122,7 +122,7 @@ Darius leaned against the wall. Sable leaned against the drill press. The silenc
 
 She closed her eyes. Not sleeping — the dead don't sleep. Resting in the way the dead rest, which is a stillness so complete that the building could mistake her for one of its machines.
 
-Twelve hours. And then the night would come back and there would be Modius and Shepard and Webb and Allicia and Denise and the Torch and the pipeline and Chicago watching and the clock ticking toward something that Sable could feel approaching the way she could feel the sun through cinderblock — not visible yet, not named, but present.
+Twelve hours. And then the night would come back and there would be Modius and [Shepard](/npcs/william-shepard/) and Webb and [Allicia](/npcs/allicia/) and Denise and [the Torch](/locations/the-torch/) and the pipeline and Chicago watching and the clock ticking toward something that Sable could feel approaching the way she could feel the sun through cinderblock — not visible yet, not named, but present.
 
 She'd placed the girls. She'd fed the Prince his report. She'd fed herself. She'd survived the night.
 

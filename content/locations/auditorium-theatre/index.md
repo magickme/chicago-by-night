@@ -25,9 +25,9 @@ ShowToc: false
 
 ## Function in Play
 
-- Elysium during formal events. Sullivan's golden arches and four thousand seats make it the grandest stage Chicago's Kindred use, and the most exposed.
+- Elysium during formal events. [Sullivan](/npcs/sullivan-dane/)'s golden arches and four thousand seats make it the grandest stage Chicago's Kindred use, and the most exposed.
 - The Blood Bond opera scene. A performance weaponized. When Bond rituals get dressed in evening wear and forced on an audience that cannot refuse without admitting what they are.
-- [Bach](/npcs/bach/)'s Sabbat bikers crash this venue. The concrete slab hiding Jefferson is somewhere in this building's foundations. Elysium shatters when the Sabbat come through the doors.
+- [Bach](/npcs/bach/)'s Sabbat bikers crash this venue. The concrete slab hiding [Jefferson](/npcs/jefferson-foster/) is somewhere in this building's foundations. Elysium shatters when the Sabbat come through the doors.
 
 ## Geographic Placement
 
@@ -40,4 +40,4 @@ ShowToc: false
 
 - Elysium by Prince's declaration. The Toreador claim cultural stewardship. The building's mortal management runs the calendar.
 - During events, Camarilla security is present but focused on decorum, not combat. The assumption is that Elysium holds because everyone agrees it should.
-- That assumption breaks when Bach's Sabbat riders arrive. The Theatre is not designed to withstand a firefight.
+- That assumption breaks when [Bach](/npcs/bach/)'s Sabbat riders arrive. The Theatre is not designed to withstand a firefight.

@@ -23,7 +23,7 @@ Members of La Belle Mort were recruiters for the Sabbat who traveled the globe i
 
 In 1996, Marie-Ange began having visions of the Snake Pit, Montreal's destroyed Setite temple. Determined to uncover the significance behind her waking dreams, Marie-Ange explored the burned-out ruins of the temple and uncovered what appeared to be the unconscious body of the infernalist [Sangris](/npcs/sangris/), who was supposedly destroyed in 1992. Marie-Ange hid the Serpent in her haven, hoping to unravel the mystery behind his miraculous survival, partial amnesia and the strange quality of his vitae.
 
-Marie-Ange's mysterious guest is none other than the Damned DeSoto's confused soul, which is trapped in [Terrence](/npcs/rev-terrence-coleman/) DeBouville's transformed body. Inspired by Sangris' memories, DeSoto is turning Marie-Ange's thirst for knowledge into something darker.
+Marie-Ange's mysterious guest is none other than the Damned DeSoto's confused soul, which is trapped in [Terrence](/npcs/rev-terrence-coleman/) DeBouville's transformed body. Inspired by [Sangris](/npcs/sangris/)' memories, DeSoto is turning Marie-Ange's thirst for knowledge into something darker.
 
 Marie-Ange's lab and adjoining rest quarters have been declared off-limits to everyone (supposedly to maintain the integrity of Marie-Ange's work, but, in truth, to hide her visitor).
 

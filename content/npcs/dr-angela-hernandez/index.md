@@ -18,6 +18,6 @@ ShowToc: false
 
 Grew up on Chicago's South Side. Full scholarship to the University of Chicago in the 1970s. Recruited by Iteration X during graduate school. [Rose](/npcs/the-rose/) through the ranks by being smarter, more methodical, and more willing to work sixteen-hour days than anyone around her.
 
-Founded Department 37 after identifying Chicago as a statistical outlier for unexplained deaths, disappearances, and anomalous medical data. The Center's cover is an art restoration laboratory near [the Art Institute](/locations/art-institute/). The basement contains things that would make the Art Institute's board of directors reconsider their lease agreement.
+Founded Department 37 after identifying Chicago as a statistical outlier for unexplained deaths, disappearances, and anomalous medical data. The Center's cover is an art restoration laboratory near [the Art Institute](/locations/art-institute/). The basement contains things that would make [the Art Institute](/locations/art-institute/)'s board of directors reconsider their lease agreement.
 
 She has never personally killed a vampire. She has ordered the termination of fourteen.

@@ -25,7 +25,7 @@ ShowToc: false
 
 ## Function in Play
 
-- Roarke's cult compound. Fifty wooded acres with an earthen amphitheater, underground tunnels, and enough isolation to muffle anything that happens here.
+- [Roarke](/npcs/roarke/)'s cult compound. Fifty wooded acres with an earthen amphitheater, underground tunnels, and enough isolation to muffle anything that happens here.
 - The Ashes to Ashes climax location. The investigation trail may end in this pasture, where the answers are worse than the questions.
 - Remote enough that rescue is not coming. Whatever [Darius](/darius-cole/) brings with him is all he has.
 

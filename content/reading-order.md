@@ -164,29 +164,35 @@ Published scenes from **Chicago Chronicles** in chronological order.
 
 *Chicago, Illinois. 1991. The coterie arrives as Modius's emissaries. The Prince is missing. The machine is bigger than anything Gary prepared them for.*
 
+### Pawns in the Game — Pawns in the Game
+
+*Oct 15, 1969, 7:00 PM through Oct 18, 1969, 7:00 PM.*
+
+| # | Scene | PC | Date |
+|---|---|---|---|
+| 53 | [At Ease In The Windy City](/posts/at-ease-in-the-windy-city/) | Chronicle | Oct 15, 1969, 7:00 PM |
+| 54 | [The Trip](/posts/the-trip/) | Chronicle | Oct 16, 1969, 6:00 PM |
+| 55 | [Settling In](/posts/settling-in/) | Chronicle | Oct 17, 1969, 7:14 AM |
+| 56 | [Pawns In The Game](/posts/pawns-in-the-game/) | Chronicle | Oct 17, 1969, 5:47 PM |
+| 57 | [The Auction](/posts/the-auction/) | Chronicle | Oct 18, 1969, 11:00 AM |
+| 58 | [Fools Errand](/posts/fools-errand/) | Chronicle | Oct 18, 1969, 7:00 PM |
+
 ### Chapter 1 — Ashes to Ashes
 
-*Jan 1, 1991, 4:28 PM through Jan 4, 1991.*
+*Jan 1, 1991, 4:28 PM through Jan 2, 1991, 11:00 PM.*
 
 | # | Scene | PC | Date |
 |---|---|---|---|
-| 53 | [Welcome To Chicago](/posts/welcome-to-chicago/) | Darius + Sable | Jan 1, 1991, 4:28 PM |
-| 54 | [Dinner With Ballard](/posts/dinner-with-ballard/) | Darius + Sable | Jan 2, 1991, 4:29 PM |
-| 55 | [Vacant Haven](/posts/vacant-haven/) | Darius + Sable | Jan 2, 1991, 9:30 PM |
-| 56 | [Rescued from Victory](/posts/rescued-from-victory/) | Darius + Sable | Jan 2-4, 1991 |
+| 59 | [Welcome To Chicago](/posts/welcome-to-chicago/) | Darius + Sable | Jan 1, 1991, 4:28 PM |
+| 60 | [Dinner With Ballard](/posts/dinner-with-ballard/) | Darius + Sable | Jan 2, 1991, 4:29 PM |
+| 61 | [Vacant Haven](/posts/vacant-haven/) | Darius + Sable | Jan 2, 1991, 9:30 PM |
+| 62 | [Rescued From Victory](/posts/rescued-from-victory/) | Darius + Sable | Jan 2, 1991, 11:00 PM |
 
-### Pawns in the Game
-
-*London, England. October 1969. Lodin's ghoul Roarke flies to London to attend an auction, guard a coffin, and carry a package. He does everything right.*
+### Chapter 3 — Ashes to Ashes
 
 | # | Scene | PC | Date |
 |---|---|---|---|
-| 57 | [At Ease in the Windy City](/posts/at-ease-in-the-windy-city/) | Roarke | October 1969 |
-| 58 | [The Trip](/posts/the-trip/) | Roarke | October 1969 |
-| 59 | [Settling In](/posts/settling-in/) | Roarke | October 1969 |
-| 60 | [Pawns in the Game](/posts/pawns-in-the-game/) | Roarke | October 1969 |
-| 61 | [The Auction](/posts/the-auction/) | Roarke | October 1969 |
-| 62 | [Fool's Errand](/posts/fools-errand/) | Roarke | October 1969 |
+| 63 | [Hell's Pasture](/posts/hells-pasture/) | Darius + Sable | Jan 4, 1991, 4:28 PM |
 
 ---
 

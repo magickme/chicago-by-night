@@ -20,7 +20,7 @@ ShowToc: false
 ## Physical Read
 
 - A big houseboat, well-maintained by marina standards. Not luxury — functional. The kind of boat owned by someone who lives on it.
-- Below deck: Union meeting space, weapon storage, communications. Turk's personal quarters in the stern.
+- Below deck: Union meeting space, weapon storage, communications. [Turk](/npcs/turk/)'s personal quarters in the stern.
 - The marina at McKinley Park: quiet at night, open water on one side, park green space on the other. The wind off Lake Michigan carries sound. N Lincoln Memorial Dr runs along the park's western edge — vehicle approaches are visible.
 - Docked among civilian boats. The Union's presence is discreet enough to avoid attention from marina management.
 
@@ -32,4 +32,4 @@ Union HQ. Turk's haven. A large houseboat docked at the McKinley Veterans Park m
 
 - Turk. His haven, his headquarters, his territory.
 - Union members maintain a presence. At least two or three on the boat at any time.
-- Through the Dominate chain: [Merik](/npcs/terence-merik/) controls the boat because Merik controls Turk.
+- Through the Dominate chain: [Merik](/npcs/terence-merik/) controls the boat because [Merik](/npcs/terence-merik/) controls Turk.

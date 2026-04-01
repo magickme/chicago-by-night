@@ -18,7 +18,7 @@ He lifted the receiver and said nothing. Listened to the bar noise and the breat
 
 "It's Ray." The dock foreman's voice was flat and stripped of its usual nervous music. "I'm at Stockton's. You need to come down here."
 
-Darius drove east with the windows cracked and the Cutlass pulling hot air through the cab. Eighty-four degrees and dropping slow. The mills put their orange haze on the cloud ceiling and the sodium lights turned every puddle into a copper mirror. He parked behind Stockton's and found Ray in the back booth with a bourbon he wasn't drinking.
+[Darius](/darius-cole/) drove east with the windows cracked and the Cutlass pulling hot air through the cab. Eighty-four degrees and dropping slow. The mills put their orange haze on the cloud ceiling and the sodium lights turned every puddle into a copper mirror. He parked behind Stockton's and found Ray in the back booth with a bourbon he wasn't drinking.
 
 Ray told him about the man who knew his name. A man whose face wouldn't hold in memory, whose clothes were the color of forgetting, who asked about the warehouse and Eddie and the FBI and then walked into a corner of the docks that didn't exist. A man who said the word "audit" like it was a title.
 
@@ -30,7 +30,7 @@ The conclusion was wrong. But it was clean and it was logical and it locked into
 
 He armed up at the haven. The Remington was under the bed in a gym bag, sawed down to eighteen inches, loaded, next to a .38 he'd taken as payment on a fence job and forgotten about. He put the snub-nose on his ankle and the shotgun in the bag and the bag over his shoulder and he drove back to the docks.
 
-The plan was simple: Ray at ground level, visible, the front man for whoever showed up at ten. Darius on the roof of the adjacent warehouse with the Remington and a sight line. Watch the meeting, confirm it was Danov's proxy, file the information, move on.
+The plan was simple: Ray at ground level, visible, the front man for whoever showed up at ten. Darius on the roof of the adjacent warehouse with the Remington and a sight line. Watch the meeting, confirm it was [Danov](/npcs/alexander-danov/)'s proxy, file the information, move on.
 
 He climbed the loading bay pallets and the drain pipe and rolled onto the tar paper roof at 9:35. Flat on his stomach. The waterfront spread below him in sodium orange and black: the berths, the access road, Ray's Nova in the Berth 7 lot, the container stacks to the south. Almost no moon. Dark sky for a man with no supernatural eyes.
 
@@ -54,11 +54,11 @@ He drove to [Modius](/npcs/modius/) at one in the morning. [Victor](/npcs/victor
 
 Darius gave the report the way a Ventrue gives a report. Three threats, described in order. The surveillance blind at Berth 8 with its Marlboro butts and binocular scuffs and weeks of patient watching. The thing on the water that moved too fast behind the Berth 3 hull. The Gangrel waymarker carved fresh into the rail spur tie.
 
-Modius recognized the mark. Old tradition. Claimed ground, pass through, do not hunt. [Lucian](/npcs/lucian/) had used them decades ago and stopped when they reached their arrangement.
+[Modius](/npcs/modius/) recognized the mark. Old tradition. Claimed ground, pass through, do not hunt. [Lucian](/npcs/lucian/) had used them decades ago and stopped when they reached their arrangement.
 
 "If new ones are appearing," the Prince said, "someone is reasserting a claim."
 
-He ordered Darius to continue. Watch for more markers. Identify the water presence. Do not approach Lucian. That last part was not a suggestion.
+He ordered Darius to continue. Watch for more markers. Identify the water presence. Do not approach [Lucian](/npcs/lucian/). That last part was not a suggestion.
 
 Darius drove north along the dock road at two in the morning with the report delivered and the Prince's order in his pocket and one more task to complete before dawn. He needed blood.
 

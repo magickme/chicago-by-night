@@ -20,11 +20,11 @@ A man named Harvey walked in carrying a clipboard and the expression of someone 
 
 He said it the way a dentist says *open wide.*
 
-[Amber](/npcs/amber/) went down first. [Roarke](/npcs/roarke/) caught her eye -- the look that sixty-one years teaches you to send without moving your face -- and she understood. Her breathing changed. Her hands started shaking with something that looked real because she was remembering something real to fuel it. She grabbed the edge of the detector frame and her knees buckled and Harvey turned and everyone turned and Roarke jerked his chin at [Derek](/npcs/derek-gallen/) and the two of them carried the crate into a maintenance alcove on the far wall while [Natasha](/npcs/natasha/) blocked the sightline.
+[Amber](/npcs/amber/) went down first. [Roarke](/npcs/roarke/) caught her eye -- the look that sixty-one years teaches you to send without moving your face -- and she understood. Her breathing changed. Her hands started shaking with something that looked real because she was remembering something real to fuel it. She grabbed the edge of the detector frame and her knees buckled and Harvey turned and everyone turned and [Roarke](/npcs/roarke/) jerked his chin at [Derek](/npcs/derek-gallen/) and the two of them carried the crate into a maintenance alcove on the far wall while [Natasha](/npcs/natasha/) blocked the sightline.
 
 Concrete walls. No windows. The brass fittings stopped catching anything.
 
-Harvey came back. Five suitcases for four visible people. He opened them one by one and asked who they belonged to. [Lodin](/npcs/lodin/)'s was the blue one -- wrong size for everyone here. Roarke said it was clothes Amber packed for her father in Kensington. Amber, still catching her breath on a folding chair, nodded. Dad's hopeless about shopping for himself, she said. Harvey checked the manifest. There was a large wooden chest listed. Where was it?
+Harvey came back. Five suitcases for four visible people. He opened them one by one and asked who they belonged to. [Lodin](/npcs/lodin/)'s was the blue one -- wrong size for everyone here. Roarke said it was clothes [Amber](/npcs/amber/) packed for her father in Kensington. Amber, still catching her breath on a folding chair, nodded. Dad's hopeless about shopping for himself, she said. Harvey checked the manifest. There was a large wooden chest listed. Where was it?
 
 Roarke lied. Harvey didn't buy it. He started walking toward the alcove.
 
@@ -32,7 +32,7 @@ Roarke stepped into his path and caught his eyes. The borrowed power in his bloo
 
 Right, Harvey said. That's all in order. Welcome to England.
 
-They rented a Ford Transit from Hertz. White, smelled like cigarettes and the ghost of a dog. Roarke navigated from Lodin's map and watched the mirrors at the same time. London through the windshield looked nothing like Chicago -- older, smaller, buildings that had been standing since before the country Roarke worked for existed. Red buses and black cabs and people carrying umbrellas they hadn't opened yet.
+They rented a Ford Transit from Hertz. White, smelled like cigarettes and the ghost of a dog. Roarke navigated from [Lodin](/npcs/lodin/)'s map and watched the mirrors at the same time. London through the windshield looked nothing like Chicago -- older, smaller, buildings that had been standing since before the country Roarke worked for existed. Red buses and black cabs and people carrying umbrellas they hadn't opened yet.
 
 Nobody followed them from Heathrow. Every car behind them accounted for over twenty minutes.
 

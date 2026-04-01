@@ -17,7 +17,7 @@ ShowToc: false
 </div>
 </div>
 
-Stephanie first came to the attention of her sire, [Maciej Zarnovich](/npcs/zarnovich/), when she was hospitalized for extensive third-degree burns suffered when she set her family home ablaze. The inhuman pleasure she took in the fire intrigued Zarnovich. Not only did the flames fascinate her, but she remembered being burned as a moment of ecstasy. The Tzimisce circus-owner Embraced her upon her release from intensive care.
+Stephanie first came to the attention of her sire, [Maciej Zarnovich](/npcs/zarnovich/), when she was hospitalized for extensive third-degree burns suffered when she set her family home ablaze. The inhuman pleasure she took in the fire intrigued [Zarnovich](/npcs/zarnovich/). Not only did the flames fascinate her, but she remembered being burned as a moment of ecstasy. The Tzimisce circus-owner Embraced her upon her release from intensive care.
 
 Entranced by the possibilities of Vicissitude, Stephanie molded her body and dreamed of melding with the flames she loved. She first served as a contortionist and later as a fire-eater in her sire's freak show. She even wove steel bands into her flesh to toughen it against the flames she adored. Stephanie also started down the Path of Power and the Inner Voice. Learning to pursue her own goals above all else, she felt compelled to leave the circus because Zarnovich put the transformation of mortals above vampiric evolution. However, she has never broken her bond with her sire.
 

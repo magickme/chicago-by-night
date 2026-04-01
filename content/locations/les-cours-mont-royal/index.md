@@ -19,7 +19,7 @@ ShowToc: false
 
 ## Physical Read
 
-- A former luxury hotel converted to a shopping center in the 1980s. Five stories of marble, brass, and skylit atria. During the day, mortals shop for things they can't afford. After hours, the building belongs to Valez.
+- A former luxury hotel converted to a shopping center in the 1980s. Five stories of marble, brass, and skylit atria. During the day, mortals shop for things they can't afford. After hours, the building belongs to [Valez](/npcs/carolina-valez/).
 - The Archbishop's quarters occupy the upper floors, sealed off by locked stairwells and ghouls who don't ask questions. The rooms retain the hotel's original grandeur — crown molding, parquet floors, chandeliers that cast light on walls that have absorbed screaming.
 - The contrast is the point. Gilded authority over a shopping mall. The Sabbat version of the Camarilla's Elysium, except here the violence is not hidden but deferred.
 

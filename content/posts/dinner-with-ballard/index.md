@@ -12,9 +12,9 @@ description: "Three hundred pounds of Ventrue authority orders wine and porterho
 
 ---
 
-The ghoul held the car door at the Hyatt's lower entrance, and the cold came in like a blade — sixteen degrees and dropping, the kind of January that turns breath to glass before it leaves your mouth. [Sable](/sable-price/) slid into the back seat. Darius followed. Neither spoke. The town car smelled like Armor All and something botanical, an air freshener that cost more than her first month's rent on State Street.
+The ghoul held the car door at the Hyatt's lower entrance, and the cold came in like a blade — sixteen degrees and dropping, the kind of January that turns breath to glass before it leaves your mouth. [Sable](/sable-price/) slid into the back seat. [Darius](/darius-cole/) followed. Neither spoke. The town car smelled like Armor All and something botanical, an air freshener that cost more than her first month's rent on State Street.
 
-Michigan Avenue at six o'clock. The Magnificent Mile in winter through tinted glass, all light and stone, and Sable could feel the difference between this city and Gary the way you feel the difference between a house where someone lives and a house where someone died. She had been here twice as a mortal — once on a school trip and once with a man whose name she kept in a locked room in her memory and did not open. Chicago looked the same both times. It looked the same now. Big and clean and indifferent, and the cold made the buildings taller.
+Michigan Avenue at six o'clock. The Magnificent Mile in winter through tinted glass, all light and stone, and [Sable](/sable-price/) could feel the difference between this city and Gary the way you feel the difference between a house where someone lives and a house where someone died. She had been here twice as a mortal — once on a school trip and once with a man whose name she kept in a locked room in her memory and did not open. Chicago looked the same both times. It looked the same now. Big and clean and indifferent, and the cold made the buildings taller.
 
 The ghoul pulled to the curb on North State Street. No sign on the building, just brass numbers and a doorman who opened the car door before the engine stopped turning. Daley's. She could see white tablecloths through the front window, the particular quality of light that means money has been spent on fixtures nobody will ever notice.
 
@@ -28,7 +28,7 @@ He was enormous. Three hundred pounds in a suit tailored to accommodate the body
 
 They sat. Sable took the chair across from him because geometry is a language she speaks and the position said: I am facing you. I am not hiding. She put her hands in her lap and her spine against the chair back and her chin level, the way she'd learned to sit in rooms where sitting is a statement — rooms she'd been in before she was dead, rooms with men who watched you sit down and decided what you were worth before you opened your mouth.
 
-The wine arrived without being ordered. Red, heavy, French — the smell hit her like a wall, oak and tannin and the particular wrongness of anything that is not blood, her body identifying it instantly as nothing, as absence, as the opposite of what she needed. Ballard poured for her first. Filled the glass to the rim.
+The wine arrived without being ordered. Red, heavy, French — the smell hit her like a wall, oak and tannin and the particular wrongness of anything that is not blood, her body identifying it instantly as nothing, as absence, as the opposite of what she needed. [Ballard](/npcs/ballard/) poured for her first. Filled the glass to the rim.
 
 "Drink."
 
@@ -48,7 +48,7 @@ He didn't look at her. He was looking at Darius, and the dismissal was so comple
 
 "[Darius Cole](/darius-cole/)," Darius said. "Tenth generation."
 
-Ballard went still. The stillness of something large recalculating. "Tenth generation. Modius sent a tenth-generation Ventrue as a courier. Either he respects Chicago more than I thought, or he respects you less than you think."
+Ballard went still. The stillness of something large recalculating. "Tenth generation. [Modius](/npcs/modius/) sent a tenth-generation Ventrue as a courier. Either he respects Chicago more than I thought, or he respects you less than you think."
 
 He ate another piece of steak. The knife moved through the meat with a surgeon's ease.
 
@@ -74,15 +74,15 @@ Something crossed Ballard's face. Quick, absorbed by the fat before it could bec
 
 "Who told them."
 
-"I did. We had no choice." Neally's voice was smooth, bureaucratic — quarterly report cadence. "If we look for him ourselves, everyone will know something is wrong. The Primogen's will is to keep it among themselves for a few days. That gives us time. But we need people looking. People no one in Chicago knows."
+"I did. We had no choice." [Neally](/npcs/neally-edwards/)'s voice was smooth, bureaucratic — quarterly report cadence. "If we look for him ourselves, everyone will know something is wrong. The Primogen's will is to keep it among themselves for a few days. That gives us time. But we need people looking. People no one in Chicago knows."
 
 He looked at Sable. At Darius. Back to Ballard.
 
 "Them."
 
-The silence stretched. Restaurant sounds filled it — silverware, conversation, someone laughing three tables away in a world where Princes don't vanish from their havens and three-hundred-pound vampires don't eat bread with butter on their chins and two neonates from a dying steel town don't sit in Gold Coast restaurants trying to keep lobster down.
+The silence stretched. Restaurant sounds filled it — silverware, conversation, someone laughing three tables away in a world where Princes don't vanish from their havens and three-hundred-pound vampires don't eat bread with butter on their chins and two neonates from a dying steel town don't sit in [Gold Coast](/locations/gold-coast/) restaurants trying to keep lobster down.
 
-"Fine," Ballard said. He leaned forward. His voice dropped to the frequency that only dead ears were made to hear. "I will destroy you with my own hands if any among you speak to anyone about this. No one must know about the disappearance of Lodin. Do I make myself clear?"
+"Fine," Ballard said. He leaned forward. His voice dropped to the frequency that only dead ears were made to hear. "I will destroy you with my own hands if any among you speak to anyone about this. No one must know about the disappearance of [Lodin](/npcs/lodin/). Do I make myself clear?"
 
 "[Crystal](/npcs/crystal-spinner/)," Sable said.
 
@@ -90,7 +90,7 @@ He held her gaze a moment longer than necessary. Then he grunted and lifted a ha
 
 "[Belthazar](/npcs/belthazar/). He goes where you go. He sees what you see."
 
-Belthazar looked at Sable the way a man looks at a parking meter.
+[Belthazar](/npcs/belthazar/) looked at Sable the way a man looks at a parking meter.
 
 Ballard pushed back. The chair groaned under him. "As if you didn't already know where he is. Do not play your game past tomorrow night, Neonates."
 

@@ -32,5 +32,5 @@ ShowToc: false
 ## Who Controls It
 
 - No single Kindred claims the Promenades. It functions as communal Sabbat infrastructure — everyone uses it, nobody owns it.
-- The Underground City connections make it valuable as a transit node. [Elias the Whale](/npcs/elias-the-whale/)'s influence extends here through the tunnel network.
+- The [Underground City](/locations/underground-city/) connections make it valuable as a transit node. [Elias the Whale](/npcs/elias-the-whale/)'s influence extends here through the tunnel network.
 - Mall security is mortal and oblivious. The Sabbat presence exists in the margins — the utility spaces, the after-hours corridors, the places where mortal attention doesn't reach.

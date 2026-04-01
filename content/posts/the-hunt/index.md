@@ -14,7 +14,7 @@ description: "Four nights without blood and the east side of Gary looks like a d
 
 The water main had Broadway looking like a wound. Orange cones in standing water, utility trucks parked at angles that blocked two lanes, and the sodium lights out from Fifth to Ninth so the strip looked the way Gary would look if everyone finally gave up and left. [Sable](/sable-price/) took Ridge Road east instead, and the city changed under the tires the way it always changed when you drove toward the lake -- the buildings got smaller, the lots got wider, and the air coming through the cracked window carried something green and sandy that didn't belong to the Gary she knew.
 
-Reva's bar didn't have a name. It had a Hamm's sign in the window and a painted number on the cinder block and a screen door that stuck halfway, and inside it smelled like fryer grease and Kool smoke and the pine cleaner somebody had used on the floor while the sun was still up. Three people. A box fan in the window moving the heat around. The bartender -- Reva Watts, mid-forties, heavyset, coral nails, a gold chain that said her name in cursive -- looked up when Sable walked in and did the quick inventory that women do when another woman enters a room and the math doesn't add up.
+Reva's bar didn't have a name. It had a Hamm's sign in the window and a painted number on the cinder block and a screen door that stuck halfway, and inside it smelled like fryer grease and Kool smoke and the pine cleaner somebody had used on the floor while the sun was still up. Three people. A box fan in the window moving the heat around. The bartender -- Reva Watts, mid-forties, heavyset, coral nails, a gold chain that said her name in cursive -- looked up when [Sable](/sable-price/) walked in and did the quick inventory that women do when another woman enters a room and the math doesn't add up.
 
 The man at the bar wore a blue work polo with DALE embroidered over the pocket. Mid-thirties, built the way men were built in Gary, forearms and no definition, the kind of body that came from lifting things heavier than himself for money that was never enough. Wedding ring. An upside-down shot glass next to his Budweiser, which meant he'd been here long enough to have a history with the evening. He hadn't looked up yet.
 
@@ -44,7 +44,7 @@ Kendrick's smelled like motor oil and cold Popeyes and the cinderblock dark that
 
 "Olds only shows Monday," DeShawn said. "Told him stay close, stay sober, be back Sunday night."
 
-She sent them out. Pete to The Torch -- he'd been inside before, he was young enough to pass for a customer. DeShawn to drive by the mansion in Coop's Caprice. She waited at Kendrick's with the oil smell and the cold chicken and the blood settling in her chest like a warm tide.
+She sent them out. Pete to [The Torch](/locations/the-torch/) -- he'd been inside before, he was young enough to pass for a customer. DeShawn to drive by the mansion in Coop's Caprice. She waited at Kendrick's with the oil smell and the cold chicken and the blood settling in her chest like a warm tide.
 
 Pete called from a payphone at 10:15. She's there. At the piano. Been back since Thursday. Playing like she used to. "She looked like she was waiting for somebody."
 
@@ -52,7 +52,7 @@ DeShawn twelve minutes later. Mansion quiet. One car, [Modius](/npcs/modius/)'s 
 
 The Torch on a Saturday was sixty bodies and Motown bass and cigarette smoke thick enough to taste. [Victor](/npcs/victor-salonika/) behind the bar gave her the nod and nothing else. She took a stool at the dark end and ordered a whiskey she wouldn't touch and watched [Allicia](/npcs/allicia/) play through the gaps between shoulders and raised glasses and the backs of men who didn't know what was ten feet from them.
 
-Allicia in white. Hair pinned up. Playing something slow and minor-key that lived underneath the jukebox like a second conversation nobody else could hear. Her fingers hesitated on a chord when Sable walked in, and that hesitation said everything about who she'd been waiting for.
+[Allicia](/npcs/allicia/) in white. Hair pinned up. Playing something slow and minor-key that lived underneath the jukebox like a second conversation nobody else could hear. Her fingers hesitated on a chord when Sable walked in, and that hesitation said everything about who she'd been waiting for.
 
 Three songs. A man tried to buy Sable a drink and she smiled him away. The jukebox played Bobby Brown and the piano disappeared under it. Allicia closed the fallboard with both hands and walked toward the back hallway without looking at her.
 
@@ -86,7 +86,7 @@ Sable drove to Kendrick's with the folded pages in her jacket pocket and the tas
 
 She burned the pages in an empty Quaker State can behind the garage. The pen-light paper curled and the words went -- *the bond*, *every night*, *a tourniquet* -- and the smoke smelled like nothing because there was nothing on those pages anyone would ever read again.
 
-Inside, she ran the Monday brief. Spoon back Sunday. DeShawn overwatch. Coop on call. Sable on foot. Watching first.
+Inside, she ran the Monday brief. [Spoon](/npcs/spoon-antoine/) back Sunday. DeShawn overwatch. Coop on call. Sable on foot. Watching first.
 
 "Monday. Eleven sharp. Nobody's late."
 

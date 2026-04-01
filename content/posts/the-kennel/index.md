@@ -70,7 +70,7 @@ Little Pete added one thing. Quiet. "Six owed money. To somebody in Chicago. He 
 
 Chicago again. The gravity well. The city that owned this one reaching its fingers through debt into every structure that could bear weight.
 
-A burgundy Oldsmobile passed them on Fifteenth heading east and then passed them again on Adams heading south. Same car. Same speed. Same tinted windows hiding a driver Sable couldn't make out even with her senses at maximum. Could be nothing. Saturday night, people cruise. She filed it where she filed things that might be nothing and might be everything and would reveal which they were at the worst possible moment.
+A burgundy Oldsmobile passed them on Fifteenth heading east and then passed them again on Adams heading south. Same car. Same speed. Same tinted windows hiding a driver [Sable](/sable-price/) couldn't make out even with her senses at maximum. Could be nothing. Saturday night, people cruise. She filed it where she filed things that might be nothing and might be everything and would reveal which they were at the worst possible moment.
 
 ---
 
@@ -86,7 +86,7 @@ Two hours. The building settled around her. The Spanish conversation on the side
 
 ---
 
-She found Allicia at the Rack. Pressed into the shadow of a closed barbershop two doors from [the Torch](/locations/the-torch/), making herself small the way the starving make themselves small — not to hide but because the body contracts when there's nothing left to fuel expansion. Her aura read pale, grey, threaded with hunger, and underneath it a strand of rose-gold pulling toward the Caprice like a needle finding north.
+She found [Allicia](/npcs/allicia/) at the Rack. Pressed into the shadow of a closed barbershop two doors from [the Torch](/locations/the-torch/), making herself small the way the starving make themselves small — not to hide but because the body contracts when there's nothing left to fuel expansion. Her aura read pale, grey, threaded with hunger, and underneath it a strand of rose-gold pulling toward the Caprice like a needle finding north.
 
 "Come with me," Sable said.
 
@@ -96,7 +96,7 @@ Allicia pulled back with blood on her lips and color in her skin and her eyes he
 
 ---
 
-The studio. Sable called Darius.
+The studio. Sable called [Darius](/darius-cole/).
 
 "Big Six is gone. I've got his people. One of them says he owed money to somebody in Chicago."
 

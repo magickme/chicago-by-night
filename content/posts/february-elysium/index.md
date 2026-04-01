@@ -18,7 +18,7 @@ The mansion on Miller Beach sat at the end of a dead street the way a casket sit
 
 Nine o'clock. The hallway smelled like lemon polish and wet plaster. [Modius](/npcs/modius/)'s hell-paintings lined the walls, figures burning in landscapes that looked like Gary through a cracked windshield. Sable walked through them the way she'd walked through the Robert Taylor Homes at fourteen: eyes forward, inventory running. Exits, sight lines, the particular weight of a building that knows it's dying and hasn't told anyone yet.
 
-The drawing room. Piano lid closed. Modius stood at the window in a charcoal suit that was expensive when Kennedy was president. He turned. The smile arrived on schedule.
+The drawing room. Piano lid closed. [Modius](/npcs/modius/) stood at the window in a charcoal suit that was expensive when Kennedy was president. He turned. The smile arrived on schedule.
 
 "Sable. Punctual. I appreciate that."
 
@@ -48,7 +48,7 @@ Canvases against the wall. The hell-paintings from the hallway had siblings here
 
 On the easel by the window, a canvas under a drop cloth. She lifted the corner.
 
-Allicia. Oil and something else. Vitae mixed into the flesh tones, giving the painted skin a warmth that pigment alone couldn't produce. Below the collarbone, the figure dissolved into the same charcoal hellscape as every other canvas in the room. Fire and ruin eating her from the feet up. Or building her out of it. The painting didn't know which.
+[Allicia](/npcs/allicia/). Oil and something else. Vitae mixed into the flesh tones, giving the painted skin a warmth that pigment alone couldn't produce. Below the collarbone, the figure dissolved into the same charcoal hellscape as every other canvas in the room. Fire and ruin eating her from the feet up. Or building her out of it. The painting didn't know which.
 
 He'd been painting her for months. The woman he bonded in 1941, rendered over and over in layers of oil and blood, dissolving into the city he'd failed to hold.
 
@@ -70,7 +70,7 @@ She looked at Sable. Nodded once. The door closed, quiet as a coffin lid.
 
 Nine-fifty. [Darius](/darius-cole/) parked the Cutlass three blocks south on a residential street where the streetlights had quit. He walked the last stretch in the cold. Heavy coat, clean shirt, the check-cashing man calling on his prince. Three weeks since he'd been here. The mansion looked the same way Gary always looked: unchanged until you noticed the new crack in the foundation.
 
-Victor in the foyer.
+[Victor](/npcs/victor-salonika/) in the foyer.
 
 "Mr. Birch. We haven't seen you."
 
@@ -82,7 +82,7 @@ The sheepish grin. The apologetic posture. "Yeah, I wasn't sure about the schedu
 
 The ballroom. Moth-eaten curtains, half-dead chandelier, chairs in a semicircle facing an armchair that wasn't a throne because Modius wasn't that obvious. Dust and old carpet and the particular staleness of money that stopped circulating.
 
-Three Kindred already present. Darius read the room in a sweep. [Lucian](/npcs/lucian/) in a wingback chair apart from the semicircle, arms folded, the posture of a man who attended court the way a lion attends a dog show. [Claudette](/npcs/claudette-mallet/) beside him, standing. Eighteen forever, watching everything with the flat attention of a blade laid on a table.
+Three Kindred already present. [Darius](/darius-cole/) read the room in a sweep. [Lucian](/npcs/lucian/) in a wingback chair apart from the semicircle, arms folded, the posture of a man who attended court the way a lion attends a dog show. [Claudette](/npcs/claudette-mallet/) beside him, standing. Eighteen forever, watching everything with the flat attention of a blade laid on a table.
 
 And at the piano, a woman he'd never seen. Black, early twenties, the kind of face that rearranged a room's gravity just by existing in it. She stood with the practiced stillness of someone who'd been managing the weight of being looked at since long before she died.
 
@@ -106,11 +106,11 @@ Modius's gaze found Darius. "Mr. Birch. How good of you to join us again. I was 
 
 Light tone. Heavy freight. Every Kindred in the room heard the leash check. Darius met it with a nod. Low enough for respect. Spine straight enough for something else. He settled back in his chair with the unhurried ease of a man whose three weeks had been full, and Modius held his gaze for two beats and moved on, because a prince who pushes a neonate in public over a missed court looks petty, and Modius had spent two centuries avoiding that.
 
-"Some of you have not yet met our newest member of court. Sable Price, Toreador, recently of Chicago."
+"Some of you have not yet met our newest member of court. [Sable Price](/sable-price/), Toreador, recently of Chicago."
 
 The room turned. Sable stood near the windows. For half a second the old software booted up in her body, the geometry of seduction that had worked on a thousand men in a hundred rooms, the chin tilt and the shoulder angle and the weight shifting to one hip. It started in her body before her mind caught up.
 
-Then she saw them. Really saw them. Lucian, who'd served under Caesar and didn't blink enough. Danov, whose ruined face had been reading the dead since before Gutenberg. Claudette, calculating how fast she could take apart everything in the room. Modius, smiling his collector's smile.
+Then she saw them. Really saw them. [Lucian](/npcs/lucian/), who'd served under Caesar and didn't blink enough. [Danov](/npcs/alexander-danov/), whose ruined face had been reading the dead since before Gutenberg. [Claudette](/npcs/claudette-mallet/), calculating how fast she could take apart everything in the room. Modius, smiling his collector's smile.
 
 These were not men. These were not marks. These were Greenland sharks circling in cold water, and the rules she'd learned at The Oasis meant nothing down here.
 

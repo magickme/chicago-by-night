@@ -23,7 +23,7 @@ ShowToc: false
 
 - The Rack's other anchor. If the [Succubus Club](/locations/succubus-club/) is where Chicago's Kindred conduct politics over absinthe, Blue Velvet is where they hunt without pretending they came for the conversation. Less formal, less observed, more dangerous.
 - Feeding ground that multiple Kindred use without formal claim. Rack territory means shared access and shared risk. The absence of a single controlling elder makes it both useful and volatile.
-- Alternative social venue for Kindred who find the Succubus Club too performative or too monitored. The politics at Blue Velvet happen between drinks, not as the main event.
+- Alternative social venue for Kindred who find the [Succubus Club](/locations/succubus-club/) too performative or too monitored. The politics at Blue Velvet happen between drinks, not as the main event.
 
 ## Physical Read
 

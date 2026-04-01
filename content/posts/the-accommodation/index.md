@@ -16,17 +16,17 @@ description: "A rumor about her sire. A prince who wants a pet. A dance studio t
 
 "Your friend in Roselle. The painter."
 
-[Sable](/sable-price/) had been sitting at the bar for twenty minutes, nursing a drink she couldn't taste, watching the door the way she watched every door, with her body angled away and her attention locked on the mirror behind the bottles where the reflection showed everything the room thought she wasn't looking at. Monday night at The Torch. Four mortals at a table by the wall. A woman alone in the corner booth with a cigarette and a crossword puzzle. The jukebox playing Sam Cooke low enough that the song was more a feeling than a sound.
+[Sable](/sable-price/) had been sitting at the bar for twenty minutes, nursing a drink she couldn't taste, watching the door the way she watched every door, with her body angled away and her attention locked on the mirror behind the bottles where the reflection showed everything the room thought she wasn't looking at. Monday night at [The Torch](/locations/the-torch/). Four mortals at a table by the wall. A woman alone in the corner booth with a cigarette and a crossword puzzle. The jukebox playing Sam Cooke low enough that the song was more a feeling than a sound.
 
 "What about him," she said.
 
-Victor set the glass down. Picked up another. The bartender's rhythm, the metronome of a man who measured his life in clean surfaces.
+[Victor](/npcs/victor-salonika/) set the glass down. Picked up another. The bartender's rhythm, the metronome of a man who measured his life in clean surfaces.
 
 "Word is his wife caught him in something. Took it to the Primogen. He's been called to answer."
 
 The word *wife* landed first. Then *Primogen*. Then the distance between what Victor was saying and what he meant, which was this: [Michael](/npcs/michael/) [Payne](/npcs/sharon-payne/), the man who made her, the man who put the curse in her blood and left her in Gary like a painting hung in a room nobody visits, had been dragged before the ruling council of Chicago by the woman he'd left.
 
-"When," Sable said.
+"When," [Sable](/sable-price/) said.
 
 "Nobody's seen him in a week."
 
@@ -66,7 +66,7 @@ The door opened.
 
 ---
 
-[Modius](/npcs/modius/) was standing by the fireplace. No fire. The mantel framing him like a proscenium, and he knew it, and that was the thing about Modius: he was always performing the role of prince, even alone, even in a dead city, even when the audience was one fledgling in a slip who'd come to sell him the only thing she had left.
+[Modius](/npcs/modius/) was standing by the fireplace. No fire. The mantel framing him like a proscenium, and he knew it, and that was the thing about [Modius](/npcs/modius/): he was always performing the role of prince, even alone, even in a dead city, even when the audience was one fledgling in a slip who'd come to sell him the only thing she had left.
 
 "Sable." He tasted the name. "Three nights since court and here you are. I wasn't expecting you until February."
 
@@ -112,7 +112,7 @@ She saw the pointe shoes before she understood them. Hanging from the ballet bar
 
 On the back wall, near the office door, a framed photograph. Small, dusty, the glass cracked in one corner. Black and white. A woman at the barre, in this room, in front of this mirror.
 
-Allicia.
+[Allicia](/npcs/allicia/).
 
 Sable stood in the middle of the floor and looked at the photograph and understood what Modius had done, whether he'd meant to do it or not. This was Allicia's room. Before the mansion. Before the piano. Before she became the thing on the mantel he'd stopped seeing. Allicia danced here, on this floor, in front of this mirror. Then she stopped, or was stopped, and Modius held the room the way he held everything, not because he needed it but because ownership was the only verb he conjugated, and now he'd handed it to the next one. The new acquisition. The upgrade.
 
@@ -122,7 +122,7 @@ She drove to Polk Street. Took what she needed, left the coat. The fur coat stay
 
 Back at Fifth Avenue she braced the office door and checked the walls for light and lay on the hardwood floor in the dark, and the mirror showed nothing because there was no light to show it by, and outside the boarded windows Gary was doing what Gary did at two in the morning, which was dying, which was the same thing it did at every other hour, only quieter.
 
-She thought about Michael. The painter. The sire. The man who'd put his teeth in her neck in a loft in Roselle and whispered *I'm sorry* while he did it. Gone now. Called to answer by the woman he'd left, and the answer would be the kind of answer given in a room full of old things that had stopped pretending to be alive.
+She thought about [Michael](/npcs/michael/). The painter. The sire. The man who'd put his teeth in her neck in a loft in Roselle and whispered *I'm sorry* while he did it. Gone now. Called to answer by the woman he'd left, and the answer would be the kind of answer given in a room full of old things that had stopped pretending to be alive.
 
 She thought about Modius. The key. The drawing room. The finger under her chin. *You're very good at this.* She was. She'd always been good at this. The question nobody asked, because nobody wanted to hear the answer, was what *this* cost the person who was good at it. What it took out of you to kneel on a cold floor and mean it and not mean it at the same time, to perform devotion so well that you couldn't tell afterward which parts were real. The Oasis had taught her that. The Embrace had just given her forever to practice.
 

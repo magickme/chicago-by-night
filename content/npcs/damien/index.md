@@ -17,7 +17,7 @@ ShowToc: false
 </div>
 </div>
 
-The boy was born in 1954 in Chicago. His mortal name is not recorded anywhere in Kindred archives. What is recorded: sometime in the late 1960s, Critias — Brujah Primogen, 5th generation, Embraced in ancient Greece, childe of [Menele](/npcs/menele/) — found a fourteen-year-old street kid and, in what the source material describes as "a stupor," drained him and brought him back.
+The boy was born in 1954 in Chicago. His mortal name is not recorded anywhere in Kindred archives. What is recorded: sometime in the late 1960s, [Critias](/npcs/critias/) — Brujah Primogen, 5th generation, Embraced in ancient Greece, childe of [Menele](/npcs/menele/) — found a fourteen-year-old street kid and, in what the source material describes as "a stupor," drained him and brought him back.
 
 Critias did not stay. He did not explain what had happened. He did not teach the boy to feed, to hide, to manage the hunger that replaced the one he had known. He Embraced a child and walked away.
 
@@ -29,6 +29,6 @@ He has not come to terms with his need for blood. The hunger disgusts him. He ov
 
 His one genuine relationship is with Johann, a Malkavian elder. The attachment runs deeper than normal friendship or Blood Bond. Johann sees something in Damien that the boy cannot see in himself. The nature of that connection remains unexplained.
 
-[Belthazar](/npcs/belthazar/), the Sheriff, persecutes Damien when he can find him. Belthazar does not know that the child he harasses carries 6th-generation vitae — Potence 5, Celerity 4, enough raw physical power to destroy most elders in direct combat. Damien staked the Sheriff during the events of Ashes to Ashes, an act that should have been impossible for a street waif. It was not impossible. It was easy.
+[Belthazar](/npcs/belthazar/), the Sheriff, persecutes Damien when he can find him. [Belthazar](/npcs/belthazar/) does not know that the child he harasses carries 6th-generation vitae — Potence 5, Celerity 4, enough raw physical power to destroy most elders in direct combat. Damien staked the Sheriff during the events of Ashes to Ashes, an act that should have been impossible for a street waif. It was not impossible. It was easy.
 
-The source material ends with a warning: "If there are to be any surprises in the Jyhad, they may come from this diminutive Brujah." A child abandoned by his sire, ignored by the Camarilla, persecuted by the Sheriff, carrying power that no one in Chicago properly understands. Critias's shame. Menele's grandchilde. Chicago's wild card.
+The source material ends with a warning: "If there are to be any surprises in the Jyhad, they may come from this diminutive Brujah." A child abandoned by his sire, ignored by the Camarilla, persecuted by the Sheriff, carrying power that no one in Chicago properly understands. Critias's shame. [Menele](/npcs/menele/)'s grandchilde. Chicago's wild card.

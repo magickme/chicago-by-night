@@ -12,11 +12,11 @@ description: "Three layers, three operators, one building. The mortgage. The nig
 
 ---
 
-[Juggler](/npcs/juggler/) was at the back booth when [Darius](/darius-cole/) walked in, and the first thing Darius noticed was the eyes. Not Auspex. Not Presence. Just the eyes of a man who'd been reading rooms since before Darius's mother was born, tracking everything, the way a boxer watches the exits and the bartender and the drunk by the jukebox all at once without appearing to watch anything at all.
+[Juggler](/npcs/juggler/) was at the back booth when [Darius](/darius-cole/) walked in, and the first thing [Darius](/darius-cole/) noticed was the eyes. Not Auspex. Not Presence. Just the eyes of a man who'd been reading rooms since before Darius's mother was born, tracking everything, the way a boxer watches the exits and the bartender and the drunk by the jukebox all at once without appearing to watch anything at all.
 
-Tuesday night. Al Green on the jukebox. The Torch two-thirds full with the kind of crowd that drinks on weeknights because Wednesday doesn't scare them. [Victor](/npcs/victor-salonika/) behind the bar. The smoke at eye level. And in the back booth, finishing business with two men Darius didn't recognize, the Kindred who ran the building that Darius owned.
+Tuesday night. Al Green on the jukebox. [The Torch](/locations/the-torch/) two-thirds full with the kind of crowd that drinks on weeknights because Wednesday doesn't scare them. [Victor](/npcs/victor-salonika/) behind the bar. The smoke at eye level. And in the back booth, finishing business with two men Darius didn't recognize, the Kindred who ran the building that Darius owned.
 
-He'd never seen Juggler. Seven months in Gary and nobody had introduced them — not [Modius](/npcs/modius/), not Victor, not [Allicia](/npcs/allicia/), not the court. The Brujah who controlled feeding on the Rack, who decided who hunted and who didn't, who kept the Masquerade intact on Broadway, had been twenty feet away on every night Darius walked through that door, and the two of them had never exchanged a word. That was either Gary being Gary — a city too small to have protocols and too broken to enforce them — or it was deliberate. Victor's deliberate. The ghoul had compartmentalized the mortal mortgage holder from the Kindred operations because nobody told him the mortal was Kindred.
+He'd never seen [Juggler](/npcs/juggler/). Seven months in Gary and nobody had introduced them — not [Modius](/npcs/modius/), not [Victor](/npcs/victor-salonika/), not [Allicia](/npcs/allicia/), not the court. The Brujah who controlled feeding on the Rack, who decided who hunted and who didn't, who kept the Masquerade intact on Broadway, had been twenty feet away on every night Darius walked through that door, and the two of them had never exchanged a word. That was either Gary being Gary — a city too small to have protocols and too broken to enforce them — or it was deliberate. Victor's deliberate. The ghoul had compartmentalized the mortal mortgage holder from the Kindred operations because nobody told him the mortal was Kindred.
 
 Darius sat at the bar. Let Juggler come to him. Three minutes. Then the booth creaked and footsteps crossed the floor and a body dropped onto the next stool with the ease of a man who considered every seat in the building his.
 
@@ -32,13 +32,13 @@ He told the truth. Rent. Eight hundred a month. The building was an investment, 
 
 Juggler believed him. Or believed him enough. The territory settled in three sentences: Darius collected the check, Juggler ran the night, and the FBI was a shared problem because [Shepard](/npcs/william-shepard/)'s file didn't distinguish between mortal infrastructure and Kindred operations.
 
-They talked about Shepard. Three options: make the Torch boring, have Warren Birch meet the FBI in person, or put a thumb on the federal scale. Juggler didn't like the third option and Darius didn't like the first two, and somewhere in the space between their objections the real plan emerged.
+They talked about [Shepard](/npcs/william-shepard/). Three options: make the Torch boring, have Warren Birch meet the FBI in person, or put a thumb on the federal scale. Juggler didn't like the third option and Darius didn't like the first two, and somewhere in the space between their objections the real plan emerged.
 
 "What if I Dominate somebody into taking Birch's place?"
 
 Juggler went quiet. The fixer's brain engaged — not hot, not reactive, the analytical machinery that the Brujah kept hidden behind their reputation for fire. "A proxy," he said. "You take some mortal, rewrite his head, make him believe he IS Birch." He called it a Ventrue answer. He didn't say it with admiration. He said it the way a carpenter says *steel* — acknowledging that it holds the weight while preferring the wood.
 
-The problem was paper. A proxy needed ID. Federal-grade. A driver's license, a social security number, a backstory that survived a background check. Juggler pointed Darius to [Danov](/npcs/alexander-danov/) — the Nosferatu, the information broker, the man who was never where you thought he was and always where you didn't want him. Danov ran a forger out of a print shop in the Hive. Sixty-forty against federal scrutiny. Good enough to buy time. Maybe good enough to close the file.
+The problem was paper. A proxy needed ID. Federal-grade. A driver's license, a social security number, a backstory that survived a background check. Juggler pointed Darius to [Danov](/npcs/alexander-danov/) — the Nosferatu, the information broker, the man who was never where you thought he was and always where you didn't want him. [Danov](/npcs/alexander-danov/) ran a forger out of a print shop in the Hive. Sixty-forty against federal scrutiny. Good enough to buy time. Maybe good enough to close the file.
 
 Juggler offered to make the introduction. Darius said yes. They shook hands — not a prince's handshake but a working man's, the grip of two people who'd found the line between their territories and decided it was a shared wall rather than a fence.
 

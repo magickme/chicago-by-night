@@ -27,7 +27,7 @@ ShowToc: false
 
 - The crossroads of Chicago Kindred politics. Every clan, every faction, every grudge passes through this room.
 - Where [Darius](/darius-cole/) gathers intelligence, makes contacts, and risks exposure in equal measure.
-- The sub-basement vault is Helena's domain. Nobody gets down there without her permission or a death wish.
+- The sub-basement vault is [Helena](/npcs/helena/)'s domain. Nobody gets down there without her permission or a death wish.
 
 ## Geographic Placement
 
@@ -38,6 +38,6 @@ ShowToc: false
 
 ## Who Controls It
 
-- Thornhill runs the floor, handles the mortal staff, keeps the liquor license clean.
+- [Thornhill](/npcs/brennon-thornhill/) runs the floor, handles the mortal staff, keeps the liquor license clean.
 - Helena owns the building, the land, and every secret that passes through the walls. She has been here longer than Chicago has had a name.
 - Kindred who think they own a piece of the Succubus Club own nothing. They rent tolerance.

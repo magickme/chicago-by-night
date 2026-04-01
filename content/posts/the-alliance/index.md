@@ -22,7 +22,7 @@ The side entrance. Not the front door with the drawing room and the piano and th
 
 Unlocked. A narrow staircase. One wall sconce. The air smelled like old wood and lake damp and gardenia — something floral that didn't belong in Gary, something someone had been wearing alone in a room for a very long time.
 
-Allicia stood at the window in a green silk robe over a dark dress, her back to the door, looking at the lake. She knew Sable was there. She didn't turn. Whatever she'd been doing in this room before the knock, she hadn't finished putting herself back together, and what showed underneath the armor was older and more tired than the face.
+[Allicia](/npcs/allicia/) stood at the window in a green silk robe over a dark dress, her back to the door, looking at the lake. She knew [Sable](/sable-price/) was there. She didn't turn. Whatever she'd been doing in this room before the knock, she hadn't finished putting herself back together, and what showed underneath the armor was older and more tired than the face.
 
 She gestured toward the bed. Sable sat. White coverlet. Cool cotton. The snow globe on the nightstand, the bird in its cage, the photograph still face-down beside it.
 
@@ -30,7 +30,7 @@ Then Allicia spoke. The third time.
 
 "He wants me to give you my blood."
 
-The words landed like stones on still water. Not an offer. A confession. She was telling Sable what Modius had ordered — the trap Sable had always suspected, spoken aloud for the first time by the woman who was supposed to be the bait.
+The words landed like stones on still water. Not an offer. A confession. She was telling Sable what [Modius](/npcs/modius/) had ordered — the trap Sable had always suspected, spoken aloud for the first time by the woman who was supposed to be the bait.
 
 Sable crossed the room. Sat beside her on the window seat. Reached up and touched her hair, dark and heavy, and stroked it once from the temple down. The gesture of a woman who has comforted other women and knows that words aren't always the thing that's needed.
 
@@ -38,7 +38,7 @@ Allicia went still. The stillness of someone who hasn't been touched gently in a
 
 "I told him no."
 
-Four words. The fourth time. She had refused the prince of Gary. The woman who hadn't defied her sire in decades, who was three steps bound and had no leverage and no allies and no way out, had told Modius *no*. That was why Victor called. That was why the side entrance. She wasn't just reaching out. She was burning a bridge, and she wanted Sable to know before the fire reached them both.
+Four words. The fourth time. She had refused the prince of Gary. The woman who hadn't defied her sire in decades, who was three steps bound and had no leverage and no allies and no way out, had told Modius *no*. That was why [Victor](/npcs/victor-salonika/) called. That was why the side entrance. She wasn't just reaching out. She was burning a bridge, and she wanted Sable to know before the fire reached them both.
 
 Sable slid the robe off one shoulder. Then the other. Green silk pooling on the window seat. "May I?"
 

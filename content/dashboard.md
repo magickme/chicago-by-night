@@ -10,15 +10,15 @@ menu:
       icon: "dots"
 ---
 
-*Chicago Chronicles. Act II: Ashes and Blood. Updated: **1991-01-04 (Friday, sleeping)**.*
+*Chicago Chronicles. Act II: Ashes and Blood. Updated: **1991-01-05 (Saturday, sleeping)**.*
 
 
 
 ## Coterie Snapshot
 
-- 1991-01-04 (Friday, sleeping) — Coterie at Starlite Motel, Room 9 (South Side). Torpored Methuselah body in bathtub. Belthazar staked on Wacker Drive (Neon guarding). Deadline EXPIRED. Investigation advanced: Roarke IDed as cult leader/Ghoulie Man, body recovered from Standdown's facility, research notes + tapes secured, evidence destroyed. Next: Hell's Pasture (woods NW) to find Lodin. Villain's Flashback (1969 London) COMPLETE — all 6 scenes played.
-- Scenes played: Darius 30, Sable 30 (60 total + timeskip bluebook Aug-Nov + Dec timeskip). PCs met at Feb 2 Elysium. **COTERIE FORMED (S019, July 22).**
-- Scene-note inventory: Darius 30, Sable 30 (60 total on disk).
+- 1991-01-05 (Saturday, sleeping) — Coterie at Starlite Motel, Room 9 (South Side). ASHES TO ASHES COMPLETE. Lodin rescued from Hell's Pasture, Roarke destroyed. Menele's body delivered to Lodin at Drake Hotel (8th floor, cedar closet). Belthazar still staked on Wacker Drive (Neon guarding 24+ hrs). Lodin promised word before dawn — coterie awaiting callback. Ballard about to be blindsided.
+- Scenes played: Darius 31, Sable 30 (61 total + timeskip bluebook Aug-Nov + Dec timeskip). PCs met at Feb 2 Elysium. **COTERIE FORMED (S019, July 22).**
+- Scene-note inventory: Darius 31, Sable 30 (61 total on disk).
 - Sunset: 4:28 PM CST. Sunrise: 7:06 AM CST. Darkness: ~14.5 hours (early January).
 - Communications: Chicago protocol seeded. Tue/Fri 11 PM remains the default check-in window, using rotating nodes instead of a fixed haven line. If one node feels watched, move immediately to the next. Horace contact: The Cave, ask for Fred, "chess tournament."
 
@@ -27,22 +27,22 @@ menu:
 | Clock | Level | Status |
 |---|---|---|
 | Allicia Alliance | 6/6 | COMPLETE. Erichtho evaluation done. Carna path active. Allicia in Gary. |
-| Ashes to Ashes Progress | 5/6 | S030: Roarke IDed as cult leader. Body recovered from Standdown. Research secured. Reporter intel. Next: Hell's Pasture. |
+| Ashes to Ashes Progress | 6/6 COMPLETE | D031: Lodin rescued from Hell's Pasture. Roarke destroyed (aged to dust). Cultists scattered. Adventure resolved. |
 | Dane Identifies Darius | 5/6 | Active hunt. Saw BbF attendees, got plates. In Gary or following. |
 | Torch/Rack Heat | 5/6 | Stabilized. Webb proxy. Dormant while PCs away. |
 | Modius Internal Audit | 4/6 | Blood-taste bomb. Allicia. Offscreen while PCs in Chicago. |
 | Modius Leash (Sable) | 4/6 | Sent first. More expendable or more useful. |
 | Docks Heat | 3/6 | Pipeline on autopilot. Eddie granite. |
+| Masquerade Heat (Chicago) | 2/6 | D031: 36 cultists witnessed supernatural events at Hell's Pasture (Roarke aging, vampire feeding, Dread Gaze). Scottie wiped (granite). Compound burning. Low-credibility witnesses but high numbers. |
+| Methuselah War | 2/6 HIDDEN | D031: Darius blood-bonded Step 1 to Menele (frenzy over torpored body). Coterie now in Menele's camp — unknowingly. Menele likely orchestrated body recovery + vial frenzy from torpor. Helena's rival has agents. |
 | Modius Leash (Darius) | 2/6 | Emissary mission = continued obligation at distance. |
 | Sharon's Vendetta | 2/6 | Proxy Halloran → Warwick → law firm. Sharon is IN CHICAGO. |
 | Anarch Tension | 1/6 | S030: Damien staked Sheriff Belthazar. Coterie interacted with Anarch faction. |
+| Blood Bond Web | 1/6 | D031: Darius consumed Menele's blood (frenzy). Step 1/3. First active bond step from Chicago events. Every sip tracked. |
 | Hunter Convergence (Chicago) | 1/6 | S030: PCs encountered Standdown. Evidence destroyed but he lives with "body walked away." Shepard connected. |
-| Masquerade Heat (Chicago) | 1/6 | S030: botched Forgetful Mind on ghoul driver (fragments), sleeping cops, reporter contact, body moved on streets. |
-| Methuselah War | 1/6 HIDDEN | S030: Coterie possesses Menele's torpored body (unknowingly). Jyhad infrastructure disrupted. |
-| Blood Bond Web | 0/6 | Every sip tracked: Lodin (forced), Methuselah vial, Jefferson (Act III), Allicia carryover. |
+| Lodin's Grip | 1/6 | D031: Prince returns. Secured Menele's body at Drake. Ordering callback before dawn. Ballard reckoning incoming. |
 | Chuc Luc's Chicago Operations | 0/6 | Pipeline expansion into Capone's territory. |
 | Cover Story Exposure (Chicago) | 0/6 | Warren Birch fiction meets Chicago Auspex. Darius 10th claiming 12th. |
-| Lodin's Grip | 0/6 | Forced Bond. Assignments. Surveillance. Intensifies after rescue. |
 | Primogen Power Plays | 0/6 | Annabelle, Critias, Tyler, Nicolai — each has an agenda. |
 | Sabbat Infiltration | 0/6 LATENT | Phillipe Rigaud and Wendy Wade embedded. Activates Act III. |
 | Succubus Club Heat | 0/6 | Club as focal point. Helena's basement. Every thread passes through. |
@@ -72,23 +72,23 @@ menu:
 | Thread | Status |
 |---|---|
 | Modius's mission: deliver reply (2x) | DELIVERED. Letter given to Neally. Now under Ballard's assignment. |
-| Ashes to Ashes: find the Prince (2x) | ADVANCED (5/6). Roarke IDed. Body recovered. Standdown wiped. Next: Hell's Pasture for Lodin. |
+| Ashes to Ashes: find the Prince (2x) | COMPLETE (6/6). Lodin rescued. Roarke destroyed. Adventure resolved D031. |
 | Cover story under new scrutiny (2x) | OPEN. Warren Birch built for Gary. Chicago has 100 Kindred with Auspex. Critias now aware of coterie. |
 | Chuc Luc's expanded pipeline (2x) | OPEN. Sire operates from Chinatown. Capone's territory. Conflict of interest. |
 | Succubus Club politics (2x) | OPEN. Social center of Chicago Kindred. Every thread crosses here. |
 | Anarch unrest | OPEN. Gengis/Damien. Brewery. Reform vs revolution. Lodin's files mention Damien by name. |
 | Annabelle's manipulations | OPEN. She collects neonates smarter than their prince. |
-| Blood Bond steps (2x) | OPEN. Allicia carryover. Lodin forced bond after rescue. Methuselah vial. |
+| Blood Bond steps (2x) | ACTIVE. Darius Step 1 Menele (D031 frenzy). Lodin forced bond pending. Allicia carryover. |
 
 ### Sable
 
 | Thread | Weight | Status |
 |---|---|---|
 | Modius's mission: deliver reply | 2x | DELIVERED. Letter given to Neally. Under Ballard's assignment. |
-| Ashes to Ashes: find the Prince | 2x | ADVANCED (5/6). Roarke IDed. Body recovered. Standdown wiped. Next: Hell's Pasture for Lodin. |
+| Ashes to Ashes: find the Prince | 2x | COMPLETE (6/6). Lodin rescued D031. Roarke destroyed. |
 | Sharon Payne's vendetta | 3x | ESCALATED. Sharon is IN CHICAGO. Proxy chain: Halloran → Warwick → law firm. Sable entering her territory. |
 | Succubus Club politics | 2x | OPEN. Natural habitat for Toreador. Helena's basement. |
 | Annabelle's manipulations | 2x | OPEN. Toreador elder, collects neonates. Sable's clan. |
-| Blood Bond steps | 2x | OPEN. Allicia carryover. Lodin forced bond. Methuselah vial. |
+| Blood Bond steps | 2x | ACTIVE. Darius Step 1 Menele. Lodin forced bond pending. Allicia carryover. |
 | Allicia bond-breaking (remote) | 2x | ACTIVE. Erichtho evaluation done. Carna path. Months in Milwaukee needed. Coordinate from Chicago. |
 | Michael Payne — absent sire | 2x | ESCALATED. Michael in Gary or Chicago? Sharon's ex-husband. |

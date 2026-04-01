@@ -28,4 +28,4 @@ ShowToc: false
 
 ## Who Controls It
 
-- Michael through familiarity, stealth, and the simple fact that most people do not want to linger.
+- [Michael](/npcs/michael/) through familiarity, stealth, and the simple fact that most people do not want to linger.

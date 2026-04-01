@@ -40,6 +40,6 @@ ShowToc: false
 
 ## Who Controls It
 
-- No single Kindred holds domain. Prias maintains academic connections through the Divinity School and treats the campus as an extension of his scholarly interests. He does not patrol or enforce.
-- Rosa Hernandez keeps a haven in Kenwood, north of campus. Her presence is residential, not territorial. She feeds elsewhere.
+- No single Kindred holds domain. [Prias](/npcs/prias/) maintains academic connections through the Divinity School and treats the campus as an extension of his scholarly interests. He does not patrol or enforce.
+- [Rosa Hernandez](/npcs/rosa-hernandez/) keeps a haven in Kenwood, north of campus. Her presence is residential, not territorial. She feeds elsewhere.
 - The University of Chicago Police Department runs a tight perimeter around campus. Mortal security is higher here than in surrounding neighborhoods, which makes Masquerade breaches less likely and Kindred movement more constrained.

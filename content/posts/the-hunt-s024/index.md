@@ -26,7 +26,7 @@ Kiefer's sat at the end of a gravel lot where the access road curved toward the 
 
 Nisha. She was maybe seventeen. Black. Down coat two sizes too big -- Wilson's, the cheap kind from the Ridge Road flea market, zipper pull replaced with a paper clip. Payless Traxx sneakers, canvas, no insulation. She stood between the Trans Am and the first pickup with her hands in her pockets and her eyes on the bar door, timing the exits the way a bookie times the post.
 
-Sable recognized the geometry before she recognized the girl. The coat that hides the hands. The patience that isn't patience but calibration. The position between parked cars that puts you within arm's reach of a pocket while the owner is fumbling with keys and thinking about the drive home and not about the fingers that just lifted forty-two dollars from his Carhartt.
+[Sable](/sable-price/) recognized the geometry before she recognized the girl. The coat that hides the hands. The patience that isn't patience but calibration. The position between parked cars that puts you within arm's reach of a pocket while the owner is fumbling with keys and thinking about the drive home and not about the fingers that just lifted forty-two dollars from his Carhartt.
 
 She got out of the Buick and approached from the side. Lit a cigarette she wouldn't smoke. Stood at the edge of the lot in the dark between the gravel and the grass and waited for the girl to make a professional assessment.
 
@@ -62,7 +62,7 @@ The blood was phlegmatic. Flat. Professional. It tasted like nothing -- tap wate
 
 Four points. She counted. She stopped. Licked the wound closed.
 
-Nisha slid off the stool. Sable caught her. Set her on the floor. Covered her with the afghan -- the one with the cigarette burn on the third panel, Michael's afghan, the last warm thing in a room full of unfinished paintings and unanswered calls.
+Nisha slid off the stool. Sable caught her. Set her on the floor. Covered her with the afghan -- the one with the cigarette burn on the third panel, [Michael](/npcs/michael/)'s afghan, the last warm thing in a room full of unfinished paintings and unanswered calls.
 
 Blood: fourteen out of fourteen. Full.
 
@@ -96,7 +96,7 @@ A different voice. Lower. Central European vowels worn smooth by decades of Engl
 
 "And the situation is worse."
 
-Not a question. The woman on the other end took notes. Pen on paper, clinical, for the file. She remembered Allicia. Twelve days in 1971. And [Modius](/npcs/modius/) had called twice in November asking if they were "still practicing."
+Not a question. The woman on the other end took notes. Pen on paper, clinical, for the file. She remembered [Allicia](/npcs/allicia/). Twelve days in 1971. And [Modius](/npcs/modius/) had called twice in November asking if they were "still practicing."
 
 "There is an event. New Year's Eve. Someone who can evaluate the situation will attend. Arrange privacy. Fifteen minutes. No witnesses."
 

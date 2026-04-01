@@ -21,7 +21,7 @@ The real voice gave instructions the way a foreman gives a shift schedule. Find 
 
 Eleven fifty-three. Seven minutes.
 
-At midnight he called the number on the card and [Claudette](/npcs/claudette-mallet/)'s voice said "Kiefer's. One hour" and the line went dead. Kiefer's — the furniture warehouse on the west side where Darius had been buying coffee for Eddie Kowalski and Pete Tran for six months. Lucian picked the location the way a man picks a restaurant: to show you he knows where you eat.
+At midnight he called the number on the card and [Claudette](/npcs/claudette-mallet/)'s voice said "Kiefer's. One hour" and the line went dead. Kiefer's — the furniture warehouse on the west side where [Darius](/darius-cole/) had been buying coffee for Eddie Kowalski and Pete Tran for six months. [Lucian](/npcs/lucian/) picked the location the way a man picks a restaurant: to show you he knows where you eat.
 
 The warehouse. The loading dock light. A single work bulb hanging from a ceiling beam, two folding chairs in the circle of light, and Lucian in one of them wearing canvas and boots, looking like any of the thirty thousand men who used to build steel in this city except for the eyes.
 
@@ -29,7 +29,7 @@ The warehouse. The loading dock light. A single work bulb hanging from a ceiling
 
 He laid out the numbers. The principal, the assessment, the Lakeside offer. Then: "I am not buying the building, Warren. I am buying what the building controls."
 
-Feeding rights. Formalized, written into the court structure, guaranteed for Lucian and anyone he vouched for. Not [Modius](/npcs/modius/)'s permission. Not a favor to be revoked. A seat at the table he'd been excluded from in a city he'd lived in since before Modius's sire drew breath.
+Feeding rights. Formalized, written into the court structure, guaranteed for Lucian and anyone he vouched for. Not [Modius](/npcs/modius/)'s permission. Not a favor to be revoked. A seat at the table he'd been excluded from in a city he'd lived in since before [Modius](/npcs/modius/)'s sire drew breath.
 
 "If you can broker that, the mortgage offer disappears. And you will have done me a service I remember."
 

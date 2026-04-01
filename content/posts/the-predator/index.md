@@ -12,7 +12,7 @@ description: "A woman walks into GD territory with a .38 she can barely shoot an
 
 ---
 
-The Torch was doing its Friday night routine. Bobby Brown on the jukebox, the air conditioning failing against July, bodies filling the barstools and the booths and the spaces between them with the particular density of a crowd that had nowhere better to go and knew it and had made peace with the knowing. The drywall crew spending Thursday's check. The nursing students from IU Northwest sharing a pitcher of something yellow. Two men at the pool table who'd been playing since six and would be playing at last call because the game was better than whatever they'd go home to.
+[The Torch](/locations/the-torch/) was doing its Friday night routine. Bobby Brown on the jukebox, the air conditioning failing against July, bodies filling the barstools and the booths and the spaces between them with the particular density of a crowd that had nowhere better to go and knew it and had made peace with the knowing. The drywall crew spending Thursday's check. The nursing students from IU Northwest sharing a pitcher of something yellow. Two men at the pool table who'd been playing since six and would be playing at last call because the game was better than whatever they'd go home to.
 
 [Victor](/npcs/victor-salonika/) set a glass of water on the bar without being asked. The far stool. Her stool. Back to the wall, sight line to the door.
 
@@ -30,7 +30,7 @@ He'd never touched her. He didn't have to. His presence was enough to clear the 
 
 The Embrace hadn't fixed it. She'd thought it would. She'd driven to Gary and left Chicago behind and the scar tissue where Big Six had pressed his thumbprint was supposed to heal the way mortal wounds healed when the blood started working and the body became something other than a body. It hadn't. He'd followed her to Gary — or his business had brought him here, or the same gravity that pulled her to The Torch pulled him there too, and the two near-misses at the bar were the universe reminding her that the predator she'd fled wasn't going to stop being a predator just because she'd become one too.
 
-She finished the water. Set the glass down. Waited for Victor.
+She finished the water. Set the glass down. Waited for [Victor](/npcs/victor-salonika/).
 
 "Marcus Tillman. He been in this week?"
 
@@ -78,7 +78,7 @@ Not loud. Not to a mortal twenty yards away. But the quiet one — the soldier, 
 
 One word. The other two stopped talking. Big Six uncrossed his arms. The younger one stepped sideways. Three men facing the door, ten yards away. The soldier already moving, getting an angle.
 
-Sable stood behind the door. The .38 at her back. The knife in her pocket. The plan she'd carried from the Torch was in pieces on the concrete floor.
+[Sable](/sable-price/) stood behind the door. The .38 at her back. The knife in her pocket. The plan she'd carried from the Torch was in pieces on the concrete floor.
 
 She pushed the door wide and stepped into the lot.
 

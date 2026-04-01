@@ -26,7 +26,7 @@ ShowToc: false
 
 ## Function in Play
 
-The lair of the killer. Merik's penthouse sits atop a West Downtown high-rise and functions as both the seat of princely authority and the private space where the mask comes off. If the investigation leads here, it means the coterie has already decided to move against the Prince.
+The lair of the killer. [Merik](/npcs/terence-merik/)'s penthouse sits atop a [West Downtown](/locations/west-downtown/) high-rise and functions as both the seat of princely authority and the private space where the mask comes off. If the investigation leads here, it means the coterie has already decided to move against the Prince.
 
 ## Who Controls It
 

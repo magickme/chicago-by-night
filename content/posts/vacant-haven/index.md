@@ -14,11 +14,11 @@ description: "A Toreador pulls off her gloves in a dead Prince's apartment and r
 
 The town car pulled away from Daley's and [Sable](/sable-price/) counted the seconds before anyone spoke. [Belthazar](/npcs/belthazar/) sat in the front passenger seat with his coat folded across his knees. He hadn't looked at either of them since the restaurant. The driver was a ghoul with the stillness of someone who had been told not to listen, not to remember, and not to exist unless the car needed turning.
 
-Rain on the windshield. Michigan Avenue in the dark, the buildings lit from inside, and the street wet enough to double every light so the city looked like two cities stacked on top of each other — the real one and the drowned one underneath. Sable watched the water sheet across the glass and thought about nothing, deliberately, the way she'd learned to think about nothing when men were watching.
+Rain on the windshield. Michigan Avenue in the dark, the buildings lit from inside, and the street wet enough to double every light so the city looked like two cities stacked on top of each other — the real one and the drowned one underneath. [Sable](/sable-price/) watched the water sheet across the glass and thought about nothing, deliberately, the way she'd learned to think about nothing when men were watching.
 
-The Sears Tower filled the windshield three blocks before they reached it. A hundred and ten stories of black steel and glass disappearing into low cloud. The top floors were gone — swallowed — so the building looked like it went up forever, like it was a thing driven into the earth from above.
+The [Sears Tower](/locations/sears-tower/) filled the windshield three blocks before they reached it. A hundred and ten stories of black steel and glass disappearing into low cloud. The top floors were gone — swallowed — so the building looked like it went up forever, like it was a thing driven into the earth from above.
 
-The car turned onto Wacker. The ghoul pulled to the south entrance. Belthazar opened his door before the car stopped and said "Move" without looking back, and Sable stepped into the rain and felt it on her face (cold, mineral, the particular taste of January rain in a city built on a swamp) and then she felt something else.
+The car turned onto Wacker. The ghoul pulled to the south entrance. [Belthazar](/npcs/belthazar/) opened his door before the car stopped and said "Move" without looking back, and Sable stepped into the rain and felt it on her face (cold, mineral, the particular taste of January rain in a city built on a swamp) and then she felt something else.
 
 Pressure.
 
@@ -26,7 +26,7 @@ Not physical. Not wind, not sound. Something older than either. The predatory au
 
 He was standing under the awning.
 
-Not tall. Lean, compact, dark overcoat that looked like it cost nothing and fit like it cost everything. Face that could have been forty or four hundred — olive skin, close-cropped grey hair, jaw that had been broken at least once in a life where bones still broke. His eyes moved to Sable first (she noticed that — first, before Darius, before Belthazar) and they were the eyes of something that had been reading people since before the language she spoke had been invented.
+Not tall. Lean, compact, dark overcoat that looked like it cost nothing and fit like it cost everything. Face that could have been forty or four hundred — olive skin, close-cropped grey hair, jaw that had been broken at least once in a life where bones still broke. His eyes moved to Sable first (she noticed that — first, before [Darius](/darius-cole/), before Belthazar) and they were the eyes of something that had been reading people since before the language she spoke had been invented.
 
 Belthazar stopped walking. "Primogen."
 
@@ -34,7 +34,7 @@ Belthazar stopped walking. "Primogen."
 
 "This investigation is under my authority."
 
-"Your authority extends to enforcement, not to the evaluation of evidence. I am Primogen. You are welcome to call Ballard and confirm."
+"Your authority extends to enforcement, not to the evaluation of evidence. I am Primogen. You are welcome to call [Ballard](/npcs/ballard/) and confirm."
 
 The rain fell between them. Sable could feel Darius beside her — the quality of his stillness when he was calculating — and she kept her face smooth and her thoughts quiet (or tried to, because something in the air near this man made her feel like her skull was made of glass, like everything inside it was visible, like the act of thinking was the same as speaking aloud).
 
@@ -56,7 +56,7 @@ Two words. No ornamentation. His eyes stayed on her for one more second — the 
 
 The indoor plaza was vast — marble, glass, the hushed acoustics of money spent on empty space. Double-decker elevators, brass and steel. Five police officers stood near the service bank and straightened when Belthazar approached. None of them looked at [Critias](/npcs/critias/). None of them seemed to notice him at all.
 
-The elevator was the express — 107 floors in under a minute. Sable watched the digital numbers climb and watched Critias in the polished brass of the door. He stood with his hands in his coat pockets, perfectly still, and his reflection looked back at her with the patience of a man who had ridden elevators and stage coaches and horse carts and walked barefoot on roads that hadn't been named yet.
+The elevator was the express — 107 floors in under a minute. Sable watched the digital numbers climb and watched [Critias](/npcs/critias/) in the polished brass of the door. He stood with his hands in his coat pockets, perfectly still, and his reflection looked back at her with the patience of a man who had ridden elevators and stage coaches and horse carts and walked barefoot on roads that hadn't been named yet.
 
 The doors opened onto a hallway that ran the full eastern side of the floor. No windows on this side — deliberate. A Prince who planned for sieges.
 
@@ -92,7 +92,7 @@ The chess set. Layers. Someone had handled these pieces over months or years —
 
 The letter beside it. A woman's hand. Confident, practiced. The word *custos* carried private weight, the kind of word that means one thing in Latin and something else entirely between two people who have used it long enough to forget where it started.
 
-She moved through the apartment. Kitchen: mortal hands, routine, nothing. Dining room: dust, untouched. Retainers' room: three or four presences, none urgent. The security room equipment gave her [Natasha](/npcs/natasha/) — hours of boredom, muscle-memory at the monitors, and then a seam. A place where the impression stopped, like a sentence cut mid-word. On the other side of the gap, everything was wrong and Natasha didn't know why.
+She moved through the apartment. Kitchen: mortal hands, routine, nothing. Dining room: dust, untouched. Retainers' room: three or four presences, none urgent. The security room equipment gave her [Natasha](/npcs/natasha/) — hours of boredom, muscle-memory at the monitors, and then a seam. A place where the impression stopped, like a sentence cut mid-word. On the other side of the gap, everything was wrong and [Natasha](/npcs/natasha/) didn't know why.
 
 Then the vault. She stepped through the ruined doorway. Waterbed, phone, manacles on the wall, a computer. And on a shelf at the head of the bed — a pendant. Silver chain, old. A black stone carved into the shape of a tooth.
 
@@ -120,11 +120,11 @@ Darius came back from the security room. Reported: Natasha's memory had been sur
 
 The search continued. On the desk, half-buried under burned papers: a typed report from [Edward](/npcs/sir-edward-scott/) [Neally](/npcs/neally-edwards/). Satanic activity in a wooded area northwest of the city. Two elders claiming Auspex power had detected mystical energies there. A map underneath, a section of woods circled in red. [Lodin](/npcs/lodin/) had written three letters in the margin: FLI.
 
-In a filing cabinet: a folder of intelligence on Chicago's Anarchs. Lodin's handwriting in the margin of one printout — *When will they stop? Can their activity mean anything but my eventual demise?* And on another sheet, a reference to a troublesome Anarch called [Damien](/npcs/damien/) who had moved into a neutral elder's haven.
+In a filing cabinet: a folder of intelligence on Chicago's Anarchs. [Lodin](/npcs/lodin/)'s handwriting in the margin of one printout — *When will they stop? Can their activity mean anything but my eventual demise?* And on another sheet, a reference to a troublesome Anarch called [Damien](/npcs/damien/) who had moved into a neutral elder's haven.
 
 On a shelf in the office: a leather-bound journal. Admiral Tourney — a British naval officer and member of an organization he referred to only as A. And on the final page, in different handwriting: *Dedicated to [Roarke](/npcs/roarke/), a fine retainer who sacrificed his life to bring me a book of worthless value.*
 
-"Look at this. Who's Roarke?" Sable asked, offering the journal.
+"Look at this. Who's [Roarke](/npcs/roarke/)?" Sable asked, offering the journal.
 
 Belthazar answered first. "One of Lodin's people. Sent to England on some errand, before my appointment. Never came back. The Prince wrote him off as dead."
 

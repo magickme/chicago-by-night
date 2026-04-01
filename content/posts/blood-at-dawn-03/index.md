@@ -16,7 +16,7 @@ description: "Telling Allicia. A photograph face-down. A prince who wants the fu
 
 [Allicia](/npcs/allicia/) stood at the window with her arms crossed and the lake behind her and didn't move. The green eyes took it in the way stone takes in rain — absorbing, not reacting, the surface unchanged while something underneath shifted.
 
-When Sable pulled out the photograph and held it up, Allicia looked at her own hands on a piano through the eyes of a man who'd watched her for years and built a weapon out of his son to reach her, and whatever moved in her face was too old and too deep to read. She took the photograph and set it face-down on the nightstand. Next to the snow globe. The bird in the cage and the woman at the piano side by side, two images of the same captivity.
+When [Sable](/sable-price/) pulled out the photograph and held it up, [Allicia](/npcs/allicia/) looked at her own hands on a piano through the eyes of a man who'd watched her for years and built a weapon out of his son to reach her, and whatever moved in her face was too old and too deep to read. She took the photograph and set it face-down on the nightstand. Next to the snow globe. The bird in the cage and the woman at the piano side by side, two images of the same captivity.
 
 "Thank you."
 
@@ -30,7 +30,7 @@ They sat. The lake sounded through the window. Allicia didn't speak again. She d
 
 Downstairs, [Darius](/darius-cole/) gave [Modius](/npcs/modius/) the version that worked. A threat to Allicia. Mortal, occult, aimed and neutralized. The framing was careful: *your* court, *your* people, *we* acted in service to *your* authority. The prince heard what the prince needed to hear: his neonates were loyal, his collection was safe, the machine was working.
 
-Modius listened with the piano lid open and the Auspex scanning and the Conniver's mind running the geometry of two neonates who solved a problem without asking permission. The geometry bothered him. He filed it.
+[Modius](/npcs/modius/) listened with the piano lid open and the Auspex scanning and the Conniver's mind running the geometry of two neonates who solved a problem without asking permission. The geometry bothered him. He filed it.
 
 "You'll tell me the details. Tomorrow. All of them."
 
@@ -40,7 +40,7 @@ The interview ended the way Modius's interviews always ended: with courtesy, wit
 
 ---
 
-The Cutlass. The lakefront road. Sable came down the stairs with a face that had stopped performing something it usually performed, and Darius recognized the difference because he'd been watching her perform for four months and the absence of it looked like a woman who'd been allowed to sit still.
+The Cutlass. The lakefront road. Sable came down the stairs with a face that had stopped performing something it usually performed, and [Darius](/darius-cole/) recognized the difference because he'd been watching her perform for four months and the absence of it looked like a woman who'd been allowed to sit still.
 
 "She said thank you. Two words."
 

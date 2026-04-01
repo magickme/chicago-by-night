@@ -33,13 +33,13 @@ From the 16th floor of a White tower you can see Lake Michigan, Lincoln Park, th
 
 **The stairwells.** Every lightbulb smashed or never replaced. Complete darkness from the 6th floor up. People sitting on the landings in the dark, watching you climb. Gang members controlling vertical movement — the wrong floor belongs to the wrong faction and the penalty for trespassing is not a conversation. Police reportedly said "the law stops at the sixth floor." Residents — mothers with strollers, elderly on walkers — climb 15 flights in the dark because the elevators haven't worked in months and when they do work the gangs tax you to ride.
 
-**The galleries and breezeways.** Chain-link-enclosed walkways running the length of each floor on the Whites, open to wind and weather. Designed to separate pedestrian from vehicle traffic. Instead: concealed corridors for undetected gang movement and territorial control. Panoramic views of the Gold Coast through cage wire.
+**The galleries and breezeways.** Chain-link-enclosed walkways running the length of each floor on the Whites, open to wind and weather. Designed to separate pedestrian from vehicle traffic. Instead: concealed corridors for undetected gang movement and territorial control. Panoramic views of the [Gold Coast](/locations/gold-coast/) through cage wire.
 
 **The walls.** Construction was cheap. Bathroom vanities back-to-back between adjacent units with nothing but drywall between them. Criminals and gang members breach apartments through the vanity wall — the scene in Candyman where the killer comes through the medicine cabinet mirror is not fiction. It's architecture.
 
 ## Function in Play
 
-- Kevin Jackson's territory. The projects. Bloods gang presence, poverty, and the kind of violence that doesn't make the news because it happens every night.
+- [Kevin Jackson](/npcs/kevin-jackson/)'s territory. The projects. Bloods gang presence, poverty, and the kind of violence that doesn't make the news because it happens every night.
 - Feeding ground where blood is abundant but every hunt carries risk. The residents are not passive. They watch. They remember.
 - A mirror of [Darius](/darius-cole/)'s west-side Gary operation, scaled up and without the pretense of subtlety.
 

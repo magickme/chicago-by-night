@@ -38,7 +38,7 @@ Then he stopped. Looked up.
 
 The question wasn't about the insurance.
 
-Darius looked at Marcus Webb. His mortal right hand. The man who had filed incorporation papers in two states, who had driven to Gary on a Saturday because a phone call told him to, who had sat in a bare apartment for eight hours without food or explanation and was still here, still holding the folder. The closest thing Darius Cole had to a friend on either side of the grave.
+Darius looked at Marcus Webb. His mortal right hand. The man who had filed incorporation papers in two states, who had driven to Gary on a Saturday because a phone call told him to, who had sat in a bare apartment for eight hours without food or explanation and was still here, still holding the folder. The closest thing [Darius Cole](/darius-cole/) had to a friend on either side of the grave.
 
 He caught Webb's eyes. Held them.
 
@@ -134,7 +134,7 @@ He gave [Modius](/npcs/modius/) the first two layers. Cooperative terms on the w
 
 "The investment stabilizes the eastern boundary. I thought it was worth the cost."
 
-A pause. Recalibration. A twelfth-generation neonate who could spend two thousand a month on waterfront diplomacy was more interesting than what Modius had budgeted for when he assigned the errand.
+A pause. Recalibration. A twelfth-generation neonate who could spend two thousand a month on waterfront diplomacy was more interesting than what [Modius](/npcs/modius/) had budgeted for when he assigned the errand.
 
 "You've done well. I'll expect you at the next court. There are developments I'd prefer to discuss in person."
 

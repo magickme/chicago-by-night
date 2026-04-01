@@ -17,7 +17,7 @@ ShowToc: false
 </div>
 </div>
 
-Alexander Danov was Embraced somewhere in Eastern Europe before 1400, though the precise date, location, and identity of his sire are unknown. What survives is a single reference point: he spoke with [Lucian](/npcs/lucian/) before the Battle of Tannenberg in 1410, and Lucian referred to Danov's "youth" — suggesting the Embrace was recent enough to be remarked upon by someone who measured time in centuries.
+Alexander Danov was Embraced somewhere in Eastern Europe before 1400, though the precise date, location, and identity of his sire are unknown. What survives is a single reference point: he spoke with [Lucian](/npcs/lucian/) before the Battle of Tannenberg in 1410, and [Lucian](/npcs/lucian/) referred to Danov's "youth" — suggesting the Embrace was recent enough to be remarked upon by someone who measured time in centuries.
 
 Tannenberg itself provides context for the world Danov entered as Kindred. On July 15, 1410, the combined forces of the Kingdom of Poland and the Grand Duchy of Lithuania met the Teutonic Knights on the fields near Grunwald in one of the largest battles in medieval European history. Approximately 60,000 combatants fought across a landscape of marsh, forest, and open field. The Teutonic Order was shattered. The political map of northeastern Europe shifted permanently. For Kindred observers — and Lucian was one — the battle represented the kind of mortal cataclysm that reshuffled territorial claims, destroyed havens, and forced migration. A newly Embraced Nosferatu navigating that landscape would have learned immediately that survival meant movement, observation, and silence.
 

@@ -18,9 +18,9 @@ The television was on when [Roarke](/npcs/roarke/) came back from checking the w
 
 Four people. His people, in the way that borrowed things become yours through long enough use.
 
-The protests filled the screen. Students. Mothers with photographs. A priest with a bullhorn. Derek said something about Inchon, about rifles, about kids who wouldn't last a week. Roarke stood by the set with his arms folded and said something about the collapse of Western civilization. He didn't mean it. He didn't not mean it. After sixty-one years the words that came out of his mouth were the words the room expected, and the distance between those words and what he thought had become so wide he'd stopped trying to measure it.
+The protests filled the screen. Students. Mothers with photographs. A priest with a bullhorn. [Derek](/npcs/derek-gallen/) said something about Inchon, about rifles, about kids who wouldn't last a week. [Roarke](/npcs/roarke/) stood by the set with his arms folded and said something about the collapse of Western civilization. He didn't mean it. He didn't not mean it. After sixty-one years the words that came out of his mouth were the words the room expected, and the distance between those words and what he thought had become so wide he'd stopped trying to measure it.
 
-Natasha said the state had tanks and these people had guitars. She was right, which was the worst thing about Natasha. Amber came in with her wooden spoon and said she'd been at Daley Plaza. Nuns, she said. Actual nuns. Julian noted the Dow had dropped six points. Amber went back to the kitchen.
+[Natasha](/npcs/natasha/) said the state had tanks and these people had guitars. She was right, which was the worst thing about Natasha. [Amber](/npcs/amber/) came in with her wooden spoon and said she'd been at Daley Plaza. Nuns, she said. Actual nuns. [Julian](/npcs/julian-curry/) noted the Dow had dropped six points. Amber went back to the kitchen.
 
 The intercom buzzed. Herman. A package. Very large.
 
@@ -34,7 +34,7 @@ Natasha had the Walther before the echo died. Julian's newspaper became a prop. 
 
 [Belthazar](/npcs/belthazar/). Ventrue. One of the Prince's Eyes -- the upper-class districts, the cushy beat. Roarke knew the name from the roster. He opened the door.
 
-The Kindred filled the doorway. Charcoal overcoat, dark hair swept back, eyes that looked at mortals the way a man looks at furniture he's considering replacing. He walked past Roarke muttering about a crazy Malkavian bitch and her unsanctioned Embrace. Demanded to see the Prince. Roarke went to the vault door and knocked. Lodin told him to be silent. Five minutes passed. The vault opened.
+The Kindred filled the doorway. Charcoal overcoat, dark hair swept back, eyes that looked at mortals the way a man looks at furniture he's considering replacing. He walked past Roarke muttering about a crazy Malkavian bitch and her unsanctioned Embrace. Demanded to see the Prince. Roarke went to the vault door and knocked. [Lodin](/npcs/lodin/) told him to be silent. Five minutes passed. The vault opened.
 
 Lodin stepped out. Not tall. Not physically imposing. A dark suit that fit like it was born on him and eyes that were old in a way that had nothing to do with the face. Roarke's name as an accusation: one word.
 
@@ -42,7 +42,7 @@ Roarke said: unauthorized Embrace. Lodin's annoyance left his face like water of
 
 Good judgment, Roarke. Show him to the library.
 
-The library door closed. Belthazar's voice came through anyway -- shouting about permitting the Embrace, about severity, about precedent. Lodin's silence was worse than any answer. Then the library door flew open and Belthazar crossed the suite in four strides, coat flaring. Muttering: owes her something, he says. Phahhh. Owes her nothing.
+The library door closed. [Belthazar](/npcs/belthazar/)'s voice came through anyway -- shouting about permitting the Embrace, about severity, about precedent. Lodin's silence was worse than any answer. Then the library door flew open and Belthazar crossed the suite in four strides, coat flaring. Muttering: owes her something, he says. Phahhh. Owes her nothing.
 
 The front door slammed hard enough to rattle the liquor cabinet. Lodin called Roarke into the library and told him about London.
 

@@ -15,15 +15,15 @@ The letter had no name on it. Cream paper, old cursive, slid under the studio do
 
 [Sable](/sable-price/) read it twice and put it face-down on the counter and drove to Miller Beach with a dead woman's handwriting following her all the way east.
 
-[Victor](/npcs/victor-salonika/) met her at the front door. Not the side. The front, with the porch light and the drawing room and the prince's acoustics designed to carry every whisper to every corner. New rules. All visits in the drawing room. Victor available. The side entrance and the private wing sealed off like a crime scene nobody had the nerve to call a crime.
+[Victor](/npcs/victor-salonika/) met her at the front door. Not the side. The front, with the porch light and the drawing room and the prince's acoustics designed to carry every whisper to every corner. New rules. All visits in the drawing room. [Victor](/npcs/victor-salonika/) available. The side entrance and the private wing sealed off like a crime scene nobody had the nerve to call a crime.
 
-[Allicia](/npcs/allicia/) sat in a chair by the window. Dark dress. Hair down. Thinner than Friday. The collarbone sitting wrong under the skin, the dullness that comes from a blood pool running on fumes. Sable sharpened her senses and read the room: dilated pupils, the sour scent of hunger, no fresh blood. [Modius](/npcs/modius/) was withholding. Starving his childe the way a man turns off the heat in February — not to kill, but to remind you who controls the furnace.
+[Allicia](/npcs/allicia/) sat in a chair by the window. Dark dress. Hair down. Thinner than Friday. The collarbone sitting wrong under the skin, the dullness that comes from a blood pool running on fumes. [Sable](/sable-price/) sharpened her senses and read the room: dilated pupils, the sour scent of hunger, no fresh blood. [Modius](/npcs/modius/) was withholding. Starving his childe the way a man turns off the heat in February — not to kill, but to remind you who controls the furnace.
 
-Modius wasn't home. No heartbeat upstairs. Just Victor at the sideboard and two Toreador women with a language nobody taught them.
+[Modius](/npcs/modius/) wasn't home. No heartbeat upstairs. Just Victor at the sideboard and two Toreador women with a language nobody taught them.
 
 "I've been thinking about hosting," Sable said. "A small gathering. Do you think gardenias are too much for a summer evening?"
 
-She talked about entertaining and guest lists and wine selection, and underneath the party planning she said: *I know he's starving you. I see what he's doing.* And Allicia, who had spoken six words in six months, used her seventh in a sentence about hospitality that meant: *Guests can't enjoy what they haven't been given.*
+She talked about entertaining and guest lists and wine selection, and underneath the party planning she said: *I know he's starving you. I see what he's doing.* And [Allicia](/npcs/allicia/), who had spoken six words in six months, used her seventh in a sentence about hospitality that meant: *Guests can't enjoy what they haven't been given.*
 
 Victor polished a glass. Two women discussing dinner parties. The most natural thing in the world.
 

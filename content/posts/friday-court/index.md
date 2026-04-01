@@ -16,9 +16,9 @@ She fed in a parking lot behind a strip club at eight o'clock on a Friday, which
 
 The drawing room. The chandelier. The piano lid closed, which meant [Modius](/npcs/modius/) was working. Small court: [Victor](/npcs/victor-salonika/) at the sideboard, [Falcon](/npcs/raymond-falcon/) in the corner cycling through whoever lived behind his eyes tonight, [Darius](/darius-cole/) at the bookshelf performing invisibility, and [Allicia](/npcs/allicia/) on the settee in a green dress with her hands folded and her mask so tight it could have been painted on.
 
-Modius looked at everyone in the room except Allicia. In a room that small, not looking at someone was the loudest sound in the building.
+[Modius](/npcs/modius/) looked at everyone in the room except [Allicia](/npcs/allicia/). In a room that small, not looking at someone was the loudest sound in the building.
 
-He called Darius to the study first. Ten minutes. When Darius came out something had shifted behind his eyes but his face gave nothing. Then Modius appeared in the doorway and said Sable's name the way a dentist calls the next appointment.
+He called [Darius](/darius-cole/) to the study first. Ten minutes. When Darius came out something had shifted behind his eyes but his face gave nothing. Then Modius appeared in the doorway and said [Sable](/sable-price/)'s name the way a dentist calls the next appointment.
 
 The study. Wood panels. A self-portrait on the wall, the brushwork competent and vain. One lamp. The door closed.
 

@@ -26,7 +26,7 @@ Something crossed her face. She went to the inner door, knocked once, leaned in.
 
 The office behind the office was small. Metal desk. Green glass lamp. A nautical chart of southern Lake Michigan pinned to the wall with thumbtacks. No computer. No telephone. The room of a man who conducted his business in person or not at all.
 
-Lucian sat behind the desk. Dark work shirt. No jewelry. The stillness of something that had stopped needing to move centuries ago and did it now only out of habit. He didn't stand. Didn't greet. The chair across from him was empty and Darius sat in it because standing would have said one thing and waiting would have said another and both of them were wrong.
+[Lucian](/npcs/lucian/) sat behind the desk. Dark work shirt. No jewelry. The stillness of something that had stopped needing to move centuries ago and did it now only out of habit. He didn't stand. Didn't greet. The chair across from him was empty and [Darius](/darius-cole/) sat in it because standing would have said one thing and waiting would have said another and both of them were wrong.
 
 He laid it out. The mortgage folder. Lakeside Holdings LLC. Gerald Fisk drowning in debt. Morris & Peck in Hammond. [The Torch](/locations/the-torch/). The math: whoever owns the building owns the food supply. And the turn, the reason he was sitting in an ancient Gangrel's office at eleven on a Monday night: maybe there's a deal where everybody gets something and nobody goes to war over a strip club.
 
@@ -42,7 +42,7 @@ The woman stood. Through the open door: "What kind of problem?"
 
 "Eddie found Terrell behind the container stack. Bleeding from the neck. Looks like a dog got him but there's no dog."
 
-Silence. The particular silence of a room where everyone knows what actually happened and the man who said *dog* is the only one who doesn't. Claudette looked at Lucian. One look. He stood and walked out past Darius without a word. The front door closed.
+Silence. The particular silence of a room where everyone knows what actually happened and the man who said *dog* is the only one who doesn't. [Claudette](/npcs/claudette-mallet/) looked at Lucian. One look. He stood and walked out past Darius without a word. The front door closed.
 
 Darius counted to five. Then he moved.
 

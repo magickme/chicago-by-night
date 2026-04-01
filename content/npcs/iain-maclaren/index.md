@@ -35,7 +35,7 @@ Built the Great Lakes pipeline in the early 1900s as European Kindred sought pas
 
 The proceeds from this odd cargo allow MacLaren to maintain his position — that, and the occasional Kindred he diverts when desperately in need of reinforcements against periodic Sabbat assaults. The pipeline funds everything.
 
-MacLaren already knows who [Darius](/darius-cole/) is. Lucian's operation means he has files on every Kindred who touches the Gary waterfront. His attitude depends on what Darius did to the pipeline.
+MacLaren already knows who [Darius](/darius-cole/) is. [Lucian](/npcs/lucian/)'s operation means he has files on every Kindred who touches the Gary waterfront. His attitude depends on what [Darius](/darius-cole/) did to the pipeline.
 
 ## Kingston's Four Vampires
 

@@ -12,13 +12,13 @@ description: "A detective with a notebook. A word in a parking lot. A painter wh
 
 ---
 
-The stevedore's blood tasted like January. Cold bourbon and brake fluid and the metallic tang of a man calculating how many payments he could miss before the bank took the truck. Darius drank until the hunger went quiet and then he drank a little more, because the night ahead required a full tank and a clear head, and in this city the two were the same thing.
+The stevedore's blood tasted like January. Cold bourbon and brake fluid and the metallic tang of a man calculating how many payments he could miss before the bank took the truck. [Darius](/darius-cole/) drank until the hunger went quiet and then he drank a little more, because the night ahead required a full tank and a clear head, and in this city the two were the same thing.
 
 He left the man propped against the bar stool and walked into the cold. Michigan Avenue at ten o'clock, Gary in winter, the mills dark against a sky the color of ash. The Cutlass was parked around the corner. He sat behind the wheel and didn't start the engine and thought about [Gregory Stephens](/npcs/gregory-stephens/).
 
 A detective. [Evelyn](/npcs/evelyn-stephens/)'s brother. A man with a notebook and a set of questions about the docks and a memory that included [Darius Cole](/darius-cole/)'s face at Dock 7 on the night the Soviet crates came in. Three days Darius had let that sit. Three days of lying on his bed in the west-side apartment staring at the water stain on the ceiling and running the math on how long it took for a cop's private investigation to become a cop's official report.
 
-The stevedore had given him the answer without knowing what he was giving. Gregory Stephens went to a bar called the Horseshoe most nights after shift. Alone. Back booth. Notebook. Running his own investigation into the docks because his sister vanished and nobody in the department cared enough to look, so he was looking himself.
+The stevedore had given him the answer without knowing what he was giving. [Gregory Stephens](/npcs/gregory-stephens/) went to a bar called the Horseshoe most nights after shift. Alone. Back booth. Notebook. Running his own investigation into the docks because his sister vanished and nobody in the department cared enough to look, so he was looking himself.
 
 Off the books. No partner. No reports filed. Just a man and a notebook and a feeling that something was wrong at the waterfront.
 
@@ -50,7 +50,7 @@ The word left his mouth and traveled the distance between them and landed in Gre
 
 Gregory's hand froze. The cigarette dropped. His pupils swallowed his irises and his face went slack and he stood there in the parking lot of the Horseshoe at twenty minutes past midnight with his mouth open and his mind empty and his body waiting for instructions.
 
-Darius spoke low. Even. The voice Chuc Luc had taught him in the cellar. Not loud. Inevitable.
+Darius spoke low. Even. The voice [Chuc Luc](/npcs/chuc-luc/) had taught him in the cellar. Not loud. Inevitable.
 
 "You never saw me at the docks. You don't remember my face. The investigation you've been running — the shipments, the questions, the dock workers — it's over. You're done with it. There's nothing there. You were wasting your time and you knew it. Let it go."
 
@@ -68,13 +68,13 @@ Gregory had been thorough. Three weeks of work, organized in the methodical hand
 
 On the last page, in Gregory's careful hand: *[Shepard](/npcs/william-shepard/) — FBI? ATF?* A phone number circled twice. The detective had found the name but hadn't made the call. The connection between a Gary cop's private grief and a federal agent's professional interest had existed only in Gregory's notebook, and now the notebook was in the passenger seat of a dead man's Cutlass, and the bridge between those two worlds had been burned by a single word spoken in a parking lot.
 
-Darius put the folder under the seat. Kept the Polaroid of the unknown man. Kept Shepard's number. The rest was insurance against a future he couldn't predict.
+Darius put the folder under the seat. Kept the Polaroid of the unknown man. Kept [Shepard](/npcs/william-shepard/)'s number. The rest was insurance against a future he couldn't predict.
 
 He drove east.
 
 ---
 
-Telton Cemetery at a quarter past one in the morning was the kind of place that made Gary's living neighborhoods look optimistic. The gates were chained but the chain was theater — loose enough to squeeze through, the same way it had been the last time Darius came. Past the Civil War markers, through the section where the headstones leaned at angles that suggested the ground itself was tired of holding the dead upright, toward the maintenance shed at the back where a single candle burned in the window.
+[Telton Cemetery](/locations/telton-cemetery/) at a quarter past one in the morning was the kind of place that made Gary's living neighborhoods look optimistic. The gates were chained but the chain was theater — loose enough to squeeze through, the same way it had been the last time Darius came. Past the Civil War markers, through the section where the headstones leaned at angles that suggested the ground itself was tired of holding the dead upright, toward the maintenance shed at the back where a single candle burned in the window.
 
 [Michael](/npcs/michael/) was sitting on a headstone outside the shed. Facing the direction Darius was coming from. Not surprised. The Malkavian had felt him approaching or seen it or known it the way the cracked ones knew things, through the fractures in their minds where something else looked through.
 
@@ -84,7 +84,7 @@ Darius walked the last twenty feet and held out the bag. Not dropping it, not se
 
 "I owed you this. For the docks. For pushing."
 
-Michael took the bag. Opened it in his lap. Turpentine. Brushes. Linseed oil. He held one of the brushes up to the candlelight and turned it slowly, studying the bristle, and for a moment the Malkavian was gone and what sat on the headstone was just a painter examining his tools with the attention of a man who understood that the instrument mattered as much as the hand.
+[Michael](/npcs/michael/) took the bag. Opened it in his lap. Turpentine. Brushes. Linseed oil. He held one of the brushes up to the candlelight and turned it slowly, studying the bristle, and for a moment the Malkavian was gone and what sat on the headstone was just a painter examining his tools with the attention of a man who understood that the instrument mattered as much as the hand.
 
 "You didn't have to."
 

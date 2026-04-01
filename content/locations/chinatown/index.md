@@ -25,7 +25,7 @@ ShowToc: false
 
 ## Function in Play
 
-- Chuc Luc's domain. Two territories, one mind. Old Chinatown is the public face, Wentworth Avenue and Cermak Road. New Chinatown is the pipeline hub, Argyle Street in Uptown, Vietnamese restaurants and import shops.
+- [Chuc Luc](/npcs/chuc-luc/)'s domain. Two territories, one mind. Old Chinatown is the public face, Wentworth Avenue and Cermak Road. New Chinatown is the pipeline hub, Argyle Street in Uptown, Vietnamese restaurants and import shops.
 - [Darius](/darius-cole/)'s sire-childe bond with Chuc Luc makes these streets simultaneously the safest and most dangerous ground in Chicago for him.
 - The Vietnamese restaurant cellar on Argyle is Chuc Luc's haven. She kills intruders. No warnings, no exceptions, no bodies found.
 
@@ -41,4 +41,4 @@ ShowToc: false
 
 - Chuc Luc. Completely. She has operated in this city longer than most Chicago Kindred realize, and the communities she feeds from protect her without knowing what she is.
 - Mortal community leaders owe her favors through intermediaries. Gang activity in her territory is low because the last three people who tried to establish it disappeared.
-- The proximity to Capone's old South Side territory creates friction. The Italian Kindred remember whose ground this used to be.
+- The proximity to [Capone](/npcs/capone/)'s old South Side territory creates friction. The Italian Kindred remember whose ground this used to be.

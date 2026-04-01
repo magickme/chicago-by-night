@@ -80,7 +80,7 @@ Ray flinched at the cold that came off Darius's body — they always did, the mo
 
 "Birch! Hey — hey, happy New Year, man. Sit down. You want a Schlitz? Eddie, get this man a Schlitz."
 
-Darius didn't want a Schlitz. Darius wanted what was behind Ray's eyes, which he could read the way a jeweler reads a setting: wife gone since October, kid stopped calling, crew drinking near him but not with him. The debts were the symptom. The loneliness was the disease. Ray Pulaski didn't need money. Ray Pulaski needed someone to need him.
+Darius didn't want a Schlitz. Darius wanted what was behind Ray's eyes, which he could read the way a jeweler reads a setting: wife gone since October, kid stopped calling, crew drinking near him but not with him. The debts were the symptom. The loneliness was the disease. [Ray Pulaski](/npcs/ray-pulaski/) didn't need money. Ray Pulaski needed someone to need him.
 
 Darius listened for eleven minutes. He knew because he counted. Ray talked about the holidays, about shift cuts in January, about the weather, about the Steelers. Darius nodded and didn't drink the Schlitz and waited for the seam in the conversation — the place where the casual became the vulnerable, where the talking-to-talk became the talking-because-you-can't-stop.
 
@@ -108,7 +108,7 @@ Then he drove home.
 
 ---
 
-The haven was a ground-floor apartment on the west side — blackout curtains, steel door, a phone line Chuc Luc had set up and Darius suspected Chuc Luc could tap whenever he wanted. He sat at the kitchen table with his notepad and a cup of coffee he wouldn't drink and wrote down everything.
+The haven was a ground-floor apartment on the west side — blackout curtains, steel door, a phone line [Chuc Luc](/npcs/chuc-luc/) had set up and Darius suspected Chuc Luc could tap whenever he wanted. He sat at the kitchen table with his notepad and a cup of coffee he wouldn't drink and wrote down everything.
 
 January 14. Dock 7. Three unmarked containers, initials L.C. Two gates — south service gate the best entry. Guard shack manned on normal nights, unmanned on holidays. Camera on the main gate, fogged lens, dead cable. Sal Petrocelli, bookie, dispatch office, fronted by Chicago Heights. Stevedores in debt — leverage available for purchase.
 
@@ -116,7 +116,7 @@ He closed the notepad and looked at the clock. Three-fourteen in the morning, th
 
 He had a date. He had a dock. He had a name. He had a strategy.
 
-The year was fourteen minutes old and Darius Cole already knew exactly what shape it was going to take. Not all of it — not yet — but the architecture was visible now, the way a building's skeleton is visible before the walls go up. You see the steel and you know what the rooms will be. You see the structure and you know where the weight will fall.
+The year was fourteen minutes old and [Darius Cole](/darius-cole/) already knew exactly what shape it was going to take. Not all of it — not yet — but the architecture was visible now, the way a building's skeleton is visible before the walls go up. You see the steel and you know what the rooms will be. You see the structure and you know where the weight will fall.
 
 He pulled a book from the shelf above the sink — *The Economics of Urban Decline*, a library discard he'd picked up at [Marlene](/npcs/marlene-voss/)'s pawnshop for fifty cents — and read until the sky outside the blackout curtains began to lighten. Then he locked the door, checked the curtains twice, and went to sleep in the narrow bed that smelled like concrete and nothing else.
 

@@ -21,6 +21,6 @@ Pershing is [Lady Anne](/npcs/lady-anne/)'s butler at her gothic mansion south o
 
 When [Lodin](/npcs/lodin/)'s business concludes, Pershing opens the door without knocking and informs the retainers that their master is finished. No small talk. No acknowledgment that they are people rather than luggage.
 
-He coughs strategically when the retainers pause in the hallway to eavesdrop on [Lady Anne](/npcs/lady-anne/)'s conversation with Lodin.
+He coughs strategically when the retainers pause in the hallway to eavesdrop on [Lady Anne](/npcs/lady-anne/)'s conversation with [Lodin](/npcs/lodin/).
 
 Nature: Loner. Demeanor: Caretaker.

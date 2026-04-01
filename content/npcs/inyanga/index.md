@@ -22,7 +22,7 @@ Not Gangrel. Laibon — an African vampire from a tradition with its own cosmolo
 
 Middle-aged woman with extremely dark and wrinkled skin. Wears hair high on her head, loose dresses, ancient hand-crafted jewelry. Nearly always barefoot, even in winter. Speaks softly, slowly, deliberately. Looks at people for a long time before speaking. Considers herself a defender of mortals, especially women. Ruthless against those who prey on them.
 
-Perception 7. Intelligence 5. Wits 7. Occult 7. Herbs 6. Auspex 5 (includes precognition and communication with the dead). Stamina 7. Humanity 7. Willpower 9. No permanent haven — sleeps in the earth of Chicago's parks, preferring Graceland Cemetery, in the grave soil of Kate Warne (1833-1868), first female private detective in the United States.
+Perception 7. Intelligence 5. Wits 7. Occult 7. Herbs 6. Auspex 5 (includes precognition and communication with the dead). Stamina 7. Humanity 7. Willpower 9. No permanent haven — sleeps in the earth of Chicago's parks, preferring [Graceland Cemetery](/locations/graceland-cemetery/), in the grave soil of Kate Warne (1833-1868), first female private detective in the United States.
 
 ## Before the Embrace
 
@@ -50,7 +50,7 @@ This ability convinced African werecats that a vampire capable of becoming a liv
 
 Hunted by the Malkavian's progeny, she went to sleep under the watchful eye of a faithful retainer on a slave ship bound for the New World. More than two centuries of torpor to recover. Awoke in Baltimore. The Hunger drove her into Frenzy — she killed the descendants of her loyal retainer, including a ninety-year-old grandmother, the last of the line.
 
-Fled west. Reached Chicago in 1852, when it was still on the outskirts of civilization. She came because she heard a Black Prince (Maxwell) ruled it. One of the first Primogen to arrive.
+Fled west. Reached Chicago in 1852, when it was still on the outskirts of civilization. She came because she heard a Black Prince ([Maxwell](/npcs/maxwell/)) ruled it. One of the first Primogen to arrive.
 
 ## The Laibon Heritage
 
@@ -66,8 +66,8 @@ Inyanga's Legacy is unclear from published sources. Her mortal abilities (herb l
 
 Inyanga touches every node on the Great Lakes corridor:
 
-- **Gary docks:** Lucian imports Laibon through the Gary Export Company on her behalf. The docklands are the entry point; Gary is the staging ground. Beckett's Jyhad Diary confirms: *"He's just opened the boxes containing a brand new coterie of Laibon, fresh to the New World, and ready to meet Inyanga."*
-- **Chicago-Milwaukee Psychopomp:** Co-operates the underground shuttle with Prince Mark Decker. The Goblin Roads between the two cities cut through Lupine-haunted wasteland: cornfields that whisper at frequencies below human hearing, roadside memorials where esoteric blood offerings must be laid for safe passage.
+- **Gary docks:** [Lucian](/npcs/lucian/) imports Laibon through the Gary Export Company on her behalf. The docklands are the entry point; Gary is the staging ground. Beckett's Jyhad Diary confirms: *"He's just opened the boxes containing a brand new coterie of Laibon, fresh to the New World, and ready to meet Inyanga."*
+- **Chicago-Milwaukee Psychopomp:** Co-operates the underground shuttle with Prince [Mark Decker](/npcs/mark-decker/). The Goblin Roads between the two cities cut through Lupine-haunted wasteland: cornfields that whisper at frequencies below human hearing, roadside memorials where esoteric blood offerings must be laid for safe passage.
 - **Gangrel mobilization:** If word comes from Inyanga, every Gangrel in Chicago listens. In very short order the entire clan can be mobilized.
 - **Laibon diaspora:** She has aided the covert colonization of the New World for an unknown period. Laibon arrive disguised as Gangrel immigrants and are absorbed into Camarilla cities without suspicion.
 
@@ -79,10 +79,10 @@ Brokered the truce with the werewolves after Under a Blood Red Moon. Whatever sh
 
 Can calm Xaviar, the former Gangrel Justicar, with a single word. They have known each other a very long time — Xaviar traveled Africa extensively in his younger days, made acquaintances among indigenous vampires, even learned some of their supernatural abilities. When Beckett said "Laibon," Xaviar's eyes darted straight to Inyanga. He knows her secret. He owes her a boon.
 
-In the V20 era, Inyanga pursued the Heart of Osiris — a Coptic jar whose power could awaken a torpid Methuselah at full strength. When asked about it, her eyes narrowed: *"I heard of such a thing long ago..."*
+In the V20 era, Inyanga pursued [the Heart](/locations/the-heart/) of Osiris — a Coptic jar whose power could awaken a torpid Methuselah at full strength. When asked about it, her eyes narrowed: *"I heard of such a thing long ago..."*
 
 Beckett tested his theory at Graceland Cemetery: *"You're not actually a Gangrel, are you, Mother Inyanga?"* She chuckled. The recording ends.
 
-Controlled by Menele through extended Domination. She does not know this. Her decisions, loyalties, and strategic instincts are shaped by a Methuselah she has never consciously met. The pipeline is Menele's circulatory system, and Inyanga is its heart.
+Controlled by [Menele](/npcs/menele/) through extended Domination. She does not know this. Her decisions, loyalties, and strategic instincts are shaped by a Methuselah she has never consciously met. The pipeline is Menele's circulatory system, and Inyanga is its heart.
 
 The poly-Gehenna theory she shared with Beckett: *"Everything has its seasons and cycles. Death and birth. The world is always ending. There is always another Gehenna coming. The question is which ones can be endured, escaped, or reshaped."*

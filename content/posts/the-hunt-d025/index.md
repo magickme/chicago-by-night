@@ -60,7 +60,7 @@ Dale slid down the Ford's door panel and sat in the slush with his head back and
 
 Dale nodded. The gratitude was still in his eyes. The memory of the conversation, which Darius had left intact because it cost nothing and because somewhere under the architecture there was still a man who remembered what it felt like to be listened to and have it mean something.
 
-He sat in the Cutlass with the engine running and the blood working through him like current through a wire, restoring what four days of rationing had eroded, and the thing in the basement settled back to its corner, and Darius Cole was a person again. The kind of person who fed on a man's desperation and called it necessity. The kind of person who bought a stranger four beers so he could drink him in a parking lot. Humanity seven. Load-bearing number.
+He sat in the Cutlass with the engine running and the blood working through him like current through a wire, restoring what four days of rationing had eroded, and the thing in the basement settled back to its corner, and [Darius Cole](/darius-cole/) was a person again. The kind of person who fed on a man's desperation and called it necessity. The kind of person who bought a stranger four beers so he could drink him in a parking lot. Humanity seven. Load-bearing number.
 
 ---
 
@@ -110,6 +110,6 @@ The entire law enforcement apparatus of Gary, Indiana, was about to spend the ne
 
 He drove home on a route he'd never taken. New streets, new turns, random pattern. [Dane](/npcs/sullivan-dane/) was out there with a notebook and a patience that smelled like burning, and Darius Cole was done being predictable.
 
-The Cutlass pulled into the alley behind the haven and the engine ticked in the cold and the snow started again. Small dry flakes that collected in the cracks of everything broken, which in Gary was everything. Tomorrow was Tuesday. The call to Chuc Luc was not a report. It was a negotiation.
+The Cutlass pulled into the alley behind the haven and the engine ticked in the cold and the snow started again. Small dry flakes that collected in the cracks of everything broken, which in Gary was everything. Tomorrow was Tuesday. The call to [Chuc Luc](/npcs/chuc-luc/) was not a report. It was a negotiation.
 
 And the stranger on the rail spur who knew his name and smelled like old leather and spoke in riddles that assembled themselves into truth, that meeting was not what Darius thought it was. He didn't know that yet. He'd know it tomorrow.

@@ -14,11 +14,11 @@ description: "A federal agent two nights early. A ghoul who handled it. A paypho
 
 He saw the blazer through the window and knew he was late.
 
-Saturday night, The Torch half-full, Otis Redding bleeding through the speakers and the neon turning everything on Broadway the color of a wound. [Darius](/darius-cole/) had driven four blocks to brief a man on a conversation that was already happening. SA [William Shepard](/npcs/william-shepard/) sat at the bar with his notebook open and his back to the door and [Victor Salonika](/npcs/victor-salonika/) stood across from him with his hands flat on the wood like a man taking an oath.
+Saturday night, [The Torch](/locations/the-torch/) half-full, Otis Redding bleeding through the speakers and the neon turning everything on Broadway the color of a wound. [Darius](/darius-cole/) had driven four blocks to brief a man on a conversation that was already happening. SA [William Shepard](/npcs/william-shepard/) sat at the bar with his notebook open and his back to the door and [Victor Salonika](/npcs/victor-salonika/) stood across from him with his hands flat on the wood like a man taking an oath.
 
-Darius walked in. Sat three stools down. Ordered a bourbon he wouldn't drink and became the fourth piece of furniture in a conversation between three: the federal agent, the ghoul, and the empty stool between them.
+[Darius](/darius-cole/) walked in. Sat three stools down. Ordered a bourbon he wouldn't drink and became the fourth piece of furniture in a conversation between three: the federal agent, the ghoul, and the empty stool between them.
 
-Victor was good. Better than good. He gave Shepard everything the agent wanted and nothing he could use. He knew [Allicia](/npcs/allicia/), first name only. He managed the bar. He didn't handle paperwork. Lakeside Holdings was a name on the lease he'd never studied. Morris and Peck meant nothing to him.
+[Victor](/npcs/victor-salonika/) was good. Better than good. He gave [Shepard](/npcs/william-shepard/) everything the agent wanted and nothing he could use. He knew [Allicia](/npcs/allicia/), first name only. He managed the bar. He didn't handle paperwork. Lakeside Holdings was a name on the lease he'd never studied. Morris and Peck meant nothing to him.
 
 "And you know a Warren Birch?"
 

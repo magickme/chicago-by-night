@@ -20,9 +20,9 @@ D-Train. Thursdays. Blue van. Twelve to nineteen, female, mostly Black, dollar a
 
 Forty-three people reduced to abbreviations. The youngest was twelve. The column never used a name.
 
-Darius closed the notebook. The church needed to burn.
+[Darius](/darius-cole/) closed the notebook. The church needed to burn.
 
-Sable said, "A better question might be who carries the insurance," and the answer was nobody, because nobody insures a boarded-up church in south Gary, and that was the point. Buildings burned in Gary every month. Fire trucks came in twenty minutes if they came at all. Squatter candle. Wiring. An origin story that wrote itself in a city where everything was already on fire. Darius would give the key to [Ray Pulaski](/npcs/ray-pulaski/) and the church would be gone by the weekend and the anchor bolts and the chain and the stain in the wood would become ash that nobody would test because nobody in Gary tested ash.
+[Sable](/sable-price/) said, "A better question might be who carries the insurance," and the answer was nobody, because nobody insures a boarded-up church in south Gary, and that was the point. Buildings burned in Gary every month. Fire trucks came in twenty minutes if they came at all. Squatter candle. Wiring. An origin story that wrote itself in a city where everything was already on fire. Darius would give the key to [Ray Pulaski](/npcs/ray-pulaski/) and the church would be gone by the weekend and the anchor bolts and the chain and the stain in the wood would become ash that nobody would test because nobody in Gary tested ash.
 
 He briefed her on [Juggler](/npcs/juggler/). She filed it. They didn't linger. Two vampires exchanging operational intelligence in a booth at a bar where the jukebox covered the words and the bartender knew enough to keep his distance. Sable left the way she always left — the room tilting toward her, then settling back to its natural shape when the door closed.
 
@@ -30,11 +30,11 @@ Darius checked his watch. Quarter to twelve. Cemetery at midnight.
 
 ---
 
-The Cutlass rolled south on Grant past the dead blocks where the streetlights gave up. Telton Cemetery sat on the edge of the wasteland — six acres of headstones and overgrown paths behind chain-link that hadn't been maintained since the groundskeeper stopped getting paid. The docks were a quarter mile southeast. [Lucian](/npcs/lucian/)'s territory started somewhere in the dark between the last headstone and the water.
+The Cutlass rolled south on Grant past the dead blocks where the streetlights gave up. [Telton Cemetery](/locations/telton-cemetery/) sat on the edge of the wasteland — six acres of headstones and overgrown paths behind chain-link that hadn't been maintained since the groundskeeper stopped getting paid. The docks were a quarter mile southeast. [Lucian](/npcs/lucian/)'s territory started somewhere in the dark between the last headstone and the water.
 
 Darius parked on the access road. Killed the engine. The cemetery was black, the kind of dark that cities aren't supposed to have — no lights, no ambient glow, just the industrial orange reflecting off low clouds and the smell of lake water carried inland on warm July wind.
 
-Juggler said [Danov](/npcs/alexander-danov/) would find him. Not the other way around.
+[Juggler](/npcs/juggler/) said [Danov](/npcs/alexander-danov/) would find him. Not the other way around.
 
 He stood by the car. Waited. Read the cemetery the way he'd been taught to read rooms — not looking for what was there but for what was wrong. The emptiness was wrong. No squatters in the mausoleums, no kids drinking behind headstones, no one at all in a dark unwatched space on a summer night. Someone kept this ground clear. And the animals — rats in the treeline moving in patterns that were too organized, a crow on a headstone forty yards east that was awake at midnight and tracking movement. Animalism or just the cemetery's native fauna following instructions from a source they couldn't name. Here, where a Nosferatu had been meeting people for decades, there was no difference.
 
@@ -44,7 +44,7 @@ Then a voice, close enough that it should have had footsteps first and didn't.
 
 "You're punctual. Juggler said you would be."
 
-Eight feet to Darius's left. The Obfuscate stopped and Danov was there — not arriving, just revealed, the way a wall becomes visible when a light changes. Short figure in a long coat. The face was what Nosferatu faces were. The details didn't matter because the eye refused to hold them, sliding off the wrongness the way water slides off wax. What registered was the coat, the posture, and the voice — deliberate, precise, every consonant placed like furniture in a room where nothing was accidental.
+Eight feet to Darius's left. The Obfuscate stopped and [Danov](/npcs/alexander-danov/) was there — not arriving, just revealed, the way a wall becomes visible when a light changes. Short figure in a long coat. The face was what Nosferatu faces were. The details didn't matter because the eye refused to hold them, sliding off the wrongness the way water slides off wax. What registered was the coat, the posture, and the voice — deliberate, precise, every consonant placed like furniture in a room where nothing was accidental.
 
 "Walk with me. I don't do business standing still."
 
@@ -52,7 +52,7 @@ They moved between headstones. The ground was soft where the earth had settled o
 
 "Juggler tells me you need paper. Federal-grade. A face that can sit across from a desk at the FBI field office and not melt." He didn't look at Darius when he spoke. He looked at the cemetery. "I have a man on Washington Street who does paper. Shallow layer — license, social, credit. Good enough for a traffic stop. Not good enough for the Bureau."
 
-The distinction was everything. [Shepard](/npcs/william-shepard/) wasn't going to pull Warren Birch over for running a stop sign. Shepard was going to run Warren Birch through Social Security Administration databases and IRS records and cross-reference employment history with addresses, and the shallow layer would collapse in seventy-two hours like a set built for a single scene.
+The distinction was everything. [Shepard](/npcs/william-shepard/) wasn't going to pull Warren Birch over for running a stop sign. [Shepard](/npcs/william-shepard/) was going to run Warren Birch through Social Security Administration databases and IRS records and cross-reference employment history with addresses, and the shallow layer would collapse in seventy-two hours like a set built for a single scene.
 
 "For federal, you need depth. Tax filings going back three years. W-2s from employers that exist. A credit report with activity." Danov stopped beneath a split oak. Turned. "I can build that. Four to six weeks."
 
@@ -66,11 +66,11 @@ The cemetery went quiet. The rats stopped. The crow watched.
 
 Darius deflected. Danov refused the deflection with the patience of a man who had been deflected by better liars for centuries. The conversation shifted — Darius asked about independence, about endgame, about where the information went once it entered the vault.
 
-Danov told him. Independent. Not [Modius](/npcs/modius/)'s, not Lucian's. Nosferatu. The economy underneath every other economy. "I'm building nothing. I'm maintaining. When Gary collapses — and the math is already done — the man who kept the records is the man Chicago calls first."
+Danov told him. Independent. Not [Modius](/npcs/modius/)'s, not [Lucian](/npcs/lucian/)'s. Nosferatu. The economy underneath every other economy. "I'm building nothing. I'm maintaining. When Gary collapses — and the math is already done — the man who kept the records is the man Chicago calls first."
 
 An archive. Not a weapon.
 
-Whether Darius believed that was a calculation he ran in three seconds — the posture, the voice, the fact that Danov had been sitting on information about the warehouse and the FBI and the handshake for weeks without using any of it. An information broker who used what he knew would have already sold Darius's cover story to Modius for a favor. The fact that he hadn't meant either he was playing a longer game or he was telling the truth, and in Gary, in 1990, in a cemetery at midnight, the longer game and the truth looked exactly the same.
+Whether Darius believed that was a calculation he ran in three seconds — the posture, the voice, the fact that Danov had been sitting on information about the warehouse and the FBI and the handshake for weeks without using any of it. An information broker who used what he knew would have already sold Darius's cover story to [Modius](/npcs/modius/) for a favor. The fact that he hadn't meant either he was playing a longer game or he was telling the truth, and in Gary, in 1990, in a cemetery at midnight, the longer game and the truth looked exactly the same.
 
 "[Chuc Luc](/npcs/chuc-luc/)."
 
@@ -104,7 +104,7 @@ Cantone's people. Had to be.
 
 And Danov had known. The Nosferatu hadn't told Darius about the sedan — he'd told him to feed in the place where the sedan was parked. The difference between giving a man information and teaching him to find it himself, which was the difference between a transaction and an education, and Danov had chosen the education because he was building something longer than paper.
 
-Darius stood in the dark and ran the board. The warehouse was compromised. Chuc Luc's shipment next week. Eddie as the hinge. The twenty-four sacks as the evidence. Cantone's escalation ladder — surveillance, then approach Eddie, then a crew, then report up to the capo, then soldiers. Darius needed to interrupt the ladder before it left Gary.
+Darius stood in the dark and ran the board. The warehouse was compromised. [Chuc Luc](/npcs/chuc-luc/)'s shipment next week. Eddie as the hinge. The twenty-four sacks as the evidence. Cantone's escalation ladder — surveillance, then approach Eddie, then a crew, then report up to the capo, then soldiers. Darius needed to interrupt the ladder before it left Gary.
 
 He walked to the sedan. One occupant. Mid-twenties, Bears cap, heavy jaw, the physique of a man who loaded trucks for a living and supplemented with gym time he no longer needed. The hand was somewhere below the dash — a piece in the console or in his lap. Darius knocked on the window.
 

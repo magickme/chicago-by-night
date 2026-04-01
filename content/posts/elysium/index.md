@@ -16,7 +16,7 @@ The mansion looked like a skull with candles in it.
 
 That was Sable's first thought as she pulled the Buick up to the curb — the tall windows glowing amber from inside, the dark stone facade, the roofline sagging on the north side where the architecture had given up pretending it was still alive. Two men stood at the front door in the cold. They didn't move when she walked past them because they couldn't. Their eyes tracked her the way security cameras track: mechanically, without recognition, without will.
 
-She'd spent the day getting ready. Cold water from the cast-iron sink, the work light propped against the stone wall, the compact mirror she'd been carrying since The Oasis. The black dress was the only good thing she owned that she hadn't stolen — [Michael](/npcs/michael/) had bought it for her during the painting sessions, had it delivered to the Roselle house in a box with tissue paper and a card that said *For the canvas* in handwriting that was older than photography. She put it on in a dead church basement and it fit the way Michael's clothes always fit: perfectly, possessively, like a frame built for a painting that hadn't been finished.
+She'd spent the day getting ready. Cold water from the cast-iron sink, the work light propped against the stone wall, the compact mirror she'd been carrying since The Oasis. The black dress was the only good thing she owned that she hadn't stolen — [Michael](/npcs/michael/) had bought it for her during the painting sessions, had it delivered to the Roselle house in a box with tissue paper and a card that said *For the canvas* in handwriting that was older than photography. She put it on in a dead church basement and it fit the way [Michael](/npcs/michael/)'s clothes always fit: perfectly, possessively, like a frame built for a painting that hadn't been finished.
 
 The fur coat was [Sharon](/npcs/sharon-payne/)'s. She wore it anyway. If you're going to walk into a room full of monsters, you might as well wear the skin of the one you fear most.
 
@@ -58,9 +58,9 @@ He named the domains. He noted the absent. He mentioned Chicago the way a man me
 
 And then [Allicia](/npcs/allicia/) stood up.
 
-The whole room stopped. Not dramatically — the way a room stops when the barometric pressure changes. Everyone felt it. The silent woman at the piano, the one who hadn't spoken in fifty years, the one who sat and watched and existed as furniture in Modius's decaying gallery — she stood. She looked at Modius. She looked at Sable. Her eyes moved between them with the precision of a needle finding a vein.
+The whole room stopped. Not dramatically — the way a room stops when the barometric pressure changes. Everyone felt it. The silent woman at the piano, the one who hadn't spoken in fifty years, the one who sat and watched and existed as furniture in [Modius](/npcs/modius/)'s decaying gallery — she stood. She looked at Modius. She looked at Sable. Her eyes moved between them with the precision of a needle finding a vein.
 
-The expression on her face was not anger. Anger requires a belief that things should be different. The expression on Allicia's face was the thing that comes after anger, when you've been sitting at a piano for half a century watching beautiful women walk through the door and walk out with the one person who owns you, and you've stopped being angry about it and started being something worse, which is awake.
+The expression on her face was not anger. Anger requires a belief that things should be different. The expression on [Allicia](/npcs/allicia/)'s face was the thing that comes after anger, when you've been sitting at a piano for half a century watching beautiful women walk through the door and walk out with the one person who owns you, and you've stopped being angry about it and started being something worse, which is awake.
 
 Four seconds. Then she sat down. Hands in her lap. Eyes on the floor.
 
@@ -74,7 +74,7 @@ She stood alone in the ballroom. The candles were guttering in their tarnished h
 
 She set the wine glass on the mantelpiece. She had not taken a single sip. She had not spoken to a single person other than the prince. She had performed the role of beautiful lost fledgling for three hours and the performance had been flawless and nobody had broken character to talk to her afterward because the performance was so good that they all believed it, and believing it meant there was nothing to say to a girl who didn't know anything and belonged to the prince.
 
-She walked to the front door. The Dominated bodyguards didn't look at her. The door closed. The cold hit and she pulled Sharon's coat around herself and walked to the Buick and got in and sat behind the wheel and did not start the engine for a long time.
+She walked to the front door. The Dominated bodyguards didn't look at her. The door closed. The cold hit and she pulled [Sharon](/npcs/sharon-payne/)'s coat around herself and walked to the Buick and got in and sat behind the wheel and did not start the engine for a long time.
 
 She drove to Polk and Thirteenth. Green door. Brass key. Deadbolt. She sat on the fur coat on the tile floor in the rectory kitchen and listened to the boiler tick and the pigeons shift in the rafters overhead and the nothing that lived in the gaps between those sounds.
 
@@ -82,6 +82,6 @@ Modius had called her *Miss Price* and claimed her in front of the court and giv
 
 She'd walked into a room full of immortals and made every one of them believe exactly what she wanted them to believe.
 
-The reward was a basement and the sound of a boiler and the knowledge that the performance worked, which meant the performance would have to continue, which meant there would never be a night when she walked into a room and someone saw Sable Price instead of what Sable Price was showing them.
+The reward was a basement and the sound of a boiler and the knowledge that the performance worked, which meant the performance would have to continue, which meant there would never be a night when she walked into a room and someone saw [Sable Price](/sable-price/) instead of what Sable Price was showing them.
 
 She lay down on the fur coat. She did not sleep for a long time. When she did, she dreamed about her mother's hands — the swelling, the splits, the chemical burns that never healed — and woke up before dawn with her own hands pressed against the cold stone wall, reaching for something that wasn't there and had never been there and would never be there again.

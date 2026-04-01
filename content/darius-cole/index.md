@@ -49,7 +49,7 @@ What drove him wasn't greed or anger. It was architecture. He wanted to *build* 
 
 ## The Embrace
 
-Chuc Luc found Darius through the money.
+[Chuc Luc](/npcs/chuc-luc/) found Darius through the money.
 
 The wholesaler in Chicago Heights — the one Darius never got a real name from — turned out to be one of the tributaries in Chuc Luc's laundering network. When the wholesaler's books showed a consistent, clean, low-profile operation moving $8,000 a month through a rust belt pawnshop circuit, Chuc Luc sent someone to find out who was behind it. The answer came back: a twenty-five-year-old Black kid from Midtown Gary who had never been arrested, never bragged, and never once asked the wholesaler a personal question.
 
@@ -93,7 +93,7 @@ The answer he gives anyone who asks: "I just want to survive, sir."
 
 ## What He Fears
 
-**The Beast.** Not as metaphor. He has felt it — in the cellar during the Embrace, in the alley behind a bar when the hunger got too sharp, in the moment when one of Modius's bodyguards shouldered him at court and something inside Darius *uncoiled* and wanted to tear the man's throat out with its teeth. The Beast is the end of the plan. If he loses control, everything he builds collapses.
+**The Beast.** Not as metaphor. He has felt it — in the cellar during the Embrace, in the alley behind a bar when the hunger got too sharp, in the moment when one of [Modius](/npcs/modius/)'s bodyguards shouldered him at court and something inside Darius *uncoiled* and wanted to tear the man's throat out with its teeth. The Beast is the end of the plan. If he loses control, everything he builds collapses.
 
 **Being forgotten.** He watched Gary forget his father. Watched the city forget the 30,000 men who built its steel. In the Jyhad, neonates who fail to matter are erased — not killed, just *forgotten*, which is worse.
 

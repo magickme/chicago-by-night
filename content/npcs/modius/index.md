@@ -23,7 +23,7 @@ Sired by [Annabelle Triabell](/npcs/annabelle-triabell/), Toreador Primogen of C
 
 Embraced in the nineteenth century. Claims involvement in founding the Arcanum. Claims acquaintance with every literary and occult figure of the 1800s and early 1900s. The claims are unverifiable and inexhaustible.
 
-Failed attempt to seize Chicago praxis in 1913. [Lodin](/npcs/lodin/) pushed him to Gary. Starting in 1921, Lodin sent [Ballard](/npcs/ballard/) and [Capone](/npcs/capone/) against him — the Interdiction, a slow economic strangulation that gutted Gary's industrial base over forty years. Modius did not lose a war. He lost a siege he never understood was happening.
+Failed attempt to seize Chicago praxis in 1913. [Lodin](/npcs/lodin/) pushed him to Gary. Starting in 1921, [Lodin](/npcs/lodin/) sent [Ballard](/npcs/ballard/) and [Capone](/npcs/capone/) against him — the Interdiction, a slow economic strangulation that gutted Gary's industrial base over forty years. Modius did not lose a war. He lost a siege he never understood was happening.
 
 Sources disagree on his appearance. Some describe a former French-African colonial. Others describe a stately white man of average height in his early forties. The Dust to Dust account says he looks like Albert Einstein in expensive but outdated clothing. Whatever the truth, the vanity is consistent.
 

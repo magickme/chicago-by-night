@@ -16,7 +16,7 @@ description: "A narrow shop off Piccadilly. Lot 47. A man in a lavender tie who 
 
 He found it in the back corner. Lot 47. Admiral Tourney's journal. The right-hand page, near the bottom, in handwriting that had gone tight and private: *My greatest delight, though, was a memo from A relating that another fragment of the so-called Book of Nod has been* -- and the page ended there.
 
-Roarke knew the name. Every ghoul who'd served long enough had heard it. The vampire Genesis. The text that recorded the curse and the origin. This was what [Lodin](/npcs/lodin/) flew across an ocean for.
+[Roarke](/npcs/roarke/) knew the name. Every ghoul who'd served long enough had heard it. The vampire Genesis. The text that recorded the curse and the origin. This was what [Lodin](/npcs/lodin/) flew across an ocean for.
 
 He cased the room. Fourteen people. Twelve were what they looked like. Two weren't. A heavyset collector from the Naval Heritage Foundation who'd been at the journal case for twenty minutes. And a younger man at the back wall who hadn't looked at anything in particular but had looked at everyone.
 
@@ -34,11 +34,11 @@ Twenty-two thousand five hundred.
 
 Every head turned. The younger man. The American suit. The cold tea. Standing with no paddle, just a raised hand and a smile aimed at Roarke like a letter addressed to him personally.
 
-He tripled Roarke's counter. Then tripled again. Sixty-nine thousand pounds. Roarke bid seventy thousand from Lodin's Swiss account because Lodin had said six words on a plane and those words didn't have a ceiling.
+He tripled Roarke's counter. Then tripled again. Sixty-nine thousand pounds. Roarke bid seventy thousand from [Lodin](/npcs/lodin/)'s Swiss account because Lodin had said six words on a plane and those words didn't have a ceiling.
 
 The younger man shook his head. The gavel came down. He walked out past Roarke's chair close enough that Roarke could smell the aftershave -- American, expensive -- and see the lavender tie.
 
-A limousine waited at the curb. Natasha followed and lost him in two blocks.
+A limousine waited at the curb. [Natasha](/npcs/natasha/) followed and lost him in two blocks.
 
 Back at the hotel, Roarke gave Lodin everything. The journal, the price, the Swiss account, the man. Lodin listened. Said the Swiss account was the correct decision. Said the man in the lavender tie would surface again. They always do when they want something.
 

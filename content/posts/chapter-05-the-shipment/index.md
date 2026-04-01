@@ -12,7 +12,7 @@ description: "January 14. The date from the clipboard. Darius comes to observe. 
 
 ---
 
-The containers were already there. That was the first wrong thing. The clipboard said January 14 — arrival date, Dock 7, three units, no origin, no contents, initials L.C. — but when Darius came through the south gate at half past eleven, the containers were sitting on the concrete like they'd been waiting for days. Dark steel, forty feet long, stacked in a row at the far end of the dock behind the corrugated warehouse that blocked the sightline from the dispatch office. The work light in the middle container threw a rectangle of yellow across the ground that looked, from the service gate, like an open mouth.
+The containers were already there. That was the first wrong thing. The clipboard said January 14 — arrival date, Dock 7, three units, no origin, no contents, initials L.C. — but when [Darius](/darius-cole/) came through the south gate at half past eleven, the containers were sitting on the concrete like they'd been waiting for days. Dark steel, forty feet long, stacked in a row at the far end of the dock behind the corrugated warehouse that blocked the sightline from the dispatch office. The work light in the middle container threw a rectangle of yellow across the ground that looked, from the service gate, like an open mouth.
 
 The second wrong thing was the man behind the pallets.
 
@@ -34,7 +34,7 @@ He let the blood do what the skill couldn't. Felt it surge into his legs, his an
 
 The stack of pallets was invisible in the shadow. He caught it with his shin. The top pallet slid, tilted, and fell three feet to the concrete, and the sound it made was the loudest thing Darius had ever heard. A flat wooden crack that bounced off every steel surface on the dock and came back as an echo that said *you are here and everyone knows it.*
 
-Gregory Stephens was ten feet away, running — not toward Darius but away from something behind him, the dock crew, two big men, one with a crowbar — and the crack stopped him like a wall. He spun. His hand went to his hip. His eyes found the gap between the containers where Darius was standing in the dark, and for one second that lasted much longer than a second, they looked at each other.
+[Gregory Stephens](/npcs/gregory-stephens/) was ten feet away, running — not toward Darius but away from something behind him, the dock crew, two big men, one with a crowbar — and the crack stopped him like a wall. He spun. His hand went to his hip. His eyes found the gap between the containers where Darius was standing in the dark, and for one second that lasted much longer than a second, they looked at each other.
 
 The detective saw a Black man in a dark coat. Calm face. No weapon visible. Not running, not hiding, just standing there like he had a reason to be in this particular shadow at this particular moment.
 
@@ -88,7 +88,7 @@ And a ring. Gold, heavy, carved with a crest that Darius couldn't fully make out
 
 A Gangrel elder. Melded into ancestral earth. Being shipped through Gary Exports Co. like cargo, through the St. Lawrence Seaway, from Odessa to Lake Michigan, bypassing Chicago, bypassing the Camarilla, bypassing every structure and protocol and prince that existed between the Black Sea and the Rust Belt.
 
-Lucian wasn't running a smuggling operation. He was running an underground railroad. The guns were a side business — currency, payment, the grease that kept the machine turning. The real cargo was the boxes. Ancient Kindred, traveling in their native earth, arriving in the New World through a back door that nobody was watching because nobody thought Gary, Indiana, was worth watching.
+[Lucian](/npcs/lucian/) wasn't running a smuggling operation. He was running an underground railroad. The guns were a side business — currency, payment, the grease that kept the machine turning. The real cargo was the boxes. Ancient Kindred, traveling in their native earth, arriving in the New World through a back door that nobody was watching because nobody thought Gary, Indiana, was worth watching.
 
 Darius pulled back from the ventilation hole. His hands were shaking. Vampires don't shake. He was shaking.
 

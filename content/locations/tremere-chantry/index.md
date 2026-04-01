@@ -22,12 +22,12 @@ ShowToc: false
 ## Function in Play
 
 - Chicago's Tremere power base. Every Thaumaturgical working, every blood sample catalogued, every political calculation runs through this building.
-- Where Nicolai holds court over a clan that operates less like a covenant and more like a corporate intelligence service.
+- Where [Nicolai](/npcs/nicolai/) holds court over a clan that operates less like a covenant and more like a corporate intelligence service.
 - Critical location for Tremere PC integration and the [Erichtho](/npcs/erichtho/) bridge thread. What the chantry knows about Milwaukee's [Carna](/npcs/carna/) could break [Allicia](/npcs/allicia/)'s bond.
 
 ## Physical Read
 
-- Three-story brownstone on a tree-lined Gold Coast block between Astor Street and the lake. Limestone facade, black iron fence, a garden that stays green too late into November. The neighbors assume old money. They are half right.
+- Three-story brownstone on a tree-lined [Gold Coast](/locations/gold-coast/) block between Astor Street and the lake. Limestone facade, black iron fence, a garden that stays green too late into November. The neighbors assume old money. They are half right.
 - Inside: hardwood floors, a library that smells of binding glue and something metallic, laboratories behind locked doors on the third floor. Every room temperature-controlled. Every threshold warded.
 - The basement is two levels deeper than the building permits show. The lower level has a stone floor older than the foundation above it.
 

@@ -46,7 +46,7 @@ He listened the way a man listens when he's receiving confirmation of something 
 
 The word *useful* landed twice. Once as a compliment. Once as a collar.
 
-Then the task. Chicago's seneschal had called about *conditions in Gary*. A representative coming within two weeks to assess. Modius wanted Sable as his attaché. A face Chicago hadn't catalogued. Someone who could charm the assessor, read their aura, make Gary feel stable enough to survive the inspection.
+Then the task. Chicago's seneschal had called about *conditions in Gary*. A representative coming within two weeks to assess. [Modius](/npcs/modius/) wanted [Sable](/sable-price/) as his attaché. A face Chicago hadn't catalogued. Someone who could charm the assessor, read their aura, make Gary feel stable enough to survive the inspection.
 
 She accepted. The pause before *tea* was a gift she left on the table between them, and what it contained was ambiguity, and ambiguity was the currency she traded in because it spent the same in every register.
 
@@ -70,9 +70,9 @@ The east-side bar was a necessity. Tuesday night, half-empty, country music figh
 
 The payphone at eleven. [Darius](/darius-cole/) answered on the second ring, the sound of a man who keeps appointments.
 
-She gave him everything. The report, the task, the Torch play, the Kowalski plate. Full disclosure was the coterie's operating principle. She honored it the way she honored most principles: with the parts she chose, in the order that served her, because a Survivor's honesty and a Ventrue's honesty were both complete and both had architecture and the architecture was the part that wasn't discussed.
+She gave him everything. The report, the task, [the Torch](/locations/the-torch/) play, the Kowalski plate. Full disclosure was the coterie's operating principle. She honored it the way she honored most principles: with the parts she chose, in the order that served her, because a Survivor's honesty and a Ventrue's honesty were both complete and both had architecture and the architecture was the part that wasn't discussed.
 
-"The representative changes things," Darius said. Then he told her what the change meant in the language of systems: exposure, evidence, every operation they'd built becoming either invisible or a verdict. He said the piano move was clean, and the compliment had the warmth of a Ventrue acknowledging competence, which was no warmth at all and was somehow warmer for its absence.
+"The representative changes things," [Darius](/darius-cole/) said. Then he told her what the change meant in the language of systems: exposure, evidence, every operation they'd built becoming either invisible or a verdict. He said the piano move was clean, and the compliment had the warmth of a Ventrue acknowledging competence, which was no warmth at all and was somehow warmer for its absence.
 
 Kendrick's at eleven-twenty. The ghoul reports. [Spoon](/npcs/spoon-antoine/) had seen the Olds on Monday night: Sixteenth Street, eleven to two, a man smoking in a parked car and watching blocks where a dead man used to stand. Coop came through the bay door at eleven-fifty with the Berwyn assessment. Brick bungalow. Scanner antennas. A pickup in the driveway and the Olds somewhere else. A neighbor on a porch, watching him on the second pass with the expression that gave him thirty seconds before a phone call and a description that would begin and end with the one detail that mattered in Berwyn, Illinois, in 1990.
 

@@ -18,7 +18,7 @@ Not the apartment. Not the stove or the wiring or any of the sixteen things wron
 
 Four nights since he'd fed. The hunger wasn't sharp yet. It sat behind his sternum like a stone, dense and patient, and he could feel it in the way his eyes tracked the pulse in his own wrist. The math was simple. Ten became nine became eight. Eight became seven. Seven became six. At six the arithmetic stopped being abstract and started being physical, a weight in the blood that changed how the world looked.
 
-He dressed and drove south on Adams. The fire was at 1514 — a frame house with aluminum siding that had melted down one wall like candle wax. Two pumper trucks. A ladder truck. Thirty-five people on the sidewalk watching someone else's catastrophe. The orange tape and the sodium lights made everything the same color, and in that color Darius found what he was looking for.
+He dressed and drove south on Adams. The fire was at 1514 — a frame house with aluminum siding that had melted down one wall like candle wax. Two pumper trucks. A ladder truck. Thirty-five people on the sidewalk watching someone else's catastrophe. The orange tape and the sodium lights made everything the same color, and in that color [Darius](/darius-cole/) found what he was looking for.
 
 She stood apart from the clusters. Blue nursing scrubs, Methodist badge, purse strap cutting a groove in her shoulder. Not watching the fire. Watching the building next to it, the one that still stood but wouldn't be livable once the smoke damage was assessed and the landlord decided not to fix it. She was doing arithmetic. Her face said the numbers didn't work.
 
@@ -46,9 +46,9 @@ The mansion sat at the Emerson-Midtown seam like a mausoleum that still accepted
 
 [Modius](/npcs/modius/) received him in the study. Lamp positioned to catch the caller's face and leave the prince in shadow. The predatory aura of a seventh-generation Toreador filled the room like barometric pressure, and Darius sat in the deep chair and felt every vertebra in his spine register the difference between his blood and the blood on the other side of the desk.
 
-The prince was warm. Pleased with the Lucian work. And frightened, under the warmth, of something he spoke about the way people speak about weather they can't control.
+The prince was warm. Pleased with the [Lucian](/npcs/lucian/) work. And frightened, under the warmth, of something he spoke about the way people speak about weather they can't control.
 
-Chicago was sending someone. A representative. To assess conditions. Two weeks. Likely Auspex. Likely Ventrue or Tremere. Someone who read ledgers, not poetry, and Modius said that last part with a bitterness that cracked the mask for half a second before the plaster set again.
+Chicago was sending someone. A representative. To assess conditions. Two weeks. Likely Auspex. Likely Ventrue or Tremere. Someone who read ledgers, not poetry, and [Modius](/npcs/modius/) said that last part with a bitterness that cracked the mask for half a second before the plaster set again.
 
 Then the other thing. The men at the union hall. Suits. Suburban accents. Asking about warehouse leases in Gary. Modius's people had reported it, and the prince did not know what it meant, and not knowing was corroding him from the inside.
 

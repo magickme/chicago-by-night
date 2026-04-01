@@ -33,7 +33,7 @@ ShowToc: false
 
 ## Who Controls It
 
-- **Mary Lou "Bitch Queen" [Vannoy](/npcs/mary-lou-vannoy/)** — Leader. Cherokee/English/Swedish. Waist-length black hair braided with barbed wire. App 5, Man 4, Arete 4. Spheres: Entropy 3, Forces 2, Matter 4, Prime 1. Plays lead guitar in a thrash band. Compulsively organized. Ran away at 14, Awakened violently (two chickenhawks died, murders unsolved).
+- **[Mary](/npcs/mary-lou-vannoy/) Lou "Bitch Queen" [Vannoy](/npcs/mary-lou-vannoy/)** — Leader. Cherokee/English/Swedish. Waist-length black hair braided with barbed wire. App 5, Man 4, Arete 4. Spheres: Entropy 3, Forces 2, Matter 4, Prime 1. Plays lead guitar in a thrash band. Compulsively organized. Ran away at 14, Awakened violently (two chickenhawks died, murders unsolved).
 - **Alvin Locke** — Muscle. Stocky 18-year-old, multicolored hair. Computer geek in a football player's body. Arete 2. Spheres: Forces 1, Life 2, Mind 1, Prime 2.
 - **Hutch** — Stocky 17-year-old, curly black hair, big green glasses. Collects books. Secret crush on Herman.
 - **Herman Fleming** — Power tools in the garage.

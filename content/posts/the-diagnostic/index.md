@@ -16,7 +16,7 @@ The Cutlass ran cold for three blocks. December in Gary meant the heater was a p
 
 Nine cars in [the Torch](/locations/the-torch/) lot. [Victor](/npcs/victor-salonika/)'s Buick. A pickup he'd catalog later. The neon sign spelled its name in pink and gold and the bass came through the brick in a low pulse that matched nothing inside the building. He turned onto the access road toward the docks and the blood moved.
 
-Not a sound. Not a thought. Something in the marrow that predated both -- a pressure shift behind the sternum, and the thing that lived in the lowest room of his body lifted its head. Kindred. Close. Moving south through the dead space between the Torch and the shuttered carpet warehouse, through the alley where the sodium light gave up and the dumpsters made a corridor into the back lot.
+Not a sound. Not a thought. Something in the marrow that predated both -- a pressure shift behind the sternum, and the thing that lived in the lowest room of his body lifted its head. Kindred. Close. Moving south through the dead space between [the Torch](/locations/the-torch/) and the shuttered carpet warehouse, through the alley where the sodium light gave up and the dumpsters made a corridor into the back lot.
 
 He pulled to the curb. Cut the engine.
 
@@ -26,7 +26,7 @@ He'd never seen her before. Not at [Modius](/npcs/modius/)'s court. Not at the T
 
 Behind her, in the alley, someone was making a sound that belonged to neither pain nor pleasure. The aftermath of the Kiss, when the ecstasy ebbs and the body remembers it has a hole in it.
 
-Darius let the girl walk. He counted to ten. Then he turned the key without catching the engine, released the column, and let the Cutlass roll north on Broadway's slight grade with the headlights dark and gravity doing the work.
+[Darius](/darius-cole/) let the girl walk. He counted to ten. Then he turned the key without catching the engine, released the column, and let the Cutlass roll north on Broadway's slight grade with the headlights dark and gravity doing the work.
 
 She moved fast. Not running -- walking with the kind of speed that came from a blood that wanted to run and a mind that knew better. Past the check-cashing storefront with its steel grate. Past the liquor store where the Hamm's sign buzzed. Two blocks north she cut west on Fifteenth and Darius keyed the ignition and followed with the lights still off, a dark car on a dark street, the engine noise swallowed by the distance he kept.
 
@@ -36,7 +36,7 @@ The ore smelter sat behind a chain-link gate in a row of decommissioned building
 
 [Juggler](/npcs/juggler/)'s haven.
 
-The implication had one shape and it wasn't ambiguous. An unauthorized Kindred with a key to Juggler's front door. The word was *childe* and the word carried a death sentence from any Prince who bothered to enforce it and a war with any sire who refused to hand one over.
+The implication had one shape and it wasn't ambiguous. An unauthorized Kindred with a key to [Juggler](/npcs/juggler/)'s front door. The word was *childe* and the word carried a death sentence from any Prince who bothered to enforce it and a war with any sire who refused to hand one over.
 
 Darius sat in the Cutlass and felt the architecture settle into place. He didn't know the name yet. He knew the structure: leverage he hadn't paid for, handed to him by a girl who didn't know she'd been followed and a sire who didn't know his secret was standing in a parking lot at half past midnight with the engine ticking.
 
@@ -62,9 +62,9 @@ Three successes. The memory set like concrete. Terry would wake up stiff and she
 
 Darius tucked the Marlboros back into the breast pocket. Left the keys. Walked to the Cutlass.
 
-The drive to Modius's mansion took eleven minutes. He used every one of them building the report: what to give, what to keep, where to draw the line between loyalty and leverage. The cleanup. The competence. The fact of a man who comes to his Prince at one in the morning with a solved problem instead of an unsolved one.
+The drive to [Modius](/npcs/modius/)'s mansion took eleven minutes. He used every one of them building the report: what to give, what to keep, where to draw the line between loyalty and leverage. The cleanup. The competence. The fact of a man who comes to his Prince at one in the morning with a solved problem instead of an unsolved one.
 
-Victor opened the door. The house smelled like wood polish and radiant heat and the accumulated silence of four centuries of a man who owned rooms he'd stopped entering.
+[Victor](/npcs/victor-salonika/) opened the door. The house smelled like wood polish and radiant heat and the accumulated silence of four centuries of a man who owned rooms he'd stopped entering.
 
 Modius was in the study. The lamplight found his jaw, his silver hair, his hands on the chair arms. Darius stood inside the door and gave him the minimum: found a feeding victim in the Torch alley. Fresh wound, male, mortal. Cleaned it. Sealed the wound, rewrote the memory. Sloppy but not savage. Didn't see who fed.
 

@@ -22,11 +22,11 @@ Adequate.
 
 He fed somewhere in Mayfair with [Natasha](/npcs/natasha/) and [Derek](/npcs/derek-gallen/). Came back at quarter past eight with color under his skin. Changed into an evening suit that fit like it had been made for him in this city, which it probably had. Then: all of you, with me, we're expected.
 
-In the van, ten minutes into the drive, Lodin said he wanted to see a show in the West End.
+In the van, ten minutes into the drive, [Lodin](/npcs/lodin/) said he wanted to see a show in the West End.
 
 The West End. The theatre district.
 
-Roarke said: may I politely remind you that Queen Anne's Court stipulated no feeding in the theatre district. Simply as a matter of awareness.
+[Roarke](/npcs/roarke/) said: may I politely remind you that Queen [Anne](/npcs/lady-anne/)'s Court stipulated no feeding in the theatre district. Simply as a matter of awareness.
 
 Two seconds. Three. Lodin turned from the window and looked at Roarke and something behind his eyes recalibrated.
 
@@ -42,7 +42,7 @@ Lodin adjusted his cuffs. Became the Prince. Walked to the front door and knocke
 
 The door closed.
 
-Roarke told the others to stay put and walked up the gravel path. The gargoyles watched. Pershing opened the door and raised one hand -- palm out, fingers together -- without looking at Roarke directly. Then turned and walked down a corridor lined with portraits painted by someone who understood what power looked like when it sat still.
+Roarke told the others to stay put and walked up the gravel path. The gargoyles watched. [Pershing](/npcs/pershing/) opened the door and raised one hand -- palm out, fingers together -- without looking at Roarke directly. Then turned and walked down a corridor lined with portraits painted by someone who understood what power looked like when it sat still.
 
 From behind a closed door, two voices:
 

@@ -27,7 +27,7 @@ ShowToc: false
 
 ## Function in Play
 
-The dead ground between the city Kindred hold and the border the Anubi defend. Abandoned houses, shuttered businesses, empty lots. Milwaukee's version of Gary's Wasteland. Nobody claims the Barrens because claiming them means defending them, and the Barrens are not worth the cost. Feeding is possible among the homeless, the addicted, and the people who fell through the cracks. Demetri's tunnel network runs beneath parts of it.
+The dead ground between the city Kindred hold and the border the Anubi defend. Abandoned houses, shuttered businesses, empty lots. Milwaukee's version of Gary's Wasteland. Nobody claims the Barrens because claiming them means defending them, and the Barrens are not worth the cost. Feeding is possible among the homeless, the addicted, and the people who fell through the cracks. [Demetri](/npcs/demetri/)'s tunnel network runs beneath parts of it.
 
 ## Who Controls It
 

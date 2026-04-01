@@ -27,7 +27,7 @@ ShowToc: false
 
 ## Function in Play
 
-Where Milwaukee ends and Lupine territory begins. The Outlands are the suburban buffer between the city's Kindred-controlled core and the Garou packs that surround it. [Decker](/npcs/mark-decker/)'s Anubi patrol here every night, fighting a slow war of attrition against the Coyote and Eagle packs. This is where the coterie earns Decker's trust or writes off the border defense as someone else's problem.
+Where Milwaukee ends and Lupine territory begins. The Outlands are the suburban buffer between the city's Kindred-controlled core and the Garou packs that surround it. [Decker](/npcs/mark-decker/)'s Anubi patrol here every night, fighting a slow war of attrition against the Coyote and Eagle packs. This is where the coterie earns [Decker](/npcs/mark-decker/)'s trust or writes off the border defense as someone else's problem.
 
 ## Who Controls It
 

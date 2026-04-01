@@ -31,6 +31,6 @@ ShowToc: false
 
 ## Who Controls It
 
-- Modius directly.
+- [Modius](/npcs/modius/) directly.
 - [Allicia](/npcs/allicia/) shapes the emotional climate.
 - Dominated union stewards supply muscle and visible order.

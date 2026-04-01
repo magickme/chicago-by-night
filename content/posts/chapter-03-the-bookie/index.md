@@ -20,7 +20,7 @@ He was Ralph Rego tonight. Check-cashing operator from the west side. Friendly. 
 
 He was six steps from the door when he saw the second shape through the window.
 
-Sal was behind the desk — Darius recognized the silhouette from Ray's description, the small man in the big chair. But across from him, hunched in a folding chair with his coat pulled around him like a cocoon, was a figure Darius knew. The limp. The slanted shoulders. The way he held himself like something that had been broken and set wrong.
+Sal was behind the desk — [Darius](/darius-cole/) recognized the silhouette from Ray's description, the small man in the big chair. But across from him, hunched in a folding chair with his coat pulled around him like a cocoon, was a figure Darius knew. The limp. The slanted shoulders. The way he held himself like something that had been broken and set wrong.
 
 [Michael](/npcs/michael/).
 
@@ -32,7 +32,7 @@ He didn't walk away. That was the second mistake. The first was coming here on a
 
 He pulled back from the doorway. A half-step, maybe less. Not enough.
 
-Michael had felt him coming. That was the thing about Malkavians — the cracked ones, the ones who lived in cemeteries and talked to headstones — they had senses that operated on frequencies the other clans couldn't tune. Auspex. The psychic antenna that picked up Kindred vitae the way a dog picks up fear. Michael had been tracking Darius's approach while sitting across from a mortal bookie eating a meatball sub, and when Darius appeared in the doorway for that fractional second, Michael was already looking at the exact spot where his face would be.
+[Michael](/npcs/michael/) had felt him coming. That was the thing about Malkavians — the cracked ones, the ones who lived in cemeteries and talked to headstones — they had senses that operated on frequencies the other clans couldn't tune. Auspex. The psychic antenna that picked up Kindred vitae the way a dog picks up fear. Michael had been tracking Darius's approach while sitting across from a mortal bookie eating a meatball sub, and when Darius appeared in the doorway for that fractional second, Michael was already looking at the exact spot where his face would be.
 
 Their eyes met. A quarter-second. Then Darius was around the corner, pressing his back against the corrugated wall of the warehouse, breathing air he didn't need, thinking very fast.
 
@@ -110,7 +110,7 @@ Sal looked at the bill. Looked at Darius. Pushed it back across the desk with on
 
 "I don't know you."
 
-Three words, and in them Darius heard the whole machinery of Sal Petrocelli's survival: twenty years of running book on Lucian's docks by never, ever letting an unknown variable into the equation. Sal didn't need to be smart. He just needed to be consistent. And consistently, he did not do business with men he hadn't seen before.
+Three words, and in them Darius heard the whole machinery of Sal Petrocelli's survival: twenty years of running book on [Lucian](/npcs/lucian/)'s docks by never, ever letting an unknown variable into the equation. Sal didn't need to be smart. He just needed to be consistent. And consistently, he did not do business with men he hadn't seen before.
 
 Darius picked up the hundred. "OK, OK my man, no problem, no problem. I'll go to a card house. No sweat, no sweat."
 

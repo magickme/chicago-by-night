@@ -18,7 +18,7 @@ The lights died at ten forty-seven. Three seconds of blackness, the jukebox cutt
 
 ---
 
-Darius went around. Through the front, left on Broadway, the .357 snub in his right hand inside the coat. The alley was dark the way Gary alleys are dark: completely, like the city had given up on the concept of sight lines. He rounded the corner and kicked a bottle and the sound traveled the length of the alley like an announcement.
+[Darius](/darius-cole/) went around. Through the front, left on Broadway, the .357 snub in his right hand inside the coat. The alley was dark the way Gary alleys are dark: completely, like the city had given up on the concept of sight lines. He rounded the corner and kicked a bottle and the sound traveled the length of the alley like an announcement.
 
 Something moved. Twenty feet in, near the service door. The motion was wrong. Not wrong the way a drunk is wrong, or a junkie, or a man with an injury. Wrong the way a thing moves when the operator learned locomotion from a manual instead of from birth. Weight shifting in increments that skipped the steps between standing and turning.
 
@@ -34,7 +34,7 @@ Darius saw a sick kid. Meth, PCP, paint thinner. Gary produced all three. The .3
 
 "Hey. You need help? You can't be back here."
 
-The service door opened behind the boy. Bar light spilled into the alley. Victor, shotgun first, with Sable behind him.
+The service door opened behind the boy. Bar light spilled into the alley. [Victor](/npcs/victor-salonika/), shotgun first, with [Sable](/sable-price/) behind him.
 
 The boy's head turned toward the light. Toward Sable. The rotation was too fast and too far, the neck moving past where a neck should stop, another quarter-inch, the tendons visible under the gray skin like cables under canvas.
 
@@ -60,7 +60,7 @@ Sable held the brooch and her sharpened senses read it: centuries old, handmade,
 
 "This is Kindred. Whoever dropped it in your alley was one of us."
 
-Victor wanted to tell Allicia. Darius cut him off.
+Victor wanted to tell [Allicia](/npcs/allicia/). Darius cut him off.
 
 "We'll handle it. Sable's friends with her."
 
@@ -78,11 +78,11 @@ The eye moved to Sable. Three seconds.
 
 "She's pretty. The pretty ones are always the most trouble."
 
-The shed was small and full of candles and the paintings Darius had paid for with turpentine and linseed oil five months ago. Small dark canvases on the walls. One showed the cemetery from above with the headstones open and the coffins empty and something black and formless sitting in the center. Another showed The Torch at night with a shape in the alley that wasn't a boy and wasn't a shadow.
+The shed was small and full of candles and the paintings Darius had paid for with turpentine and linseed oil five months ago. Small dark canvases on the walls. One showed the cemetery from above with the headstones open and the coffins empty and something black and formless sitting in the center. Another showed [The Torch](/locations/the-torch/) at night with a shape in the alley that wasn't a boy and wasn't a shadow.
 
 He'd painted it months ago. He already knew.
 
-"The ground got sick in the winter," Michael said. Cross-legged on the mattress, rocking. "Something came in from outside and went into the dirt. Not a vampire. Not a ghost. Ghosts are sad. This is hungry."
+"The ground got sick in the winter," [Michael](/npcs/michael/) said. Cross-legged on the mattress, rocking. "Something came in from outside and went into the dirt. Not a vampire. Not a ghost. Ghosts are sad. This is hungry."
 
 He looked at Sable with the stare that went through your face and read the wall behind your skull.
 

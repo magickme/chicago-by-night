@@ -25,7 +25,7 @@ ShowToc: false
 
 ## Function in Play
 
-- Darius's operational base.
+- [Darius](/darius-cole/)'s operational base.
 - Where debt, hunger, laundering, and cover-story maintenance all meet.
 
 ## Who Controls It

@@ -49,7 +49,7 @@ Nobody ever did.
 
 ## The Embrace
 
-Michael Payne was painting again. That was how it always started with him — a burst of creative obsession that lasted weeks or months and ended when Sharon destroyed whatever he'd made.
+[Michael](/npcs/michael/) Payne was painting again. That was how it always started with him — a burst of creative obsession that lasted weeks or months and ended when Sharon destroyed whatever he'd made.
 
 He found Sable at The Oasis on a Tuesday in November 1988. She wasn't the best dancer on the stage. She was the one you couldn't stop watching. Michael sketched her for three hours. He offered her money to sit for him. Not sex. Just sit. She said yes because the money was good and because he didn't look at her the way Big Six looked at her. He looked at her the way a man looks at a painting he wants to buy. Which was, she would later understand, exactly the same thing, just more expensive.
 
@@ -75,9 +75,9 @@ To be seen. Not the body, not the face, not the thing that men project onto her 
 
 ## What She Fears
 
-**Sharon Payne.** The ex-wife. The woman who shared Sable like a bottle of wine and then tried to smash her when Michael fell in love. Sharon is out there, in Chicago, and she has not forgotten.
+**[Sharon Payne](/npcs/sharon-payne/).** The ex-wife. The woman who shared Sable like a bottle of wine and then tried to smash her when Michael fell in love. Sharon is out there, in Chicago, and she has not forgotten.
 
-**Becoming [Allicia](/npcs/allicia/).** The silent Toreador at the piano. The beautiful woman who stopped speaking fifty years ago because there was nothing left to say. Sable looks at Allicia and sees the future: a weapon someone else aims, a body someone else owns, beauty reduced to function.
+**Becoming [Allicia](/npcs/allicia/).** The silent Toreador at the piano. The beautiful woman who stopped speaking fifty years ago because there was nothing left to say. Sable looks at [Allicia](/npcs/allicia/) and sees the future: a weapon someone else aims, a body someone else owns, beauty reduced to function.
 
 **Big Six.** He's still alive. He's still in Chicago. And the supernatural compulsion she thought the Embrace would free her from — the gravity of a man who decided she was his — turns out to be a mortal rehearsal for the Blood Bond. The cage was always the same shape. The bars just changed material.
 
