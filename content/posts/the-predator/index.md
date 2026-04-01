@@ -12,13 +12,13 @@ description: "A woman walks into GD territory with a .38 she can barely shoot an
 
 ---
 
-The Torch was doing its Friday night routine. Bobby Brown on the jukebox, the air conditioning failing against July, bodies filling the barstools and the booths and the spaces between them with the particular density of a crowd that had nowhere better to go and knew it and had made peace with the knowing. The drywall crew spending Thursday's check. The nursing students from IU Northwest sharing a pitcher of something yellow. Two men at the pool table who'd been playing since six and would be playing at last call because the game was better than whatever they'd go home to.
+[The Torch](/locations/the-torch/) was doing its Friday night routine. Bobby Brown on the jukebox, the air conditioning failing against July, bodies filling the barstools and the booths and the spaces between them with the particular density of a crowd that had nowhere better to go and knew it and had made peace with the knowing. The drywall crew spending Thursday's check. The nursing students from IU Northwest sharing a pitcher of something yellow. Two men at the pool table who'd been playing since six and would be playing at last call because the game was better than whatever they'd go home to.
 
-Victor set a glass of water on the bar without being asked. The far stool. Her stool. Back to the wall, sight line to the door.
+[Victor](/npcs/victor-salonika/) set a glass of water on the bar without being asked. The far stool. Her stool. Back to the wall, sight line to the door.
 
 [Sable](/sable-price/) sat and drank the water and watched the room the way she always watched rooms — from behind the performance of not watching. The water was cold. The glass sweated in her hand. Outside, the strip was wet from the rain that had come and gone while she was underground in East Chicago, and the headlights on Broadway crawled through the puddles and turned them into mirrors that showed nothing but themselves.
 
-She'd been moving for forty-eight hours. The marathon of Thursday night — the federal agent at the Torch, the prince in his drawing room, Amy's aura dimming, the Dan Ryan at dawn — was still in her muscles, in the particular tiredness that vampires carried when the body stopped pretending it had muscles to tire. She should have been looking for a haven. The church was charcoal. The studio had a telephone that her mother could call at any hour. She had nowhere to sleep that wasn't borrowed or bugged or burned.
+She'd been moving for forty-eight hours. The marathon of Thursday night — the federal agent at [the Torch](/locations/the-torch/), the prince in his drawing room, Amy's aura dimming, the Dan Ryan at dawn — was still in her muscles, in the particular tiredness that vampires carried when the body stopped pretending it had muscles to tire. She should have been looking for a haven. The church was charcoal. The studio had a telephone that her mother could call at any hour. She had nowhere to sleep that wasn't borrowed or bugged or burned.
 
 Instead she sat at the bar and thought about Marcus Tillman.
 
@@ -28,13 +28,13 @@ Big Six. The name his boys gave him, and the name he wore the way a man wears a 
 
 He'd never touched her. He didn't have to. His presence was enough to clear the room around her, to build a zone of silence that kept every other man at the distance he'd decided was appropriate, and the distance he'd decided was appropriate was the distance between a thing and its owner. She danced. He watched. The transaction was unspoken because the spoken version would have required her consent, and consent was not part of the architecture he was building.
 
-The Embrace hadn't fixed it. She'd thought it would. She'd driven to Gary and left Chicago behind and the scar tissue where Big Six had pressed his thumbprint was supposed to heal the way mortal wounds healed when the blood started working and the body became something other than a body. It hadn't. He'd followed her to Gary — or his business had brought him here, or the same gravity that pulled her to The Torch pulled him there too, and the two near-misses at the bar were the universe reminding her that the predator she'd fled wasn't going to stop being a predator just because she'd become one too.
+The Embrace hadn't fixed it. She'd thought it would. She'd driven to Gary and left Chicago behind and the scar tissue where Big Six had pressed his thumbprint was supposed to heal the way mortal wounds healed when the blood started working and the body became something other than a body. It hadn't. He'd followed her to Gary — or his business had brought him here, or the same gravity that pulled her to [The Torch](/locations/the-torch/) pulled him there too, and the two near-misses at the bar were the universe reminding her that the predator she'd fled wasn't going to stop being a predator just because she'd become one too.
 
-She finished the water. Set the glass down. Waited for Victor.
+She finished the water. Set the glass down. Waited for [Victor](/npcs/victor-salonika/).
 
 "Marcus Tillman. He been in this week?"
 
-Victor's hand slowed on the towel. "Not since Tuesday. Came in with two of his boys. Stayed an hour. Didn't drink much." The pause. "He asked about you."
+[Victor](/npcs/victor-salonika/)'s hand slowed on the towel. "Not since Tuesday. Came in with two of his boys. Stayed an hour. Didn't drink much." The pause. "He asked about you."
 
 "What did you tell him?"
 
@@ -42,15 +42,15 @@ Victor's hand slowed on the towel. "Not since Tuesday. Came in with two of his b
 
 "Where does he go when he's not here?"
 
-Victor set the glass in the rack. "There's a place on Fifteenth and Adams. Auto shop, Kendrick's, closed five years ago. The boys use the lot." He looked at her. "You sure about this?"
+[Victor](/npcs/victor-salonika/) set the glass in the rack. "There's a place on Fifteenth and Adams. Auto shop, Kendrick's, closed five years ago. The boys use the lot." He looked at her. "You sure about this?"
 
 She was already off the stool.
 
 ---
 
-The Torch office smelled like old cigarettes and a filing system nobody had updated since Reagan's first term. Bottom drawer, under a stack of liquor invoices from '88: a snub-nose .38 with the grip wrapped in electrical tape, and a gravity knife with a black handle. The bat was behind the door but the bat was a statement and statements weren't what tonight required.
+[The Torch](/locations/the-torch/) office smelled like old cigarettes and a filing system nobody had updated since Reagan's first term. Bottom drawer, under a stack of liquor invoices from '88: a snub-nose .38 with the grip wrapped in electrical tape, and a gravity knife with a black handle. The bat was behind the door but the bat was a statement and statements weren't what tonight required.
 
-The .38 went in the waistband at the small of her back. The knife went in her jacket pocket. She checked the cylinder — five rounds, the action stiff but functional — and returned the office key to Victor and walked out the front door into the wet heat of Broadway without saying goodbye because goodbye was a word for people who planned to come back the same way they left.
+The .38 went in the waistband at the small of her back. The knife went in her jacket pocket. She checked the cylinder — five rounds, the action stiff but functional — and returned the office key to [Victor](/npcs/victor-salonika/) and walked out the front door into the wet heat of Broadway without saying goodbye because goodbye was a word for people who planned to come back the same way they left.
 
 ---
 
@@ -62,7 +62,7 @@ Fifteenth and Adams. The houses were worse here. Some were frames — roof gone,
 
 She opened her senses. The world sharpened.
 
-Four heartbeats in the lot. Three grouped tight, near the building's west wall, in shadow. One in a car — engine idling, radio low. Two voices trading sentences, one deep, one younger. A third man saying nothing. The deep voice — she'd heard it. The Torch. Twice. That bass register that occupied space the way a building occupied space, by displacement.
+Four heartbeats in the lot. Three grouped tight, near the building's west wall, in shadow. One in a car — engine idling, radio low. Two voices trading sentences, one deep, one younger. A third man saying nothing. The deep voice — she'd heard it. [The Torch](/locations/the-torch/). Twice. That bass register that occupied space the way a building occupied space, by displacement.
 
 Big Six was forty feet away.
 
@@ -78,7 +78,7 @@ Not loud. Not to a mortal twenty yards away. But the quiet one — the soldier, 
 
 One word. The other two stopped talking. Big Six uncrossed his arms. The younger one stepped sideways. Three men facing the door, ten yards away. The soldier already moving, getting an angle.
 
-Sable stood behind the door. The .38 at her back. The knife in her pocket. The plan she'd carried from the Torch was in pieces on the concrete floor.
+[Sable](/sable-price/) stood behind the door. The .38 at her back. The knife in her pocket. The plan she'd carried from [the Torch](/locations/the-torch/) was in pieces on the concrete floor.
 
 She pushed the door wide and stepped into the lot.
 
@@ -114,7 +114,7 @@ Twenty-four seconds. The entire transaction.
 
 Three men standing in a lot with their boss's body. The spell held them the way amber holds insects — perfectly, completely, the illusion of possible movement if they could just remember how.
 
-Sable stood over Big Six. Blood on her chin. The night air on her skin. She looked at the three of them the way a woman looks at furniture she's deciding whether to keep.
+[Sable](/sable-price/) stood over Big Six. Blood on her chin. The night air on her skin. She looked at the three of them the way a woman looks at furniture she's deciding whether to keep.
 
 "On your knees. I took out your capo. You know what that means. Kneel. Kneel to me. You work for me now."
 

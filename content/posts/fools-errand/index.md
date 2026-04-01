@@ -30,14 +30,14 @@ He picked up the journal. Leaned close.
 
 [Lodin](/npcs/lodin/) said he would send you out on your own sometime during this trip. I just had to wait for the right time.
 
-Roarke's hand shot up and closed around Quinn's throat. Quinn's eyes widened. He gagged. Clawed at Roarke's wrist. Hit him in the chest where the hole was. White light. The fingers loosened because the blood was leaving and the muscles followed the blood and the dark was patient.
+[Roarke](/npcs/roarke/)'s hand shot up and closed around Quinn's throat. Quinn's eyes widened. He gagged. Clawed at [Roarke](/npcs/roarke/)'s wrist. Hit him in the chest where the hole was. White light. The fingers loosened because the blood was leaving and the muscles followed the blood and the dark was patient.
 
-Quinn pulled free. Rubbing his throat. Looking at Roarke on the pavement with something that might have been respect.
+Quinn pulled free. Rubbing his throat. Looking at [Roarke](/npcs/roarke/) on the pavement with something that might have been respect.
 
 Tough old bastard.
 
-He uncorked a small glass vial. Dark liquid, almost black, thicker than blood. Pressed it to Roarke's lips. It tasted like time. Like something so old it had forgotten what age meant.
+He uncorked a small glass vial. Dark liquid, almost black, thicker than blood. Pressed it to [Roarke](/npcs/roarke/)'s lips. It tasted like time. Like something so old it had forgotten what age meant.
 
 The dark came anyway. Slower than it should have. Somewhere underneath, something ancient kept a candle lit in a room that should have been empty.
 
-Roarke's eyes closed. The last thing he saw was the orange streetlamp and the gargoyles on the building across the street and the sky that wasn't his sky over a city that wasn't his city, and somewhere under all of it, quieter than the blood and the bullet and the sixty-one years, the thought that he had spent his whole life carrying things for other people and the last thing he carried was a package he couldn't hold on to.
+[Roarke](/npcs/roarke/)'s eyes closed. The last thing he saw was the orange streetlamp and the gargoyles on the building across the street and the sky that wasn't his sky over a city that wasn't his city, and somewhere under all of it, quieter than the blood and the bullet and the sixty-one years, the thought that he had spent his whole life carrying things for other people and the last thing he carried was a package he couldn't hold on to.
