@@ -27,7 +27,7 @@ ShowToc: false
 
 - A quiet node in Chicago's supernatural geography. Historic cemetery, final resting place of Allan Pinkerton, and the kind of place where the Shroud between the living and the dead wears thin.
 - Beckett used it as a haven, sleeping in grave soil near the plot of Kate Warne -- Pinkerton's first female detective. The grave dirt of a woman who spent her life uncovering secrets, chosen by a Kindred who does the same.
-- Ublo-Satha left a protective scarab amulet here for Beckett. That amulet is a thread connecting the Tremere, Menele's sleeper agent, and whatever Beckett knows about the Methuselah conflict.
+- [Ublo-Satha](/npcs/ublo-satha/) left a protective scarab amulet here for Beckett. That amulet is a thread connecting the Tremere, [Menele](/npcs/menele/)'s sleeper agent, and whatever Beckett knows about the Methuselah conflict.
 
 ## Who Controls It
 

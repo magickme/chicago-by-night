@@ -11,7 +11,7 @@ ShowToc: false
 <dl>
 <dt>Clan</dt><dd>Ventrue</dd>
 <dt>Generation</dt><dd>8th generation</dd>
-<dt>Role</dt><dd>Lodin's Lieutenant</dd>
+<dt>Role</dt><dd>[Lodin](/npcs/lodin/)'s Lieutenant</dd>
 <dt>City</dt><dd>Chicago</dd>
 </dl>
 </div>
@@ -29,8 +29,8 @@ His first heart attack came in 1878. The second in 1880. The terror that seized 
 
 Ballard paid $5,000 for the staked vampire and installed it in a locked basement under twenty-four-hour Pinkerton guard. He studied the creature for a month — measurements, sketches, experiments with blood and sunlight — with the methodical patience of a man cataloguing an investment. Then he pulled the stake. The vampire told him everything across a single night. Ballard took notes.
 
-He found Lodin's haven through bribes and legwork, then walked in with Pinkerton men and a stake pressed to Lodin's chest. Lodin threw Ballard's 600-pound body across the room and killed every guard in the house. Ballard wept, begged, and offered his entire fortune. Lodin, who recognized the name on the bank drafts, saw a use for the man that outlived the insult. He Embraced Ballard in 1881.
+He found [Lodin](/npcs/lodin/)'s haven through bribes and legwork, then walked in with Pinkerton men and a stake pressed to [Lodin](/npcs/lodin/)'s chest. [Lodin](/npcs/lodin/) threw Ballard's 600-pound body across the room and killed every guard in the house. Ballard wept, begged, and offered his entire fortune. [Lodin](/npcs/lodin/), who recognized the name on the bank drafts, saw a use for the man that outlived the insult. He Embraced Ballard in 1881.
 
-The Embrace preserved everything: the body, the appetite, the cruelty. Ballard discovered he could force down mortal food through sheer Willpower — massive quantities of it, a grotesque parlor trick that became a signature. He became Lodin's financial instrument, the creature who could Dominate a boardroom into compliance and then eat dinner with the corpses still cooling. When Lodin wanted Gary's economy gutted to punish Modius, Ballard orchestrated the capital flight, Dominated the business leaders, and watched the steel mills close with the satisfaction of a man who understood that poverty is a weapon you build, not a condition you find.
+The Embrace preserved everything: the body, the appetite, the cruelty. Ballard discovered he could force down mortal food through sheer Willpower — massive quantities of it, a grotesque parlor trick that became a signature. He became [Lodin](/npcs/lodin/)'s financial instrument, the creature who could Dominate a boardroom into compliance and then eat dinner with the corpses still cooling. When [Lodin](/npcs/lodin/) wanted Gary's economy gutted to punish [Modius](/npcs/modius/), Ballard orchestrated the capital flight, Dominated the business leaders, and watched the steel mills close with the satisfaction of a man who understood that poverty is a weapon you build, not a condition you find.
 
 His feeding preference settled into something worse than mere predation. He feeds exclusively on children aged eight or nine drawn from his own mortal bloodline — descendants who are told they must spend a week each year with a distant relative. The family cooperates because the trust fund is generous and the alternative is unthinkable. Humanity 0 is not a number. It is a description of what remains when a man who was already monstrous is given eternity to refine the practice.

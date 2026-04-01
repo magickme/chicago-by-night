@@ -11,7 +11,7 @@ ShowToc: false
 <dl>
 <dt>Clan</dt><dd>Ventrue</dd>
 <dt>Generation</dt><dd>8th generation</dd>
-<dt>Role</dt><dd>Succubus Club owner</dd>
+<dt>Role</dt><dd>[Succubus Club](/locations/succubus-club/) owner</dd>
 <dt>City</dt><dd>Chicago</dd>
 </dl>
 </div>

@@ -84,7 +84,7 @@ The ballroom. Moth-eaten curtains, half-dead chandelier, chairs in a semicircle 
 
 Three Kindred already present. [Darius](/darius-cole/) read the room in a sweep. [Lucian](/npcs/lucian/) in a wingback chair apart from the semicircle, arms folded, the posture of a man who attended court the way a lion attends a dog show. [Claudette](/npcs/claudette-mallet/) beside him, standing. Eighteen forever, watching everything with the flat attention of a blade laid on a table.
 
-And at the piano, a woman he'd never seen. [Black](/npcs/yasmin-the-black/), early twenties, the kind of face that rearranged a room's gravity just by existing in it. She stood with the practiced stillness of someone who'd been managing the weight of being looked at since long before she died.
+And at the piano, a woman he'd never seen. Black, early twenties, the kind of face that rearranged a room's gravity just by existing in it. She stood with the practiced stillness of someone who'd been managing the weight of being looked at since long before she died.
 
 He walked over. "I don't think we've met. Warren Birch."
 
@@ -204,7 +204,7 @@ They were outside. Miller Beach in February, the lake breathing in the dark, the
 
 "Tell me about it. That white bitch cold."
 
-[Darius](/darius-cole/) heard the code-switch and felt something unlock in his chest. One frequency recognizing another across a room full of static. Two [Black](/npcs/yasmin-the-black/) neonates walking away from a court full of white elders who'd been accumulating power since before emancipation, and the sidewalk was the first place all night where either of them could stop performing.
+[Darius](/darius-cole/) heard the code-switch and felt something unlock in his chest. One frequency recognizing another across a room full of static. Two Black neonates walking away from a court full of white elders who'd been accumulating power since before emancipation, and the sidewalk was the first place all night where either of them could stop performing.
 
 "Yeah. Some of these 'people' never got the memo that slavery ended. Well I sure don't want to wind up running errands for them forever. What about you? Seems like [Modius](/npcs/modius/) is getting a grip on you quick."
 

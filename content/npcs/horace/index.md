@@ -11,7 +11,7 @@ ShowToc: false
 <dl>
 <dt>Clan</dt><dd>Malkavian</dd>
 <dt>Generation</dt><dd>10th generation</dd>
-<dt>Role</dt><dd>Double agent, Cave owner, Gary-Chicago conduit</dd>
+<dt>Role</dt><dd>Double agent, [Cave](/npcs/hank-cave/) owner, Gary-Chicago conduit</dd>
 <dt>City</dt><dd>Chicago</dd>
 </dl>
 </div>

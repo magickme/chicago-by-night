@@ -10,7 +10,7 @@ ShowToc: false
 <div class="character-stats">
 <dl>
 <dt>Clan</dt><dd>None (mortal)</dd>
-<dt>Role</dt><dd>Jefferson's blood courier / seduction tool</dd>
+<dt>Role</dt><dd>[Jefferson](/npcs/jefferson-foster/)'s blood courier / seduction tool</dd>
 <dt>City</dt><dd>Chicago</dd>
 </dl>
 </div>

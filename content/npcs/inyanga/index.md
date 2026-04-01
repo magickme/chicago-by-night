@@ -19,9 +19,9 @@ ShowToc: false
 
 Not Gangrel. Laibon — an African vampire operating under Kindred cover. She has been covertly colonizing the New World with Laibon for an unknown period, smuggling them in through established trade routes and letting the Camarilla assume they are Gangrel immigrants.
 
-Co-operates the "Psychopomp" — an underground shuttle running between Milwaukee and Chicago — with Prince Mark Decker. The Goblin Roads between the two cities cut through Lupine-haunted wasteland: cornfields that whisper at frequencies below human hearing, roadside memorials where esoteric blood offerings must be laid for safe passage. Travel without the ritual is suicide.
+Co-operates the "Psychopomp" — an underground shuttle running between Milwaukee and Chicago — with Prince [Mark Decker](/npcs/mark-decker/). The Goblin Roads between the two cities cut through Lupine-haunted wasteland: cornfields that whisper at frequencies below human hearing, roadside memorials where esoteric blood offerings must be laid for safe passage. Travel without the ritual is suicide.
 
-Lucian imports Laibon through the Gary Export Company on her behalf. The docklands are the entry point; Gary is the staging ground.
+[Lucian](/npcs/lucian/) imports Laibon through the Gary Export Company on her behalf. The docklands are the entry point; Gary is the staging ground.
 
 Brokered the truce with the werewolves after the events of Under a Blood Red Moon. Whatever she offered the Lupines, she has never disclosed it.
 
@@ -29,4 +29,4 @@ Brokered the truce with the werewolves after the events of Under a Blood Red Moo
 
 Can calm Xaviar, the former Gangrel Justicar, with a single word. The nature of their bond is unclear, but it predates his departure from the sect.
 
-Controlled by Menele through extended Domination. She does not know this. Her decisions, loyalties, and strategic instincts are shaped by a Methuselah she has never consciously met.
+Controlled by [Menele](/npcs/menele/) through extended Domination. She does not know this. Her decisions, loyalties, and strategic instincts are shaped by a Methuselah she has never consciously met.

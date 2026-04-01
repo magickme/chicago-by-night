@@ -11,7 +11,7 @@ ShowToc: false
 <dl>
 <dt>Clan</dt><dd>Assamite</dd>
 <dt>Generation</dt><dd>9th generation</dd>
-<dt>Role</dt><dd>Assassin-for-hire</dd>
+<dt>Role</dt><dd>[Assassin](/npcs/victor-the-assassin/)-for-hire</dd>
 <dt>City</dt><dd>Milwaukee</dd>
 </dl>
 </div>

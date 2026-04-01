@@ -21,4 +21,4 @@ DeSoto Embraced Miguel -- then a small-time bandit in 1920s Brazil -- because he
 
 **Image:** A strapping 6'4" tall, Miguel is a dynamic figure. His cropped black hair tops a wide face. He has a quick smile and predatory eyes. He almost always dresses casually.
 
-**Secrets:** Miguel suspects "DeSoto" (actually Sangris in DeSoto's body) of harboring dark secrets. The Navigators oppose conspiracies in the Sabbat, including those of the Inquisition. They currently support Archbishop Valez, mostly out of distrust of the Black Hand and the Shepherds.
+**Secrets:** Miguel suspects "DeSoto" (actually [Sangris](/npcs/sangris/) in DeSoto's body) of harboring dark secrets. The Navigators oppose conspiracies in the Sabbat, including those of the Inquisition. They currently support Archbishop [Valez](/npcs/carolina-valez/), mostly out of distrust of the Black Hand and the Shepherds.

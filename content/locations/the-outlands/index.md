@@ -27,11 +27,11 @@ ShowToc: false
 
 ## Function in Play
 
-Where Milwaukee ends and Lupine territory begins. The Outlands are the suburban buffer between the city's Kindred-controlled core and the Garou packs that surround it. Decker's Anubi patrol here every night, fighting a slow war of attrition against the Coyote and Eagle packs. This is where the coterie earns Decker's trust or writes off the border defense as someone else's problem.
+Where Milwaukee ends and Lupine territory begins. The Outlands are the suburban buffer between the city's Kindred-controlled core and the Garou packs that surround it. [Decker](/npcs/mark-decker/)'s Anubi patrol here every night, fighting a slow war of attrition against the Coyote and Eagle packs. This is where the coterie earns [Decker](/npcs/mark-decker/)'s trust or writes off the border defense as someone else's problem.
 
 ## Who Controls It
 
-- The Anubi hold the line. Decker commands, Gerhieren coordinates, Calvin scouts.
+- The Anubi hold the line. [Decker](/npcs/mark-decker/) commands, [Gerhieren](/npcs/thomas-gerhieren/) coordinates, [Calvin](/npcs/julia-calvin/) scouts.
 - The Lupine packs control the territory beyond the patrol perimeter. The **Coyote Pack** presses from the west and northwest. The **Eagle Pack** pushes from the north. The **Mouse Pack** watches the south and southeast.
-- Hrothulf holds his compound by force of will and explosives. He fights the siege from his suburban fortress.
+- [Hrothulf](/npcs/hrothulf/) holds his compound by force of will and explosives. He fights the siege from his suburban fortress.
 - The Primogen Council officially acknowledges the Outlands as Kindred territory. Practically, they send nothing to defend it.

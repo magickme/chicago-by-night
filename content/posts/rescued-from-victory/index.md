@@ -52,7 +52,7 @@ Newspaper clipping on the wall. BLOODLESS ANIMAL MAN SEIZED BY POLICE. A body in
 
 The basement was twenty feet down. Cable descent. Concrete walls, chemistry table, a chair, and on the floor in the corner — the outline. Lighter concrete where something had lain long enough to bleach the stone beneath it. The pressure coming off the outline was directional, a thing with edges, and [Sable](/sable-price/)'s enhanced senses tasted it as copper and ozone and deep time.
 
-She found the drawer by touch — a seam in the wall that her fingertips caught where enhanced sight in the dark had shown nothing. [Stone](/npcs/justin-stone/), flush-set, no handle. It slid out smooth. Inside: satin cloth. Inside the cloth: a vial.
+She found the drawer by touch — a seam in the wall that her fingertips caught where enhanced sight in the dark had shown nothing. Stone, flush-set, no handle. It slid out smooth. Inside: satin cloth. Inside the cloth: a vial.
 
 The blood was red the way a ruby is red — not flat, not dull, but luminous and thick and rolling against the glass with a viscosity that made physics feel approximate. Her mouth flooded. The hunger she'd just fed screamed. The Self-Control held. [Darius](/darius-cole/) went still beside her and his stillness was the Ventrue kind — the Beast awake and being managed through architecture and will — and his held too.
 

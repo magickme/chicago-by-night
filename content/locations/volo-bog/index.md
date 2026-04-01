@@ -19,7 +19,7 @@ ShowToc: false
 
 ## Function in Play
 
-- Neutral ground for the powerful and the desperate. Xaviar and Inyanga have met here. The kind of place where elders go when they need to talk without anyone listening, including the earth itself.
+- Neutral ground for the powerful and the desperate. Xaviar and [Inyanga](/npcs/inyanga/) have met here. The kind of place where elders go when they need to talk without anyone listening, including the earth itself.
 - A supernatural oasis with properties that defy explanation. Lupines -- who fear almost nothing -- will not approach within miles. Something is buried here. Something a glacier pushed deep into the bedrock and sealed under millennia of peat and standing water. Whatever it is, it radiates a wrongness that even mortals register as unease.
 - The location between Milwaukee and Chicago makes it a geographic fulcrum for the chronicle's multi-city politics.
 

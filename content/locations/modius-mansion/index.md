@@ -11,7 +11,7 @@ ShowToc: false
 <dl>
 <dt>District</dt><dd>Emerson / north Midtown seam</dd>
 <dt>Type</dt><dd>Court and primary haven</dd>
-<dt>Claimed By</dt><dd>Modius</dd>
+<dt>Claimed By</dt><dd>[Modius](/npcs/modius/)</dd>
 <dt>Theme</dt><dd>The Illusion of Sovereignty</dd>
 <dt>Mood</dt><dd>Stale grandeur, polite dread, and low-frequency panic</dd>
 <dt>City</dt><dd>Gary</dd>
@@ -31,6 +31,6 @@ ShowToc: false
 
 ## Who Controls It
 
-- Modius directly.
-- Allicia shapes the emotional climate.
+- [Modius](/npcs/modius/) directly.
+- [Allicia](/npcs/allicia/) shapes the emotional climate.
 - Dominated union stewards supply muscle and visible order.

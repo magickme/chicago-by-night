@@ -110,7 +110,7 @@ And the mirror. One whole wall, floor to ceiling, the glass clouded but showing 
 
 She saw the pointe shoes before she understood them. Hanging from the ballet barre by their ribbons, pink satin darkened with age, the toes worn down to the board. Someone had danced in these shoes until the shoes gave out.
 
-On the back wall, near the office door, a framed photograph. Small, dusty, the glass cracked in one corner. [Black](/npcs/yasmin-the-black/) and white. A woman at the barre, in this room, in front of this mirror.
+On the back wall, near the office door, a framed photograph. Small, dusty, the glass cracked in one corner. Black and white. A woman at the barre, in this room, in front of this mirror.
 
 [Allicia](/npcs/allicia/).
 

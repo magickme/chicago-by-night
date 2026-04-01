@@ -70,7 +70,7 @@ They both knew what came after certainty in [Modius](/npcs/modius/)'s vocabulary
 
 [Sable](/sable-price/) nodded. One gesture, one syllable of motion, and left before the visit became long enough to note.
 
-Reva Watts, at the east side bar, gave her three things over a conversation that cost nothing but patience and the appearance of interest. A new Gary PD task force. [The Torch](/locations/the-torch/)'s declining foot traffic. And a well-dressed white woman from Chicago who'd come asking about a pretty young [Black](/npcs/yasmin-the-black/) woman, new in town.
+Reva Watts, at the east side bar, gave her three things over a conversation that cost nothing but patience and the appearance of interest. A new Gary PD task force. [The Torch](/locations/the-torch/)'s declining foot traffic. And a well-dressed white woman from Chicago who'd come asking about a pretty young Black woman, new in town.
 
 Reva hadn't told her anything. Good woman. Smart enough to know that questions about her customers were not questions she owed answers to.
 

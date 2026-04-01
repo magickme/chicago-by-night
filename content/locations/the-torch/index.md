@@ -11,7 +11,7 @@ ShowToc: false
 <dl>
 <dt>District</dt><dd>North Midtown Broadway strip</dd>
 <dt>Type</dt><dd>Nightclub and feeding ground</dd>
-<dt>Claimed By</dt><dd>Allicia through Victor under Modius's shadow</dd>
+<dt>Claimed By</dt><dd>[Allicia](/npcs/allicia/) through [Victor](/npcs/victor-salonika/) under [Modius](/npcs/modius/)'s shadow</dd>
 <dt>Theme</dt><dd>The Panopticon</dd>
 <dt>Mood</dt><dd>Neon-drenched paranoia, sweat, and watchfulness</dd>
 <dt>City</dt><dd>Gary</dd>
@@ -31,7 +31,7 @@ ShowToc: false
 
 ## Who Controls It
 
-- Victor runs the floor.
-- Allicia defines the mood.
-- Modius benefits from it.
+- [Victor](/npcs/victor-salonika/) runs the floor.
+- [Allicia](/npcs/allicia/) defines the mood.
+- [Modius](/npcs/modius/) benefits from it.
 - Every other faction tries to use it without owning it.

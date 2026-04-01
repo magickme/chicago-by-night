@@ -20,7 +20,7 @@ ShowToc: false
 ## Function in Play
 
 - A Mage crossover point in Chicago. A haunted mansion full of self-taught Hollow Ones who know about vampires, watch them from a distance, and have Blood Doll connections to Kindred nightlife.
-- The mages are virtually unknown to Chicago's supernatural community. If the Jade Demon discovered them, he would attempt to make them pawns. If the Wolf Pack (Archon gang) finds them, they become ghoul slaves.
+- The mages are virtually unknown to Chicago's supernatural community. If the [Jade](/npcs/creamy-jade/) [Demon](/npcs/the-jade-demon/) discovered them, he would attempt to make them pawns. If the Wolf Pack (Archon gang) finds them, they become ghoul slaves.
 - After Under a Blood Red Moon, the Children of Lilith are "lying very low, with an eye toward filling a void somewhere in Chicago's nightlife."
 - Their alliance with the Bone Gnawers provides a potential Garou connection. Their study at the Fanum (unknowingly under Garou direction) means they carry information about both Mage and Werewolf factions without knowing the full picture.
 
@@ -33,9 +33,9 @@ ShowToc: false
 
 ## Who Controls It
 
-- **Mary Lou "Bitch Queen" Vannoy** — Leader. Cherokee/English/Swedish. Waist-length black hair braided with barbed wire. App 5, Man 4, Arete 4. Spheres: Entropy 3, Forces 2, Matter 4, Prime 1. Plays lead guitar in a thrash band. Compulsively organized. Ran away at 14, Awakened violently (two chickenhawks died, murders unsolved).
+- **[Mary](/npcs/mary-lou-vannoy/) Lou "Bitch Queen" [Vannoy](/npcs/mary-lou-vannoy/)** — Leader. Cherokee/English/Swedish. Waist-length black hair braided with barbed wire. App 5, Man 4, Arete 4. Spheres: Entropy 3, Forces 2, Matter 4, Prime 1. Plays lead guitar in a thrash band. Compulsively organized. Ran away at 14, Awakened violently (two chickenhawks died, murders unsolved).
 - **Alvin Locke** — Muscle. Stocky 18-year-old, multicolored hair. Computer geek in a football player's body. Arete 2. Spheres: Forces 1, Life 2, Mind 1, Prime 2.
 - **Hutch** — Stocky 17-year-old, curly black hair, big green glasses. Collects books. Secret crush on Herman.
 - **Herman Fleming** — Power tools in the garage.
 - **Eddie** — 15-year-old runaway, the cabal's only servant.
-- **Ghosts:** Nora (10, hacked apart by her brother), John (stabbed 17 times in the chest), Justin (8, throat slit and stabbed repeatedly). Trapped in the house. Miss their parents. Sometimes appear as they looked at death.
+- **Ghosts:** Nora (10, hacked apart by her brother), [John](/npcs/john-wierus/) (stabbed 17 times in the chest), [Justin](/npcs/justin-stone/) (8, throat slit and stabbed repeatedly). Trapped in the house. Miss their parents. Sometimes appear as they looked at death.

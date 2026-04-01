@@ -11,7 +11,7 @@ ShowToc: false
 <dl>
 <dt>District</dt><dd>East Chicago harbor / Buffington corridor</dd>
 <dt>Type</dt><dd>Docks and smuggling corridor</dd>
-<dt>Claimed By</dt><dd>Lucian</dd>
+<dt>Claimed By</dt><dd>[Lucian](/npcs/lucian/)</dd>
 <dt>Theme</dt><dd>Industrial Predation</dd>
 <dt>Mood</dt><dd>Sodium-lit exposure, cold wind, and disciplined threat</dd>
 <dt>City</dt><dd>Gary</dd>
@@ -31,5 +31,5 @@ ShowToc: false
 
 ## Who Controls It
 
-- Lucian through dock labor, management influence, and fear.
+- [Lucian](/npcs/lucian/) through dock labor, management influence, and fear.
 - Gary Exports Co. provides the hidden lane for illicit traffic.

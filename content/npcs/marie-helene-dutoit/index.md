@@ -11,7 +11,7 @@ ShowToc: false
 <dl>
 <dt>Clan</dt><dd>Lasombra</dd>
 <dt>Generation</dt><dd>9th generation</dd>
-<dt>Role</dt><dd>Double agent, Valez's coterie-mate</dd>
+<dt>Role</dt><dd>Double agent, [Valez](/npcs/carolina-valez/)'s coterie-mate</dd>
 <dt>City</dt><dd>Montreal</dd>
 </dl>
 </div>

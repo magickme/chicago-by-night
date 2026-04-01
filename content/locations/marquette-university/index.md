@@ -32,6 +32,6 @@ The Tremere PC's obsession. Marquette University sits on a magical null zone —
 ## Who Controls It
 
 - Mortal administration. The university is a functioning academic institution with campus security, student population, and regular foot traffic.
-- Carna has staked a Tremere claim on the investigation. Dr. Mortius is her on-site field agent, maintaining a haven in a house near campus.
+- [Carna](/npcs/carna/) has staked a Tremere claim on the investigation. [Dr. Mortius](/npcs/dr-mortius/) is her on-site field agent, maintaining a haven in a house near campus.
 - No Kindred formally claims the campus. Nobody wants territory where their powers might not work.
 - The Eagle Pack has a spiritual stake — the Talon of the Eagle is one of the buried totems. Their interest in the zone adds a Lupine dimension to any investigation.

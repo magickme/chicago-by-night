@@ -302,7 +302,7 @@ The words landed somewhere below my ribs.
 
 "A memory. Pulled loose when the tollbooth took your Love. She escaped into the spirit world before Khemsu could consume her. A shade of someone you loved in a life you can no longer remember. She walked onto the highway looking for you."
 
-The woman on the center line. White dress. [Black](/npcs/yasmin-the-black/) hair. Standing still while the Thunderbird hurtled toward her at a hundred and fifteen miles an hour. Looking for me. And I had not recognized her.
+The woman on the center line. White dress. Black hair. Standing still while the Thunderbird hurtled toward her at a hundred and fifteen miles an hour. Looking for me. And I had not recognized her.
 
 "The memories Khemsu took are gone," Karamemti said. "But the shade -- she is somewhere on the highway still. That is all I know."
 

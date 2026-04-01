@@ -28,10 +28,10 @@ ShowToc: false
 
 - The coterie's temporary base of operations in Montreal. Starting point for every night's movement.
 - Where pack assignments arrive. Where the coterie regroups when things go wrong.
-- Access point to the tunnel network below, linking the square to the Underground City and multiple escape routes.
+- Access point to the tunnel network below, linking the square to the [Underground City](/locations/underground-city/) and multiple escape routes.
 
 ## Who Controls It
 
 - No single Kindred claims Dorchester Square. It belongs to the pack rotation — a communal resource allocated by whoever holds authority that week.
-- Valez's people know it exists. They tolerate it because communal havens keep neonates visible and controllable.
+- [Valez](/npcs/carolina-valez/)'s people know it exists. They tolerate it because communal havens keep neonates visible and controllable.
 - The real control is architectural. Anyone who knows the tunnel access points can enter or leave without using the street.

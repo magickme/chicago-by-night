@@ -31,6 +31,6 @@ ShowToc: false
 
 ## Who Controls It
 
-- The Hollow Ones cabal: Crystal Spinner, Marvin Hafuer, Klenton McKay. Two acolytes: Julie Pratt and Dwaine Smith.
-- They know Juggler and Michael. Those are the only Kindred connections.
+- The Hollow Ones cabal: [Crystal Spinner](/npcs/crystal-spinner/), Marvin Hafuer, Klenton McKay. Two acolytes: Julie Pratt and Dwaine Smith.
+- They know [Juggler](/npcs/juggler/) and [Michael](/npcs/michael/). Those are the only Kindred connections.
 - No Kindred formally claims the building. It exists in a gap between territories.

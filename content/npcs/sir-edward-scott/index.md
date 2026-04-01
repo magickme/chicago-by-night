@@ -29,4 +29,4 @@ Scott arrived in Milwaukee sometime in the twentieth century and claimed Brujah 
 
 The source material notes: "He is not half as tough as he thinks he is." Scott's courage is real, his Presence enormous, his convictions genuine. But his understanding of his own limits is catastrophically poor. He makes passes at every woman he meets, theatrical declarations of principle in every Council session, and enemies in every corridor. "One day they'll kill me for it," he says, "but until then I live like a Prince." The Anarchs call him "the Black Prince" to annoy the Elders, conflating the Primogen title with the monarchical one. Scott loves it. He does not see the irony: a man who hates elder authority performing the role of a prince.
 
-Somewhere in his past is a childe he does not remember Embracing. That childe is Akawa.
+Somewhere in his past is a childe he does not remember Embracing. That childe is [Akawa](/npcs/akawa/).

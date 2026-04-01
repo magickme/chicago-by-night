@@ -11,7 +11,7 @@ ShowToc: false
 <dl>
 <dt>District</dt><dd>Saint-Laurent Boulevard</dd>
 <dt>Type</dt><dd>Widows' brothel</dd>
-<dt>Claimed By</dt><dd>The Rose (Widows coven)</dd>
+<dt>Claimed By</dt><dd>[The Rose](/npcs/the-rose/) (Widows coven)</dd>
 <dt>City</dt><dd>Montreal</dd>
 </dl>
 </div>
@@ -25,12 +25,12 @@ ShowToc: false
 
 ## Function in Play
 
-- Where Sable connects with the Widows coven. The location that pulls her toward something she wants and something that will consume her.
+- Where [Sable](/sable-price/) connects with the Widows coven. The location that pulls her toward something she wants and something that will consume her.
 - A feeding ground with strings attached. The blood flows freely, but every sip deepens entanglement.
 - Social nexus for Montreal's Kindred underworld. The Heart trades in pleasure, secrets, and leverage in equal measure.
 
 ## Who Controls It
 
-- The Rose. Completely. The Heart is her creation, her feeding ground, her web.
+- [The Rose](/npcs/the-rose/). Completely. The Heart is her creation, her feeding ground, her web.
 - The Widows coven operates the establishment. Mortal sex workers provide the cover and the clientele. The coven provides protection, and the mortals are treated better here than anywhere else on the Main. That's the trap — it works.
-- Sable's access is a gift from The Rose, and gifts from The Rose accrue interest.
+- [Sable](/sable-price/)'s access is a gift from [The Rose](/npcs/the-rose/), and gifts from [The Rose](/npcs/the-rose/) accrue interest.

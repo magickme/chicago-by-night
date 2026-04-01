@@ -11,7 +11,7 @@ ShowToc: false
 <dl>
 <dt>Clan</dt><dd>Nosferatu</dd>
 <dt>Generation</dt><dd>7th generation</dd>
-<dt>Role</dt><dd>Abused child Nosferatu / half of Khalid's twin childer</dd>
+<dt>Role</dt><dd>Abused child Nosferatu / half of [Khalid](/npcs/khalid-al-rashid/)'s twin childer</dd>
 <dt>City</dt><dd>Chicago</dd>
 </dl>
 </div>
@@ -23,9 +23,9 @@ In 1950, when Peter was 13 and Tammy was 12, they found the first comfort of the
 
 The children watched the fire from the sidewalk in front of the house. They were so close the heat was slowly melting their shirt buttons. They heard their father screaming for help, and then there was nothing. A minute later, they became aware of a presence behind them.
 
-Khalid had been watching the two children for almost five years. Their suffering had both fascinated and repulsed him. He concluded that he must Embrace them, both to save them and to preserve their pain for eternity -- for he would never Change anyone who had a hope of a full and peaceful mortal life; only those who would be enriched by the gift of becoming Nosferatu. He brought the two children to his Haven and spoke softly to them. Within a few hours they had accepted his gift.
+[Khalid](/npcs/khalid-al-rashid/) had been watching the two children for almost five years. Their suffering had both fascinated and repulsed him. He concluded that he must Embrace them, both to save them and to preserve their pain for eternity -- for he would never Change anyone who had a hope of a full and peaceful mortal life; only those who would be enriched by the gift of becoming Nosferatu. He brought the two children to his Haven and spoke softly to them. Within a few hours they had accepted his gift.
 
-They lived with Khalid for several more weeks as they discovered their new abilities. They found themselves constantly going by their old home during their nocturnal journeys, and finally returned there to sleep in the basement of the burned-out shell. Also in the ruins are the ghosts of their mother and father.
+They lived with [Khalid](/npcs/khalid-al-rashid/) for several more weeks as they discovered their new abilities. They found themselves constantly going by their old home during their nocturnal journeys, and finally returned there to sleep in the basement of the burned-out shell. Also in the ruins are the ghosts of their mother and father.
 
 Peter and Tammy alternate their feedings between animals and adults. They will never feed on a child, and will seek to stop any Vampire from hurting children in any way. However, since the sight of a child being hurt is likely to send them into Frenzy, it is more than likely that they will kill the child they are trying to save. They can be found on the outskirts of Kindred society, looking on but never becoming involved. Though they commonly use Obfuscate to hide themselves, lately they have begun to let other Kindred catch glimpses of them; they wish to become a part of the community, but are too shy to ask.
 

@@ -11,7 +11,7 @@ ShowToc: false
 <dl>
 <dt>Clan</dt><dd>Caitiff</dd>
 <dt>Generation</dt><dd>12th generation</dd>
-<dt>Role</dt><dd>Caitiff / Brothel madam / Blood Bound to Gordon Keaton</dd>
+<dt>Role</dt><dd>Caitiff / Brothel madam / Blood Bound to [Gordon Keaton](/npcs/gordon-keaton/)</dd>
 <dt>City</dt><dd>Chicago</dd>
 </dl>
 </div>

@@ -11,7 +11,7 @@ ShowToc: false
 <dl>
 <dt>District</dt><dd>Near North / Rush Street</dd>
 <dt>Type</dt><dd>Kindred nightclub and social nexus</dd>
-<dt>Claimed By</dt><dd>Brennon Thornhill (officially), Helena (secretly)</dd>
+<dt>Claimed By</dt><dd>[Brennon Thornhill](/npcs/brennon-thornhill/) (officially), [Helena](/npcs/helena/) (secretly)</dd>
 <dt>City</dt><dd>Chicago</dd>
 </dl>
 </div>
@@ -26,18 +26,18 @@ ShowToc: false
 ## Function in Play
 
 - The crossroads of Chicago Kindred politics. Every clan, every faction, every grudge passes through this room.
-- Where Darius gathers intelligence, makes contacts, and risks exposure in equal measure.
-- The sub-basement vault is Helena's domain. Nobody gets down there without her permission or a death wish.
+- Where [Darius](/darius-cole/) gathers intelligence, makes contacts, and risks exposure in equal measure.
+- The sub-basement vault is [Helena](/npcs/helena/)'s domain. Nobody gets down there without her permission or a death wish.
 
 ## Geographic Placement
 
 - **Address:** State Street, Near North Side — west of Rush Street, in the heart of the Rack. The ancient four-story brick warehouse is the first four-story warehouse built in Chicago, pre-Civil War construction. Survived the Great Fire of 1871.
-- **Neighborhood:** The Rack / Near North. Six to eight blocks of nightlife. The Blue Velvet sits on the same stretch of State Street. The Cave is two blocks north.
-- **Proximity:** Two blocks south of the Cave. Adjacent to the x-rated movie district on Dearborn, Clark, and LaSalle. Daley's Restaurant and the Brewery are a short walk north on State. The Loop and Lodin's Prudential Building are south across the Chicago River.
+- **Neighborhood:** The Rack / Near North. Six to eight blocks of nightlife. The [Blue Velvet](/locations/blue-velvet/) sits on the same stretch of State Street. [The Cave](/locations/the-cave/) is two blocks north.
+- **Proximity:** Two blocks south of [the Cave](/locations/the-cave/). Adjacent to the x-rated movie district on Dearborn, Clark, and LaSalle. [Daley's Restaurant](/locations/daleys-restaurant/) and [the Brewery](/locations/the-brewery/) are a short walk north on State. The Loop and [Lodin](/npcs/lodin/)'s Prudential Building are south across the Chicago River.
 - **Transit:** CTA Red Line to Chicago/State or Grand/State. Cab traffic heavy on Rush and State after dark. Lake Shore Drive accessible eastbound via Division or North Avenue.
 
 ## Who Controls It
 
-- Thornhill runs the floor, handles the mortal staff, keeps the liquor license clean.
-- Helena owns the building, the land, and every secret that passes through the walls. She has been here longer than Chicago has had a name.
+- [Thornhill](/npcs/brennon-thornhill/) runs the floor, handles the mortal staff, keeps the liquor license clean.
+- [Helena](/npcs/helena/) owns the building, the land, and every secret that passes through the walls. She has been here longer than Chicago has had a name.
 - Kindred who think they own a piece of the Succubus Club own nothing. They rent tolerance.

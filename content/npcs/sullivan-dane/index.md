@@ -18,7 +18,7 @@ ShowToc: false
 
 Born in England, 1957. Entered the Jesuits in 1980. First Kindred kill in 1982, Washington, D.C. Formerly Church-affiliated through the Society of Leopold. Now independent — which means no handler, no extraction team, and no one to tell him when to stop.
 
-Was in Gary during the early-to-mid 1990s. Hunted Gary once before, when the feud between Modius and Lodin was still active. He stayed long enough to make unlife very difficult for the local Kindred, then moved on. He is back.
+Was in Gary during the early-to-mid 1990s. Hunted Gary once before, when the feud between [Modius](/npcs/modius/) and [Lodin](/npcs/lodin/) was still active. He stayed long enough to make unlife very difficult for the local Kindred, then moved on. He is back.
 
 Wanted by the FBI under multiple aliases. Also wanted by police departments of Boston, New York, Detroit, Chicago, Los Angeles, and Las Vegas. Six cities. Every warrant involves unexplained deaths that looked like house fires or industrial accidents until someone examined the bodies.
 

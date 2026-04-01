@@ -24,7 +24,7 @@ She told Pete to bring him.
 
 ---
 
-Twenty minutes. She changed in the back room. [Black](/npcs/yasmin-the-black/) tank top, leather jacket unzipped, jeans, hair down. The version of herself that looked like waking up and cost forty-five minutes of work and four years of practice. She arranged the garage: one lamp, the overhead fluorescent off, the couch angled so the light caught her face from the left where the bone structure did the most damage. A room where a woman lived instead of a place where engines used to die.
+Twenty minutes. She changed in the back room. Black tank top, leather jacket unzipped, jeans, hair down. The version of herself that looked like waking up and cost forty-five minutes of work and four years of practice. She arranged the garage: one lamp, the overhead fluorescent off, the couch angled so the light caught her face from the left where the bone structure did the most damage. A room where a woman lived instead of a place where engines used to die.
 
 She heard them on the gravel. Two sets of footsteps, one confident and one searching.
 

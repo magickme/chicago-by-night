@@ -32,7 +32,7 @@ The back room was unlocked. She took the far booth, back to the wall, and waited
 
 She stood in the doorway and the red light hit her from two directions and for one second [Sable](/sable-price/) saw the woman in the photograph on the studio wall — the dancer, the one with the straight spine and the chin that said *I have been looked at by better than you.* Then the second passed and what stood in the doorway was something else: a woman who had practiced stillness for fifty years until the stillness had become indistinguishable from the woman, the way water takes the shape of whatever holds it.
 
-[Black](/npcs/yasmin-the-black/) dress. Thin gold chain. Hair pulled back. She crossed the room and sat across from [Sable](/sable-price/) and the velvet booth creaked under the weight of someone who looked like she weighed nothing and carried everything.
+Black dress. Thin gold chain. Hair pulled back. She crossed the room and sat across from [Sable](/sable-price/) and the velvet booth creaked under the weight of someone who looked like she weighed nothing and carried everything.
 
 Silence. The bass pulsed through the wall. The red lamp hummed.
 

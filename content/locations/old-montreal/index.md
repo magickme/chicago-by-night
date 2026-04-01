@@ -21,7 +21,7 @@ ShowToc: false
 
 - Cobblestone streets barely wide enough for modern cars. Seventeenth-century stone buildings pressed shoulder to shoulder, their facades restored for tourists and their interiors rotting behind the plaster.
 - Notre-Dame Basilica dominates Place d'Armes at 110 Notre-Dame West, its twin towers lit blue at night. The square in front of it is open ground — exposed, nowhere to hide, nowhere to run except into the side streets where the light doesn't reach. The Basilica is impassable to all Kindred. No vampire has ever set foot inside. The aura of Faith is beyond explanation.
-- Secret passages in the older buildings. Smuggler's routes from the fur trade era, converted to storage and forgotten. Chinatown presses against Old Montreal's northern edge — three blocks of small stores and cheap apartments, riddled with its own tunnel network from former gambling dens and brothels, linked by tunnel to the communal haven.
+- Secret passages in the older buildings. Smuggler's routes from the fur trade era, converted to storage and forgotten. [Chinatown](/locations/chinatown/) presses against Old Montreal's northern edge — three blocks of small stores and cheap apartments, riddled with its own tunnel network from former gambling dens and brothels, linked by tunnel to the communal haven.
 
 ## Function in Play
 

@@ -21,7 +21,7 @@ ShowToc: false
 
 ## Function in Play
 
-- A neutral zone held together by the University's gravitational pull and the fact that no single Kindred has enough muscle to claim it outright. Prias operates in the scholarly margins. Rosa Hernandez keeps a haven nearby. Neither owns the territory — they coexist by mutual disinterest.
+- A neutral zone held together by the University's gravitational pull and the fact that no single Kindred has enough muscle to claim it outright. [Prias](/npcs/prias/) operates in the scholarly margins. [Rosa Hernandez](/npcs/rosa-hernandez/) keeps a haven nearby. Neither owns the territory — they coexist by mutual disinterest.
 - Academic resources make it valuable for research-oriented Kindred: occult collections at the Regenstein Library, theology at the Divinity School, a medical school with blood supplies that go unaudited after hours.
 - The gap between campus and surrounding South Side neighborhoods creates a feeding gradient. Graduate students and faculty inside the bubble, working-class families three blocks out. Two different worlds separated by a street.
 
@@ -35,11 +35,11 @@ ShowToc: false
 
 - **Address:** Centered on the University of Chicago campus, 57th to 61st Streets between Cottage Grove and the Midway Plaisance. The core academic buildings cluster around the Main Quadrangles.
 - **Neighborhood:** Hyde Park / Kenwood. Integrated upper-middle-class enclave on the South Side, surrounded by neighborhoods that did not receive the same investment. The contrast is architectural and economic and deliberate.
-- **Proximity:** Eight miles south of the Loop. Jackson Park and the Museum of Science and Industry sit to the east. Woodlawn begins at 63rd Street. Washington Park is west across Cottage Grove.
+- **Proximity:** Eight miles south of the Loop. [Jackson](/npcs/kevin-jackson/) Park and the Museum of Science and Industry sit to the east. Woodlawn begins at 63rd Street. Washington Park is west across Cottage Grove.
 - **Transit:** CTA bus routes on 55th and Cottage Grove. Metra Electric Line stops at 55th-56th-57th. No Red Line access — the South Side's transit gaps are not accidental.
 
 ## Who Controls It
 
-- No single Kindred holds domain. Prias maintains academic connections through the Divinity School and treats the campus as an extension of his scholarly interests. He does not patrol or enforce.
-- Rosa Hernandez keeps a haven in Kenwood, north of campus. Her presence is residential, not territorial. She feeds elsewhere.
+- No single Kindred holds domain. [Prias](/npcs/prias/) maintains academic connections through the Divinity School and treats the campus as an extension of his scholarly interests. He does not patrol or enforce.
+- [Rosa Hernandez](/npcs/rosa-hernandez/) keeps a haven in Kenwood, north of campus. Her presence is residential, not territorial. She feeds elsewhere.
 - The University of Chicago Police Department runs a tight perimeter around campus. Mortal security is higher here than in surrounding neighborhoods, which makes Masquerade breaches less likely and Kindred movement more constrained.

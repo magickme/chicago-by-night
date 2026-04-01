@@ -11,7 +11,7 @@ ShowToc: false
 <dl>
 <dt>District</dt><dd>Lakefront mill belt / Wasteland</dd>
 <dt>Type</dt><dd>Abandoned ore smelter haven</dd>
-<dt>Claimed By</dt><dd>Juggler and Chicago anarchs</dd>
+<dt>Claimed By</dt><dd>[Juggler](/npcs/juggler/) and Chicago anarchs</dd>
 <dt>City</dt><dd>Gary</dd>
 </dl>
 </div>
@@ -29,5 +29,5 @@ ShowToc: false
 
 ## Who Controls It
 
-- Juggler through reputation and violence.
+- [Juggler](/npcs/juggler/) through reputation and violence.
 - Peripheral gangs and dumped anarchs make the space feel larger than one haven.

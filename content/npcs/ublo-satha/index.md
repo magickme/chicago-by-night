@@ -11,7 +11,7 @@ ShowToc: false
 <dl>
 <dt>Clan</dt><dd>Gargoyle</dd>
 <dt>Generation</dt><dd>Unknown (ancient) generation</dd>
-<dt>Role</dt><dd>Tremere bodyguard / Menele's sleeper agent</dd>
+<dt>Role</dt><dd>Tremere bodyguard / [Menele](/npcs/menele/)'s sleeper agent</dd>
 <dt>City</dt><dd>Chicago</dd>
 </dl>
 </div>

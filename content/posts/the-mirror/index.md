@@ -110,7 +110,7 @@ Four heartbeats inside the building. No Kindred. No dead blood.
 
 Then she saw the Lincoln.
 
-[Black](/npcs/yasmin-the-black/) Town Car, tinted windows, parked nose-out by the service door. Engine cold. Nobody inside. Illinois plates. Too clean for this block, too deliberate in its positioning, backed in for a fast exit the way a man parks when leaving in a hurry is part of his operational vocabulary.
+Black Town Car, tinted windows, parked nose-out by the service door. Engine cold. Nobody inside. Illinois plates. Too clean for this block, too deliberate in its positioning, backed in for a fast exit the way a man parks when leaving in a hurry is part of his operational vocabulary.
 
 She knew that car. She knew it the way her body knew the Robert Taylor stairwells, the way her hands knew the feel of cash folded lengthwise, the way her nervous system knew the atmospheric pressure of Marcus Tillman walking into a room. Big Six. His Lincoln, or one just like it. Parked at The Oasis the way it used to be parked at The Oasis, because some men don't change their patterns and some patterns don't release their prey.
 

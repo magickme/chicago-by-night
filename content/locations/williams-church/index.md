@@ -11,7 +11,7 @@ ShowToc: false
 <dl>
 <dt>District</dt><dd>South Tolleston / west Midtown edge</dd>
 <dt>Type</dt><dd>Slave auction site</dd>
-<dt>Claimed By</dt><dd>Williams</dd>
+<dt>Claimed By</dt><dd>[Williams](/npcs/williams/)</dd>
 <dt>City</dt><dd>Gary</dd>
 </dl>
 </div>
@@ -28,4 +28,4 @@ ShowToc: false
 
 ## Who Controls It
 
-- Williams through terror, routine, and the complicity of buyers who want no record.
+- [Williams](/npcs/williams/) through terror, routine, and the complicity of buyers who want no record.

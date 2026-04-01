@@ -21,7 +21,7 @@ The one certainty in life is death. That was Ellen Conlynne's philosophy. An Iri
 
 Ellen's views on death and religion brought her to the attention of the Saint Patrick Basilica priests who believed she had been horribly alienated during the typhus epidemic. She was admitted into Hotel-Dieu Hospital.
 
-Preacher, of Les Miserables, took an immediate liking to Ellen and brought her to a Creation Rite. Beatrice L'Angou and Marie-Ange were also in attendance, both of whom instantly recognized the potential in the serene young woman. The two managed to convince Preacher to give them Ellen as a gift and Embraced her as a Tzimisce. Ellen emerged under the care of her stepmother Beatrice, her sire Marie-Ange and her godfather Preacher.
+Preacher, of Les Miserables, took an immediate liking to Ellen and brought her to a Creation Rite. Beatrice L'Angou and [Marie-Ange](/npcs/marie-ange-gagnon/) were also in attendance, both of whom instantly recognized the potential in the serene young woman. The two managed to convince Preacher to give them Ellen as a gift and Embraced her as a Tzimisce. Ellen emerged under the care of her stepmother Beatrice, her sire [Marie-Ange](/npcs/marie-ange-gagnon/) and her godfather Preacher.
 
 Because Ellen, now called "Molly 8," believes that life is about constant change, she regularly sheds the outer layers of her skin and uses them as parchment for her writing. Molly 8 also uses her Necromancy skills to speak to the dead, and surpasses even Beatrice in the Discipline's use. Molly is the official scribe of the Librarians and in charge of creating new pages for the skintomes.
 
@@ -29,4 +29,4 @@ Molly 8's haven is covered from floor to ceiling with long, treated strips of hu
 
 **Image:** Due to constant shedding, Molly 8 is porcelain-skinned, soft-featured and without any blemishes. Her pale visage is framed by the tresses of her deep-red hair, which contrast with her green eyes.
 
-**Secrets:** Molly 8 knows Marie-Ange is hiding someone in her lair, but has done nothing about it for the time being.
+**Secrets:** Molly 8 knows [Marie-Ange](/npcs/marie-ange-gagnon/) is hiding someone in her lair, but has done nothing about it for the time being.

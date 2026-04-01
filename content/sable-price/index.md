@@ -13,7 +13,7 @@ image: cover.webp
 <dt>Full Name</dt><dd>Sable Ann Price</dd>
 <dt>Clan</dt><dd>Toreador</dd>
 <dt>Generation</dt><dd>9th</dd>
-<dt>Sire</dt><dd>Michael Payne (absent)</dd>
+<dt>Sire</dt><dd>[Michael](/npcs/michael/) [Payne](/npcs/sharon-payne/) (absent)</dd>
 <dt>Haven</dt><dd>Kendrick's Auto, Gary</dd>
 <dt>Nature / Demeanor</dt><dd>Survivor / Bon Vivant</dd>
 <dt>Disciplines</dt><dd>Presence, Auspex, Celerity</dd>
@@ -49,21 +49,21 @@ Nobody ever did.
 
 ## The Embrace
 
-Michael Payne was painting again. That was how it always started with him — a burst of creative obsession that lasted weeks or months and ended when Sharon destroyed whatever he'd made.
+[Michael](/npcs/michael/) [Payne](/npcs/sharon-payne/) was painting again. That was how it always started with him — a burst of creative obsession that lasted weeks or months and ended when [Sharon](/npcs/sharon-payne/) destroyed whatever he'd made.
 
-He found Sable at The Oasis on a Tuesday in November 1988. She wasn't the best dancer on the stage. She was the one you couldn't stop watching. Michael sketched her for three hours. He offered her money to sit for him. Not sex. Just sit. She said yes because the money was good and because he didn't look at her the way Big Six looked at her. He looked at her the way a man looks at a painting he wants to buy. Which was, she would later understand, exactly the same thing, just more expensive.
+He found Sable at The Oasis on a Tuesday in November 1988. She wasn't the best dancer on the stage. She was the one you couldn't stop watching. [Michael](/npcs/michael/) sketched her for three hours. He offered her money to sit for him. Not sex. Just sit. She said yes because the money was good and because he didn't look at her the way Big Six looked at her. He looked at her the way a man looks at a painting he wants to buy. Which was, she would later understand, exactly the same thing, just more expensive.
 
 Three weeks of painting sessions in his haven in Roselle — oil paints and turpentine and classical music, a world so different from the Robert Taylor Homes that Sable felt like she'd stepped through a screen into a movie. He didn't touch her. He talked about art, about beauty, about the way certain people had a quality that transcended their circumstances. She didn't know what he was. She knew he wasn't normal. He never ate. He was cold to the touch. His house had no mirrors.
 
-Then Sharon Payne came to the house. Michael's ex-wife. 7th generation. The open relationship. The Jazz Age dynamic that had survived sixty years of undeath because it was built on mutual destruction. For three weeks in December 1988, Sable was the center of a sexual triangle with two beings she didn't understand. Both of them feeding her vitae. Her mortal body flooding with something that made cocaine feel like aspirin.
+Then [Sharon Payne](/npcs/sharon-payne/) came to the house. [Michael](/npcs/michael/)'s ex-wife. 7th generation. The open relationship. The Jazz Age dynamic that had survived sixty years of undeath because it was built on mutual destruction. For three weeks in December 1988, Sable was the center of a sexual triangle with two beings she didn't understand. Both of them feeding her vitae. Her mortal body flooding with something that made cocaine feel like aspirin.
 
 She didn't know what she was drinking. She knew that she'd never felt this alive, this desired, this *seen*, and that the feeling was worth anything it cost.
 
 It cost everything.
 
-Sharon realized Michael was falling. The early sketches were studies. The December paintings were love letters. Sharon destroyed the paintings — all of them, knife through canvas, turpentine on the oils. Then she left. Michael Embraced Sable that same night. Not gently. In rage, in grief, in the specific Toreador madness that mistakes possession for preservation. He drained her in the studio surrounded by the ruined canvases and told her she was beautiful, she was art, she was his, and when she woke up three nights later she was twenty-one years old and she would be twenty-one years old forever and the woman who had painted her nails that morning in a kitchen on State Street would never see her daughter again.
+[Sharon](/npcs/sharon-payne/) realized [Michael](/npcs/michael/) was falling. The early sketches were studies. The December paintings were love letters. [Sharon](/npcs/sharon-payne/) destroyed the paintings — all of them, knife through canvas, turpentine on the oils. Then she left. [Michael](/npcs/michael/) Embraced Sable that same night. Not gently. In rage, in grief, in the specific Toreador madness that mistakes possession for preservation. He drained her in the studio surrounded by the ruined canvases and told her she was beautiful, she was art, she was his, and when she woke up three nights later she was twenty-one years old and she would be twenty-one years old forever and the woman who had painted her nails that morning in a kitchen on State Street would never see her daughter again.
 
-Michael Payne was a bad sire the way a distracted parent is a bad parent — not cruel, just absent. Within a week he was back at war with Sharon. Sable was left in the Roselle house with a hunger she didn't understand and a set of powers nobody had explained.
+[Michael](/npcs/michael/) [Payne](/npcs/sharon-payne/) was a bad sire the way a distracted parent is a bad parent — not cruel, just absent. Within a week he was back at war with [Sharon](/npcs/sharon-payne/). Sable was left in the Roselle house with a hunger she didn't understand and a set of powers nobody had explained.
 
 She drove to Gary in the fall of 1989. She went because it was the place where nobody looked, where beauty washed up when Chicago spat it out, where a Toreador neonate with no education could disappear into the ruins of a city that had already disappeared.
 
@@ -75,9 +75,9 @@ To be seen. Not the body, not the face, not the thing that men project onto her 
 
 ## What She Fears
 
-**Sharon Payne.** The ex-wife. The woman who shared Sable like a bottle of wine and then tried to smash her when Michael fell in love. Sharon is out there, in Chicago, and she has not forgotten.
+**[Sharon Payne](/npcs/sharon-payne/).** The ex-wife. The woman who shared Sable like a bottle of wine and then tried to smash her when [Michael](/npcs/michael/) fell in love. [Sharon](/npcs/sharon-payne/) is out there, in Chicago, and she has not forgotten.
 
-**Becoming Allicia.** The silent Toreador at the piano. The beautiful woman who stopped speaking fifty years ago because there was nothing left to say. Sable looks at Allicia and sees the future: a weapon someone else aims, a body someone else owns, beauty reduced to function.
+**Becoming [Allicia](/npcs/allicia/).** The silent Toreador at the piano. The beautiful woman who stopped speaking fifty years ago because there was nothing left to say. Sable looks at [Allicia](/npcs/allicia/) and sees the future: a weapon someone else aims, a body someone else owns, beauty reduced to function.
 
 **Big Six.** He's still alive. He's still in Chicago. And the supernatural compulsion she thought the Embrace would free her from — the gravity of a man who decided she was his — turns out to be a mortal rehearsal for the Blood Bond. The cage was always the same shape. The bars just changed material.
 
@@ -85,10 +85,10 @@ To be seen. Not the body, not the face, not the thing that men project onto her 
 
 ## Voice
 
-> *At The Torch, when a Brujah neonate tries to buy her a drink:*
+> *At [The Torch](/locations/the-torch/), when a Brujah neonate tries to buy her a drink:*
 > "That's sweet. You're sweet. But I don't drink... what you're offering."
 
-> *When Modius compliments her at Elysium:*
+> *When [Modius](/npcs/modius/) compliments her at Elysium:*
 > "Your Grace is too kind. I'm just trying to keep up with all this beauty. You've built something extraordinary here."
 
 > *Alone, in the Buick, parked outside her haven:*

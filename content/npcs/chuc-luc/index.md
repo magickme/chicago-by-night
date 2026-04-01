@@ -11,7 +11,7 @@ ShowToc: false
 <dl>
 <dt>Clan</dt><dd>Ventrue</dd>
 <dt>Generation</dt><dd>9th generation</dd>
-<dt>Role</dt><dd>Darius's sire</dd>
+<dt>Role</dt><dd>[Darius](/darius-cole/)'s sire</dd>
 <dt>City</dt><dd>Gary</dd>
 </dl>
 </div>

@@ -11,7 +11,7 @@ ShowToc: false
 <dl>
 <dt>Clan</dt><dd>Caitiff</dd>
 <dt>Generation</dt><dd>9th generation</dd>
-<dt>Role</dt><dd>Caitiff / Lodin's mole among the Anarchs</dd>
+<dt>Role</dt><dd>Caitiff / [Lodin](/npcs/lodin/)'s mole among the Anarchs</dd>
 <dt>City</dt><dd>Chicago</dd>
 </dl>
 </div>

@@ -16,7 +16,7 @@ The notebook landed on the table between them like evidence being entered into a
 
 [Darius](/darius-cole/) opened it. Read it the way he read everything — for leverage, for liability, for the architecture underneath the numbers.
 
-D-Train. Thursdays. Blue van. Twelve to nineteen, female, mostly [Black](/npcs/yasmin-the-black/), dollar amounts that said wholesale. B7/SC — Berth 7, Sal Cantone, the dock pipeline and the trafficking pipeline sharing infrastructure like two parasites on the same host. And Mr. White. Milwaukee. October and March. Twice a year, buying in bulk, paying three times the going rate for a product that had specific taste and pale old hands.
+D-Train. Thursdays. Blue van. Twelve to nineteen, female, mostly Black, dollar amounts that said wholesale. B7/SC — Berth 7, Sal Cantone, the dock pipeline and the trafficking pipeline sharing infrastructure like two parasites on the same host. And Mr. White. Milwaukee. October and March. Twice a year, buying in bulk, paying three times the going rate for a product that had specific taste and pale old hands.
 
 Forty-three people reduced to abbreviations. The youngest was twelve. The column never used a name.
 

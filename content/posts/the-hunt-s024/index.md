@@ -24,7 +24,7 @@ She drove east to the docks.
 
 Kiefer's sat at the end of a gravel lot where the access road curved toward the lake. Cinder block, flat roof, a Hamm's sign turning the front window amber. The parking lot held three pickups and a Trans Am and, at the edge of the sodium light's reach, a girl.
 
-Nisha. She was maybe seventeen. [Black](/npcs/yasmin-the-black/). Down coat two sizes too big -- Wilson's, the cheap kind from the Ridge Road flea market, zipper pull replaced with a paper clip. Payless Traxx sneakers, canvas, no insulation. She stood between the Trans Am and the first pickup with her hands in her pockets and her eyes on the bar door, timing the exits the way a bookie times the post.
+Nisha. She was maybe seventeen. Black. Down coat two sizes too big -- Wilson's, the cheap kind from the Ridge Road flea market, zipper pull replaced with a paper clip. Payless Traxx sneakers, canvas, no insulation. She stood between the Trans Am and the first pickup with her hands in her pockets and her eyes on the bar door, timing the exits the way a bookie times the post.
 
 [Sable](/sable-price/) recognized the geometry before she recognized the girl. The coat that hides the hands. The patience that isn't patience but calibration. The position between parked cars that puts you within arm's reach of a pocket while the owner is fumbling with keys and thinking about the drive home and not about the fingers that just lifted forty-two dollars from his Carhartt.
 
@@ -106,7 +106,7 @@ Not a question. The woman on the other end took notes. Pen on paper, clinical, f
 
 The line died. [Sable](/sable-price/) stood in the dark with the dial tone humming against her ear and the water main crew coughing three blocks away. A window. Twenty-five days to build a room inside a room at a party where the host sees everything.
 
-At Reva's bar, the intel came in pieces: the well-dressed white woman who didn't order a drink. Forties. Wool coat. Dark sedan. She asked Danny about a pretty young [Black](/npcs/yasmin-the-black/) woman, new in town, might go by [Sable](/sable-price/). Or Ann.
+At Reva's bar, the intel came in pieces: the well-dressed white woman who didn't order a drink. Forties. Wool coat. Dark sedan. She asked Danny about a pretty young Black woman, new in town, might go by [Sable](/sable-price/). Or Ann.
 
 [Sable](/sable-price/) or Ann. Her birth name. The name that was supposed to be buried under fourteen months of death and a hundred miles of highway between Chicago and Gary.
 

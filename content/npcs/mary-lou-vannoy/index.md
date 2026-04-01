@@ -16,7 +16,7 @@ ShowToc: false
 </div>
 </div>
 
-Born in rural Oklahoma. Cherokee on her mother's side, English and Swedish on her father's. Ran away at fourteen after her Awakening manifested as a violent poltergeist event that destroyed her family's kitchen and hospitalized her stepfather. Hitchhiked to Chicago. Found The Sepulcher, which was then an abandoned church. Rebuilt it over three years with her hands and her magic.
+Born in rural Oklahoma. Cherokee on her mother's side, English and Swedish on her father's. Ran away at fourteen after her Awakening manifested as a violent poltergeist event that destroyed her family's kitchen and hospitalized her stepfather. Hitchhiked to Chicago. Found [The Sepulcher](/locations/the-sepulcher/), which was then an abandoned church. Rebuilt it over three years with her hands and her magic.
 
 The barbed wire in her hair started as a dare. Now it is a magical focus — the pain grounds her, the metal channels her Matter affinity, and anyone who tries to grab her by the hair learns why that was a mistake.
 

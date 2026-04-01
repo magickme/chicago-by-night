@@ -21,9 +21,9 @@ ShowToc: false
 
 ## Function in Play
 
-- The Rack's other anchor. If the Succubus Club is where Chicago's Kindred conduct politics over absinthe, Blue Velvet is where they hunt without pretending they came for the conversation. Less formal, less observed, more dangerous.
+- The Rack's other anchor. If the [Succubus Club](/locations/succubus-club/) is where Chicago's Kindred conduct politics over absinthe, Blue Velvet is where they hunt without pretending they came for the conversation. Less formal, less observed, more dangerous.
 - Feeding ground that multiple Kindred use without formal claim. Rack territory means shared access and shared risk. The absence of a single controlling elder makes it both useful and volatile.
-- Alternative social venue for Kindred who find the Succubus Club too performative or too monitored. The politics at Blue Velvet happen between drinks, not as the main event.
+- Alternative social venue for Kindred who find the [Succubus Club](/locations/succubus-club/) too performative or too monitored. The politics at Blue Velvet happen between drinks, not as the main event.
 
 ## Physical Read
 
@@ -33,13 +33,13 @@ ShowToc: false
 
 ## Geographic Placement
 
-- **Address:** State Street north of Division, Near North Side. Two blocks from the Succubus Club. The strip between Division and Elm is Chicago's nightlife corridor in 1991 — clubs, bars, late-night restaurants, and the kind of foot traffic that makes hunting easy.
-- **Neighborhood:** Near North / Rush Street corridor. The area transitions from nightlife commercial (Division) to Gold Coast residential (north of Elm) within four blocks. Blue Velvet sits on the commercial side of that line.
-- **Proximity:** Two blocks from the Succubus Club on the same strip. Five blocks south of the Tremere Chantry. Rush Street bars are one block west. Lake Shore Drive is three blocks east.
+- **Address:** State Street north of Division, Near North Side. Two blocks from the [Succubus Club](/locations/succubus-club/). The strip between Division and Elm is Chicago's nightlife corridor in 1991 — clubs, bars, late-night restaurants, and the kind of foot traffic that makes hunting easy.
+- **Neighborhood:** Near North / Rush Street corridor. The area transitions from nightlife commercial (Division) to [Gold Coast](/locations/gold-coast/) residential (north of Elm) within four blocks. Blue Velvet sits on the commercial side of that line.
+- **Proximity:** Two blocks from the [Succubus Club](/locations/succubus-club/) on the same strip. Five blocks south of the [Tremere Chantry](/locations/tremere-chantry/). Rush Street bars are one block west. Lake Shore Drive is three blocks east.
 - **Transit:** CTA Red Line at Clark/Division, five-minute walk. Cab traffic on Division is constant after 10 PM. Street parking is competitive; most patrons arrive by cab or on foot from other bars.
 
 ## Who Controls It
 
 - No single Kindred holds domain. The Rack is communal hunting ground by Camarilla convention, and Blue Velvet operates under that understanding.
 - The mortal owner is a man named Vince who thinks he runs a nightclub. He does not know why certain VIP guests never order drinks, why the private rooms are always available for them, or why his bouncer takes instructions from people who are not on his payroll.
-- Multiple Kindred feed here regularly. Damien, Annabelle Triabell, and assorted neonates all use the venue. The informal rule is: don't kill anyone on the premises, don't poach someone another Kindred is working, and clean up after yourself.
+- Multiple Kindred feed here regularly. [Damien](/npcs/damien/), [Annabelle Triabell](/npcs/annabelle-triabell/), and assorted neonates all use the venue. The informal rule is: don't kill anyone on the premises, don't poach someone another Kindred is working, and clean up after yourself.

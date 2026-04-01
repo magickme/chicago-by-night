@@ -74,7 +74,7 @@ The hum of the fluorescent in the outer office. The distant cycling of machinery
 
 "A way to survive in Gary. Domain."
 
-[Lucian](/npcs/lucian/) opened a desk drawer. Pulled out a business card. Plain white. [Black](/npcs/yasmin-the-black/) ink. A phone number and nothing else. He set it on the edge of the desk.
+[Lucian](/npcs/lucian/) opened a desk drawer. Pulled out a business card. Plain white. Black ink. A phone number and nothing else. He set it on the edge of the desk.
 
 "Call that number Thursday. After midnight. I'll tell you where to meet."
 

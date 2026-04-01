@@ -36,7 +36,7 @@ The stack of pallets was invisible in the shadow. He caught it with his shin. Th
 
 [Gregory Stephens](/npcs/gregory-stephens/) was ten feet away, running — not toward [Darius](/darius-cole/) but away from something behind him, the dock crew, two big men, one with a crowbar — and the crack stopped him like a wall. He spun. His hand went to his hip. His eyes found the gap between the containers where [Darius](/darius-cole/) was standing in the dark, and for one second that lasted much longer than a second, they looked at each other.
 
-The detective saw a [Black](/npcs/yasmin-the-black/) man in a dark coat. Calm face. No weapon visible. Not running, not hiding, just standing there like he had a reason to be in this particular shadow at this particular moment.
+The detective saw a Black man in a dark coat. Calm face. No weapon visible. Not running, not hiding, just standing there like he had a reason to be in this particular shadow at this particular moment.
 
 [Darius](/darius-cole/) could have used a word. One word and [Gregory](/npcs/gregory-stephens/) would have done anything — slept, frozen, walked into the lake. The power was right there, sitting behind his teeth, waiting.
 
@@ -70,9 +70,9 @@ The words went in through the eyes and settled into the brain like sediment drop
 
 ---
 
-The container smelled like machine oil and something older. The work light ran on a battery and cast hard shadows across a landscape of crates stenciled in a language [Darius](/darius-cole/) didn't read. Cyrillic. The shipping labels said Odessa in English underneath — [Black](/npcs/yasmin-the-black/) Sea, Soviet Union, the empire that was falling apart on the evening news while Gary fell apart in the same way, quietly, from the inside, and nobody on television cared about either collapse.
+The container smelled like machine oil and something older. The work light ran on a battery and cast hard shadows across a landscape of crates stenciled in a language [Darius](/darius-cole/) didn't read. Cyrillic. The shipping labels said Odessa in English underneath — Black Sea, Soviet Union, the empire that was falling apart on the evening news while Gary fell apart in the same way, quietly, from the inside, and nobody on television cared about either collapse.
 
-The crates were not machine parts. The first one was open and inside it, packed in cosmoline and factory plastic, eight assault rifles lay in a row like instruments in a case. Soviet military surplus. The kind of hardware that fell off the back of a collapsing superpower and ended up wherever someone was willing to pay. [Darius](/darius-cole/) counted eleven more crates. A clipboard on the wall listed three recipients — initials only, no names, no addresses. J.W. Four crates. C.A. Four crates. W. Three crates. Somebody was arming three groups out of Gary's docks, and the supply line ran from the [Black](/npcs/yasmin-the-black/) Sea to Lake Michigan through a company that [Lucian](/npcs/lucian/) owned and a customs office he'd bought.
+The crates were not machine parts. The first one was open and inside it, packed in cosmoline and factory plastic, eight assault rifles lay in a row like instruments in a case. Soviet military surplus. The kind of hardware that fell off the back of a collapsing superpower and ended up wherever someone was willing to pay. [Darius](/darius-cole/) counted eleven more crates. A clipboard on the wall listed three recipients — initials only, no names, no addresses. J.W. Four crates. C.A. Four crates. W. Three crates. Somebody was arming three groups out of Gary's docks, and the supply line ran from the Black Sea to Lake Michigan through a company that [Lucian](/npcs/lucian/) owned and a customs office he'd bought.
 
 But the rifles were not what [Darius](/darius-cole/) had come to find, and they were not what he found.
 
@@ -86,7 +86,7 @@ A hand. Pale. The fingers were long and the nails were wrong — too thick, too 
 
 And a ring. Gold, heavy, carved with a crest that [Darius](/darius-cole/) couldn't fully make out from this angle. He shifted, pressed his cheek against the plywood, and the work light caught the face of the signet for one frame. A dragon. Coiled around a shield. Old Eastern European heraldry — the kind of device that hadn't been struck since before the modern map of Europe existed.
 
-A Gangrel elder. Melded into ancestral earth. Being shipped through Gary Exports Co. like cargo, through the St. [Lawrence](/npcs/lawrence-meeks/) Seaway, from Odessa to Lake Michigan, bypassing Chicago, bypassing the Camarilla, bypassing every structure and protocol and prince that existed between the [Black](/npcs/yasmin-the-black/) Sea and the Rust Belt.
+A Gangrel elder. Melded into ancestral earth. Being shipped through Gary Exports Co. like cargo, through the St. Lawrence Seaway, from Odessa to Lake Michigan, bypassing Chicago, bypassing the Camarilla, bypassing every structure and protocol and prince that existed between the Black Sea and the Rust Belt.
 
 [Lucian](/npcs/lucian/) wasn't running a smuggling operation. He was running an underground railroad. The guns were a side business — currency, payment, the grease that kept the machine turning. The real cargo was the boxes. Ancient Kindred, traveling in their native earth, arriving in the New World through a back door that nobody was watching because nobody thought Gary, Indiana, was worth watching.
 

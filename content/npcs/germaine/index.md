@@ -11,7 +11,7 @@ ShowToc: false
 <dl>
 <dt>Clan</dt><dd>Brujah</dd>
 <dt>Generation</dt><dd>6th generation</dd>
-<dt>Role</dt><dd>Red List Anathema / Critias's lost childe</dd>
+<dt>Role</dt><dd>Red List Anathema / [Critias](/npcs/critias/)'s lost childe</dd>
 <dt>City</dt><dd>Milwaukee</dd>
 </dl>
 </div>

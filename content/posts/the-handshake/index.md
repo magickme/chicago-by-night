@@ -46,7 +46,7 @@ She read the aura through the crack in the glass. Mortal. No pale wash of undeat
 
 Six's blocks. The watcher was covering Six's territory, cataloguing what moved in and out of the space where a man used to operate and didn't anymore. Whoever held Six's Chicago debt had sent an accountant of a different kind, and the accountant had been sitting on these streets for two nights writing down license plates and faces, and tonight one of those faces was hers.
 
-She sent DeShawn. Porch at Sixteenth and Grant, line of sight, ball cap, the particular invisibility of a [Black](/npcs/yasmin-the-black/) man sitting on a porch on the west side on a Sunday night doing nothing.
+She sent DeShawn. Porch at Sixteenth and Grant, line of sight, ball cap, the particular invisibility of a Black man sitting on a porch on the west side on a Sunday night doing nothing.
 
 ---
 

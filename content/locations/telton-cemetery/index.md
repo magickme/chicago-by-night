@@ -11,7 +11,7 @@ ShowToc: false
 <dl>
 <dt>District</dt><dd>Tolleston / Grant belt</dd>
 <dt>Type</dt><dd>Cemetery and mausoleum domain</dd>
-<dt>Claimed By</dt><dd>Michael</dd>
+<dt>Claimed By</dt><dd>[Michael](/npcs/michael/)</dd>
 <dt>City</dt><dd>Gary</dd>
 </dl>
 </div>
@@ -24,8 +24,8 @@ ShowToc: false
 ## Function in Play
 
 - The city's quietest supernatural node.
-- Best for slow trust-building, Dane surveillance, and melancholy scenes.
+- Best for slow trust-building, [Dane](/npcs/sullivan-dane/) surveillance, and melancholy scenes.
 
 ## Who Controls It
 
-- Michael through familiarity, stealth, and the simple fact that most people do not want to linger.
+- [Michael](/npcs/michael/) through familiarity, stealth, and the simple fact that most people do not want to linger.

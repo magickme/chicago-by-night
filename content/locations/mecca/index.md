@@ -9,7 +9,7 @@ ShowToc: false
 <img class="character-portrait" src="cover.webp" alt="MECCA">
 <div class="character-stats">
 <dl>
-<dt>District</dt><dd>West Downtown</dd>
+<dt>District</dt><dd>[West Downtown](/locations/west-downtown/)</dd>
 <dt>Type</dt><dd>Convention center, Elysium</dd>
 <dt>Claimed By</dt><dd>Primogen Council (Elysium)</dd>
 <dt>City</dt><dd>Milwaukee</dd>
@@ -27,10 +27,10 @@ ShowToc: false
 
 ## Function in Play
 
-Milwaukee's Elysium. The neutral ground where the Primogen Council meets, announcements are made, and the fiction of civilized governance is maintained. No violence permitted. The prohibition is enforced by tradition and Lucina's authority. How long that holds depends on how the clocks move.
+Milwaukee's Elysium. The neutral ground where the Primogen Council meets, announcements are made, and the fiction of civilized governance is maintained. No violence permitted. The prohibition is enforced by tradition and [Lucina](/npcs/lucina/)'s authority. How long that holds depends on how the clocks move.
 
 ## Who Controls It
 
-- Lucina maintains Elysium protocol and venue access.
+- [Lucina](/npcs/lucina/) maintains Elysium protocol and venue access.
 - The Primogen Council convenes here. All seven representatives attend in theory.
 - No single faction dominates. That is the point.

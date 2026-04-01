@@ -27,10 +27,10 @@ ShowToc: false
 
 - Daytime shelter for Sabbat Kindred caught above ground when the sun approaches. The underground mall provides sunlight-free transit and temporary rest.
 - The irony is structural: Sabbat Kindred sheltering beneath Christ Church Cathedral, the Anglican seat of Montreal. The dead hiding under the house of God.
-- Commerce hub that connects to the Underground City network. A waypoint, not a destination.
+- Commerce hub that connects to the [Underground City](/locations/underground-city/) network. A waypoint, not a destination.
 
 ## Who Controls It
 
 - No single Kindred claims the Promenades. It functions as communal Sabbat infrastructure — everyone uses it, nobody owns it.
-- The Underground City connections make it valuable as a transit node. Elias the Whale's influence extends here through the tunnel network.
+- The [Underground City](/locations/underground-city/) connections make it valuable as a transit node. [Elias the Whale](/npcs/elias-the-whale/)'s influence extends here through the tunnel network.
 - Mall security is mortal and oblivious. The Sabbat presence exists in the margins — the utility spaces, the after-hours corridors, the places where mortal attention doesn't reach.

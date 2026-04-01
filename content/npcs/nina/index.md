@@ -29,4 +29,4 @@ Nina is a destroyer of ideas. She takes pleasure in stripping people -- especial
 
 **Image:** Nina has retained her youthful and innocent appearance. She looks much younger than she really is. Her delicate frame is deceiving, hiding the cruel monster that lurks within.
 
-**Secrets:** Nina knows a substantial amount about the Shepherds, especially from Raphael, who visits her on a regular basis. Unbeknownst to all of her customers, Nina has a habit of stealing their pasts, one memory at a time.
+**Secrets:** Nina knows a substantial amount about the Shepherds, especially from [Raphael](/npcs/raphael-catarari/), who visits her on a regular basis. Unbeknownst to all of her customers, Nina has a habit of stealing their pasts, one memory at a time.

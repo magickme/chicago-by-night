@@ -11,7 +11,7 @@ ShowToc: false
 <dl>
 <dt>Clan</dt><dd>Caitiff</dd>
 <dt>Generation</dt><dd>9th generation</dd>
-<dt>Role</dt><dd>Tragic fledgling / Damien's ward</dd>
+<dt>Role</dt><dd>Tragic fledgling / [Damien](/npcs/damien/)'s ward</dd>
 <dt>City</dt><dd>Chicago</dd>
 </dl>
 </div>

@@ -21,7 +21,7 @@ Born Alexandre Prouville, Skin's sole mortal dementia was a hypochondriacal delu
 
 When Preacher finally decided to Embrace his protege, he wrapped himself up in his student's delusions, augmented them, and then reveled in the bloodbath as he and his paramour took to excising the insects. By the end of the orgy, when Alexandre was close to death and he had all but sheared away his own face, Preacher took him.
 
-As a member of the Sabbat, Skin still believes that insects live under his skin. He constantly picks and prods at his gaping wounds -- a major reason why others can't stand being around him. Skin is the nominal leader of Les Miserables, but maintains that his status is temporary until Preacher returns. His best friend is his stepsister Molly 8.
+As a member of the Sabbat, Skin still believes that insects live under his skin. He constantly picks and prods at his gaping wounds -- a major reason why others can't stand being around him. Skin is the nominal leader of Les Miserables, but maintains that his status is temporary until Preacher returns. His best friend is his stepsister [Molly 8](/npcs/molly-8/).
 
 **Image:** Skin is a walking mass of ragged flesh, exposed muscle and open wounds. He can overwhelm the staunchest of constitutions.
 

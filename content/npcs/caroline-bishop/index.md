@@ -27,4 +27,4 @@ Caroline seemed to be doing well until 1993, when she began suffering from a rec
 
 **Image:** Caroline has shoulder-length, strawberry-blond hair, very petite features and piercings all over her body. When she's around other women, she wears clothes that show off her body work.
 
-**Secrets:** The pregnancy. Caroline suspects that her sire was skilled in Vicissitude and that her nightmares stem from a vile pregnancy spawned by him. She has kept this a secret from everyone, including Celeste.
+**Secrets:** The pregnancy. Caroline suspects that her sire was skilled in Vicissitude and that her nightmares stem from a vile pregnancy spawned by him. She has kept this a secret from everyone, including [Celeste](/npcs/celeste/).

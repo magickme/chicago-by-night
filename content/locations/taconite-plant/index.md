@@ -11,7 +11,7 @@ ShowToc: false
 <dl>
 <dt>District</dt><dd>Lakefront plant strip</dd>
 <dt>Type</dt><dd>Fallback haven</dd>
-<dt>Claimed By</dt><dd>Modius</dd>
+<dt>Claimed By</dt><dd>[Modius](/npcs/modius/)</dd>
 <dt>City</dt><dd>Gary</dd>
 </dl>
 </div>
@@ -24,9 +24,9 @@ ShowToc: false
 
 ## Function in Play
 
-- Modius's emergency bolt-hole.
+- [Modius](/npcs/modius/)'s emergency bolt-hole.
 - Good for scenes where his polish drops and survival instinct replaces ceremony.
 
 ## Who Controls It
 
-- Modius and whichever retainers he trusts enough to know it exists.
+- [Modius](/npcs/modius/) and whichever retainers he trusts enough to know it exists.
