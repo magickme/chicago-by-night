@@ -9,7 +9,7 @@ ShowToc: false
 <img class="character-portrait" src="cover.webp" alt="Victor Salonika">
 <div class="character-stats">
 <dl>
-<dt>Clan</dt><dd>[Ghoul](/npcs/bratovitch-ghoul/)</dd>
+<dt>Clan</dt><dd>Ghoul</dd>
 <dt>Role</dt><dd>Manager of [The Torch](/locations/the-torch/)</dd>
 <dt>City</dt><dd>Gary</dd>
 </dl>

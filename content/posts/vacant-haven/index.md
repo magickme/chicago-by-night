@@ -92,7 +92,7 @@ The chess set. Layers. Someone had handled these pieces over months or years —
 
 The letter beside it. A woman's hand. Confident, practiced. The word *custos* carried private weight, the kind of word that means one thing in Latin and something else entirely between two people who have used it long enough to forget where it started.
 
-She moved through the apartment. Kitchen: mortal hands, routine, nothing. Dining room: dust, untouched. Retainers' room: three or four presences, none urgent. The security room equipment gave her Natasha — hours of boredom, muscle-memory at the monitors, and then a seam. A place where the impression stopped, like a sentence cut mid-word. On the other side of the gap, everything was wrong and Natasha didn't know why.
+She moved through the apartment. Kitchen: mortal hands, routine, nothing. Dining room: dust, untouched. Retainers' room: three or four presences, none urgent. The security room equipment gave her [Natasha](/npcs/natasha/) — hours of boredom, muscle-memory at the monitors, and then a seam. A place where the impression stopped, like a sentence cut mid-word. On the other side of the gap, everything was wrong and Natasha didn't know why.
 
 Then the vault. She stepped through the ruined doorway. Waterbed, phone, manacles on the wall, a computer. And on a shelf at the head of the bed — a pendant. Silver chain, old. A black stone carved into the shape of a tooth.
 

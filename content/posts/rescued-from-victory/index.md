@@ -12,7 +12,7 @@ description: "A staked Sheriff on Wacker Drive. An Anarch in a fourteen-year-old
 
 ---
 
-They woke in a dead man's room and the cold had gotten in while they slept — not through the walls (the walls were concrete and steel and built to hold a Prince) but through the glass at the end of the hallway, where January pressed itself against the 107th floor and the radiator had quit because the only person who knew how to fix it was Julian Curry and Julian Curry was in the office down the hall with a bullet through his head.
+They woke in a dead man's room and the cold had gotten in while they slept — not through the walls (the walls were concrete and steel and built to hold a Prince) but through the glass at the end of the hallway, where January pressed itself against the 107th floor and the radiator had quit because the only person who knew how to fix it was [Julian Curry](/npcs/julian-curry/) and Julian Curry was in the office down the hall with a bullet through his head.
 
 [Belthazar](/npcs/belthazar/) was already pacing. The boots on marble, back and forth, the rhythm of a man who wanted the sound noticed.
 

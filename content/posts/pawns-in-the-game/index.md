@@ -7,7 +7,7 @@ categories: ["Pawns in the Game"]
 description: "Eight white pawns with faces. A game room designed to keep people comfortable and irrelevant. Lodin emerges with his face closed like a book."
 ---
 
-*Queen Anne's Mansion*
+*Queen [Anne](/npcs/lady-anne/)'s Mansion*
 *South London — October 1969*
 
 ---
@@ -20,7 +20,7 @@ One use. On a mortal.
 
 Adequate.
 
-He fed somewhere in Mayfair with Natasha and Derek. Came back at quarter past eight with color under his skin. Changed into an evening suit that fit like it had been made for him in this city, which it probably had. Then: all of you, with me, we're expected.
+He fed somewhere in Mayfair with [Natasha](/npcs/natasha/) and [Derek](/npcs/derek-gallen/). Came back at quarter past eight with color under his skin. Changed into an evening suit that fit like it had been made for him in this city, which it probably had. Then: all of you, with me, we're expected.
 
 In the van, ten minutes into the drive, Lodin said he wanted to see a show in the West End.
 
@@ -38,7 +38,7 @@ The mansion was south of the city proper, at the end of a lane that hadn't been 
 
 Lodin adjusted his cuffs. Became the Prince. Walked to the front door and knocked once.
 
-Pershing opened it. Silver-haired. The posture of a man who had been opening doors for important people since before important people had cars. He looked at Lodin the way a sommelier looks at a bottle he's been saving. He didn't look at the van at all.
+[Pershing](/npcs/pershing/) opened it. Silver-haired. The posture of a man who had been opening doors for important people since before important people had cars. He looked at Lodin the way a sommelier looks at a bottle he's been saving. He didn't look at the van at all.
 
 The door closed.
 
@@ -54,9 +54,9 @@ Pershing coughed. Kept walking. Opened a door at the end of the hall. A game roo
 
 Roarke brought the others inside. The chess set was mid-game -- white losing material but winning position. The white pawns had faces. Not decorative. Specific. Eight individual people carved into the expendable pieces. The black pawns were blank.
 
-Julian saw it too. Eight white pawns. Eight faces. We're five.
+[Julian](/npcs/julian-curry/) saw it too. Eight white pawns. Eight faces. We're five.
 
-Amber said maybe everything is a game to them and the game is the point. Roarke said *truer words* in the flat dry voice of a man who'd spent six decades learning exactly how true it was.
+[Amber](/npcs/amber/) said maybe everything is a game to them and the game is the point. Roarke said *truer words* in the flat dry voice of a man who'd spent six decades learning exactly how true it was.
 
 An hour and a half later, Pershing opened the door without knocking and told them their master was finished. The corridor. The portraits. The front door. Lodin at the van with his hands behind his back and his face closed like a book someone had decided you weren't allowed to read.
 

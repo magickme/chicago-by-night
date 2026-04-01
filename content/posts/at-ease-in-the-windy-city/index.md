@@ -14,7 +14,7 @@ description: "Sixty-one years of service. A crate the shape of what it is. The P
 
 The television was on when [Roarke](/npcs/roarke/) came back from checking the windows. Cronkite. The Moratorium -- half a million people on the Mall with their signs and their candles and their belief that holding a placard changes the wiring underneath.
 
-Derek had his boots on the coffee table. Natasha had her Walther field-stripped on a white cloth at the dining table. Julian read the Financial Times in the wingback chair nearest the vault door, one ear cocked toward the steel like a dog waiting for its master's whistle. Amber was in the kitchen. Garlic and wine and something French.
+[Derek](/npcs/derek-gallen/) had his boots on the coffee table. [Natasha](/npcs/natasha/) had her Walther field-stripped on a white cloth at the dining table. [Julian](/npcs/julian-curry/) read the Financial Times in the wingback chair nearest the vault door, one ear cocked toward the steel like a dog waiting for its master's whistle. [Amber](/npcs/amber/) was in the kitchen. Garlic and wine and something French.
 
 Four people. His people, in the way that borrowed things become yours through long enough use.
 

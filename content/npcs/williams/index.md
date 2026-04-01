@@ -9,7 +9,7 @@ ShowToc: false
 <img class="character-portrait" src="cover.webp" alt="Williams">
 <div class="character-stats">
 <dl>
-<dt>Clan</dt><dd>[Ghoul](/npcs/bratovitch-ghoul/)</dd>
+<dt>Clan</dt><dd>Ghoul</dd>
 <dt>Role</dt><dd>Slave auctioneer</dd>
 <dt>City</dt><dd>Gary</dd>
 </dl>

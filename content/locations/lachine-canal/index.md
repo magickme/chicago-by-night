@@ -19,7 +19,7 @@ ShowToc: false
 
 ## Physical Read
 
-- A fourteen-kilometer industrial canal running from the Old Port southwest to Lac Saint-[Louis](/npcs/louis-detonas/). The locks have been closed for decades. The water turns black and still.
+- A fourteen-kilometer industrial canal running from the Old Port southwest to Lac Saint-Louis. The locks have been closed for decades. The water turns black and still.
 - The banks are lined with abandoned factories, shuttered rail yards, and the remnants of Montreal's industrial spine. Brick buildings with broken windows. Loading docks that face the water. Chain-link fences with holes cut by people who needed to get through and didn't have keys. Little Burgundy's housing projects press against the canal's north bank near Atwater — the Sabbat Embrace dying children from these alleyways and let the frenzied beasts feast on their families.
 - Homeless camps under the overpasses and in the derelict factory shells. Small fires in oil drums. The smell of kerosene and wet wool. These are the feeding grounds — people who won't be missed, who won't report, who have learned not to scream at things that happen after dark.
 
