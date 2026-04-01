@@ -18,7 +18,7 @@ A Tuesday in February, ten days after the Elysium. She used the studio phone, th
 
 She called again three days later. He picked up on the second ring.
 
-By March they had a rhythm. [The Torch](/locations/the-torch/) on weekends. A parked car on a side street after feeding, engine off, the heater running because it made the silence feel inhabited. He drove the Cutlass. She drove the Buick [Michael](/npcs/michael/) had given her, the one she should have abandoned months ago but couldn't because it was the only thing her sire had left her and throwing it away would mean something she wasn't ready to mean. They parked on Lake Street, or [Tyler](/npcs/tyler/), or the access road behind the old Sears on Broadway where the streetlights had been out since the store closed in '83.
+By March they had a rhythm. [The Torch](/locations/the-torch/) on weekends. A parked car on a side street after feeding, engine off, the heater running because it made the silence feel inhabited. He drove the Cutlass. She drove the Buick [Michael](/npcs/michael/) had given her, the one she should have abandoned months ago but couldn't because it was the only thing her sire had left her and throwing it away would mean something she wasn't ready to mean. They parked on Lake Street, or Tyler, or the access road behind the old Sears on Broadway where the streetlights had been out since the store closed in '83.
 
 They talked. They said nothing.
 

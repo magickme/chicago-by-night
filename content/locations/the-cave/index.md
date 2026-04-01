@@ -25,7 +25,7 @@ ShowToc: false
 
 ## Function in Play
 
-- Chicago's strangest information market. What you hear in the [Cave](/npcs/hank-cave/) may be prophecy, delusion, or both, and no one will tell you which.
+- Chicago's strangest information market. What you hear in the Cave may be prophecy, delusion, or both, and no one will tell you which.
 - A place to feed on mortals who came looking for something weird and found it.
 - Houdini does stake-escape tricks on a small stage. The audience laughs. The Kindred in the room do not.
 

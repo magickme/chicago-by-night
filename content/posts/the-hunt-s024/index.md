@@ -46,7 +46,7 @@ The offer was specific: heat, food, a bath. The bath did the work. If you have b
 
 The studio on Fifth Avenue was cold. [Sable](/sable-price/) hadn't been there in weeks. [Michael](/npcs/michael/)'s paintings watched from the walls -- three unfinished canvases, the brushwork of a man who started conversations and left before the other person could answer. The answering machine on the counter blinked twice. Red. Patient.
 
-She ran the bath. The water took two minutes to clear. She set out the blue towel -- Egyptian cotton, [Marshall](/npcs/garwood-marshall/) Field's, a weight she had kept because the thread count was a memory of a life where thread count mattered. She heated a can of Campbell's chicken noodle from the shelf and put it in the one clean bowl.
+She ran the bath. The water took two minutes to clear. She set out the blue towel -- Egyptian cotton, Marshall Field's, a weight she had kept because the thread count was a memory of a life where thread count mattered. She heated a can of Campbell's chicken noodle from the shelf and put it in the one clean bowl.
 
 The bath sounds were the sounds of a body discovering warmth. The small noises of a girl becoming temporarily human in a dead man's bathroom while the dead woman who brought her there sat at the counter and catalogued the cost: one can of soup, a quarter-tank of hot water, a clean towel, and four points of blood that the girl would never know she'd paid.
 

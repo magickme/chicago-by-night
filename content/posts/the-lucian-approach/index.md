@@ -56,7 +56,7 @@ He memorized it. Put the clipboard back. Sat down. Hands on knees. Folder on his
 
 There it was. The read. Six centuries of studying men who came to his office with folders and pitches and stories about county filings, and the elder had looked past all of it to the part underneath where the lie lived.
 
-[Darius](/darius-cole/) let the broker die. Let Warren Birch's careful diction fall away and the voice that came out was [Tyler](/npcs/tyler/) Street, was the back room at [Marlene](/npcs/marlene-voss/)'s pawnshop, was the parking lot behind the check-cashing place at two in the morning.
+[Darius](/darius-cole/) let the broker die. Let Warren Birch's careful diction fall away and the voice that came out was Tyler Street, was the back room at [Marlene](/npcs/marlene-voss/)'s pawnshop, was the parking lot behind the check-cashing place at two in the morning.
 
 "Look, I'm new here, OK? I'm just a squirrel trying to get a nut. I ain't got six hundred years, not even six. Give a nigga who's trying to just make a buck in the Great Jyhad a break."
 
