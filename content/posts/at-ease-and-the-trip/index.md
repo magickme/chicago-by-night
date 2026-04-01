@@ -1,6 +1,6 @@
 ---
 title: "At Ease / The Trip — Wednesday, 15 October 1969, 5:53 PM"
-date: 1969-10-15T17:53:00
+date: 1991-01-02T22:00:00
 lastmod: 2026-03-31
 tags: ["ashes-to-ashes", "flashback", "roarke", "vtm", "ashes-and-blood", "chicago"]
 categories: ["Act II — Ashes to Ashes"]

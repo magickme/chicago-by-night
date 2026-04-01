@@ -166,14 +166,21 @@ Published scenes from **Chicago Chronicles** in chronological order.
 
 ### Chapter 1 — Ashes to Ashes
 
-*Oct 15, 1969, 5:53 PM through Jan 2, 1991, 9:30 PM.*
+*Jan 1, 1991, 4:28 PM through Jan 2, 1991, 9:30 PM.*
 
 | # | Scene | PC | Date |
 |---|---|---|---|
-| 53 | [At Ease And The Trip](/posts/at-ease-and-the-trip/) | Chronicle | Oct 15, 1969, 5:53 PM |
-| 54 | [Welcome To Chicago](/posts/welcome-to-chicago/) | Darius + Sable | Jan 1, 1991, 4:28 PM |
-| 55 | [Dinner With Ballard](/posts/dinner-with-ballard/) | Darius + Sable | Jan 2, 1991, 4:29 PM |
-| 56 | [Vacant Haven](/posts/vacant-haven/) | Darius + Sable | Jan 2, 1991, 9:30 PM |
+| 53 | [Welcome To Chicago](/posts/welcome-to-chicago/) | Darius + Sable | Jan 1, 1991, 4:28 PM |
+| 54 | [Dinner With Ballard](/posts/dinner-with-ballard/) | Darius + Sable | Jan 2, 1991, 4:29 PM |
+| 55 | [Vacant Haven](/posts/vacant-haven/) | Darius + Sable | Jan 2, 1991, 9:30 PM |
+
+### Chapter 2 — Villain's Flashback
+
+*London, 1969. The player controls Roarke, leader of Lodin's mortal retainers.*
+
+| # | Scene | PC | Date |
+|---|---|---|---|
+| 56 | [At Ease And The Trip](/posts/at-ease-and-the-trip/) | Roarke | Oct 15, 1969, 5:53 PM |
 
 ---
 
