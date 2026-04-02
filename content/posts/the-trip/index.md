@@ -1,6 +1,6 @@
 ---
 title: "The Trip"
-date: 1969-10-16T18:00:00
+date: 1991-01-03T01:00:00
 lastmod: 2026-04-01
 tags: ["ashes-to-ashes", "flashback", "roarke", "vtm", "ashes-and-blood", "chicago", "london"]
 categories: ["Chapter 2 — Pawns in the Game"]

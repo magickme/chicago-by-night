@@ -3,7 +3,7 @@ title: "The Hunger — Wednesday, 25 July 1990, 8:19 PM"
 date: 1990-07-25T20:19:00
 lastmod: 2026-03-26
 tags: ["forged-in-steel", "darius", "vtm", "gary"]
-categories: ["Chapter 8 — The Hunger"]
+categories: ["Chapter 8 — The Operational"]
 description: "Four nights without feeding and the west side is on fire. A nurse's arithmetic. A puppet's strings retied. A prince's fear dressed as a favor. And at a burned church after midnight, tire tracks that shouldn't be there."
 ---
 

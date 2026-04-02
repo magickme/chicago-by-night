@@ -3,7 +3,7 @@ title: "The Diagnostic — Sunday, 2 December 1990, 4:25 PM"
 date: 1990-12-02T16:25:00
 lastmod: 2026-03-27
 tags: ["forged-in-steel", "darius", "vtm", "gary"]
-categories: ["Chapter 10 — The Diagnostic"]
+categories: ["Chapter 10 — December"]
 description: "A girl he's never seen walks out of a Torch alley wiping blood from her mouth. He follows her to a door she has a key to. And on the way back, something in the dark makes the dead thing inside him remember what fear was."
 ---
 

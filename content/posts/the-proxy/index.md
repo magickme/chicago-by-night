@@ -3,7 +3,7 @@ title: "The Proxy — Saturday, 21 July 1990, 8:23 PM"
 date: 1990-07-21T20:23:00
 lastmod: 2026-03-25
 tags: ["forged-in-steel", "darius", "vtm", "gary"]
-categories: ["Chapter 7 — The Proxy"]
+categories: ["Chapter 7 — The Coterie"]
 description: "A man waits eight hours in a bare apartment for a meeting that was never about the paperwork. Three-fourteenths of a human will, installed in ninety minutes. The drawer labeled NECESSARY grows larger."
 ---
 

@@ -3,7 +3,7 @@ title: "The Mansion — Tuesday, 24 July 1990, 8:19 PM"
 date: 1990-07-24T20:19:00
 lastmod: 2026-03-30
 tags: ["forged-in-steel", "sable", "vtm", "gary"]
-categories: ["Chapter 7"]
+categories: ["Chapter 7 — The Coterie"]
 description: "Sable walks into the lion's den in a Goodwill dress with a razor-altered hem, delivers a Torch spy report to a prince whose composure cracks for a quarter of a second, and trades a scheduling recommendation for the first real concession Modius has made all year."
 ---
 

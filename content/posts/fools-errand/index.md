@@ -1,6 +1,6 @@
 ---
 title: "Fool's Errand"
-date: 1969-10-18T19:00:00
+date: 1991-01-03T05:00:00
 lastmod: 2026-04-01
 tags: ["ashes-to-ashes", "flashback", "roarke", "vtm", "ashes-and-blood", "london"]
 categories: ["Chapter 2 — Pawns in the Game"]

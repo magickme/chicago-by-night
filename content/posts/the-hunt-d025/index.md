@@ -3,7 +3,7 @@ title: "The Shore Bar — Monday, 3 December 1990, 4:25 PM"
 date: 1990-12-03T16:25:00
 lastmod: 2026-03-27
 tags: ["forged-in-steel", "darius", "vtm", "gary"]
-categories: ["Chapter 10 — The Hunt"]
+categories: ["Chapter 10 — December"]
 description: "Four nights without blood and the Beast has stopped asking. A shore bar east of the port. A man with a repo sticker and no check coming. And in Ray's kitchen, an inventory that doesn't fit the blueprint."
 ---
 

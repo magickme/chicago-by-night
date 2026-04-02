@@ -3,7 +3,7 @@ title: "The Handshake — Sunday, 22 July 1990, 8:21 PM"
 date: 1990-07-22T20:21:00
 lastmod: 2026-03-25
 tags: ["forged-in-steel", "sable", "vtm", "gary"]
-categories: ["Chapter 7 — The Predator"]
+categories: ["Chapter 7 — The Coterie"]
 description: "A cover story, a blood bond, a burgundy Oldsmobile, and a handshake between two predators who just gave each other loaded weapons and called it partnership."
 ---
 

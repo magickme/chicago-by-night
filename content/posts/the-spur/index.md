@@ -3,7 +3,7 @@ title: "The Spur — Tuesday, 4 December 1990, 4:25 PM"
 date: 1990-12-04T16:25:00
 lastmod: 2026-03-27
 tags: ["forged-in-steel", "darius", "vtm", "gary"]
-categories: ["Chapter 10 — The Spur"]
+categories: ["Chapter 10 — December"]
 description: "A dead man feeds on grief at a mill hand's wake, then walks onto Gangrel-marked ground to meet a stranger who's been watching for five months. Three conversations, three registers, three versions of the truth. A matchbook changes hands. A phone line goes dead. A radiator clicks."
 ---
 

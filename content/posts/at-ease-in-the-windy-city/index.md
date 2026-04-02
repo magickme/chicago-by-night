@@ -1,6 +1,6 @@
 ---
 title: "At Ease in the Windy City"
-date: 1969-10-15T19:00:00
+date: 1991-01-03T00:00:00
 lastmod: 2026-04-01
 tags: ["ashes-to-ashes", "flashback", "roarke", "vtm", "ashes-and-blood", "chicago"]
 categories: ["Chapter 2 — Pawns in the Game"]

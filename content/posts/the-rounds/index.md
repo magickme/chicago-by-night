@@ -3,7 +3,7 @@ title: "The Rounds — Wednesday, 5 December 1990, 4:25 PM"
 date: 1990-12-05T16:25:00
 lastmod: 2026-03-28
 tags: ["forged-in-steel", "sable", "vtm", "gary"]
-categories: ["Chapter 10 — The Spur"]
+categories: ["Chapter 10 — December"]
 description: "Seven nights without feeding. Three vessels in one night. A woman at a piano playing Chopin for an empty room. An answering machine that blinks twice. And on Seventeenth Street, after midnight, something in a white van that burns when you look at it with the wrong eyes."
 ---
 

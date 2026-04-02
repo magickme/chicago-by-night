@@ -1,6 +1,6 @@
 ---
 title: "Settling In"
-date: 1969-10-17T07:14:00
+date: 1991-01-03T02:00:00
 lastmod: 2026-04-01
 tags: ["ashes-to-ashes", "flashback", "roarke", "vtm", "ashes-and-blood", "london"]
 categories: ["Chapter 2 — Pawns in the Game"]

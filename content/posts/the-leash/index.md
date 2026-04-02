@@ -3,7 +3,7 @@ title: "The Leash — Monday, 23 July 1990, 8:20 PM"
 date: 1990-07-23T20:20:00
 lastmod: 2026-03-25
 tags: ["forged-in-steel", "sable", "vtm", "gary"]
-categories: ["Chapter 7 — The Predator"]
+categories: ["Chapter 7 — The Coterie"]
 description: "A year of devotion, a plate number, a prince's summons, and a machine that runs on the sound men make when they drink from your wrist."
 ---
 

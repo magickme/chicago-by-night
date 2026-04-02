@@ -3,7 +3,7 @@ title: "The Kennel — Saturday, 21 July 1990, 8:22 PM"
 date: 1990-07-21T20:22:00
 lastmod: 2026-03-25
 tags: ["forged-in-steel", "sable", "vtm", "gary"]
-categories: ["Chapter 7 — The Predator"]
+categories: ["Chapter 7 — The Coterie"]
 description: "Three men in a garage. Two rules and a wrist. A bar, a hunt, a phone that doesn't ring. And then: a woman in a doorway who says one word that changes everything."
 ---
 
