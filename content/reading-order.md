@@ -95,7 +95,7 @@ Published scenes from **Chicago Chronicles** in chronological order.
 | 31 | [The Fixer](/posts/the-fixer/) | Darius | Jul 17, 1990, 10:30 PM |
 | 32 | [The Placement](/posts/the-placement/) | Sable | Jul 19, 1990, 9:30 PM |
 
-### Chapter 7
+### Chapter 7 — The Coterie
 
 *Jul 18, 1990, 10:30 PM through Jul 24, 1990, 8:19 PM.*
 
@@ -110,7 +110,7 @@ Published scenes from **Chicago Chronicles** in chronological order.
 | 39 | [The Leash](/posts/the-leash/) | Sable | Jul 23, 1990, 8:20 PM |
 | 40 | [The Mansion](/posts/the-mansion/) | Sable | Jul 24, 1990, 8:19 PM |
 
-### Chapter 8
+### Chapter 8 — The Operational
 
 *Jul 25, 1990, 8:19 PM through Jul 26, 1990, 8:19 PM.*
 
@@ -131,7 +131,7 @@ Published scenes from **Chicago Chronicles** in chronological order.
 |---|---|---|---|
 | 44 | [The Long Game](/posts/the-long-game/) | Darius + Sable | Dec 1, 1990, 4:25 PM |
 
-### Chapter 10
+### Chapter 10 — December
 
 *Dec 2, 1990, 4:25 PM through Dec 6, 1990, 4:25 PM.*
 
@@ -164,29 +164,29 @@ Published scenes from **Chicago Chronicles** in chronological order.
 
 *Chicago, Illinois. 1991. The coterie arrives as Modius's emissaries. The Prince is missing. The machine is bigger than anything Gary prepared them for.*
 
-### Chapter 2 — Pawns in the Game
-
-*Oct 15, 1969, 7:00 PM through Oct 18, 1969, 7:00 PM.*
-
-| # | Scene | PC | Date |
-|---|---|---|---|
-| 53 | [At Ease In The Windy City](/posts/at-ease-in-the-windy-city/) | Chronicle | Oct 15, 1969, 7:00 PM |
-| 54 | [The Trip](/posts/the-trip/) | Chronicle | Oct 16, 1969, 6:00 PM |
-| 55 | [Settling In](/posts/settling-in/) | Chronicle | Oct 17, 1969, 7:14 AM |
-| 56 | [Pawns In The Game](/posts/pawns-in-the-game/) | Chronicle | Oct 17, 1969, 5:47 PM |
-| 57 | [The Auction](/posts/the-auction/) | Chronicle | Oct 18, 1969, 11:00 AM |
-| 58 | [Fools Errand](/posts/fools-errand/) | Chronicle | Oct 18, 1969, 7:00 PM |
-
 ### Chapter 1 — Ashes to Ashes
 
 *Jan 1, 1991, 4:28 PM through Jan 2, 1991, 11:00 PM.*
 
 | # | Scene | PC | Date |
 |---|---|---|---|
-| 59 | [Welcome To Chicago](/posts/welcome-to-chicago/) | Darius + Sable | Jan 1, 1991, 4:28 PM |
-| 60 | [Dinner With Ballard](/posts/dinner-with-ballard/) | Darius + Sable | Jan 2, 1991, 4:29 PM |
-| 61 | [Vacant Haven](/posts/vacant-haven/) | Darius + Sable | Jan 2, 1991, 9:30 PM |
-| 62 | [Rescued From Victory](/posts/rescued-from-victory/) | Darius + Sable | Jan 2, 1991, 11:00 PM |
+| 53 | [Welcome To Chicago](/posts/welcome-to-chicago/) | Darius + Sable | Jan 1, 1991, 4:28 PM |
+| 54 | [Dinner With Ballard](/posts/dinner-with-ballard/) | Darius + Sable | Jan 2, 1991, 4:29 PM |
+| 55 | [Vacant Haven](/posts/vacant-haven/) | Darius + Sable | Jan 2, 1991, 9:30 PM |
+| 56 | [Rescued From Victory](/posts/rescued-from-victory/) | Darius + Sable | Jan 2, 1991, 11:00 PM |
+
+### Chapter 2 — Pawns in the Game
+
+*London, 1969. A flashback interlude. Roarke — Lodin's chief retainer for sixty-one years — flies to London on a job he doesn't understand, for a man he can't refuse.*
+
+| # | Scene | PC | Date |
+|---|---|---|---|
+| 57 | [At Ease In The Windy City](/posts/at-ease-in-the-windy-city/) | Roarke | Oct 15, 1969, 7:00 PM |
+| 58 | [The Trip](/posts/the-trip/) | Roarke | Oct 16, 1969, 6:00 PM |
+| 59 | [Settling In](/posts/settling-in/) | Roarke | Oct 17, 1969, 7:14 AM |
+| 60 | [Pawns In The Game](/posts/pawns-in-the-game/) | Roarke | Oct 17, 1969, 5:47 PM |
+| 61 | [The Auction](/posts/the-auction/) | Roarke | Oct 18, 1969, 11:00 AM |
+| 62 | [Fools Errand](/posts/fools-errand/) | Roarke | Oct 18, 1969, 7:00 PM |
 
 ### Chapter 3 — Ashes to Ashes
 
