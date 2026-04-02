@@ -22,9 +22,9 @@ Forty-three people reduced to abbreviations. The youngest was twelve. The column
 
 [Darius](/darius-cole/) closed the notebook. The church needed to burn.
 
-[Sable](/sable-price/) said, "A better question might be who carries the insurance," and the answer was nobody, because nobody insures a boarded-up church in south Gary, and that was the point. Buildings burned in Gary every month. Fire trucks came in twenty minutes if they came at all. Squatter candle. Wiring. An origin story that wrote itself in a city where everything was already on fire. Darius would give the key to [Ray Pulaski](/npcs/ray-pulaski/) and the church would be gone by the weekend and the anchor bolts and the chain and the stain in the wood would become ash that nobody would test because nobody in Gary tested ash.
+[Sable](/sable-price/) said, "A better question might be who carries the insurance," and the answer was nobody, because nobody insures a boarded-up church in south Gary, and that was the point. Buildings burned in Gary every month. Fire trucks came in twenty minutes if they came at all. Squatter candle. Wiring. An origin story that wrote itself in a city where everything was already on fire. [Darius](/darius-cole/) would give the key to [Ray Pulaski](/npcs/ray-pulaski/) and the church would be gone by the weekend and the anchor bolts and the chain and the stain in the wood would become ash that nobody would test because nobody in Gary tested ash.
 
-He briefed her on [Juggler](/npcs/juggler/). She filed it. They didn't linger. Two vampires exchanging operational intelligence in a booth at a bar where the jukebox covered the words and the bartender knew enough to keep his distance. Sable left the way she always left — the room tilting toward her, then settling back to its natural shape when the door closed.
+He briefed her on [Juggler](/npcs/juggler/). She filed it. They didn't linger. Two vampires exchanging operational intelligence in a booth at a bar where the jukebox covered the words and the bartender knew enough to keep his distance. [Sable](/sable-price/) left the way she always left — the room tilting toward her, then settling back to its natural shape when the door closed.
 
 Darius checked his watch. Quarter to twelve. Cemetery at midnight.
 
@@ -42,13 +42,13 @@ Two minutes. Three.
 
 Then a voice, close enough that it should have had footsteps first and didn't.
 
-"You're punctual. Juggler said you would be."
+"You're punctual. [Juggler](/npcs/juggler/) said you would be."
 
 Eight feet to Darius's left. The Obfuscate stopped and [Danov](/npcs/alexander-danov/) was there — not arriving, just revealed, the way a wall becomes visible when a light changes. Short figure in a long coat. The face was what Nosferatu faces were. The details didn't matter because the eye refused to hold them, sliding off the wrongness the way water slides off wax. What registered was the coat, the posture, and the voice — deliberate, precise, every consonant placed like furniture in a room where nothing was accidental.
 
 "Walk with me. I don't do business standing still."
 
-They moved between headstones. The ground was soft where the earth had settled over old graves. Danov walked without looking down.
+They moved between headstones. The ground was soft where the earth had settled over old graves. [Danov](/npcs/alexander-danov/) walked without looking down.
 
 "Juggler tells me you need paper. Federal-grade. A face that can sit across from a desk at the FBI field office and not melt." He didn't look at Darius when he spoke. He looked at the cemetery. "I have a man on Washington Street who does paper. Shallow layer — license, social, credit. Good enough for a traffic stop. Not good enough for the Bureau."
 

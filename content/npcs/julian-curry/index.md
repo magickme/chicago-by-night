@@ -23,6 +23,6 @@ Recently disowned by his mother — a secret he keeps from the others. The famil
 
 Obeys [Roarke](/npcs/roarke/)'s orders explicitly but insists on private counsel with [Lodin](/npcs/lodin/) afterward when he disagrees. Jealously hoards his time with the Prince and takes pride in their relationship. Gets along well with [Natasha](/npcs/natasha/) — mutual respect between two professionals. Despises [Derek](/npcs/derek-gallen/)'s and [Amber](/npcs/amber/)'s taste in music and their lack of decorum.
 
-In the 1969 London flashback, Julian reads the Financial Times in the wingback chair nearest the vault door, one ear cocked toward the steel. He is later killed by [Roarke](/npcs/roarke/) during the present-day events of Ashes to Ashes — shot in Lodin's office during the infiltration.
+In the 1969 London flashback, Julian reads the Financial Times in the wingback chair nearest the vault door, one ear cocked toward the steel. He is later killed by [Roarke](/npcs/roarke/) during the present-day events of Ashes to Ashes — shot in [Lodin](/npcs/lodin/)'s office during the infiltration.
 
 Nature: Plotter. Demeanor: Director.

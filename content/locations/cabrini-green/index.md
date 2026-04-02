@@ -47,7 +47,7 @@ From the 16th floor of a White tower you can see Lake Michigan, Lincoln Park, th
 
 - **Address:** Cabrini-Green Housing Project, centered at Sedgwick Street and Locust Street, Near North Side. Despite sitting in the geographic middle of the Rack, classified as [the Barrens](/locations/the-barrens/) by Chicago's Kindred.
 - **Neighborhood:** Near North Side. Bordered roughly by Division Street (north), Halsted (west), Chicago Avenue (south), and the river. Old Town Triangle is further west.
-- **Proximity:** Half a mile west of the Gold Coast and North Michigan Avenue. The [Succubus Club](/locations/succubus-club/) and the Rack's nightlife are a short walk east on Division. [The Brewery](/locations/the-brewery/) and Daley's are nearby on Clark and State. Lincoln Park is north.
+- **Proximity:** Half a mile west of the [Gold Coast](/locations/gold-coast/) and North Michigan Avenue. The [Succubus Club](/locations/succubus-club/) and the Rack's nightlife are a short walk east on Division. [The Brewery](/locations/the-brewery/) and Daley's are nearby on Clark and State. Lincoln Park is north.
 - **Transit:** CTA buses on Division, Larrabee, and Clybourn. CTA Red Line to Chicago/State is the nearest L stop, several blocks east. No convenient rail — the projects are designed to be close to everything and connected to nothing.
 
 ## Deep Background: Why This Place Exists
@@ -60,4 +60,4 @@ The site itself — the Near North Side — was a slum before Cabrini-Green. The
 
 By 1990, the answer is demolition. Speculators are buying land on every side of the complex. River North is booming. The Gold Coast presses from the east. [Richard](/npcs/richard-fulcher/) M. Daley, three years into his first term, is already calculating the math. The towers will come down. The question is when, and what happens to the 15,000 people inside.
 
-In the World of Darkness, the question has a sharper edge. Kevin Jackson controls Cabrini-Green. If the towers come down, his domain — the most heavily fortified Kindred territory in Chicago — goes with them. In the V20-era Beckett's Jyhad Diary, Jackson has become Prince of Chicago and still operates from the last remaining Cabrini tower. He held the ground while the city demolished everything around him. A shadowy financial faction owns the property and charges him rent.
+In the World of Darkness, the question has a sharper edge. [Kevin Jackson](/npcs/kevin-jackson/) controls Cabrini-Green. If the towers come down, his domain — the most heavily fortified Kindred territory in Chicago — goes with them. In the V20-era Beckett's Jyhad Diary, Jackson has become Prince of Chicago and still operates from the last remaining Cabrini tower. He held the ground while the city demolished everything around him. A shadowy financial faction owns the property and charges him rent.

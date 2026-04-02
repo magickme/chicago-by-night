@@ -24,7 +24,7 @@ description: "A rumor about her sire. A prince who wants a pet. A dance studio t
 
 "Word is his wife caught him in something. Took it to the Primogen. He's been called to answer."
 
-The word *wife* landed first. Then *Primogen*. Then the distance between what Victor was saying and what he meant, which was this: [Michael](/npcs/michael/) [Payne](/npcs/sharon-payne/), the man who made her, the man who put the curse in her blood and left her in Gary like a painting hung in a room nobody visits, had been dragged before the ruling council of Chicago by the woman he'd left.
+The word *wife* landed first. Then *Primogen*. Then the distance between what [Victor](/npcs/victor-salonika/) was saying and what he meant, which was this: [Michael](/npcs/michael/) [Payne](/npcs/sharon-payne/), the man who made her, the man who put the curse in her blood and left her in Gary like a painting hung in a room nobody visits, had been dragged before the ruling council of Chicago by the woman he'd left.
 
 "When," [Sable](/sable-price/) said.
 
@@ -56,7 +56,7 @@ White columns in the dark. The lawn surrendering to January. A ghoul answered th
 
 "The Prince is not expecting visitors this evening."
 
-Sable pulled the fur coat tighter and dropped her shoulders and let her chin fall and looked up through the geometry she'd learned at The Oasis, the angles that said *help me, I'm lost, you're the only one who can.* She said, "Long night? You've been polishing something. I can smell the lemon oil on your hands. He keeps you busy." The half-smile. "Tell him his new ward is here. He'll want to know."
+[Sable](/sable-price/) pulled the fur coat tighter and dropped her shoulders and let her chin fall and looked up through the geometry she'd learned at The Oasis, the angles that said *help me, I'm lost, you're the only one who can.* She said, "Long night? You've been polishing something. I can smell the lemon oil on your hands. He keeps you busy." The half-smile. "Tell him his new ward is here. He'll want to know."
 
 The ghoul closed the door. Two minutes. Three. The lake wind cutting through the fur coat and the slip and the skin that didn't feel cold anymore but remembered what cold meant the way an amputee remembers a limb.
 
@@ -76,7 +76,7 @@ It landed behind her in a heap of fur and satin and she went to her knees and th
 
 "I just couldn't stay away, my Prince." She touched his hand. Cold on cold. "It's so thrilling to be part of something real. Something with beauty and tradition. Not like the streets. Not like the men who never leave me alone." She looked up at him. "A beautiful flower in a vase. That's all I want to be."
 
-Modius didn't move. He looked at her the way he looked at everything worth looking at: the collector's inventory, the appraiser's patience, the long slow cataloguing of a man who had been acquiring beautiful things for longer than Gary had been a city.
+[Modius](/npcs/modius/) didn't move. He looked at her the way he looked at everything worth looking at: the collector's inventory, the appraiser's patience, the long slow cataloguing of a man who had been acquiring beautiful things for longer than Gary had been a city.
 
 He put one finger under her chin.
 
@@ -114,7 +114,7 @@ On the back wall, near the office door, a framed photograph. Small, dusty, the g
 
 [Allicia](/npcs/allicia/).
 
-Sable stood in the middle of the floor and looked at the photograph and understood what Modius had done, whether he'd meant to do it or not. This was Allicia's room. Before the mansion. Before the piano. Before she became the thing on the mantel he'd stopped seeing. Allicia danced here, on this floor, in front of this mirror. Then she stopped, or was stopped, and Modius held the room the way he held everything, not because he needed it but because ownership was the only verb he conjugated, and now he'd handed it to the next one. The new acquisition. The upgrade.
+Sable stood in the middle of the floor and looked at the photograph and understood what Modius had done, whether he'd meant to do it or not. This was [Allicia](/npcs/allicia/)'s room. Before the mansion. Before the piano. Before she became the thing on the mantel he'd stopped seeing. Allicia danced here, on this floor, in front of this mirror. Then she stopped, or was stopped, and Modius held the room the way he held everything, not because he needed it but because ownership was the only verb he conjugated, and now he'd handed it to the next one. The new acquisition. The upgrade.
 
 Sable left the shoes on the barre. Left the photograph on the wall.
 

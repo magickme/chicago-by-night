@@ -29,4 +29,4 @@ ShowToc: false
 
 ## Who Controls It
 
-- Modius and whichever retainers he trusts enough to know it exists.
+- [Modius](/npcs/modius/) and whichever retainers he trusts enough to know it exists.

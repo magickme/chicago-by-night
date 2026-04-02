@@ -3,7 +3,7 @@ title: "The Trip"
 date: 1969-10-16T18:00:00
 lastmod: 2026-04-01
 tags: ["ashes-to-ashes", "flashback", "roarke", "vtm", "ashes-and-blood", "chicago", "london"]
-categories: ["Pawns in the Game"]
+categories: ["Chapter 2 — Pawns in the Game"]
 description: "A tail on Lake Shore Drive. A bomb that wasn't meant to work. Two mouthfuls of ancient blood at thirty thousand feet."
 ---
 
@@ -16,7 +16,7 @@ The next evening they loaded the Lincoln Continental and drove for O'Hare. [Dere
 
 He saw the tail fifteen minutes in. Dark sedan, two cars back, professional spacing. It had been there since Lake Shore Drive. When traffic compressed at the Circle interchange and every other car bunched together, the sedan held its gap. Wrong behavior. [Natasha](/npcs/natasha/) saw it too. [Derek](/npcs/derek-gallen/) saw it when they told him.
 
-[Roarke](/npcs/roarke/) knew the surface streets around Kostner and Fifth Avenue the way he knew the bones of his own hands. Sixty-one years of running errands through blocks that had been unpaved when he started. Derek took the exit fast, cut through an alley behind a meatpacking plant, came out on [Pulaski](/npcs/ray-pulaski/) heading north. The sedan tried to follow. Made one turn. Missed the second. Mirrors clean in two minutes.
+[Roarke](/npcs/roarke/) knew the surface streets around Kostner and Fifth Avenue the way he knew the bones of his own hands. Sixty-one years of running errands through blocks that had been unpaved when he started. [Derek](/npcs/derek-gallen/) took the exit fast, cut through an alley behind a meatpacking plant, came out on [Pulaski](/npcs/ray-pulaski/) heading north. The sedan tried to follow. Made one turn. Missed the second. Mirrors clean in two minutes.
 
 [Lodin](/npcs/lodin/)'s voice from behind the glass: problem? Handled.
 
@@ -24,11 +24,11 @@ At O'Hare, Derek found the bomb during pre-flight. Under the starboard wing, nea
 
 It wasn't hidden, she said. It was placed where any competent inspection would find it.
 
-Lodin interrogated the two airport workers with Dominate. Found nothing in their heads. Wiped them clean. His face said what it said: someone knew about the trip. Someone who wanted them to know they knew.
+[Lodin](/npcs/lodin/) interrogated the two airport workers with Dominate. Found nothing in their heads. Wiped them clean. His face said what it said: someone knew about the trip. Someone who wanted them to know they knew.
 
 They flew anyway. Over the Atlantic in a Learjet, engines droning, the dark water thirty thousand feet below. An hour in, Lodin stood in the cabin and laid out the briefing materials. A map of London. Hotel documents. Twenty-two thousand dollars in cash. An auction pamphlet he didn't explain. He tapped it once and said he would not be outbid.
 
-Then he took Roarke's wrist and opened a vein in his own. Two mouthfuls of blood that tasted like cold metal and then burned like a furnace door. The cabin sharpened -- Derek's heartbeat through the bulkhead, JP-4 in the fuel lines, every rivet vibrating independently. Dominate sat in Roarke's mind like a weapon he hadn't asked for.
+Then he took [Roarke](/npcs/roarke/)'s wrist and opened a vein in his own. Two mouthfuls of blood that tasted like cold metal and then burned like a furnace door. The cabin sharpened -- Derek's heartbeat through the bulkhead, JP-4 in the fuel lines, every rivet vibrating independently. Dominate sat in Roarke's mind like a weapon he hadn't asked for.
 
 In case there is trouble during the day, Lodin said.
 

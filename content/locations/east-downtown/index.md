@@ -31,7 +31,7 @@ Where the gang war happens. East Downtown is the feeding ground, the combat zone
 
 ## Who Controls It
 
-- Nobody. [Akawa](/npcs/akawa/) and Turk each claim sections, but the border is contested.
+- Nobody. [Akawa](/npcs/akawa/) and [Turk](/npcs/turk/) each claim sections, but the border is contested.
 - The Primogen Council has no official presence. Elder Kindred do not visit.
 - Mortal gang structures overlap with Kindred territory. The violence is layered.
 - [Scott](/npcs/sir-edward-scott/) and Badr maintain havens on the east side but do not involve themselves in the gang war.

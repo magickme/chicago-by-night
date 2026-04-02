@@ -29,4 +29,4 @@ Molly 8's haven is covered from floor to ceiling with long, treated strips of hu
 
 **Image:** Due to constant shedding, Molly 8 is porcelain-skinned, soft-featured and without any blemishes. Her pale visage is framed by the tresses of her deep-red hair, which contrast with her green eyes.
 
-**Secrets:** Molly 8 knows Marie-Ange is hiding someone in her lair, but has done nothing about it for the time being.
+**Secrets:** Molly 8 knows [Marie-Ange](/npcs/marie-ange-gagnon/) is hiding someone in her lair, but has done nothing about it for the time being.

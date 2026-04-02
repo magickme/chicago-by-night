@@ -81,8 +81,8 @@ Can calm Xaviar, the former Gangrel Justicar, with a single word. They have know
 
 In the V20 era, Inyanga pursued [the Heart](/locations/the-heart/) of Osiris — a Coptic jar whose power could awaken a torpid Methuselah at full strength. When asked about it, her eyes narrowed: *"I heard of such a thing long ago..."*
 
-Beckett tested his theory at Graceland Cemetery: *"You're not actually a Gangrel, are you, Mother Inyanga?"* She chuckled. The recording ends.
+Beckett tested his theory at [Graceland Cemetery](/locations/graceland-cemetery/): *"You're not actually a Gangrel, are you, Mother Inyanga?"* She chuckled. The recording ends.
 
-Controlled by [Menele](/npcs/menele/) through extended Domination. She does not know this. Her decisions, loyalties, and strategic instincts are shaped by a Methuselah she has never consciously met. The pipeline is Menele's circulatory system, and Inyanga is its heart.
+Controlled by [Menele](/npcs/menele/) through extended Domination. She does not know this. Her decisions, loyalties, and strategic instincts are shaped by a Methuselah she has never consciously met. The pipeline is [Menele](/npcs/menele/)'s circulatory system, and Inyanga is its heart.
 
 The poly-Gehenna theory she shared with Beckett: *"Everything has its seasons and cycles. Death and birth. The world is always ending. There is always another Gehenna coming. The question is which ones can be endured, escaped, or reshaped."*

@@ -16,7 +16,7 @@ The containers were already there. That was the first wrong thing. The clipboard
 
 The second wrong thing was the man behind the pallets.
 
-Darius almost missed him. He was good — crouched low, leather jacket, no badge, no flashlight, just a shape in the shadow of stacked wood that didn't belong to the geometry of the dock. But Darius had spent eleven nights building a map of this place in his head, and the shape was new, and the shape was breathing, and breathing meant alive, and alive at Dock 7 at midnight on a Sunday meant trouble.
+[Darius](/darius-cole/) almost missed him. He was good — crouched low, leather jacket, no badge, no flashlight, just a shape in the shadow of stacked wood that didn't belong to the geometry of the dock. But Darius had spent eleven nights building a map of this place in his head, and the shape was new, and the shape was breathing, and breathing meant alive, and alive at Dock 7 at midnight on a Sunday meant trouble.
 
 [Detective](/npcs/detective-wilks/) [Gregory Stephens](/npcs/gregory-stephens/). [Evelyn](/npcs/evelyn-stephens/)'s brother. Chicago PD, no jurisdiction in Gary, no business at the docks, and yet here he was, watching the same containers Darius had come to watch. The man who knew about Kindred. The man who'd followed his sister's trail into the dark and kept going.
 
@@ -38,7 +38,7 @@ The stack of pallets was invisible in the shadow. He caught it with his shin. Th
 
 The detective saw a Black man in a dark coat. Calm face. No weapon visible. Not running, not hiding, just standing there like he had a reason to be in this particular shadow at this particular moment.
 
-Darius could have used a word. One word and Gregory would have done anything — slept, frozen, walked into the lake. The power was right there, sitting behind his teeth, waiting.
+Darius could have used a word. One word and [Gregory](/npcs/gregory-stephens/) would have done anything — slept, frozen, walked into the lake. The power was right there, sitting behind his teeth, waiting.
 
 He didn't use it.
 

@@ -31,7 +31,7 @@ ShowToc: false
 
 ## Geographic Placement
 
-- **Address:** 50 East Congress Parkway (formerly East Congress Parkway, later renamed East Ida B. Wells Drive). Part of the Auditorium Building, designed by Adler & Sullivan, opened 1889. The building underwent considerable renovation but retains its original bones.
+- **Address:** 50 East Congress Parkway (formerly East Congress Parkway, later renamed East Ida B. Wells Drive). Part of the Auditorium Building, designed by Adler & [Sullivan](/npcs/sullivan-dane/), opened 1889. The building underwent considerable renovation but retains its original bones.
 - **Neighborhood:** Loop / South Michigan Avenue, at the southern edge of the Loop commercial district. The building faces Congress Parkway and Michigan Avenue.
 - **Proximity:** Three blocks south of [the Art Institute](/locations/art-institute/) (111 S Michigan) along Michigan Avenue. Six blocks south of [Lodin](/npcs/lodin/)'s Prudential Building. Grant Park and the lakefront are one block east. The [Sears Tower](/locations/sears-tower/) is roughly half a mile west on Congress to Wacker.
 - **Transit:** CTA Red/Blue Line to Harrison or [Jackson](/npcs/kevin-jackson/). The Loop elevated tracks are two blocks north. Congress Parkway provides direct east-west vehicle access. The alley behind the building serves as loading dock and discreet Kindred entrance.

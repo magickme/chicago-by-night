@@ -40,11 +40,11 @@ The vial was empty. The body in the tub hadn't moved.
 
 The West Side at dusk. Check-cashing places with lines out the door. Storefront churches dark between the liquor stores. January in these neighborhoods meant heating bills people couldn't cover, second mortgages on houses worth less than the paper.
 
-[Darius](/darius-cole/) pulled the Cutlass over on Pulaski. A man in a grease-spotted parka was working a hot dog cart near a bar called The Shamrock. Everything about him read like desperation. Darius waited for the crowd to thin. Made his approach. The man's anger tasted like copper pennies and grease smoke.
+[Darius](/darius-cole/) pulled the Cutlass over on [Pulaski](/npcs/ray-pulaski/). A man in a grease-spotted parka was working a hot dog cart near a bar called The Shamrock. Everything about him read like desperation. [Darius](/darius-cole/) waited for the crowd to thin. Made his approach. The man's anger tasted like copper pennies and grease smoke.
 
 The blood came back up against the alley wall.
 
-Not a negotiation. Not a gradual rejection. The restriction had spoken: this man paid his bills. He owned that cart free and clear. Ninety seconds of cleanup. Eye contact. Forgetful Mind. The man blinked, touched his neck, wandered back to his cart. Sable was idling the Buick at the corner. She didn't flash her lights.
+Not a negotiation. Not a gradual rejection. The restriction had spoken: this man paid his bills. He owned that cart free and clear. Ninety seconds of cleanup. Eye contact. Forgetful Mind. The man blinked, touched his neck, wandered back to his cart. [Sable](/sable-price/) was idling the Buick at the corner. She didn't flash her lights.
 
 The Buick died on a mud track a quarter mile from the tree line. Rear-wheel drive on frozen clay. She flashed her lights twice. They transferred what mattered into the Cutlass and left the Buick at the fence.
 
@@ -60,7 +60,7 @@ The ram came second. Sable heard it — Heightened Senses, the hearing tuned to 
 
 Then the cultists. Fifteen of them, robes streaming, torches bouncing, chasing the ram east. They passed without slowing. The woods went quiet.
 
-They circled the amphitheater rim. Natural bowl — thirty yards across, earthen walls sloping down ten feet to a flat floor. Bonfire at center. Three dozen robed figures. A man at the center, six-five, wild hair past his shoulders, arms sweeping when he spoke. Twenty-two years since London and the groomed retainer in Lodin's penthouse was gone. What was left moved with the restless energy of a man running on blood that was burning him from the inside.
+They circled the amphitheater rim. Natural bowl — thirty yards across, earthen walls sloping down ten feet to a flat floor. Bonfire at center. Three dozen robed figures. A man at the center, six-five, wild hair past his shoulders, arms sweeping when he spoke. Twenty-two years since London and the groomed retainer in [Lodin](/npcs/lodin/)'s penthouse was gone. What was left moved with the restless energy of a man running on blood that was burning him from the inside.
 
 The tunnel mouth was at the back of the bowl. Dark. Unguarded.
 
@@ -86,7 +86,7 @@ Blue flame. Then orange. The heat pushed up the tunnel like a train. Behind the 
 
 ---
 
-They came out of the tunnel at a run. The amphitheater was mid-feast — faces smeared with blood, the bonfire throwing lurching shadows. Roarke was twenty yards away, arms raised, face tilted toward the sky.
+They came out of the tunnel at a run. The amphitheater was mid-feast — faces smeared with blood, the bonfire throwing lurching shadows. [Roarke](/npcs/roarke/) was twenty yards away, arms raised, face tilted toward the sky.
 
 Sable covered the distance in three seconds. Shotgun barrel to the back of Roarke's skull.
 
@@ -154,7 +154,7 @@ The drive back. I-90. Sodium lights and long-haul trucks. Lodin sat in the passe
 
 "And [Ballard](/npcs/ballard/). Who is acting as regent."
 
-Darius talked for twenty minutes. The whole ledger. The [Succubus Club](/locations/succubus-club/). The false Prince. Ballard's dinner and his threats. The haven search and the twin pendants. Standdown's warehouse and the body that wasn't Lodin. The vial. The frenzy. All of it.
+Darius talked for twenty minutes. The whole ledger. The [Succubus Club](/locations/succubus-club/). The false Prince. [Ballard](/npcs/ballard/)'s dinner and his threats. The haven search and the twin pendants. [Standdown](/npcs/michael-standdown/)'s warehouse and the body that wasn't Lodin. The vial. The frenzy. All of it.
 
 Lodin listened without interrupting until the body.
 

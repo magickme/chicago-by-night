@@ -27,4 +27,4 @@ Teaching at the University of Chicago under rotating mortal identities. Runs a "
 
 His renewed pedagogical drive — the School, the Path, the vision of an enlightened Brujah clan — originates from [Menele](/npcs/menele/)'s psychic communion. Critias does not know his sire is torpid beneath Chicago, subtly reshaping his priorities through the Bond. Every conviction Critias holds about the Brujah's future may be a sleeping Methuselah's dream wearing the mask of philosophy.
 
-**Lineage:** Critias > Menele > Troile (Antediluvian).
+**Lineage:** Critias > [Menele](/npcs/menele/) > Troile (Antediluvian).

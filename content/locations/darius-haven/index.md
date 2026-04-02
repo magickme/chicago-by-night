@@ -30,5 +30,5 @@ ShowToc: false
 
 ## Who Controls It
 
-- Darius for now.
+- [Darius](/darius-cole/) for now.
 - Mortals like [Marlene](/npcs/marlene-voss/) and local debtors define whether it feels invisible or talked about.

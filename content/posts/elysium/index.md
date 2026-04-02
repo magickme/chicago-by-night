@@ -58,7 +58,7 @@ He named the domains. He noted the absent. He mentioned Chicago the way a man me
 
 And then [Allicia](/npcs/allicia/) stood up.
 
-The whole room stopped. Not dramatically — the way a room stops when the barometric pressure changes. Everyone felt it. The silent woman at the piano, the one who hadn't spoken in fifty years, the one who sat and watched and existed as furniture in [Modius](/npcs/modius/)'s decaying gallery — she stood. She looked at Modius. She looked at Sable. Her eyes moved between them with the precision of a needle finding a vein.
+The whole room stopped. Not dramatically — the way a room stops when the barometric pressure changes. Everyone felt it. The silent woman at the piano, the one who hadn't spoken in fifty years, the one who sat and watched and existed as furniture in [Modius](/npcs/modius/)'s decaying gallery — she stood. She looked at [Modius](/npcs/modius/). She looked at Sable. Her eyes moved between them with the precision of a needle finding a vein.
 
 The expression on her face was not anger. Anger requires a belief that things should be different. The expression on [Allicia](/npcs/allicia/)'s face was the thing that comes after anger, when you've been sitting at a piano for half a century watching beautiful women walk through the door and walk out with the one person who owns you, and you've stopped being angry about it and started being something worse, which is awake.
 
@@ -68,7 +68,7 @@ Sable watched her and thought: *That's what I look like from the outside. That's
 
 ---
 
-Nobody spoke to her after. The court emptied out around her the way a bar empties at closing time — gradually, without farewell, each departure a small act of self-preservation. Modius retreated to his art studio. Allicia stayed at the piano. The Nosferatu with the gray eyes had been gone for an hour and Sable didn't know when he'd left because that was presumably the point.
+Nobody spoke to her after. The court emptied out around her the way a bar empties at closing time — gradually, without farewell, each departure a small act of self-preservation. Modius retreated to his art studio. [Allicia](/npcs/allicia/) stayed at the piano. The Nosferatu with the gray eyes had been gone for an hour and Sable didn't know when he'd left because that was presumably the point.
 
 She stood alone in the ballroom. The candles were guttering in their tarnished holders. One of the flower arrangements had shed petals onto the floor and nobody had picked them up. The string quartet's music stands were empty. The room smelled like old wax and dead flowers and the particular must of a building that had been beautiful once and was now just large.
 
@@ -82,6 +82,6 @@ Modius had called her *Miss Price* and claimed her in front of the court and giv
 
 She'd walked into a room full of immortals and made every one of them believe exactly what she wanted them to believe.
 
-The reward was a basement and the sound of a boiler and the knowledge that the performance worked, which meant the performance would have to continue, which meant there would never be a night when she walked into a room and someone saw [Sable Price](/sable-price/) instead of what Sable Price was showing them.
+The reward was a basement and the sound of a boiler and the knowledge that the performance worked, which meant the performance would have to continue, which meant there would never be a night when she walked into a room and someone saw [Sable Price](/sable-price/) instead of what [Sable Price](/sable-price/) was showing them.
 
 She lay down on the fur coat. She did not sleep for a long time. When she did, she dreamed about her mother's hands — the swelling, the splits, the chemical burns that never healed — and woke up before dawn with her own hands pressed against the cold stone wall, reaching for something that wasn't there and had never been there and would never be there again.

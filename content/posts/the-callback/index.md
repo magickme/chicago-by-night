@@ -22,11 +22,11 @@ Saturday night, [The Torch](/locations/the-torch/) half-full, Otis Redding bleed
 
 "And you know a Warren Birch?"
 
-The question landed in the bar noise like a coin in a jukebox. Victor paused the exact right length — not evasion, just a man searching a memory that held nothing.
+The question landed in the bar noise like a coin in a jukebox. [Victor](/npcs/victor-salonika/) paused the exact right length — not evasion, just a man searching a memory that held nothing.
 
 "No."
 
-Shepard wrote in his notebook. Left a card. Scanned the room the way cops scan rooms, looking for the flinch instead of the face, and his eyes passed over Darius the way they'd passed over him at Rosie's two nights earlier. The same blazer. The same invisibility. The door opened and the federal government walked out into the Gary night and Victor picked up a glass and started polishing it.
+[Shepard](/npcs/william-shepard/) wrote in his notebook. Left a card. Scanned the room the way cops scan rooms, looking for the flinch instead of the face, and his eyes passed over [Darius](/darius-cole/) the way they'd passed over him at Rosie's two nights earlier. The same blazer. The same invisibility. The door opened and the federal government walked out into the Gary night and Victor picked up a glass and started polishing it.
 
 "You're here about that."
 
@@ -48,7 +48,7 @@ Thirty seconds. Click. The sound changed — deeper, closer, the acoustic signat
 
 "Warren." No accent. They were alone. "You were supposed to call Tuesday."
 
-Darius gave him the pipeline first because that was the sire's language and you spoke the sire's language or you didn't get heard. Berth 7 confirmed. Dock foreman on the inside. The Torch secured as front infrastructure, mortgage filing Monday, cash flow starting within the week. Seventeen days to deadline.
+Darius gave him the pipeline first because that was the sire's language and you spoke the sire's language or you didn't get heard. Berth 7 confirmed. Dock foreman on the inside. [The Torch](/locations/the-torch/) secured as front infrastructure, mortgage filing Monday, cash flow starting within the week. Seventeen days to deadline.
 
 "You hold the mortgage."
 

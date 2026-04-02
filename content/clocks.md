@@ -5,7 +5,7 @@ layout: "page"
 slug: "clocks"
 ---
 
-*Chicago pressure board. Updated: **1991-01-05 (Saturday, sleeping)**. Session state is authoritative for all clock levels.*
+*Chicago pressure board. Updated: **1991-01-07 (Monday, sleeping)**. Session state is authoritative for all clock levels.*
 
 
 

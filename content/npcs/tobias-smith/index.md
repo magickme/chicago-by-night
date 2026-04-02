@@ -21,7 +21,7 @@ Tobias Smith was Embraced in Malta in the late 1880s and has been with the Sabba
 
 He watched her from afar for a month, and fell in love with the Mexican's intensity. Giving in to his desire, he kidnapped Carolina and forced her through the Creation Rites only to be fraught with guilt. He left the cemetery before she rose, leaving her to be discovered by other Sabbat. From that day forward, Smith looked after [Valez](/npcs/carolina-valez/) and used his influence to pave her road to success.
 
-Though they do not see eye to eye on many subjects, Smith and Valez respect and understand each other. Their combination as moderate and ultraconservative provides the Lost Angels with its greatest strength.
+Though they do not see eye to eye on many subjects, Smith and [Valez](/npcs/carolina-valez/) respect and understand each other. Their combination as moderate and ultraconservative provides the Lost Angels with its greatest strength.
 
 **Image:** Tobias Smith is austere. His square jaw and narrow eyes seem to be set in stone. His gray hair suggests age and wisdom. Smith dresses in gray or black conservative suits and always wears a cloak, even in summer. He uses Obtenebration to make himself more imposing.
 

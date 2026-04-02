@@ -16,7 +16,7 @@ The stevedore's blood tasted like January. Cold bourbon and brake fluid and the 
 
 He left the man propped against the bar stool and walked into the cold. Michigan Avenue at ten o'clock, Gary in winter, the mills dark against a sky the color of ash. The Cutlass was parked around the corner. He sat behind the wheel and didn't start the engine and thought about [Gregory Stephens](/npcs/gregory-stephens/).
 
-A detective. [Evelyn](/npcs/evelyn-stephens/)'s brother. A man with a notebook and a set of questions about the docks and a memory that included [Darius Cole](/darius-cole/)'s face at Dock 7 on the night the Soviet crates came in. Three days Darius had let that sit. Three days of lying on his bed in the west-side apartment staring at the water stain on the ceiling and running the math on how long it took for a cop's private investigation to become a cop's official report.
+A detective. [Evelyn](/npcs/evelyn-stephens/)'s brother. A man with a notebook and a set of questions about the docks and a memory that included [Darius Cole](/darius-cole/)'s face at Dock 7 on the night the Soviet crates came in. Three days [Darius](/darius-cole/) had let that sit. Three days of lying on his bed in the west-side apartment staring at the water stain on the ceiling and running the math on how long it took for a cop's private investigation to become a cop's official report.
 
 The stevedore had given him the answer without knowing what he was giving. [Gregory Stephens](/npcs/gregory-stephens/) went to a bar called the Horseshoe most nights after shift. Alone. Back booth. Notebook. Running his own investigation into the docks because his sister vanished and nobody in the department cared enough to look, so he was looking himself.
 
@@ -46,7 +46,7 @@ Eight feet. Darius caught his eyes.
 
 "Stop."
 
-The word left his mouth and traveled the distance between them and landed in Gregory Stephens's skull like a key turning in a lock. The Dominate was not a suggestion. It was the voice of the blood speaking in a register that mortal neurology could not refuse, the frequency that went below thought and below will and into the machinery of obedience that lived in every human body, waiting for something old enough and cold enough to activate it.
+The word left his mouth and traveled the distance between them and landed in [Gregory Stephens](/npcs/gregory-stephens/)'s skull like a key turning in a lock. The Dominate was not a suggestion. It was the voice of the blood speaking in a register that mortal neurology could not refuse, the frequency that went below thought and below will and into the machinery of obedience that lived in every human body, waiting for something old enough and cold enough to activate it.
 
 Gregory's hand froze. The cigarette dropped. His pupils swallowed his irises and his face went slack and he stood there in the parking lot of the Horseshoe at twenty minutes past midnight with his mouth open and his mind empty and his body waiting for instructions.
 
@@ -90,7 +90,7 @@ Darius walked the last twenty feet and held out the bag. Not dropping it, not se
 
 "Yeah I did."
 
-Michael put the brush back in the bag. Set the bag beside him on the headstone. His fingers rested on it the way you'd rest your hand on a letter from someone who mattered.
+[Michael](/npcs/michael/) put the brush back in the bag. Set the bag beside him on the headstone. His fingers rested on it the way you'd rest your hand on a letter from someone who mattered.
 
 "Okay, Birch."
 

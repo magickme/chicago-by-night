@@ -933,7 +933,7 @@ Use one headline at scene open to add mortal friction unrelated to the Jyhad. Th
 |21-22|Lodin's return (2x)|NEW. Prince back in play. Major boon owed. Callback before dawn. Political reshuffling. Blood bond demand likely. Menele's body in his cedar closet.|
 |23|Belthazar vendetta|NEW. Staked by Damien on Wacker Drive (S030). Neon guarding. When unstaked → hunt.|
 |24|The torpored body|TRANSFERRED. Menele's body delivered to Lodin at Drake Hotel (D031). Cedar closet, 8th floor. Lodin recognized the pendant. "A key." Coterie no longer in possession. Lodin ordered: do not discuss, do not open trunk for anyone.|
-|25|Damien and Neon|NEW. Anarch allies (strained — Sable warned Belthazar). Rescued coterie. Debt owed.||
+|25|Damien and Neon|NEW. Anarch allies (strained — Sable warned Belthazar). Rescued coterie. Debt owed.|
 
 ### Sable Threads
 
@@ -1018,4 +1018,4 @@ Use one headline at scene open to add mortal friction unrelated to the Jyhad. Th
 |7|Denise is thirty miles south. I could drive there in an hour.|
 |8|The smile is load-bearing. If it cracks in front of these people, they'll eat me alive.|
 |9|Annabelle walked into a room and the room rearranged itself around her. That's what I do. She's been doing it for three hundred years.|
-|10|(something new)|
+|10|I fed three times because I could and tried to be human with a woman I threw out at dawn. The distance between those two things is where I live now.|

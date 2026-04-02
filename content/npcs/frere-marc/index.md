@@ -25,4 +25,4 @@ Frere Marc served as leader of the Shepherds from 1951 to the trial of [Sangris]
 
 **Image:** Rugged and worn, Marc bears the scars of the road he has traveled. He stands 5'7" tall, keeps his hair long, and wears simple travel attire.
 
-**Secrets:** Frere Marc probably understands the most about Mount Royal. He knows that the demon trapped in the mountain is a fiend of disease and that it has access to feral creatures. He suspects that the monstrosity may not have been purged with the destruction of Sangris.
+**Secrets:** Frere Marc probably understands the most about [Mount Royal](/locations/mount-royal/). He knows that the demon trapped in the mountain is a fiend of disease and that it has access to feral creatures. He suspects that the monstrosity may not have been purged with the destruction of [Sangris](/npcs/sangris/).

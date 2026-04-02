@@ -21,11 +21,11 @@ ShowToc: false
 
 - The 107th floor is unlisted. Elevator access requires a bypass that [Lodin](/npcs/lodin/)'s people installed decades ago. The corridor beyond is narrow, windowless, and smells like recycled air and old blood.
 - The vault door is steel and concrete, designed to resist shaped charges. It has been torn from its frame like paper. The hinges are sheared. Metal filings glitter on the floor.
-- Inside: a coffin, a communications suite, weapons, files, and [Julian Curry](/npcs/julian-curry/)'s body. Whatever happened here was fast. Curry died trying to get to the phone.
+- Inside: a coffin, a communications suite, weapons, files, and [Julian Curry](/npcs/julian-curry/)'s body. Whatever happened here was fast. [Curry](/npcs/julian-curry/) died trying to get to the phone.
 
 ## Function in Play
 
-- Lodin's actual haven. 107th floor. The place nobody is supposed to find.
+- [Lodin](/npcs/lodin/)'s actual haven. 107th floor. The place nobody is supposed to find.
 - The Ashes to Ashes investigation leads here. The seven-ton vault door has been ripped open by something with Blood-fueled Potence. Whatever did this was stronger than the Prince.
 - [Julian Curry](/npcs/julian-curry/) is dead inside. The trail goes cold or gets much worse, depending on what [Darius](/darius-cole/) does with what he finds.
 

@@ -30,7 +30,7 @@ Around 1200 B.C., Helena was the most beautiful of Achaean women. Favorite daugh
 
 On the shore of the Aegean she met Prince [Prias](/npcs/prias/) — the most beautiful man she had ever seen. He convinced her to flee to his city in Asia Minor, where his family was one of the most noble houses in that part of the world. For ten years they lived happily.
 
-Then Minos tracked them down. Her horrible suspicions that he was not human proved correct. He tore through [Prias](/npcs/prias/)'s ancestral home like mice against an elephant, hurled Prias through a wall, and seized Helena.
+Then Minos tracked them down. Her horrible suspicions that he was not human proved correct. He tore through [Prias](/npcs/prias/)'s ancestral home like mice against an elephant, hurled [Prias](/npcs/prias/) through a wall, and seized Helena.
 
 ## The Embrace and the Amaranth
 
@@ -66,7 +66,7 @@ Helena and Prias reached Carthage just as the Brujah were raising it to its grea
 
 ## The Conquistadors
 
-For 1,300 years, Helena and [Menele](/npcs/menele/) fought across Eurasia. In 1415, near Agincourt, Helena and Prias dealt Menele a near-fatal blow. He escaped — faked his death and crossed the Atlantic.
+For 1,300 years, Helena and [Menele](/npcs/menele/) fought across Eurasia. In 1415, near Agincourt, Helena and Prias dealt [Menele](/npcs/menele/) a near-fatal blow. He escaped — faked his death and crossed the Atlantic.
 
 When Helena's Auspex detected Menele far across the sea, she moved the Spanish Empire to send explorers westward. She joined the expedition of Hernan Cortez, along with Prias and several female progeny she had made.
 
@@ -96,7 +96,7 @@ As Helena began to shrug off torpor, she telepathically contacted Prias. He foun
 
 Helena clawed her way through the earth, sucking what little vitae she could from worms and maggots. Met at the top by Maria — her own childe, 5th generation, the most powerful Toreador in Chicago for decades. Helena promptly slew her. First feeding upon waking. No hesitation.
 
-She collapsed back into torpor for another month. When she came to her senses, Prias stood next to her. She entered the Succubus Club for the first time.
+She collapsed back into torpor for another month. When she came to her senses, Prias stood next to her. She entered the [Succubus Club](/locations/succubus-club/) for the first time.
 
 The haven beneath the club is defended in depth: [Kevin Jackson](/npcs/kevin-jackson/)'s gang members near the entrance (automatics, memory-wiped), a secret door requiring Perception + Alertness of 9, a ghoul scorpion named **Hecabe** fed on 4th-gen blood since Pompeii (grown to the size of a house cat, poison causes aggravated wounds to Kindred), a six-inch steel vault door, a decoy vial of drugged blood, a pressure-plate scythe trap, electrified crawlspace, and the well itself.
 
@@ -108,13 +108,13 @@ No Kindred in Chicago knows Maria is dead. All Toreador are very interested in w
 
 ## The Network
 
-**Lodin** — puppet-Prince of Chicago. Does her bidding without realizing it.
+**[Lodin](/npcs/lodin/)** — puppet-Prince of Chicago. Does her bidding without realizing it.
 
 **Prias** — her ghoul-lover for three millennia. All attributes at 5. Melee 7. He possesses the Carthaginian silver sword. He operates independently, cultivating allies. He has killed a number of Chicago's Kindred on both sides of the Jyhad. He still has some of their blood in storage.
 
 **[Tyler](/npcs/tyler/) / Patricia** — born 1352, Embraced 1381 by Robin Leeland (7th gen Brujah). 6th generation after diablerizing a Ventrue Elder in Spain — the event that triggered the Anarch Revolt. Helena sensed her in Cartagena and "immediately recognized her potential as an assassin of Vampires." Thirty years of manipulation, then Blood Bond. Called to Chicago in the early 1900s. Receives orders through telepathy. Ordered to stay away from the Succubus Club so no one recognizes her. During the Council Wars, [Tyler](/npcs/tyler/) slew a 6th-generation descendant of [Critias](/npcs/critias/) who refused to end his support of [Maldavis](/npcs/maldavis/).
 
-**Tyler → [Juggler](/npcs/juggler/)** — Helena Blood-Bonded Tyler to [Juggler](/npcs/juggler/), making Juggler believe the Bond was his own idea. She developed Juggler's potential as an Anarch leader.
+**[Tyler](/npcs/tyler/) → [Juggler](/npcs/juggler/)** — Helena Blood-Bonded Tyler to [Juggler](/npcs/juggler/), making [Juggler](/npcs/juggler/) believe the Bond was his own idea. She developed Juggler's potential as an Anarch leader.
 
 **[Nicolai](/npcs/nicolai/)** — Tremere Regent. Thoroughly controlled by Helena. The only reason he has not stood for Clan Justicar.
 
@@ -134,4 +134,4 @@ No Kindred in Chicago knows Maria is dead. All Toreador are very interested in w
 
 **Nature:** Plotter. **Demeanor:** Bon Vivant.
 
-**Lineage:** Helena → Minos (3rd gen, destroyed via Amaranth) → unknown Toreador Antediluvian. Downward: Helena → Maria (5th, destroyed) → Annabelle (6th) → [Sharon](/npcs/sharon-payne/)/[Michael](/npcs/michael/) [Payne](/npcs/sharon-payne/) (8th/9th). Helena → Francois Villon (5th, Prince of Paris). Helena → Marie Galbraith (5th, Mexico).
+**Lineage:** Helena → Minos (3rd gen, destroyed via Amaranth) → unknown Toreador Antediluvian. Downward: Helena → Maria (5th, destroyed) → [Annabelle](/npcs/annabelle-triabell/) (6th) → [Sharon](/npcs/sharon-payne/)/[Michael](/npcs/michael/) [Payne](/npcs/sharon-payne/) (8th/9th). Helena → Francois Villon (5th, Prince of Paris). Helena → Marie Galbraith (5th, Mexico).

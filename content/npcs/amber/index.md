@@ -19,7 +19,7 @@ Age 22 in 1969. Born 1947. The archetypical hippie. Waist-length dirty blonde ha
 
 Met [Lodin](/npcs/lodin/) at the Woodstock Music Festival. His old-fashioned manner and clothing clashed with the tie-dyes and flowers, yet she was inexplicably drawn to him. She was most amazed by his display of physical prowess — catching Pete Townshend's guitar when the musician threw it into the crowd. She has been with him ever since.
 
-Personal attendant and hostess. Handles some of [Lodin](/npcs/lodin/)'s political affairs — she has an affinity with people and uses her apparent innocence to get them off guard. When [Lodin](/npcs/lodin/) needs someone softened up, he turns to Amber. She provides him with blood in emergencies. In return, Lodin supplies whatever she needs, though he has cut back on the drugs.
+Personal attendant and hostess. Handles some of [Lodin](/npcs/lodin/)'s political affairs — she has an affinity with people and uses her apparent innocence to get them off guard. When [Lodin](/npcs/lodin/) needs someone softened up, he turns to Amber. She provides him with blood in emergencies. In return, [Lodin](/npcs/lodin/) supplies whatever she needs, though he has cut back on the drugs.
 
 Best friends with [Derek](/npcs/derek-gallen/) — they slept together once, moved past it, and now conspire about the others. Fears [Natasha](/npcs/natasha/). Teases [Julian](/npcs/julian-curry/) because he flusters easily but rather likes him. Follows [Roarke](/npcs/roarke/) instinctively in a crisis — he is her pillar of strength.
 

@@ -22,7 +22,7 @@ He lifted the receiver and said nothing. Listened to the bar noise and the breat
 
 Ray told him about the man who knew his name. A man whose face wouldn't hold in memory, whose clothes were the color of forgetting, who asked about the warehouse and Eddie and the FBI and then walked into a corner of the docks that didn't exist. A man who said the word "audit" like it was a title.
 
-Darius sat with it. Built the architecture in his head. Obfuscate. Nosferatu. The memory fog was textbook Mask of a Thousand Faces bleeding through after the effect dropped. And who in Gary ran Obfuscate and traded in audits and had told Darius to come back Tuesday?
+[Darius](/darius-cole/) sat with it. Built the architecture in his head. Obfuscate. Nosferatu. The memory fog was textbook Mask of a Thousand Faces bleeding through after the effect dropped. And who in Gary ran Obfuscate and traded in audits and had told Darius to come back Tuesday?
 
 [Danov](/npcs/alexander-danov/). Had to be. The Nosferatu was checking the merchandise before the deal closed. Running his people through the docks to verify that Darius's warehouse was real, that the pipeline existed, that the story held. Standard tradecraft for a man who filed secrets by instinct.
 
@@ -46,7 +46,7 @@ Darius racked the Remington. Let the sound carry. Backed out of the dead end one
 
 He called Ray from the union hall payphone. The message was short: the visitor wanted to meet directly. Tuesday. "Not his enemy."
 
-Tuesday. Same night as Danov's print shop. The coincidence sealed it.
+Tuesday. Same night as [Danov](/npcs/alexander-danov/)'s print shop. The coincidence sealed it.
 
 The warehouse was cased but not breached. Someone had wiped a palm-sized circle in the grime on the west window and repositioned a pallet below it as a step. Looked in, saw the layout, left. Professional. Eddie was untouched on night shift, his granite layers untested. Both confirmed what Darius wanted confirmed: Danov was verifying, not attacking.
 

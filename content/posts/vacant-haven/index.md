@@ -3,7 +3,7 @@ title: "Vacant Haven — Wednesday, 2 January 1991, 9:30 PM"
 date: 1991-01-02T21:30:00
 lastmod: 2026-03-30
 tags: ["ashes-to-ashes", "darius", "sable", "vtm", "ashes-and-blood", "chicago"]
-categories: ["Act II — Ashes to Ashes"]
+categories: ["Chapter 1 — Ashes to Ashes"]
 description: "A Toreador pulls off her gloves in a dead Prince's apartment and reads the walls. A Brujah Primogen who has outlived empires watches her do it. The vault door was torn like paper. Someone is on the other end of the pendant."
 ---
 
@@ -18,7 +18,7 @@ Rain on the windshield. Michigan Avenue in the dark, the buildings lit from insi
 
 The [Sears Tower](/locations/sears-tower/) filled the windshield three blocks before they reached it. A hundred and ten stories of black steel and glass disappearing into low cloud. The top floors were gone — swallowed — so the building looked like it went up forever, like it was a thing driven into the earth from above.
 
-The car turned onto Wacker. The ghoul pulled to the south entrance. [Belthazar](/npcs/belthazar/) opened his door before the car stopped and said "Move" without looking back, and Sable stepped into the rain and felt it on her face (cold, mineral, the particular taste of January rain in a city built on a swamp) and then she felt something else.
+The car turned onto Wacker. The ghoul pulled to the south entrance. [Belthazar](/npcs/belthazar/) opened his door before the car stopped and said "Move" without looking back, and [Sable](/sable-price/) stepped into the rain and felt it on her face (cold, mineral, the particular taste of January rain in a city built on a swamp) and then she felt something else.
 
 Pressure.
 
@@ -26,7 +26,7 @@ Not physical. Not wind, not sound. Something older than either. The predatory au
 
 He was standing under the awning.
 
-Not tall. Lean, compact, dark overcoat that looked like it cost nothing and fit like it cost everything. Face that could have been forty or four hundred — olive skin, close-cropped grey hair, jaw that had been broken at least once in a life where bones still broke. His eyes moved to Sable first (she noticed that — first, before [Darius](/darius-cole/), before Belthazar) and they were the eyes of something that had been reading people since before the language she spoke had been invented.
+Not tall. Lean, compact, dark overcoat that looked like it cost nothing and fit like it cost everything. Face that could have been forty or four hundred — olive skin, close-cropped grey hair, jaw that had been broken at least once in a life where bones still broke. His eyes moved to Sable first (she noticed that — first, before [Darius](/darius-cole/), before [Belthazar](/npcs/belthazar/)) and they were the eyes of something that had been reading people since before the language she spoke had been invented.
 
 Belthazar stopped walking. "Primogen."
 
@@ -36,9 +36,9 @@ Belthazar stopped walking. "Primogen."
 
 "Your authority extends to enforcement, not to the evaluation of evidence. I am Primogen. You are welcome to call [Ballard](/npcs/ballard/) and confirm."
 
-The rain fell between them. Sable could feel Darius beside her — the quality of his stillness when he was calculating — and she kept her face smooth and her thoughts quiet (or tried to, because something in the air near this man made her feel like her skull was made of glass, like everything inside it was visible, like the act of thinking was the same as speaking aloud).
+The rain fell between them. Sable could feel [Darius](/darius-cole/) beside her — the quality of his stillness when he was calculating — and she kept her face smooth and her thoughts quiet (or tried to, because something in the air near this man made her feel like her skull was made of glass, like everything inside it was visible, like the act of thinking was the same as speaking aloud).
 
-He looked at her. Measured. Not dismissive the way Ballard had been — this was something worse. Attention. The full, unhurried attention of an intelligence that had outlived empires.
+He looked at her. Measured. Not dismissive the way [Ballard](/npcs/ballard/) had been — this was something worse. Attention. The full, unhurried attention of an intelligence that had outlived empires.
 
 "You are the Toreador."
 
@@ -74,7 +74,7 @@ Beyond: a vault door. Seven tons of steel, reinforced, time-locked. Torn from it
 
 "Let me try psychometry," Sable said, taking off her evening gloves. "Darius. Unlock the girl."
 
-Critias's head turned. Slight motion. The interest of a man who just heard a word he didn't expect from the source he didn't expect it from. *Psychometry.* A neonate Toreador with Spirit's Touch.
+[Critias](/npcs/critias/)'s head turned. Slight motion. The interest of a man who just heard a word he didn't expect from the source he didn't expect it from. *Psychometry.* A neonate Toreador with Spirit's Touch.
 
 "Proceed," he said. To Sable, not to Belthazar. That distinction filled the room.
 
@@ -100,7 +100,7 @@ She reached for it and stopped. Not because she chose to. Because her hand told 
 
 ---
 
-Across the hall, Darius sat knee-to-knee with Natasha. His eyes held hers and she couldn't look away. He slid into her memories the way he'd learned to — carefully, like opening a filing cabinet in someone else's office. Her night was there: the security room, the monitors, the routine. And then a wall. Clean. Surgical. Someone had removed a section of her experience with a precision that made his Dominate feel like a child's toy. What he got was the scar tissue: her thoughts, looping. *I opened the door to enter a dark room and then I opened the door to enter a dark room.* The same phrase, repeated, the brain trying to bridge the gap by running the last complete thought on a loop.
+Across the hall, Darius sat knee-to-knee with [Natasha](/npcs/natasha/). His eyes held hers and she couldn't look away. He slid into her memories the way he'd learned to — carefully, like opening a filing cabinet in someone else's office. Her night was there: the security room, the monitors, the routine. And then a wall. Clean. Surgical. Someone had removed a section of her experience with a precision that made his Dominate feel like a child's toy. What he got was the scar tissue: her thoughts, looping. *I opened the door to enter a dark room and then I opened the door to enter a dark room.* The same phrase, repeated, the brain trying to bridge the gap by running the last complete thought on a loop.
 
 She knew whoever came in. She let them in willingly. Then she forgot everything.
 
@@ -126,7 +126,7 @@ On a shelf in the office: a leather-bound journal. Admiral Tourney — a British
 
 "Look at this. Who's [Roarke](/npcs/roarke/)?" Sable asked, offering the journal.
 
-Belthazar answered first. "One of Lodin's people. Sent to England on some errand, before my appointment. Never came back. The Prince wrote him off as dead."
+Belthazar answered first. "One of [Lodin](/npcs/lodin/)'s people. Sent to England on some errand, before my appointment. Never came back. The Prince wrote him off as dead."
 
 Critias took the journal. Read the inscription. Read it again.
 

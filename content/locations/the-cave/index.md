@@ -33,7 +33,7 @@ ShowToc: false
 
 - **Address:** State Street, Near North Side — two blocks north of the [Succubus Club](/locations/succubus-club/). Basement bar beneath street level, accessed by steps down from a dirty, unlit sign. Fifteen-foot hallway with antique door knockers before the main room.
 - **Neighborhood:** The Rack / Near North. Same State Street corridor as the [Succubus Club](/locations/succubus-club/) and the [Blue Velvet](/locations/blue-velvet/). The x-rated movie district on Dearborn and Clark is one block west.
-- **Proximity:** Two blocks north of the Succubus Club. Within walking distance of [Daley's Restaurant](/locations/daleys-restaurant/) (1000 block N State) and [the Brewery](/locations/the-brewery/) (N Clark). South of Division Street.
+- **Proximity:** Two blocks north of the [Succubus Club](/locations/succubus-club/). Within walking distance of [Daley's Restaurant](/locations/daleys-restaurant/) (1000 block N State) and [the Brewery](/locations/the-brewery/) (N Clark). South of Division Street.
 - **Transit:** CTA Red Line to Chicago/State. Street-level entrance is easy to miss on foot and impossible to find by accident from a car.
 
 ## Who Controls It

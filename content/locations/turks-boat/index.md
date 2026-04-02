@@ -26,7 +26,7 @@ ShowToc: false
 
 ## Function in Play
 
-Union HQ. Turk's haven. A large houseboat docked at the McKinley Veterans Park marina at 1750 N Lincoln Memorial Dr on Milwaukee's lakefront. The Union operates from here — meetings, supply storage, muscle on deck. If the coterie investigates the Union, the boat is where the evidence lives. If they attack the Union, the boat is the objective.
+Union HQ. [Turk](/npcs/turk/)'s haven. A large houseboat docked at the McKinley Veterans Park marina at 1750 N Lincoln Memorial Dr on Milwaukee's lakefront. The Union operates from here — meetings, supply storage, muscle on deck. If the coterie investigates the Union, the boat is where the evidence lives. If they attack the Union, the boat is the objective.
 
 ## Who Controls It
 

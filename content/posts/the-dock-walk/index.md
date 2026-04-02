@@ -28,7 +28,7 @@ Ray started talking and didn't stop. Eddie Fells. Night shift receiving supervis
 
 "Somebody started paying him to look the other way," Ray said. "I thought electronics. Car parts. Not this."
 
-Darius sent him home. Told him the building was empty, the night was routine, Eddie's name was never said. Ray went because Ray understood orders even when they came from a man who shouldn't need to give them. The truck started and the taillights disappeared down Cline and Darius was alone in a warehouse full of someone else's product with a list of things that had to happen before Tuesday.
+[Darius](/darius-cole/) sent him home. Told him the building was empty, the night was routine, Eddie's name was never said. Ray went because Ray understood orders even when they came from a man who shouldn't need to give them. The truck started and the taillights disappeared down Cline and Darius was alone in a warehouse full of someone else's product with a list of things that had to happen before Tuesday.
 
 Berth 7. The dock office. A prefab box at the foot of the loading bay with one light on and one man inside. Eddie Fells sat at a desk with a radio playing George Strait and a face that had been tired since Reagan's first term. Broken capillaries across the nose. Hands that knew paperwork the way his boots knew concrete.
 

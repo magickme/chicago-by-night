@@ -18,7 +18,7 @@ DeShawn was sitting on the workbench with his arms folded and his eyes bloodshot
 
 Six's blocks. The territory of a dead man, watched by a living one who didn't know the dead man was dead because the dead man's crew was standing in [Sable](/sable-price/)'s garage pretending everything was fine.
 
-Pete had the other report. Spoon had called Tanya's twice during the day looking for Pete, sounding hungry in a way that had nothing to do with food. The Step 1 bond calling home. She'd heard DeShawn describe the same feeling in different words during the first week, the pull in the sternum, the warmth that wouldn't locate itself, the sense that there was somewhere he was supposed to be and he couldn't stop thinking about it.
+Pete had the other report. [Spoon](/npcs/spoon-antoine/) had called Tanya's twice during the day looking for Pete, sounding hungry in a way that had nothing to do with food. The Step 1 bond calling home. She'd heard DeShawn describe the same feeling in different words during the first week, the pull in the sternum, the warmth that wouldn't locate itself, the sense that there was somewhere he was supposed to be and he couldn't stop thinking about it.
 
 She told Pete to bring him.
 
@@ -54,17 +54,17 @@ Don't go to the mansion. Three nights behind closed doors with a three-step bond
 
 "You do nothing that looks like something."
 
-The dangerous read, he said. The one she didn't want to hear. Modius deepening the bond. Fresh vitae from a prince. Her Step 1 competing with decades of three-step dependency. The math getting ugly in a way that Darius described in the same voice he used for pipeline logistics and feeding schedules, which was the Ventrue's gift and his curse, the ability to reduce everything to structure, even a woman she could still taste when she closed her eyes.
+The dangerous read, he said. The one she didn't want to hear. [Modius](/npcs/modius/) deepening the bond. Fresh vitae from a prince. Her Step 1 competing with decades of three-step dependency. The math getting ugly in a way that [Darius](/darius-cole/) described in the same voice he used for pipeline logistics and feeding schedules, which was the Ventrue's gift and his curse, the ability to reduce everything to structure, even a woman she could still taste when she closed her eyes.
 
 She called [The Torch](/locations/the-torch/). [Victor](/npcs/victor-salonika/) told her what she already knew and added the detail that made it worse: Modius had called twice that night asking about foot traffic. Who came in. Who asked questions. A prince taking attendance at a bar he owned through intermediaries, counting the names, looking for the one that didn't belong.
 
 She hung up. Leaned against the phone booth. The east side of Gary smelled like lake water and rust and the July heat doing something chemical to the asphalt that made it smell almost sweet.
 
-Ten minutes later the phone rang. A payphone ringing is a wrong sound, a sound that belongs to a different decade when people still waited by phones and phones still connected to people, and she picked it up because the only person who knew she'd been standing here was Victor.
+Ten minutes later the phone rang. A payphone ringing is a wrong sound, a sound that belongs to a different decade when people still waited by phones and phones still connected to people, and she picked it up because the only person who knew she'd been standing here was [Victor](/npcs/victor-salonika/).
 
 Modius wanted her. Tuesday, nine o'clock. The mansion. Her report on Torch conditions and a task requiring her particular talents.
 
-The summons she'd been told to wait for, arriving before she'd finished hanging up. Twelve hours from the conversation with Darius to the window into the mansion, and the window was there, and she would walk through it tomorrow night and stand in Modius's parlor and give him the spy report he wanted and look for Allicia in the hallways without looking like she was looking, and the difference between those two kinds of looking was the entire width of the game.
+The summons she'd been told to wait for, arriving before she'd finished hanging up. Twelve hours from the conversation with Darius to the window into the mansion, and the window was there, and she would walk through it tomorrow night and stand in Modius's parlor and give him the spy report he wanted and look for [Allicia](/npcs/allicia/) in the hallways without looking like she was looking, and the difference between those two kinds of looking was the entire width of the game.
 
 ---
 
@@ -82,7 +82,7 @@ Kendrick's at ten. She sent Pete to pull DeShawn off the porch at Sixteenth. Thi
 
 Spoon got his orders. Simple and specific, the way you talk to a man who is twenty-two and blood-bonded and Entranced and willing to stand in traffic if you asked him to: Sixteenth and Grant, the porch, the burgundy Oldsmobile, watch and remember and come back at dawn.
 
-He nodded and left. The screen door closed behind him and the night took him and he was gone, a young man in a hoodie walking south into the warm dark carrying devotion in his bloodstream and a task in his head and no understanding of what either of those things actually meant, and Sable watched the door for a moment longer than necessary because she was thinking about Pete selling the cover story and Spoon drinking from her wrist and the sound he made and the sound DeShawn had made and the sound Little Pete had made, and the sounds were all the same sound, and the machine she was building ran on that sound the way Darius's machine ran on debt, and she was twenty-one years old and she would be twenty-one years old forever and the machine would need feeding and the feeding would need blood and the blood would need to come from her and the wrist would open and close and open and close and somewhere underneath all of it was a girl from State Street who had wanted to be seen and was building an army instead.
+He nodded and left. The screen door closed behind him and the night took him and he was gone, a young man in a hoodie walking south into the warm dark carrying devotion in his bloodstream and a task in his head and no understanding of what either of those things actually meant, and [Sable](/sable-price/) watched the door for a moment longer than necessary because she was thinking about Pete selling the cover story and Spoon drinking from her wrist and the sound he made and the sound DeShawn had made and the sound Little Pete had made, and the sounds were all the same sound, and the machine she was building ran on that sound the way Darius's machine ran on debt, and she was twenty-one years old and she would be twenty-one years old forever and the machine would need feeding and the feeding would need blood and the blood would need to come from her and the wrist would open and close and open and close and somewhere underneath all of it was a girl from State Street who had wanted to be seen and was building an army instead.
 
 She checked the locks. Pete took the door. The lamp went off. Monday became Tuesday in the dark.
 

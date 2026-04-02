@@ -30,7 +30,7 @@ The back room was unlocked. She took the far booth, back to the wall, and waited
 
 [Allicia](/npcs/allicia/) came at midnight. She didn't knock.
 
-She stood in the doorway and the red light hit her from two directions and for one second Sable saw the woman in the photograph on the studio wall — the dancer, the one with the straight spine and the chin that said *I have been looked at by better than you.* Then the second passed and what stood in the doorway was something else: a woman who had practiced stillness for fifty years until the stillness had become indistinguishable from the woman, the way water takes the shape of whatever holds it.
+She stood in the doorway and the red light hit her from two directions and for one second [Sable](/sable-price/) saw the woman in the photograph on the studio wall — the dancer, the one with the straight spine and the chin that said *I have been looked at by better than you.* Then the second passed and what stood in the doorway was something else: a woman who had practiced stillness for fifty years until the stillness had become indistinguishable from the woman, the way water takes the shape of whatever holds it.
 
 Black dress. Thin gold chain. Hair pulled back. She crossed the room and sat across from Sable and the velvet booth creaked under the weight of someone who looked like she weighed nothing and carried everything.
 
@@ -44,7 +44,7 @@ Sable looked at her. [Allicia](/npcs/allicia/)'s face was a mask and the mask wa
 
 "What do you think he did?"
 
-A test. Not a question. Sable could feel the weight of it. Allicia had come to the South Side of Chicago to sit in the back room of a strip club and ask one question, and the answer would determine whether Sable was worth talking to or just another piece of furniture the prince had moved from one room to another.
+A test. Not a question. Sable could feel the weight of it. [Allicia](/npcs/allicia/) had come to the South Side of Chicago to sit in the back room of a strip club and ask one question, and the answer would determine whether Sable was worth talking to or just another piece of furniture the prince had moved from one room to another.
 
 "He collected you. You were the most beautiful thing in Gary and he put you on a shelf. Then you stopped being new, and the shelf became a room, and the room became the mansion, and now you live inside the thing he built around you. And he gave your studio to the next one because keeping it empty would mean admitting he broke something."
 
@@ -96,7 +96,7 @@ She gave him the version she'd built on the drive south. Allicia was territorial
 
 The probing. She could feel him pressing against the gaps in the report, testing the seams the way he'd tested her performance in the drawing room five days ago. The vanity had worked then. It nearly didn't work now. She spent the last of something she couldn't name and said: "She said the shoes are mine now. That she doesn't dance anymore."
 
-[Modius](/npcs/modius/) was quiet. His hand lifted off the keys. Something crossed his face that was too fast and too old to read — not guilt, Modius didn't do guilt, but something adjacent to it, some cousin of recognition, the brief involuntary acknowledgment of a man who realizes he has broken something he didn't know was still breakable.
+[Modius](/npcs/modius/) was quiet. His hand lifted off the keys. Something crossed his face that was too fast and too old to read — not guilt, [Modius](/npcs/modius/) didn't do guilt, but something adjacent to it, some cousin of recognition, the brief involuntary acknowledgment of a man who realizes he has broken something he didn't know was still breakable.
 
 "Good. Keep the shoes."
 

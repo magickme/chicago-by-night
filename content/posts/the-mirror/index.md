@@ -26,7 +26,7 @@ He came over. "Mind if I sit?"
 
 She hesitated. Let him see the hesitation. Let him believe he was watching her decide, when the decision had been made before she walked through the door. She nodded toward the empty stool and he sat down with the relief of a man who'd been chosen, which was the furthest thing from what had happened.
 
-His name was Danny. Milwaukee originally, moved here for the mills fourteen years ago. Roofing now. Ex-wife got the house. He talked and Sable listened and the listening was the oldest tool in the kit, older than the face, older than the body, older than any of it. You listen to a man the way no one has listened to him in months and he will follow you anywhere. Kiki taught her that at fifteen. The Embrace hadn't improved on the lesson, only on the duration of its usefulness.
+His name was Danny. Milwaukee originally, moved here for the mills fourteen years ago. Roofing now. Ex-wife got the house. He talked and [Sable](/sable-price/) listened and the listening was the oldest tool in the kit, older than the face, older than the body, older than any of it. You listen to a man the way no one has listened to him in months and he will follow you anywhere. Kiki taught her that at fifteen. The Embrace hadn't improved on the lesson, only on the duration of its usefulness.
 
 "You're not from Gary originally, are you?" she said. "You don't have that dead-city look yet."
 
@@ -42,7 +42,7 @@ He nodded slowly. His hand was on the bar. She didn't touch it.
 
 ---
 
-The alley behind The Torch. Brick wall, grease smell, a single yellow bulb painting everything the color of old newspaper. Danny's back against the wall, his breathing fast and shallow, his pulse visible in the vein on his neck. He thought this was going somewhere sexual. She let him think it. His hands were at his sides and his eyes were half-closed and when she put her mouth on his throat he made a sound that wasn't pain and wasn't pleasure, just surrender, the exhale of a man letting go of something he'd been holding too tight for too long.
+The alley behind [The Torch](/locations/the-torch/). Brick wall, grease smell, a single yellow bulb painting everything the color of old newspaper. Danny's back against the wall, his breathing fast and shallow, his pulse visible in the vein on his neck. He thought this was going somewhere sexual. She let him think it. His hands were at his sides and his eyes were half-closed and when she put her mouth on his throat he made a sound that wasn't pain and wasn't pleasure, just surrender, the exhale of a man letting go of something he'd been holding too tight for too long.
 
 Seven points. She took all of it, everything the night would give her, and felt the hunger die the way a fire dies when you pour water on it, all at once, the relief so total it was almost grief. Her vision sharpened. The cold retreated. For the first time in four days she felt like she was living inside her own skin instead of haunting it.
 
@@ -70,7 +70,7 @@ Four days of silence. Then this. Not hostile, not warm. Probing. The handwriting
 
 The Oasis. Sable's club. Her old life. The place where Big Six used to sit in the front row with his hands on his knees and watch her dance with the flat attention of a man selecting livestock.
 
-[Allicia](/npcs/allicia/) couldn't know that. Nobody in Gary knew where [Sable Price](/sable-price/) came from or what she'd been before the Embrace turned her into something with a clan name and a patron. Allicia had picked a South Side club the way you'd pick any neutral ground. Coincidence. The universe arranging its furniture without consulting anyone who had to sit in it.
+[Allicia](/npcs/allicia/) couldn't know that. Nobody in Gary knew where [Sable Price](/sable-price/) came from or what she'd been before the Embrace turned her into something with a clan name and a patron. [Allicia](/npcs/allicia/) had picked a South Side club the way you'd pick any neutral ground. Coincidence. The universe arranging its furniture without consulting anyone who had to sit in it.
 
 ---
 
@@ -120,7 +120,7 @@ Sable sat in the Buick with the heater pushing air against legs that couldn't fe
 
 She was faster now. Stronger. She had teeth that could open his throat and a discipline that could make him worship her until she told him to stop. But her hands were shaking on the steering wheel, and the shaking had nothing to do with what she was and everything to do with what she had been, and the distance between those two things was not as wide as she wanted it to be.
 
-Tomorrow night she had to walk into that building and sit in the back room with Allicia and have a conversation about Modius while Big Six sat somewhere on the other side of the wall, watching the new girls with the same flat patience he'd watched her, and he wouldn't know she was there, and she wouldn't be able to stop knowing he was.
+Tomorrow night she had to walk into that building and sit in the back room with Allicia and have a conversation about [Modius](/npcs/modius/) while Big Six sat somewhere on the other side of the wall, watching the new girls with the same flat patience he'd watched her, and he wouldn't know she was there, and she wouldn't be able to stop knowing he was.
 
 She pulled away from the curb without headlights. Two blocks before she turned them on. Old habit. The highway was empty. The lake was black.
 

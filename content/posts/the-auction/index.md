@@ -3,7 +3,7 @@ title: "The Auction"
 date: 1969-10-18T11:00:00
 lastmod: 2026-04-01
 tags: ["ashes-to-ashes", "flashback", "roarke", "vtm", "ashes-and-blood", "london"]
-categories: ["Pawns in the Game"]
+categories: ["Chapter 2 — Pawns in the Game"]
 description: "A narrow shop off Piccadilly. Lot 47. A man in a lavender tie who tripled every bid and smiled like a letter addressed personally."
 ---
 
@@ -22,7 +22,7 @@ He cased the room. Fourteen people. Twelve were what they looked like. Two weren
 
 American suit. American shoes. American tan. The professional stillness of someone who already knew how this ended and was letting the clock run.
 
-Roarke had seen him before. The build. The posture. The dark sedan, two cars back on Lake Shore Drive.
+[Roarke](/npcs/roarke/) had seen him before. The build. The posture. The dark sedan, two cars back on Lake Shore Drive.
 
 The bidding started. Naval charts, medals, signal flags. The room thinned. The heavyset man stayed. The younger man stayed.
 
@@ -34,7 +34,7 @@ Twenty-two thousand five hundred.
 
 Every head turned. The younger man. The American suit. The cold tea. Standing with no paddle, just a raised hand and a smile aimed at Roarke like a letter addressed to him personally.
 
-He tripled Roarke's counter. Then tripled again. Sixty-nine thousand pounds. Roarke bid seventy thousand from [Lodin](/npcs/lodin/)'s Swiss account because Lodin had said six words on a plane and those words didn't have a ceiling.
+He tripled Roarke's counter. Then tripled again. Sixty-nine thousand pounds. Roarke bid seventy thousand from [Lodin](/npcs/lodin/)'s Swiss account because [Lodin](/npcs/lodin/) had said six words on a plane and those words didn't have a ceiling.
 
 The younger man shook his head. The gavel came down. He walked out past Roarke's chair close enough that Roarke could smell the aftershave -- American, expensive -- and see the lavender tie.
 

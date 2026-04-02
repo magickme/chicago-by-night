@@ -20,11 +20,11 @@ When [Sable](/sable-price/) pulled out the photograph and held it up, [Allicia](
 
 "Thank you."
 
-Two words. The second time she'd spoken to Sable. The first had been a warning in the back room of a strip club on 75th Street. This was something else. Not gratitude exactly. Recognition. The sound of a woman acknowledging that someone had done something for her without wanting to own her for it, and the acknowledgment was fifty years overdue and addressed to the wrong person and arrived at the right time.
+Two words. The second time she'd spoken to [Sable](/sable-price/). The first had been a warning in the back room of a strip club on 75th Street. This was something else. Not gratitude exactly. Recognition. The sound of a woman acknowledging that someone had done something for her without wanting to own her for it, and the acknowledgment was fifty years overdue and addressed to the wrong person and arrived at the right time.
 
 She sat on the bed beside Sable. Close. Not touching. The distance between them was measured in the width of a snow globe and fifty years of silence and the particular space that exists between two women who understand captivity and have not yet figured out what the alternative looks like.
 
-They sat. The lake sounded through the window. Allicia didn't speak again. She didn't need to.
+They sat. The lake sounded through the window. [Allicia](/npcs/allicia/) didn't speak again. She didn't need to.
 
 ---
 
@@ -36,7 +36,7 @@ Downstairs, [Darius](/darius-cole/) gave [Modius](/npcs/modius/) the version tha
 
 "Of course, Your Grace."
 
-The interview ended the way Modius's interviews always ended: with courtesy, with the lid closing, with the understanding that the next conversation would cost more than this one.
+The interview ended the way [Modius](/npcs/modius/)'s interviews always ended: with courtesy, with the lid closing, with the understanding that the next conversation would cost more than this one.
 
 ---
 
@@ -54,7 +54,7 @@ The mansion shrank in the rearview mirror. The lake was dark. The porch light he
 
 "She kept the snow globe," Sable said.
 
-Darius drove. The city was quiet in the way Gary was quiet: not peace, just the pause between one thing going wrong and the next. Somewhere on the east side, [John Wierus](/npcs/john-wierus/) was sitting at his kitchen table writing in notebooks that no longer had a companion volume, and the space underneath his son's bedroom floor was empty, and the discovery of that emptiness was hours or days away, and when it came the man who had summoned a spirit and lost a son and spoken to a vampire in his kitchen would become something worse than all three, because grief with a target is just another word for war.
+[Darius](/darius-cole/) drove. The city was quiet in the way Gary was quiet: not peace, just the pause between one thing going wrong and the next. Somewhere on the east side, [John Wierus](/npcs/john-wierus/) was sitting at his kitchen table writing in notebooks that no longer had a companion volume, and the space underneath his son's bedroom floor was empty, and the discovery of that emptiness was hours or days away, and when it came the man who had summoned a spirit and lost a son and spoken to a vampire in his kitchen would become something worse than all three, because grief with a target is just another word for war.
 
 The brooch sat in Sable's pocket. The initials E.K. The craftsmanship of a dead man's clan. One thread resolved, another knotted tighter, and [the Torch](/locations/the-torch/) auction three weeks away, and [Shepard](/npcs/william-shepard/) in the wind, and the coterie driving west on a Sunday night with more answers than they'd started with and more questions than they could carry.
 

@@ -22,7 +22,7 @@ Then the door opened and a man in a cheap blazer walked in and sat two stools do
 
 [Shepard](/npcs/william-shepard/) wrote in a notebook and asked for [Victor Salonika](/npcs/victor-salonika/)'s phone number and left.
 
-Darius drove to Miller Beach. Knocked on the prince's door at 10:40 without an appointment, because the FBI investigating the building you signed thirty minutes ago doesn't wait for Elysium.
+[Darius](/darius-cole/) drove to Miller Beach. Knocked on the prince's door at 10:40 without an appointment, because the FBI investigating the building you signed thirty minutes ago doesn't wait for Elysium.
 
 The study. The self-portrait. The lamp. [Modius](/npcs/modius/) behind the desk with the Auspex running like a searchlight.
 
@@ -38,7 +38,7 @@ He granted the feeding rights. Annual. Renewable. His generosity, not [Lucian](/
 
 Darius heard the fuse light. The question wasn't casual and the "at some point" wasn't indefinite. The prince was giving him time the way a bank gives an extension — the debt was still there.
 
-"Hell, I'll explain it tonight, Modius. I'm just trying to impress you. Beginner's luck. If I'm overstepping, guide me, your Majesty. I am new. You are a master."
+"Hell, I'll explain it tonight, [Modius](/npcs/modius/). I'm just trying to impress you. Beginner's luck. If I'm overstepping, guide me, your Majesty. I am new. You are a master."
 
 The room shifted. The Child rose through the Conniver like warmth through cold water. Modius laughed — small, genuine, the sound of a man who expected a chess move and got a puppy. "Beginner's luck," he repeated. "You broker a deal with the oldest Gangrel in the Great Lakes and call it beginner's luck."
 
@@ -48,6 +48,6 @@ For one second something moved behind the prince's face that Darius couldn't rea
 
 Modius extended his hand. A prince offering a handshake to a neonate. In eighty years of court this gesture had happened fewer than a dozen times. Darius took it. The grip was cool and firm and meant exactly what it looked like, which in the Jyhad meant it could mean anything.
 
-"File the paperwork. Deliver my terms to Lucian. Brief [Victor](/npcs/victor-salonika/) on the FBI. And Warren — next time you save my club, perhaps call ahead."
+"File the paperwork. Deliver my terms to [Lucian](/npcs/lucian/). Brief [Victor](/npcs/victor-salonika/) on the FBI. And Warren — next time you save my club, perhaps call ahead."
 
 The porch. The night. The Cutlass. The envelope in his coat. The signed assumption that would file tomorrow through Marcus Webb at the Lake County Recorder's Office, and by Monday the mortgage on [The Torch](/locations/the-torch/) would belong to Warren Birch, who did not exist, who was the mask worn by Darius Jeremiah Cole, who was the weapon aimed by [Chuc Luc](/npcs/chuc-luc/), who was the ghost behind every deal in the tri-state area, and the chain of ownership went: a dead man owns a building that feeds every vampire in a city ruled by a prince who just shook his hand, and the prince doesn't know the dead man's real name, and the dead man's sire doesn't know the dead man is keeping secrets from him, and the FBI is investigating the building, and the six-hundred-year-old Gangrel is waiting for feeding rights that the prince just granted, and somewhere on Argyle Street a phone is waiting to ring, and Marcus Webb is in Gary for the first time in a year pulling county filings for a boss who sounds different on the phone, and the architecture holds, and the architecture is everything, and the architecture is $800 a month.

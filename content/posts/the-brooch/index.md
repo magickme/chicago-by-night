@@ -14,7 +14,7 @@ description: "A Ventrue feeds in a parking lot and the blood tastes like alimony
 
 [Darius](/darius-cole/) fed on Eddie Kowalski in the parking lot of Kiefer's and the blood tasted like alimony and child support and the specific desperation of a man who does the math every morning and comes up short. Full tank. Thirteen of thirteen. The first time in days the hunger wasn't a factor in his calculations.
 
-The walk-up on Broadway was four blocks north of [The Torch](/locations/the-torch/). Tapped power, a bare bulb on the second floor, and through the dirty window the silhouette of a man who couldn't decide how to stand. Darius watched from the street and counted the cycles: shoulders up, shoulders down, hands clasped, hands loose, the body rearranging itself every few seconds like a radio scanning frequencies and never locking onto one.
+The walk-up on Broadway was four blocks north of [The Torch](/locations/the-torch/). Tapped power, a bare bulb on the second floor, and through the dirty window the silhouette of a man who couldn't decide how to stand. [Darius](/darius-cole/) watched from the street and counted the cycles: shoulders up, shoulders down, hands clasped, hands loose, the body rearranging itself every few seconds like a radio scanning frequencies and never locking onto one.
 
 He went up the fire escape. The rust held. The trumpet covered the metal. Through the back window and into the hallway, ten feet from a Malkavian who was playing scales he couldn't finish.
 
@@ -26,19 +26,19 @@ Darius stepped into the doorway and reached for Dominate the way a man reaches f
 
 "[Modius](/npcs/modius/) needs to see you. On penalty of Blood Hunt."
 
-Raymond came. He brought the trumpet. Darius took the revolver.
+[Raymond](/npcs/raymond-falcon/) came. He brought the trumpet. Darius took the revolver.
 
 In the Cutlass, between Broadway and Miller Beach, Darius listened to five people tell one story from five different angles. His Empathy stripped the confusion and found the skeleton: Dirk MacGriff killed Ryan [Wierus](/npcs/john-wierus/) in the alley behind [The Torch](/locations/the-torch/) in March because the boy was wrong, because something inside the boy was reaching for the back door of the bar, because the violent personality assessed a threat and eliminated it the way a cop eliminates threats — fast, professional, without consultation.
 
 Falcon didn't breach the Masquerade. He defended it. The brooch fell during the struggle. Nobody noticed. Raymond surfaced after the violence, saw the blood on his hands, and ran. He'd been on Broadway ever since, four blocks from the alley, close enough to walk back to the scene of something he couldn't remember clearly and couldn't stop remembering entirely.
 
-Between personalities, Evan Klein surfaced long enough to produce a business card from the lining of the trumpet case. SA [William Shepard](/npcs/william-shepard/), Federal Bureau of Investigation, Chicago Field Office. The card had been there for four months, taken from the dumpster where Shepard left it the week after Ryan died, cataloged by the orderly personality and forgotten by the rest.
+Between personalities, Evan Klein surfaced long enough to produce a business card from the lining of the trumpet case. SA [William Shepard](/npcs/william-shepard/), Federal Bureau of Investigation, Chicago Field Office. The card had been there for four months, taken from the dumpster where [Shepard](/npcs/william-shepard/) left it the week after Ryan died, cataloged by the orderly personality and forgotten by the rest.
 
 The mansion. [Victor](/npcs/victor-salonika/) at the door. [Modius](/npcs/modius/) in the drawing room. Darius walked in with a Malkavian, a trumpet case, and two pieces of evidence he placed on the piano lid side by side: the brooch that started everything and the business card that connected everything.
 
-"One more thing, Your Grace. The federal agent watching your mansion — SA [William Shepard](/npcs/william-shepard/), FBI, Chicago field office. He investigated the alley behind The Torch in March. Falcon had his card."
+"One more thing, Your Grace. The federal agent watching your mansion — SA [William Shepard](/npcs/william-shepard/), FBI, Chicago field office. He investigated the alley behind [The Torch](/locations/the-torch/) in March. Falcon had his card."
 
-Modius listened to Falcon's testimony for forty minutes. Five personalities, five versions, one truth. When it was over, the prince cleared Falcon — the kill was protective, not criminal, and punishing a man for defending the Rack was the kind of pettiness Modius had spent two centuries avoiding.
+[Modius](/npcs/modius/) listened to Falcon's testimony for forty minutes. Five personalities, five versions, one truth. When it was over, the prince cleared Falcon — the kill was protective, not criminal, and punishing a man for defending the Rack was the kind of pettiness Modius had spent two centuries avoiding.
 
 Then Modius looked at Darius and smiled. Not the Cavalier's performance. Not the Conniver's calculation. The smile of a man who asked for a tool and received an instrument.
 

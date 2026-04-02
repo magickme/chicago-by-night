@@ -25,7 +25,7 @@ ShowToc: false
 
 ## Function in Play
 
-- The Archbishop's court. Where Valez holds audiences, issues decrees, and reminds everyone who owns the city.
+- The Archbishop's court. Where [Valez](/npcs/carolina-valez/) holds audiences, issues decrees, and reminds everyone who owns the city.
 - The coterie comes here when summoned. Nobody comes here voluntarily.
 - Political barometer for the Sabbat power structure. Watch who enters, who waits, who leaves quickly and who doesn't leave at all.
 

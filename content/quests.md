@@ -5,7 +5,7 @@ layout: "page"
 slug: "quests"
 ---
 
-*Chicago Chronicles. Act II: Ashes and Blood. Updated: **1991-01-05 (Saturday, sleeping)**.*
+*Chicago Chronicles. Act II: Ashes and Blood. Updated: **1991-01-07 (Monday, sleeping)**.*
 
 
 

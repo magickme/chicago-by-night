@@ -23,7 +23,7 @@ Eleven fifty-three. Seven minutes.
 
 At midnight he called the number on the card and [Claudette](/npcs/claudette-mallet/)'s voice said "Kiefer's. One hour" and the line went dead. Kiefer's — the furniture warehouse on the west side where [Darius](/darius-cole/) had been buying coffee for Eddie Kowalski and Pete Tran for six months. [Lucian](/npcs/lucian/) picked the location the way a man picks a restaurant: to show you he knows where you eat.
 
-The warehouse. The loading dock light. A single work bulb hanging from a ceiling beam, two folding chairs in the circle of light, and Lucian in one of them wearing canvas and boots, looking like any of the thirty thousand men who used to build steel in this city except for the eyes.
+The warehouse. The loading dock light. A single work bulb hanging from a ceiling beam, two folding chairs in the circle of light, and [Lucian](/npcs/lucian/) in one of them wearing canvas and boots, looking like any of the thirty thousand men who used to build steel in this city except for the eyes.
 
 "I looked into Gerald Fisk."
 
@@ -33,7 +33,7 @@ Feeding rights. Formalized, written into the court structure, guaranteed for Luc
 
 "If you can broker that, the mortgage offer disappears. And you will have done me a service I remember."
 
-Darius said he'd speak with Modius. Lucian noted the verb. A check-cashing nobody who can "speak with Modius" about feeding rights. The lie from Monday got thinner and neither of them mentioned it.
+[Darius](/darius-cole/) said he'd speak with [Modius](/npcs/modius/). Lucian noted the verb. A check-cashing nobody who can "speak with Modius" about feeding rights. The lie from Monday got thinner and neither of them mentioned it.
 
 Then Lucian stood and stopped at the loading dock and said: "There is a man named Gerald Fisk. He tends bar at a place called Rosie's, on Buchanan. He cannot make his mortgage and he owes money to people less patient than a bank. He is not my concern."
 

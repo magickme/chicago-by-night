@@ -20,7 +20,7 @@ He was Ralph Rego tonight. Check-cashing operator from the west side. Friendly. 
 
 He was six steps from the door when he saw the second shape through the window.
 
-Sal was behind the desk — [Darius](/darius-cole/) recognized the silhouette from Ray's description, the small man in the big chair. But across from him, hunched in a folding chair with his coat pulled around him like a cocoon, was a figure Darius knew. The limp. The slanted shoulders. The way he held himself like something that had been broken and set wrong.
+Sal was behind the desk — [Darius](/darius-cole/) recognized the silhouette from Ray's description, the small man in the big chair. But across from him, hunched in a folding chair with his coat pulled around him like a cocoon, was a figure [Darius](/darius-cole/) knew. The limp. The slanted shoulders. The way he held himself like something that had been broken and set wrong.
 
 [Michael](/npcs/michael/).
 
@@ -32,7 +32,7 @@ He didn't walk away. That was the second mistake. The first was coming here on a
 
 He pulled back from the doorway. A half-step, maybe less. Not enough.
 
-[Michael](/npcs/michael/) had felt him coming. That was the thing about Malkavians — the cracked ones, the ones who lived in cemeteries and talked to headstones — they had senses that operated on frequencies the other clans couldn't tune. Auspex. The psychic antenna that picked up Kindred vitae the way a dog picks up fear. Michael had been tracking Darius's approach while sitting across from a mortal bookie eating a meatball sub, and when Darius appeared in the doorway for that fractional second, Michael was already looking at the exact spot where his face would be.
+[Michael](/npcs/michael/) had felt him coming. That was the thing about Malkavians — the cracked ones, the ones who lived in cemeteries and talked to headstones — they had senses that operated on frequencies the other clans couldn't tune. Auspex. The psychic antenna that picked up Kindred vitae the way a dog picks up fear. [Michael](/npcs/michael/) had been tracking Darius's approach while sitting across from a mortal bookie eating a meatball sub, and when Darius appeared in the doorway for that fractional second, Michael was already looking at the exact spot where his face would be.
 
 Their eyes met. A quarter-second. Then Darius was around the corner, pressing his back against the corrugated wall of the warehouse, breathing air he didn't need, thinking very fast.
 

@@ -21,7 +21,7 @@ A Greek immigrant to America shortly after the Civil War, Anthius became a trapp
 
 He stayed in Washington until World War II, when he returned to Greece to help free his homeland from Nazi occupation. After the war he joined the Greek communists, the most effective freedom fighters against the Germans, in their fight against British occupation forces. The Soviet Union's refusal to help the communists led to their defeat, and Anthius returned to America. On his way back to Washington he met [Tyrus](/npcs/tyrus/), and the two have been companions ever since. [Tyrus](/npcs/tyrus/) trusts and respects Anthius like no one else, and Anthius has developed a great fondness for the nomadic life and culture of bikers.
 
-During [Maldavis](/npcs/maldavis/)' rise to power, the Pack split on whom they should support. Tyrus wanted to keep their traditional loyalties, while Anthius voiced support for the upstart. [Inyanga](/npcs/inyanga/) intervened and warned them to keep clear of the conflict.
+During [Maldavis](/npcs/maldavis/)' rise to power, the Pack split on whom they should support. [Tyrus](/npcs/tyrus/) wanted to keep their traditional loyalties, while Anthius voiced support for the upstart. [Inyanga](/npcs/inyanga/) intervened and warned them to keep clear of the conflict.
 
 **Image:** A tall, slim Greek man of about 28, with long straggling hair and an untrimmed beard. Dresses in leathers but wears no metal at all -- no studs, no bullet belt, no metal whatsoever. Eschews a helmet for a pair of World War I aviator goggles.
 

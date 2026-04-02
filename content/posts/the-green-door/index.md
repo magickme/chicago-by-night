@@ -18,7 +18,7 @@ The green door opened on the same room she'd left three weeks ago: cot, candle, 
 
 She'd paid rent to a dead man last month. The check hadn't bounced because there was nobody left to cash it.
 
-[Sable](/sable-price/) climbed the interior stairs. The door at the top — the one Williams kept locked, the one she'd never opened in eleven months of sleeping twenty feet below whatever happened on the other side of it — turned freely. She stepped through into the nave and the smell hit her sharpened senses before the light did: old sweat, urine, industrial bleach laid over the rust-copper of blood soaked into wood grain. Weeks old. Impossible to scrub completely.
+[Sable](/sable-price/) climbed the interior stairs. The door at the top — the one [Williams](/npcs/williams/) kept locked, the one she'd never opened in eleven months of sleeping twenty feet below whatever happened on the other side of it — turned freely. She stepped through into the nave and the smell hit her sharpened senses before the light did: old sweat, urine, industrial bleach laid over the rust-copper of blood soaked into wood grain. Weeks old. Impossible to scrub completely.
 
 The pews were pushed to the walls. The altar was a bare platform with carpet stains. Stained glass in the east wall threw fractured color from a streetlight through the surviving panels — blue, amber, a shard of red that fell across the center of the floor like a wound.
 
@@ -40,7 +40,7 @@ The last three entries were crossed out in red:
 
 [Keisha](/npcs/keisha-williams/). Amy. June 23rd. The night the operation burned.
 
-Sable put the notebook in her jacket pocket. Forty-three people recorded with less ceremony than a pawnbroker gives a watch. Two rescued. Forty-one somewhere else, wherever the money took them, Milwaukee or Chicago or wherever Mr. White spent his October purchases, and the notebook held their entire existence in this building — the sum total of their presence reduced to a line of abbreviations and a dollar amount that wouldn't cover a month's rent on a decent apartment.
+[Sable](/sable-price/) put the notebook in her jacket pocket. Forty-three people recorded with less ceremony than a pawnbroker gives a watch. Two rescued. Forty-one somewhere else, wherever the money took them, Milwaukee or Chicago or wherever Mr. White spent his October purchases, and the notebook held their entire existence in this building — the sum total of their presence reduced to a line of abbreviations and a dollar amount that wouldn't cover a month's rent on a decent apartment.
 
 She walked out of the nave. Down the stairs. Through the green door. Into the July night where the block was empty and the porches were dark and nobody was watching because nobody was there, which in Gary meant the same thing it always meant: that suffering happened in private and the evidence sat on folding tables in abandoned churches and the world continued to not look.
 

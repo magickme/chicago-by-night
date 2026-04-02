@@ -3,7 +3,7 @@ title: "Rescued from Victory — Nights 3-4, January 1991"
 date: 1991-01-02T23:00:00
 lastmod: 2026-04-01
 tags: ["ashes-to-ashes", "darius", "sable", "vtm", "ashes-and-blood", "chicago"]
-categories: ["Act II — Ashes to Ashes"]
+categories: ["Chapter 1 — Ashes to Ashes"]
 description: "A staked Sheriff on Wacker Drive. An Anarch in a fourteen-year-old body. A torpored ancient in a stripped-out 7-11. The investigation compresses six scenes into one long night that ends in a thirty-dollar motel room with something very old in the bathtub."
 ---
 
@@ -26,7 +26,7 @@ Wacker Drive. Twelve degrees. [Belthazar](/npcs/belthazar/) opened the car door 
 
 She warned him.
 
-Two words. *Behind you.* The Survivor's instinct, not loyalty to the Elders but fear of making unnecessary enemies, the calculation that runs faster than ideology and always has. Belthazar whirled. Saw movement. Didn't see enough. The boy was already gone.
+Two words. *Behind you.* The Survivor's instinct, not loyalty to the Elders but fear of making unnecessary enemies, the calculation that runs faster than ideology and always has. [Belthazar](/npcs/belthazar/) whirled. Saw movement. Didn't see enough. The boy was already gone.
 
 And then back. From a different angle, at a speed that didn't fit the body carrying it. Ninety pounds moving like a freight car because the blood behind the movement was older than anyone on that sidewalk except the thing it powered, and the stake went through the Sheriff's coat and shirt and sternum and found the heart and Belthazar's body locked mid-syllable and fell like a pushed mannequin and his hat landed crown-down on the ice.
 
@@ -36,13 +36,13 @@ Not angry. Confused. The face of someone who had risked his life to save people 
 
 His name was [Damien](/npcs/damien/). He said it like it should mean something. It did — [Lodin](/npcs/lodin/)'s files had mentioned a troublesome Anarch by that name — but the files hadn't mentioned the blood pressure that came off him like heat from a kiln, the predatory weight that had no business existing inside a fourteen-year-old body. A second child peeled out of the dark behind the parking structure. Seven years old. Brown hair. Eyes that had forgotten how not to be afraid.
 
-[Damien](/npcs/damien/)'s voice changed when he talked about the smaller one. The bravado bled out and what was left was something Sable recognized — the sound of a person responsible for something fragile who is running out of ways to keep it intact. She'd made that sound. In different rooms, for different reasons, she'd made exactly that sound.
+[Damien](/npcs/damien/)'s voice changed when he talked about the smaller one. The bravado bled out and what was left was something [Sable](/sable-price/) recognized — the sound of a person responsible for something fragile who is running out of ways to keep it intact. She'd made that sound. In different rooms, for different reasons, she'd made exactly that sound.
 
-The Civic had no heat and a cracked windshield and Damien drove fast and badly and talked the whole time. Ballard's frame. The investigation designed to fail. The way the Elders used neonates the way Gary used its mill workers — as material, consumed and replaced. He believed everything he was saying and he was right about most of it and the parts he was wrong about were the parts nobody could be right about because the machinery that ran Chicago was larger than any single ideology's map of it.
+The Civic had no heat and a cracked windshield and [Damien](/npcs/damien/) drove fast and badly and talked the whole time. [Ballard](/npcs/ballard/)'s frame. The investigation designed to fail. The way the Elders used neonates the way Gary used its mill workers — as material, consumed and replaced. He believed everything he was saying and he was right about most of it and the parts he was wrong about were the parts nobody could be right about because the machinery that ran Chicago was larger than any single ideology's map of it.
 
 The 7-11 was a stripped carcass. Plywood face, no sign, no light. The man who'd lived here — the Ghoulie Man, Damien called him — wasn't home. Two cops were. Sable heard their heartbeats through the wall and the scrape of pen on clipboard and below both, something else. Pressure. The same frequency she'd felt through bent steel on the 107th floor. Ancient blood had been here. Ancient blood had saturated the concrete.
 
-They went in through the back door. Darius removed the hinge pins. Sable moved past the cops' office like a thing made of shadow and silence. Darius did not. His boot caught debris and the sound was a gunshot in the quiet and then there was a cop in the doorway with a flashlight and Sable behind him with her hand over his mouth and Darius in front of him with eye contact and one word — *sleep* — and the cop went down.
+They went in through the back door. [Darius](/darius-cole/) removed the hinge pins. Sable moved past the cops' office like a thing made of shadow and silence. Darius did not. His boot caught debris and the sound was a gunshot in the quiet and then there was a cop in the doorway with a flashlight and Sable behind him with her hand over his mouth and Darius in front of him with eye contact and one word — *sleep* — and the cop went down.
 
 The second cop went down harder. One success on the Command, the man staggering like a sedative kicking in, catching the chair, catching the table. But he went down.
 
@@ -70,7 +70,7 @@ The photographs had lied by omission. The torpored Methuselah was a presence —
 
 The man upstairs was [Michael Standdown](/npcs/michael-standdown/). Occult investigator, not a doctor. Jerusalem pilgrim. Two weeks of tests that had led him to the conclusion that the thing in his basement was a vampire. He sat at a desk with a crucifix on the wall behind him and books that mixed anatomy with eschatology and he said, "I think it's a very old one. And I think you already knew that."
 
-Darius rewrote his night. Three successes on Forgetful Mind — enough to replace the encounter with something plausible. The body woke up and walked away. Standdown stood alone in his apartment and said "My God" to no one and the rewrite settled into his memory like silt into a riverbed, not granite but functional, the kind of false floor that holds weight until someone tests it.
+Darius rewrote his night. Three successes on Forgetful Mind — enough to replace the encounter with something plausible. The body woke up and walked away. [Standdown](/npcs/michael-standdown/) stood alone in his apartment and said "My God" to no one and the rewrite settled into his memory like silt into a riverbed, not granite but functional, the kind of false floor that holds weight until someone tests it.
 
 They loaded the body with the pallet jack. Park Avenue trunk. The suspension dropped. Sable drove south and the city at four in the morning was sodium orange and black ice and steam from every grate and the lake to the east was a void the color of nothing.
 

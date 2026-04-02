@@ -24,9 +24,9 @@ They talked. They said nothing.
 
 [Darius](/darius-cole/) told her about the check-cashing storefront and the way Gary's underground economy worked, who owed whom and how the debts moved through the city like water through a storm drain. He explained systems the way other men explained sports: the structure was beautiful to him, the architecture of obligation, the way a single loan shark's book connected a dockworker to a pawnshop to a fencing operation to a man in Chicago Heights who never gave his real name. He spoke about power in mechanical terms, networks and flows, and his voice when he described the machinery was the only time it sounded like he'd forgotten she was there.
 
-She never asked about Chicago Heights. She never asked about the man without a name. She cataloged the information the way she cataloged everything Darius gave her: carefully, without appearing to, the way a woman learns to inventory the contents of a room while looking at her nails.
+She never asked about Chicago Heights. She never asked about the man without a name. She cataloged the information the way she cataloged everything [Darius](/darius-cole/) gave her: carefully, without appearing to, the way a woman learns to inventory the contents of a room while looking at her nails.
 
-[Sable](/sable-price/) told him about The Torch and the dancers and [Victor](/npcs/victor-salonika/) behind the bar and the specific quality of light at two AM when the last set ends and the music stops and the building exhales its sweat and smoke into the Gary night. She described the club the way she described the weather: from inside it, as a native, as someone who understood that a strip club in a dying steel town was a church of last resort and the congregation came every night because they had nowhere else to pray.
+[Sable](/sable-price/) told him about [The Torch](/locations/the-torch/) and the dancers and [Victor](/npcs/victor-salonika/) behind the bar and the specific quality of light at two AM when the last set ends and the music stops and the building exhales its sweat and smoke into the Gary night. She described the club the way she described the weather: from inside it, as a native, as someone who understood that a strip club in a dying steel town was a church of last resort and the congregation came every night because they had nowhere else to pray.
 
 She never mentioned Robert Taylor. She never mentioned Kiki or Big Six or the fire escape at four in the morning. She never said the word *mother*.
 
@@ -36,7 +36,7 @@ Four months. Thirty-some conversations. Two people fluent in the language of sur
 
 ---
 
-In April, at The Torch, Sable's blood betrayed her.
+In April, at The Torch, [Sable](/sable-price/)'s blood betrayed her.
 
 A Thursday night. Three dancers on the runway, the usual crowd, [Victor](/npcs/victor-salonika/) polishing glasses with the efficiency of a man who'd been polishing glasses since Eisenhower. The jukebox switched tracks and somebody put on [Anita](/npcs/anita-wainwright/) Baker, and one of the dancers caught the light at an angle that stopped being anatomy and became geometry, the body in motion transcribing something the eye couldn't name and the mind couldn't hold, and Sable's Toreador blood grabbed her by the jaw and said *look*.
 
@@ -62,7 +62,7 @@ They didn't discuss it. They ordered drinks neither of them would finish and tal
 
 In May, on Lake Street, the door closed.
 
-Two AM, engine off, the heater running. One of the long conversations — not about court, not about Modius, not about the game. About Gary. About the mills going dark and what that did to the people inside the houses. About what it means to watch a city die and know you'll outlive it. The words that happen between two people from the same kind of place when the pretense gets too heavy to hold.
+Two AM, engine off, the heater running. One of the long conversations — not about court, not about [Modius](/npcs/modius/), not about the game. About Gary. About the mills going dark and what that did to the people inside the houses. About what it means to watch a city die and know you'll outlive it. The words that happen between two people from the same kind of place when the pretense gets too heavy to hold.
 
 The air in the car was close. Lake Michigan made sounds in the dark that sounded like breathing. The proximity was doing what proximity does when two people have been circling each other for three months and haven't decided what the circling means.
 
@@ -84,7 +84,7 @@ The next time they saw each other — Elysium, first Friday in June — the car 
 
 Meanwhile, Gary kept dying.
 
-In March, a boy's body turned up in the dumpster behind The Torch. Sixteen, underfed, gray-skinned. Gary PD wrote it as an overdose. Victor cleaned the alley before dawn, the way he cleaned everything that happened behind The Torch, with bleach and efficiency and the quiet competence of a man who had been making problems disappear for forty years.
+In March, a boy's body turned up in the dumpster behind The Torch. Sixteen, underfed, gray-skinned. Gary PD wrote it as an overdose. [Victor](/npcs/victor-salonika/) cleaned the alley before dawn, the way he cleaned everything that happened behind The Torch, with bleach and efficiency and the quiet competence of a man who had been making problems disappear for forty years.
 
 In April, a dockworker told a bouncer who told a dancer who told Sable that somebody had seen a boy walking near the Wasteland. A boy matching the description of the one they found in the dumpster. Three weeks dead and walking. The dancer laughed when she said it. Sable didn't.
 

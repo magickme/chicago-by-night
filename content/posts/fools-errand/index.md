@@ -3,7 +3,7 @@ title: "Fool's Errand"
 date: 1969-10-18T19:00:00
 lastmod: 2026-04-01
 tags: ["ashes-to-ashes", "flashback", "roarke", "vtm", "ashes-and-blood", "london"]
-categories: ["Pawns in the Game"]
+categories: ["Chapter 2 — Pawns in the Game"]
 description: "The package. The pavement. A suppressed rifle. Something older than age poured into a dying man's mouth."
 ---
 
@@ -30,9 +30,9 @@ He picked up the journal. Leaned close.
 
 [Lodin](/npcs/lodin/) said he would send you out on your own sometime during this trip. I just had to wait for the right time.
 
-[Roarke](/npcs/roarke/)'s hand shot up and closed around [Quinn](/npcs/heath-quinn/)'s throat. [Quinn](/npcs/heath-quinn/)'s eyes widened. He gagged. Clawed at Roarke's wrist. Hit him in the chest where the hole was. White light. The fingers loosened because the blood was leaving and the muscles followed the blood and the dark was patient.
+[Roarke](/npcs/roarke/)'s hand shot up and closed around [Quinn](/npcs/heath-quinn/)'s throat. [Quinn](/npcs/heath-quinn/)'s eyes widened. He gagged. Clawed at [Roarke](/npcs/roarke/)'s wrist. Hit him in the chest where the hole was. White light. The fingers loosened because the blood was leaving and the muscles followed the blood and the dark was patient.
 
-Quinn pulled free. Rubbing his throat. Looking at Roarke on the pavement with something that might have been respect.
+[Quinn](/npcs/heath-quinn/) pulled free. Rubbing his throat. Looking at Roarke on the pavement with something that might have been respect.
 
 Tough old bastard.
 

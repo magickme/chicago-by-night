@@ -30,5 +30,5 @@ The lair of the killer. [Merik](/npcs/terence-merik/)'s penthouse sits atop a [W
 
 ## Who Controls It
 
-- Merik. Absolutely. Ghouls provide security. The building staff is Dominated or paid.
+- [Merik](/npcs/terence-merik/). Absolutely. Ghouls provide security. The building staff is Dominated or paid.
 - No other Kindred visits without invitation.

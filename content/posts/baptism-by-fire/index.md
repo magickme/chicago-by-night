@@ -18,7 +18,7 @@ The chandeliers helped. So did the suits, the dresses, the crystal, the old wood
 
 [Darius](/darius-cole/) kept to the discipline of angle and sequence.
 
-Stand where the exits stay visible. Never be trapped in the center of someone else's conversation. Answer the question that was asked and not the question beneath it. When [Modius](/npcs/modius/) asked about havens, [Darius](/darius-cole/) gave the west-side apartment because a partial truth was cleaner than resistance. When [Danov](/npcs/alexander-danov/) asked a moral question dressed as philosophy, Darius gave him thoughtfulness and no confession. When [Lucian](/npcs/lucian/) spoke about Rome as though the republic had fallen yesterday, Darius listened for the one line hidden inside the performance and found it there: Chicago meant the [Succubus Club](/locations/succubus-club/), and the club meant [Sir Henry Johnson](/npcs/sir-henry-johnson/).
+Stand where the exits stay visible. Never be trapped in the center of someone else's conversation. Answer the question that was asked and not the question beneath it. When [Modius](/npcs/modius/) asked about havens, [Darius](/darius-cole/) gave the west-side apartment because a partial truth was cleaner than resistance. When [Danov](/npcs/alexander-danov/) asked a moral question dressed as philosophy, [Darius](/darius-cole/) gave him thoughtfulness and no confession. When [Lucian](/npcs/lucian/) spoke about Rome as though the republic had fallen yesterday, Darius listened for the one line hidden inside the performance and found it there: Chicago meant the [Succubus Club](/locations/succubus-club/), and the club meant [Sir Henry Johnson](/npcs/sir-henry-johnson/).
 
 Then [Juggler](/npcs/juggler/) broke the room open.
 
@@ -38,13 +38,13 @@ He stepped into the cold and felt [Dane](/npcs/sullivan-dane/) somewhere beyond 
 
 ---
 
-[Allicia](/npcs/allicia/) was at the piano because Modius liked his cruelties arranged symmetrically.
+[Allicia](/npcs/allicia/) was at the piano because [Modius](/npcs/modius/) liked his cruelties arranged symmetrically.
 
 [Sable](/sable-price/) saw her before anyone spoke to her, before the room's machinery began, before the first elder tested a neonate with a compliment sharpened on the underside. The hands were steady on the keys. The face was the face that always made other people think silence meant serenity. The performance was flawless. The fact of the performance was the injury.
 
 Greer's note was folded inside [Sable](/sable-price/)'s glove.
 
-Halloran to Warwick to a law-firm shell in Chicago. [Sharon](/npcs/sharon-payne/)'s hand not visible, but the glove around it expensive enough to count. The problem had crossed the state line before Sable did.
+Halloran to Warwick to a law-firm shell in Chicago. [Sharon](/npcs/sharon-payne/)'s hand not visible, but the glove around it expensive enough to count. The problem had crossed the state line before [Sable](/sable-price/) did.
 
 Then the party began doing what parties in Gary always did when enough Kindred were trapped in one structure: pretending etiquette was stronger than appetite.
 
@@ -72,7 +72,7 @@ Sable did not mistake recognition for kindness. She only recognized that the wom
 
 By the end of the night Gary had made its decision. Modius's emissaries. Chicago bound. Letter sealed. Safe passage dressed up as duty.
 
-Sable left with the piano still in her ears and Allicia's unreadable face burned behind her eyes and one clear fact where hope used to be:
+Sable left with the piano still in her ears and [Allicia](/npcs/allicia/)'s unreadable face burned behind her eyes and one clear fact where hope used to be:
 
 The bond could break.
 

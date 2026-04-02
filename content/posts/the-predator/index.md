@@ -28,13 +28,13 @@ Big Six. The name his boys gave him, and the name he wore the way a man wears a 
 
 He'd never touched her. He didn't have to. His presence was enough to clear the room around her, to build a zone of silence that kept every other man at the distance he'd decided was appropriate, and the distance he'd decided was appropriate was the distance between a thing and its owner. She danced. He watched. The transaction was unspoken because the spoken version would have required her consent, and consent was not part of the architecture he was building.
 
-The Embrace hadn't fixed it. She'd thought it would. She'd driven to Gary and left Chicago behind and the scar tissue where Big Six had pressed his thumbprint was supposed to heal the way mortal wounds healed when the blood started working and the body became something other than a body. It hadn't. He'd followed her to Gary — or his business had brought him here, or the same gravity that pulled her to The Torch pulled him there too, and the two near-misses at the bar were the universe reminding her that the predator she'd fled wasn't going to stop being a predator just because she'd become one too.
+The Embrace hadn't fixed it. She'd thought it would. She'd driven to Gary and left Chicago behind and the scar tissue where Big Six had pressed his thumbprint was supposed to heal the way mortal wounds healed when the blood started working and the body became something other than a body. It hadn't. He'd followed her to Gary — or his business had brought him here, or the same gravity that pulled her to [The Torch](/locations/the-torch/) pulled him there too, and the two near-misses at the bar were the universe reminding her that the predator she'd fled wasn't going to stop being a predator just because she'd become one too.
 
 She finished the water. Set the glass down. Waited for [Victor](/npcs/victor-salonika/).
 
 "Marcus Tillman. He been in this week?"
 
-Victor's hand slowed on the towel. "Not since Tuesday. Came in with two of his boys. Stayed an hour. Didn't drink much." The pause. "He asked about you."
+[Victor](/npcs/victor-salonika/)'s hand slowed on the towel. "Not since Tuesday. Came in with two of his boys. Stayed an hour. Didn't drink much." The pause. "He asked about you."
 
 "What did you tell him?"
 
@@ -114,7 +114,7 @@ Twenty-four seconds. The entire transaction.
 
 Three men standing in a lot with their boss's body. The spell held them the way amber holds insects — perfectly, completely, the illusion of possible movement if they could just remember how.
 
-Sable stood over Big Six. Blood on her chin. The night air on her skin. She looked at the three of them the way a woman looks at furniture she's deciding whether to keep.
+[Sable](/sable-price/) stood over Big Six. Blood on her chin. The night air on her skin. She looked at the three of them the way a woman looks at furniture she's deciding whether to keep.
 
 "On your knees. I took out your capo. You know what that means. Kneel. Kneel to me. You work for me now."
 

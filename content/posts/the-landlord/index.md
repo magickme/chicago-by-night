@@ -16,7 +16,7 @@ The machine shop smelled like cutting oil and cold steel. Lakovic & Sons had bee
 
 "Chicago," she said. No preamble. "[Lodin](/npcs/lodin/)'s seneschal is asking questions. 'Conditions in Gary.' That's the phrase. Like we're a weather report."
 
-Darius sat up. The blood was low. Six-thirteenths, and two nights since the wasteland. He could feel it in the joints, the slight delay between intention and movement that meant the tank was dropping toward the line where discipline started costing more than it returned.
+[Darius](/darius-cole/) sat up. The blood was low. Six-thirteenths, and two nights since the wasteland. He could feel it in the joints, the slight delay between intention and movement that meant the tank was dropping toward the line where discipline started costing more than it returned.
 
 "Archon?"
 
@@ -38,7 +38,7 @@ Darius stopped the car. Rolled down the window.
 
 "Get in," he said.
 
-The passenger door opened. [Sable](/sable-price/) moved to the backseat without being asked and without speaking. Lucian sat. The car dipped on its springs. He smelled like lake water and something underneath it, something animal, the musk of a predator that spent its nights in places where the distinction between man and territory had dissolved centuries ago.
+The passenger door opened. [Sable](/sable-price/) moved to the backseat without being asked and without speaking. [Lucian](/npcs/lucian/) sat. The car dipped on its springs. He smelled like lake water and something underneath it, something animal, the musk of a predator that spent its nights in places where the distinction between man and territory had dissolved centuries ago.
 
 He didn't look at Darius. He looked through the windshield at the access road ahead, the darkness where it bent toward the docks.
 
@@ -60,7 +60,7 @@ He paused. Let the pause do what pauses did between Kindred, which was announce 
 
 "The third. You want to know what's in the warehouse and what it might attract." He turned his head and looked at Lucian directly, which with a Gangrel elder was either a sign of respect or a provocation, and the difference depended on what came next. "There's nothing in that warehouse as dangerous as a smuggled Gangrel elder moving through your docks on the way to somewhere else. And I think we both know that's happened more than once."
 
-The car went quiet again. A different quiet. Sable in the backseat was a held breath.
+The car went quiet again. A different quiet. [Sable](/sable-price/) in the backseat was a held breath.
 
 Lucian's jaw moved. Not quite a smile. The reflective eyes shifted from the windshield to Darius for the first time. Held there. The Beast behind those eyes was old enough to have killed things that Darius couldn't name, and the fact that it stayed behind the eyes instead of filling the car was a choice, not a limitation.
 
@@ -118,17 +118,17 @@ The haven at midnight. West side. The building that nobody looked at twice becau
 
 Darius sat at the table and opened the notebook and spread the threads across the surface like a surgeon laying out instruments. Not physically. The notebook stayed closed. But the diagram was there, behind his eyes, the four assets and their connections and the pressure points and the vulnerable joints, and the Grace had given him the clarity to see all of it at once without the usual effort of holding one piece while reaching for the next.
 
-Four assets. [The Torch](/locations/the-torch/) -- social hub, [Juggler](/npcs/juggler/)'s operation, the keystone that connected everything in Gary to everything else. Whoever controlled the Torch controlled the flow of information and the flow of blood and the flow of bodies through the only functioning Kindred space in a forty-mile radius. The Pipeline -- [Chuc Luc](/npcs/chuc-luc/)'s narcotics operation, the warehouse, Eddie, the sacks, the Chicago directive that had put Darius in Gary in the first place. Cantone's distribution network -- stolen, not built, a machine that had been running on Cantone's fuel and was now running on borrowed time before someone in Cicero noticed the fuel gauge was wrong. And the notebook. [Williams](/npcs/williams/)'s forty-three entries. The D-Train schedule, the Mr. White connection, the B7/SC notation. Intelligence that could be traded or weaponized or held in reserve, and the value of held intelligence was that it appreciated while everything else depreciated.
+Four assets. [The Torch](/locations/the-torch/) -- social hub, [Juggler](/npcs/juggler/)'s operation, the keystone that connected everything in Gary to everything else. Whoever controlled [the Torch](/locations/the-torch/) controlled the flow of information and the flow of blood and the flow of bodies through the only functioning Kindred space in a forty-mile radius. The Pipeline -- [Chuc Luc](/npcs/chuc-luc/)'s narcotics operation, the warehouse, Eddie, the sacks, the Chicago directive that had put Darius in Gary in the first place. Cantone's distribution network -- stolen, not built, a machine that had been running on Cantone's fuel and was now running on borrowed time before someone in Cicero noticed the fuel gauge was wrong. And the notebook. [Williams](/npcs/williams/)'s forty-three entries. The D-Train schedule, the Mr. White connection, the B7/SC notation. Intelligence that could be traded or weaponized or held in reserve, and the value of held intelligence was that it appreciated while everything else depreciated.
 
 The model took shape. Not operator. Landlord.
 
-Cantone had operated. [Williams](/npcs/williams/) had operated. They'd touched the product and handled the logistics and stood in the warehouse and counted the sacks and done the work that put their fingerprints on everything. And both of them were gone -- Cantone pushed out, Williams dead. Operators got replaced. The building stayed.
+Cantone had operated. [Williams](/npcs/williams/) had operated. They'd touched the product and handled the logistics and stood in the warehouse and counted the sacks and done the work that put their fingerprints on everything. And both of them were gone -- Cantone pushed out, [Williams](/npcs/williams/) dead. Operators got replaced. The building stayed.
 
 Own the infrastructure. Charge rent. Let the operators operate and take a percentage and never touch the product and never stand in the warehouse at three AM counting sacks with your hands on the evidence. Lucian understood this. Lucian had owned the docks for decades and never loaded a single crate. The two thousand a month was rent on infrastructure that Lucian had built by controlling the waterfront without ever running a dock operation himself. The model was there. Darius was adapting it.
 
 Pivot points. Eddie's reprogramming -- five days, the Conditioning layering deeper each session until the dock worker's loyalty was structural rather than compelled, a foundation instead of a leash. Cantone's redirect -- the trafficking as scapegoat, the notebook as evidence that Cantone's operation was the source of whatever federal attention was accumulating around the docks, a frame that redirected [Shepard](/npcs/william-shepard/)'s investigation toward Cicero and away from Gary. Webb -- two-week window. Saturday's Conditioning would install the first layer. The second session would lock it. By August, Warren Birch would have a voice and a face and a man who answered the phone when the FBI called. Mr. White in October. Long play. The Milwaukee buyer who paid premium for a product Darius didn't yet fully understand but whose value was denominated in a currency older than dollars.
 
-Vulnerable points. Eddie was a single point of failure -- one man between the warehouse and exposure, and if Eddie broke or was discovered or simply failed to show up, the entire dock operation went dark. The warehouse itself was discoverable, twenty-four sacks of narcotics in a building that Cantone's people had already watched once and would watch again. Webb was unconditioned. One session didn't make a proxy. Two sessions made a tool. Three made a weapon. The gap between one and three was the gap between a plan and a liability. Chuc Luc was checking at the end of July, and whatever he found would determine whether Darius had a sire or a problem. And Sable's phone was a live wire -- the Chicago scrutiny channeled through her connections, a line that ran from [Lodin](/npcs/lodin/)'s seneschal through the Toreador network to a woman who slept in the same city as Darius and knew most of what he knew.
+Vulnerable points. Eddie was a single point of failure -- one man between the warehouse and exposure, and if Eddie broke or was discovered or simply failed to show up, the entire dock operation went dark. The warehouse itself was discoverable, twenty-four sacks of narcotics in a building that Cantone's people had already watched once and would watch again. Webb was unconditioned. One session didn't make a proxy. Two sessions made a tool. Three made a weapon. The gap between one and three was the gap between a plan and a liability. [Chuc Luc](/npcs/chuc-luc/) was checking at the end of July, and whatever he found would determine whether Darius had a sire or a problem. And Sable's phone was a live wire -- the Chicago scrutiny channeled through her connections, a line that ran from [Lodin](/npcs/lodin/)'s seneschal through the Toreador network to a woman who slept in the same city as Darius and knew most of what he knew.
 
 The advantage pulsed. The diagram held.
 

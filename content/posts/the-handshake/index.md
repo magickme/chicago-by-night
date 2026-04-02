@@ -26,7 +26,7 @@ Humanity five. The thought filed itself and closed.
 
 Seventeenth Street in the rain. Tanya's house. Brown siding, white trim, a light in the front room. She parked three houses down and sent Pete in and waited with the wipers on low and the .38 under her thigh and her senses wide open, listening to heartbeats through walls.
 
-Seven minutes. Pete came back. Spoon already knew something was wrong. Spoon already suspected Chicago. The story landed in soil that was ready for it, and the roots took hold before Pete finished talking.
+Seven minutes. Pete came back. [Spoon](/npcs/spoon-antoine/) already knew something was wrong. Spoon already suspected Chicago. The story landed in soil that was ready for it, and the roots took hold before Pete finished talking.
 
 She had Pete bring him to the car.
 
@@ -50,7 +50,7 @@ She sent DeShawn. Porch at Sixteenth and Grant, line of sight, ball cap, the par
 
 ---
 
-She called Darius from the payphone. His voice came through careful and clipped because someone else was in his apartment, and she talked fast: the burgundy Olds, the mortal watcher, Six's blocks, the Chicago connection. He said he'd call her back in an hour at the studio. The line went dead.
+She called [Darius](/darius-cole/) from the payphone. His voice came through careful and clipped because someone else was in his apartment, and she talked fast: the burgundy Olds, the mortal watcher, Six's blocks, the Chicago connection. He said he'd call her back in an hour at the studio. The line went dead.
 
 On the way to Fifth Avenue she stopped at a bar off Fifteenth and took two blood points from a man in work boots who was drinking alone because Monday was coming and Monday meant something he didn't want to face. Quick. Professional. She left him against the wall and drove east and thought about the fact that she'd hit two west side bars in two nights and her face was the kind of face bartenders remembered and the hunting ground was burning down one visit at a time.
 
@@ -76,7 +76,7 @@ He sat in the wooden chair by the window. Folded his hands.
 
 He went first. The name she'd never heard: [Darius Cole](/darius-cole/). The generation she'd never suspected: tenth, not twelfth. The sire: [Chuc Luc](/npcs/chuc-luc/), Pham Hong, ninth generation, [Lodin](/npcs/lodin/)'s brood. Planted in Gary to build a pipeline through the docks. Every interaction she'd had with Warren Birch, every phone call, every intel exchange, recalculated in real time with the new variable inserted, and the new variable changed everything and changed nothing because the man in the chair was the same man who'd been in the chair before he said his name. Just more of him.
 
-She matched it. All of it. [Michael](/npcs/michael/) Payne, eighth generation, the painter, the absent sire. [Sharon Payne](/npcs/sharon-payne/), seventh generation, Presence 5, the vendetta. She told him about Big Six without flinching and watched his face not flinch back, the single blink of a man updating a file. The ghouls. Kendrick's Auto. The [Allicia](/npcs/allicia/) bond, the spy assignment inverted, the mutual blood exchange on the chaise where they were sitting right now, which she told him because full disclosure meant full disclosure and the chaise still smelled faintly of turpentine and blood.
+She matched it. All of it. [Michael](/npcs/michael/) [Payne](/npcs/sharon-payne/), eighth generation, the painter, the absent sire. [Sharon Payne](/npcs/sharon-payne/), seventh generation, Presence 5, the vendetta. She told him about Big Six without flinching and watched his face not flinch back, the single blink of a man updating a file. The ghouls. Kendrick's Auto. The [Allicia](/npcs/allicia/) bond, the spy assignment inverted, the mutual blood exchange on the chaise where they were sitting right now, which she told him because full disclosure meant full disclosure and the chaise still smelled faintly of turpentine and blood.
 
 "Humanity five," she said.
 

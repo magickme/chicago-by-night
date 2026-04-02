@@ -24,11 +24,11 @@ He was built like a fire hydrant. Short, dense, carrying his weight low in his h
 
 He walked to her window and knocked.
 
-Sable sat in the Buick with both hands on the wheel and thought about every man who had ever knocked on a car window she was sitting behind. The taxonomy of knocks: the john's knock, which was tentative and rhythmic. Big Six's knock, which was a single flat palm that said *open.* [Michael](/npcs/michael/) [Payne](/npcs/sharon-payne/)'s knock, which was two fingertips, delicate, the knock of a man who touched everything like it was a canvas.
+[Sable](/sable-price/) sat in the Buick with both hands on the wheel and thought about every man who had ever knocked on a car window she was sitting behind. The taxonomy of knocks: the john's knock, which was tentative and rhythmic. Big Six's knock, which was a single flat palm that said *open.* [Michael](/npcs/michael/) [Payne](/npcs/sharon-payne/)'s knock, which was two fingertips, delicate, the knock of a man who touched everything like it was a canvas.
 
 [Williams](/npcs/williams/) knocked like a landlord. Firm, businesslike, nothing personal. The knock of a man who expected the door to open because doors opened for him. That was his whole career — doors opening, and behind each one something valuable and afraid.
 
-She felt the Dread wash out of her chest before she made the decision to use it. The Presence built the way it always built, rising from somewhere behind her sternum like a wave of dark water, and when she rolled down the window and let Williams see her eyes, what he saw in them was the thing that lived at the bottom of every human being's nervous system, the thing that woke up in caves and forests and dark water, the ancient and mammalian certainty that something with teeth was looking at you and it was too late to run.
+She felt the Dread wash out of her chest before she made the decision to use it. The Presence built the way it always built, rising from somewhere behind her sternum like a wave of dark water, and when she rolled down the window and let [Williams](/npcs/williams/) see her eyes, what he saw in them was the thing that lived at the bottom of every human being's nervous system, the thing that woke up in caves and forests and dark water, the ancient and mammalian certainty that something with teeth was looking at you and it was too late to run.
 
 Williams stepped back. His face did something it probably hadn't done in years — it moved. The blankness cracked for half a second and underneath it was the quick recalculation of a professional whose operational assumptions had just been revised. He'd knocked on a window expecting a mortal woman alone in a car at night. He'd found something else.
 

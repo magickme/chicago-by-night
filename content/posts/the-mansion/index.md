@@ -58,7 +58,7 @@ She didn't walk through it.
 
 She didn't say [Allicia](/npcs/allicia/)'s name. She said *the piano*. An asset. A scheduling question. Not the woman who counted words and sat behind a door that was locked from both sides because the lock was blood and the blood was a three-step bond being reinforced with fresh vitae from a prince who called it protection because the word *imprisonment* would require him to name what he was doing.
 
-Modius's face did something again. The Conniver heard the logic. The Child heard something else.
+[Modius](/npcs/modius/)'s face did something again. The Conniver heard the logic. The Child heard something else.
 
 "You're right. I'll... make arrangements."
 

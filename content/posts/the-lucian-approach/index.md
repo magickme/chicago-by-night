@@ -34,7 +34,7 @@ One sentence from the elder. Then silence. Then: "How did you learn the name Lak
 
 "I file corporate paperwork for a living. UCC liens, property transfers. Torch is where I eat. Somebody files an offer on the place where I eat, I notice."
 
-Lucian watched him the way a jeweler watches a stone under magnification. Turning it. Checking the facets for flaws. Darius felt something shift in the room, some quality of attention that had nothing to do with listening and everything to do with seeing, and he understood without knowing how that the elder was reading something in him that wasn't meant to be read.
+[Lucian](/npcs/lucian/) watched him the way a jeweler watches a stone under magnification. Turning it. Checking the facets for flaws. [Darius](/darius-cole/) felt something shift in the room, some quality of attention that had nothing to do with listening and everything to do with seeing, and he understood without knowing how that the elder was reading something in him that wasn't meant to be read.
 
 Then the outer door banged open. A dockworker. Big man, union jacket, breathing wrong. "[Claudette](/npcs/claudette-mallet/). We got a problem at berth three."
 
@@ -82,6 +82,6 @@ He didn't explain. Didn't qualify.
 
 "Take your folder. Don't come to these docks again without calling first."
 
-Darius took the card. Stood. Nodded once. Walked through the outer office, which was empty now, Claudette gone, her desk pushed back, and out into the sodium-lit night where the container cranes stood like gallows against the lake sky.
+Darius took the card. Stood. Nodded once. Walked through the outer office, which was empty now, [Claudette](/npcs/claudette-mallet/) gone, her desk pushed back, and out into the sodium-lit night where the container cranes stood like gallows against the lake sky.
 
 The Cutlass. The Buffington corridor heading west. In his coat pocket: a business card with no name on it. In his head: berth 7, Friday, two AM, nothing on paper. In his gut: the particular weight of a man who'd been studied by something older than the country he was born in and found interesting enough to keep alive, which was not the same thing as being found trustworthy, and the difference between the two was the distance between a phone number and a harbor floor, and the man from Mombasa had traveled that distance in eleven years, and Darius intended to be smarter than the man from Mombasa, and the intention was the first honest thing he'd brought to the docks tonight, and Lucian had seen it, and that was either the beginning of something or the end of everything, and Darius wouldn't know which until Thursday.

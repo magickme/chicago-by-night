@@ -19,15 +19,15 @@ The letter had no name on it. Cream paper, old cursive, slid under the studio do
 
 [Allicia](/npcs/allicia/) sat in a chair by the window. Dark dress. Hair down. Thinner than Friday. The collarbone sitting wrong under the skin, the dullness that comes from a blood pool running on fumes. [Sable](/sable-price/) sharpened her senses and read the room: dilated pupils, the sour scent of hunger, no fresh blood. [Modius](/npcs/modius/) was withholding. Starving his childe the way a man turns off the heat in February — not to kill, but to remind you who controls the furnace.
 
-[Modius](/npcs/modius/) wasn't home. No heartbeat upstairs. Just Victor at the sideboard and two Toreador women with a language nobody taught them.
+[Modius](/npcs/modius/) wasn't home. No heartbeat upstairs. Just [Victor](/npcs/victor-salonika/) at the sideboard and two Toreador women with a language nobody taught them.
 
-"I've been thinking about hosting," Sable said. "A small gathering. Do you think gardenias are too much for a summer evening?"
+"I've been thinking about hosting," [Sable](/sable-price/) said. "A small gathering. Do you think gardenias are too much for a summer evening?"
 
 She talked about entertaining and guest lists and wine selection, and underneath the party planning she said: *I know he's starving you. I see what he's doing.* And [Allicia](/npcs/allicia/), who had spoken six words in six months, used her seventh in a sentence about hospitality that meant: *Guests can't enjoy what they haven't been given.*
 
 Victor polished a glass. Two women discussing dinner parties. The most natural thing in the world.
 
-Allicia glanced at Sable's wrist. One glance. Then away. The request was clear.
+[Allicia](/npcs/allicia/) glanced at Sable's wrist. One glance. Then away. The request was clear.
 
 "Some courses need a private room," Sable said. "Somewhere the kitchen staff doesn't go."
 

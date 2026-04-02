@@ -30,11 +30,11 @@ She turned around and walked out. The door closed behind her and the January air
 
 He was here. In Gary. In her club. On New Year's.
 
-The dead don't breathe but something in Sable's chest was doing a convincing imitation.
+The dead don't breathe but something in [Sable](/sable-price/)'s chest was doing a convincing imitation.
 
 ---
 
-She drove west because west was away from The Torch and away was the only direction that mattered. Broadway was a strip of sodium light and boarded windows and the occasional drunk weaving between cars, and Sable watched them through the windshield the way a hawk watches field mice from a telephone wire — the elevation not physical but ontological, the distance between her and them no longer measured in feet but in the fundamental difference between things that die and things that don't.
+She drove west because west was away from [The Torch](/locations/the-torch/) and away was the only direction that mattered. Broadway was a strip of sodium light and boarded windows and the occasional drunk weaving between cars, and Sable watched them through the windshield the way a hawk watches field mice from a telephone wire — the elevation not physical but ontological, the distance between her and them no longer measured in feet but in the fundamental difference between things that die and things that don't.
 
 She parked near Fifth Avenue. The bars were still open, barely, and the sidewalks held the last residue of a celebration that Gary had performed out of obligation rather than joy. New decade. Same city. Same men stumbling out of the same doors with the same empty pockets and the same full grief.
 

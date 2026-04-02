@@ -29,4 +29,4 @@ Marie-Ange's lab and adjoining rest quarters have been declared off-limits to ev
 
 **Image:** Marie-Ange is a beefy, rugged, black-haired woman who dresses in comfortable work attire. She uses Vicissitude to bring her veins to the surface of her skin, making her look like a pulsating road map.
 
-**Secrets:** Marie-Ange is being corrupted through her protection of the person she believes is Sangris.
+**Secrets:** Marie-Ange is being corrupted through her protection of the person she believes is [Sangris](/npcs/sangris/).

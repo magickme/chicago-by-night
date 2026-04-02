@@ -10,15 +10,15 @@ menu:
       icon: "dots"
 ---
 
-*Chicago Chronicles. Act II: Ashes and Blood. Updated: **1991-01-05 (Saturday, sleeping)**.*
+*Chicago Chronicles. Act II: Ashes and Blood. Updated: **1991-01-07 (Monday, sleeping)**.*
 
 
 
 ## Coterie Snapshot
 
-- 1991-01-05 (Saturday, sleeping) — Coterie at Starlite Motel, Room 9 (South Side). ASHES TO ASHES COMPLETE. Lodin rescued from Hell's Pasture, Roarke destroyed. Menele's body delivered to Lodin at Drake Hotel (8th floor, cedar closet). Belthazar still staked on Wacker Drive (Neon guarding 24+ hrs). Lodin promised word before dawn — coterie awaiting callback. Ballard about to be blindsided.
-- Scenes played: Darius 31, Sable 30 (61 total + timeskip bluebook Aug-Nov + Dec timeskip). PCs met at Feb 2 Elysium. **COTERIE FORMED (S019, July 22).**
-- Scene-note inventory: Darius 31, Sable 30 (61 total on disk).
+- 1991-01-07 (Monday, sleeping) — Darius at Starlite Motel, Room 9 (South Side). Sable at Allerton Hotel, Michigan Avenue, 3rd floor (temporary — one night, paid cash). ASHES TO ASHES COMPLETE. Lodin rescued from Hell's Pasture, Roarke destroyed. Menele's body delivered to Lodin at Drake Hotel (8th floor, cedar closet). Belthazar still staked on Wacker Drive (Neon guarding 72+ hrs). Lodin promised word before dawn — callback 2 nights overdue. Ballard about to be blindsided. Sable fed 3x at Succubus Club (Jan 6 night), called Modius (consulted him on Lodin boon — leash holds).
+- Scenes played: Darius 31, Sable 31 (62 total + timeskip bluebook Aug-Nov + Dec timeskip). PCs met at Feb 2 Elysium. **COTERIE FORMED (S019, July 22).**
+- Scene-note inventory: Darius 31, Sable 31 (62 total on disk).
 - Sunset: 4:28 PM CST. Sunrise: 7:06 AM CST. Darkness: ~14.5 hours (early January).
 - Communications: Chicago protocol seeded. Tue/Fri 11 PM remains the default check-in window, using rotating nodes instead of a fixed haven line. If one node feels watched, move immediately to the next. Horace contact: The Cave, ask for Fred, "chess tournament."
 

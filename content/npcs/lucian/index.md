@@ -23,7 +23,7 @@ Owns the Gary Export Company. Controls the passage of vampires traveling to and 
 
 Lucian operates the Gary terminus of a continental smuggling corridor. The water axis: Atlantic → St. Lawrence River → Kingston → Lake Ontario → Great Lakes → Gary docks → Chicago. The road axis connects via I-94 to Detroit, and from Kingston via the 401 to Toronto and Montreal.
 
-Has a lucrative working arrangement with [Iain MacLaren](/npcs/iain-maclaren/), Prince of Kingston, Ontario, for ferrying vampires down the St. Lawrence through the Great Lakes. [MacLaren](/npcs/iain-maclaren/) controls the entry point. Lucian controls the destination. The pipeline is old, quiet, and profitable. The proceeds fund MacLaren's entire operation in Kingston.
+Has a lucrative working arrangement with [Iain MacLaren](/npcs/iain-maclaren/), Prince of Kingston, Ontario, for ferrying vampires down the St. Lawrence through the Great Lakes. [MacLaren](/npcs/iain-maclaren/) controls the entry point. Lucian controls the destination. The pipeline is old, quiet, and profitable. The proceeds fund [MacLaren](/npcs/iain-maclaren/)'s entire operation in Kingston.
 
 Is importing Laibon — African vampires — on behalf of [Inyanga](/npcs/inyanga/)'s covert diaspora operation. [Inyanga](/npcs/inyanga/) is actually Laibon, not Gangrel. The distinction matters to those who know it, and Lucian knows it. The docklands are the entry point; Gary is the staging ground.
 

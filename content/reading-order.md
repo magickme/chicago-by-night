@@ -164,7 +164,7 @@ Published scenes from **Chicago Chronicles** in chronological order.
 
 *Chicago, Illinois. 1991. The coterie arrives as Modius's emissaries. The Prince is missing. The machine is bigger than anything Gary prepared them for.*
 
-### Pawns in the Game — Pawns in the Game
+### Chapter 2 — Pawns in the Game
 
 *Oct 15, 1969, 7:00 PM through Oct 18, 1969, 7:00 PM.*
 
@@ -193,6 +193,12 @@ Published scenes from **Chicago Chronicles** in chronological order.
 | # | Scene | PC | Date |
 |---|---|---|---|
 | 63 | [Hell's Pasture](/posts/hells-pasture/) | Darius + Sable | Jan 4, 1991, 4:28 PM |
+
+### Chapter 4 — King's Game
+
+| # | Scene | PC | Date |
+|---|---|---|---|
+| 64 | [Appetite](/posts/appetite/) | Sable | Jan 6, 1991, 4:28 PM |
 
 ---
 

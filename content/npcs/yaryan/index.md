@@ -27,7 +27,7 @@ Soon the tide turned. Unable to defeat the overwhelming technology of their enem
 
 Defeated and without hope, the tribe left the area, but left Shining Deer and the Pale Wolf behind to find a place of safety where the Pale Wolf could recover. For more than a century Shining Deer stayed with the Pale Wolf, protecting him from all harm. He stayed apart from the city which grew up around him and only ventured forth for the Vitae he needed.
 
-Then visitors came seeking the Pale Wolf. They wanted to kill him — who they called [Menele](/npcs/menele/) — to become even more powerful. Horrified, Shining Deer drove the newcomers from his Haven, but not before they told him how Menele and his ancient Jyhad had been responsible for the destruction of his tribe.
+Then visitors came seeking the Pale Wolf. They wanted to kill him — who they called [Menele](/npcs/menele/) — to become even more powerful. Horrified, Shining Deer drove the newcomers from his Haven, but not before they told him how [Menele](/npcs/menele/) and his ancient Jyhad had been responsible for the destruction of his tribe.
 
 Shining Deer moved Menele to a new hiding place and began to meditate. The more he thought about it, the more he decided the visitors had been correct. Then he found that something prevented him from acting on this new knowledge — the Vampire he had guarded for so long held a bond over him. Extremely bitter, he decided only a complete break with what he had been could lead to freedom.
 

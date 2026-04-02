@@ -51,7 +51,7 @@ What drove him wasn't greed or anger. It was architecture. He wanted to *build* 
 
 [Chuc Luc](/npcs/chuc-luc/) found Darius through the money.
 
-The wholesaler in Chicago Heights — the one Darius never got a real name from — turned out to be one of the tributaries in Chuc Luc's laundering network. When the wholesaler's books showed a consistent, clean, low-profile operation moving $8,000 a month through a rust belt pawnshop circuit, Chuc Luc sent someone to find out who was behind it. The answer came back: a twenty-five-year-old Black kid from Midtown Gary who had never been arrested, never bragged, and never once asked the wholesaler a personal question.
+The wholesaler in Chicago Heights — the one Darius never got a real name from — turned out to be one of the tributaries in [Chuc Luc](/npcs/chuc-luc/)'s laundering network. When the wholesaler's books showed a consistent, clean, low-profile operation moving $8,000 a month through a rust belt pawnshop circuit, Chuc Luc sent someone to find out who was behind it. The answer came back: a twenty-five-year-old Black kid from Midtown Gary who had never been arrested, never bragged, and never once asked the wholesaler a personal question.
 
 The first meeting was in the back of a Vietnamese restaurant on Argyle Street in Chicago's New [Chinatown](/locations/chinatown/). A small man in a cheap suit sat across from Darius, smiled too wide, and spoke English with a thick accent that made him sound like someone's confused uncle. He asked Darius three questions: *What do you want? What would you do to get it? And what won't you do?*
 
@@ -103,7 +103,7 @@ The answer he gives anyone who asks: "I just want to survive, sir."
 
 ## Voice
 
-> *At Modius's court, when asked his opinion on the Anarch situation:*
+> *At [Modius](/npcs/modius/)'s court, when asked his opinion on the Anarch situation:*
 > "I don't have opinions on things above my station, Your Grace. I have observations. If you'd find those useful, I'm here."
 
 > *When a Brujah Anarch tries to recruit him:*

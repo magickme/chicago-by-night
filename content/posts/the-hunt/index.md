@@ -18,7 +18,7 @@ Reva's bar didn't have a name. It had a Hamm's sign in the window and a painted 
 
 The man at the bar wore a blue work polo with DALE embroidered over the pocket. Mid-thirties, built the way men were built in Gary, forearms and no definition, the kind of body that came from lifting things heavier than himself for money that was never enough. Wedding ring. An upside-down shot glass next to his Budweiser, which meant he'd been here long enough to have a history with the evening. He hadn't looked up yet.
 
-She took the table by the window. Ordered a beer she wouldn't drink. Crossed her legs and didn't look at him, which was the looking -- the negative space of attention that her face turned into gravity. The fan clicked on every rotation. The game show audience laughed. Dale looked up when Reva walked past him, and then his eyes found Sable because she was the only new thing in the room, and he looked away, and he drank, and he looked again.
+She took the table by the window. Ordered a beer she wouldn't drink. Crossed her legs and didn't look at him, which was the looking -- the negative space of attention that her face turned into gravity. The fan clicked on every rotation. The game show audience laughed. Dale looked up when Reva walked past him, and then his eyes found [Sable](/sable-price/) because she was the only new thing in the room, and he looked away, and he drank, and he looked again.
 
 He came to the table with both bottles -- the fresh one and the dead one, because he bused his own empties, because that was who Dale was, a man who cleaned up after himself even when he was three beers into a Saturday night and his wife was wherever his wife was.
 
@@ -50,11 +50,11 @@ Pete called from a payphone at 10:15. She's there. At the piano. Been back since
 
 DeShawn twelve minutes later. Mansion quiet. One car, [Modius](/npcs/modius/)'s Lincoln. Lights downstairs.
 
-The Torch on a Saturday was sixty bodies and Motown bass and cigarette smoke thick enough to taste. [Victor](/npcs/victor-salonika/) behind the bar gave her the nod and nothing else. She took a stool at the dark end and ordered a whiskey she wouldn't touch and watched [Allicia](/npcs/allicia/) play through the gaps between shoulders and raised glasses and the backs of men who didn't know what was ten feet from them.
+[The Torch](/locations/the-torch/) on a Saturday was sixty bodies and Motown bass and cigarette smoke thick enough to taste. [Victor](/npcs/victor-salonika/) behind the bar gave her the nod and nothing else. She took a stool at the dark end and ordered a whiskey she wouldn't touch and watched [Allicia](/npcs/allicia/) play through the gaps between shoulders and raised glasses and the backs of men who didn't know what was ten feet from them.
 
 [Allicia](/npcs/allicia/) in white. Hair pinned up. Playing something slow and minor-key that lived underneath the jukebox like a second conversation nobody else could hear. Her fingers hesitated on a chord when Sable walked in, and that hesitation said everything about who she'd been waiting for.
 
-Three songs. A man tried to buy Sable a drink and she smiled him away. The jukebox played Bobby Brown and the piano disappeared under it. Allicia closed the fallboard with both hands and walked toward the back hallway without looking at her.
+Three songs. A man tried to buy Sable a drink and she smiled him away. The jukebox played Bobby Brown and the piano disappeared under it. [Allicia](/npcs/allicia/) closed the fallboard with both hands and walked toward the back hallway without looking at her.
 
 Sable gave it thirty seconds and followed.
 

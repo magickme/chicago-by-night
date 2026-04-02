@@ -49,9 +49,9 @@ Nobody ever did.
 
 ## The Embrace
 
-[Michael](/npcs/michael/) Payne was painting again. That was how it always started with him — a burst of creative obsession that lasted weeks or months and ended when Sharon destroyed whatever he'd made.
+[Michael](/npcs/michael/) Payne was painting again. That was how it always started with him — a burst of creative obsession that lasted weeks or months and ended when [Sharon](/npcs/sharon-payne/) destroyed whatever he'd made.
 
-He found Sable at The Oasis on a Tuesday in November 1988. She wasn't the best dancer on the stage. She was the one you couldn't stop watching. Michael sketched her for three hours. He offered her money to sit for him. Not sex. Just sit. She said yes because the money was good and because he didn't look at her the way Big Six looked at her. He looked at her the way a man looks at a painting he wants to buy. Which was, she would later understand, exactly the same thing, just more expensive.
+He found Sable at The Oasis on a Tuesday in November 1988. She wasn't the best dancer on the stage. She was the one you couldn't stop watching. [Michael](/npcs/michael/) sketched her for three hours. He offered her money to sit for him. Not sex. Just sit. She said yes because the money was good and because he didn't look at her the way Big Six looked at her. He looked at her the way a man looks at a painting he wants to buy. Which was, she would later understand, exactly the same thing, just more expensive.
 
 Three weeks of painting sessions in his haven in Roselle — oil paints and turpentine and classical music, a world so different from the Robert Taylor Homes that Sable felt like she'd stepped through a screen into a movie. He didn't touch her. He talked about art, about beauty, about the way certain people had a quality that transcended their circumstances. She didn't know what he was. She knew he wasn't normal. He never ate. He was cold to the touch. His house had no mirrors.
 

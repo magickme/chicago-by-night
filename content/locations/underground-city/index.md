@@ -21,7 +21,7 @@ ShowToc: false
 
 - Not a single tunnel but a network of connected spaces built over decades. Some sections are polished marble concourses with fluorescent lighting and retail storefronts. Others are raw concrete service corridors where the lights flicker and the air tastes like standing water.
 - The populated sections carry half a million mortal commuters during business hours. After the metro closes at 1:30 AM, the corridors empty in stages — the mall sections first, then the metro platforms, then the service tunnels where only maintenance workers and the dead have business.
-- Deeper than the official maps show. Utility conduits, abandoned construction staging areas, sealed-off metro tunnels from route changes, Véronique's purpose-built Sabbat maintenance corridors. Elias knows these spaces. Most others don't.
+- Deeper than the official maps show. Utility conduits, abandoned construction staging areas, sealed-off metro tunnels from route changes, Véronique's purpose-built Sabbat maintenance corridors. [Elias](/npcs/elias-the-whale/) knows these spaces. Most others don't.
 
 ## Function in Play
 

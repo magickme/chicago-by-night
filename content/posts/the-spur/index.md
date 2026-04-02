@@ -24,7 +24,7 @@ Inside the air tasted like wet denim and Budweiser. Somebody had put the dead ma
 
 Twenty-two years on the mill floor. Let go three months before his pension vested. A lien on the house and a truck he'd sold to pay for knee surgery and forty minutes on the CTA to say goodbye to a man who died doing the job they'd taken from him. [Darius](/darius-cole/) bought him a drink and sat across from him and listened to the math of a life that didn't add up anymore, and when they walked outside together into the seventeen-degree dark, Walt didn't question the hand on his shoulder or the turn toward the gap between the dumpster and the cinder-block wall.
 
-The blood came in three pulls. Copper and rye and the metallic residue of decades spent breathing particulate from the number six cold mill. The debt was in it -- the house, the knees, the bus ride, the ring on a chain instead of a finger. The Ventrue palate opened and said yes. Walt sagged against the wall with the expression of a man having the best dream of his worst year, and Darius wiped his mouth and walked back to the Cutlass and sat in the driver's seat for thirty seconds, tasting bourbon through dead veins, before he turned the key.
+The blood came in three pulls. Copper and rye and the metallic residue of decades spent breathing particulate from the number six cold mill. The debt was in it -- the house, the knees, the bus ride, the ring on a chain instead of a finger. The Ventrue palate opened and said yes. Walt sagged against the wall with the expression of a man having the best dream of his worst year, and [Darius](/darius-cole/) wiped his mouth and walked back to the Cutlass and sat in the driver's seat for thirty seconds, tasting bourbon through dead veins, before he turned the key.
 
 The rail spur branched off the main line two hundred yards past the container stacks. The waymarker was still on the switching post. Circle with a vertical line. Gangrel script. Claimed ground.
 
@@ -44,7 +44,7 @@ He put his hands in the pockets of the overcoat. Patient. A man settling in for 
 
 "I don't know the shape of it. I'd rather be useful to you than interesting to the people I report to."
 
-Darius leaned against the Cutlass. Crossed his arms. Let his eyes go slightly wide. The Conformist mask -- attentive, a little overwhelmed, the twelfth-generation nobody trying to keep up. He asked the questions a confused neonate would ask. How does that work. Is [Modius](/npcs/modius/) aware. What happens if the report says something they don't like. Each answer Horace gave was another card shown, another minute invested, another step deeper into a conversation the man from Chicago couldn't walk away from empty-handed.
+Darius leaned against the Cutlass. Crossed his arms. Let his eyes go slightly wide. The Conformist mask -- attentive, a little overwhelmed, the twelfth-generation nobody trying to keep up. He asked the questions a confused neonate would ask. How does that work. Is [Modius](/npcs/modius/) aware. What happens if the report says something they don't like. Each answer [Horace](/npcs/horace/) gave was another card shown, another minute invested, another step deeper into a conversation the man from Chicago couldn't walk away from empty-handed.
 
 And while Horace talked, Darius watched the cracks.
 
@@ -120,7 +120,7 @@ At eleven the phone rang.
 
 "It's me," [Sable](/sable-price/) said.
 
-The voice was wrong. Not the pitch, not the words. The control. Sable's voice was always calibrated -- the Toreador instrument tuned for whatever room she occupied. Tonight it was flat. Stripped back to the studs. The spaces between her words were too wide, like she was pulling each one from a well that was almost dry.
+The voice was wrong. Not the pitch, not the words. The control. [Sable](/sable-price/)'s voice was always calibrated -- the Toreador instrument tuned for whatever room she occupied. Tonight it was flat. Stripped back to the studs. The spaces between her words were too wide, like she was pulling each one from a well that was almost dry.
 
 "You sound like you need to hunt, boo."
 
@@ -132,7 +132,7 @@ The voice was wrong. Not the pitch, not the words. The control. Sable's voice wa
 
 He told her about Hennessey's. The funeral crowd. Easy room, easy marks. She accepted the recommendation without redirecting it, which told him more about how bad it was than anything she'd said.
 
-Then the threads. [Allicia](/npcs/allicia/) down to Wednesdays only, new driver, Modius calling [the Torch](/locations/the-torch/) three times in one night. The Oldsmobile gone since October, trail cold. Denise's message sitting in September like something with a half-life. The ghouls holding, the blood math not working, the Beast getting louder in the silences between her sentences.
+Then the threads. [Allicia](/npcs/allicia/) down to Wednesdays only, new driver, [Modius](/npcs/modius/) calling [the Torch](/locations/the-torch/) three times in one night. The Oldsmobile gone since October, trail cold. Denise's message sitting in September like something with a half-life. The ghouls holding, the blood math not working, the Beast getting louder in the silences between her sentences.
 
 Then the invitation. Cream cardstock. Wax seal. Every Kindred in Gary walking through the same door on the same night.
 

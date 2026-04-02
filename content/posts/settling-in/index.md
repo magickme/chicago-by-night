@@ -3,7 +3,7 @@ title: "Settling In"
 date: 1969-10-17T07:14:00
 lastmod: 2026-04-01
 tags: ["ashes-to-ashes", "flashback", "roarke", "vtm", "ashes-and-blood", "london"]
-categories: ["Pawns in the Game"]
+categories: ["Chapter 2 — Pawns in the Game"]
 description: "Heathrow customs, a Mesmerize on a man named Harvey, and a phone call to a Queen. The theatre district is off limits."
 ---
 
@@ -24,7 +24,7 @@ He said it the way a dentist says *open wide.*
 
 Concrete walls. No windows. The brass fittings stopped catching anything.
 
-Harvey came back. Five suitcases for four visible people. He opened them one by one and asked who they belonged to. [Lodin](/npcs/lodin/)'s was the blue one -- wrong size for everyone here. Roarke said it was clothes [Amber](/npcs/amber/) packed for her father in Kensington. Amber, still catching her breath on a folding chair, nodded. Dad's hopeless about shopping for himself, she said. Harvey checked the manifest. There was a large wooden chest listed. Where was it?
+Harvey came back. Five suitcases for four visible people. He opened them one by one and asked who they belonged to. [Lodin](/npcs/lodin/)'s was the blue one -- wrong size for everyone here. [Roarke](/npcs/roarke/) said it was clothes [Amber](/npcs/amber/) packed for her father in Kensington. [Amber](/npcs/amber/), still catching her breath on a folding chair, nodded. Dad's hopeless about shopping for himself, she said. Harvey checked the manifest. There was a large wooden chest listed. Where was it?
 
 Roarke lied. Harvey didn't buy it. He started walking toward the alcove.
 
@@ -40,7 +40,7 @@ The hotel was in Mayfair. Cream stone, brass revolving door, a doorman in a grey
 
 Roarke called the Queen of London's people from the room phone. Two rings. Three. A warm British voice: *Your business, please?*
 
-He gave his name. Lodin's name. Chicago. Formally requested acceptance on the Camarilla's best terms and feeding permission prior to the evening's meeting with Her Highness.
+He gave his name. [Lodin](/npcs/lodin/)'s name. Chicago. Formally requested acceptance on the Camarilla's best terms and feeding permission prior to the evening's meeting with Her Highness.
 
 A pause -- the kind where someone is choosing between several available responses.
 

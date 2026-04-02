@@ -31,7 +31,7 @@ Where Milwaukee ends and Lupine territory begins. The Outlands are the suburban 
 
 ## Who Controls It
 
-- The Anubi hold the line. Decker commands, [Gerhieren](/npcs/thomas-gerhieren/) coordinates, [Calvin](/npcs/julia-calvin/) scouts.
+- The Anubi hold the line. [Decker](/npcs/mark-decker/) commands, [Gerhieren](/npcs/thomas-gerhieren/) coordinates, [Calvin](/npcs/julia-calvin/) scouts.
 - The Lupine packs control the territory beyond the patrol perimeter. The **Coyote Pack** presses from the west and northwest. The **Eagle Pack** pushes from the north. The **Mouse Pack** watches the south and southeast.
 - [Hrothulf](/npcs/hrothulf/) holds his compound by force of will and explosives. He fights the siege from his suburban fortress.
 - The Primogen Council officially acknowledges the Outlands as Kindred territory. Practically, they send nothing to defend it.

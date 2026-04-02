@@ -28,7 +28,7 @@ The clipboard was on the dispatch desk, half-buried under a manifest for scrap s
 
 [Lucian](/npcs/lucian/)'s containers.
 
-Darius took out the pocket notepad he'd carried since he was sixteen — the same brand, always the same brand, a Field Notes memo book from the art supply store on Broadway that somehow hadn't closed yet — and copied everything. The date, the dock number, the code. He put the clipboard back exactly where he'd found it, angled the same way, the manifest on top. Then he walked to Dock 7.
+[Darius](/darius-cole/) took out the pocket notepad he'd carried since he was sixteen — the same brand, always the same brand, a Field Notes memo book from the art supply store on Broadway that somehow hadn't closed yet — and copied everything. The date, the dock number, the code. He put the clipboard back exactly where he'd found it, angled the same way, the manifest on top. Then he walked to Dock 7.
 
 It was the last berth on the east end, tucked behind a corrugated warehouse whose loading door hadn't opened in years. Out of sightline from the main office. Out of sightline from the road. Someone had chosen this spot the way Darius would have chosen it — not for convenience but for privacy.
 
@@ -80,7 +80,7 @@ Ray flinched at the cold that came off Darius's body — they always did, the mo
 
 "Birch! Hey — hey, happy New Year, man. Sit down. You want a Schlitz? Eddie, get this man a Schlitz."
 
-Darius didn't want a Schlitz. Darius wanted what was behind Ray's eyes, which he could read the way a jeweler reads a setting: wife gone since October, kid stopped calling, crew drinking near him but not with him. The debts were the symptom. The loneliness was the disease. [Ray Pulaski](/npcs/ray-pulaski/) didn't need money. Ray Pulaski needed someone to need him.
+Darius didn't want a Schlitz. Darius wanted what was behind Ray's eyes, which he could read the way a jeweler reads a setting: wife gone since October, kid stopped calling, crew drinking near him but not with him. The debts were the symptom. The loneliness was the disease. [Ray Pulaski](/npcs/ray-pulaski/) didn't need money. [Ray Pulaski](/npcs/ray-pulaski/) needed someone to need him.
 
 Darius listened for eleven minutes. He knew because he counted. Ray talked about the holidays, about shift cuts in January, about the weather, about the Steelers. Darius nodded and didn't drink the Schlitz and waited for the seam in the conversation — the place where the casual became the vulnerable, where the talking-to-talk became the talking-because-you-can't-stop.
 
@@ -108,7 +108,7 @@ Then he drove home.
 
 ---
 
-The haven was a ground-floor apartment on the west side — blackout curtains, steel door, a phone line [Chuc Luc](/npcs/chuc-luc/) had set up and Darius suspected Chuc Luc could tap whenever he wanted. He sat at the kitchen table with his notepad and a cup of coffee he wouldn't drink and wrote down everything.
+The haven was a ground-floor apartment on the west side — blackout curtains, steel door, a phone line [Chuc Luc](/npcs/chuc-luc/) had set up and Darius suspected [Chuc Luc](/npcs/chuc-luc/) could tap whenever he wanted. He sat at the kitchen table with his notepad and a cup of coffee he wouldn't drink and wrote down everything.
 
 January 14. Dock 7. Three unmarked containers, initials L.C. Two gates — south service gate the best entry. Guard shack manned on normal nights, unmanned on holidays. Camera on the main gate, fogged lens, dead cable. Sal Petrocelli, bookie, dispatch office, fronted by Chicago Heights. Stevedores in debt — leverage available for purchase.
 

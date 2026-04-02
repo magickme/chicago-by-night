@@ -22,13 +22,13 @@ He pulled to the curb. Cut the engine.
 
 She came out of the alley mouth like a woman leaving a room she shouldn't have been in. Young. Black leather jacket over jeans and boots that had seen weather. She was wiping her mouth with the back of her hand, and the gesture was the tell -- the unconscious confession of someone who hadn't learned yet that the blood dries fast and the evidence is in the behavior, not the residue. She looked left, looked right, didn't see the Cutlass in the dark, and started walking north on Broadway with the raw momentum of someone who didn't know where safety was but knew the direction.
 
-He'd never seen her before. Not at [Modius](/npcs/modius/)'s court. Not at the Torch on the nights [Allicia](/npcs/allicia/) played. Not in any room where Gary's seven Kindred acknowledged each other's existence. But the blood knew what she was, and her predatory aura was sloppy -- broadcasting like a station that hadn't learned to modulate, wide open, a signal that said *new* and *careless* and *alive in the way that gets people killed*.
+He'd never seen her before. Not at [Modius](/npcs/modius/)'s court. Not at [the Torch](/locations/the-torch/) on the nights [Allicia](/npcs/allicia/) played. Not in any room where Gary's seven Kindred acknowledged each other's existence. But the blood knew what she was, and her predatory aura was sloppy -- broadcasting like a station that hadn't learned to modulate, wide open, a signal that said *new* and *careless* and *alive in the way that gets people killed*.
 
 Behind her, in the alley, someone was making a sound that belonged to neither pain nor pleasure. The aftermath of the Kiss, when the ecstasy ebbs and the body remembers it has a hole in it.
 
 [Darius](/darius-cole/) let the girl walk. He counted to ten. Then he turned the key without catching the engine, released the column, and let the Cutlass roll north on Broadway's slight grade with the headlights dark and gravity doing the work.
 
-She moved fast. Not running -- walking with the kind of speed that came from a blood that wanted to run and a mind that knew better. Past the check-cashing storefront with its steel grate. Past the liquor store where the Hamm's sign buzzed. Two blocks north she cut west on Fifteenth and Darius keyed the ignition and followed with the lights still off, a dark car on a dark street, the engine noise swallowed by the distance he kept.
+She moved fast. Not running -- walking with the kind of speed that came from a blood that wanted to run and a mind that knew better. Past the check-cashing storefront with its steel grate. Past the liquor store where the Hamm's sign buzzed. Two blocks north she cut west on Fifteenth and [Darius](/darius-cole/) keyed the ignition and followed with the lights still off, a dark car on a dark street, the engine noise swallowed by the distance he kept.
 
 Fifteenth was residential and empty. Chain-link fences. Porch lights, mostly dead. She turned south on Adams and he lost her for eight seconds behind a frame house with a collapsed porch. When she reappeared she was crossing the rail spur -- the same rail spur where a Gangrel waymarker was cut into the post, the circle and vertical line that meant *claimed ground* -- and heading into the industrial belt.
 
@@ -66,7 +66,7 @@ The drive to [Modius](/npcs/modius/)'s mansion took eleven minutes. He used ever
 
 [Victor](/npcs/victor-salonika/) opened the door. The house smelled like wood polish and radiant heat and the accumulated silence of four centuries of a man who owned rooms he'd stopped entering.
 
-Modius was in the study. The lamplight found his jaw, his silver hair, his hands on the chair arms. Darius stood inside the door and gave him the minimum: found a feeding victim in the Torch alley. Fresh wound, male, mortal. Cleaned it. Sealed the wound, rewrote the memory. Sloppy but not savage. Didn't see who fed.
+[Modius](/npcs/modius/) was in the study. The lamplight found his jaw, his silver hair, his hands on the chair arms. Darius stood inside the door and gave him the minimum: found a feeding victim in the Torch alley. Fresh wound, male, mortal. Cleaned it. Sealed the wound, rewrote the memory. Sloppy but not savage. Didn't see who fed.
 
 The lie lived in the last sentence and it sat between them in the warm air like a coin on a table.
 
@@ -76,13 +76,13 @@ Modius repeated it. "You didn't see who did it." Not a question. A repetition --
 
 The silence lasted four seconds. Modius processed it the way he processed everything -- through the architecture of expectation, where loyalty was load-bearing and initiative was either a gift or a threat depending on whether it arrived with answers or questions.
 
-"Victor will note it. If this feeder returns, I expect you to bring me more than a cleanup."
+"[Victor](/npcs/victor-salonika/) will note it. If this feeder returns, I expect you to bring me more than a cleanup."
 
 "Understood."
 
 The lamp hummed. The dismissal was in the air before it was in the gesture. Darius left through Victor, through the door, into December.
 
-He sat in the Cutlass and ran the ledger. An unauthorized Kindred in Juggler's haven. A sloppy feed cleaned without cost. A Prince who appreciated the cleanup and expected the next delivery. A feeling near a van on Adams that he couldn't name and wouldn't forget, filed under the architecture that held everything except the six seconds when the architecture broke and the thing underneath said *go* and he listened.
+He sat in the Cutlass and ran the ledger. An unauthorized Kindred in [Juggler](/npcs/juggler/)'s haven. A sloppy feed cleaned without cost. A Prince who appreciated the cleanup and expected the next delivery. A feeling near a van on Adams that he couldn't name and wouldn't forget, filed under the architecture that held everything except the six seconds when the architecture broke and the thing underneath said *go* and he listened.
 
 The heater caught. The cab warmed. Darius drove home through streets that were empty in the way Gary's streets were always empty -- not the emptiness of absence but the emptiness of everyone being inside with the doors locked, which was a different kind of full.
 

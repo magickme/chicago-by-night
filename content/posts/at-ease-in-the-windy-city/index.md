@@ -3,7 +3,7 @@ title: "At Ease in the Windy City"
 date: 1969-10-15T19:00:00
 lastmod: 2026-04-01
 tags: ["ashes-to-ashes", "flashback", "roarke", "vtm", "ashes-and-blood", "chicago"]
-categories: ["Pawns in the Game"]
+categories: ["Chapter 2 — Pawns in the Game"]
 description: "Sixty-one years of service. A crate the shape of what it is. The Prince says London like he means war."
 ---
 
@@ -20,29 +20,29 @@ Four people. His people, in the way that borrowed things become yours through lo
 
 The protests filled the screen. Students. Mothers with photographs. A priest with a bullhorn. [Derek](/npcs/derek-gallen/) said something about Inchon, about rifles, about kids who wouldn't last a week. [Roarke](/npcs/roarke/) stood by the set with his arms folded and said something about the collapse of Western civilization. He didn't mean it. He didn't not mean it. After sixty-one years the words that came out of his mouth were the words the room expected, and the distance between those words and what he thought had become so wide he'd stopped trying to measure it.
 
-[Natasha](/npcs/natasha/) said the state had tanks and these people had guitars. She was right, which was the worst thing about Natasha. [Amber](/npcs/amber/) came in with her wooden spoon and said she'd been at Daley Plaza. Nuns, she said. Actual nuns. [Julian](/npcs/julian-curry/) noted the Dow had dropped six points. Amber went back to the kitchen.
+[Natasha](/npcs/natasha/) said the state had tanks and these people had guitars. She was right, which was the worst thing about [Natasha](/npcs/natasha/). [Amber](/npcs/amber/) came in with her wooden spoon and said she'd been at Daley Plaza. Nuns, she said. Actual nuns. [Julian](/npcs/julian-curry/) noted the Dow had dropped six points. [Amber](/npcs/amber/) went back to the kitchen.
 
 The intercom buzzed. Herman. A package. Very large.
 
-Roarke took Derek downstairs. The lobby was marble and brass and a delivery driver named Harold who wanted to go home. The crate was seven feet long and three feet wide and shaped like exactly what it was shaped like. Two addresses on the label -- billing to the suite, delivery to a warehouse at O'Hare. Wrong destination. Harold wanted a signature. Harold wanted his pot roast.
+[Roarke](/npcs/roarke/) took [Derek](/npcs/derek-gallen/) downstairs. The lobby was marble and brass and a delivery driver named Harold who wanted to go home. The crate was seven feet long and three feet wide and shaped like exactly what it was shaped like. Two addresses on the label -- billing to the suite, delivery to a warehouse at O'Hare. Wrong destination. Harold wanted a signature. Harold wanted his pot roast.
 
 Roarke signed. Sent Derek to O'Hare with the crate and the Cutlass and instructions to keep his mouth shut. Then thirty-two floors of Mantovani back to the suite, where everything was the same as he'd left it except the light outside had gone grey and the lake wind had picked up.
 
 Twenty minutes later someone knocked on the door. Hard. Three times.
 
-Natasha had the Walther before the echo died. Julian's newspaper became a prop. Roarke went to the door and asked for a name.
+Natasha had the Walther before the echo died. [Julian](/npcs/julian-curry/)'s newspaper became a prop. Roarke went to the door and asked for a name.
 
 [Belthazar](/npcs/belthazar/). Ventrue. One of the Prince's Eyes -- the upper-class districts, the cushy beat. Roarke knew the name from the roster. He opened the door.
 
 The Kindred filled the doorway. Charcoal overcoat, dark hair swept back, eyes that looked at mortals the way a man looks at furniture he's considering replacing. He walked past Roarke muttering about a crazy Malkavian bitch and her unsanctioned Embrace. Demanded to see the Prince. Roarke went to the vault door and knocked. [Lodin](/npcs/lodin/) told him to be silent. Five minutes passed. The vault opened.
 
-Lodin stepped out. Not tall. Not physically imposing. A dark suit that fit like it was born on him and eyes that were old in a way that had nothing to do with the face. Roarke's name as an accusation: one word.
+[Lodin](/npcs/lodin/) stepped out. Not tall. Not physically imposing. A dark suit that fit like it was born on him and eyes that were old in a way that had nothing to do with the face. Roarke's name as an accusation: one word.
 
 Roarke said: unauthorized Embrace. Lodin's annoyance left his face like water off marble.
 
 Good judgment, Roarke. Show him to the library.
 
-The library door closed. [Belthazar](/npcs/belthazar/)'s voice came through anyway -- shouting about permitting the Embrace, about severity, about precedent. Lodin's silence was worse than any answer. Then the library door flew open and Belthazar crossed the suite in four strides, coat flaring. Muttering: owes her something, he says. Phahhh. Owes her nothing.
+The library door closed. [Belthazar](/npcs/belthazar/)'s voice came through anyway -- shouting about permitting the Embrace, about severity, about precedent. Lodin's silence was worse than any answer. Then the library door flew open and [Belthazar](/npcs/belthazar/) crossed the suite in four strides, coat flaring. Muttering: owes her something, he says. Phahhh. Owes her nothing.
 
 The front door slammed hard enough to rattle the liquor cabinet. Lodin called Roarke into the library and told him about London.
 

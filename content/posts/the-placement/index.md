@@ -28,7 +28,7 @@ Three phone calls compressed into forty minutes. [Darius](/darius-cole/) to [Jug
 
 The problem underneath the problem: Warren Birch needed to exist. Not as a name on a filing — as a body in a chair, a man who could sit across from [Shepard](/npcs/william-shepard/) and say *I bought a bar in Gary because the price was right* and bore the agent into closing the file.
 
-Darius said a name. Marcus Webb. His right hand in Chicago, the man who filed the paperwork, the man who'd already noticed his boss sounded different and was asking the kind of questions that ended in answers nobody could afford. Sable heard what Darius was proposing underneath the logistics — the Dominate word, the Conditioning word, the particular Ventrue architecture that turned a person's identity into a building you could renovate. Webb would come to Gary and Webb would stop being Webb and Warren Birch would sit in a chair and answer questions because the man behind his eyes had been remodeled by a vampire who treated other people's minds the way a general contractor treats drywall.
+[Darius](/darius-cole/) said a name. Marcus Webb. His right hand in Chicago, the man who filed the paperwork, the man who'd already noticed his boss sounded different and was asking the kind of questions that ended in answers nobody could afford. [Sable](/sable-price/) heard what Darius was proposing underneath the logistics — the Dominate word, the Conditioning word, the particular Ventrue architecture that turned a person's identity into a building you could renovate. Webb would come to Gary and Webb would stop being Webb and Warren Birch would sit in a chair and answer questions because the man behind his eyes had been remodeled by a vampire who treated other people's minds the way a general contractor treats drywall.
 
 She said *do it* because the alternative was worse and the arithmetic at Humanity 5 didn't require deliberation.
 
@@ -46,11 +46,11 @@ He was standing at the window. Not sitting. The difference mattered. Sitting was
 
 "Tell me about [Allicia](/npcs/allicia/)."
 
-She told him. The calibrated report — painting, his name mentioned three times, the detail about the lake that she'd invented because it sounded like the kind of thing [Modius](/npcs/modius/) wanted to hear, and it was the kind of thing Modius wanted to hear, and the fact that she could predict his desire that precisely was either a skill or a symptom of having spent too long inside his orbit.
+She told him. The calibrated report — painting, his name mentioned three times, the detail about the lake that she'd invented because it sounded like the kind of thing [Modius](/npcs/modius/) wanted to hear, and it was the kind of thing [Modius](/npcs/modius/) wanted to hear, and the fact that she could predict his desire that precisely was either a skill or a symptom of having spent too long inside his orbit.
 
 He accepted it the way he accepted everything — by not rejecting it, which for Modius was enthusiasm.
 
-Then the pivot. Victor had called. The federal agent. The name. Warren Birch. Modius watching her face for the reaction, not because he suspected her but because he needed to see competence in the room, needed to know that someone standing in front of him had the situation mapped.
+Then the pivot. [Victor](/npcs/victor-salonika/) had called. The federal agent. The name. Warren Birch. Modius watching her face for the reaction, not because he suspected her but because he needed to see competence in the room, needed to know that someone standing in front of him had the situation mapped.
 
 She gave him the answer she'd built on a payphone forty minutes ago: Birch is handling it, documentation in progress, a mortal representative, two to three weeks, the file closes. She delivered it flat, the way you deliver information you're certain of, and the certainty was real because everything she said was true and the lie was structural, not verbal — it lived in what she left out, not in what she said.
 
@@ -88,7 +88,7 @@ The IV bag hung from a nail in the wall where a painting used to be. Sable watch
 
 And the one thing keeping the flame lit — the only thing — was the heartbeat on the mattress ten feet away. The one face she'd seen that wasn't holding a chain.
 
-Keisha said it plainly: [Ms. Okonkwo](/npcs/ms-okonkwo/), four houses from her grandmother's, green door, twenty years of fostering kids the system forgot. Cash. No paperwork. A room with a bed and a window and a person who'd be there during the day, when it was light, when the sounds outside were normal sounds.
+[Keisha](/npcs/keisha-williams/) said it plainly: [Ms. Okonkwo](/npcs/ms-okonkwo/), four houses from her grandmother's, green door, twenty years of fostering kids the system forgot. Cash. No paperwork. A room with a bed and a window and a person who'd be there during the day, when it was light, when the sounds outside were normal sounds.
 
 Sable called Darius. He came.
 

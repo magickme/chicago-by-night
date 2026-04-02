@@ -3,7 +3,7 @@ title: "Welcome to Chicago — Tuesday, 1 January 1991, 4:28 PM"
 date: 1991-01-01T16:28:00
 lastmod: 2026-03-30
 tags: ["ashes-to-ashes", "darius", "sable", "vtm", "ashes-and-blood", "chicago"]
-categories: ["Act II — Ashes to Ashes"]
+categories: ["Chapter 1 — Ashes to Ashes"]
 description: "Two Black vampires from a dying city drive twenty-five minutes down the Skyway into a living one. The Succubus Club is empty. The Prince is a fraud. The helicopter is late."
 ---
 
@@ -28,11 +28,11 @@ The [Succubus Club](/locations/succubus-club/) was on State Street, near the Rus
 
 They were the only Black faces in the room. [Darius](/darius-cole/) clocked it the way he clocked exits and sight lines — information, not grievance. A data point that informed every subsequent calculation. The Near North Side at night was white. The club was white. The music was white. In Gary the anxiety was violence and territory. Here the anxiety was visibility, the particular weight of being measured before you opened your mouth. Neither of them said anything. They looked at each other and the thought passed between them like a current through a wire and then they went to work.
 
-[Gengis](/npcs/gengis/) was on the dance floor. Shaved head, safety pin through his nose, black leather and studs, slamming around with three mortal friends to music that didn't match the violence of his movement. Brujah. Young. His Auspex was running like a searchlight — he read auras the way Darius read balance sheets, constantly and without asking.
+[Gengis](/npcs/gengis/) was on the dance floor. Shaved head, safety pin through his nose, black leather and studs, slamming around with three mortal friends to music that didn't match the violence of his movement. Brujah. Young. His Auspex was running like a searchlight — he read auras the way [Darius](/darius-cole/) read balance sheets, constantly and without asking.
 
 Sir was in a booth with three drunk lawyers, flushed red with too much blood, the English accent worn smooth by a century but never erased. He remembered them from Gary. Nobody sees [Lodin](/npcs/lodin/), he said. Go through his man. Talk to [Horace](/npcs/horace/) at The [Cave](/npcs/hank-cave/).
 
-[Gengis](/npcs/gengis/) approached after Sir's intelligence dried up. He walked like he owned the floor. Darius stood up out of the booth — not fast, not aggressive, just a man establishing the geometry of a conversation. Gengis ran his Auspex. Darius held. Whatever the Brujah saw, it was enough. The testing dropped. He had a meeting. A place called [the Brewery](/locations/the-brewery/). Three in the morning. He said it like a dare, then walked away without selling it.
+[Gengis](/npcs/gengis/) approached after Sir's intelligence dried up. He walked like he owned the floor. Darius stood up out of the booth — not fast, not aggressive, just a man establishing the geometry of a conversation. [Gengis](/npcs/gengis/) ran his Auspex. Darius held. Whatever the Brujah saw, it was enough. The testing dropped. He had a meeting. A place called [the Brewery](/locations/the-brewery/). Three in the morning. He said it like a dare, then walked away without selling it.
 
 ---
 
@@ -40,7 +40,7 @@ Sir was in a booth with three drunk lawyers, flushed red with too much blood, th
 
 The back room held six Gangrel bikers and two men on the floor. [Horace](/npcs/horace/) — hook-nosed, patient, the weight of two centuries compressed into a Malkavian's grin — drove a stake through the stocky man's chest while the bikers watched like an audience at a prizefight. The man went rigid. They folded him into a trunk and padlocked it. Ninety seconds later he stepped out, blood oozing from the hole, fingers already rolling an invisible coin across the knuckles.
 
-Darius declined the wager. Horace didn't blink.
+Darius declined the wager. [Horace](/npcs/horace/) didn't blink.
 
 In the office, Horace made his calls. The coterie was expected. The [Field Museum](/locations/field-museum/), three in the morning. The Prince would see them.
 
@@ -56,7 +56,7 @@ The blood tasted like bourbon and grief. The man slid down the wall and sat in t
 
 ---
 
-The Field Museum at three in the morning was a Greek temple full of dead things. Marble floors. Sixty-foot ceilings. Mastodon bones. The guard let them in because the word Prince was a key that turned every lock in the building.
+The [Field Museum](/locations/field-museum/) at three in the morning was a Greek temple full of dead things. Marble floors. Sixty-foot ceilings. Mastodon bones. The guard let them in because the word Prince was a key that turned every lock in the building.
 
 The man under the mastodon skeleton spoke with his back turned. Double-breasted suit. Wing tips that cost more than the Cutlass. He talked like a ruler — careful, imperious, each word placed. He asked about [Modius](/npcs/modius/) the way a chief of staff asks about a regional office.
 
@@ -80,4 +80,4 @@ The sun crested Lake Michigan as they ran. Sixty feet of open grass. The burn wa
 
 They made it inside. The door closed. The rotors changed pitch.
 
-Darius counted the exits from the bench. Sable felt the vibration of the floor through her palms. The day pulled them under and they were gone.
+Darius counted the exits from the bench. [Sable](/sable-price/) felt the vibration of the floor through her palms. The day pulled them under and they were gone.

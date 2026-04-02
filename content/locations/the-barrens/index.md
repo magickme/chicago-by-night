@@ -32,7 +32,7 @@ The dead ground between the city Kindred hold and the border the Anubi defend. A
 ## Who Controls It
 
 - Nobody. The Barrens are a vacuum.
-- Demetri operates in the tunnels beneath — the sewer and storm drain network that feeds into the Menomonee River Valley. He does not control the surface.
+- [Demetri](/npcs/demetri/) operates in the tunnels beneath — the sewer and storm drain network that feeds into the Menomonee River Valley. He does not control the surface.
 - [Parovich](/npcs/parovich/) uses dead drops in the Barrens for Sabbat communication. His condemned house is in the inner south side.
 - [Lisa Urgen](/npcs/lisa-urgen/) moves through here. Hunters prefer terrain where witnesses are absent.
 - [Jacob](/npcs/jacob-the-glitch/) holds his Greendale mansion at the far southern edge. Esau keeps a condo north of downtown — they bracket the Barrens between them.

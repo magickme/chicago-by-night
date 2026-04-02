@@ -3,7 +3,7 @@ title: "Dinner with Ballard — Wednesday, 2 January 1991, 4:29 PM"
 date: 1991-01-02T16:29:00
 lastmod: 2026-03-30
 tags: ["ashes-to-ashes", "darius", "sable", "vtm", "ashes-and-blood", "chicago"]
-categories: ["Act II — Ashes to Ashes"]
+categories: ["Chapter 1 — Ashes to Ashes"]
 description: "Three hundred pounds of Ventrue authority orders wine and porterhouse for two neonates who cannot eat. The Prince is missing. The assignment is not a request."
 ---
 
@@ -22,7 +22,7 @@ Inside: butter and old wood and the ghost of cigarette smoke that never quite le
 
 [Ballard](/npcs/ballard/).
 
-He was enormous. Three hundred pounds in a suit tailored to accommodate the body rather than improve it, and his face had the florid, damp quality of a man who sweats in every season. Small eyes. Manicured nails, which made everything else worse — the precision of the grooming against the ruin of the flesh, like a clean collar on a dirty shirt. The table in front of him was covered with plates. Eleven of them, Sable counted as the waiter cleared them away, most scraped clean. He had been here for hours. He was eating bread and he did not stop when they came through the curtain.
+He was enormous. Three hundred pounds in a suit tailored to accommodate the body rather than improve it, and his face had the florid, damp quality of a man who sweats in every season. Small eyes. Manicured nails, which made everything else worse — the precision of the grooming against the ruin of the flesh, like a clean collar on a dirty shirt. The table in front of him was covered with plates. Eleven of them, [Sable](/sable-price/) counted as the waiter cleared them away, most scraped clean. He had been here for hours. He was eating bread and he did not stop when they came through the curtain.
 
 "Sit," he said. Butter on his lower lip. "Both of you."
 
@@ -34,9 +34,9 @@ The wine arrived without being ordered. Red, heavy, French — the smell hit her
 
 She drank. A measured sip, the geometry of the gesture saying she had done this before. The wine hit dead tissue and sat there like a stone in an empty well, and for one second everything in her wanted to bring it back up — the body's revulsion, absolute and mechanical — and she held it. She held it the way she held a smile when a hand moved wrong. Perfectly. At cost.
 
-Darius drank. His face didn't change. Ventrue discipline or just Darius.
+[Darius](/darius-cole/) drank. His face didn't change. Ventrue discipline or just Darius.
 
-Then the food. Ballard ordered for the table — porterhouse, lobster, risotto, Caesar salad, all of it, for three. "You look thin, dear," he said to Sable, and the word *dear* landed the way a landlord says *tenant*. She picked up her fork. Cut a piece of the lobster. White flesh, butter pooling, steam carrying a sweetness that meant nothing to her, and she chewed and the texture was obscene (wet paper, dead protein, the mouth performing a function it had forgotten the reason for) and she swallowed and held it down and her face did not change.
+Then the food. [Ballard](/npcs/ballard/) ordered for the table — porterhouse, lobster, risotto, Caesar salad, all of it, for three. "You look thin, dear," he said to Sable, and the word *dear* landed the way a landlord says *tenant*. She picked up her fork. Cut a piece of the lobster. White flesh, butter pooling, steam carrying a sweetness that meant nothing to her, and she chewed and the texture was obscene (wet paper, dead protein, the mouth performing a function it had forgotten the reason for) and she swallowed and held it down and her face did not change.
 
 Ballard turned to Darius. "Your name. Your real name, and who is your sire."
 
@@ -96,4 +96,4 @@ Ballard pushed back. The chair groaned under him. "As if you didn't already know
 
 The dinner was over. The plates were still full. The wine was still in her stomach, wrong, heavy, a reminder that every part of her body was a machine performing functions it had forgotten the reasons for. Somewhere in the restaurant a mortal was laughing, and the sound was the loneliest thing she had heard since Gary.
 
-Belthazar was waiting by the door.
+[Belthazar](/npcs/belthazar/) was waiting by the door.

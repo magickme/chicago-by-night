@@ -16,15 +16,15 @@ description: "The Torch is for sale. A shell company, a drowning owner, and a pr
 
 [Darius](/darius-cole/) folded the napkin and put it in his coat pocket next to [Modius](/npcs/modius/)'s note and drove south on Broadway to the mansion on Miller Beach with the numbers already assembling themselves in his head. The mortgage. The shell company. The attorneys in Hammond, which was [Lucian](/npcs/lucian/)'s territory, which meant the money was [Lucian](/npcs/lucian/)'s money, which meant the elder Gangrel who'd sat in a moth-eaten armchair at Elysium and told [Darius](/darius-cole/) that the docks didn't need a king was now buying the only bar in Gary and every Kindred in the city was about to find out what it felt like when the food supply changed hands.
 
-The drawing room. The armchair. The folder of documents [Modius](/npcs/modius/) had assembled with the particular thoroughness of a man who understands paperwork better than people. Darius sat across from him and looked at the mortgage numbers and the offer from Lakeside Holdings and the debt that was drowning Gerald Fisk, and he built the pitch the way he built everything: from the foundation up.
+The drawing room. The armchair. The folder of documents [Modius](/npcs/modius/) had assembled with the particular thoroughness of a man who understands paperwork better than people. [Darius](/darius-cole/) sat across from him and looked at the mortgage numbers and the offer from Lakeside Holdings and the debt that was drowning Gerald Fisk, and he built the pitch the way he built everything: from the foundation up.
 
-"You can't outbid Lucian. Nobody in Gary can."
+"You can't outbid [Lucian](/npcs/lucian/). Nobody in Gary can."
 
 The prince's face went cold. Darius kept going.
 
 "But you don't need to outbid him. You need to negotiate with him. Let me talk to him. Not as your emissary, as a broker. I go to Lucian, feel out what he actually wants. Maybe it's feeding access. Maybe it's transit rights. Maybe it's something you can give him that costs you less than losing the building."
 
-Modius listened. The Conniver processing the geometry. The Child underneath wanting someone to fix it.
+[Modius](/npcs/modius/) listened. The Conniver processing the geometry. The Child underneath wanting someone to fix it.
 
 "And what do you gain from this, Warren?"
 

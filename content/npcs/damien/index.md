@@ -19,7 +19,7 @@ ShowToc: false
 
 The boy was born in 1954 in Chicago. His mortal name is not recorded anywhere in Kindred archives. What is recorded: sometime in the late 1960s, [Critias](/npcs/critias/) — Brujah Primogen, 5th generation, Embraced in ancient Greece, childe of [Menele](/npcs/menele/) — found a fourteen-year-old street kid and, in what the source material describes as "a stupor," drained him and brought him back.
 
-Critias did not stay. He did not explain what had happened. He did not teach the boy to feed, to hide, to manage the hunger that replaced the one he had known. He Embraced a child and walked away.
+[Critias](/npcs/critias/) did not stay. He did not explain what had happened. He did not teach the boy to feed, to hide, to manage the hunger that replaced the one he had known. He Embraced a child and walked away.
 
 The timing matters. The late 1960s in Chicago: Martin Luther King Jr. assassinated in April 1968. The Democratic National Convention riots that August. The West Side burning. The National Guard on State Street. A city tearing itself apart over race and war and the failure of every institution that was supposed to hold. Into that chaos, Critias dropped a fourteen-year-old Brujah with 6th-generation blood and no sire to speak of.
 

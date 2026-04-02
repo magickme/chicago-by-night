@@ -25,6 +25,6 @@ Ironically, it was Edgar's disappearance which revealed the falsity of his compa
 
 Edgar revels in his power. He runs Chicago's trains from command centers in the hearts of the city's train depots. His only pleasure is the exact scale model of the city's rail and subway networks which he maintains in his Haven.
 
-Edgar's once-substantial power has been eroded by the growth of air and road travel, but he still considers the railroads to be the backbone of Chicago's commerce. He may fly into a rage if characters insist on telling him that rail travel is obsolete. He protects his empire with unmatched zeal, and feeds solely on bums, hobos and other "deadbeats" who dare trespass in his realm. Lodin often promises to allow Edgar to make a lieutenant one day but has continued to put off that time.
+Edgar's once-substantial power has been eroded by the growth of air and road travel, but he still considers the railroads to be the backbone of Chicago's commerce. He may fly into a rage if characters insist on telling him that rail travel is obsolete. He protects his empire with unmatched zeal, and feeds solely on bums, hobos and other "deadbeats" who dare trespass in his realm. [Lodin](/npcs/lodin/) often promises to allow Edgar to make a lieutenant one day but has continued to put off that time.
 
 **Note:** Hates to be called "Edgar" and will fly into a rage if anyone refers to him as anything but Mr. Drummond — or Sir.

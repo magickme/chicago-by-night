@@ -18,11 +18,11 @@ A dark sedan. Fifty yards from the mansion's dead-end street. Government plates.
 
 SA [William Shepard](/npcs/william-shepard/). FBI. The phone number in [Darius](/darius-cole/)'s kitchen cabinet, the name in a dead detective's folder, the federal question mark that had been sitting at the edge of the board for six months. Parked between them and [Allicia](/npcs/allicia/) at two in the morning, watching the mansion with the patient attention of a man who gets paid by the hour and has learned to love the work.
 
-Darius killed the headlights and pulled onto a side street.
+[Darius](/darius-cole/) killed the headlights and pulled onto a side street.
 
 "Get the plate. See if he's alone. Don't let him see you."
 
-Sable went low and fast across the scrub brush between the road and the beach, moving through the dark the way she'd learned to move through the Robert Taylor Homes when the building was full of men who listened for footsteps. She approached from the lake side, below the mirror line, and crouched behind the rear quarter panel with the sedan's passenger window cracked two inches and every sense dialed to maximum.
+[Sable](/sable-price/) went low and fast across the scrub brush between the road and the beach, moving through the dark the way she'd learned to move through the Robert Taylor Homes when the building was full of men who listened for footsteps. She approached from the lake side, below the mirror line, and crouched behind the rear quarter panel with the sedan's passenger window cracked two inches and every sense dialed to maximum.
 
 Alone. One heartbeat. Coffee on the passenger seat. A radio scanner cycling Gary PD frequencies. And on the dashboard, three photographs paper-clipped to an open notebook: the docks at Dock 7, a school portrait of a sixteen-year-old boy, and a Polaroid of an unknown man near the Dock 7 warehouse — the same photograph Darius kept in his kitchen cabinet. The notebook heading, in block capitals: WIERUS.
 
@@ -34,7 +34,7 @@ She ghosted back to the Cutlass.
 
 Darius looked at the lakefront road. The sedan. The mansion beyond it. [Allicia](/npcs/allicia/) inside, unaware.
 
-"Let [Shepard](/npcs/william-shepard/) guard Allicia. We go find the father."
+"Let [Shepard](/npcs/william-shepard/) guard [Allicia](/npcs/allicia/). We go find the father."
 
 ---
 
@@ -60,7 +60,7 @@ The door opened. [John Wierus](/npcs/john-wierus/) stood in the frame with a sho
 
 The shotgun didn't lower. But the man behind it was a teacher at heart, and nobody had asked him about his work in the months since his son walked into an alley behind a strip club and didn't walk out.
 
-"Tell me what you know," Wierus said, and stepped back from the door. The salt line gleamed across the threshold. "If you want to come in, you break it yourself. I'm not inviting you."
+"Tell me what you know," [Wierus](/npcs/john-wierus/) said, and stepped back from the door. The salt line gleamed across the threshold. "If you want to come in, you break it yourself. I'm not inviting you."
 
 Darius broke the salt with his foot and stepped into a house that smelled like chalk and candle wax and a grief so thick it had soaked into the walls.
 

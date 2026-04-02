@@ -30,13 +30,13 @@ Nothing. The shape took a step. The footfall was flat, the sound of weight dropp
 
 The neon reached far enough to catch the face. A boy. Sixteen. Gray skin over bone. Eyes open and occupied by something that wasn't born behind them. Mouth slightly open, lips black, wearing a t-shirt and jeans three months too dirty. Standing in the June heat without a drop of sweat.
 
-Darius saw a sick kid. Meth, PCP, paint thinner. Gary produced all three. The .357 stayed at low ready because he was not going to shoot a teenager.
+[Darius](/darius-cole/) saw a sick kid. Meth, PCP, paint thinner. Gary produced all three. The .357 stayed at low ready because he was not going to shoot a teenager.
 
 "Hey. You need help? You can't be back here."
 
 The service door opened behind the boy. Bar light spilled into the alley. [Victor](/npcs/victor-salonika/), shotgun first, with [Sable](/sable-price/) behind him.
 
-The boy's head turned toward the light. Toward Sable. The rotation was too fast and too far, the neck moving past where a neck should stop, another quarter-inch, the tendons visible under the gray skin like cables under canvas.
+The boy's head turned toward the light. Toward [Sable](/sable-price/). The rotation was too fast and too far, the neck moving past where a neck should stop, another quarter-inch, the tendons visible under the gray skin like cables under canvas.
 
 "Darius." Sable's voice was flat. The voice she used when the performance stopped and the survival started. "That's not a person."
 
@@ -54,7 +54,7 @@ Gone.
 
 ---
 
-Victor gave them the brooch. Antique metalwork, nested eyes, initials E.K. scratched into the back. Three months in the lost-and-found. Found the same week as the boy's body in the dumpster. He told them about the morgue, the body that walked out of its drawer three days after Gary PD picked it up.
+[Victor](/npcs/victor-salonika/) gave them the brooch. Antique metalwork, nested eyes, initials E.K. scratched into the back. Three months in the lost-and-found. Found the same week as the boy's body in the dumpster. He told them about the morgue, the body that walked out of its drawer three days after Gary PD picked it up.
 
 Sable held the brooch and her sharpened senses read it: centuries old, handmade, the faint trace of Kindred vitae soaked into the metal. Someone dead had owned this for a very long time.
 
@@ -92,7 +92,7 @@ He told them what it was. A man put it here. A father. He pushed his boy through
 
 "There's a thing that holds it. A bag. The man made it. Hair and dirt and blood in a little bag. You break the bag, the door closes."
 
-Michael lay down. Pulled the blanket over his legs. The audience was over.
+[Michael](/npcs/michael/) lay down. Pulled the blanket over his legs. The audience was over.
 
 "Don't let it drink her. Don't let it get all the way through."
 
@@ -100,7 +100,7 @@ Michael lay down. Pulled the blanket over his legs. The audience was over.
 
 The Cutlass again. Miller Beach. Darius driving fast now, the .357 on the seat between them, the brooch in Sable's pocket, and Michael's words in the air like a frequency neither of them could tune out.
 
-A spirit in a dead boy, hunting Allicia, growing stronger, anchored by a bag of hair and dirt and blood somewhere in Gary. A grieving father who built a door and pushed his son through it. And somewhere between the cemetery and the lakefront, in the dead lots and abandoned factories of a city that had been dying since before either of them was born, a sixteen-year-old body was walking toward the woman who didn't speak, saying her name through a mouth that had forgotten what mouths were for.
+A spirit in a dead boy, hunting [Allicia](/npcs/allicia/), growing stronger, anchored by a bag of hair and dirt and blood somewhere in Gary. A grieving father who built a door and pushed his son through it. And somewhere between the cemetery and the lakefront, in the dead lots and abandoned factories of a city that had been dying since before either of them was born, a sixteen-year-old body was walking toward the woman who didn't speak, saying her name through a mouth that had forgotten what mouths were for.
 
 Darius drove. Sable watched the road. The distance between them was still there but it had a different name now. Not caution. Not performance. Not the careful width of two people who'd failed each other and hadn't discussed it.
 

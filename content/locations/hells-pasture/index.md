@@ -31,7 +31,7 @@ ShowToc: false
 
 ## Geographic Placement
 
-- **Location:** A small copse of woods approximately 50 miles (one hour's drive) northwest of Chicago. 50 acres, mostly flat wooded terrain with rocky regions near the center. Private land, exclusively used for Roarke's ceremonies.
+- **Location:** A small copse of woods approximately 50 miles (one hour's drive) northwest of Chicago. 50 acres, mostly flat wooded terrain with rocky regions near the center. Private land, exclusively used for [Roarke](/npcs/roarke/)'s ceremonies.
 - **Terrain:** Natural earthen amphitheater at center, accessed via a gully through rocks. Tunnel network radiates from the amphitheater to unmarked exit points in the surrounding forest.
 - **Access:** Single gravel road from the nearest county highway. 15-minute walk from the road to the compound through unlit woods. Accessible by 4WD vehicles for part of the distance. No cell signal. No neighbors for miles.
 - **Proximity:** Roughly in the direction of McHenry County or DeKalb County, northwest Illinois farmland. Far from any suburb with Kindred presence. O'Hare Airport ([Tyler](/npcs/tyler/)'s haven) would be the nearest Kindred-relevant landmark, roughly 30 miles southeast.

@@ -39,5 +39,5 @@ ShowToc: false
 ## Who Controls It
 
 - [Thornhill](/npcs/brennon-thornhill/) runs the floor, handles the mortal staff, keeps the liquor license clean.
-- Helena owns the building, the land, and every secret that passes through the walls. She has been here longer than Chicago has had a name.
+- [Helena](/npcs/helena/) owns the building, the land, and every secret that passes through the walls. She has been here longer than Chicago has had a name.
 - Kindred who think they own a piece of the Succubus Club own nothing. They rent tolerance.

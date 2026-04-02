@@ -18,13 +18,13 @@ The drawing room. The chandelier. The piano lid closed, which meant [Modius](/np
 
 [Modius](/npcs/modius/) looked at everyone in the room except [Allicia](/npcs/allicia/). In a room that small, not looking at someone was the loudest sound in the building.
 
-He called [Darius](/darius-cole/) to the study first. Ten minutes. When Darius came out something had shifted behind his eyes but his face gave nothing. Then Modius appeared in the doorway and said [Sable](/sable-price/)'s name the way a dentist calls the next appointment.
+He called [Darius](/darius-cole/) to the study first. Ten minutes. When [Darius](/darius-cole/) came out something had shifted behind his eyes but his face gave nothing. Then [Modius](/npcs/modius/) appeared in the doorway and said [Sable](/sable-price/)'s name the way a dentist calls the next appointment.
 
 The study. Wood panels. A self-portrait on the wall, the brushwork competent and vain. One lamp. The door closed.
 
-"My childe has become willful," the prince said. "She has refused an instruction. This is unusual for Allicia. In eighty years, she has not refused me."
+"My childe has become willful," the prince said. "She has refused an instruction. This is unusual for [Allicia](/npcs/allicia/). In eighty years, she has not refused me."
 
-He asked what was happening between them. Sable told him what he needed to hear: Allicia loved him and wanted more of his attention. She said it with warmth and concern and the right amount of deference, and the lie cost her a piece of willpower she couldn't afford to waste, and Modius read her aura and saw anxiety and affection and a shimmer of something not quite honest, and he chose to believe the shimmer was nerves because the alternative was worse.
+He asked what was happening between them. [Sable](/sable-price/) told him what he needed to hear: Allicia loved him and wanted more of his attention. She said it with warmth and concern and the right amount of deference, and the lie cost her a piece of willpower she couldn't afford to waste, and Modius read her aura and saw anxiety and affection and a shimmer of something not quite honest, and he chose to believe the shimmer was nerves because the alternative was worse.
 
 "Be her friend," he said. "Be her comfort. Tell me what she needs so I can provide it."
 

@@ -3,7 +3,7 @@ title: "Pawns in the Game"
 date: 1969-10-17T17:47:00
 lastmod: 2026-04-01
 tags: ["ashes-to-ashes", "flashback", "roarke", "vtm", "ashes-and-blood", "london"]
-categories: ["Pawns in the Game"]
+categories: ["Chapter 2 — Pawns in the Game"]
 description: "Eight white pawns with faces. A game room designed to keep people comfortable and irrelevant. Lodin emerges with his face closed like a book."
 ---
 
@@ -28,7 +28,7 @@ The West End. The theatre district.
 
 [Roarke](/npcs/roarke/) said: may I politely remind you that Queen [Anne](/npcs/lady-anne/)'s Court stipulated no feeding in the theatre district. Simply as a matter of awareness.
 
-Two seconds. Three. Lodin turned from the window and looked at Roarke and something behind his eyes recalibrated.
+Two seconds. Three. [Lodin](/npcs/lodin/) turned from the window and looked at [Roarke](/npcs/roarke/) and something behind his eyes recalibrated.
 
 Good.
 
@@ -48,9 +48,9 @@ From behind a closed door, two voices:
 
 *-- any problems during your journey?*
 
-*None, my Lady, that troubled me to any degree.*
+*None, my [Lady](/npcs/lady-anne/), that troubled me to any degree.*
 
-Pershing coughed. Kept walking. Opened a door at the end of the hall. A game room -- billiards, chess set, decanters, leather chairs. The kind of room designed to keep people comfortable and irrelevant at the same time.
+[Pershing](/npcs/pershing/) coughed. Kept walking. Opened a door at the end of the hall. A game room -- billiards, chess set, decanters, leather chairs. The kind of room designed to keep people comfortable and irrelevant at the same time.
 
 Roarke brought the others inside. The chess set was mid-game -- white losing material but winning position. The white pawns had faces. Not decorative. Specific. Eight individual people carved into the expendable pieces. The black pawns were blank.
 

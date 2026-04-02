@@ -24,9 +24,9 @@ Unlocked. A narrow staircase. One wall sconce. The air smelled like old wood and
 
 [Allicia](/npcs/allicia/) stood at the window in a green silk robe over a dark dress, her back to the door, looking at the lake. She knew [Sable](/sable-price/) was there. She didn't turn. Whatever she'd been doing in this room before the knock, she hadn't finished putting herself back together, and what showed underneath the armor was older and more tired than the face.
 
-She gestured toward the bed. Sable sat. White coverlet. Cool cotton. The snow globe on the nightstand, the bird in its cage, the photograph still face-down beside it.
+She gestured toward the bed. [Sable](/sable-price/) sat. White coverlet. Cool cotton. The snow globe on the nightstand, the bird in its cage, the photograph still face-down beside it.
 
-Then Allicia spoke. The third time.
+Then [Allicia](/npcs/allicia/) spoke. The third time.
 
 "He wants me to give you my blood."
 
@@ -38,7 +38,7 @@ Allicia went still. The stillness of someone who hasn't been touched gently in a
 
 "I told him no."
 
-Four words. The fourth time. She had refused the prince of Gary. The woman who hadn't defied her sire in decades, who was three steps bound and had no leverage and no allies and no way out, had told Modius *no*. That was why [Victor](/npcs/victor-salonika/) called. That was why the side entrance. She wasn't just reaching out. She was burning a bridge, and she wanted Sable to know before the fire reached them both.
+Four words. The fourth time. She had refused the prince of Gary. The woman who hadn't defied her sire in decades, who was three steps bound and had no leverage and no allies and no way out, had told [Modius](/npcs/modius/) *no*. That was why [Victor](/npcs/victor-salonika/) called. That was why the side entrance. She wasn't just reaching out. She was burning a bridge, and she wanted Sable to know before the fire reached them both.
 
 Sable slid the robe off one shoulder. Then the other. Green silk pooling on the window seat. "May I?"
 

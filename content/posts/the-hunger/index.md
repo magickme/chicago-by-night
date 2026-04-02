@@ -28,7 +28,7 @@ He listened the way he'd learned to listen — without nodding, without the symp
 
 The bartender went to change a keg. The men at the bar argued about the White Sox. The television was loud enough.
 
-Darius moved from across the booth to beside her. Not sudden. The way you shift when you want to say something quieter. She didn't pull away. He found the vein in her neck and the Kiss opened her like a door she didn't know was locked, and Nadine Palmer made a sound that was not pain and not fear and not anything the conscious mind has a word for, and went still.
+[Darius](/darius-cole/) moved from across the booth to beside her. Not sudden. The way you shift when you want to say something quieter. She didn't pull away. He found the vein in her neck and the Kiss opened her like a door she didn't know was locked, and Nadine Palmer made a sound that was not pain and not fear and not anything the conscious mind has a word for, and went still.
 
 Three draws. The blood carried exhaustion and cortisol and the iron taste of a body running on caffeine and obligation. Underneath it, the debt. He could taste every dollar she owed the way a machine reads a barcode — each one specific, each one permanent, each one feeding him in the way that nothing else could. The restriction was a mirror, [Chuc Luc](/npcs/chuc-luc/) had said once. What you eat is what you are. Darius ate debt. He lived on the taste of people drowning.
 
@@ -50,11 +50,11 @@ The prince was warm. Pleased with the [Lucian](/npcs/lucian/) work. And frighten
 
 Chicago was sending someone. A representative. To assess conditions. Two weeks. Likely Auspex. Likely Ventrue or Tremere. Someone who read ledgers, not poetry, and [Modius](/npcs/modius/) said that last part with a bitterness that cracked the mask for half a second before the plaster set again.
 
-Then the other thing. The men at the union hall. Suits. Suburban accents. Asking about warehouse leases in Gary. Modius's people had reported it, and the prince did not know what it meant, and not knowing was corroding him from the inside.
+Then the other thing. The men at the union hall. Suits. Suburban accents. Asking about warehouse leases in Gary. [Modius](/npcs/modius/)'s people had reported it, and the prince did not know what it meant, and not knowing was corroding him from the inside.
 
 Darius heard it and put it in a box and closed the lid. The aura was live. Every thought was a color, and certain colors could kill him. He spent the willpower and the composure held and Modius saw what Modius needed to see — a useful neonate calculating the logistics of a problem he'd just been handed. Nothing underneath it. Nothing at all.
 
-The mission was simple in the way that simple things are when a prince says them: find out who, find out why, make it disappear. Two weeks. Don't involve Lucian. Don't involve the Bureau. Come back with answers, not problems. The word he used was *legible*. He wanted his waterfront legible. He wanted someone from Chicago to look at it and see a city that worked.
+The mission was simple in the way that simple things are when a prince says them: find out who, find out why, make it disappear. Two weeks. Don't involve [Lucian](/npcs/lucian/). Don't involve the Bureau. Come back with answers, not problems. The word he used was *legible*. He wanted his waterfront legible. He wanted someone from Chicago to look at it and see a city that worked.
 
 Darius drove south after midnight. Polk and Thirteenth. The church wasn't a church anymore. It was a black rectangle with a condemned notice stapled to the fence post and the fence gate hanging open, padlock cut, and in the gravel beside the ruin, tire tracks that didn't belong to any city vehicle.
 

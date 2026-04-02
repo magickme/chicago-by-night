@@ -20,13 +20,13 @@ Snow hadn't come yet, but the ground had the iron hardness of a place already pr
 
 "You wanted the truth before the party," the Nosferatu said. "That is different from wanting comfort."
 
-He gave the first piece the way a clerk might slide a file across a desk. [Sullivan Dane](/npcs/sullivan-dane/) was not a mood, not a rumor, not one more dangerous mortal in a city full of dangerous mortals. He was disciplined, devout, methodical, and already linked to Gary once before. If he had [Darius](/darius-cole/)'s plates, he had a line to work. Darius felt the architecture of that immediately: the difference between surveillance and pursuit is paperwork plus patience.
+He gave the first piece the way a clerk might slide a file across a desk. [Sullivan Dane](/npcs/sullivan-dane/) was not a mood, not a rumor, not one more dangerous mortal in a city full of dangerous mortals. He was disciplined, devout, methodical, and already linked to Gary once before. If he had [Darius](/darius-cole/)'s plates, he had a line to work. [Darius](/darius-cole/) felt the architecture of that immediately: the difference between surveillance and pursuit is paperwork plus patience.
 
 The second piece was worse because it was social.
 
 [Annabelle](/npcs/annabelle-triabell/) was coming to collect. Not bodies. Not tribute in the crude sense. Prospects. Assets. Neonates clever enough to be worth noticing and frightened enough to be moved. [Danov](/npcs/alexander-danov/) said it almost lazily, as if this kind of sorting had always been the real business beneath declarations of princely dignity.
 
-"And if [Modius](/npcs/modius/) must choose what to yield," Danov added, "the girl goes first."
+"And if [Modius](/npcs/modius/) must choose what to yield," [Danov](/npcs/alexander-danov/) added, "the girl goes first."
 
 [Sable](/sable-price/). Because beauty is legible. Because Toreador can be framed as adornment. Because [Modius](/npcs/modius/) understood value but valued utility first.
 
@@ -46,6 +46,6 @@ On the drive home he didn't think about the cemetery. He thought about lists.
 
 [Annabelle](/npcs/annabelle-triabell/): evaluator.
 
-[Sable](/sable-price/): first in Modius's order of expendability.
+[Sable](/sable-price/): first in [Modius](/npcs/modius/)'s order of expendability.
 
 Baptism by Fire: not a party. An intake interview with chandeliers.

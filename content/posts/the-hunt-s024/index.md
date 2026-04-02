@@ -30,7 +30,7 @@ Nisha. She was maybe seventeen. Black. Down coat two sizes too big -- Wilson's, 
 
 She got out of the Buick and approached from the side. Lit a cigarette she wouldn't smoke. Stood at the edge of the lot in the dark between the gravel and the grass and waited for the girl to make a professional assessment.
 
-"You're working the wrong lot," Sable said.
+"You're working the wrong lot," [Sable](/sable-price/) said.
 
 The girl's hands came out of her pockets empty. "I'm waiting for somebody."
 

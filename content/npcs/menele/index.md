@@ -48,7 +48,7 @@ Menele was away when it happened, trying to recruit help from the Gangrels of so
 
 ## The Destruction of Pompeii (79 A.D.)
 
-Menele broke his oath to forsake cities when he heard from a chance-met Gangrel about a beautiful Toreador ruling Pompeii. Knowing in his heart that this could only be Helena, he secretly visited. The sight of her ruling a Roman city — and the bitter memories of Carthage — were like a stake in his heart.
+Menele broke his oath to forsake cities when he heard from a chance-met Gangrel about a beautiful Toreador ruling Pompeii. Knowing in his heart that this could only be [Helena](/npcs/helena/), he secretly visited. The sight of her ruling a Roman city — and the bitter memories of Carthage — were like a stake in his heart.
 
 That night, Menele willingly entered his first Frenzy in a thousand years. His rage, coupled with a thaumaturgical ritual, brought down a spirit of fire to the city. It flew shrieking through the streets, free for the first time in centuries. The ground shook. The sky blew open. Fire poured down on Pompeii. All was destroyed.
 
@@ -56,7 +56,7 @@ Menele lost control of the spirit and escaped only by throwing himself into the 
 
 ## Thirteen Centuries of War (79-1415 A.D.)
 
-Helena survived through [Prias](/npcs/prias/)'s aid. They fled to Egypt. For over 1,300 years, the two Methuselahs fought across Eurasia. Neither could strike a decisive blow. Helena slowly gained the upper hand as Prias grew in power through millennia of feeding on her 4th-generation blood.
+Helena survived through [Prias](/npcs/prias/)'s aid. They fled to Egypt. For over 1,300 years, the two Methuselahs fought across Eurasia. Neither could strike a decisive blow. Helena slowly gained the upper hand as [Prias](/npcs/prias/) grew in power through millennia of feeding on her 4th-generation blood.
 
 ## The Escape to the New World (1415)
 
@@ -88,7 +88,7 @@ Both Methuselahs fell into torpor. Prias took Helena to safety beneath the fort.
 
 From torpor, Menele called out to supporters around the world. His extra level of Auspex allows awareness of events around him while he sleeps — distorted, dreamlike, but functional. His Dominate works through touch without eye contact. The Bond carries his will to the surface through agents who do not feel the strings.
 
-The war continued through proxies. Helena's forces centered around Prince [Lodin](/npcs/lodin/). Menele controlled the Anarchs through Critias and Dominated the other clan leaders. Most battles revolved around each Methuselah's attempts to kill off the other's allies.
+The war continued through proxies. Helena's forces centered around Prince [Lodin](/npcs/lodin/). Menele controlled the Anarchs through [Critias](/npcs/critias/) and Dominated the other clan leaders. Most battles revolved around each Methuselah's attempts to kill off the other's allies.
 
 ### The [Maldavis](/npcs/maldavis/) Sacrifice (Council Wars, 1983-1987)
 
@@ -110,9 +110,9 @@ Critias, newly free: *"It took the massive injuries I sustained from that accide
 
 **Critias** (5th gen) — his childe, Embraced in the baths of Athens ~400 BC after a night debating the nature of existence. Blood-Bonded through centuries of feeding on his sire's blood. The "Brujah School," the Path of Entelechy, the vision of Chicago as the new Carthage — convictions Critias considers his own philosophical legacy. They originate from Menele's sleeping mind. Critias does not realize his sire survived Carthage. *(In the V20 era, Critias broke free after nearly dying. Whether the Bond has been re-established is unclear.)*
 
-**[Inyanga](/npcs/inyanga/)** (6th gen) — fell under Menele's control shortly after arriving in Chicago. Extended Domination, not Blood Bond. Through her, Menele commands the entire Gangrel clan. If word comes from Inyanga, every Gangrel mobilizes. Her Laibon immigration operation through [Lucian](/npcs/lucian/)'s docks in Gary moves bodies and resources through Menele's corridor. She is not actually Gangrel — she is Laibon, operating under Kindred cover.
+**[Inyanga](/npcs/inyanga/)** (6th gen) — fell under Menele's control shortly after arriving in Chicago. Extended Domination, not Blood Bond. Through her, Menele commands the entire Gangrel clan. If word comes from [Inyanga](/npcs/inyanga/), every Gangrel mobilizes. Her Laibon immigration operation through [Lucian](/npcs/lucian/)'s docks in Gary moves bodies and resources through Menele's corridor. She is not actually Gangrel — she is Laibon, operating under Kindred cover.
 
-**[Annabelle Triabell](/npcs/annabelle-triabell/)** (6th gen) — the deepest play. Menele's double agent inside Helena's camp. Helena believes she controls Annabelle through Domination. Through Annabelle, Menele has a window into everything Helena's network does.
+**[Annabelle Triabell](/npcs/annabelle-triabell/)** (6th gen) — the deepest play. Menele's double agent inside Helena's camp. Helena believes she controls [Annabelle](/npcs/annabelle-triabell/) through Domination. Through Annabelle, Menele has a window into everything Helena's network does.
 
 **[Khalid](/npcs/khalid-al-rashid/)** (Nosferatu Primogen) — initially independent. Each Methuselah assumed the other controlled him. In the V20 era, Critias claims: "Despite his claims, [Khalid](/npcs/khalid-al-rashid/) is as much a creature of Menele's now as I once was."
 
@@ -122,9 +122,9 @@ Critias, newly free: *"It took the massive injuries I sustained from that accide
 
 **Annabelle → [Sharon](/npcs/sharon-payne/) → [Michael](/npcs/michael/) → [Sable](/sable-price/)** — four steps from a sleeping god.
 
-**[Heath Quinn](/npcs/heath-quinn/)** — mortal operative. Carried Menele's blood to London in 1969. Shot [Roarke](/npcs/roarke/), fed him 4th-gen vitae. The twenty-year weapon: [Roarke](/npcs/roarke/) returned to Chicago, lived among the Anarchs, found the torpid Methuselah, kidnapped Lodin. One move in a four-thousand-year chess game.
+**[Heath Quinn](/npcs/heath-quinn/)** — mortal operative. Carried Menele's blood to London in 1969. Shot [Roarke](/npcs/roarke/), fed him 4th-gen vitae. The twenty-year weapon: [Roarke](/npcs/roarke/) returned to Chicago, lived among the Anarchs, found the torpid Methuselah, kidnapped [Lodin](/npcs/lodin/). One move in a four-thousand-year chess game.
 
-**Roarke** — kidnapped Lodin on New Year's Eve 1990. Built a cult in the woods around Menele's torpid body. While Roarke thought he was using the Ancient, the Ancient was using him.
+**[Roarke](/npcs/roarke/)** — kidnapped Lodin on New Year's Eve 1990. Built a cult in the woods around Menele's torpid body. While Roarke thought he was using the Ancient, the Ancient was using him.
 
 ### The Path of Entelechy
 

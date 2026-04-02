@@ -22,7 +22,7 @@ The drawing room. Piano lid closed. [Modius](/npcs/modius/) stood at the window 
 
 "Sable. Punctual. I appreciate that."
 
-She sat where he pointed. The settee breathed dust. Modius took the armchair and crossed his legs and studied her the way a man studies a painting he hasn't finished hanging.
+She sat where he pointed. The settee breathed dust. [Modius](/npcs/modius/) took the armchair and crossed his legs and studied her the way a man studies a painting he hasn't finished hanging.
 
 "You've done well these past weeks. The report on [Allicia](/npcs/allicia/) was useful." He let the compliment settle. "Tonight I'd like you near me during court. Not beside me. Close. When the others speak, watch their faces."
 
@@ -54,7 +54,7 @@ He'd been painting her for months. The woman he bonded in 1941, rendered over an
 
 Sable replaced the cloth. Exactly as it was.
 
-At the end of the hallway, behind a closed door, Allicia's stillness registered on Sable's senses the way a held note registers on a tuned ear. The particular density of a body waiting in a dark room.
+At the end of the hallway, behind a closed door, [Allicia](/npcs/allicia/)'s stillness registered on Sable's senses the way a held note registers on a tuned ear. The particular density of a body waiting in a dark room.
 
 She knocked. Two soft knocks.
 
@@ -100,7 +100,7 @@ Modius descended with Allicia one step behind. The prince in a darker suit, pock
 
 "Thank you all for coming. Gary endures."
 
-[Danov](/npcs/alexander-danov/) had materialized in the semicircle without Darius registering his arrival. The Nosferatu's face was a ruin, the kind of ugly that went past grotesque into something geological. But the eyes. Deep-set gray, steady, the eyes of a man who'd been watching things for six centuries and had not yet seen enough to stop.
+[Danov](/npcs/alexander-danov/) had materialized in the semicircle without [Darius](/darius-cole/) registering his arrival. The Nosferatu's face was a ruin, the kind of ugly that went past grotesque into something geological. But the eyes. Deep-set gray, steady, the eyes of a man who'd been watching things for six centuries and had not yet seen enough to stop.
 
 Modius's gaze found Darius. "Mr. Birch. How good of you to join us again. I was beginning to worry."
 
@@ -116,7 +116,7 @@ These were not men. These were not marks. These were Greenland sharks circling i
 
 She bowed her head. "Thank you. It's a pleasure to make all of your acquaintance."
 
-Terse. Simple. The room filed it. Modius looked pleased. Lucian's gaze moved past her. Danov gave her three seconds and then moved on.
+Terse. Simple. The room filed it. Modius looked pleased. [Lucian](/npcs/lucian/)'s gaze moved past her. [Danov](/npcs/alexander-danov/) gave her three seconds and then moved on.
 
 And Darius, in his chair, registered the thing nobody else cared to notice: the performance that started and stopped. The woman who reached for a weapon and put it back.
 
@@ -192,7 +192,7 @@ Sable sat alone on the bench. Five seconds. Then she stood and smoothed her own 
 
 ---
 
-Court ended the way court ends. Lucian rose and the room's center of gravity shifted. Claudette followed without a word between them. Danov was gone before anyone noticed his chair was empty. Modius in his armchair making final pronouncements to an audience of two neonates and a ghoul.
+Court ended the way court ends. Lucian rose and the room's center of gravity shifted. [Claudette](/npcs/claudette-mallet/) followed without a word between them. Danov was gone before anyone noticed his chair was empty. Modius in his armchair making final pronouncements to an audience of two neonates and a ghoul.
 
 "Next month. First Friday. I expect you all."
 
@@ -230,7 +230,7 @@ He drove home. The west-side apartment was dark. He sat at the kitchen table and
 
 The matchbook sat on the table next to the Polaroid of the unknown man at Dock 7. Two mysteries. One of them might solve the other. Neither of them would solve itself.
 
-Somewhere across Gary, Sable Price was driving home to a dead woman's studio with a pair of pointe shoes in her back seat and a snow globe behind a locked door and a phone number she'd given to a man she'd known for thirty minutes because he was the first person in this city who'd made her laugh without wanting something for it.
+Somewhere across Gary, [Sable Price](/sable-price/) was driving home to a dead woman's studio with a pair of pointe shoes in her back seat and a snow globe behind a locked door and a phone number she'd given to a man she'd known for thirty minutes because he was the first person in this city who'd made her laugh without wanting something for it.
 
 Or maybe he wanted something for it. Everyone wanted something for it. That was the game.
 

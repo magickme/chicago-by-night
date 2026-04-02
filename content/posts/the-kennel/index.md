@@ -88,9 +88,9 @@ Two hours. The building settled around her. The Spanish conversation on the side
 
 She found [Allicia](/npcs/allicia/) at the Rack. Pressed into the shadow of a closed barbershop two doors from [the Torch](/locations/the-torch/), making herself small the way the starving make themselves small — not to hide but because the body contracts when there's nothing left to fuel expansion. Her aura read pale, grey, threaded with hunger, and underneath it a strand of rose-gold pulling toward the Caprice like a needle finding north.
 
-"Come with me," Sable said.
+"Come with me," [Sable](/sable-price/) said.
 
-In the car, Allicia fed from Pete. Her hand on his jaw, tilting his face toward the light that came through the window, her mouth on his neck. Three pulls. Controlled. The starving woman eating with a knife and fork because manners were the last thing standing when everything else was gone. Pete made a sound — soft, involuntary — and his body went slack against the door.
+In the car, [Allicia](/npcs/allicia/) fed from Pete. Her hand on his jaw, tilting his face toward the light that came through the window, her mouth on his neck. Three pulls. Controlled. The starving woman eating with a knife and fork because manners were the last thing standing when everything else was gone. Pete made a sound — soft, involuntary — and his body went slack against the door.
 
 Allicia pulled back with blood on her lips and color in her skin and her eyes held something that wasn't hunger anymore but wasn't full either. Something closer to grief. The grief of a woman who had to eat from a stranger's ghoul in the backseat of a car because the man who made her wouldn't let her eat at home.
 
