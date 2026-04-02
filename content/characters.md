@@ -28,6 +28,16 @@ ShowToc: false
 </div>
 </a>
 </div>
+<div class="character-card">
+<a href="/tomas-navarro/">
+<img src="/images/tomas-portrait.webp" alt="Tomás Navarro" loading="lazy">
+<div class="character-info">
+<strong>Tomás Navarro</strong>
+<span class="lineage">Tremere, 10th generation</span>
+<p>Intelligence analyst and "El Búho." A veteran of the DIA and the Octagon House, now mapping the hidden power structures of Chicago.</p>
+</div>
+</a>
+</div>
 </div>
 
 ---
