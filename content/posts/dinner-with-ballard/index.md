@@ -26,7 +26,7 @@ He was enormous. Three hundred pounds in a suit tailored to accommodate the body
 
 "Sit," he said. Butter on his lower lip. "Both of you."
 
-They sat. Sable took the chair across from him because geometry is a language she speaks and the position said: I am facing you. I am not hiding. She put her hands in her lap and her spine against the chair back and her chin level, the way she'd learned to sit in rooms where sitting is a statement — rooms she'd been in before she was dead, rooms with men who watched you sit down and decided what you were worth before you opened your mouth.
+They sat. [Sable](/sable-price/) took the chair across from him because geometry is a language she speaks and the position said: I am facing you. I am not hiding. She put her hands in her lap and her spine against the chair back and her chin level, the way she'd learned to sit in rooms where sitting is a statement — rooms she'd been in before she was dead, rooms with men who watched you sit down and decided what you were worth before you opened your mouth.
 
 The wine arrived without being ordered. Red, heavy, French — the smell hit her like a wall, oak and tannin and the particular wrongness of anything that is not blood, her body identifying it instantly as nothing, as absence, as the opposite of what she needed. [Ballard](/npcs/ballard/) poured for her first. Filled the glass to the rim.
 
@@ -34,11 +34,11 @@ The wine arrived without being ordered. Red, heavy, French — the smell hit her
 
 She drank. A measured sip, the geometry of the gesture saying she had done this before. The wine hit dead tissue and sat there like a stone in an empty well, and for one second everything in her wanted to bring it back up — the body's revulsion, absolute and mechanical — and she held it. She held it the way she held a smile when a hand moved wrong. Perfectly. At cost.
 
-[Darius](/darius-cole/) drank. His face didn't change. Ventrue discipline or just Darius.
+[Darius](/darius-cole/) drank. His face didn't change. Ventrue discipline or just [Darius](/darius-cole/).
 
 Then the food. [Ballard](/npcs/ballard/) ordered for the table — porterhouse, lobster, risotto, Caesar salad, all of it, for three. "You look thin, dear," he said to Sable, and the word *dear* landed the way a landlord says *tenant*. She picked up her fork. Cut a piece of the lobster. White flesh, butter pooling, steam carrying a sweetness that meant nothing to her, and she chewed and the texture was obscene (wet paper, dead protein, the mouth performing a function it had forgotten the reason for) and she swallowed and held it down and her face did not change.
 
-Ballard turned to Darius. "Your name. Your real name, and who is your sire."
+[Ballard](/npcs/ballard/) turned to Darius. "Your name. Your real name, and who is your sire."
 
 Sable leaned forward. Drew the eye. The geometry of attention she'd learned before she was dead and perfected after. "Mr. Ballard, we appreciate your hospitality. The letter speaks for itself, and we're happy to discuss Prince [Modius](/npcs/modius/)'s intentions in whatever detail you—"
 

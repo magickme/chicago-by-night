@@ -36,10 +36,10 @@ ShowToc: false
 - **Access Points:** Primary entrance through a sub-basement on Lower Wacker Drive, beneath a parking structure between State and Dearborn. Secondary entrances through storm drains at the Chicago River junction near Wolf Point and a sealed utility shaft beneath the old post office on Van Buren.
 - **Network Extent:** The usable tunnel system runs from the Loop north to the [Gold Coast](/locations/gold-coast/) and south to Printer's Row. East-west coverage reaches from the lakefront to Halsted. Not all of it is occupied — much of it is buffer zone and early warning perimeter.
 - **Proximity:** The Michigan Avenue tunnel runs directly beneath the Magnificent Mile. The irony is deliberate. Nosferatu transit beneath feet that would scream if they knew.
-- **Transit:** You don't take transit to the Warrens. You are brought, blindfolded if Khalid doesn't trust you, or you find your own way in and deal with what finds you first.
+- **Transit:** You don't take transit to the Warrens. You are brought, blindfolded if [Khalid](/npcs/khalid-al-rashid/) doesn't trust you, or you find your own way in and deal with what finds you first.
 
 ## Who Controls It
 
 - [Khalid al-Rashid](/npcs/khalid-al-rashid/) holds absolute authority over the network. His word determines who enters, who trades, and who leaves with their memory intact.
 - The Nosferatu operate as a collective below him, but Khalid's intelligence apparatus is his own. Individual Nosferatu hold sections of tunnel as personal territory within the larger network.
-- [Ublo-Satha](/npcs/ublo-satha/) occupies the deepest reaches by something closer to squatter's rights than formal claim. Khalid tolerates the arrangement. No one has asked Ublo-Satha's opinion on the matter.
+- [Ublo-Satha](/npcs/ublo-satha/) occupies the deepest reaches by something closer to squatter's rights than formal claim. Khalid tolerates the arrangement. No one has asked [Ublo-Satha](/npcs/ublo-satha/)'s opinion on the matter.

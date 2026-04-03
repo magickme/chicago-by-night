@@ -21,7 +21,7 @@ ShowToc: false
 
 - Old-money steakhouse. Dark wood paneling, white tablecloths, brass fixtures gone green at the edges. The booths are high-backed leather that blocks sightlines from the dining room.
 - [Ballard](/npcs/ballard/)'s booth is in the back corner, facing the entrance. He can see everyone who walks in. Nobody at the bar can see him.
-- The kitchen sends out courses whether anyone ordered them or not. Porterhouse, creamed spinach, baked potato, Scotch. The staff knows not to clear a plate until [Ballard](/npcs/ballard/) nods. The food gets cold. Ballard does not care. He ate three centuries ago.
+- The kitchen sends out courses whether anyone ordered them or not. Porterhouse, creamed spinach, baked potato, Scotch. The staff knows not to clear a plate until [Ballard](/npcs/ballard/) nods. The food gets cold. [Ballard](/npcs/ballard/) does not care. He ate three centuries ago.
 
 ## Function in Play
 

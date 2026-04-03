@@ -26,7 +26,7 @@ Humanity five. The thought filed itself and closed.
 
 Seventeenth Street in the rain. Tanya's house. Brown siding, white trim, a light in the front room. She parked three houses down and sent Pete in and waited with the wipers on low and the .38 under her thigh and her senses wide open, listening to heartbeats through walls.
 
-Seven minutes. Pete came back. [Spoon](/npcs/spoon-antoine/) already knew something was wrong. Spoon already suspected Chicago. The story landed in soil that was ready for it, and the roots took hold before Pete finished talking.
+Seven minutes. Pete came back. [Spoon](/npcs/spoon-antoine/) already knew something was wrong. [Spoon](/npcs/spoon-antoine/) already suspected Chicago. The story landed in soil that was ready for it, and the roots took hold before Pete finished talking.
 
 She had Pete bring him to the car.
 
@@ -56,7 +56,7 @@ On the way to Fifth Avenue she stopped at a bar off Fifteenth and took two blood
 
 ---
 
-The studio on Fifth Avenue. The lamp. The chaise. The paintings [Michael](/npcs/michael/) left behind like a man leaving furniture in a house he knows he'll never come back to. The phone on the floor, silent, the fifteen minutes before Darius called back passing in the particular silence of a room that contains a phone that could ring with either of two voices.
+The studio on Fifth Avenue. The lamp. The chaise. The paintings [Michael](/npcs/michael/) left behind like a man leaving furniture in a house he knows he'll never come back to. The phone on the floor, silent, the fifteen minutes before [Darius](/darius-cole/) called back passing in the particular silence of a room that contains a phone that could ring with either of two voices.
 
 It didn't ring.
 

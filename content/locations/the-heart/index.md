@@ -33,4 +33,4 @@ ShowToc: false
 
 - [The Rose](/npcs/the-rose/). Completely. The Heart is her creation, her feeding ground, her web.
 - The Widows coven operates the establishment. Mortal sex workers provide the cover and the clientele. The coven provides protection, and the mortals are treated better here than anywhere else on the Main. That's the trap — it works.
-- [Sable](/sable-price/)'s access is a gift from [The Rose](/npcs/the-rose/), and gifts from The Rose accrue interest.
+- [Sable](/sable-price/)'s access is a gift from [The Rose](/npcs/the-rose/), and gifts from [The Rose](/npcs/the-rose/) accrue interest.

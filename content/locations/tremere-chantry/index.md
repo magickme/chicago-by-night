@@ -34,12 +34,12 @@ ShowToc: false
 ## Geographic Placement
 
 - **Address:** Astor Street between Schiller and Burton, [Gold Coast](/locations/gold-coast/). The brownstone sits among consulates and historic mansions. Nothing about the exterior announces what it is.
-- **Neighborhood:** Gold Coast / Near North. Old-money residential. Quiet streets, gas lamps, lakefront proximity. The wealth here is the kind that doesn't need to advertise.
+- **Neighborhood:** [Gold Coast](/locations/gold-coast/) / Near North. Old-money residential. Quiet streets, gas lamps, lakefront proximity. The wealth here is the kind that doesn't need to advertise.
 - **Proximity:** Eight blocks north of the [Succubus Club](/locations/succubus-club/). Lake Shore Drive is two blocks east. Lincoln Park begins at North Avenue. The Magnificent Mile's commercial corridor is four blocks south on Michigan Avenue.
 - **Transit:** CTA Red Line to Clark/Division, then walk north. Street parking. No cab traffic on the residential blocks after midnight.
 
 ## Who Controls It
 
 - [Nicolai](/npcs/nicolai/) is regent. His authority within these walls is absolute, delegated from the Vienna council.
-- [Abraham DuSable](/npcs/abraham-dusable/) operates as Nicolai's second and primary enforcer. He handles the chantry's external business and the things Nicolai considers beneath direct attention.
+- [Abraham DuSable](/npcs/abraham-dusable/) operates as [Nicolai](/npcs/nicolai/)'s second and primary enforcer. He handles the chantry's external business and the things Nicolai considers beneath direct attention.
 - Visiting Tremere from other cities are received here. They follow protocol or they leave damaged.

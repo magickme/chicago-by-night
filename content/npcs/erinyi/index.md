@@ -21,7 +21,7 @@ University student Margaret Moy fled to Detroit to escape her abusive father whe
 
 Erinyi's days in 25:17 were bittersweet. She loved [Ezekiel](/npcs/ezekiel/), whom she considered her savior, and felt camaraderie for the others. But her rage tore her apart. She joined the Path of Cathari in search of relief, but became lost in the abandon of the Albigensians. Finally, her longing for [Ezekiel](/npcs/ezekiel/) became an obsession, and she attacked [Soldat](/npcs/soldat/) after he drew attention to her feelings.
 
-Ezekiel asked [Reza Fatir](/npcs/reza-fatir/) to guide Erinyi on the structured Path of Honorable Accord. [Reza](/npcs/reza-fatir/) accepted, aware of the sacrifice that Ezekiel made by initiating a change in Erinyi that his own Path deemed a weakness. Erinyi gained some control over her life as a result.
+[Ezekiel](/npcs/ezekiel/) asked [Reza Fatir](/npcs/reza-fatir/) to guide Erinyi on the structured Path of Honorable Accord. [Reza](/npcs/reza-fatir/) accepted, aware of the sacrifice that Ezekiel made by initiating a change in Erinyi that his own Path deemed a weakness. Erinyi gained some control over her life as a result.
 
 She met [Celeste](/npcs/celeste/) after seeing the vampire perform at [Angel's Fall](/locations/angels-fall/). Finding that her hostility was soothed by music, Erinyi joined Wyldchylde. When she approached her patrons with the prospect of traveling with the Navigators in 1996, they complied. [Miguel Santo Domingo](/npcs/miguel-santo-domingo/) remains uncomfortable with Erinyi's ties to Ezekiel, but respects [Celeste](/npcs/celeste/)'s refusal to condemn the Gargoyle for her loyalty.
 

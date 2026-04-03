@@ -26,17 +26,17 @@ The question landed in the bar noise like a coin in a jukebox. [Victor](/npcs/vi
 
 "No."
 
-[Shepard](/npcs/william-shepard/) wrote in his notebook. Left a card. Scanned the room the way cops scan rooms, looking for the flinch instead of the face, and his eyes passed over [Darius](/darius-cole/) the way they'd passed over him at Rosie's two nights earlier. The same blazer. The same invisibility. The door opened and the federal government walked out into the Gary night and Victor picked up a glass and started polishing it.
+[Shepard](/npcs/william-shepard/) wrote in his notebook. Left a card. Scanned the room the way cops scan rooms, looking for the flinch instead of the face, and his eyes passed over [Darius](/darius-cole/) the way they'd passed over him at Rosie's two nights earlier. The same blazer. The same invisibility. The door opened and the federal government walked out into the Gary night and [Victor](/npcs/victor-salonika/) picked up a glass and started polishing it.
 
 "You're here about that."
 
 "What did he ask before I walked in?"
 
-Victor told him. Lakeside. The building. Whether anyone unusual had come around. Warren Birch. Victor's answers had been true because Victor's ignorance was genuine, and Darius looked at the ghoul and made a decision that felt like locking a door.
+Victor told him. Lakeside. The building. Whether anyone unusual had come around. Warren Birch. Victor's answers had been true because Victor's ignorance was genuine, and [Darius](/darius-cole/) looked at the ghoul and made a decision that felt like locking a door.
 
 "Never heard of him."
 
-Victor held the look. Darius held it back. The lie was simple and clean and Victor filed it and nodded and went back to work, and the best briefing Darius could have given was the one he didn't give. What Victor didn't know, Victor couldn't say. What Victor couldn't say, Shepard couldn't pull out of him with a subpoena. Ignorance was the only armor that couldn't be beaten by a federal judge.
+Victor held the look. Darius held it back. The lie was simple and clean and Victor filed it and nodded and went back to work, and the best briefing Darius could have given was the one he didn't give. What Victor didn't know, Victor couldn't say. What Victor couldn't say, [Shepard](/npcs/william-shepard/) couldn't pull out of him with a subpoena. Ignorance was the only armor that couldn't be beaten by a federal judge.
 
 Broadway south to Fifth. The laundromat closed since '88. The payphone outside with a receiver that smelled like rain and cigarettes and the particular neglect of a phone company that services dead neighborhoods. Quarters in the slot. The Argyle Street number from memory.
 
@@ -62,7 +62,7 @@ Darius gave him the pipeline first because that was the sire's language and you 
 
 "I bought a position."
 
-He explained it the way you explain a bet to a man who plays odds — the Torch controls the Rack, the Rack controls feeding access, feeding access gave him something to trade with [Lucian](/npcs/lucian/). Without the building he was asking. With it he was offering. The logic was clean. The logic was always clean. Whether [Chuc Luc](/npcs/chuc-luc/) would accept clean logic from an asset who spent his money without permission was a different calculation.
+He explained it the way you explain a bet to a man who plays odds — [the Torch](/locations/the-torch/) controls the Rack, the Rack controls feeding access, feeding access gave him something to trade with [Lucian](/npcs/lucian/). Without the building he was asking. With it he was offering. The logic was clean. The logic was always clean. Whether [Chuc Luc](/npcs/chuc-luc/) would accept clean logic from an asset who spent his money without permission was a different calculation.
 
 "What else."
 

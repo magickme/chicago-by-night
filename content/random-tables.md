@@ -929,11 +929,12 @@ Use one headline at scene open to add mortal friction unrelated to the Jyhad. Th
 |17|Sabbat infiltration|LATENT. Rigaud and Wade embedded.|
 |18|The Methuselah War|HIDDEN but ACTIVE. Helena vs Menele. Darius bonded Step 1. Menele's body in Lodin's custody. Lodin fed Menele's blood via Roarke. Three Jyhad pieces active (Darius, Lodin, Critias).|
 |19|Tremere PC integration|LATENT. Third PC planned post-Act II.|
-|20|Who is Roarke?|COMPLETE. Lodin's ex-retainer. Shot in London 1969, fed Menele's blood, woke hating Lodin. Built cult at Hell's Pasture. Destroyed D031.|
-|21-22|Lodin's return (2x)|NEW. Prince back in play. Major boon owed. Callback before dawn. Political reshuffling. Blood bond demand likely. Menele's body in his cedar closet.|
-|23|Belthazar vendetta|NEW. Staked by Damien on Wacker Drive (S030). Neon guarding. When unstaked → hunt.|
-|24|The torpored body|TRANSFERRED. Menele's body delivered to Lodin at Drake Hotel (D031). Cedar closet, 8th floor. Lodin recognized the pendant. "A key." Coterie no longer in possession. Lodin ordered: do not discuss, do not open trunk for anyone.|
-|25|Damien and Neon|NEW. Anarch allies (strained — Sable warned Belthazar). Rescued coterie. Debt owed.|
+|20-21|Lodin's return (2x)|ACTIVE. Prince back in play. 5 nights silent. Major boon owed. Sir Henry making Drake inquiries. Political reshuffling. Blood bond demand likely. Menele's body in his cedar closet.|
+|22|Belthazar vendetta|NEW. Staked by Damien on Wacker Drive (S030). Neon guarding. When unstaked → hunt.|
+|23|The torpored body|TRANSFERRED. Menele's body delivered to Lodin at Drake Hotel (D031). Cedar closet, 8th floor. Lodin recognized the pendant. "A key." Coterie no longer in possession. Lodin ordered: do not discuss, do not open trunk for anyone.|
+|24|Damien and Neon|NEW. Anarch allies (strained — Sable warned Belthazar). Rescued coterie. Debt owed.|
+|25-26|Ballard's frame job (2x)|NEW. Ballard dining with Primogen, cultivating ghoul driver. Counter-ops: driver Mesmerized, Conditioning 4/14. Sir Henry monitoring. Clock 3/6.|
+|27|Gengis intel channel|NEW. Brujah Anarch gave Ballard intel freely. Wants access to Camarilla table through coterie. No commitment made.|
 
 ### Sable Threads
 
@@ -952,11 +953,14 @@ Use one headline at scene open to add mortal friction unrelated to the Jyhad. Th
 |Cover story under scrutiny|1x|OPEN. Sable's identity less fabricated than Darius's, but App 5 is memorable. Critias now aware of her Auspex 3.|
 |Anarch unrest|1x|OPEN. Gengis/Damien. Brewery. Lodin's files mention Damien by name.|
 |Who is Roarke?|1x|COMPLETE. Destroyed D031.|
-|Lodin's return|2x|NEW. Prince back. Major boon owed. Political reshuffling. Blood bond demand likely.|
+|Lodin's return|2x|ACTIVE. Prince back 5 nights, silent. Sir Henry making Drake inquiries. Political reshuffling. Blood bond demand likely.|
 |The torpored body|1x|TRANSFERRED. Menele's body with Lodin at Drake Hotel. No longer in coterie possession.|
 |Damien/Neon|1x|NEW. Anarch contact, strained by Sable's warning. Rescued coterie.|
 |Belthazar vendetta|1x|NEW. Staked on Wacker. Will wake. Will hunt.|
 |Hunter convergence|1x|ADVANCED. Standdown encountered + wiped. Shepard connected.|
+|Ballard's frame job|2x|NEW. Ballard dining Primogen, cultivating ghoul driver. Counter-ops active. Clock 3/6.|
+|Sir Henry alliance|1x|NEW. Gossip-for-gossip deal. Making Drake inquiries re Lodin. Invested — vouching on the line.|
+|Modius's leash|2x|MANAGED. Sable called Jan 9 — bought 48 hrs. Next call must have substance.|
 |Methuselah War|HIDDEN but ACTIVE|Helena vs Menele. Darius bonded Step 1 to Menele. Coterie = unwitting Menele proxies. Portia at Succubus Club.|
 |Sabbat infiltration|LATENT|Activates Act III.|
 
@@ -987,6 +991,7 @@ Use one headline at scene open to add mortal friction unrelated to the Jyhad. Th
 |26|Neon (Jimmy Holcomb)|
 |27|Scottie Cartwright|
 |28|Michael Standdown|
+|29|Ghoul driver (Belthazar's)|
 
 ## Live Story Oracles
 

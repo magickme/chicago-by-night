@@ -56,7 +56,7 @@ The woods were nothing to Kindred eyes. Every branch, every rock shelf, every pu
 
 They found [Scottie Cartwright](/npcs/scottie-cartwright/) first. The reporter was crouched behind a fallen log with a notebook, scribbling by touch, oblivious. They passed him like he wasn't there.
 
-The ram came second. Sable heard it — Heightened Senses, the hearing tuned to a frequency that picked up hoofbeats through the forest floor. She grabbed Darius's sleeve. They went flat behind limestone as the thing crashed through at six feet from their position. Shoulder height past Darius's waist. Horns curved and black and wrong. The eyes rolling white. Whatever had fed this animal, it wasn't a farmer.
+The ram came second. [Sable](/sable-price/) heard it — Heightened Senses, the hearing tuned to a frequency that picked up hoofbeats through the forest floor. She grabbed [Darius](/darius-cole/)'s sleeve. They went flat behind limestone as the thing crashed through at six feet from their position. Shoulder height past Darius's waist. Horns curved and black and wrong. The eyes rolling white. Whatever had fed this animal, it wasn't a farmer.
 
 Then the cultists. Fifteen of them, robes streaming, torches bouncing, chasing the ram east. They passed without slowing. The woods went quiet.
 
@@ -80,7 +80,7 @@ Sable's voice, flat: "That's the Prince of Chicago."
 
 Darius pulled the stake. The wood came free with a sound like a boot leaving mud. The eyes didn't open. Torpor. Blood-starved past consciousness. But the wound exhaled — a release of pressure — and the rats went berserk. Cages rattling. Hinges groaning.
 
-He got Lodin over his shoulders. Sable swept jars off the shelf in the grotto — formaldehyde, the smell unmistakable. She splashed the tunnel floor at the rat room entrance, struck a match from the ceremony shelf, and dropped it.
+He got [Lodin](/npcs/lodin/) over his shoulders. Sable swept jars off the shelf in the grotto — formaldehyde, the smell unmistakable. She splashed the tunnel floor at the rat room entrance, struck a match from the ceremony shelf, and dropped it.
 
 Blue flame. Then orange. The heat pushed up the tunnel like a train. Behind the firewall, the rats screamed.
 
@@ -88,7 +88,7 @@ Blue flame. Then orange. The heat pushed up the tunnel like a train. Behind the 
 
 They came out of the tunnel at a run. The amphitheater was mid-feast — faces smeared with blood, the bonfire throwing lurching shadows. [Roarke](/npcs/roarke/) was twenty yards away, arms raised, face tilted toward the sky.
 
-Sable covered the distance in three seconds. Shotgun barrel to the back of Roarke's skull.
+Sable covered the distance in three seconds. Shotgun barrel to the back of [Roarke](/npcs/roarke/)'s skull.
 
 "Don't."
 

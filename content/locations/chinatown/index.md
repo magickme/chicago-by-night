@@ -27,7 +27,7 @@ ShowToc: false
 
 - [Chuc Luc](/npcs/chuc-luc/)'s domain. Two territories, one mind. Old Chinatown is the public face, Wentworth Avenue and Cermak Road. New Chinatown is the pipeline hub, Argyle Street in Uptown, Vietnamese restaurants and import shops.
 - [Darius](/darius-cole/)'s sire-childe bond with [Chuc Luc](/npcs/chuc-luc/) makes these streets simultaneously the safest and most dangerous ground in Chicago for him.
-- The Vietnamese restaurant cellar on Argyle is Chuc Luc's haven. She kills intruders. No warnings, no exceptions, no bodies found.
+- The Vietnamese restaurant cellar on Argyle is [Chuc Luc](/npcs/chuc-luc/)'s haven. She kills intruders. No warnings, no exceptions, no bodies found.
 
 ## Geographic Placement
 

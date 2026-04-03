@@ -22,13 +22,13 @@ When [Sable](/sable-price/) pulled out the photograph and held it up, [Allicia](
 
 Two words. The second time she'd spoken to [Sable](/sable-price/). The first had been a warning in the back room of a strip club on 75th Street. This was something else. Not gratitude exactly. Recognition. The sound of a woman acknowledging that someone had done something for her without wanting to own her for it, and the acknowledgment was fifty years overdue and addressed to the wrong person and arrived at the right time.
 
-She sat on the bed beside Sable. Close. Not touching. The distance between them was measured in the width of a snow globe and fifty years of silence and the particular space that exists between two women who understand captivity and have not yet figured out what the alternative looks like.
+She sat on the bed beside [Sable](/sable-price/). Close. Not touching. The distance between them was measured in the width of a snow globe and fifty years of silence and the particular space that exists between two women who understand captivity and have not yet figured out what the alternative looks like.
 
 They sat. The lake sounded through the window. [Allicia](/npcs/allicia/) didn't speak again. She didn't need to.
 
 ---
 
-Downstairs, [Darius](/darius-cole/) gave [Modius](/npcs/modius/) the version that worked. A threat to Allicia. Mortal, occult, aimed and neutralized. The framing was careful: *your* court, *your* people, *we* acted in service to *your* authority. The prince heard what the prince needed to hear: his neonates were loyal, his collection was safe, the machine was working.
+Downstairs, [Darius](/darius-cole/) gave [Modius](/npcs/modius/) the version that worked. A threat to [Allicia](/npcs/allicia/). Mortal, occult, aimed and neutralized. The framing was careful: *your* court, *your* people, *we* acted in service to *your* authority. The prince heard what the prince needed to hear: his neonates were loyal, his collection was safe, the machine was working.
 
 [Modius](/npcs/modius/) listened with the piano lid open and the Auspex scanning and the Conniver's mind running the geometry of two neonates who solved a problem without asking permission. The geometry bothered him. He filed it.
 
@@ -44,7 +44,7 @@ The Cutlass. The lakefront road. Sable came down the stairs with a face that had
 
 "She said thank you. Two words."
 
-"Modius bought it. For now. He wants the full story tomorrow."
+"[Modius](/npcs/modius/) bought it. For now. He wants the full story tomorrow."
 
 "What are you going to tell him?"
 

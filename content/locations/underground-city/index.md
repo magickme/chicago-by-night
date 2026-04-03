@@ -27,7 +27,7 @@ ShowToc: false
 
 - The coterie's primary movement corridors. Thirty-plus kilometers of tunnels connecting metro stations, shopping centers, office towers, and university buildings.
 - Safe transit between locations without surface exposure. The underground alternative to streets where packs patrol and mortals notice patterns.
-- Elias controls the chokepoints. Using the tunnels means owing Elias, or at least not offending him.
+- [Elias](/npcs/elias-the-whale/) controls the chokepoints. Using the tunnels means owing Elias, or at least not offending him.
 
 ## Who Controls It
 

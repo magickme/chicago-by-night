@@ -21,7 +21,7 @@ During World War II, [Nicolai](/npcs/nicolai/) began searching Chicago's elite f
 
 [Nicolai](/npcs/nicolai/) found this embittered 60-year-old perfectly suited for his plans. He visited the lawyer one night when DuSable was feeling especially bitter, and after a brief display of his capabilities, convinced the distinguished gentleman to become his childe. [Nicolai](/npcs/nicolai/) was surprised he needed no Domination to accomplish this. DuSable had some family in the city, but it was a simple matter to fake his death in an apparent racist attack.
 
-After several months, Nicolai took DuSable to Vienna to meet the Tremere Elders. The Tremere was all DuSable had ever hoped for — true power, based solely on his ability to use it, not on the color of his skin. He willingly drank the Blood of the Elders for a three-day period and was then completely and happily bound to the clan.
+After several months, [Nicolai](/npcs/nicolai/) took DuSable to Vienna to meet the Tremere Elders. The Tremere was all DuSable had ever hoped for — true power, based solely on his ability to use it, not on the color of his skin. He willingly drank the Blood of the Elders for a three-day period and was then completely and happily bound to the clan.
 
 During the succeeding decades, DuSable has never questioned the morality or ethics of what he has done. He has no interest in mortal society, though upon returning to Chicago he did consider revenge against all who he felt had wronged him. Nicolai quickly dissuaded him. His years of tutelage have led him to feel that revenge is a petty desire compared to the drive for power which motivates most Tremere.
 

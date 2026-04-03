@@ -36,13 +36,13 @@ One word. Then back to the window.
 
 The mansion was south of the city proper, at the end of a lane that hadn't been repaved since the war. Iron fence, rusting at the joints. Gargoyles on the roof. Ivy on the walls. The kind of old that made you understand what the word meant when applied to things that weren't dead.
 
-Lodin adjusted his cuffs. Became the Prince. Walked to the front door and knocked once.
+[Lodin](/npcs/lodin/) adjusted his cuffs. Became the Prince. Walked to the front door and knocked once.
 
 [Pershing](/npcs/pershing/) opened it. Silver-haired. The posture of a man who had been opening doors for important people since before important people had cars. He looked at Lodin the way a sommelier looks at a bottle he's been saving. He didn't look at the van at all.
 
 The door closed.
 
-Roarke told the others to stay put and walked up the gravel path. The gargoyles watched. [Pershing](/npcs/pershing/) opened the door and raised one hand -- palm out, fingers together -- without looking at Roarke directly. Then turned and walked down a corridor lined with portraits painted by someone who understood what power looked like when it sat still.
+[Roarke](/npcs/roarke/) told the others to stay put and walked up the gravel path. The gargoyles watched. [Pershing](/npcs/pershing/) opened the door and raised one hand -- palm out, fingers together -- without looking at Roarke directly. Then turned and walked down a corridor lined with portraits painted by someone who understood what power looked like when it sat still.
 
 From behind a closed door, two voices:
 
@@ -58,7 +58,7 @@ Roarke brought the others inside. The chess set was mid-game -- white losing mat
 
 [Amber](/npcs/amber/) said maybe everything is a game to them and the game is the point. Roarke said *truer words* in the flat dry voice of a man who'd spent six decades learning exactly how true it was.
 
-An hour and a half later, Pershing opened the door without knocking and told them their master was finished. The corridor. The portraits. The front door. Lodin at the van with his hands behind his back and his face closed like a book someone had decided you weren't allowed to read.
+An hour and a half later, [Pershing](/npcs/pershing/) opened the door without knocking and told them their master was finished. The corridor. The portraits. The front door. Lodin at the van with his hands behind his back and his face closed like a book someone had decided you weren't allowed to read.
 
 Tomorrow. There is an auction. Piccadilly. Eleven o'clock. You will attend.
 

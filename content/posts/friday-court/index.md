@@ -24,15 +24,15 @@ The study. Wood panels. A self-portrait on the wall, the brushwork competent and
 
 "My childe has become willful," the prince said. "She has refused an instruction. This is unusual for [Allicia](/npcs/allicia/). In eighty years, she has not refused me."
 
-He asked what was happening between them. [Sable](/sable-price/) told him what he needed to hear: Allicia loved him and wanted more of his attention. She said it with warmth and concern and the right amount of deference, and the lie cost her a piece of willpower she couldn't afford to waste, and Modius read her aura and saw anxiety and affection and a shimmer of something not quite honest, and he chose to believe the shimmer was nerves because the alternative was worse.
+He asked what was happening between them. [Sable](/sable-price/) told him what he needed to hear: [Allicia](/npcs/allicia/) loved him and wanted more of his attention. She said it with warmth and concern and the right amount of deference, and the lie cost her a piece of willpower she couldn't afford to waste, and [Modius](/npcs/modius/) read her aura and saw anxiety and affection and a shimmer of something not quite honest, and he chose to believe the shimmer was nerves because the alternative was worse.
 
 "Be her friend," he said. "Be her comfort. Tell me what she needs so I can provide it."
 
-The assignment. The same one from January, the same leash in a different hand. Spy on Allicia. Report what she says, what she wants, what she needs. One rule, delivered to the painting on the wall instead of to Sable's face: "Do not give her blood. Do not accept hers."
+The assignment. The same one from January, the same leash in a different hand. Spy on Allicia. Report what she says, what she wants, what she needs. One rule, delivered to the painting on the wall instead of to [Sable](/sable-price/)'s face: "Do not give her blood. Do not accept hers."
 
 She nodded her deference and left.
 
-At the bookshelf, Darius stood beside her and they spoke in voices that didn't carry past the spines.
+At the bookshelf, [Darius](/darius-cole/) stood beside her and they spoke in voices that didn't carry past the spines.
 
 "He wants me to spy on Allicia again. She told him no about something and he's rattled."
 

@@ -32,7 +32,7 @@ The silence after was the kind that has teeth.
 
 [Darius](/darius-cole/) gave up [Michael](/npcs/michael/). The name came out clean because the calculation was clean: the Malkavian in the cemetery was worth less than the prince's trust, and trust in the Jyhad is the only currency that doesn't depreciate. He said the name and he meant it and the conscience that would punish him for it later was a bill he could pay when it came due.
 
-[Modius](/npcs/modius/) heard it and filed it and moved on to the docks, and Darius feigned ignorance with the last of his WP and the prince's Auspex stuttered on something — distraction or fatigue or the specific blindness that even elders suffer when they're processing too many revelations in one sitting — and the docks question went unanswered but not unasked.
+[Modius](/npcs/modius/) heard it and filed it and moved on to the docks, and [Darius](/darius-cole/) feigned ignorance with the last of his WP and the prince's Auspex stuttered on something — distraction or fatigue or the specific blindness that even elders suffer when they're processing too many revelations in one sitting — and the docks question went unanswered but not unasked.
 
 "You've been busy, Warren. More busy than I knew. More capable than I assumed. That's either very good for me or very bad for me."
 
@@ -44,7 +44,7 @@ It wasn't in the car. It was in [Sable](/sable-price/)'s jacket pocket at the Fi
 
 "You seem to have a great many tomorrows, Warren."
 
-The interview ended without the piano lid closing. Modius watched him leave and Darius could feel the gaze on his back all the way to the car, the weight of a prince recalculating the value of a tool that had proven itself useful and unreliable in the same evening.
+The interview ended without the piano lid closing. [Modius](/npcs/modius/) watched him leave and Darius could feel the gaze on his back all the way to the car, the weight of a prince recalculating the value of a tool that had proven itself useful and unreliable in the same evening.
 
 He drove home. WP at 2. Blood at 9. The west-side apartment was dark. He sat at the kitchen table and thought about [Michael](/npcs/michael/) in the cemetery shed with his paintings and his candles and the trust that had taken five months to build and one sentence to betray. The Malkavian had given him the information that saved [Allicia](/npcs/allicia/)'s life and Darius had traded his name for the privilege of lying about a library.
 

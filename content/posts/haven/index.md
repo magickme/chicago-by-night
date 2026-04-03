@@ -30,13 +30,13 @@ He walked to her window and knocked.
 
 She felt the Dread wash out of her chest before she made the decision to use it. The Presence built the way it always built, rising from somewhere behind her sternum like a wave of dark water, and when she rolled down the window and let [Williams](/npcs/williams/) see her eyes, what he saw in them was the thing that lived at the bottom of every human being's nervous system, the thing that woke up in caves and forests and dark water, the ancient and mammalian certainty that something with teeth was looking at you and it was too late to run.
 
-Williams stepped back. His face did something it probably hadn't done in years — it moved. The blankness cracked for half a second and underneath it was the quick recalculation of a professional whose operational assumptions had just been revised. He'd knocked on a window expecting a mortal woman alone in a car at night. He'd found something else.
+[Williams](/npcs/williams/) stepped back. His face did something it probably hadn't done in years — it moved. The blankness cracked for half a second and underneath it was the quick recalculation of a professional whose operational assumptions had just been revised. He'd knocked on a window expecting a mortal woman alone in a car at night. He'd found something else.
 
 His hands came up. Palms out.
 
 "Easy. Easy now. Didn't know you were — my mistake."
 
-He was already backing toward the van. And the van's side door was open, and in the slice of interior darkness visible between the frame and the door someone inside was pulling shut, Sable saw a shape. Horizontal. Wrapped in something dark. A tarp or a blanket or whatever you used to wrap a body that was still breathing but wouldn't be conscious until Saturday.
+He was already backing toward the van. And the van's side door was open, and in the slice of interior darkness visible between the frame and the door someone inside was pulling shut, [Sable](/sable-price/) saw a shape. Horizontal. Wrapped in something dark. A tarp or a blanket or whatever you used to wrap a body that was still breathing but wouldn't be conscious until Saturday.
 
 The door closed. The shape disappeared. The van was just a van again.
 

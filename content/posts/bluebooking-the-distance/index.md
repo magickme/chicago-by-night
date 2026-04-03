@@ -36,13 +36,13 @@ Four months. Thirty-some conversations. Two people fluent in the language of sur
 
 ---
 
-In April, at The Torch, [Sable](/sable-price/)'s blood betrayed her.
+In April, at [The Torch](/locations/the-torch/), [Sable](/sable-price/)'s blood betrayed her.
 
-A Thursday night. Three dancers on the runway, the usual crowd, [Victor](/npcs/victor-salonika/) polishing glasses with the efficiency of a man who'd been polishing glasses since Eisenhower. The jukebox switched tracks and somebody put on [Anita](/npcs/anita-wainwright/) Baker, and one of the dancers caught the light at an angle that stopped being anatomy and became geometry, the body in motion transcribing something the eye couldn't name and the mind couldn't hold, and Sable's Toreador blood grabbed her by the jaw and said *look*.
+A Thursday night. Three dancers on the runway, the usual crowd, [Victor](/npcs/victor-salonika/) polishing glasses with the efficiency of a man who'd been polishing glasses since Eisenhower. The jukebox switched tracks and somebody put on [Anita](/npcs/anita-wainwright/) Baker, and one of the dancers caught the light at an angle that stopped being anatomy and became geometry, the body in motion transcribing something the eye couldn't name and the mind couldn't hold, and [Sable](/sable-price/)'s Toreador blood grabbed her by the jaw and said *look*.
 
 She froze. Mid-sentence, mid-word, mid-breath she didn't need. The entrancement took her the way it always took her: total, without warning, the beauty pouring into the space behind her eyes and filling it until there was no room for anything else. No will. No defense. No Sable. Just the looking, and the thing being looked at, and the annihilation of the distance between them.
 
-Darius was sitting across from her.
+[Darius](/darius-cole/) was sitting across from her.
 
 He saw it happen. The sentence stopping. The eyes locking. The body going rigid in the booth, beautiful and vacant, a woman who commanded rooms turned into something that couldn't command her own pupils.
 
@@ -88,7 +88,7 @@ In March, a boy's body turned up in the dumpster behind The Torch. Sixteen, unde
 
 In April, a dockworker told a bouncer who told a dancer who told Sable that somebody had seen a boy walking near the Wasteland. A boy matching the description of the one they found in the dumpster. Three weeks dead and walking. The dancer laughed when she said it. Sable didn't.
 
-In May, a cleaning crew found a brooch in the alley. Antique. Unusual metalwork. Victor put it in the lost-and-found behind the bar.
+In May, a cleaning crew found a brooch in the alley. Antique. Unusual metalwork. [Victor](/npcs/victor-salonika/) put it in the lost-and-found behind the bar.
 
 The city was doing what Gary always did: producing evidence of something wrong and filing it in the place where nobody looks.
 

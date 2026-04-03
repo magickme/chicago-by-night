@@ -26,7 +26,7 @@ Concrete walls. No windows. The brass fittings stopped catching anything.
 
 Harvey came back. Five suitcases for four visible people. He opened them one by one and asked who they belonged to. [Lodin](/npcs/lodin/)'s was the blue one -- wrong size for everyone here. [Roarke](/npcs/roarke/) said it was clothes [Amber](/npcs/amber/) packed for her father in Kensington. [Amber](/npcs/amber/), still catching her breath on a folding chair, nodded. Dad's hopeless about shopping for himself, she said. Harvey checked the manifest. There was a large wooden chest listed. Where was it?
 
-Roarke lied. Harvey didn't buy it. He started walking toward the alcove.
+[Roarke](/npcs/roarke/) lied. Harvey didn't buy it. He started walking toward the alcove.
 
 Roarke stepped into his path and caught his eyes. The borrowed power in his blood reached out -- not warm, not cold, just *there* -- and something behind Harvey's face loosened like a knot pulled from the wrong end. The clipboard lowered. The pen stopped tapping.
 

@@ -26,7 +26,7 @@ Then the door opened and a man in a cheap blazer walked in and sat two stools do
 
 The study. The self-portrait. The lamp. [Modius](/npcs/modius/) behind the desk with the Auspex running like a searchlight.
 
-Darius gave him everything. The FBI. Lakeside. [Lucian](/npcs/lucian/)'s ask — feeding rights, not the building. The assumption — $800 a month, paperwork filing tomorrow, the auction over by Monday. Three problems, two solutions, and one neonate standing in the prince's study at eleven at night with an envelope in his coat that changed the power structure of Gary.
+[Darius](/darius-cole/) gave him everything. The FBI. Lakeside. [Lucian](/npcs/lucian/)'s ask — feeding rights, not the building. The assumption — $800 a month, paperwork filing tomorrow, the auction over by Monday. Three problems, two solutions, and one neonate standing in the prince's study at eleven at night with an envelope in his coat that changed the power structure of Gary.
 
 "With what money, Warren?" the prince asked.
 
@@ -40,7 +40,7 @@ Darius heard the fuse light. The question wasn't casual and the "at some point" 
 
 "Hell, I'll explain it tonight, [Modius](/npcs/modius/). I'm just trying to impress you. Beginner's luck. If I'm overstepping, guide me, your Majesty. I am new. You are a master."
 
-The room shifted. The Child rose through the Conniver like warmth through cold water. Modius laughed — small, genuine, the sound of a man who expected a chess move and got a puppy. "Beginner's luck," he repeated. "You broker a deal with the oldest Gangrel in the Great Lakes and call it beginner's luck."
+The room shifted. The Child rose through the Conniver like warmth through cold water. [Modius](/npcs/modius/) laughed — small, genuine, the sound of a man who expected a chess move and got a puppy. "Beginner's luck," he repeated. "You broker a deal with the oldest Gangrel in the Great Lakes and call it beginner's luck."
 
 He shook his head. "You remind me of someone."
 

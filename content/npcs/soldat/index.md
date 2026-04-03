@@ -23,4 +23,4 @@ Benjamin's anger and aggression were sublimated by the rituals and purpose of th
 
 **Image:** Soldat is an impressive figure, standing over six feet tall. His face is strong and firm, framed by shoulder-length blond hair. Soldat is known for wearing WWI-era pants and a brown leather trench coat. He sometimes carries a set of bagpipes and plays them during war parties and pack rites.
 
-**Secrets:** Soldat occasionally meets with Archbishop [Valez](/npcs/carolina-valez/) in hopes that she and Ezekiel can come to an understanding without resorting to war.
+**Secrets:** Soldat occasionally meets with Archbishop [Valez](/npcs/carolina-valez/) in hopes that she and [Ezekiel](/npcs/ezekiel/) can come to an understanding without resorting to war.

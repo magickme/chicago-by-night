@@ -22,7 +22,7 @@ The stevedore had given him the answer without knowing what he was giving. [Greg
 
 Off the books. No partner. No reports filed. Just a man and a notebook and a feeling that something was wrong at the waterfront.
 
-Darius started the engine.
+[Darius](/darius-cole/) started the engine.
 
 ---
 
@@ -60,7 +60,7 @@ He took the manila folder off the hood of the Crown Vic. Tucked it under his arm
 
 He stepped back. Broke eye contact.
 
-Gregory Stephens blinked. Looked down at the asphalt. Frowned at his empty hand. Lit another cigarette from his jacket pocket with the slow, unfocused movements of a man surfacing from a dream he couldn't quite recall. He leaned back against the Crown Vic and smoked and stared at nothing, and Darius was already in the alley, and then in the Cutlass, and then four blocks away under a dead streetlight with the folder open on the passenger seat.
+[Gregory Stephens](/npcs/gregory-stephens/) blinked. Looked down at the asphalt. Frowned at his empty hand. Lit another cigarette from his jacket pocket with the slow, unfocused movements of a man surfacing from a dream he couldn't quite recall. He leaned back against the Crown Vic and smoked and stared at nothing, and Darius was already in the alley, and then in the Cutlass, and then four blocks away under a dead streetlight with the folder open on the passenger seat.
 
 ---
 

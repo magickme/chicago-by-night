@@ -26,7 +26,7 @@ Outside: December. Gary. The sky the color of old newspaper. Sunset had been at 
 
 The flagger was alone at the barricade's dead end. Fifties. County parka under the reflective vest. Virginia Slim, last quarter inch. She had the face of a woman who'd been promised something twenty years ago and was still waiting to collect, and the anger -- [Sable](/sable-price/) could feel it before she could smell the blood -- came off her in waves that had nothing to do with the cold.
 
-Marie. Her name was Marie. Later, when it mattered, when Sable was being careful about names (because the alternative, because the version of herself that didn't learn names, was the version she couldn't afford to become), she'd remember that.
+Marie. Her name was Marie. Later, when it mattered, when [Sable](/sable-price/) was being careful about names (because the alternative, because the version of herself that didn't learn names, was the version she couldn't afford to become), she'd remember that.
 
 The approach was social because social was the only thing left. At three blood the Beast wanted teeth, wanted throat, wanted speed and silence and the alley behind the laundromat where nobody would find the body for hours. Sable gave it a handshake instead. Touched the woman's arm -- thank you, which way to Fifteenth? -- and the fingers closed and she pulled her behind the sawhorse and into the dark and it happened the way it always happened, mouth to neck, the gasp, the softening, the warmth flooding back through both of them like a debt being settled.
 
@@ -62,7 +62,7 @@ They talked under the Satie. Carefully. The way you handle something that might 
 
 [Modius](/npcs/modius/) had stopped asking about the foreign blood in her. Three months of silence.
 
-*That's worse,* Allicia said. *When he stops asking, it means he already knows.*
+*That's worse,* [Allicia](/npcs/allicia/) said. *When he stops asking, it means he already knows.*
 
 They both knew what came after certainty in [Modius](/npcs/modius/)'s vocabulary.
 

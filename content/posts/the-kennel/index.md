@@ -92,11 +92,11 @@ She found [Allicia](/npcs/allicia/) at the Rack. Pressed into the shadow of a cl
 
 In the car, [Allicia](/npcs/allicia/) fed from Pete. Her hand on his jaw, tilting his face toward the light that came through the window, her mouth on his neck. Three pulls. Controlled. The starving woman eating with a knife and fork because manners were the last thing standing when everything else was gone. Pete made a sound — soft, involuntary — and his body went slack against the door.
 
-Allicia pulled back with blood on her lips and color in her skin and her eyes held something that wasn't hunger anymore but wasn't full either. Something closer to grief. The grief of a woman who had to eat from a stranger's ghoul in the backseat of a car because the man who made her wouldn't let her eat at home.
+[Allicia](/npcs/allicia/) pulled back with blood on her lips and color in her skin and her eyes held something that wasn't hunger anymore but wasn't full either. Something closer to grief. The grief of a woman who had to eat from a stranger's ghoul in the backseat of a car because the man who made her wouldn't let her eat at home.
 
 ---
 
-The studio. Sable called [Darius](/darius-cole/).
+The studio. [Sable](/sable-price/) called [Darius](/darius-cole/).
 
 "Big Six is gone. I've got his people. One of them says he owed money to somebody in Chicago."
 

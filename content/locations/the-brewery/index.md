@@ -39,5 +39,5 @@ ShowToc: false
 ## Who Controls It
 
 - [Gengis](/npcs/gengis/) by force of personality and the fact that nobody else wants the job.
-- [Damien](/npcs/damien/) agitates from within. He wants action. Gengis wants patience. The argument never resolves, it just recycles.
+- [Damien](/npcs/damien/) agitates from within. He wants action. [Gengis](/npcs/gengis/) wants patience. The argument never resolves, it just recycles.
 - Other anarchs drift in and out. Loyalty is situational. The Brewery is a meeting place, not a fortress.

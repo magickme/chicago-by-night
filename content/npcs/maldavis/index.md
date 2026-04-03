@@ -17,7 +17,7 @@ ShowToc: false
 </div>
 </div>
 
-Carol Davis was born in 1955 on Chicago's South Side, raised in a family that carried its wounds quietly. One wound in particular: a great-uncle named Abraham, said to have been killed by the Klan sometime after World War I. The family kept his photograph. They spoke his name at holidays. He became the kind of ghost that families build myths around — the lost one, the stolen one, the man who deserved better than what America gave him.
+Carol Davis was born in 1955 on Chicago's South Side, raised in a family that carried its wounds quietly. One wound in particular: a great-uncle named [Abraham](/npcs/abraham-dusable/), said to have been killed by the Klan sometime after World War I. The family kept his photograph. They spoke his name at holidays. He became the kind of ghost that families build myths around — the lost one, the stolen one, the man who deserved better than what America gave him.
 
 In 1980, Carol walked into a jazz club on the South Side and saw her great-uncle standing at the bar. He had not aged a day since the photograph was taken. Same face. Same hands. Same man, six decades later, unchanged.
 
@@ -33,6 +33,6 @@ By the early 1980s, the Primogen had noticed her. [Annabelle Triabell](/npcs/ann
 
 [Lodin](/npcs/lodin/) ran to the Primogen and swore eternal obedience. The vote came down 4-3 in his favor. Maldavis's rebellion collapsed. Most of her followers died.
 
-She survived. Not because [Lodin](/npcs/lodin/) lacked the will to kill her, but because the Primogen found her useful as a threat — a trump card to keep Lodin obedient. What none of them understood was that the entire rebellion had been a proxy action in the ancient war between [Helena](/npcs/helena/) and [Menele](/npcs/menele/). [Menele](/npcs/menele/) sacrificed Maldavis to make [Helena](/npcs/helena/) believe she controlled [Annabelle](/npcs/annabelle-triabell/). The reformer's crusade was a Methuselah's gambit. Maldavis does not know this.
+She survived. Not because [Lodin](/npcs/lodin/) lacked the will to kill her, but because the Primogen found her useful as a threat — a trump card to keep [Lodin](/npcs/lodin/) obedient. What none of them understood was that the entire rebellion had been a proxy action in the ancient war between [Helena](/npcs/helena/) and [Menele](/npcs/menele/). [Menele](/npcs/menele/) sacrificed Maldavis to make [Helena](/npcs/helena/) believe she controlled [Annabelle](/npcs/annabelle-triabell/). The reformer's crusade was a Methuselah's gambit. Maldavis does not know this.
 
 Now [Rebekah](/npcs/rebekah/), the Inconnu Monitor, guides Maldavis toward Golconda through dreams. Humanity 10. Willpower 10. The only candidate for Chicago's throne who might deserve it, and the one least likely to survive the process of claiming it.

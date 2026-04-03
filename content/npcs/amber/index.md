@@ -23,6 +23,6 @@ Personal attendant and hostess. Handles some of [Lodin](/npcs/lodin/)'s politica
 
 Best friends with [Derek](/npcs/derek-gallen/) — they slept together once, moved past it, and now conspire about the others. Fears [Natasha](/npcs/natasha/). Teases [Julian](/npcs/julian-curry/) because he flusters easily but rather likes him. Follows [Roarke](/npcs/roarke/) instinctively in a crisis — he is her pillar of strength.
 
-In the 1969 London flashback, Amber cooks French food in Lodin's penthouse, fakes a collapse at Heathrow customs to cover the crate, and says "wow" when briefed about London.
+In the 1969 London flashback, Amber cooks French food in [Lodin](/npcs/lodin/)'s penthouse, fakes a collapse at Heathrow customs to cover the crate, and says "wow" when briefed about London.
 
 Nature: Conformist. Demeanor: Hedonist.

@@ -5,7 +5,7 @@ layout: "page"
 slug: "clocks"
 ---
 
-*Chicago pressure board. Updated: **1991-01-07 (Monday, sleeping)**. Session state is authoritative for all clock levels.*
+*Chicago pressure board. Updated: **1991-01-09 (Wednesday night)**. Session state is authoritative for all clock levels.*
 
 
 
@@ -22,6 +22,7 @@ slug: "clocks"
 | Hunter Convergence (Chicago) | ■□□□□□ | 1/6 | S030: PCs encountered Standdown. Evidence destroyed but he lives with "body walked away." Shepard connected. |
 | Methuselah War (HIDDEN) | ■■□□□□ | 2/6 HIDDEN | D031: Darius blood-bonded Step 1 to Menele (frenzy over torpored body). Coterie now in Menele's camp — unknowingly. Menele likely orchestrated body recovery + vial frenzy from torpor. Helena's rival has agents. |
 | Chuc Luc's Chicago Operations | □□□□□□ | 0/6 | Pipeline expansion into Capone's territory. |
+| Ballard's Case | ■■■□□□ | 3/6 | D032-D033: Ballard dined with 3 Primogen in 3 nights (Annabelle, Critias, Jackson). Establishing context: Gary emissaries caused Chicago's crises. Cultivating ghoul driver (botched Forgetful Mind). Driver now Mesmerized + Conditioning 4/14. Counter-ops active. |
 | Primogen Power Plays | □□□□□□ | 0/6 | Annabelle, Critias, Tyler, Nicolai — each has an agenda. |
 | Succubus Club Heat | □□□□□□ | 0/6 | Club as focal point. Helena's basement. Every thread passes through. |
 | Lodin's Grip | ■□□□□□ | 1/6 | D031: Prince returns. Secured Menele's body at Drake. Ordering callback before dawn. Ballard reckoning incoming. |

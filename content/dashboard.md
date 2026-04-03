@@ -10,15 +10,15 @@ menu:
       icon: "dots"
 ---
 
-*Chicago Chronicles. Act II: Ashes and Blood. Updated: **1991-01-07 (Monday, sleeping)**.*
+*Chicago Chronicles. Act II: Ashes and Blood. Updated: **1991-01-09 (Wednesday night)**.*
 
 
 
 ## Coterie Snapshot
 
-- 1991-01-07 (Monday, sleeping) — Darius at Starlite Motel, Room 9 (South Side). Sable at Allerton Hotel, Michigan Avenue, 3rd floor (temporary — one night, paid cash). ASHES TO ASHES COMPLETE. Lodin rescued from Hell's Pasture, Roarke destroyed. Menele's body delivered to Lodin at Drake Hotel (8th floor, cedar closet). Belthazar still staked on Wacker Drive (Neon guarding 72+ hrs). Lodin promised word before dawn — callback 2 nights overdue. Ballard about to be blindsided. Sable fed 3x at Succubus Club (Jan 6 night), called Modius (consulted him on Lodin boon — leash holds).
-- Scenes played: Darius 31, Sable 31 (62 total + timeskip bluebook Aug-Nov + Dec timeskip). PCs met at Feb 2 Elysium. **COTERIE FORMED (S019, July 22).**
-- Scene-note inventory: Darius 31, Sable 31 (62 total on disk).
+- 1991-01-09 (Wednesday night) — Darius at Starlite Motel, Room 9 (South Side). Sable at Allerton Hotel, Michigan Avenue, 3rd floor. Counter-operations active: ghoul driver Mesmerized + Conditioning 4/14, Ballard frame identified, Sir Henry making Drake inquiries. Lodin silent 5 nights. Modius managed (48 hrs bought).
+- Scenes played: Darius 33, Sable 32 (65 total + timeskip bluebook Aug-Nov + Dec timeskip). PCs met at Feb 2 Elysium. **COTERIE FORMED (S019, July 22).**
+- Scene-note inventory: Darius 33, Sable 32 (65 total on disk).
 - Sunset: 4:28 PM CST. Sunrise: 7:06 AM CST. Darkness: ~14.5 hours (early January).
 - Communications: Chicago protocol seeded. Tue/Fri 11 PM remains the default check-in window, using rotating nodes instead of a fixed haven line. If one node feels watched, move immediately to the next. Horace contact: The Cave, ask for Fred, "chess tournament."
 
@@ -32,6 +32,7 @@ menu:
 | Torch/Rack Heat | 5/6 | Stabilized. Webb proxy. Dormant while PCs away. |
 | Modius Internal Audit | 4/6 | Blood-taste bomb. Allicia. Offscreen while PCs in Chicago. |
 | Modius Leash (Sable) | 4/6 | Sent first. More expendable or more useful. |
+| Ballard's Case | 3/6 | D032-D033: Ballard dined with 3 Primogen in 3 nights (Annabelle, Critias, Jackson). Establishing context: Gary emissaries caused Chicago's crises. Cultivating ghoul driver (botched Forgetful Mind). Driver now Mesmerized + Conditioning 4/14. Counter-ops active. |
 | Docks Heat | 3/6 | Pipeline on autopilot. Eddie granite. |
 | Masquerade Heat (Chicago) | 2/6 | D031: 36 cultists witnessed supernatural events at Hell's Pasture (Roarke aging, vampire feeding, Dread Gaze). Scottie wiped (granite). Compound burning. Low-credibility witnesses but high numbers. |
 | Methuselah War | 2/6 HIDDEN | D031: Darius blood-bonded Step 1 to Menele (frenzy over torpored body). Coterie now in Menele's camp — unknowingly. Menele likely orchestrated body recovery + vial frenzy from torpor. Helena's rival has agents. |

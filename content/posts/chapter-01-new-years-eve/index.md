@@ -30,7 +30,7 @@ The clipboard was on the dispatch desk, half-buried under a manifest for scrap s
 
 [Darius](/darius-cole/) took out the pocket notepad he'd carried since he was sixteen — the same brand, always the same brand, a Field Notes memo book from the art supply store on Broadway that somehow hadn't closed yet — and copied everything. The date, the dock number, the code. He put the clipboard back exactly where he'd found it, angled the same way, the manifest on top. Then he walked to Dock 7.
 
-It was the last berth on the east end, tucked behind a corrugated warehouse whose loading door hadn't opened in years. Out of sightline from the main office. Out of sightline from the road. Someone had chosen this spot the way Darius would have chosen it — not for convenience but for privacy.
+It was the last berth on the east end, tucked behind a corrugated warehouse whose loading door hadn't opened in years. Out of sightline from the main office. Out of sightline from the road. Someone had chosen this spot the way [Darius](/darius-cole/) would have chosen it — not for convenience but for privacy.
 
 He stood there for a moment, looking at the empty concrete where three unmarked containers would sit in two weeks, and thought about the architecture of it. The structure underneath. [Chuc Luc](/npcs/chuc-luc/) wanted a pipeline through these docks, and the docks belonged to a Gangrel who had served under Julius Caesar. You didn't build a pipeline through a man like that. You built it *around* him, through the cracks in what he controlled, through the men he didn't bother to watch because they were too small to matter.
 

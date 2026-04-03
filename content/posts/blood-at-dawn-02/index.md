@@ -24,7 +24,7 @@ SA [William Shepard](/npcs/william-shepard/). FBI. The phone number in [Darius](
 
 [Sable](/sable-price/) went low and fast across the scrub brush between the road and the beach, moving through the dark the way she'd learned to move through the Robert Taylor Homes when the building was full of men who listened for footsteps. She approached from the lake side, below the mirror line, and crouched behind the rear quarter panel with the sedan's passenger window cracked two inches and every sense dialed to maximum.
 
-Alone. One heartbeat. Coffee on the passenger seat. A radio scanner cycling Gary PD frequencies. And on the dashboard, three photographs paper-clipped to an open notebook: the docks at Dock 7, a school portrait of a sixteen-year-old boy, and a Polaroid of an unknown man near the Dock 7 warehouse — the same photograph Darius kept in his kitchen cabinet. The notebook heading, in block capitals: WIERUS.
+Alone. One heartbeat. Coffee on the passenger seat. A radio scanner cycling Gary PD frequencies. And on the dashboard, three photographs paper-clipped to an open notebook: the docks at Dock 7, a school portrait of a sixteen-year-old boy, and a Polaroid of an unknown man near the Dock 7 warehouse — the same photograph [Darius](/darius-cole/) kept in his kitchen cabinet. The notebook heading, in block capitals: WIERUS.
 
 The father's name. Written on a federal agent's dashboard.
 
@@ -40,11 +40,11 @@ Darius looked at the lakefront road. The sedan. The mansion beyond it. [Allicia]
 
 The BP station on Fifth Avenue. The phone book hanging from a chain. [Wierus](/npcs/john-wierus/), John R. 1847 Pennsylvania Ave. One listing, one name, the whole equation reduced to a seven-digit number and an address six blocks from the lake.
 
-Sable tore the page out. Darius was already in the car.
+[Sable](/sable-price/) tore the page out. Darius was already in the car.
 
 Pennsylvania Avenue was the kind of street that existed in every dying neighborhood in every dying city: vinyl siding gone gray, chain-link fences around yards nobody maintained, the amber glow of occupied houses getting sparser until the dark won. 1847 was a bungalow. One light on. Kitchen window. The only evidence of human habitation on a block that was forgetting what the word meant.
 
-They split. Darius took the front and sides. Sable took the back. Three minutes. What they found: two warded entrances with salt lines and leather charm bags on the doorknobs, sealed windows, a man at a kitchen table surrounded by notebooks and photographs of Allicia, and a chalk ritual circle scratched into the back patio stained with old blood.
+They split. Darius took the front and sides. Sable took the back. Three minutes. What they found: two warded entrances with salt lines and leather charm bags on the doorknobs, sealed windows, a man at a kitchen table surrounded by notebooks and photographs of [Allicia](/npcs/allicia/), and a chalk ritual circle scratched into the back patio stained with old blood.
 
 And in the bedroom, visible through a gap in the window covering: a loose floorboard with a deliberate gap. A hiding spot.
 
@@ -76,7 +76,7 @@ The spirit bag. Leather, hand-stitched, the size of a fist. It pulsed against he
 
 A notebook. A photograph of Allicia at the piano, taken with something that wore love's clothes.
 
-She took all three. Replaced the board. Moved down the hallway past the kitchen door — Wierus facing Darius, back to her, three feet of lit hallway — and passed through the gap like a sentence that was never spoken.
+She took all three. Replaced the board. Moved down the hallway past the kitchen door — [Wierus](/npcs/john-wierus/) facing Darius, back to her, three feet of lit hallway — and passed through the gap like a sentence that was never spoken.
 
 ---
 

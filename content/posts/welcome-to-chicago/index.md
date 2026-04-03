@@ -32,7 +32,7 @@ They were the only Black faces in the room. [Darius](/darius-cole/) clocked it t
 
 Sir was in a booth with three drunk lawyers, flushed red with too much blood, the English accent worn smooth by a century but never erased. He remembered them from Gary. Nobody sees [Lodin](/npcs/lodin/), he said. Go through his man. Talk to [Horace](/npcs/horace/) at The [Cave](/npcs/hank-cave/).
 
-[Gengis](/npcs/gengis/) approached after Sir's intelligence dried up. He walked like he owned the floor. Darius stood up out of the booth — not fast, not aggressive, just a man establishing the geometry of a conversation. [Gengis](/npcs/gengis/) ran his Auspex. Darius held. Whatever the Brujah saw, it was enough. The testing dropped. He had a meeting. A place called [the Brewery](/locations/the-brewery/). Three in the morning. He said it like a dare, then walked away without selling it.
+[Gengis](/npcs/gengis/) approached after Sir's intelligence dried up. He walked like he owned the floor. [Darius](/darius-cole/) stood up out of the booth — not fast, not aggressive, just a man establishing the geometry of a conversation. [Gengis](/npcs/gengis/) ran his Auspex. Darius held. Whatever the Brujah saw, it was enough. The testing dropped. He had a meeting. A place called [the Brewery](/locations/the-brewery/). Three in the morning. He said it like a dare, then walked away without selling it.
 
 ---
 
@@ -42,7 +42,7 @@ The back room held six Gangrel bikers and two men on the floor. [Horace](/npcs/h
 
 Darius declined the wager. [Horace](/npcs/horace/) didn't blink.
 
-In the office, Horace made his calls. The coterie was expected. The [Field Museum](/locations/field-museum/), three in the morning. The Prince would see them.
+In the office, [Horace](/npcs/horace/) made his calls. The coterie was expected. The [Field Museum](/locations/field-museum/), three in the morning. The Prince would see them.
 
 Darius didn't ask about the boon. The currency was worth more unspent.
 

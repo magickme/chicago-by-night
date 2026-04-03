@@ -17,7 +17,7 @@ ShowToc: false
 </div>
 </div>
 
-Embraced in 1985. Kristian killed his abusive father with a baseball bat at age 16 and was in his third year in Juvenile Hall when [Parovich](/npcs/parovich/) attacked him in his sleep. [Parovich](/npcs/parovich/) taught him about Kindred existence. Kristian became popular among the Elders by spying on Parovich and reporting to Council visitors.
+Embraced in 1985. Kristian killed his abusive father with a baseball bat at age 16 and was in his third year in Juvenile Hall when [Parovich](/npcs/parovich/) attacked him in his sleep. [Parovich](/npcs/parovich/) taught him about Kindred existence. Kristian became popular among the Elders by spying on [Parovich](/npcs/parovich/) and reporting to Council visitors.
 
 When Kristian learned Parovich had connections to the Sabbat — a Ghoul messenger from the Black Hand arrived at the house — he grabbed his "brother and sisters" and told them to flee into the city. Two of the childer are already dead. Kristian considers going to the Elders but fears they will side with Parovich. He visits [Anastasia](/npcs/anastasia/) weekly, bringing flowers or perfume.
 

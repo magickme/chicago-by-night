@@ -20,15 +20,15 @@ He saw the tail fifteen minutes in. Dark sedan, two cars back, professional spac
 
 [Lodin](/npcs/lodin/)'s voice from behind the glass: problem? Handled.
 
-At O'Hare, Derek found the bomb during pre-flight. Under the starboard wing, near the landing gear. Wires, a box, a battery pack. Crude. Almost carelessly placed. [Natasha](/npcs/natasha/) slid under the fuselage and came out carrying the device like a dead animal. Corroded firing mechanism. Defective. It wouldn't have detonated.
+At O'Hare, [Derek](/npcs/derek-gallen/) found the bomb during pre-flight. Under the starboard wing, near the landing gear. Wires, a box, a battery pack. Crude. Almost carelessly placed. [Natasha](/npcs/natasha/) slid under the fuselage and came out carrying the device like a dead animal. Corroded firing mechanism. Defective. It wouldn't have detonated.
 
 It wasn't hidden, she said. It was placed where any competent inspection would find it.
 
 [Lodin](/npcs/lodin/) interrogated the two airport workers with Dominate. Found nothing in their heads. Wiped them clean. His face said what it said: someone knew about the trip. Someone who wanted them to know they knew.
 
-They flew anyway. Over the Atlantic in a Learjet, engines droning, the dark water thirty thousand feet below. An hour in, Lodin stood in the cabin and laid out the briefing materials. A map of London. Hotel documents. Twenty-two thousand dollars in cash. An auction pamphlet he didn't explain. He tapped it once and said he would not be outbid.
+They flew anyway. Over the Atlantic in a Learjet, engines droning, the dark water thirty thousand feet below. An hour in, [Lodin](/npcs/lodin/) stood in the cabin and laid out the briefing materials. A map of London. Hotel documents. Twenty-two thousand dollars in cash. An auction pamphlet he didn't explain. He tapped it once and said he would not be outbid.
 
-Then he took [Roarke](/npcs/roarke/)'s wrist and opened a vein in his own. Two mouthfuls of blood that tasted like cold metal and then burned like a furnace door. The cabin sharpened -- Derek's heartbeat through the bulkhead, JP-4 in the fuel lines, every rivet vibrating independently. Dominate sat in Roarke's mind like a weapon he hadn't asked for.
+Then he took [Roarke](/npcs/roarke/)'s wrist and opened a vein in his own. Two mouthfuls of blood that tasted like cold metal and then burned like a furnace door. The cabin sharpened -- Derek's heartbeat through the bulkhead, JP-4 in the fuel lines, every rivet vibrating independently. Dominate sat in [Roarke](/npcs/roarke/)'s mind like a weapon he hadn't asked for.
 
 In case there is trouble during the day, Lodin said.
 

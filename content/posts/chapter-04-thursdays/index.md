@@ -18,7 +18,7 @@ Almost nothing left. He'd done the math that morning, lying in the dark behind t
 
 He'd thought about it. Then he'd stopped thinking about it. Discipline. The load-bearing wall inside him that held the Beast on the other side.
 
-The drive from the west side to Telton took eleven minutes. Darius used every one of them to run the scenario: park a block north, approach on foot, leave the bag at the mausoleum door, be gone before the hunger made decisions for him. A gift that acknowledged [Michael](/npcs/michael/)'s domain without demanding anything in return. Candles for the dead. A blanket for the living dead. Wine nobody would drink. The gesture mattered more than the objects.
+The drive from the west side to Telton took eleven minutes. [Darius](/darius-cole/) used every one of them to run the scenario: park a block north, approach on foot, leave the bag at the mausoleum door, be gone before the hunger made decisions for him. A gift that acknowledged [Michael](/npcs/michael/)'s domain without demanding anything in return. Candles for the dead. A blanket for the living dead. Wine nobody would drink. The gesture mattered more than the objects.
 
 He was four blocks from the cemetery when he started the sweep.
 
@@ -50,7 +50,7 @@ The man who got out was tall. Long dark coat, the kind that covered a shoulder h
 
 [Sullivan Dane](/npcs/sullivan-dane/). It had to be. Everything matched the fragments — [Modius](/npcs/modius/)'s whispered warnings, the profile Darius had assembled over months of listening at court: tall, British, ex-Jesuit, burn scars, always gloves. A man whose faith was a weapon. Six confirmed kills. Connected to the Inquisition. Patient.
 
-[Dane](/npcs/sullivan-dane/) walked the cemetery perimeter on the outside of the fence. He didn't enter. He moved with the unhurried precision of a man who had been doing this for weeks or months, who knew every headstone and fence post and sight line, who was not looking for anything new but confirming that nothing had changed. At the south gate he stopped, crouched, and studied the ground. Footprints. [Michael](/npcs/michael/)'s boots in the January mud — Dane was tracking Michael's schedule by the impressions he left at the gate.
+[Dane](/npcs/sullivan-dane/) walked the cemetery perimeter on the outside of the fence. He didn't enter. He moved with the unhurried precision of a man who had been doing this for weeks or months, who knew every headstone and fence post and sight line, who was not looking for anything new but confirming that nothing had changed. At the south gate he stopped, crouched, and studied the ground. Footprints. [Michael](/npcs/michael/)'s boots in the January mud — [Dane](/npcs/sullivan-dane/) was tracking [Michael](/npcs/michael/)'s schedule by the impressions he left at the gate.
 
 He took out a notebook. Wrote something. Put the notebook away.
 

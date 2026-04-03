@@ -38,7 +38,7 @@ The ore smelter sat behind a chain-link gate in a row of decommissioned building
 
 The implication had one shape and it wasn't ambiguous. An unauthorized Kindred with a key to [Juggler](/npcs/juggler/)'s front door. The word was *childe* and the word carried a death sentence from any Prince who bothered to enforce it and a war with any sire who refused to hand one over.
 
-Darius sat in the Cutlass and felt the architecture settle into place. He didn't know the name yet. He knew the structure: leverage he hadn't paid for, handed to him by a girl who didn't know she'd been followed and a sire who didn't know his secret was standing in a parking lot at half past midnight with the engine ticking.
+[Darius](/darius-cole/) sat in the Cutlass and felt the architecture settle into place. He didn't know the name yet. He knew the structure: leverage he hadn't paid for, handed to him by a girl who didn't know she'd been followed and a sire who didn't know his secret was standing in a parking lot at half past midnight with the engine ticking.
 
 He got out of the car because the scene wasn't finished.
 
@@ -52,7 +52,7 @@ He stood there for six seconds. The longest since the Embrace. Every instinct bu
 
 Darius went.
 
-Back to the Cutlass. North on Adams. East on Fifteenth. South on Broadway to the Torch. The alley. He found the man fifteen feet in, sitting between the dumpsters with his legs out and his head tilted and a cigarette still smoldering between two fingers. White, early twenties, flannel and Carhartt, work boots, a name tag that said TERRY. The feeding wound was two punctures above the collar, closing, a thin line of dried blood disappearing into flannel. He was breathing. The daze was still on him -- the half-smile of a man whose body remembered pleasure his brain couldn't locate.
+Back to the Cutlass. North on Adams. East on Fifteenth. South on Broadway to [the Torch](/locations/the-torch/). The alley. He found the man fifteen feet in, sitting between the dumpsters with his legs out and his head tilted and a cigarette still smoldering between two fingers. White, early twenties, flannel and Carhartt, work boots, a name tag that said TERRY. The feeding wound was two punctures above the collar, closing, a thin line of dried blood disappearing into flannel. He was breathing. The daze was still on him -- the half-smile of a man whose body remembered pleasure his brain couldn't locate.
 
 Darius crouched. Tilted Terry's head. Ran his tongue across the punctures and tasted copper and tar and the fading chemistry of the Kiss. The wound sealed under saliva, leaving marks that would pass for a shaving nick by morning.
 
@@ -70,7 +70,7 @@ The drive to [Modius](/npcs/modius/)'s mansion took eleven minutes. He used ever
 
 The lie lived in the last sentence and it sat between them in the warm air like a coin on a table.
 
-Modius repeated it. "You didn't see who did it." Not a question. A repetition -- the way he used language as a diagnostic, turning statements into doors to see who walked through.
+[Modius](/npcs/modius/) repeated it. "You didn't see who did it." Not a question. A repetition -- the way he used language as a diagnostic, turning statements into doors to see who walked through.
 
 "No, sir. The alley was empty when I arrived."
 
@@ -80,7 +80,7 @@ The silence lasted four seconds. Modius processed it the way he processed everyt
 
 "Understood."
 
-The lamp hummed. The dismissal was in the air before it was in the gesture. Darius left through Victor, through the door, into December.
+The lamp hummed. The dismissal was in the air before it was in the gesture. Darius left through [Victor](/npcs/victor-salonika/), through the door, into December.
 
 He sat in the Cutlass and ran the ledger. An unauthorized Kindred in [Juggler](/npcs/juggler/)'s haven. A sloppy feed cleaned without cost. A Prince who appreciated the cleanup and expected the next delivery. A feeling near a van on Adams that he couldn't name and wouldn't forget, filed under the architecture that held everything except the six seconds when the architecture broke and the thing underneath said *go* and he listened.
 

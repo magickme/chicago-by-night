@@ -28,7 +28,7 @@ She warned him.
 
 Two words. *Behind you.* The Survivor's instinct, not loyalty to the Elders but fear of making unnecessary enemies, the calculation that runs faster than ideology and always has. [Belthazar](/npcs/belthazar/) whirled. Saw movement. Didn't see enough. The boy was already gone.
 
-And then back. From a different angle, at a speed that didn't fit the body carrying it. Ninety pounds moving like a freight car because the blood behind the movement was older than anyone on that sidewalk except the thing it powered, and the stake went through the Sheriff's coat and shirt and sternum and found the heart and Belthazar's body locked mid-syllable and fell like a pushed mannequin and his hat landed crown-down on the ice.
+And then back. From a different angle, at a speed that didn't fit the body carrying it. Ninety pounds moving like a freight car because the blood behind the movement was older than anyone on that sidewalk except the thing it powered, and the stake went through the Sheriff's coat and shirt and sternum and found the heart and [Belthazar](/npcs/belthazar/)'s body locked mid-syllable and fell like a pushed mannequin and his hat landed crown-down on the ice.
 
 The boy looked at [Sable](/sable-price/). "You *warned* him."
 
@@ -40,9 +40,9 @@ His name was [Damien](/npcs/damien/). He said it like it should mean something. 
 
 The Civic had no heat and a cracked windshield and [Damien](/npcs/damien/) drove fast and badly and talked the whole time. [Ballard](/npcs/ballard/)'s frame. The investigation designed to fail. The way the Elders used neonates the way Gary used its mill workers — as material, consumed and replaced. He believed everything he was saying and he was right about most of it and the parts he was wrong about were the parts nobody could be right about because the machinery that ran Chicago was larger than any single ideology's map of it.
 
-The 7-11 was a stripped carcass. Plywood face, no sign, no light. The man who'd lived here — the Ghoulie Man, Damien called him — wasn't home. Two cops were. Sable heard their heartbeats through the wall and the scrape of pen on clipboard and below both, something else. Pressure. The same frequency she'd felt through bent steel on the 107th floor. Ancient blood had been here. Ancient blood had saturated the concrete.
+The 7-11 was a stripped carcass. Plywood face, no sign, no light. The man who'd lived here — the Ghoulie Man, [Damien](/npcs/damien/) called him — wasn't home. Two cops were. [Sable](/sable-price/) heard their heartbeats through the wall and the scrape of pen on clipboard and below both, something else. Pressure. The same frequency she'd felt through bent steel on the 107th floor. Ancient blood had been here. Ancient blood had saturated the concrete.
 
-They went in through the back door. [Darius](/darius-cole/) removed the hinge pins. Sable moved past the cops' office like a thing made of shadow and silence. Darius did not. His boot caught debris and the sound was a gunshot in the quiet and then there was a cop in the doorway with a flashlight and Sable behind him with her hand over his mouth and Darius in front of him with eye contact and one word — *sleep* — and the cop went down.
+They went in through the back door. [Darius](/darius-cole/) removed the hinge pins. Sable moved past the cops' office like a thing made of shadow and silence. [Darius](/darius-cole/) did not. His boot caught debris and the sound was a gunshot in the quiet and then there was a cop in the doorway with a flashlight and Sable behind him with her hand over his mouth and Darius in front of him with eye contact and one word — *sleep* — and the cop went down.
 
 The second cop went down harder. One success on the Command, the man staggering like a sedative kicking in, catching the chair, catching the table. But he went down.
 

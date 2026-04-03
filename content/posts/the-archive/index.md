@@ -30,9 +30,9 @@ The second piece was worse because it was social.
 
 [Sable](/sable-price/). Because beauty is legible. Because Toreador can be framed as adornment. Because [Modius](/npcs/modius/) understood value but valued utility first.
 
-Darius did not let anything show.
+[Darius](/darius-cole/) did not let anything show.
 
-Danov watched him anyway, and when the stillness held, the Nosferatu gave the smallest smile of the night. Respect, or the nearest thing his face could make of it.
+[Danov](/npcs/alexander-danov/) watched him anyway, and when the stillness held, the Nosferatu gave the smallest smile of the night. Respect, or the nearest thing his face could make of it.
 
 "One day," Danov said, "I will need a small thing done. I don't yet know what small thing. If that troubles you, become less interesting."
 

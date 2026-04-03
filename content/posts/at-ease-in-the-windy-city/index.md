@@ -26,11 +26,11 @@ The intercom buzzed. Herman. A package. Very large.
 
 [Roarke](/npcs/roarke/) took [Derek](/npcs/derek-gallen/) downstairs. The lobby was marble and brass and a delivery driver named Harold who wanted to go home. The crate was seven feet long and three feet wide and shaped like exactly what it was shaped like. Two addresses on the label -- billing to the suite, delivery to a warehouse at O'Hare. Wrong destination. Harold wanted a signature. Harold wanted his pot roast.
 
-Roarke signed. Sent Derek to O'Hare with the crate and the Cutlass and instructions to keep his mouth shut. Then thirty-two floors of Mantovani back to the suite, where everything was the same as he'd left it except the light outside had gone grey and the lake wind had picked up.
+[Roarke](/npcs/roarke/) signed. Sent [Derek](/npcs/derek-gallen/) to O'Hare with the crate and the Cutlass and instructions to keep his mouth shut. Then thirty-two floors of Mantovani back to the suite, where everything was the same as he'd left it except the light outside had gone grey and the lake wind had picked up.
 
 Twenty minutes later someone knocked on the door. Hard. Three times.
 
-Natasha had the Walther before the echo died. [Julian](/npcs/julian-curry/)'s newspaper became a prop. Roarke went to the door and asked for a name.
+[Natasha](/npcs/natasha/) had the Walther before the echo died. [Julian](/npcs/julian-curry/)'s newspaper became a prop. Roarke went to the door and asked for a name.
 
 [Belthazar](/npcs/belthazar/). Ventrue. One of the Prince's Eyes -- the upper-class districts, the cushy beat. Roarke knew the name from the roster. He opened the door.
 
@@ -38,7 +38,7 @@ The Kindred filled the doorway. Charcoal overcoat, dark hair swept back, eyes th
 
 [Lodin](/npcs/lodin/) stepped out. Not tall. Not physically imposing. A dark suit that fit like it was born on him and eyes that were old in a way that had nothing to do with the face. Roarke's name as an accusation: one word.
 
-Roarke said: unauthorized Embrace. Lodin's annoyance left his face like water off marble.
+Roarke said: unauthorized Embrace. [Lodin](/npcs/lodin/)'s annoyance left his face like water off marble.
 
 Good judgment, Roarke. Show him to the library.
 
@@ -48,4 +48,4 @@ The front door slammed hard enough to rattle the liquor cabinet. Lodin called Ro
 
 Tomorrow night. Chartered jet. Absolute secrecy. A manila envelope with logistics. The way Lodin said the word London -- low, deliberate, weighted -- made it sound like the instructions for a war.
 
-Roarke briefed the others. Natasha nodded. Julian approved. Amber said wow. Derek got back from O'Hare and grinned like it was Christmas.
+Roarke briefed the others. Natasha nodded. [Julian](/npcs/julian-curry/) approved. [Amber](/npcs/amber/) said wow. Derek got back from O'Hare and grinned like it was Christmas.

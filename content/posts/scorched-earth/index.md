@@ -20,9 +20,9 @@ The drawing room. The armchair. The folder of documents [Modius](/npcs/modius/) 
 
 "You can't outbid [Lucian](/npcs/lucian/). Nobody in Gary can."
 
-The prince's face went cold. Darius kept going.
+The prince's face went cold. [Darius](/darius-cole/) kept going.
 
-"But you don't need to outbid him. You need to negotiate with him. Let me talk to him. Not as your emissary, as a broker. I go to Lucian, feel out what he actually wants. Maybe it's feeding access. Maybe it's transit rights. Maybe it's something you can give him that costs you less than losing the building."
+"But you don't need to outbid him. You need to negotiate with him. Let me talk to him. Not as your emissary, as a broker. I go to [Lucian](/npcs/lucian/), feel out what he actually wants. Maybe it's feeding access. Maybe it's transit rights. Maybe it's something you can give him that costs you less than losing the building."
 
 [Modius](/npcs/modius/) listened. The Conniver processing the geometry. The Child underneath wanting someone to fix it.
 
@@ -46,6 +46,6 @@ Seven months of furniture. Ralph Rego at Kiefer's, Eddie and Pete, the check-cas
 
 The pipeline wasn't going to be built alongside Lucian's operation. It was going to be built through it. Through the legitimate cover of a real estate negotiation, through the mortal contacts who owed debts they couldn't pay, through the specific architecture of a neonate who'd made himself useful enough to be trusted and harmless enough to be underestimated.
 
-Blood at thirteen. Willpower at five. The Modius leash at its lowest point. The docks at his fingertips. And somewhere in a restaurant cellar in Chicago's New [Chinatown](/locations/chinatown/), a man in a cheap suit who smiled too wide was waiting for exactly this phone call.
+Blood at thirteen. Willpower at five. The [Modius](/npcs/modius/) leash at its lowest point. The docks at his fingertips. And somewhere in a restaurant cellar in Chicago's New [Chinatown](/locations/chinatown/), a man in a cheap suit who smiled too wide was waiting for exactly this phone call.
 
 The game was the game. But for the first time, Darius was playing his own.

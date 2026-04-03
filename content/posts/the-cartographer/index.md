@@ -26,7 +26,7 @@ Forty-three people reduced to abbreviations. The youngest was twelve. The column
 
 He briefed her on [Juggler](/npcs/juggler/). She filed it. They didn't linger. Two vampires exchanging operational intelligence in a booth at a bar where the jukebox covered the words and the bartender knew enough to keep his distance. [Sable](/sable-price/) left the way she always left — the room tilting toward her, then settling back to its natural shape when the door closed.
 
-Darius checked his watch. Quarter to twelve. Cemetery at midnight.
+[Darius](/darius-cole/) checked his watch. Quarter to twelve. Cemetery at midnight.
 
 ---
 
@@ -50,11 +50,11 @@ Eight feet to Darius's left. The Obfuscate stopped and [Danov](/npcs/alexander-d
 
 They moved between headstones. The ground was soft where the earth had settled over old graves. [Danov](/npcs/alexander-danov/) walked without looking down.
 
-"Juggler tells me you need paper. Federal-grade. A face that can sit across from a desk at the FBI field office and not melt." He didn't look at Darius when he spoke. He looked at the cemetery. "I have a man on Washington Street who does paper. Shallow layer — license, social, credit. Good enough for a traffic stop. Not good enough for the Bureau."
+"[Juggler](/npcs/juggler/) tells me you need paper. Federal-grade. A face that can sit across from a desk at the FBI field office and not melt." He didn't look at Darius when he spoke. He looked at the cemetery. "I have a man on Washington Street who does paper. Shallow layer — license, social, credit. Good enough for a traffic stop. Not good enough for the Bureau."
 
 The distinction was everything. [Shepard](/npcs/william-shepard/) wasn't going to pull Warren Birch over for running a stop sign. [Shepard](/npcs/william-shepard/) was going to run Warren Birch through Social Security Administration databases and IRS records and cross-reference employment history with addresses, and the shallow layer would collapse in seventy-two hours like a set built for a single scene.
 
-"For federal, you need depth. Tax filings going back three years. W-2s from employers that exist. A credit report with activity." Danov stopped beneath a split oak. Turned. "I can build that. Four to six weeks."
+"For federal, you need depth. Tax filings going back three years. W-2s from employers that exist. A credit report with activity." [Danov](/npcs/alexander-danov/) stopped beneath a split oak. Turned. "I can build that. Four to six weeks."
 
 Then: "My price."
 
@@ -124,7 +124,7 @@ Darius stood in the lot and listened to the silence the sedan left behind. A dog
 
 He walked back to the Cutlass. Started the engine. Drove north through the dead blocks where the streetlights quit and the buildings gave way to lots gave way to the faint edge of inhabited Gary, and the city passed by in the shapes it always made at one in the morning.
 
-Three things accomplished. Sable's notebook — forty-three lines of human inventory that Darius would use to map two criminal networks and never once think of as people. Danov's paper — four to six weeks, a federal-depth identity for a man who didn't exist yet, bought with a sire's name that Darius had carried like a secret and spent like currency. And the watcher — a man's entire evening rewritten because Darius's hand was steady and his eye contact was good and the Ventrue architecture in his blood made other people's memories as malleable as wet clay.
+Three things accomplished. [Sable](/sable-price/)'s notebook — forty-three lines of human inventory that Darius would use to map two criminal networks and never once think of as people. Danov's paper — four to six weeks, a federal-depth identity for a man who didn't exist yet, bought with a sire's name that Darius had carried like a secret and spent like currency. And the watcher — a man's entire evening rewritten because Darius's hand was steady and his eye contact was good and the Ventrue architecture in his blood made other people's memories as malleable as wet clay.
 
 The moral weight of the evening was distributed across three transactions, none of which felt heavy enough to notice individually. The notebook was intelligence. The name was payment. The memory was operational security. Each one defensible. Each one clean in the accounting that Humanity 7 performed every night, the ledger where every entry balanced and no column ever showed a deficit because the man keeping the books had designed the system to make the numbers work.
 

@@ -26,9 +26,9 @@ Not physical. Not wind, not sound. Something older than either. The predatory au
 
 He was standing under the awning.
 
-Not tall. Lean, compact, dark overcoat that looked like it cost nothing and fit like it cost everything. Face that could have been forty or four hundred — olive skin, close-cropped grey hair, jaw that had been broken at least once in a life where bones still broke. His eyes moved to Sable first (she noticed that — first, before [Darius](/darius-cole/), before [Belthazar](/npcs/belthazar/)) and they were the eyes of something that had been reading people since before the language she spoke had been invented.
+Not tall. Lean, compact, dark overcoat that looked like it cost nothing and fit like it cost everything. Face that could have been forty or four hundred — olive skin, close-cropped grey hair, jaw that had been broken at least once in a life where bones still broke. His eyes moved to [Sable](/sable-price/) first (she noticed that — first, before [Darius](/darius-cole/), before [Belthazar](/npcs/belthazar/)) and they were the eyes of something that had been reading people since before the language she spoke had been invented.
 
-Belthazar stopped walking. "Primogen."
+[Belthazar](/npcs/belthazar/) stopped walking. "Primogen."
 
 "Sheriff." The voice was measured, unhurried, the cadence of complete sentences considered before they were spoken. He looked at Belthazar the way a man looks at a tool he didn't request. "[Ballard](/npcs/ballard/) informed the council. I am here to observe."
 
@@ -44,7 +44,7 @@ He looked at her. Measured. Not dismissive the way [Ballard](/npcs/ballard/) had
 
 "I am."
 
-Two words. No ornamentation. His eyes stayed on her for one more second — the particular quality of attention that weighs what it sees and files the result somewhere it won't be lost — and then he looked at Darius.
+Two words. No ornamentation. His eyes stayed on her for one more second — the particular quality of attention that weighs what it sees and files the result somewhere it won't be lost — and then he looked at [Darius](/darius-cole/).
 
 "And the Ventrue."
 
@@ -106,13 +106,13 @@ She knew whoever came in. She let them in willingly. Then she forgot everything.
 
 ---
 
-Sable summarized for Critias. The ancient blood. The single attacker. The chess game played with someone loved. The security gap cut with Dominate beyond anything she could measure. The pendant that hummed with a connection to something alive.
+Sable summarized for [Critias](/npcs/critias/). The ancient blood. The single attacker. The chess game played with someone loved. The security gap cut with Dominate beyond anything she could measure. The pendant that hummed with a connection to something alive.
 
 Critias listened without interrupting. When she finished, he was quiet for four seconds — which, from a man who weighed every sentence, was a long time.
 
 "The blood you describe," he said. "You have nothing to compare it to."
 
-Darius came back from the security room. Reported: Natasha's memory had been surgically removed. Whoever did it knew her. She let them in. The wipe was beyond his ability to reverse.
+Darius came back from the security room. Reported: [Natasha](/npcs/natasha/)'s memory had been surgically removed. Whoever did it knew her. She let them in. The wipe was beyond his ability to reverse.
 
 "One person," Critias said from the vault doorway. He hadn't raised his voice. "One individual entered this haven, shot the retainer at the desk, disabled the security system through the second retainer's willing cooperation, tore a seven-ton vault door from reinforced concrete with physical force derived from blood older than this city, and carried the Prince of Chicago out of the building." He paused. "That individual knew both retainers by name."
 
@@ -140,7 +140,7 @@ Critias moved through the vault. He stood over the pendant for a long time — l
 
 He looked at Sable. Then at Darius.
 
-"You are more capable than Ballard led me to expect. That may or may not work in your favor." He turned to Belthazar. "The map. The woods northwest. That is the lead worth following."
+"You are more capable than [Ballard](/npcs/ballard/) led me to expect. That may or may not work in your favor." He turned to Belthazar. "The map. The woods northwest. That is the lead worth following."
 
 Then he left. No farewell. The elevator doors closed behind him and the pressure in the room dropped by half.
 

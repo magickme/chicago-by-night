@@ -32,7 +32,7 @@ The word *wife* landed first. Then *Primogen*. Then the distance between what [V
 
 "Who told you?"
 
-Victor's face closed. He set the second glass down with the precise care of a man who had decided the conversation was finished.
+[Victor](/npcs/victor-salonika/)'s face closed. He set the second glass down with the precise care of a man who had decided the conversation was finished.
 
 "I already said more than I should've. Heard it from somebody who heard it from somebody. Maybe it's true, maybe it's bar talk. Either way, it's Chicago business, and I pour drinks in Gary."
 
@@ -68,7 +68,7 @@ The door opened.
 
 [Modius](/npcs/modius/) was standing by the fireplace. No fire. The mantel framing him like a proscenium, and he knew it, and that was the thing about [Modius](/npcs/modius/): he was always performing the role of prince, even alone, even in a dead city, even when the audience was one fledgling in a slip who'd come to sell him the only thing she had left.
 
-"Sable." He tasted the name. "Three nights since court and here you are. I wasn't expecting you until February."
+"[Sable](/sable-price/)." He tasted the name. "Three nights since court and here you are. I wasn't expecting you until February."
 
 She let the coat fall.
 
@@ -88,7 +88,7 @@ Then the negotiation. The carriage house, which she declined. Gently, with the s
 
 "I don't want to be a disruption," she said. "I want to be an asset."
 
-Modius looked at her for a long time. She'd surprised him. That was worth more than the kneeling.
+[Modius](/npcs/modius/) looked at her for a long time. She'd surprised him. That was worth more than the kneeling.
 
 "There's a building on Fifth Avenue. Near the Palace. Second floor. It was a dance studio, once."
 
@@ -114,7 +114,7 @@ On the back wall, near the office door, a framed photograph. Small, dusty, the g
 
 [Allicia](/npcs/allicia/).
 
-Sable stood in the middle of the floor and looked at the photograph and understood what Modius had done, whether he'd meant to do it or not. This was [Allicia](/npcs/allicia/)'s room. Before the mansion. Before the piano. Before she became the thing on the mantel he'd stopped seeing. Allicia danced here, on this floor, in front of this mirror. Then she stopped, or was stopped, and Modius held the room the way he held everything, not because he needed it but because ownership was the only verb he conjugated, and now he'd handed it to the next one. The new acquisition. The upgrade.
+Sable stood in the middle of the floor and looked at the photograph and understood what Modius had done, whether he'd meant to do it or not. This was [Allicia](/npcs/allicia/)'s room. Before the mansion. Before the piano. Before she became the thing on the mantel he'd stopped seeing. [Allicia](/npcs/allicia/) danced here, on this floor, in front of this mirror. Then she stopped, or was stopped, and Modius held the room the way he held everything, not because he needed it but because ownership was the only verb he conjugated, and now he'd handed it to the next one. The new acquisition. The upgrade.
 
 Sable left the shoes on the barre. Left the photograph on the wall.
 

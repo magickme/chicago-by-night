@@ -32,7 +32,7 @@ The back room was unlocked. She took the far booth, back to the wall, and waited
 
 She stood in the doorway and the red light hit her from two directions and for one second [Sable](/sable-price/) saw the woman in the photograph on the studio wall — the dancer, the one with the straight spine and the chin that said *I have been looked at by better than you.* Then the second passed and what stood in the doorway was something else: a woman who had practiced stillness for fifty years until the stillness had become indistinguishable from the woman, the way water takes the shape of whatever holds it.
 
-Black dress. Thin gold chain. Hair pulled back. She crossed the room and sat across from Sable and the velvet booth creaked under the weight of someone who looked like she weighed nothing and carried everything.
+Black dress. Thin gold chain. Hair pulled back. She crossed the room and sat across from [Sable](/sable-price/) and the velvet booth creaked under the weight of someone who looked like she weighed nothing and carried everything.
 
 Silence. The bass pulsed through the wall. The red lamp hummed.
 
@@ -48,7 +48,7 @@ A test. Not a question. Sable could feel the weight of it. [Allicia](/npcs/allic
 
 "He collected you. You were the most beautiful thing in Gary and he put you on a shelf. Then you stopped being new, and the shelf became a room, and the room became the mansion, and now you live inside the thing he built around you. And he gave your studio to the next one because keeping it empty would mean admitting he broke something."
 
-Allicia was silent for a long time. On the other side of the wall a new song started, something with a heavy bassline and a woman's voice that sounded like it was coming from underwater.
+[Allicia](/npcs/allicia/) was silent for a long time. On the other side of the wall a new song started, something with a heavy bassline and a woman's voice that sounded like it was coming from underwater.
 
 "You're smarter than I expected."
 
@@ -108,7 +108,7 @@ He closed the piano lid.
 
 Fifth Avenue. Two in the morning. The studio was cold.
 
-Sable sat on the floor beneath the photograph and looked at the pointe shoes and thought about what Allicia had told her and what she'd told Modius and the distance between those two things, which was the distance between what she knew and what she'd sold, which was the distance between the woman she was becoming and the woman she was supposed to be.
+Sable sat on the floor beneath the photograph and looked at the pointe shoes and thought about what Allicia had told her and what she'd told [Modius](/npcs/modius/) and the distance between those two things, which was the distance between what she knew and what she'd sold, which was the distance between the woman she was becoming and the woman she was supposed to be.
 
 Allicia was Blood Bound. Since 1941. Three drinks and the question of love becomes unanswerable. The Oasis taught Sable what that looked like from the outside: the regulars who came back every night, not because the drinks were good or the girls were beautiful but because the building had become the shape of their loneliness and they couldn't imagine fitting anywhere else. The Blood Bond was The Oasis with fangs. The cage was always the same shape. The bars just changed material.
 

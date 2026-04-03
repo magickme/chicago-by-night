@@ -52,13 +52,13 @@ DeShawn twelve minutes later. Mansion quiet. One car, [Modius](/npcs/modius/)'s 
 
 [The Torch](/locations/the-torch/) on a Saturday was sixty bodies and Motown bass and cigarette smoke thick enough to taste. [Victor](/npcs/victor-salonika/) behind the bar gave her the nod and nothing else. She took a stool at the dark end and ordered a whiskey she wouldn't touch and watched [Allicia](/npcs/allicia/) play through the gaps between shoulders and raised glasses and the backs of men who didn't know what was ten feet from them.
 
-[Allicia](/npcs/allicia/) in white. Hair pinned up. Playing something slow and minor-key that lived underneath the jukebox like a second conversation nobody else could hear. Her fingers hesitated on a chord when Sable walked in, and that hesitation said everything about who she'd been waiting for.
+[Allicia](/npcs/allicia/) in white. Hair pinned up. Playing something slow and minor-key that lived underneath the jukebox like a second conversation nobody else could hear. Her fingers hesitated on a chord when [Sable](/sable-price/) walked in, and that hesitation said everything about who she'd been waiting for.
 
 Three songs. A man tried to buy Sable a drink and she smiled him away. The jukebox played Bobby Brown and the piano disappeared under it. [Allicia](/npcs/allicia/) closed the fallboard with both hands and walked toward the back hallway without looking at her.
 
 Sable gave it thirty seconds and followed.
 
-The service door was propped open with a crate. Allicia was outside leaning against the wall where the shadow cut the sodium light in half. Up close and alone she was thinner. Eight days at the mansion had taken something out of her -- not blood, not weight, but the quality of presence that comes from choosing where you stand. She looked like a woman who'd been carefully maintained by someone who thought maintenance was love. Her skin was perfect. Her eyes were tired.
+The service door was propped open with a crate. [Allicia](/npcs/allicia/) was outside leaning against the wall where the shadow cut the sodium light in half. Up close and alone she was thinner. Eight days at the mansion had taken something out of her -- not blood, not weight, but the quality of presence that comes from choosing where you stand. She looked like a woman who'd been carefully maintained by someone who thought maintenance was love. Her skin was perfect. Her eyes were tired.
 
 Sable touched the side of her face. Thumb along the cheekbone. Allicia closed her eyes and leaned into it -- two ounces of pressure that said more than three spoken conversations -- and when she opened them they were wet, and she pressed her lips to the heel of Sable's palm in the gesture that meant *thank you for coming*.
 
@@ -66,7 +66,7 @@ Then two taps on her own sternum. A point at Sable. A touch to her lips and a sh
 
 Five fingers. Two miles east. She slipped back inside and the white dress vanished into the hallway and Sable was alone with the dumpster.
 
-Miller Beach didn't look like Gary. Old trees, privacy fences, houses that belonged to people who remembered when the money was real. Allicia's house was two stories behind a gate, and the front door was unlocked, and inside it smelled like dust and lemon polish and recording equipment. A grand piano in the living room better than the one at The Torch. Photographs on the walls of Gary in the 1940s -- men at ribbon cuttings, women in furs, and Allicia in every frame, the same face, the same stillness, standing next to people who aged and died around her.
+Miller Beach didn't look like Gary. Old trees, privacy fences, houses that belonged to people who remembered when the money was real. Allicia's house was two stories behind a gate, and the front door was unlocked, and inside it smelled like dust and lemon polish and recording equipment. A grand piano in the living room better than the one at [The Torch](/locations/the-torch/). Photographs on the walls of Gary in the 1940s -- men at ribbon cuttings, women in furs, and Allicia in every frame, the same face, the same stillness, standing next to people who aged and died around her.
 
 When Allicia arrived she locked the door -- deadbolt and chain, two more locks than she'd used on the way out. She crossed the room and took both of Sable's hands and held them hard, the way you hold onto something in rough water. Then she got a notepad and a pen with a light in the cap and wrote the words that changed the shape of the summer.
 

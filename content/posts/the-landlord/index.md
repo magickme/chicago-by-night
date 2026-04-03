@@ -32,7 +32,7 @@ Indianapolis Boulevard at nine-thirty on a Friday night was four lanes of nothin
 
 The man was standing on the shoulder of the access road like he'd been planted there.
 
-Heavy build. Work jacket, canvas, the kind you bought at a surplus store and wore until it rotted. Hands at his sides. Reflective eyes that caught the headlights and threw them back with a color that wasn't quite right. He didn't move when the Cutlass approached. He didn't move when Darius slowed. He had the stillness of something that had been standing in one place for a very long time and could stand there for a very long time more, and the fact that he'd chosen this spot on this road on this night meant he'd known they were coming, which meant he'd tracked the Cutlass to East Chicago the night before, which meant [Lucian](/npcs/lucian/) had been watching them for at least twenty-four hours without either of them noticing.
+Heavy build. Work jacket, canvas, the kind you bought at a surplus store and wore until it rotted. Hands at his sides. Reflective eyes that caught the headlights and threw them back with a color that wasn't quite right. He didn't move when the Cutlass approached. He didn't move when [Darius](/darius-cole/) slowed. He had the stillness of something that had been standing in one place for a very long time and could stand there for a very long time more, and the fact that he'd chosen this spot on this road on this night meant he'd known they were coming, which meant he'd tracked the Cutlass to East Chicago the night before, which meant [Lucian](/npcs/lucian/) had been watching them for at least twenty-four hours without either of them noticing.
 
 Darius stopped the car. Rolled down the window.
 
@@ -58,7 +58,7 @@ Darius looked at the three fingers. Each one a condition. Each one reasonable, w
 
 He paused. Let the pause do what pauses did between Kindred, which was announce that the next sentence had been chosen and not improvised.
 
-"The third. You want to know what's in the warehouse and what it might attract." He turned his head and looked at Lucian directly, which with a Gangrel elder was either a sign of respect or a provocation, and the difference depended on what came next. "There's nothing in that warehouse as dangerous as a smuggled Gangrel elder moving through your docks on the way to somewhere else. And I think we both know that's happened more than once."
+"The third. You want to know what's in the warehouse and what it might attract." He turned his head and looked at [Lucian](/npcs/lucian/) directly, which with a Gangrel elder was either a sign of respect or a provocation, and the difference depended on what came next. "There's nothing in that warehouse as dangerous as a smuggled Gangrel elder moving through your docks on the way to somewhere else. And I think we both know that's happened more than once."
 
 The car went quiet again. A different quiet. [Sable](/sable-price/) in the backseat was a held breath.
 
@@ -76,7 +76,7 @@ He opened the door. Got out. The car rose on its springs. He stood on the gravel
 
 He walked into the dark. Not toward the road or the docks or any visible destination. He walked into the dark the way a man walks into his own house, and the dark took him, and the access road was empty.
 
-Darius put the car in gear. His hands were steady. In the rearview mirror, Sable's face was unreadable.
+Darius put the car in gear. His hands were steady. In the rearview mirror, [Sable](/sable-price/)'s face was unreadable.
 
 ---
 

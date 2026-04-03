@@ -31,7 +31,7 @@ ShowToc: false
 
 ## Geographic Placement
 
-- **Address:** 233 South Wacker Drive (fills a full city block at [Jackson](/npcs/kevin-jackson/) Blvd and Wacker). Built 1974, 110 stories, 1,454 feet — tallest building in the world in 1992. Lodin's haven occupies the 107th floor (third from the top). The 95th floor holds a secondary haven with the same 3x3 nine-room layout as the Prudential.
+- **Address:** 233 South Wacker Drive (fills a full city block at [Jackson](/npcs/kevin-jackson/) Blvd and Wacker). Built 1974, 110 stories, 1,454 feet — tallest building in the world in 1992. [Lodin](/npcs/lodin/)'s haven occupies the 107th floor (third from the top). The 95th floor holds a secondary haven with the same 3x3 nine-room layout as the Prudential.
 - **Neighborhood:** The Loop (The Hive), southwest edge. The indoor plaza at street level is vast and spectacular, with double-decker express elevators.
 - **Proximity:** Roughly one mile southwest of Lodin's Prudential Building (130 E Randolph). Union Station is two blocks south — [Edgar Drummond](/npcs/edgar/)'s railroad marshalling-yards are beyond it. The [Art Institute](/locations/art-institute/) and Michigan Avenue are six blocks east.
 - **Transit:** CTA Blue/Brown/Orange/Pink/Purple Lines all serve the Loop elevated within two blocks. The Quincy and [Jackson](/npcs/kevin-jackson/) stops are closest. Express elevator bypass from the lobby is the only Kindred route to 107.

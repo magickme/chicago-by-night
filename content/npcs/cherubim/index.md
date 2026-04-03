@@ -21,7 +21,7 @@ The war-doll of the Shepherds, Cherubim is the product of the vile practices of 
 
 [Raphael Catarari](/npcs/raphael-catarari/) recognized Alice's beautiful soul and helped her become strong enough to free herself. In 1911, she overcame the Vinculum that bound her to [Kyle](/npcs/kyle-strathcona/), then challenged him to Monomancy, during which he was hampered by his own twisted affections. [Raphael](/npcs/raphael-catarari/) brought her into the Shepherds and onto their Path as Cherubim.
 
-The specter of Kyle McConner haunts Cherubim. (She still keeps the leather mask that he wore while violating her.) When her Divine Tide rises, she struggles to let go of her hatred. During periods of ebb tide, she seeks vengeance by pursuing a twisted game of seduction aimed at mortal men. She brings out the pedophile in them and then tears out their hearts at the point of sexual climax.
+The specter of [Kyle](/npcs/kyle-strathcona/) McConner haunts Cherubim. (She still keeps the leather mask that he wore while violating her.) When her Divine Tide rises, she struggles to let go of her hatred. During periods of ebb tide, she seeks vengeance by pursuing a twisted game of seduction aimed at mortal men. She brings out the pedophile in them and then tears out their hearts at the point of sexual climax.
 
 Cherubim and [Raphael](/npcs/raphael-catarari/) have begun an intensely sexual relationship. Part of Cherubim feels that the Shepherd is nothing but another pedophile who is using her. She suppresses a deadly frenzy at the peak of their bloody sexual acts.
 

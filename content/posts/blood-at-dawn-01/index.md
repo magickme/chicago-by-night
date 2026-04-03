@@ -38,7 +38,7 @@ The service door opened behind the boy. Bar light spilled into the alley. [Victo
 
 The boy's head turned toward the light. Toward [Sable](/sable-price/). The rotation was too fast and too far, the neck moving past where a neck should stop, another quarter-inch, the tendons visible under the gray skin like cables under canvas.
 
-"Darius." Sable's voice was flat. The voice she used when the performance stopped and the survival started. "That's not a person."
+"[Darius](/darius-cole/)." [Sable](/sable-price/)'s voice was flat. The voice she used when the performance stopped and the survival started. "That's not a person."
 
 The boy's mouth opened. The jaw worked. Bone on bone, the cartilage long gone. Air forced through a dead throat by something that didn't understand lungs.
 
@@ -60,7 +60,7 @@ Sable held the brooch and her sharpened senses read it: centuries old, handmade,
 
 "This is Kindred. Whoever dropped it in your alley was one of us."
 
-Victor wanted to tell [Allicia](/npcs/allicia/). Darius cut him off.
+[Victor](/npcs/victor-salonika/) wanted to tell [Allicia](/npcs/allicia/). Darius cut him off.
 
 "We'll handle it. Sable's friends with her."
 
@@ -98,12 +98,12 @@ He told them what it was. A man put it here. A father. He pushed his boy through
 
 ---
 
-The Cutlass again. Miller Beach. Darius driving fast now, the .357 on the seat between them, the brooch in Sable's pocket, and Michael's words in the air like a frequency neither of them could tune out.
+The Cutlass again. Miller Beach. Darius driving fast now, the .357 on the seat between them, the brooch in Sable's pocket, and [Michael](/npcs/michael/)'s words in the air like a frequency neither of them could tune out.
 
 A spirit in a dead boy, hunting [Allicia](/npcs/allicia/), growing stronger, anchored by a bag of hair and dirt and blood somewhere in Gary. A grieving father who built a door and pushed his son through it. And somewhere between the cemetery and the lakefront, in the dead lots and abandoned factories of a city that had been dying since before either of them was born, a sixteen-year-old body was walking toward the woman who didn't speak, saying her name through a mouth that had forgotten what mouths were for.
 
 Darius drove. Sable watched the road. The distance between them was still there but it had a different name now. Not caution. Not performance. Not the careful width of two people who'd failed each other and hadn't discussed it.
 
-Purpose. The distance had become a direction. They were both pointed at the same thing, and the thing was Allicia, and whatever was coming for her would have to go through both of them to get there.
+Purpose. The distance had become a direction. They were both pointed at the same thing, and the thing was [Allicia](/npcs/allicia/), and whatever was coming for her would have to go through both of them to get there.
 
 Neither of them had agreed to this. Neither of them had said the word. They didn't need it. The car was moving. They were in it. That was enough.

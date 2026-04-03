@@ -25,13 +25,13 @@ The letter had no name on it. Cream paper, old cursive, slid under the studio do
 
 She talked about entertaining and guest lists and wine selection, and underneath the party planning she said: *I know he's starving you. I see what he's doing.* And [Allicia](/npcs/allicia/), who had spoken six words in six months, used her seventh in a sentence about hospitality that meant: *Guests can't enjoy what they haven't been given.*
 
-Victor polished a glass. Two women discussing dinner parties. The most natural thing in the world.
+[Victor](/npcs/victor-salonika/) polished a glass. Two women discussing dinner parties. The most natural thing in the world.
 
-[Allicia](/npcs/allicia/) glanced at Sable's wrist. One glance. Then away. The request was clear.
+[Allicia](/npcs/allicia/) glanced at [Sable](/sable-price/)'s wrist. One glance. Then away. The request was clear.
 
 "Some courses need a private room," Sable said. "Somewhere the kitchen staff doesn't go."
 
-Allicia touched the clock on the mantel. Two taps. Touched the window.
+[Allicia](/npcs/allicia/) touched the clock on the mantel. Two taps. Touched the window.
 
 Two. Outside.
 

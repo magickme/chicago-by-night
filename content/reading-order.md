@@ -177,18 +177,18 @@ Published scenes from **Chicago Chronicles** in chronological order.
 
 ### Chapter 2 — Pawns in the Game
 
-*London, 1969. A flashback interlude. Roarke — Lodin's chief retainer for sixty-one years — flies to London on a job he doesn't understand, for a man he can't refuse.*
+*Jan 3, 1991 through Jan 3, 1991, 5:00 AM.*
 
 | # | Scene | PC | Date |
 |---|---|---|---|
-| 57 | [At Ease In The Windy City](/posts/at-ease-in-the-windy-city/) | Roarke | Oct 15, 1969, 7:00 PM |
-| 58 | [The Trip](/posts/the-trip/) | Roarke | Oct 16, 1969, 6:00 PM |
-| 59 | [Settling In](/posts/settling-in/) | Roarke | Oct 17, 1969, 7:14 AM |
-| 60 | [Pawns In The Game](/posts/pawns-in-the-game/) | Roarke | Oct 17, 1969, 5:47 PM |
-| 61 | [The Auction](/posts/the-auction/) | Roarke | Oct 18, 1969, 11:00 AM |
-| 62 | [Fools Errand](/posts/fools-errand/) | Roarke | Oct 18, 1969, 7:00 PM |
+| 57 | [At Ease In The Windy City](/posts/at-ease-in-the-windy-city/) | Chronicle | Jan 3, 1991 |
+| 58 | [The Trip](/posts/the-trip/) | Chronicle | Jan 3, 1991, 1:00 AM |
+| 59 | [Settling In](/posts/settling-in/) | Chronicle | Jan 3, 1991, 2:00 AM |
+| 60 | [Pawns In The Game](/posts/pawns-in-the-game/) | Chronicle | Jan 3, 1991, 3:00 AM |
+| 61 | [The Auction](/posts/the-auction/) | Chronicle | Jan 3, 1991, 4:00 AM |
+| 62 | [Fools Errand](/posts/fools-errand/) | Chronicle | Jan 3, 1991, 5:00 AM |
 
-### Chapter 3 — Ashes to Ashes, Pt. 2
+### Chapter 3 — Ashes to Ashes
 
 | # | Scene | PC | Date |
 |---|---|---|---|
@@ -199,6 +199,15 @@ Published scenes from **Chicago Chronicles** in chronological order.
 | # | Scene | PC | Date |
 |---|---|---|---|
 | 64 | [Appetite](/posts/appetite/) | Sable | Jan 6, 1991, 4:28 PM |
+
+### Chapter 5 — Clean Hands
+
+*Jan 8, 1991, 4:28 PM through Jan 9, 1991, 4:28 PM.*
+
+| # | Scene | PC | Date |
+|---|---|---|---|
+| 65 | [The Recruiter](/posts/the-recruiter/) | Darius | Jan 8, 1991, 4:28 PM |
+| 66 | [The Nightclub](/posts/the-nightclub/) | Darius + Sable | Jan 9, 1991, 4:28 PM |
 
 ---
 

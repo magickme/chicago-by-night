@@ -18,7 +18,7 @@ The chandeliers helped. So did the suits, the dresses, the crystal, the old wood
 
 [Darius](/darius-cole/) kept to the discipline of angle and sequence.
 
-Stand where the exits stay visible. Never be trapped in the center of someone else's conversation. Answer the question that was asked and not the question beneath it. When [Modius](/npcs/modius/) asked about havens, [Darius](/darius-cole/) gave the west-side apartment because a partial truth was cleaner than resistance. When [Danov](/npcs/alexander-danov/) asked a moral question dressed as philosophy, [Darius](/darius-cole/) gave him thoughtfulness and no confession. When [Lucian](/npcs/lucian/) spoke about Rome as though the republic had fallen yesterday, Darius listened for the one line hidden inside the performance and found it there: Chicago meant the [Succubus Club](/locations/succubus-club/), and the club meant [Sir Henry Johnson](/npcs/sir-henry-johnson/).
+Stand where the exits stay visible. Never be trapped in the center of someone else's conversation. Answer the question that was asked and not the question beneath it. When [Modius](/npcs/modius/) asked about havens, [Darius](/darius-cole/) gave the west-side apartment because a partial truth was cleaner than resistance. When [Danov](/npcs/alexander-danov/) asked a moral question dressed as philosophy, [Darius](/darius-cole/) gave him thoughtfulness and no confession. When [Lucian](/npcs/lucian/) spoke about Rome as though the republic had fallen yesterday, [Darius](/darius-cole/) listened for the one line hidden inside the performance and found it there: Chicago meant the [Succubus Club](/locations/succubus-club/), and the club meant [Sir Henry Johnson](/npcs/sir-henry-johnson/).
 
 Then [Juggler](/npcs/juggler/) broke the room open.
 
@@ -50,7 +50,7 @@ Then the party began doing what parties in Gary always did when enough Kindred w
 
 The signal system kept Darius close without requiring closeness. A touch at the cuff. Fingers to the collarbone. Language small enough to survive in hostile architecture. It was one of the few beautiful things in the room because it was useful.
 
-When [Juggler](/npcs/juggler/) detonated the evening, Sable moved.
+When [Juggler](/npcs/juggler/) detonated the evening, [Sable](/sable-price/) moved.
 
 [Evelyn](/npcs/evelyn-stephens/) visible. Mortals loud. Every eye pulled off axis. For a few minutes the mansion stopped being court and became logistics. That was enough.
 
@@ -62,7 +62,7 @@ Isolation.
 
 A narrow anchor point that could be weakened but not shattered in one act of courage.
 
-Milwaukee, eventually. Distance. Time. Removal from Modius, not defiance in his hallway.
+Milwaukee, eventually. Distance. Time. Removal from [Modius](/npcs/modius/), not defiance in his hallway.
 
 The answer hurt because it was real. It also saved the question from turning sentimental.
 

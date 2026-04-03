@@ -23,4 +23,4 @@ Midget is a mere 4'1" tall and relishes in the gawks and leers he gets from peop
 
 **Image:** Midget's short body is completely out of proportion. His arms and feet are different lengths; his face is asymmetrical; his left eye is larger than his right; and his mouth is off-center, which gives him a perpetual grin.
 
-**Secrets:** Midget has a bitter hatred for the Sabbat. His unknown sire must have Embraced him out of cruelty. Midget is a follower of the Path of Evil Revelations and serves [Pierre Bellemare](/npcs/pierre-bellemare/) as an infernal agent. He is responsible for the disappearances of Lavour and Goliath from the circus -- they were made sacrifices to Pierre's infernal master.
+**Secrets:** Midget has a bitter hatred for the Sabbat. His unknown sire must have Embraced him out of cruelty. Midget is a follower of the Path of Evil Revelations and serves [Pierre Bellemare](/npcs/pierre-bellemare/) as an infernal agent. He is responsible for the disappearances of Lavour and Goliath from the circus -- they were made sacrifices to [Pierre](/npcs/pierre-bellemare/)'s infernal master.

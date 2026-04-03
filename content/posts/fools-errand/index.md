@@ -32,7 +32,7 @@ He picked up the journal. Leaned close.
 
 [Roarke](/npcs/roarke/)'s hand shot up and closed around [Quinn](/npcs/heath-quinn/)'s throat. [Quinn](/npcs/heath-quinn/)'s eyes widened. He gagged. Clawed at [Roarke](/npcs/roarke/)'s wrist. Hit him in the chest where the hole was. White light. The fingers loosened because the blood was leaving and the muscles followed the blood and the dark was patient.
 
-[Quinn](/npcs/heath-quinn/) pulled free. Rubbing his throat. Looking at Roarke on the pavement with something that might have been respect.
+[Quinn](/npcs/heath-quinn/) pulled free. Rubbing his throat. Looking at [Roarke](/npcs/roarke/) on the pavement with something that might have been respect.
 
 Tough old bastard.
 

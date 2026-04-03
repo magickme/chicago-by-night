@@ -48,7 +48,7 @@ Seven points. She took all of it, everything the night would give her, and felt 
 
 She stopped. Left him breathing against the brick with his collar dark and his face slack. He'd wake up in an hour wondering what happened, and he'd go home and sleep and tomorrow the puncture marks would be something he explained to himself in a way that made sense, because that was what people did with the things that didn't make sense: they built a story around the wound and lived inside it.
 
-Sable slipped through the service gate and walked to the Buick without looking back. Three blocks from The Torch she realized she was smiling, and the smile felt wrong on her face, like wearing someone else's expression, so she stopped.
+[Sable](/sable-price/) slipped through the service gate and walked to the Buick without looking back. Three blocks from [The Torch](/locations/the-torch/) she realized she was smiling, and the smile felt wrong on her face, like wearing someone else's expression, so she stopped.
 
 ---
 
@@ -80,7 +80,7 @@ Miller Beach. The mansion. White columns in the dark, the lawn dead with winter,
 
 "Twice in four days. I'm flattered."
 
-She dropped her shoulders. Not the kneeling, not the slip, not the full performance. Something calibrated to look like worry. "My Prince, Allicia left a note at the studio. She wants to meet." A pause. Let the weight settle. "I don't want to cause problems between you and her. She was there first. That studio was hers. If my being there is making things difficult, I'd rather know now."
+She dropped her shoulders. Not the kneeling, not the slip, not the full performance. Something calibrated to look like worry. "My Prince, [Allicia](/npcs/allicia/) left a note at the studio. She wants to meet." A pause. Let the weight settle. "I don't want to cause problems between you and her. She was there first. That studio was hers. If my being there is making things difficult, I'd rather know now."
 
 The words were positioned. The concern was real but the framing was strategic, designed to make him reassure her, which would force him to show his hand on Allicia. She could feel the performance wavering at the edges, the scaffolding just visible enough that a man with centuries of practice could see it if he looked.
 

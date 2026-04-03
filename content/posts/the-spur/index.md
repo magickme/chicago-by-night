@@ -34,7 +34,7 @@ He parked on the gravel shoulder, killed the headlights, and stood in front of t
 
 The man who stepped into the moonlight had a narrow face and a hooked nose and pale eyes that assessed everything and announced nothing. Dark wool overcoat, well-cut but old. English descent. He walked without hurrying because he'd never needed to hurry in two hundred and thirty-two years of not dying.
 
-"[Horace Turnbull](/npcs/horace/)," the man said when Darius pulled the .357. He looked at the gun the way a bartender looks at a spilled drink. "I run a bar on State Street in Chicago called [The Cave](/locations/the-cave/). I work for people who pay attention to what happens in Gary, and I've been paying attention since July."
+"[Horace Turnbull](/npcs/horace/)," the man said when [Darius](/darius-cole/) pulled the .357. He looked at the gun the way a bartender looks at a spilled drink. "I run a bar on State Street in Chicago called [The Cave](/locations/the-cave/). I work for people who pay attention to what happens in Gary, and I've been paying attention since July."
 
 Darius lowered the gun. Not holstered. Just down.
 
@@ -46,7 +46,7 @@ He put his hands in the pockets of the overcoat. Patient. A man settling in for 
 
 Darius leaned against the Cutlass. Crossed his arms. Let his eyes go slightly wide. The Conformist mask -- attentive, a little overwhelmed, the twelfth-generation nobody trying to keep up. He asked the questions a confused neonate would ask. How does that work. Is [Modius](/npcs/modius/) aware. What happens if the report says something they don't like. Each answer [Horace](/npcs/horace/) gave was another card shown, another minute invested, another step deeper into a conversation the man from Chicago couldn't walk away from empty-handed.
 
-And while Horace talked, Darius watched the cracks.
+And while [Horace](/npcs/horace/) talked, Darius watched the cracks.
 
 The paranoia was constant. Not about Darius -- about being here. Horace tracked the tree line, the road, the wind direction. Five months in a foreign city without a haven or a retainer or an exit route. A man whose mind never stopped calculating threats because stopping meant dying, and dying was the only thing the Malkavian in him truly feared.
 
@@ -142,7 +142,7 @@ Then the invitation. Cream cardstock. Wax seal. Every Kindred in Gary walking th
 
 "Chicago thinks Gary is stable but fragile," Darius said. No names. No spur. Just the fact.
 
-Silence on the line while Sable processed it through the part of her mind that read social architecture the way he read logistics.
+Silence on the line while [Sable](/sable-price/) processed it through the part of her mind that read social architecture the way he read logistics.
 
 "How do you know that?"
 

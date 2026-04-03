@@ -21,7 +21,7 @@ Age 32 in 1969. Born 1937. Slender, 5'7", hardened by extensive workouts. Should
 
 She has served [Lodin](/npcs/lodin/) faithfully ever since, though she occasionally suspects he engineered her firing in the first place.
 
-Loyal to Lodin for one reason: he lets her demonstrate how good she is. Above all else, she wants to prove herself — to show she is better than anyone at what she does, which is killing. She works for a man she despises because he grants her that freedom.
+Loyal to [Lodin](/npcs/lodin/) for one reason: he lets her demonstrate how good she is. Above all else, she wants to prove herself — to show she is better than anyone at what she does, which is killing. She works for a man she despises because he grants her that freedom.
 
 Respects [Julian Curry](/npcs/julian-curry/). Despises [Derek](/npcs/derek-gallen/)'s empty bravado and his constant advances. Considers [Amber](/npcs/amber/) useless. Follows [Roarke](/npcs/roarke/)'s lead as field commander but trusts him less than the others.
 

@@ -51,7 +51,7 @@ What drove him wasn't greed or anger. It was architecture. He wanted to *build* 
 
 [Chuc Luc](/npcs/chuc-luc/) found Darius through the money.
 
-The wholesaler in Chicago Heights — the one Darius never got a real name from — turned out to be one of the tributaries in [Chuc Luc](/npcs/chuc-luc/)'s laundering network. When the wholesaler's books showed a consistent, clean, low-profile operation moving $8,000 a month through a rust belt pawnshop circuit, Chuc Luc sent someone to find out who was behind it. The answer came back: a twenty-five-year-old Black kid from Midtown Gary who had never been arrested, never bragged, and never once asked the wholesaler a personal question.
+The wholesaler in Chicago Heights — the one Darius never got a real name from — turned out to be one of the tributaries in [Chuc Luc](/npcs/chuc-luc/)'s laundering network. When the wholesaler's books showed a consistent, clean, low-profile operation moving $8,000 a month through a rust belt pawnshop circuit, [Chuc Luc](/npcs/chuc-luc/) sent someone to find out who was behind it. The answer came back: a twenty-five-year-old Black kid from Midtown Gary who had never been arrested, never bragged, and never once asked the wholesaler a personal question.
 
 The first meeting was in the back of a Vietnamese restaurant on Argyle Street in Chicago's New [Chinatown](/locations/chinatown/). A small man in a cheap suit sat across from Darius, smiled too wide, and spoke English with a thick accent that made him sound like someone's confused uncle. He asked Darius three questions: *What do you want? What would you do to get it? And what won't you do?*
 
@@ -110,7 +110,7 @@ The answer he gives anyone who asks: "I just want to survive, sir."
 > "I hear you. I respect what you're building. But I've got obligations, and I'm not in a position to disappoint the people I owe. Not yet. You understand."
 
 > *Alone, reviewing what he learned at court:*
-> "Modius is planning something with the docks. He doesn't have the resources. [Allicia](/npcs/allicia/) watched me for forty minutes. [Juggler](/npcs/juggler/)'s people had three new faces I didn't recognize — one of them smelled like Lake Michigan. And someone's been feeding in my territory without permission."
+> "[Modius](/npcs/modius/) is planning something with the docks. He doesn't have the resources. [Allicia](/npcs/allicia/) watched me for forty minutes. [Juggler](/npcs/juggler/)'s people had three new faces I didn't recognize — one of them smelled like Lake Michigan. And someone's been feeding in my territory without permission."
 
 > *When confronted with a direct threat:*
 > "I want you to think about what happens *after* you hurt me. Not to me — I'm nobody. To the twelve people who are depending on me to do things for them tomorrow night. You want to explain to all of them why their business isn't getting handled? Because that's not a problem I'm creating. That's a problem *you're* creating."

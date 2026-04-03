@@ -42,7 +42,7 @@ Her spirit broken, she allowed the marriage. She placed the crown on Minos's hea
 
 She traveled to Delphi. The oracle told her that drinking her sire's blood could both destroy her tormentor and make her more powerful — but warned that it would cost what was left of her soul.
 
-For thirteen years she waited. Then Prias returned. His relatives had taken him to Egypt to recuperate. He had searched Minos's old haunts in Crete and Rhodes before finding them in Argos. With a force of soldiers, he attacked at dawn. He drove a wooden spear deep into Minos's breast. As the ancient lay paralyzed, Helena sprang for her sire's throat. She drank deeply. She rose from the drained and destroyed Elder with blood streaming down her smiling face.
+For thirteen years she waited. Then [Prias](/npcs/prias/) returned. His relatives had taken him to Egypt to recuperate. He had searched Minos's old haunts in Crete and Rhodes before finding them in Argos. With a force of soldiers, he attacked at dawn. He drove a wooden spear deep into Minos's breast. As the ancient lay paralyzed, Helena sprang for her sire's throat. She drank deeply. She rose from the drained and destroyed Elder with blood streaming down her smiling face.
 
 This was the Amaranth — diablerie of one's own sire. It elevated her to 4th generation.
 
@@ -68,7 +68,7 @@ Helena and Prias reached Carthage just as the Brujah were raising it to its grea
 
 For 1,300 years, Helena and [Menele](/npcs/menele/) fought across Eurasia. In 1415, near Agincourt, Helena and Prias dealt [Menele](/npcs/menele/) a near-fatal blow. He escaped — faked his death and crossed the Atlantic.
 
-When Helena's Auspex detected Menele far across the sea, she moved the Spanish Empire to send explorers westward. She joined the expedition of Hernan Cortez, along with Prias and several female progeny she had made.
+When Helena's Auspex detected [Menele](/npcs/menele/) far across the sea, she moved the Spanish Empire to send explorers westward. She joined the expedition of Hernan Cortez, along with Prias and several female progeny she had made.
 
 In the Aztec capital, Helena encountered something beneath the great pyramid — a sleeping entity of such power that she fled upon sensing it. She left behind a childe, **Marie Galbraith**, and another follower, **Melinda**, who would eventually become Sabbat Cardinal of Mexico City. Both hate her. The rumors that Helena has been spotted in Mexico City continue.
 
@@ -112,13 +112,13 @@ No Kindred in Chicago knows Maria is dead. All Toreador are very interested in w
 
 **Prias** — her ghoul-lover for three millennia. All attributes at 5. Melee 7. He possesses the Carthaginian silver sword. He operates independently, cultivating allies. He has killed a number of Chicago's Kindred on both sides of the Jyhad. He still has some of their blood in storage.
 
-**[Tyler](/npcs/tyler/) / Patricia** — born 1352, Embraced 1381 by Robin Leeland (7th gen Brujah). 6th generation after diablerizing a Ventrue Elder in Spain — the event that triggered the Anarch Revolt. Helena sensed her in Cartagena and "immediately recognized her potential as an assassin of Vampires." Thirty years of manipulation, then Blood Bond. Called to Chicago in the early 1900s. Receives orders through telepathy. Ordered to stay away from the Succubus Club so no one recognizes her. During the Council Wars, [Tyler](/npcs/tyler/) slew a 6th-generation descendant of [Critias](/npcs/critias/) who refused to end his support of [Maldavis](/npcs/maldavis/).
+**[Tyler](/npcs/tyler/) / Patricia** — born 1352, Embraced 1381 by Robin Leeland (7th gen Brujah). 6th generation after diablerizing a Ventrue Elder in Spain — the event that triggered the Anarch Revolt. Helena sensed her in Cartagena and "immediately recognized her potential as an assassin of Vampires." Thirty years of manipulation, then Blood Bond. Called to Chicago in the early 1900s. Receives orders through telepathy. Ordered to stay away from the [Succubus Club](/locations/succubus-club/) so no one recognizes her. During the Council Wars, [Tyler](/npcs/tyler/) slew a 6th-generation descendant of [Critias](/npcs/critias/) who refused to end his support of [Maldavis](/npcs/maldavis/).
 
-**[Tyler](/npcs/tyler/) → [Juggler](/npcs/juggler/)** — Helena Blood-Bonded Tyler to [Juggler](/npcs/juggler/), making [Juggler](/npcs/juggler/) believe the Bond was his own idea. She developed Juggler's potential as an Anarch leader.
+**[Tyler](/npcs/tyler/) → [Juggler](/npcs/juggler/)** — Helena Blood-Bonded [Tyler](/npcs/tyler/) to [Juggler](/npcs/juggler/), making [Juggler](/npcs/juggler/) believe the Bond was his own idea. She developed [Juggler](/npcs/juggler/)'s potential as an Anarch leader.
 
 **[Nicolai](/npcs/nicolai/)** — Tremere Regent. Thoroughly controlled by Helena. The only reason he has not stood for Clan Justicar.
 
-**[Brennon Thornhill](/npcs/brennon-thornhill/)** — Ventrue, Succubus Club owner. Helena led Lodin to Embrace him. Unconsciously serves as her main protector. Beginning to suspect his decisions were not his own.
+**[Brennon Thornhill](/npcs/brennon-thornhill/)** — Ventrue, Succubus Club owner. Helena led [Lodin](/npcs/lodin/) to Embrace him. Unconsciously serves as her main protector. Beginning to suspect his decisions were not his own.
 
 **[Annabelle Triabell](/npcs/annabelle-triabell/)** — Helena believes she controls [Annabelle](/npcs/annabelle-triabell/) through Domination, having taken her during the Council Wars. Central to Helena's understanding of the power structure.
 

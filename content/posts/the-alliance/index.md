@@ -30,11 +30,11 @@ Then [Allicia](/npcs/allicia/) spoke. The third time.
 
 "He wants me to give you my blood."
 
-The words landed like stones on still water. Not an offer. A confession. She was telling Sable what [Modius](/npcs/modius/) had ordered — the trap Sable had always suspected, spoken aloud for the first time by the woman who was supposed to be the bait.
+The words landed like stones on still water. Not an offer. A confession. She was telling [Sable](/sable-price/) what [Modius](/npcs/modius/) had ordered — the trap Sable had always suspected, spoken aloud for the first time by the woman who was supposed to be the bait.
 
 Sable crossed the room. Sat beside her on the window seat. Reached up and touched her hair, dark and heavy, and stroked it once from the temple down. The gesture of a woman who has comforted other women and knows that words aren't always the thing that's needed.
 
-Allicia went still. The stillness of someone who hasn't been touched gently in a very long time.
+[Allicia](/npcs/allicia/) went still. The stillness of someone who hasn't been touched gently in a very long time.
 
 "I told him no."
 
@@ -64,7 +64,7 @@ Sable slid to the floor. Kissed her knee. "Shh. Five is enough for now."
 
 The lake. The lamp. The room held them the way a church holds a confession.
 
-Then a door closed downstairs. The careful, deliberate sound of a man moving through his own house. Allicia went rigid. Three seconds and the armor was back — the green silk, the walls, the silent fixture of Modius's court reassembled over the woman who'd laughed thirty seconds ago.
+Then a door closed downstairs. The careful, deliberate sound of a man moving through his own house. Allicia went rigid. Three seconds and the armor was back — the green silk, the walls, the silent fixture of [Modius](/npcs/modius/)'s court reassembled over the woman who'd laughed thirty seconds ago.
 
 She touched Sable's cheek one last time. Quick. The way you touch something you're about to lose.
 

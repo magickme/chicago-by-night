@@ -25,7 +25,7 @@ Around 462 AD, Hrothulf broke. He threw his knife at Marius. It hit the shoulder
 
 After the killing, Hrothulf wandered. He crossed into the New World with early European explorers, centuries before permanent settlement. He married into the Chippewa tribe in what is now Wisconsin. The relationship was genuine in ways that his existence among Kindred had never been. He Embraced his wife, Chiclena, which triggered a war among the local bands. They fled into the northern woods and spent centuries in isolation.
 
-Eventually Hrothulf returned to the business of settlement. He drew European colonists to the Milwaukee area and established himself as Prince of Juneautown in 1818, the eastern half of the future city. Gracis arrived in Kilbourntown in 1834. The ancient war resumed. Assassination attempts from both sides. A Nosferatu Justicar imposed a ceasefire that neither elder has honored in spirit.
+Eventually Hrothulf returned to the business of settlement. He drew European colonists to the Milwaukee area and established himself as Prince of Juneautown in 1818, the eastern half of the future city. [Gracis](/npcs/gracis-nostinus/) arrived in Kilbourntown in 1834. The ancient war resumed. Assassination attempts from both sides. A Nosferatu Justicar imposed a ceasefire that neither elder has honored in spirit.
 
 Hrothulf became Prince of Milwaukee in 1906 after Prince [Edward](/npcs/sir-edward-scott/) Austin was slain. He held praxis until 1923, when a European assassin — sent by Gracis, though provably connected to him through six intermediaries — nearly killed him. Hrothulf resigned the Princedom rather than continue governing while watching his back. [Merik](/npcs/terence-merik/) eventually took the seat.
 

@@ -26,7 +26,7 @@ American suit. American shoes. American tan. The professional stillness of someo
 
 The bidding started. Naval charts, medals, signal flags. The room thinned. The heavyset man stayed. The younger man stayed.
 
-Lot 47. Two thousand pounds. The naval man raised his paddle. Roarke countered. Back and forth in careful increments -- three thousand, four, five, six, seven. At seven thousand five hundred the naval man shook his head and set his paddle down.
+Lot 47. Two thousand pounds. The naval man raised his paddle. [Roarke](/npcs/roarke/) countered. Back and forth in careful increments -- three thousand, four, five, six, seven. At seven thousand five hundred the naval man shook his head and set his paddle down.
 
 Going once --
 
@@ -40,6 +40,6 @@ The younger man shook his head. The gavel came down. He walked out past Roarke's
 
 A limousine waited at the curb. [Natasha](/npcs/natasha/) followed and lost him in two blocks.
 
-Back at the hotel, Roarke gave Lodin everything. The journal, the price, the Swiss account, the man. Lodin listened. Said the Swiss account was the correct decision. Said the man in the lavender tie would surface again. They always do when they want something.
+Back at the hotel, Roarke gave [Lodin](/npcs/lodin/) everything. The journal, the price, the Swiss account, the man. Lodin listened. Said the Swiss account was the correct decision. Said the man in the lavender tie would surface again. They always do when they want something.
 
 Then: the journal. Seven o'clock. You will retrieve it. Go alone.

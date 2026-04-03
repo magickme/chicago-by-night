@@ -42,7 +42,7 @@ Nisha looked at her with the eyes of a professional recognizing a professional's
 
 "Because I'm from a place where everybody knows that."
 
-The offer was specific: heat, food, a bath. The bath did the work. If you have been seventeen and cold in December in a city that has stopped pretending to care whether you freeze, the idea of hot water is worth more than the forty-two dollars in somebody else's Carhartt. Sable understood this the way she understood leverage and approach angles and the pitch of a voice that says *I'm safe* while meaning something else entirely. She had lived inside that understanding once. Now she administered it.
+The offer was specific: heat, food, a bath. The bath did the work. If you have been seventeen and cold in December in a city that has stopped pretending to care whether you freeze, the idea of hot water is worth more than the forty-two dollars in somebody else's Carhartt. [Sable](/sable-price/) understood this the way she understood leverage and approach angles and the pitch of a voice that says *I'm safe* while meaning something else entirely. She had lived inside that understanding once. Now she administered it.
 
 The studio on Fifth Avenue was cold. Sable hadn't been there in weeks. [Michael](/npcs/michael/)'s paintings watched from the walls -- three unfinished canvases, the brushwork of a man who started conversations and left before the other person could answer. The answering machine on the counter blinked twice. Red. Patient.
 

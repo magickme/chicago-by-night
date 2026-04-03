@@ -52,7 +52,7 @@ Menele broke his oath to forsake cities when he heard from a chance-met Gangrel 
 
 That night, Menele willingly entered his first Frenzy in a thousand years. His rage, coupled with a thaumaturgical ritual, brought down a spirit of fire to the city. It flew shrieking through the streets, free for the first time in centuries. The ground shook. The sky blew open. Fire poured down on Pompeii. All was destroyed.
 
-Menele lost control of the spirit and escaped only by throwing himself into the harbor. He believed he had destroyed Helena. He was wrong.
+Menele lost control of the spirit and escaped only by throwing himself into the harbor. He believed he had destroyed [Helena](/npcs/helena/). He was wrong.
 
 ## Thirteen Centuries of War (79-1415 A.D.)
 
@@ -80,7 +80,7 @@ In 1820, they met again on the Kansas prairie. Menele fled to his friend, Chief 
 
 At Fort Dearborn, Helena allied with the United States military. Menele with Black Hawk's warriors. The two Methuselahs met with all the pent-up fury of a whirlwind. The air turned red with the vast quantities of blood they used. Many Indians escaped the slaughter only because of a portentous blood-red tornado.
 
-Helena dug her claws deep into Menele's ribs. With a scream of agony that made the earth shake, Menele drove his skull into her forehead. Both were thrown to the ground. Menele's remaining braves made a last desperate charge to rescue him, but Prias drove a burning stake deep into the vampire's neck before they could reach him.
+Helena dug her claws deep into Menele's ribs. With a scream of agony that made the earth shake, Menele drove his skull into her forehead. Both were thrown to the ground. Menele's remaining braves made a last desperate charge to rescue him, but [Prias](/npcs/prias/) drove a burning stake deep into the vampire's neck before they could reach him.
 
 Both Methuselahs fell into torpor. Prias took Helena to safety beneath the fort. At the cost of many lives, Menele's allies seized his body and escaped into the woods. Native American warriors have cared for the ancient since, tending his torpid body for over a century and a half.
 
@@ -98,7 +98,7 @@ During this period, his sleep was plagued with questions. As he traced the entir
 
 ### The [Saul Osiecki](/npcs/saul-osiecki/) Gambit
 
-Through correspondence between [Saul Osiecki](/npcs/saul-osiecki/) and Dr. Phillips (a close ally of Critias), Menele learned of the biologist's work on a strain of mononucleosis virus designed to kill vampires. He manipulated events to direct this biological weapon toward the [Succubus Club](/locations/succubus-club/) — Helena's base.
+Through correspondence between [Saul Osiecki](/npcs/saul-osiecki/) and Dr. Phillips (a close ally of [Critias](/npcs/critias/)), Menele learned of the biologist's work on a strain of mononucleosis virus designed to kill vampires. He manipulated events to direct this biological weapon toward the [Succubus Club](/locations/succubus-club/) — Helena's base.
 
 ### [The Heart](/locations/the-heart/) of Osiris (Coptic Jar)
 
@@ -112,7 +112,7 @@ Critias, newly free: *"It took the massive injuries I sustained from that accide
 
 **[Inyanga](/npcs/inyanga/)** (6th gen) — fell under Menele's control shortly after arriving in Chicago. Extended Domination, not Blood Bond. Through her, Menele commands the entire Gangrel clan. If word comes from [Inyanga](/npcs/inyanga/), every Gangrel mobilizes. Her Laibon immigration operation through [Lucian](/npcs/lucian/)'s docks in Gary moves bodies and resources through Menele's corridor. She is not actually Gangrel — she is Laibon, operating under Kindred cover.
 
-**[Annabelle Triabell](/npcs/annabelle-triabell/)** (6th gen) — the deepest play. Menele's double agent inside Helena's camp. Helena believes she controls [Annabelle](/npcs/annabelle-triabell/) through Domination. Through Annabelle, Menele has a window into everything Helena's network does.
+**[Annabelle Triabell](/npcs/annabelle-triabell/)** (6th gen) — the deepest play. Menele's double agent inside Helena's camp. Helena believes she controls [Annabelle](/npcs/annabelle-triabell/) through Domination. Through [Annabelle](/npcs/annabelle-triabell/), Menele has a window into everything Helena's network does.
 
 **[Khalid](/npcs/khalid-al-rashid/)** (Nosferatu Primogen) — initially independent. Each Methuselah assumed the other controlled him. In the V20 era, Critias claims: "Despite his claims, [Khalid](/npcs/khalid-al-rashid/) is as much a creature of Menele's now as I once was."
 
@@ -124,7 +124,7 @@ Critias, newly free: *"It took the massive injuries I sustained from that accide
 
 **[Heath Quinn](/npcs/heath-quinn/)** — mortal operative. Carried Menele's blood to London in 1969. Shot [Roarke](/npcs/roarke/), fed him 4th-gen vitae. The twenty-year weapon: [Roarke](/npcs/roarke/) returned to Chicago, lived among the Anarchs, found the torpid Methuselah, kidnapped [Lodin](/npcs/lodin/). One move in a four-thousand-year chess game.
 
-**[Roarke](/npcs/roarke/)** — kidnapped Lodin on New Year's Eve 1990. Built a cult in the woods around Menele's torpid body. While Roarke thought he was using the Ancient, the Ancient was using him.
+**[Roarke](/npcs/roarke/)** — kidnapped [Lodin](/npcs/lodin/) on New Year's Eve 1990. Built a cult in the woods around Menele's torpid body. While [Roarke](/npcs/roarke/) thought he was using the Ancient, the Ancient was using him.
 
 ### The Path of Entelechy
 

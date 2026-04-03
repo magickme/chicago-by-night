@@ -38,6 +38,6 @@ ShowToc: false
 
 ## Who Controls It
 
-- Roarke. The compound is his church, his fortress, and his feeding ground. His cult provides willing blood and manual labor.
+- [Roarke](/npcs/roarke/). The compound is his church, his fortress, and his feeding ground. His cult provides willing blood and manual labor.
 - The cultists are mortal and genuinely believe. Their devotion is not Dominated into them, which makes it harder to break and more dangerous to underestimate.
 - The blood-fed ram ghoul is an abomination that should not exist and does not care about that assessment. It guards the tunnels with animal cunning amplified by vitae.

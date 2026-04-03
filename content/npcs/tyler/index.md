@@ -23,6 +23,6 @@ Led the anarch assault on Hardestadt Castle. Committed diablerie on the Ventrue 
 
 Controls O'Hare Airport. Every Kindred arriving by air passes through her territory. She regulates all vampire air traffic in and out of Chicago — arrivals, departures, cargo, refugees. O'Hare is her kingdom, her leverage, and her obsession. Aviation fulfilled a centuries-old dream of flight; she funded experimental aircraft before the Wright brothers flew.
 
-Blood Bound to [Helena](/npcs/helena/). Served [Helena](/npcs/helena/) as an assassin in Cartagena, hunting powerful Cainites and consuming earlier-generation vitae. The craving for diablerie did not end with Hardestadt. [Helena](/npcs/helena/) feeds that hunger, and the Bond ensures Tyler keeps feeding it in Helena's service.
+Blood Bound to [Helena](/npcs/helena/). Served [Helena](/npcs/helena/) as an assassin in Cartagena, hunting powerful Cainites and consuming earlier-generation vitae. The craving for diablerie did not end with Hardestadt. [Helena](/npcs/helena/) feeds that hunger, and the Bond ensures Tyler keeps feeding it in [Helena](/npcs/helena/)'s service.
 
 Has a secret tie to the Sabbat through the Tzimisce elder Lambach Ruthven in New York. Arranged for a Sabbat pack's placement in Chicago as payment for Ruthven's warning about the Lupine attacks. The deal was pragmatic — Tyler wanted advance notice to survive the coming war. The cost was letting the enemy inside the gates.

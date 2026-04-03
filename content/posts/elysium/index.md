@@ -14,7 +14,7 @@ description: "Sable's first Elysium. A prince who needs her. A woman at a piano 
 
 The mansion looked like a skull with candles in it.
 
-That was Sable's first thought as she pulled the Buick up to the curb — the tall windows glowing amber from inside, the dark stone facade, the roofline sagging on the north side where the architecture had given up pretending it was still alive. Two men stood at the front door in the cold. They didn't move when she walked past them because they couldn't. Their eyes tracked her the way security cameras track: mechanically, without recognition, without will.
+That was [Sable](/sable-price/)'s first thought as she pulled the Buick up to the curb — the tall windows glowing amber from inside, the dark stone facade, the roofline sagging on the north side where the architecture had given up pretending it was still alive. Two men stood at the front door in the cold. They didn't move when she walked past them because they couldn't. Their eyes tracked her the way security cameras track: mechanically, without recognition, without will.
 
 She'd spent the day getting ready. Cold water from the cast-iron sink, the work light propped against the stone wall, the compact mirror she'd been carrying since The Oasis. The black dress was the only good thing she owned that she hadn't stolen — [Michael](/npcs/michael/) had bought it for her during the painting sessions, had it delivered to the Roselle house in a box with tissue paper and a card that said *For the canvas* in handwriting that was older than photography. She put it on in a dead church basement and it fit the way [Michael](/npcs/michael/)'s clothes always fit: perfectly, possessively, like a frame built for a painting that hadn't been finished.
 
@@ -68,7 +68,7 @@ Sable watched her and thought: *That's what I look like from the outside. That's
 
 ---
 
-Nobody spoke to her after. The court emptied out around her the way a bar empties at closing time — gradually, without farewell, each departure a small act of self-preservation. Modius retreated to his art studio. [Allicia](/npcs/allicia/) stayed at the piano. The Nosferatu with the gray eyes had been gone for an hour and Sable didn't know when he'd left because that was presumably the point.
+Nobody spoke to her after. The court emptied out around her the way a bar empties at closing time — gradually, without farewell, each departure a small act of self-preservation. [Modius](/npcs/modius/) retreated to his art studio. [Allicia](/npcs/allicia/) stayed at the piano. The Nosferatu with the gray eyes had been gone for an hour and Sable didn't know when he'd left because that was presumably the point.
 
 She stood alone in the ballroom. The candles were guttering in their tarnished holders. One of the flower arrangements had shed petals onto the floor and nobody had picked them up. The string quartet's music stands were empty. The room smelled like old wax and dead flowers and the particular must of a building that had been beautiful once and was now just large.
 

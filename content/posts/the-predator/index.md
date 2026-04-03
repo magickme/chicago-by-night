@@ -42,13 +42,13 @@ She finished the water. Set the glass down. Waited for [Victor](/npcs/victor-sal
 
 "Where does he go when he's not here?"
 
-Victor set the glass in the rack. "There's a place on Fifteenth and Adams. Auto shop, Kendrick's, closed five years ago. The boys use the lot." He looked at her. "You sure about this?"
+[Victor](/npcs/victor-salonika/) set the glass in the rack. "There's a place on Fifteenth and Adams. Auto shop, Kendrick's, closed five years ago. The boys use the lot." He looked at her. "You sure about this?"
 
 She was already off the stool.
 
 ---
 
-The Torch office smelled like old cigarettes and a filing system nobody had updated since Reagan's first term. Bottom drawer, under a stack of liquor invoices from '88: a snub-nose .38 with the grip wrapped in electrical tape, and a gravity knife with a black handle. The bat was behind the door but the bat was a statement and statements weren't what tonight required.
+[The Torch](/locations/the-torch/) office smelled like old cigarettes and a filing system nobody had updated since Reagan's first term. Bottom drawer, under a stack of liquor invoices from '88: a snub-nose .38 with the grip wrapped in electrical tape, and a gravity knife with a black handle. The bat was behind the door but the bat was a statement and statements weren't what tonight required.
 
 The .38 went in the waistband at the small of her back. The knife went in her jacket pocket. She checked the cylinder — five rounds, the action stiff but functional — and returned the office key to Victor and walked out the front door into the wet heat of Broadway without saying goodbye because goodbye was a word for people who planned to come back the same way they left.
 

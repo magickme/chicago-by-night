@@ -86,7 +86,7 @@ Ray's apartment smelled like instant coffee and cigarettes and a radiator that o
 
 Ray talked for twenty minutes and Darius didn't interrupt. The visitor who appeared without arriving. Average height, shorter maybe. A hitch in his walk, something wrong with his weight distribution. Oversized army surplus coat. White, forties. The speech that changed channels. The nonsense first. *The corner knows his name.* And then the clear signal underneath: *Tell [Darius Cole](/darius-cole/) I'm not his enemy. I want to meet him directly. Tuesday. At the spur.*
 
-His mortal name. Not clan designation, not generation, not Kindred title. *Darius Cole.* The way a person would say it.
+His mortal name. Not clan designation, not generation, not Kindred title. *[Darius Cole](/darius-cole/).* The way a person would say it.
 
 The vanishing. Ray followed two seconds behind and the corner was empty. Not empty the way a room is empty when someone leaves. Empty the way a room is empty when it has a door you can't see.
 

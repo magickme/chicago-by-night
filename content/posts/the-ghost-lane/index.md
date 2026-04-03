@@ -29,11 +29,11 @@ The warehouse. The loading dock light. A single work bulb hanging from a ceiling
 
 He laid out the numbers. The principal, the assessment, the Lakeside offer. Then: "I am not buying the building, Warren. I am buying what the building controls."
 
-Feeding rights. Formalized, written into the court structure, guaranteed for Lucian and anyone he vouched for. Not [Modius](/npcs/modius/)'s permission. Not a favor to be revoked. A seat at the table he'd been excluded from in a city he'd lived in since before [Modius](/npcs/modius/)'s sire drew breath.
+Feeding rights. Formalized, written into the court structure, guaranteed for [Lucian](/npcs/lucian/) and anyone he vouched for. Not [Modius](/npcs/modius/)'s permission. Not a favor to be revoked. A seat at the table he'd been excluded from in a city he'd lived in since before [Modius](/npcs/modius/)'s sire drew breath.
 
 "If you can broker that, the mortgage offer disappears. And you will have done me a service I remember."
 
-[Darius](/darius-cole/) said he'd speak with [Modius](/npcs/modius/). Lucian noted the verb. A check-cashing nobody who can "speak with Modius" about feeding rights. The lie from Monday got thinner and neither of them mentioned it.
+[Darius](/darius-cole/) said he'd speak with [Modius](/npcs/modius/). Lucian noted the verb. A check-cashing nobody who can "speak with [Modius](/npcs/modius/)" about feeding rights. The lie from Monday got thinner and neither of them mentioned it.
 
 Then Lucian stood and stopped at the loading dock and said: "There is a man named Gerald Fisk. He tends bar at a place called Rosie's, on Buchanan. He cannot make his mortgage and he owes money to people less patient than a bank. He is not my concern."
 
@@ -41,7 +41,7 @@ A beat.
 
 "He might be yours."
 
-Gone. The pickup truck. The headlights. The warehouse dark and quiet and smelling of sawdust and machine oil and something Darius couldn't name, which was the particular scent of a room that has held a six-hundred-year-old predator and still vibrates with it after he leaves.
+Gone. The pickup truck. The headlights. The warehouse dark and quiet and smelling of sawdust and machine oil and something [Darius](/darius-cole/) couldn't name, which was the particular scent of a room that has held a six-hundred-year-old predator and still vibrates with it after he leaves.
 
 One thirty-seven. Twenty-three minutes.
 

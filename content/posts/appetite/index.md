@@ -40,7 +40,7 @@ The woman was at the edge of the dance floor. Dark hair cut asymmetric, one side
 
 This one didn't come easy. [Sable](/sable-price/) had to get on the floor and move, which meant being visible, which meant the mezzanine could see her if anyone cared to look. She danced close enough to be an option and far enough away to make the option feel like a choice. After two songs the woman chose. Eye contact. A smile that was more like something being opened.
 
-Her name was Kat. She smelled like patchouli and Pabst and the specific chemical edge of warehouse labor. Her hands were calloused -- guitar or box-cutter, one of the two -- and when she grabbed Sable's hip it wasn't a question. Nothing about Kat was a question.
+Her name was Kat. She smelled like patchouli and Pabst and the specific chemical edge of warehouse labor. Her hands were calloused -- guitar or box-cutter, one of the two -- and when she grabbed [Sable](/sable-price/)'s hip it wasn't a question. Nothing about Kat was a question.
 
 She spent the blood to make the body work. One point and the skin flushed and the temperature rose and the breathing started because Kat was going to touch her and Kat deserved to touch something that felt alive. They found the single-occupancy bathroom. The lock worked. The fluorescent flickered. The Doc Martens stayed on because the floor was wet and this was still a nightclub bathroom in Chicago in January.
 
@@ -74,7 +74,7 @@ She told him they'd pulled [Lodin](/npcs/lodin/) out of a bad situation. That [L
 
 The silence on the other end lasted four seconds. She could hear a glass being set down.
 
-"And the Prince of Chicago was in difficulty," [Modius](/npcs/modius/) said. His voice hadn't changed temperature. "And you resolved it. In Chicago." A breath. "How fortunate for Prince Lodin that Gary's emissaries were so proximate."
+"And the Prince of Chicago was in difficulty," [Modius](/npcs/modius/) said. His voice hadn't changed temperature. "And you resolved it. In Chicago." A breath. "How fortunate for Prince [Lodin](/npcs/lodin/) that Gary's emissaries were so proximate."
 
 He asked the question he was always asking, which was never the question he appeared to be asking. When Lodin expresses his gratitude -- to whom will he be expressing it? To you? Or to Gary?
 
@@ -88,7 +88,7 @@ He'd given her his wish list. Legitimacy, respect, access. The things a small pr
 
 "Of course, my lord."
 
-The *my lord* landed. She could feel it -- the slight shift in breath that meant he'd received something he was hungry for. She'd been calling him Modius the whole conversation. The title at the close was a gift, and they both knew it.
+The *my lord* landed. She could feel it -- the slight shift in breath that meant he'd received something he was hungry for. She'd been calling him [Modius](/npcs/modius/) the whole conversation. The title at the close was a gift, and they both knew it.
 
 "Don't stay away too long," he said. "The city misses its most luminous resident."
 
@@ -104,9 +104,9 @@ The Sisters of Mercy came on -- "Temple of Love," the long version -- and the fl
 
 She danced alone. Not performing. Not hunting. Moving in a room full of people who were alive in a way she wasn't and letting the music make the distance feel smaller than it was. It was the closest thing to peace she'd had since Gary.
 
-At last call she met [Nina](/npcs/nina/). A paralegal from a Loop firm who'd come from a birthday in Wicker Park and ended up at the Succubus Club because someone told her the DJ was good. She talked with her hands and laughed before she finished her own jokes and smelled like cocoa butter and cab exhaust.
+At last call she met [Nina](/npcs/nina/). A paralegal from a Loop firm who'd come from a birthday in Wicker Park and ended up at the [Succubus Club](/locations/succubus-club/) because someone told her the DJ was good. She talked with her hands and laughed before she finished her own jokes and smelled like cocoa butter and cab exhaust.
 
-Sable spent the blood. One point for warm skin and breathing and the flush that made the fiction hold. She got a room at the Allerton on Michigan Avenue -- her last forty dollars and a story about a lost key. Third floor, street-facing. She checked the curtains twice before Nina noticed.
+Sable spent the blood. One point for warm skin and breathing and the flush that made the fiction hold. She got a room at the Allerton on Michigan Avenue -- her last forty dollars and a story about a lost key. Third floor, street-facing. She checked the curtains twice before [Nina](/npcs/nina/) noticed.
 
 What happened in the room wasn't about power or hunger or the Kiss. It was slower than that and less precise and the sounds were different -- human sounds, awkward and honest, elbows and laughter and the moment where Nina said *wait* and Sable waited, actually waited, because waiting was what a person did.
 

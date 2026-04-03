@@ -21,7 +21,7 @@ The boy was born in 1954 in Chicago. His mortal name is not recorded anywhere in
 
 [Critias](/npcs/critias/) did not stay. He did not explain what had happened. He did not teach the boy to feed, to hide, to manage the hunger that replaced the one he had known. He Embraced a child and walked away.
 
-The timing matters. The late 1960s in Chicago: Martin Luther King Jr. assassinated in April 1968. The Democratic National Convention riots that August. The West Side burning. The National Guard on State Street. A city tearing itself apart over race and war and the failure of every institution that was supposed to hold. Into that chaos, Critias dropped a fourteen-year-old Brujah with 6th-generation blood and no sire to speak of.
+The timing matters. The late 1960s in Chicago: Martin Luther King Jr. assassinated in April 1968. The Democratic National Convention riots that August. The West Side burning. The National Guard on State Street. A city tearing itself apart over race and war and the failure of every institution that was supposed to hold. Into that chaos, [Critias](/npcs/critias/) dropped a fourteen-year-old Brujah with 6th-generation blood and no sire to speak of.
 
 Damien was never formally presented to the Prince. No Kindred authority acknowledged his Embrace. In Camarilla terms, he does not officially exist. He has survived since the late 1960s without a permanent haven, without a patron, without the social infrastructure that keeps most neonates alive through their first decade. He survived because his blood is old enough to make him one of the most physically dangerous Kindred in Chicago, and because he learned very quickly that the adults — mortal and Kindred alike — were not coming to help.
 

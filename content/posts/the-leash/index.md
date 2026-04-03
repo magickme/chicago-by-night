@@ -30,7 +30,7 @@ She heard them on the gravel. Two sets of footsteps, one confident and one searc
 
 [Antoine](/npcs/spoon-antoine/) stood in the doorway with his dreads pulled back and his eyes full of something he'd been chasing all day without a name for it. Twenty-two years old. A lookout for a dead man's crew. A kid whose blood already knew what his brain was still trying to figure out, and the knowing was in his chest and his hands and the way he stopped breathing when he saw her on the couch.
 
-She opened the Presence the way she opened doors. With her whole body. The way a room changes when you light a candle in it, the way air moves differently around a fire, and the fire was her and she let it roll through the cinderblock garage and fill every corner and Spoon's shoulders dropped and his jaw loosened and whatever he'd come here to ask about burned off like morning fog.
+She opened the Presence the way she opened doors. With her whole body. The way a room changes when you light a candle in it, the way air moves differently around a fire, and the fire was her and she let it roll through the cinderblock garage and fill every corner and [Spoon](/npcs/spoon-antoine/)'s shoulders dropped and his jaw loosened and whatever he'd come here to ask about burned off like morning fog.
 
 Seven successes. A year. She'd never hit that deep before. The Entrancement settled into the cracks the Step 1 blood had already opened and filled them with warmth that felt like safety and looked like love and was neither, was chemistry, was architecture, was a woman building a cage out of adoration and locking a boy inside it and calling it protection.
 
@@ -56,7 +56,7 @@ Don't go to the mansion. Three nights behind closed doors with a three-step bond
 
 The dangerous read, he said. The one she didn't want to hear. [Modius](/npcs/modius/) deepening the bond. Fresh vitae from a prince. Her Step 1 competing with decades of three-step dependency. The math getting ugly in a way that [Darius](/darius-cole/) described in the same voice he used for pipeline logistics and feeding schedules, which was the Ventrue's gift and his curse, the ability to reduce everything to structure, even a woman she could still taste when she closed her eyes.
 
-She called [The Torch](/locations/the-torch/). [Victor](/npcs/victor-salonika/) told her what she already knew and added the detail that made it worse: Modius had called twice that night asking about foot traffic. Who came in. Who asked questions. A prince taking attendance at a bar he owned through intermediaries, counting the names, looking for the one that didn't belong.
+She called [The Torch](/locations/the-torch/). [Victor](/npcs/victor-salonika/) told her what she already knew and added the detail that made it worse: [Modius](/npcs/modius/) had called twice that night asking about foot traffic. Who came in. Who asked questions. A prince taking attendance at a bar he owned through intermediaries, counting the names, looking for the one that didn't belong.
 
 She hung up. Leaned against the phone booth. The east side of Gary smelled like lake water and rust and the July heat doing something chemical to the asphalt that made it smell almost sweet.
 
@@ -64,7 +64,7 @@ Ten minutes later the phone rang. A payphone ringing is a wrong sound, a sound t
 
 Modius wanted her. Tuesday, nine o'clock. The mansion. Her report on Torch conditions and a task requiring her particular talents.
 
-The summons she'd been told to wait for, arriving before she'd finished hanging up. Twelve hours from the conversation with Darius to the window into the mansion, and the window was there, and she would walk through it tomorrow night and stand in Modius's parlor and give him the spy report he wanted and look for [Allicia](/npcs/allicia/) in the hallways without looking like she was looking, and the difference between those two kinds of looking was the entire width of the game.
+The summons she'd been told to wait for, arriving before she'd finished hanging up. Twelve hours from the conversation with [Darius](/darius-cole/) to the window into the mansion, and the window was there, and she would walk through it tomorrow night and stand in Modius's parlor and give him the spy report he wanted and look for [Allicia](/npcs/allicia/) in the hallways without looking like she was looking, and the difference between those two kinds of looking was the entire width of the game.
 
 ---
 

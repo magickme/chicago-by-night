@@ -28,7 +28,7 @@ Three phone calls compressed into forty minutes. [Darius](/darius-cole/) to [Jug
 
 The problem underneath the problem: Warren Birch needed to exist. Not as a name on a filing — as a body in a chair, a man who could sit across from [Shepard](/npcs/william-shepard/) and say *I bought a bar in Gary because the price was right* and bore the agent into closing the file.
 
-[Darius](/darius-cole/) said a name. Marcus Webb. His right hand in Chicago, the man who filed the paperwork, the man who'd already noticed his boss sounded different and was asking the kind of questions that ended in answers nobody could afford. [Sable](/sable-price/) heard what Darius was proposing underneath the logistics — the Dominate word, the Conditioning word, the particular Ventrue architecture that turned a person's identity into a building you could renovate. Webb would come to Gary and Webb would stop being Webb and Warren Birch would sit in a chair and answer questions because the man behind his eyes had been remodeled by a vampire who treated other people's minds the way a general contractor treats drywall.
+[Darius](/darius-cole/) said a name. Marcus Webb. His right hand in Chicago, the man who filed the paperwork, the man who'd already noticed his boss sounded different and was asking the kind of questions that ended in answers nobody could afford. [Sable](/sable-price/) heard what [Darius](/darius-cole/) was proposing underneath the logistics — the Dominate word, the Conditioning word, the particular Ventrue architecture that turned a person's identity into a building you could renovate. Webb would come to Gary and Webb would stop being Webb and Warren Birch would sit in a chair and answer questions because the man behind his eyes had been remodeled by a vampire who treated other people's minds the way a general contractor treats drywall.
 
 She said *do it* because the alternative was worse and the arithmetic at Humanity 5 didn't require deliberation.
 
@@ -48,7 +48,7 @@ He was standing at the window. Not sitting. The difference mattered. Sitting was
 
 She told him. The calibrated report — painting, his name mentioned three times, the detail about the lake that she'd invented because it sounded like the kind of thing [Modius](/npcs/modius/) wanted to hear, and it was the kind of thing [Modius](/npcs/modius/) wanted to hear, and the fact that she could predict his desire that precisely was either a skill or a symptom of having spent too long inside his orbit.
 
-He accepted it the way he accepted everything — by not rejecting it, which for Modius was enthusiasm.
+He accepted it the way he accepted everything — by not rejecting it, which for [Modius](/npcs/modius/) was enthusiasm.
 
 Then the pivot. [Victor](/npcs/victor-salonika/) had called. The federal agent. The name. Warren Birch. Modius watching her face for the reaction, not because he suspected her but because he needed to see competence in the room, needed to know that someone standing in front of him had the situation mapped.
 
@@ -66,7 +66,7 @@ She heard the fear in it. Not a man afraid of losing power — a man afraid of l
 
 She nodded.
 
-"You're more useful than I expected, Sable."
+"You're more useful than I expected, [Sable](/sable-price/)."
 
 The highest compliment a Toreador Elder could pay a neonate, delivered in the tone of a man surprised by a tool he'd assumed was decorative. She filed it in the column where currency accumulated and walked out through the garden door into the July night with two pieces of intelligence she hadn't carried in: Chicago was watching, and the prince was afraid.
 
@@ -94,7 +94,7 @@ Sable called Darius. He came.
 
 ---
 
-The Cutlass on the Toll Road at four in the morning with two girls in the back seat, one of them wrapped in a blanket and present only in the sense that her body occupied space. Keisha in front, garbage bag of clothes between her feet, watching the steel mills pass in the dark with the expression of a girl going home who wasn't sure home still existed.
+The Cutlass on the Toll Road at four in the morning with two girls in the back seat, one of them wrapped in a blanket and present only in the sense that her body occupied space. [Keisha](/npcs/keisha-williams/) in front, garbage bag of clothes between her feet, watching the steel mills pass in the dark with the expression of a girl going home who wasn't sure home still existed.
 
 Sixty-Third and Dorchester. The grandmother's porch light. The door opening before Keisha reached it because the old woman had been awake since February, awake every night in case something exactly like this happened, and the hold lasted four seconds and the door closed and that was everything.
 

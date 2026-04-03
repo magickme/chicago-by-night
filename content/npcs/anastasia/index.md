@@ -19,7 +19,7 @@ ShowToc: false
 
 Embraced in 1989. Anastasia was the most popular girl in school — gorgeous boyfriend, hot sports car. A car accident killed her parents and left her disfigured. [Parovich](/npcs/parovich/) showed up to "help." She was Embraced into the Nosferatu and joined [Parovich](/npcs/parovich/)'s household of childer.
 
-When [Kristian](/npcs/kristian/) discovered Parovich's connections to the Black Hand, he told the childer to flee. Anastasia hides in empty cellars and sewer drains, hunts stray cats for blood, and keeps a small collection of cats that follow her when she moves. [Kristian](/npcs/kristian/) visits about once a week, bringing flowers or perfume.
+When [Kristian](/npcs/kristian/) discovered [Parovich](/npcs/parovich/)'s connections to the Black Hand, he told the childer to flee. Anastasia hides in empty cellars and sewer drains, hunts stray cats for blood, and keeps a small collection of cats that follow her when she moves. [Kristian](/npcs/kristian/) visits about once a week, bringing flowers or perfume.
 
 Still looks young despite disfigurement from both the accident and the Nosferatu Embrace. Wears an old high school dress — frilly, bright-colored, now faded to dingy brown.
 

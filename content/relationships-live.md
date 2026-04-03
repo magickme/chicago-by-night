@@ -49,16 +49,16 @@ graph TD
     Coterie -->|"-3"| SullivanDane
     Lodin["Lodin"]
     Coterie -->|"2"| Lodin
+    SirHenryJohnson["Sir Henry Johnson"]
+    Coterie -->|"2"| SirHenryJohnson
+    Gengis["Gengis"]
+    Coterie -->|"2"| Gengis
     Lucian["Lucian"]
     Coterie -->|"2"| Lucian
     Danov["Danov"]
     Coterie -->|"2"| Danov
     Ballard["Ballard"]
     Coterie -->|"-1"| Ballard
-    Critias["Critias"]
-    Coterie -->|"1"| Critias
-    SirHenryJohnson["Sir Henry Johnson"]
-    Coterie -->|"1"| SirHenryJohnson
 ```
 
 ## Chicago Standing

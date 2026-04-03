@@ -12,7 +12,7 @@ description: "A man waits eight hours in a bare apartment for a meeting that was
 
 ---
 
-The haven smelled like dust and the chemical signature of roach traps that had stopped working in June. Darius opened his eyes at 8:23 PM and the first thing he heard was the heartbeat through the wall. Sixty-two beats per minute. Patient. Controlled. The rhythm of a man who had been waiting eight hours and had decided to be professional about it, because Marcus Webb had been professional about [Darius Cole](/darius-cole/)'s instructions for four years and the habit was structural, built into the foundation of a relationship that was about to become something else entirely.
+The haven smelled like dust and the chemical signature of roach traps that had stopped working in June. [Darius](/darius-cole/) opened his eyes at 8:23 PM and the first thing he heard was the heartbeat through the wall. Sixty-two beats per minute. Patient. Controlled. The rhythm of a man who had been waiting eight hours and had decided to be professional about it, because Marcus Webb had been professional about [Darius Cole](/darius-cole/)'s instructions for four years and the habit was structural, built into the foundation of a relationship that was about to become something else entirely.
 
 He unbolted the back room. Stepped into the front.
 

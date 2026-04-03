@@ -42,7 +42,7 @@ The woman stood. Through the open door: "What kind of problem?"
 
 "Eddie found Terrell behind the container stack. Bleeding from the neck. Looks like a dog got him but there's no dog."
 
-Silence. The particular silence of a room where everyone knows what actually happened and the man who said *dog* is the only one who doesn't. [Claudette](/npcs/claudette-mallet/) looked at Lucian. One look. He stood and walked out past Darius without a word. The front door closed.
+Silence. The particular silence of a room where everyone knows what actually happened and the man who said *dog* is the only one who doesn't. [Claudette](/npcs/claudette-mallet/) looked at [Lucian](/npcs/lucian/). One look. He stood and walked out past [Darius](/darius-cole/) without a word. The front door closed.
 
 Darius counted to five. Then he moved.
 

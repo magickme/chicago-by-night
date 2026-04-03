@@ -30,7 +30,7 @@ The bartender went to change a keg. The men at the bar argued about the White So
 
 [Darius](/darius-cole/) moved from across the booth to beside her. Not sudden. The way you shift when you want to say something quieter. She didn't pull away. He found the vein in her neck and the Kiss opened her like a door she didn't know was locked, and Nadine Palmer made a sound that was not pain and not fear and not anything the conscious mind has a word for, and went still.
 
-Three draws. The blood carried exhaustion and cortisol and the iron taste of a body running on caffeine and obligation. Underneath it, the debt. He could taste every dollar she owed the way a machine reads a barcode — each one specific, each one permanent, each one feeding him in the way that nothing else could. The restriction was a mirror, [Chuc Luc](/npcs/chuc-luc/) had said once. What you eat is what you are. Darius ate debt. He lived on the taste of people drowning.
+Three draws. The blood carried exhaustion and cortisol and the iron taste of a body running on caffeine and obligation. Underneath it, the debt. He could taste every dollar she owed the way a machine reads a barcode — each one specific, each one permanent, each one feeding him in the way that nothing else could. The restriction was a mirror, [Chuc Luc](/npcs/chuc-luc/) had said once. What you eat is what you are. [Darius](/darius-cole/) ate debt. He lived on the taste of people drowning.
 
 He stopped at three. Left the five on the table. Walked out. She'd wake in twenty minutes and call her sister from the pay phone and never remember the man who bought her coffee on the worst night of her year.
 
@@ -52,7 +52,7 @@ Chicago was sending someone. A representative. To assess conditions. Two weeks. 
 
 Then the other thing. The men at the union hall. Suits. Suburban accents. Asking about warehouse leases in Gary. [Modius](/npcs/modius/)'s people had reported it, and the prince did not know what it meant, and not knowing was corroding him from the inside.
 
-Darius heard it and put it in a box and closed the lid. The aura was live. Every thought was a color, and certain colors could kill him. He spent the willpower and the composure held and Modius saw what Modius needed to see — a useful neonate calculating the logistics of a problem he'd just been handed. Nothing underneath it. Nothing at all.
+Darius heard it and put it in a box and closed the lid. The aura was live. Every thought was a color, and certain colors could kill him. He spent the willpower and the composure held and [Modius](/npcs/modius/) saw what Modius needed to see — a useful neonate calculating the logistics of a problem he'd just been handed. Nothing underneath it. Nothing at all.
 
 The mission was simple in the way that simple things are when a prince says them: find out who, find out why, make it disappear. Two weeks. Don't involve [Lucian](/npcs/lucian/). Don't involve the Bureau. Come back with answers, not problems. The word he used was *legible*. He wanted his waterfront legible. He wanted someone from Chicago to look at it and see a city that worked.
 

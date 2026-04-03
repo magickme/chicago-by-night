@@ -12,7 +12,7 @@ description: "February court at Modius's mansion. Two neonates meet for the firs
 
 ---
 
-The mansion on Miller Beach sat at the end of a dead street the way a casket sits at the end of an aisle. Two stories of timber and stone, porch light the only light on the block, the lake behind it black and restless in the February cold. [Victor Salonika](/npcs/victor-salonika/) opened the door before Sable knocked.
+The mansion on Miller Beach sat at the end of a dead street the way a casket sits at the end of an aisle. Two stories of timber and stone, porch light the only light on the block, the lake behind it black and restless in the February cold. [Victor Salonika](/npcs/victor-salonika/) opened the door before [Sable](/sable-price/) knocked.
 
 "He's in the drawing room."
 
@@ -26,7 +26,7 @@ She sat where he pointed. The settee breathed dust. [Modius](/npcs/modius/) took
 
 "You've done well these past weeks. The report on [Allicia](/npcs/allicia/) was useful." He let the compliment settle. "Tonight I'd like you near me during court. Not beside me. Close. When the others speak, watch their faces."
 
-She waited. Modius needed the next sentence the way a singer needs the chorus, and she'd learned a long time ago that silence was the best invitation.
+She waited. [Modius](/npcs/modius/) needed the next sentence the way a singer needs the chorus, and she'd learned a long time ago that silence was the best invitation.
 
 "There's a Ventrue who's been absent. Warren Birch. Orphaned childe, arrived last summer, seemed eager enough at first. He's missed court twice." The temperature in his voice dropped half a degree. "I'd like you to make his acquaintance. Be warm. Be curious. Tell me what you see."
 
@@ -60,7 +60,7 @@ She knocked. Two soft knocks.
 
 The door opened three inches. One green eye. The hallway check, quick and practiced, the reflex of fifty years in someone else's house.
 
-Sable held out the wrapped gift. The shape was obvious through the paper. Allicia unwrapped it in the gap between door and frame. The snow globe caught the hallway light. A bird in a cage. Ornate metalwork. False snow settling over both.
+Sable held out the wrapped gift. The shape was obvious through the paper. [Allicia](/npcs/allicia/) unwrapped it in the gap between door and frame. The snow globe caught the hallway light. A bird in a cage. Ornate metalwork. False snow settling over both.
 
 Her hand tightened on it. The green eye went wet, then hard, then somewhere Sable couldn't follow.
 
@@ -102,7 +102,7 @@ Modius descended with Allicia one step behind. The prince in a darker suit, pock
 
 [Danov](/npcs/alexander-danov/) had materialized in the semicircle without [Darius](/darius-cole/) registering his arrival. The Nosferatu's face was a ruin, the kind of ugly that went past grotesque into something geological. But the eyes. Deep-set gray, steady, the eyes of a man who'd been watching things for six centuries and had not yet seen enough to stop.
 
-Modius's gaze found Darius. "Mr. Birch. How good of you to join us again. I was beginning to worry."
+Modius's gaze found [Darius](/darius-cole/). "Mr. Birch. How good of you to join us again. I was beginning to worry."
 
 Light tone. Heavy freight. Every Kindred in the room heard the leash check. Darius met it with a nod. Low enough for respect. Spine straight enough for something else. He settled back in his chair with the unhurried ease of a man whose three weeks had been full, and Modius held his gaze for two beats and moved on, because a prince who pushes a neonate in public over a missed court looks petty, and Modius had spent two centuries avoiding that.
 
@@ -122,7 +122,7 @@ And Darius, in his chair, registered the thing nobody else cared to notice: the 
 
 ---
 
-Darius went to Lucian first. Straight line across the ballroom, no angle, no pretense. He felt the elder's Presence at ten feet, the weight of eight centuries compressed into a body, the air thickening the way air thickens before something massive shifts. His blood wanted to look away. He didn't let it.
+Darius went to [Lucian](/npcs/lucian/) first. Straight line across the ballroom, no angle, no pretense. He felt the elder's Presence at ten feet, the weight of eight centuries compressed into a body, the air thickening the way air thickens before something massive shifts. His blood wanted to look away. He didn't let it.
 
 "Good evening, sir. Warren Birch."
 
@@ -146,7 +146,7 @@ Modius's mouth did something complicated with the word. Nobody had called him bo
 
 ---
 
-Danov appeared the way Danov appeared. Not fast, just elsewhere, as though the space between two points was a formality he'd outgrown. Up close the face was worse. But the gray eyes were the most human things in the room.
+[Danov](/npcs/alexander-danov/) appeared the way Danov appeared. Not fast, just elsewhere, as though the space between two points was a formality he'd outgrown. Up close the face was worse. But the gray eyes were the most human things in the room.
 
 "Warren Birch. The orphan from the west side."
 
