@@ -188,7 +188,7 @@ Published scenes from **Chicago Chronicles** in chronological order.
 | 61 | [The Auction](/posts/the-auction/) | Roarke | Oct 18, 1969, 11:00 AM |
 | 62 | [Fools Errand](/posts/fools-errand/) | Roarke | Oct 18, 1969, 7:00 PM |
 
-### Chapter 3 — Ashes to Ashes
+### Chapter 3 — Ashes to Ashes, Pt. 2
 
 | # | Scene | PC | Date |
 |---|---|---|---|
