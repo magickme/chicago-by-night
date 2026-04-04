@@ -217,11 +217,11 @@ Published scenes from **Chicago Chronicles** in chronological order.
 
 ## Other Chronicles
 
+### Alien Hunger
+
+- [The Basement](/posts/alien-hunger-01/) — Nov 14, 1992, 10:07 PM
+
 ### Hell's Highway
 
 - [Hell's Highway](/posts/hells-highway/) — Aug 15, 1987, 10:00 PM
-
-### Alien Hunger 01
-
-- [Alien Hunger 01](/posts/alien-hunger-01/) — Nov 14, 1992, 10:07 PM
 
