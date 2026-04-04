@@ -56,7 +56,7 @@ The woods were nothing to Kindred eyes. Every branch, every rock shelf, every pu
 
 They found [Scottie Cartwright](/npcs/scottie-cartwright/) first. The reporter was crouched behind a fallen log with a notebook, scribbling by touch, oblivious. They passed him like he wasn't there.
 
-The ram came second. [Sable](/sable-price/) heard it — Heightened Senses, the hearing tuned to a frequency that picked up hoofbeats through the forest floor. She grabbed [Darius](/darius-cole/)'s sleeve. They went flat behind limestone as the thing crashed through at six feet from their position. Shoulder height past Darius's waist. Horns curved and black and wrong. The eyes rolling white. Whatever had fed this animal, it wasn't a farmer.
+The ram came second. [Sable](/sable-price/) heard it — Heightened Senses, the hearing tuned to a frequency that picked up hoofbeats through the forest floor. She grabbed [Darius](/darius-cole/)'s sleeve. They went flat behind limestone as the thing crashed through at six feet from their position. Shoulder height past [Darius](/darius-cole/)'s waist. Horns curved and black and wrong. The eyes rolling white. Whatever had fed this animal, it wasn't a farmer.
 
 Then the cultists. Fifteen of them, robes streaming, torches bouncing, chasing the ram east. They passed without slowing. The woods went quiet.
 
@@ -76,7 +76,7 @@ Cages. Floor to ceiling. Scores of them. Every cage packed with brown and grey b
 
 And in the center: a body. Male. Staked through the chest. Not desiccated — this one still had flesh, still had color. Expensive suit, filthy. Broad shoulders. The face of a man accustomed to giving orders.
 
-Sable's voice, flat: "That's the Prince of Chicago."
+[Sable](/sable-price/)'s voice, flat: "That's the Prince of Chicago."
 
 Darius pulled the stake. The wood came free with a sound like a boot leaving mud. The eyes didn't open. Torpor. Blood-starved past consciousness. But the wound exhaled — a release of pressure — and the rats went berserk. Cages rattling. Hinges groaning.
 
@@ -96,7 +96,7 @@ Darius locked eyes across the firelight. Ventrue eyes. The same authority that h
 
 "**STOP.**"
 
-Roarke's body went rigid. His jaw set. His muscles fought the command and lost. His eyes found Darius and they were full of recognition — not of the man, but of the leash.
+[Roarke](/npcs/roarke/)'s body went rigid. His jaw set. His muscles fought the command and lost. His eyes found Darius and they were full of recognition — not of the man, but of the leash.
 
 One cultist stepped forward with a machete. Sable found his eyes. Dread Gaze. The man's face went white. The blade hit the ground. He crawled backward making a sound too high for his size. Nobody else moved.
 
@@ -110,7 +110,7 @@ Darius picked up the machete.
 
 The preacher's cadence fell away. What was underneath was smaller and rougher. Sixty years of service. The errand to London. The bullet on a Piccadilly street. "I woke up somewhere else. The blood they put in me — it showed me things. What he was. What I was to him." His hands were shaking. "So I took the one thing that mattered to him."
 
-The machete drew a line across Roarke's forearm. The blood welled dark. Darius held the wound over Lodin's mouth and the jaw opened and the throat worked and it was like watching gravity assert itself.
+The machete drew a line across Roarke's forearm. The blood welled dark. Darius held the wound over [Lodin](/npcs/lodin/)'s mouth and the jaw opened and the throat worked and it was like watching gravity assert itself.
 
 Four blood points. Sable hauled Roarke back. The ghoul slumped on his knees, a hundred and sixteen years suddenly visible in every line.
 

@@ -40,4 +40,4 @@ ShowToc: false
 
 - [Lodin](/npcs/lodin/) directly, through layers of corporate shells, property management firms, and a security company staffed by ghouls.
 - His retainer [Julian Curry](/npcs/julian-curry/) handles mortal-facing logistics. [Curry](/npcs/julian-curry/) is efficient, frightened, and loyal in the way a man is loyal to the thing that could destroy him.
-- During the Ashes to Ashes crisis, this haven is a decoy. Lodin is not here. He may not be anywhere.
+- During the Ashes to Ashes crisis, this haven is a decoy. [Lodin](/npcs/lodin/) is not here. He may not be anywhere.

@@ -960,7 +960,9 @@ Use one headline at scene open to add mortal friction unrelated to the Jyhad. Th
 |Hunter convergence|1x|ADVANCED. Standdown encountered + wiped. Shepard connected.|
 |Ballard's frame job|2x|NEW. Ballard dining Primogen, cultivating ghoul driver. Counter-ops active. Clock 3/6.|
 |Sir Henry alliance|1x|NEW. Gossip-for-gossip deal. Making Drake inquiries re Lodin. Invested — vouching on the line.|
-|Modius's leash|2x|MANAGED. Sable called Jan 9 — bought 48 hrs. Next call must have substance.|
+|Modius's leash|2x|CLOSED (S033). Scene alteration. Modius turned inward. Silence, not forgiveness.|
+|Annabelle's salon|1x|NEW. Wednesday Jan 16, 8 PM, Drake Hotel Rose Room. Sir Henry introducing. Seeds Annabelle's Party.|
+|Tomás Navarro — Tremere contact|1x|NEW. First meeting S033 at Succubus Club. Operational potential. Analyst, not operator.|
 |Methuselah War|HIDDEN but ACTIVE|Helena vs Menele. Darius bonded Step 1 to Menele. Coterie = unwitting Menele proxies. Portia at Succubus Club.|
 |Sabbat infiltration|LATENT|Activates Act III.|
 
@@ -992,6 +994,8 @@ Use one headline at scene open to add mortal friction unrelated to the Jyhad. Th
 |27|Scottie Cartwright|
 |28|Michael Standdown|
 |29|Ghoul driver (Belthazar's)|
+|30|Tomás Navarro|
+|31|Drummond|
 
 ## Live Story Oracles
 

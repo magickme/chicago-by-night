@@ -36,7 +36,7 @@ The man who stepped into the moonlight had a narrow face and a hooked nose and p
 
 "[Horace Turnbull](/npcs/horace/)," the man said when [Darius](/darius-cole/) pulled the .357. He looked at the gun the way a bartender looks at a spilled drink. "I run a bar on State Street in Chicago called [The Cave](/locations/the-cave/). I work for people who pay attention to what happens in Gary, and I've been paying attention since July."
 
-Darius lowered the gun. Not holstered. Just down.
+[Darius](/darius-cole/) lowered the gun. Not holstered. Just down.
 
 "Here's what I see," [Horace](/npcs/horace/) said. "A neonate who attends court like a good soldier and spends the rest of his nights doing things that don't match. Activity at the docks that isn't [Lucian](/npcs/lucian/)'s and isn't the union's. An aura that reads heavier than a twelfth-generation anything. And a mortal infrastructure -- a bar, contacts, a name that didn't exist eighteen months ago -- that somebody built with a purpose."
 
@@ -48,7 +48,7 @@ Darius leaned against the Cutlass. Crossed his arms. Let his eyes go slightly wi
 
 And while [Horace](/npcs/horace/) talked, Darius watched the cracks.
 
-The paranoia was constant. Not about Darius -- about being here. Horace tracked the tree line, the road, the wind direction. Five months in a foreign city without a haven or a retainer or an exit route. A man whose mind never stopped calculating threats because stopping meant dying, and dying was the only thing the Malkavian in him truly feared.
+The paranoia was constant. Not about Darius -- about being here. [Horace](/npcs/horace/) tracked the tree line, the road, the wind direction. Five months in a foreign city without a haven or a retainer or an exit route. A man whose mind never stopped calculating threats because stopping meant dying, and dying was the only thing the Malkavian in him truly feared.
 
 He needed this to work. The observation had run its course. He'd seen what Obfuscate could show him and now he needed a source, someone inside Gary's court who could provide the kind of intelligence that justified five months of silence to a handler in Chicago. Without Darius, Horace went home with nothing.
 

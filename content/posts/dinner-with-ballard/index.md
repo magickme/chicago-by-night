@@ -36,11 +36,11 @@ She drank. A measured sip, the geometry of the gesture saying she had done this 
 
 [Darius](/darius-cole/) drank. His face didn't change. Ventrue discipline or just [Darius](/darius-cole/).
 
-Then the food. [Ballard](/npcs/ballard/) ordered for the table — porterhouse, lobster, risotto, Caesar salad, all of it, for three. "You look thin, dear," he said to Sable, and the word *dear* landed the way a landlord says *tenant*. She picked up her fork. Cut a piece of the lobster. White flesh, butter pooling, steam carrying a sweetness that meant nothing to her, and she chewed and the texture was obscene (wet paper, dead protein, the mouth performing a function it had forgotten the reason for) and she swallowed and held it down and her face did not change.
+Then the food. [Ballard](/npcs/ballard/) ordered for the table — porterhouse, lobster, risotto, Caesar salad, all of it, for three. "You look thin, dear," he said to [Sable](/sable-price/), and the word *dear* landed the way a landlord says *tenant*. She picked up her fork. Cut a piece of the lobster. White flesh, butter pooling, steam carrying a sweetness that meant nothing to her, and she chewed and the texture was obscene (wet paper, dead protein, the mouth performing a function it had forgotten the reason for) and she swallowed and held it down and her face did not change.
 
-[Ballard](/npcs/ballard/) turned to Darius. "Your name. Your real name, and who is your sire."
+[Ballard](/npcs/ballard/) turned to [Darius](/darius-cole/). "Your name. Your real name, and who is your sire."
 
-Sable leaned forward. Drew the eye. The geometry of attention she'd learned before she was dead and perfected after. "Mr. Ballard, we appreciate your hospitality. The letter speaks for itself, and we're happy to discuss Prince [Modius](/npcs/modius/)'s intentions in whatever detail you—"
+Sable leaned forward. Drew the eye. The geometry of attention she'd learned before she was dead and perfected after. "Mr. [Ballard](/npcs/ballard/), we appreciate your hospitality. The letter speaks for itself, and we're happy to discuss Prince [Modius](/npcs/modius/)'s intentions in whatever detail you—"
 
 "I wasn't talking to you."
 

@@ -28,7 +28,7 @@ He asked what was happening between them. [Sable](/sable-price/) told him what h
 
 "Be her friend," he said. "Be her comfort. Tell me what she needs so I can provide it."
 
-The assignment. The same one from January, the same leash in a different hand. Spy on Allicia. Report what she says, what she wants, what she needs. One rule, delivered to the painting on the wall instead of to [Sable](/sable-price/)'s face: "Do not give her blood. Do not accept hers."
+The assignment. The same one from January, the same leash in a different hand. Spy on [Allicia](/npcs/allicia/). Report what she says, what she wants, what she needs. One rule, delivered to the painting on the wall instead of to [Sable](/sable-price/)'s face: "Do not give her blood. Do not accept hers."
 
 She nodded her deference and left.
 
@@ -38,6 +38,6 @@ At the bookshelf, [Darius](/darius-cole/) stood beside her and they spoke in voi
 
 "Just keep it cool. No sudden moves. We're in a good spot."
 
-Court ended. Allicia rose from the settee and walked toward the staircase without looking at anyone. Her back was straight. The green dress disappeared around the corner. Modius watched her go and his face was the face of a man who owns a house and has just noticed a crack in the foundation and is deciding whether to repair it or tear the whole thing down.
+Court ended. Allicia rose from the settee and walked toward the staircase without looking at anyone. Her back was straight. The green dress disappeared around the corner. [Modius](/npcs/modius/) watched her go and his face was the face of a man who owns a house and has just noticed a crack in the foundation and is deciding whether to repair it or tear the whole thing down.
 
-The porch. The night. The cars. Sable drove west and Darius drove west and somewhere behind them the porch light held its post and inside the mansion a prince sat at his piano with the lid closed and his childe sat in her room with a snow globe and a face-down photograph and the memory of a woman who asked *may I* before touching her, and the distance between the piano and the bedroom was thirty feet and eighty years and growing.
+The porch. The night. The cars. [Sable](/sable-price/) drove west and [Darius](/darius-cole/) drove west and somewhere behind them the porch light held its post and inside the mansion a prince sat at his piano with the lid closed and his childe sat in her room with a snow globe and a face-down photograph and the memory of a woman who asked *may I* before touching her, and the distance between the piano and the bedroom was thirty feet and eighty years and growing.

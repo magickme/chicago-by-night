@@ -40,13 +40,13 @@ He was already backing toward the van. And the van's side door was open, and in 
 
 The door closed. The shape disappeared. The van was just a van again.
 
-"What's in the van, Williams?"
+"What's in the van, [Williams](/npcs/williams/)?"
 
 She said his name and he stopped moving. Not because the name was a threat — because the name meant she knew him, and being known by Kindred was a different equation than being known by mortals. Mortals who knew Williams could be silenced. Kindred who knew Williams were customers or complications, and a Toreador with Dread Gaze and the kind of face that functioned as a weapon was emphatically not a customer.
 
 "Merchandise," he said. His voice was flat, uninflected, the voice of a man describing inventory. "Saturday inventory. Man owed money to the wrong people. They sold the debt. I collected."
 
-*They sold the debt.* Sable filed the phrase the way she filed everything — quickly, silently, in the part of her mind that was always recording even when the rest of her was performing. Someone was selling human debts to Williams. Not collecting for the debtor — selling the debtor. Converting a financial obligation into a body on a table. There was a chain there, a structure, an economy that connected the loan sharks and the bookies and the street-level credit operations to Williams's church and Williams's folding tables and the Kindred who shopped there every Saturday night.
+*They sold the debt.* [Sable](/sable-price/) filed the phrase the way she filed everything — quickly, silently, in the part of her mind that was always recording even when the rest of her was performing. Someone was selling human debts to Williams. Not collecting for the debtor — selling the debtor. Converting a financial obligation into a body on a table. There was a chain there, a structure, an economy that connected the loan sharks and the bookies and the street-level credit operations to Williams's church and Williams's folding tables and the Kindred who shopped there every Saturday night.
 
 She filed it. She would understand it later.
 

@@ -34,11 +34,11 @@ The second piece was worse because it was social.
 
 [Danov](/npcs/alexander-danov/) watched him anyway, and when the stillness held, the Nosferatu gave the smallest smile of the night. Respect, or the nearest thing his face could make of it.
 
-"One day," Danov said, "I will need a small thing done. I don't yet know what small thing. If that troubles you, become less interesting."
+"One day," [Danov](/npcs/alexander-danov/) said, "I will need a small thing done. I don't yet know what small thing. If that troubles you, become less interesting."
 
 That was the price. Not a boon announced, not a debt witnessed, but a line extended into the future and left slack for later tightening.
 
-Darius accepted because he understood structure. A named price is easier than an unnamed one, but refusing an unnamed price from a man who keeps archives on collapsing cities is how you become part of the archive.
+[Darius](/darius-cole/) accepted because he understood structure. A named price is easier than an unnamed one, but refusing an unnamed price from a man who keeps archives on collapsing cities is how you become part of the archive.
 
 On the drive home he didn't think about the cemetery. He thought about lists.
 

@@ -28,7 +28,7 @@ The flagger was alone at the barricade's dead end. Fifties. County parka under t
 
 Marie. Her name was Marie. Later, when it mattered, when [Sable](/sable-price/) was being careful about names (because the alternative, because the version of herself that didn't learn names, was the version she couldn't afford to become), she'd remember that.
 
-The approach was social because social was the only thing left. At three blood the Beast wanted teeth, wanted throat, wanted speed and silence and the alley behind the laundromat where nobody would find the body for hours. Sable gave it a handshake instead. Touched the woman's arm -- thank you, which way to Fifteenth? -- and the fingers closed and she pulled her behind the sawhorse and into the dark and it happened the way it always happened, mouth to neck, the gasp, the softening, the warmth flooding back through both of them like a debt being settled.
+The approach was social because social was the only thing left. At three blood the Beast wanted teeth, wanted throat, wanted speed and silence and the alley behind the laundromat where nobody would find the body for hours. [Sable](/sable-price/) gave it a handshake instead. Touched the woman's arm -- thank you, which way to Fifteenth? -- and the fingers closed and she pulled her behind the sawhorse and into the dark and it happened the way it always happened, mouth to neck, the gasp, the softening, the warmth flooding back through both of them like a debt being settled.
 
 Choleric blood. Marie's anger tasted like an engine running hot -- burned and immediate, someone else's overtime wrapped around someone else's grievance, and underneath it the copper of a woman who'd given forty-eight years to a city that couldn't keep its own water mains from splitting.
 
@@ -66,7 +66,7 @@ They talked under the Satie. Carefully. The way you handle something that might 
 
 They both knew what came after certainty in [Modius](/npcs/modius/)'s vocabulary.
 
-*My answer is you,* Allicia said. Said it to the keys, not to Sable, but the rose thread in her aura flared when she said it and there was no performance in that.
+*My answer is you,* [Allicia](/npcs/allicia/) said. Said it to the keys, not to Sable, but the rose thread in her aura flared when she said it and there was no performance in that.
 
 Sable nodded. One gesture, one syllable of motion, and left before the visit became long enough to note.
 

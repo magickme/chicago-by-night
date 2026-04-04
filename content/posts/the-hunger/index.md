@@ -36,7 +36,7 @@ He stopped at three. Left the five on the table. Walked out. She'd wake in twent
 
 The docks were fifteen minutes east and the smoke thinned as he drove. The lake wind picked up past Broadway, carrying rust and diesel fuel and the particular mineral smell of deep water at night. Berth 7. Eddie's receiving office. The cinderblock box with the clipboard and the radio and the coffee nobody should drink.
 
-Eddie looked up when Darius walked in. The half-second of blankness, then the mechanical warmth. "Mr. Birch." Forty seconds later the script was installed — not the words but the posture, the boredom, the mild irritation of a man who'd been asked the same question twice and didn't understand why anyone cared. Five successes. Granite on granite. If Cantone sent a crew with baseball bats, Eddie would bore them into leaving.
+Eddie looked up when [Darius](/darius-cole/) walked in. The half-second of blankness, then the mechanical warmth. "Mr. Birch." Forty seconds later the script was installed — not the words but the posture, the boredom, the mild irritation of a man who'd been asked the same question twice and didn't understand why anyone cared. Five successes. Granite on granite. If Cantone sent a crew with baseball bats, Eddie would bore them into leaving.
 
 Ray was in the foreman's shed with his Racing Form and his Marlboros. The intel came with the smoke — two suits at the union hall last Thursday, Chicago accents, asking about warehouse lease structures. Not muscle. Paperwork. Cantone was tracing ownership chains, narrowing the field, building a case before he sent the crew. And [Lucian](/npcs/lucian/)'s new man at Berth 5 was walking all the berths after midnight, checking manifests that weren't his to check.
 
@@ -52,7 +52,7 @@ Chicago was sending someone. A representative. To assess conditions. Two weeks. 
 
 Then the other thing. The men at the union hall. Suits. Suburban accents. Asking about warehouse leases in Gary. [Modius](/npcs/modius/)'s people had reported it, and the prince did not know what it meant, and not knowing was corroding him from the inside.
 
-Darius heard it and put it in a box and closed the lid. The aura was live. Every thought was a color, and certain colors could kill him. He spent the willpower and the composure held and [Modius](/npcs/modius/) saw what Modius needed to see — a useful neonate calculating the logistics of a problem he'd just been handed. Nothing underneath it. Nothing at all.
+Darius heard it and put it in a box and closed the lid. The aura was live. Every thought was a color, and certain colors could kill him. He spent the willpower and the composure held and [Modius](/npcs/modius/) saw what [Modius](/npcs/modius/) needed to see — a useful neonate calculating the logistics of a problem he'd just been handed. Nothing underneath it. Nothing at all.
 
 The mission was simple in the way that simple things are when a prince says them: find out who, find out why, make it disappear. Two weeks. Don't involve [Lucian](/npcs/lucian/). Don't involve the Bureau. Come back with answers, not problems. The word he used was *legible*. He wanted his waterfront legible. He wanted someone from Chicago to look at it and see a city that worked.
 

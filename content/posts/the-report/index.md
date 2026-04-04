@@ -29,7 +29,7 @@ She talked about entertaining and guest lists and wine selection, and underneath
 
 [Allicia](/npcs/allicia/) glanced at [Sable](/sable-price/)'s wrist. One glance. Then away. The request was clear.
 
-"Some courses need a private room," Sable said. "Somewhere the kitchen staff doesn't go."
+"Some courses need a private room," [Sable](/sable-price/) said. "Somewhere the kitchen staff doesn't go."
 
 [Allicia](/npcs/allicia/) touched the clock on the mantel. Two taps. Touched the window.
 
@@ -37,7 +37,7 @@ Two. Outside.
 
 Sable left at ten-fifteen. Fed on the west side — a man outside a bar on Broadway, the crying play, six blood points, left him sitting on the sidewalk looking like a drunk. Killed time on the lakefront road with the windows down and the lake flat and black and the dashboard clock counting toward something that would change the architecture of every relationship in the chronicle.
 
-At two in the morning she stood on the shingle beach behind the mansion. The porch light was off. One window on the second floor glowed and died. Then Allicia was on the lawn — Celerity-fast, bare feet on the grass, dark clothes, shaking with the kind of hunger that lives in the jaw.
+At two in the morning she stood on the shingle beach behind the mansion. The porch light was off. One window on the second floor glowed and died. Then [Allicia](/npcs/allicia/) was on the lawn — Celerity-fast, bare feet on the grass, dark clothes, shaking with the kind of hunger that lives in the jaw.
 
 Sable undressed on the bluff. Not [the Torch](/locations/the-torch/). Not performance. She let the blouse fall and stood in the moonlight and let the woman who hadn't been touched gently in eighty years see her the way no one in the drawing room would ever be allowed to see her.
 

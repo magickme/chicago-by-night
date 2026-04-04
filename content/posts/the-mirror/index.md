@@ -64,7 +64,7 @@ The handwriting was elegant. Toreador precision, every letter a small performanc
 
 *—A*
 
-Sable read it twice. Folded it along its original crease and put it in her coat pocket and stood in the middle of the floor with the mirror showing nothing and the photograph of [Allicia](/npcs/allicia/) watching from the back wall.
+[Sable](/sable-price/) read it twice. Folded it along its original crease and put it in her coat pocket and stood in the middle of the floor with the mirror showing nothing and the photograph of [Allicia](/npcs/allicia/) watching from the back wall.
 
 Four days of silence. Then this. Not hostile, not warm. Probing. The handwriting of a woman who had practiced patience for fifty years and was choosing, now, to break it.
 
@@ -82,7 +82,7 @@ Miller Beach. The mansion. White columns in the dark, the lawn dead with winter,
 
 She dropped her shoulders. Not the kneeling, not the slip, not the full performance. Something calibrated to look like worry. "My Prince, [Allicia](/npcs/allicia/) left a note at the studio. She wants to meet." A pause. Let the weight settle. "I don't want to cause problems between you and her. She was there first. That studio was hers. If my being there is making things difficult, I'd rather know now."
 
-The words were positioned. The concern was real but the framing was strategic, designed to make him reassure her, which would force him to show his hand on Allicia. She could feel the performance wavering at the edges, the scaffolding just visible enough that a man with centuries of practice could see it if he looked.
+The words were positioned. The concern was real but the framing was strategic, designed to make him reassure her, which would force him to show his hand on [Allicia](/npcs/allicia/). She could feel the performance wavering at the edges, the scaffolding just visible enough that a man with centuries of practice could see it if he looked.
 
 He looked. For two seconds he turned the words over behind his eyes and she could feel him weighing the seams. Then the vanity caught. The idea that his new ward worried about his household, cared about his comfort, came to him first before acting. The flattery landed where it always landed with [Modius](/npcs/modius/), in the part of him that needed to believe he was loved rather than obeyed.
 

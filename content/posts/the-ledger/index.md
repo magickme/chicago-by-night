@@ -24,7 +24,7 @@ Ray told him about the man who knew his name. A man whose face wouldn't hold in 
 
 [Darius](/darius-cole/) sat with it. Built the architecture in his head. Obfuscate. Nosferatu. The memory fog was textbook Mask of a Thousand Faces bleeding through after the effect dropped. And who in Gary ran Obfuscate and traded in audits and had told [Darius](/darius-cole/) to come back Tuesday?
 
-[Danov](/npcs/alexander-danov/). Had to be. The Nosferatu was checking the merchandise before the deal closed. Running his people through the docks to verify that Darius's warehouse was real, that the pipeline existed, that the story held. Standard tradecraft for a man who filed secrets by instinct.
+[Danov](/npcs/alexander-danov/). Had to be. The Nosferatu was checking the merchandise before the deal closed. Running his people through the docks to verify that [Darius](/darius-cole/)'s warehouse was real, that the pipeline existed, that the story held. Standard tradecraft for a man who filed secrets by instinct.
 
 The conclusion was wrong. But it was clean and it was logical and it locked into place with the satisfaction of a padlock snapping shut, and Darius trusted it the way he trusted every diagram his mind built for him. The architecture had never failed him before.
 

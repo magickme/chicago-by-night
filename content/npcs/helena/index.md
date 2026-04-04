@@ -46,7 +46,7 @@ For thirteen years she waited. Then [Prias](/npcs/prias/) returned. His relative
 
 This was the Amaranth — diablerie of one's own sire. It elevated her to 4th generation.
 
-## Prias — Three Thousand Years
+## [Prias](/npcs/prias/) — Three Thousand Years
 
 Prias refused the Embrace absolutely. He would never become one of the horrors who fed on the blood of the living. Helena offered an alternative: drink her blood, gain immortal life and extraordinary powers. He accepted. For the next three thousand years they lived together — Kindred and ghoul. He is an extremely beautiful blond young man with deep blue eyes and a dark, rich tan. Prefers robes.
 
@@ -74,7 +74,7 @@ In the Aztec capital, Helena encountered something beneath the great pyramid —
 
 A mage named **Motolina** traveled with Helena during the conquest. He was Blood Bonded to her — addicted to her vitae and used as her "pet mage." The Bond eventually broke. Motolina reshaped himself into a female form that is the spitting image of Helena. He still lives in the Mexico City area. He hates her.
 
-Helena destroyed the Maya with other tools. Then allied with Pizarro to destroy the Inca. Menele barely escaped and fled north through the Pueblos. For centuries Helena tracked him across North America.
+Helena destroyed the Maya with other tools. Then allied with Pizarro to destroy the Inca. [Menele](/npcs/menele/) barely escaped and fled north through the Pueblos. For centuries Helena tracked him across North America.
 
 ## The Feeding
 
@@ -118,7 +118,7 @@ No Kindred in Chicago knows Maria is dead. All Toreador are very interested in w
 
 **[Nicolai](/npcs/nicolai/)** — Tremere Regent. Thoroughly controlled by Helena. The only reason he has not stood for Clan Justicar.
 
-**[Brennon Thornhill](/npcs/brennon-thornhill/)** — Ventrue, Succubus Club owner. Helena led [Lodin](/npcs/lodin/) to Embrace him. Unconsciously serves as her main protector. Beginning to suspect his decisions were not his own.
+**[Brennon Thornhill](/npcs/brennon-thornhill/)** — Ventrue, [Succubus Club](/locations/succubus-club/) owner. Helena led [Lodin](/npcs/lodin/) to Embrace him. Unconsciously serves as her main protector. Beginning to suspect his decisions were not his own.
 
 **[Annabelle Triabell](/npcs/annabelle-triabell/)** — Helena believes she controls [Annabelle](/npcs/annabelle-triabell/) through Domination, having taken her during the Council Wars. Central to Helena's understanding of the power structure.
 

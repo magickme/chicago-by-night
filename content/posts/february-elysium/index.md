@@ -16,7 +16,7 @@ The mansion on Miller Beach sat at the end of a dead street the way a casket sit
 
 "He's in the drawing room."
 
-Nine o'clock. The hallway smelled like lemon polish and wet plaster. [Modius](/npcs/modius/)'s hell-paintings lined the walls, figures burning in landscapes that looked like Gary through a cracked windshield. Sable walked through them the way she'd walked through the Robert Taylor Homes at fourteen: eyes forward, inventory running. Exits, sight lines, the particular weight of a building that knows it's dying and hasn't told anyone yet.
+Nine o'clock. The hallway smelled like lemon polish and wet plaster. [Modius](/npcs/modius/)'s hell-paintings lined the walls, figures burning in landscapes that looked like Gary through a cracked windshield. [Sable](/sable-price/) walked through them the way she'd walked through the Robert Taylor Homes at fourteen: eyes forward, inventory running. Exits, sight lines, the particular weight of a building that knows it's dying and hasn't told anyone yet.
 
 The drawing room. Piano lid closed. [Modius](/npcs/modius/) stood at the window in a charcoal suit that was expensive when Kennedy was president. He turned. The smile arrived on schedule.
 
@@ -32,7 +32,7 @@ She waited. [Modius](/npcs/modius/) needed the next sentence the way a singer ne
 
 "With pleasure, my liege. If I may simply ask for your wisdom in doing so."
 
-His chin lifted. The eyes warmed. She could see it working on him, the need to be consulted, the itch to instruct. He gave her the file. Birch. Credit union sire, eleventh generation, nobody particular. Arrived with good manners and no ambitions and then stopped showing up, which meant he was either building something or hiding something, and Modius didn't care for either.
+His chin lifted. The eyes warmed. She could see it working on him, the need to be consulted, the itch to instruct. He gave her the file. Birch. Credit union sire, eleventh generation, nobody particular. Arrived with good manners and no ambitions and then stopped showing up, which meant he was either building something or hiding something, and [Modius](/npcs/modius/) didn't care for either.
 
 "Don't press him. Just be near him. A Toreador who pays attention to a Ventrue flatters them in ways they can't resist." He walked to the window. Turned back. "You're very good at that."
 
@@ -96,7 +96,7 @@ He was thinking about the woman at the piano.
 
 ---
 
-Modius descended with Allicia one step behind. The prince in a darker suit, pocket square working too hard. Allicia in black, the yellow lace shawl, eyes on the floor. The room organized itself around the armchair.
+Modius descended with [Allicia](/npcs/allicia/) one step behind. The prince in a darker suit, pocket square working too hard. Allicia in black, the yellow lace shawl, eyes on the floor. The room organized itself around the armchair.
 
 "Thank you all for coming. Gary endures."
 
@@ -104,7 +104,7 @@ Modius descended with Allicia one step behind. The prince in a darker suit, pock
 
 Modius's gaze found [Darius](/darius-cole/). "Mr. Birch. How good of you to join us again. I was beginning to worry."
 
-Light tone. Heavy freight. Every Kindred in the room heard the leash check. Darius met it with a nod. Low enough for respect. Spine straight enough for something else. He settled back in his chair with the unhurried ease of a man whose three weeks had been full, and Modius held his gaze for two beats and moved on, because a prince who pushes a neonate in public over a missed court looks petty, and Modius had spent two centuries avoiding that.
+Light tone. Heavy freight. Every Kindred in the room heard the leash check. [Darius](/darius-cole/) met it with a nod. Low enough for respect. Spine straight enough for something else. He settled back in his chair with the unhurried ease of a man whose three weeks had been full, and Modius held his gaze for two beats and moved on, because a prince who pushes a neonate in public over a missed court looks petty, and Modius had spent two centuries avoiding that.
 
 "Some of you have not yet met our newest member of court. [Sable Price](/sable-price/), Toreador, recently of Chicago."
 
@@ -130,7 +130,7 @@ The silence lasted three seconds that felt geological.
 
 "I know who you are."
 
-"I just came to pay respect to the King of the Docks. Respect, Lucian."
+"I just came to pay respect to the King of the Docks. Respect, [Lucian](/npcs/lucian/)."
 
 The elder turned the phrase over. "King of the Docks. I haven't heard that one." A pause that could have held a small country. "The docks don't need a king. They need workers who show up and freight that moves." He looked at Darius the way a mountain looks at a particular rock and decides it can stay where it is. "But respect is noted."
 
@@ -146,7 +146,7 @@ Modius's mouth did something complicated with the word. Nobody had called him bo
 
 ---
 
-[Danov](/npcs/alexander-danov/) appeared the way Danov appeared. Not fast, just elsewhere, as though the space between two points was a formality he'd outgrown. Up close the face was worse. But the gray eyes were the most human things in the room.
+[Danov](/npcs/alexander-danov/) appeared the way [Danov](/npcs/alexander-danov/) appeared. Not fast, just elsewhere, as though the space between two points was a formality he'd outgrown. Up close the face was worse. But the gray eyes were the most human things in the room.
 
 "Warren Birch. The orphan from the west side."
 

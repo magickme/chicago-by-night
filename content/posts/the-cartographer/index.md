@@ -32,7 +32,7 @@ He briefed her on [Juggler](/npcs/juggler/). She filed it. They didn't linger. T
 
 The Cutlass rolled south on Grant past the dead blocks where the streetlights gave up. [Telton Cemetery](/locations/telton-cemetery/) sat on the edge of the wasteland — six acres of headstones and overgrown paths behind chain-link that hadn't been maintained since the groundskeeper stopped getting paid. The docks were a quarter mile southeast. [Lucian](/npcs/lucian/)'s territory started somewhere in the dark between the last headstone and the water.
 
-Darius parked on the access road. Killed the engine. The cemetery was black, the kind of dark that cities aren't supposed to have — no lights, no ambient glow, just the industrial orange reflecting off low clouds and the smell of lake water carried inland on warm July wind.
+[Darius](/darius-cole/) parked on the access road. Killed the engine. The cemetery was black, the kind of dark that cities aren't supposed to have — no lights, no ambient glow, just the industrial orange reflecting off low clouds and the smell of lake water carried inland on warm July wind.
 
 [Juggler](/npcs/juggler/) said [Danov](/npcs/alexander-danov/) would find him. Not the other way around.
 
@@ -64,7 +64,7 @@ He held up one finger. "One question. Answered truthfully."
 
 The cemetery went quiet. The rats stopped. The crow watched.
 
-Darius deflected. Danov refused the deflection with the patience of a man who had been deflected by better liars for centuries. The conversation shifted — Darius asked about independence, about endgame, about where the information went once it entered the vault.
+Darius deflected. [Danov](/npcs/alexander-danov/) refused the deflection with the patience of a man who had been deflected by better liars for centuries. The conversation shifted — Darius asked about independence, about endgame, about where the information went once it entered the vault.
 
 Danov told him. Independent. Not [Modius](/npcs/modius/)'s, not [Lucian](/npcs/lucian/)'s. Nosferatu. The economy underneath every other economy. "I'm building nothing. I'm maintaining. When Gary collapses — and the math is already done — the man who kept the records is the man Chicago calls first."
 

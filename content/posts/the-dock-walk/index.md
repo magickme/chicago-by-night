@@ -32,7 +32,7 @@ Ray started talking and didn't stop. Eddie Fells. Night shift receiving supervis
 
 Berth 7. The dock office. A prefab box at the foot of the loading bay with one light on and one man inside. Eddie Fells sat at a desk with a radio playing George Strait and a face that had been tired since Reagan's first term. Broken capillaries across the nose. Hands that knew paperwork the way his boots knew concrete.
 
-Darius stood outside the door and called the blood up for Awe and the blood didn't catch. The Presence rose and fell flat, the supernatural charm sliding off the July air like a match that wouldn't strike. It happened sometimes. It happened now — at a dock office, on a Monday, at the exact moment he needed the world to bend. The streak that had carried him since the Ghost Lane, through [the Torch](/locations/the-torch/) assumption and the prince's handshake and the sire's phone call and the [Victor](/npcs/victor-salonika/) lie — fourteen scenes of dice that rolled his way — broke on a door he hadn't opened yet.
+[Darius](/darius-cole/) stood outside the door and called the blood up for Awe and the blood didn't catch. The Presence rose and fell flat, the supernatural charm sliding off the July air like a match that wouldn't strike. It happened sometimes. It happened now — at a dock office, on a Monday, at the exact moment he needed the world to bend. The streak that had carried him since the Ghost Lane, through [the Torch](/locations/the-torch/) assumption and the prince's handshake and the sire's phone call and the [Victor](/npcs/victor-salonika/) lie — fourteen scenes of dice that rolled his way — broke on a door he hadn't opened yet.
 
 He opened it anyway.
 

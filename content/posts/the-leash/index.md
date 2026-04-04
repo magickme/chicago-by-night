@@ -62,13 +62,13 @@ She hung up. Leaned against the phone booth. The east side of Gary smelled like 
 
 Ten minutes later the phone rang. A payphone ringing is a wrong sound, a sound that belongs to a different decade when people still waited by phones and phones still connected to people, and she picked it up because the only person who knew she'd been standing here was [Victor](/npcs/victor-salonika/).
 
-Modius wanted her. Tuesday, nine o'clock. The mansion. Her report on Torch conditions and a task requiring her particular talents.
+[Modius](/npcs/modius/) wanted her. Tuesday, nine o'clock. The mansion. Her report on Torch conditions and a task requiring her particular talents.
 
 The summons she'd been told to wait for, arriving before she'd finished hanging up. Twelve hours from the conversation with [Darius](/darius-cole/) to the window into the mansion, and the window was there, and she would walk through it tomorrow night and stand in Modius's parlor and give him the spy report he wanted and look for [Allicia](/npcs/allicia/) in the hallways without looking like she was looking, and the difference between those two kinds of looking was the entire width of the game.
 
 ---
 
-She drove east to the docks. Darius's ground. The air changed where Broadway met the lakefront, diesel and creosote replacing the west side's charcoal and cigarettes, the industrial lungs of a city that still breathed here even though the rest of it had forgotten how.
+She drove east to the docks. [Darius](/darius-cole/)'s ground. The air changed where Broadway met the lakefront, diesel and creosote replacing the west side's charcoal and cigarettes, the industrial lungs of a city that still breathed here even though the rest of it had forgotten how.
 
 A bar two blocks south of the waterfront. Monday night, fifteen men and a jukebox nobody was feeding. She walked in and the air changed the way it always changed and a man in a canvas jacket at the end of the bar looked up from his drink with the expression of someone who'd forgotten what he was thinking and couldn't remember why it mattered.
 
@@ -80,7 +80,7 @@ The docks were good ground. Shift workers who drank alone and didn't ask names. 
 
 Kendrick's at ten. She sent Pete to pull DeShawn off the porch at Sixteenth. Thirty hours of surveillance was enough for anyone, and DeShawn came through the door looking like something that had been left in the rain and dropped onto the couch without a word and was asleep before Pete got back to the chair by the door.
 
-Spoon got his orders. Simple and specific, the way you talk to a man who is twenty-two and blood-bonded and Entranced and willing to stand in traffic if you asked him to: Sixteenth and Grant, the porch, the burgundy Oldsmobile, watch and remember and come back at dawn.
+[Spoon](/npcs/spoon-antoine/) got his orders. Simple and specific, the way you talk to a man who is twenty-two and blood-bonded and Entranced and willing to stand in traffic if you asked him to: Sixteenth and Grant, the porch, the burgundy Oldsmobile, watch and remember and come back at dawn.
 
 He nodded and left. The screen door closed behind him and the night took him and he was gone, a young man in a hoodie walking south into the warm dark carrying devotion in his bloodstream and a task in his head and no understanding of what either of those things actually meant, and [Sable](/sable-price/) watched the door for a moment longer than necessary because she was thinking about Pete selling the cover story and Spoon drinking from her wrist and the sound he made and the sound DeShawn had made and the sound Little Pete had made, and the sounds were all the same sound, and the machine she was building ran on that sound the way Darius's machine ran on debt, and she was twenty-one years old and she would be twenty-one years old forever and the machine would need feeding and the feeding would need blood and the blood would need to come from her and the wrist would open and close and open and close and somewhere underneath all of it was a girl from State Street who had wanted to be seen and was building an army instead.
 

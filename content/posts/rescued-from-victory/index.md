@@ -42,7 +42,7 @@ The Civic had no heat and a cracked windshield and [Damien](/npcs/damien/) drove
 
 The 7-11 was a stripped carcass. Plywood face, no sign, no light. The man who'd lived here — the Ghoulie Man, [Damien](/npcs/damien/) called him — wasn't home. Two cops were. [Sable](/sable-price/) heard their heartbeats through the wall and the scrape of pen on clipboard and below both, something else. Pressure. The same frequency she'd felt through bent steel on the 107th floor. Ancient blood had been here. Ancient blood had saturated the concrete.
 
-They went in through the back door. [Darius](/darius-cole/) removed the hinge pins. Sable moved past the cops' office like a thing made of shadow and silence. [Darius](/darius-cole/) did not. His boot caught debris and the sound was a gunshot in the quiet and then there was a cop in the doorway with a flashlight and Sable behind him with her hand over his mouth and Darius in front of him with eye contact and one word — *sleep* — and the cop went down.
+They went in through the back door. [Darius](/darius-cole/) removed the hinge pins. [Sable](/sable-price/) moved past the cops' office like a thing made of shadow and silence. [Darius](/darius-cole/) did not. His boot caught debris and the sound was a gunshot in the quiet and then there was a cop in the doorway with a flashlight and Sable behind him with her hand over his mouth and [Darius](/darius-cole/) in front of him with eye contact and one word — *sleep* — and the cop went down.
 
 The second cop went down harder. One success on the Command, the man staggering like a sedative kicking in, catching the chair, catching the table. But he went down.
 

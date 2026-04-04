@@ -56,7 +56,7 @@ Menele lost control of the spirit and escaped only by throwing himself into the 
 
 ## Thirteen Centuries of War (79-1415 A.D.)
 
-Helena survived through [Prias](/npcs/prias/)'s aid. They fled to Egypt. For over 1,300 years, the two Methuselahs fought across Eurasia. Neither could strike a decisive blow. Helena slowly gained the upper hand as [Prias](/npcs/prias/) grew in power through millennia of feeding on her 4th-generation blood.
+[Helena](/npcs/helena/) survived through [Prias](/npcs/prias/)'s aid. They fled to Egypt. For over 1,300 years, the two Methuselahs fought across Eurasia. Neither could strike a decisive blow. Helena slowly gained the upper hand as [Prias](/npcs/prias/) grew in power through millennia of feeding on her 4th-generation blood.
 
 ## The Escape to the New World (1415)
 
@@ -82,7 +82,7 @@ At Fort Dearborn, Helena allied with the United States military. Menele with Bla
 
 Helena dug her claws deep into Menele's ribs. With a scream of agony that made the earth shake, Menele drove his skull into her forehead. Both were thrown to the ground. Menele's remaining braves made a last desperate charge to rescue him, but [Prias](/npcs/prias/) drove a burning stake deep into the vampire's neck before they could reach him.
 
-Both Methuselahs fell into torpor. Prias took Helena to safety beneath the fort. At the cost of many lives, Menele's allies seized his body and escaped into the woods. Native American warriors have cared for the ancient since, tending his torpid body for over a century and a half.
+Both Methuselahs fell into torpor. [Prias](/npcs/prias/) took Helena to safety beneath the fort. At the cost of many lives, Menele's allies seized his body and escaped into the woods. Native American warriors have cared for the ancient since, tending his torpid body for over a century and a half.
 
 ## The Sleeping War — Chicago
 
@@ -102,7 +102,7 @@ Through correspondence between [Saul Osiecki](/npcs/saul-osiecki/) and Dr. Phill
 
 ### [The Heart](/locations/the-heart/) of Osiris (Coptic Jar)
 
-A Coptic jar containing [the Heart](/locations/the-heart/) of Osiris surfaced in Chicago. Channeling its energy would enable Menele to awaken at full strength — unstoppable, a god in the modern world. [Inyanga](/npcs/inyanga/) pursued it on his behalf. Critias, after breaking free of the Blood Bond by falling 73 stories from the [Sears Tower](/locations/sears-tower/), tried to prevent Menele from obtaining it. Beckett, the Noddist scholar, became entangled in the search.
+A Coptic jar containing [the Heart](/locations/the-heart/) of Osiris surfaced in Chicago. Channeling its energy would enable Menele to awaken at full strength — unstoppable, a god in the modern world. [Inyanga](/npcs/inyanga/) pursued it on his behalf. [Critias](/npcs/critias/), after breaking free of the Blood Bond by falling 73 stories from the [Sears Tower](/locations/sears-tower/), tried to prevent Menele from obtaining it. Beckett, the Noddist scholar, became entangled in the search.
 
 Critias, newly free: *"It took the massive injuries I sustained from that accident to break free of my sire's influence. I, like many other Cainites in this city, have been Menele's unwitting agent for some time now. It has been thus for over two millennia."*
 
@@ -118,7 +118,7 @@ Critias, newly free: *"It took the massive injuries I sustained from that accide
 
 **[Ublo-Satha](/npcs/ublo-satha/)** — sleeper agent inside the Tremere. A Gargoyle conditioned by Menele before her transformation — the dormant commands survived the process. Her dual loyalty is unknown to the Tremere hierarchy. She watches [Nicolai](/npcs/nicolai/) (Helena's controlled Tremere Regent) from within the Chantry.
 
-**Annabelle → [Modius](/npcs/modius/)** — Annabelle sired the Prince of Gary. Gary is not exile. Gary is a staging ground.
+**[Annabelle](/npcs/annabelle-triabell/) → [Modius](/npcs/modius/)** — Annabelle sired the Prince of Gary. Gary is not exile. Gary is a staging ground.
 
 **Annabelle → [Sharon](/npcs/sharon-payne/) → [Michael](/npcs/michael/) → [Sable](/sable-price/)** — four steps from a sleeping god.
 

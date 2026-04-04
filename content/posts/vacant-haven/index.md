@@ -30,13 +30,13 @@ Not tall. Lean, compact, dark overcoat that looked like it cost nothing and fit 
 
 [Belthazar](/npcs/belthazar/) stopped walking. "Primogen."
 
-"Sheriff." The voice was measured, unhurried, the cadence of complete sentences considered before they were spoken. He looked at Belthazar the way a man looks at a tool he didn't request. "[Ballard](/npcs/ballard/) informed the council. I am here to observe."
+"Sheriff." The voice was measured, unhurried, the cadence of complete sentences considered before they were spoken. He looked at [Belthazar](/npcs/belthazar/) the way a man looks at a tool he didn't request. "[Ballard](/npcs/ballard/) informed the council. I am here to observe."
 
 "This investigation is under my authority."
 
 "Your authority extends to enforcement, not to the evaluation of evidence. I am Primogen. You are welcome to call [Ballard](/npcs/ballard/) and confirm."
 
-The rain fell between them. Sable could feel [Darius](/darius-cole/) beside her — the quality of his stillness when he was calculating — and she kept her face smooth and her thoughts quiet (or tried to, because something in the air near this man made her feel like her skull was made of glass, like everything inside it was visible, like the act of thinking was the same as speaking aloud).
+The rain fell between them. [Sable](/sable-price/) could feel [Darius](/darius-cole/) beside her — the quality of his stillness when he was calculating — and she kept her face smooth and her thoughts quiet (or tried to, because something in the air near this man made her feel like her skull was made of glass, like everything inside it was visible, like the act of thinking was the same as speaking aloud).
 
 He looked at her. Measured. Not dismissive the way [Ballard](/npcs/ballard/) had been — this was something worse. Attention. The full, unhurried attention of an intelligence that had outlived empires.
 
@@ -72,7 +72,7 @@ Beyond: a vault door. Seven tons of steel, reinforced, time-locked. Torn from it
 
 ---
 
-"Let me try psychometry," Sable said, taking off her evening gloves. "Darius. Unlock the girl."
+"Let me try psychometry," Sable said, taking off her evening gloves. "[Darius](/darius-cole/). Unlock the girl."
 
 [Critias](/npcs/critias/)'s head turned. Slight motion. The interest of a man who just heard a word he didn't expect from the source he didn't expect it from. *Psychometry.* A neonate Toreador with Spirit's Touch.
 
@@ -108,7 +108,7 @@ She knew whoever came in. She let them in willingly. Then she forgot everything.
 
 Sable summarized for [Critias](/npcs/critias/). The ancient blood. The single attacker. The chess game played with someone loved. The security gap cut with Dominate beyond anything she could measure. The pendant that hummed with a connection to something alive.
 
-Critias listened without interrupting. When she finished, he was quiet for four seconds — which, from a man who weighed every sentence, was a long time.
+[Critias](/npcs/critias/) listened without interrupting. When she finished, he was quiet for four seconds — which, from a man who weighed every sentence, was a long time.
 
 "The blood you describe," he said. "You have nothing to compare it to."
 

@@ -40,7 +40,7 @@ Then the brooch. "Where is it?"
 
 "In the car."
 
-It wasn't in the car. It was in [Sable](/sable-price/)'s jacket pocket at the Fifth Avenue studio. Darius drove to the BP station, called the studio line, got nothing, drove back to the mansion empty-handed, and told the prince he'd left it at home. A third tomorrow. A third promise stacked on the first two like IOUs from a debtor who keeps showing up with explanations instead of payments.
+It wasn't in the car. It was in [Sable](/sable-price/)'s jacket pocket at the Fifth Avenue studio. [Darius](/darius-cole/) drove to the BP station, called the studio line, got nothing, drove back to the mansion empty-handed, and told the prince he'd left it at home. A third tomorrow. A third promise stacked on the first two like IOUs from a debtor who keeps showing up with explanations instead of payments.
 
 "You seem to have a great many tomorrows, Warren."
 
@@ -48,6 +48,6 @@ The interview ended without the piano lid closing. [Modius](/npcs/modius/) watch
 
 He drove home. WP at 2. Blood at 9. The west-side apartment was dark. He sat at the kitchen table and thought about [Michael](/npcs/michael/) in the cemetery shed with his paintings and his candles and the trust that had taken five months to build and one sentence to betray. The Malkavian had given him the information that saved [Allicia](/npcs/allicia/)'s life and Darius had traded his name for the privilege of lying about a library.
 
-The mathematics of survival. The architecture of self-preservation. The specific weight of a man's name given to a prince who collects people the way other men collect paintings, and the knowledge that tomorrow he would have to put the brooch in Modius's hand and the day after that [Michael](/npcs/michael/) might find a Dominated guard standing outside his shed and the day after that the machine would keep turning because the machine always keeps turning and the man inside it can either turn with it or get ground down.
+The mathematics of survival. The architecture of self-preservation. The specific weight of a man's name given to a prince who collects people the way other men collect paintings, and the knowledge that tomorrow he would have to put the brooch in [Modius](/npcs/modius/)'s hand and the day after that [Michael](/npcs/michael/) might find a Dominated guard standing outside his shed and the day after that the machine would keep turning because the machine always keeps turning and the man inside it can either turn with it or get ground down.
 
 Darius closed his eyes. The kitchen was cold. Gary was quiet. The game was the game.

@@ -46,7 +46,7 @@ The cold was immediate -- thirty-five degrees and falling, the air tasting of sh
 
 The Beast was telling him to leave. Not the frenzy warning, not the hunger warning. Something older and simpler: the response of a predator in the presence of something that hunted predators.
 
-The white panel van sat on Adams where it had been parked all night. No plates. Driver's window cracked half an inch. The pressure was thickest here -- not the van itself but the shadow beside it, the dead space between sheet metal and a row house whose porch light had gone dark in the time it took Darius to walk two blocks. He stopped on the sidewalk. Forty feet. He looked and saw nothing. December shadow, parked vehicle, frozen weeds in the pavement cracks. The landscape of nothing happening.
+The white panel van sat on Adams where it had been parked all night. No plates. Driver's window cracked half an inch. The pressure was thickest here -- not the van itself but the shadow beside it, the dead space between sheet metal and a row house whose porch light had gone dark in the time it took [Darius](/darius-cole/) to walk two blocks. He stopped on the sidewalk. Forty feet. He looked and saw nothing. December shadow, parked vehicle, frozen weeds in the pavement cracks. The landscape of nothing happening.
 
 He stood there for six seconds. The longest since the Embrace. Every instinct built by thirty-two years of reading rooms and six hundred nights of reading the blood told him to close the distance, identify the variable, file it. The Beast said one word: *go*.
 
@@ -66,7 +66,7 @@ The drive to [Modius](/npcs/modius/)'s mansion took eleven minutes. He used ever
 
 [Victor](/npcs/victor-salonika/) opened the door. The house smelled like wood polish and radiant heat and the accumulated silence of four centuries of a man who owned rooms he'd stopped entering.
 
-[Modius](/npcs/modius/) was in the study. The lamplight found his jaw, his silver hair, his hands on the chair arms. Darius stood inside the door and gave him the minimum: found a feeding victim in the Torch alley. Fresh wound, male, mortal. Cleaned it. Sealed the wound, rewrote the memory. Sloppy but not savage. Didn't see who fed.
+[Modius](/npcs/modius/) was in the study. The lamplight found his jaw, his silver hair, his hands on the chair arms. Darius stood inside the door and gave him the minimum: found a feeding victim in [the Torch](/locations/the-torch/) alley. Fresh wound, male, mortal. Cleaned it. Sealed the wound, rewrote the memory. Sloppy but not savage. Didn't see who fed.
 
 The lie lived in the last sentence and it sat between them in the warm air like a coin on a table.
 
@@ -74,7 +74,7 @@ The lie lived in the last sentence and it sat between them in the warm air like 
 
 "No, sir. The alley was empty when I arrived."
 
-The silence lasted four seconds. Modius processed it the way he processed everything -- through the architecture of expectation, where loyalty was load-bearing and initiative was either a gift or a threat depending on whether it arrived with answers or questions.
+The silence lasted four seconds. [Modius](/npcs/modius/) processed it the way he processed everything -- through the architecture of expectation, where loyalty was load-bearing and initiative was either a gift or a threat depending on whether it arrived with answers or questions.
 
 "[Victor](/npcs/victor-salonika/) will note it. If this feeder returns, I expect you to bring me more than a cleanup."
 

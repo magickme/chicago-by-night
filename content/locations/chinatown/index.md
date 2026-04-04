@@ -32,7 +32,7 @@ ShowToc: false
 ## Geographic Placement
 
 - **Old Chinatown:** Bordered by West Cermak Road, Wentworth Avenue, Archer Avenue, Canal Street, and 26th Street, in the Armour Square neighborhood. South Side, below the Loop. Tunnels beneath the streets where triads are rumored to meet.
-- **New Chinatown:** Argyle Street in the Uptown neighborhood, North Side. Vietnamese community that migrated north from Old Chinatown's Lakeview overflow. Chuc Luc's haven sits in the cellar of a Vietnamese restaurant here.
+- **New Chinatown:** Argyle Street in the Uptown neighborhood, North Side. Vietnamese community that migrated north from Old Chinatown's Lakeview overflow. [Chuc Luc](/npcs/chuc-luc/)'s haven sits in the cellar of a Vietnamese restaurant here.
 - **Distance between territories:** Roughly seven miles, connected by the CTA Red Line. Old Chinatown: Red Line to Cermak-Chinatown stop. New Chinatown: Red Line to Argyle stop.
 - **Proximity:** Old Chinatown borders Bridgeport (old Daley territory, Union Stockyard Gate at Exchange and Peoria) to the west and [Capone](/npcs/capone/)'s former South Side Italian territory. New Chinatown in Uptown sits near [Graceland Cemetery](/locations/graceland-cemetery/) ([Inyanga](/npcs/inyanga/)) and the Lakeview neighborhood.
 - **Gary approach:** The Dan Ryan Expressway / I-94 from Gary passes through Old Chinatown's periphery. Every Kindred driving from Gary to the Loop passes Chuc Luc's southern domain.

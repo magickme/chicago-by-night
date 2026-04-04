@@ -30,7 +30,7 @@ Then [Allicia](/npcs/allicia/) spoke. The third time.
 
 "He wants me to give you my blood."
 
-The words landed like stones on still water. Not an offer. A confession. She was telling [Sable](/sable-price/) what [Modius](/npcs/modius/) had ordered — the trap Sable had always suspected, spoken aloud for the first time by the woman who was supposed to be the bait.
+The words landed like stones on still water. Not an offer. A confession. She was telling [Sable](/sable-price/) what [Modius](/npcs/modius/) had ordered — the trap [Sable](/sable-price/) had always suspected, spoken aloud for the first time by the woman who was supposed to be the bait.
 
 Sable crossed the room. Sat beside her on the window seat. Reached up and touched her hair, dark and heavy, and stroked it once from the temple down. The gesture of a woman who has comforted other women and knows that words aren't always the thing that's needed.
 
@@ -44,7 +44,7 @@ Sable slid the robe off one shoulder. Then the other. Green silk pooling on the 
 
 The smallest nod.
 
-Then the curse took her. The green eyes at close range, the gardenia, the lamplight on the line of Allicia's throat, and the Toreador weakness hit Sable like a wall of glass — beauty so absolute that the part of her mind responsible for doing things shut off. She froze. Fingers still on Allicia's skin. Eyes locked. Held by the blood's oldest and cruelest gift: to see beauty more clearly than any creature alive and be paralyzed by it.
+Then the curse took her. The green eyes at close range, the gardenia, the lamplight on the line of [Allicia](/npcs/allicia/)'s throat, and the Toreador weakness hit Sable like a wall of glass — beauty so absolute that the part of her mind responsible for doing things shut off. She froze. Fingers still on Allicia's skin. Eyes locked. Held by the blood's oldest and cruelest gift: to see beauty more clearly than any creature alive and be paralyzed by it.
 
 Allicia watched it happen. She knew the weakness. She had it too. She saw Sable freeze mid-gesture, and she understood, and she didn't pull away. She didn't cover herself. She stayed perfectly still and let Sable look, because this was the one thing in her life that wasn't performance or control or ownership. A woman frozen by the beauty of another woman, and neither of them chose it, and neither of them could stop it, and the honesty of that was more naked than skin.
 

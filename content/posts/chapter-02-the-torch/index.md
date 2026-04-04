@@ -48,7 +48,7 @@ A man came over. Denim jacket. Mustache. A tan line where a wedding ring had bee
 
 "You alright?"
 
-Two words and Sable saw everything. The jacket too clean for a working man — unemployed, recent, wearing his self-respect like a costume. The mustache trimmed but the rest of him neglected — he'd cleaned up for tonight because New Year's demanded it, a ritual observance to the idea that time was still moving forward. The ring gone but the mark fresh. Weeks. Not months. The apartment he'd go home to would have furniture arranged for two people and the silence of one.
+Two words and [Sable](/sable-price/) saw everything. The jacket too clean for a working man — unemployed, recent, wearing his self-respect like a costume. The mustache trimmed but the rest of him neglected — he'd cleaned up for tonight because New Year's demanded it, a ritual observance to the idea that time was still moving forward. The ring gone but the mark fresh. Weeks. Not months. The apartment he'd go home to would have furniture arranged for two people and the silence of one.
 
 He didn't want sex. He wanted to matter.
 

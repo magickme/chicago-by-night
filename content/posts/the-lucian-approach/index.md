@@ -44,13 +44,13 @@ The woman stood. Through the open door: "What kind of problem?"
 
 Silence. The particular silence of a room where everyone knows what actually happened and the man who said *dog* is the only one who doesn't. [Claudette](/npcs/claudette-mallet/) looked at [Lucian](/npcs/lucian/). One look. He stood and walked out past [Darius](/darius-cole/) without a word. The front door closed.
 
-Darius counted to five. Then he moved.
+[Darius](/darius-cole/) counted to five. Then he moved.
 
 The clipboard was half-buried under the nautical chart. This week's berth assignments. Three vessels. Two with names, cargo descriptions, scheduled departures. And one line that had nothing where information should be: berth 7, no vessel, no cargo, Friday, two in the morning.
 
 He memorized it. Put the clipboard back. Sat down. Hands on knees. Folder on his lap.
 
-Lucian returned thirty seconds later. Whatever he'd found at berth three had cost his lieutenant something. The elder sat. His posture carried a fraction more weight than before.
+[Lucian](/npcs/lucian/) returned thirty seconds later. Whatever he'd found at berth three had cost his lieutenant something. The elder sat. His posture carried a fraction more weight than before.
 
 "Your aura flickers, Warren. Like a man telling a story he rehearsed in the car."
 

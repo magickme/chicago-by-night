@@ -36,7 +36,7 @@ The prince laughed. Short, surprised. The sound of a two-hundred-year-old Toread
 
 "No. You would not be the first."
 
-He gave Darius the folder. The mortgage details. The authorization, unofficial and deniable, the prince's favorite kind. "If Lucian asks who sent you, you came on your own."
+He gave [Darius](/darius-cole/) the folder. The mortgage details. The authorization, unofficial and deniable, the prince's favorite kind. "If [Lucian](/npcs/lucian/) asks who sent you, you came on your own."
 
 ---
 

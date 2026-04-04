@@ -50,7 +50,7 @@ She told him. The calibrated report — painting, his name mentioned three times
 
 He accepted it the way he accepted everything — by not rejecting it, which for [Modius](/npcs/modius/) was enthusiasm.
 
-Then the pivot. [Victor](/npcs/victor-salonika/) had called. The federal agent. The name. Warren Birch. Modius watching her face for the reaction, not because he suspected her but because he needed to see competence in the room, needed to know that someone standing in front of him had the situation mapped.
+Then the pivot. [Victor](/npcs/victor-salonika/) had called. The federal agent. The name. Warren Birch. [Modius](/npcs/modius/) watching her face for the reaction, not because he suspected her but because he needed to see competence in the room, needed to know that someone standing in front of him had the situation mapped.
 
 She gave him the answer she'd built on a payphone forty minutes ago: Birch is handling it, documentation in progress, a mortal representative, two to three weeks, the file closes. She delivered it flat, the way you deliver information you're certain of, and the certainty was real because everything she said was true and the lie was structural, not verbal — it lived in what she left out, not in what she said.
 
@@ -72,7 +72,7 @@ The highest compliment a Toreador Elder could pay a neonate, delivered in the to
 
 ---
 
-The studio smelled like life. That was the cruelest thing about it. Eleven months of Sable's residence had left the apartment smelling like turpentine and cold stone and the particular nothing that the dead produce when they stop pretending. Three weeks of two teenagers had filled it with a warmth that registered on the Beast before it registered on the mind — microwave popcorn, shampoo, the animal scent of bodies that metabolize and perspire and run at a temperature that makes the blood sing under the skin.
+The studio smelled like life. That was the cruelest thing about it. Eleven months of [Sable](/sable-price/)'s residence had left the apartment smelling like turpentine and cold stone and the particular nothing that the dead produce when they stop pretending. Three weeks of two teenagers had filled it with a warmth that registered on the Beast before it registered on the mind — microwave popcorn, shampoo, the animal scent of bodies that metabolize and perspire and run at a temperature that makes the blood sing under the skin.
 
 Two heartbeats. One steady on the mattress. One shallow on the couch.
 
@@ -90,13 +90,13 @@ And the one thing keeping the flame lit — the only thing — was the heartbeat
 
 [Keisha](/npcs/keisha-williams/) said it plainly: [Ms. Okonkwo](/npcs/ms-okonkwo/), four houses from her grandmother's, green door, twenty years of fostering kids the system forgot. Cash. No paperwork. A room with a bed and a window and a person who'd be there during the day, when it was light, when the sounds outside were normal sounds.
 
-Sable called Darius. He came.
+Sable called [Darius](/darius-cole/). He came.
 
 ---
 
 The Cutlass on the Toll Road at four in the morning with two girls in the back seat, one of them wrapped in a blanket and present only in the sense that her body occupied space. [Keisha](/npcs/keisha-williams/) in front, garbage bag of clothes between her feet, watching the steel mills pass in the dark with the expression of a girl going home who wasn't sure home still existed.
 
-Sixty-Third and Dorchester. The grandmother's porch light. The door opening before Keisha reached it because the old woman had been awake since February, awake every night in case something exactly like this happened, and the hold lasted four seconds and the door closed and that was everything.
+Sixty-Third and Dorchester. The grandmother's porch light. The door opening before [Keisha](/npcs/keisha-williams/) reached it because the old woman had been awake since February, awake every night in case something exactly like this happened, and the hold lasted four seconds and the door closed and that was everything.
 
 Four houses down. Another green door. [Okonkwo](/npcs/ms-okonkwo/) in reading glasses with a crossword and the quiet competence of a woman who'd been taking in the world's discarded children for two decades and had stopped asking where they came from because the answer didn't change the treatment. She took Amy the way she'd taken dozens before — blanket and all, into a room with clean sheets and a nightlight shaped like a seashell — and the exchange at the door was six hundred dollars and a deal: if the girl doesn't eat by tomorrow, I call the hospital, and you'll deal with whatever that brings.
 

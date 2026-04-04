@@ -41,5 +41,5 @@ ShowToc: false
 ## Who Controls It
 
 - [Nicolai](/npcs/nicolai/) is regent. His authority within these walls is absolute, delegated from the Vienna council.
-- [Abraham DuSable](/npcs/abraham-dusable/) operates as [Nicolai](/npcs/nicolai/)'s second and primary enforcer. He handles the chantry's external business and the things Nicolai considers beneath direct attention.
+- [Abraham DuSable](/npcs/abraham-dusable/) operates as [Nicolai](/npcs/nicolai/)'s second and primary enforcer. He handles the chantry's external business and the things [Nicolai](/npcs/nicolai/) considers beneath direct attention.
 - Visiting Tremere from other cities are received here. They follow protocol or they leave damaged.

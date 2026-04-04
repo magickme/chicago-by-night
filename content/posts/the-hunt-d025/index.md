@@ -108,7 +108,7 @@ South spurs. Inland yards. Not the port. Not Berth 7. Not the waterfront.
 
 The entire law enforcement apparatus of Gary, Indiana, was about to spend the next month staring at the wrong end of the city while his pipeline ran clean on the lakefront.
 
-He drove home on a route he'd never taken. New streets, new turns, random pattern. [Dane](/npcs/sullivan-dane/) was out there with a notebook and a patience that smelled like burning, and Darius Cole was done being predictable.
+He drove home on a route he'd never taken. New streets, new turns, random pattern. [Dane](/npcs/sullivan-dane/) was out there with a notebook and a patience that smelled like burning, and [Darius Cole](/darius-cole/) was done being predictable.
 
 The Cutlass pulled into the alley behind the haven and the engine ticked in the cold and the snow started again. Small dry flakes that collected in the cracks of everything broken, which in Gary was everything. Tomorrow was Tuesday. The call to [Chuc Luc](/npcs/chuc-luc/) was not a report. It was a negotiation.
 

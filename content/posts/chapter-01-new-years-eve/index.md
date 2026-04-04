@@ -36,7 +36,7 @@ He stood there for a moment, looking at the empty concrete where three unmarked 
 
 Men like the stevedores. Men with debts they couldn't pay.
 
-Darius closed his notepad and walked back to the Cutlass.
+[Darius](/darius-cole/) closed his notepad and walked back to the Cutlass.
 
 ---
 

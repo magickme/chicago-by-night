@@ -28,12 +28,12 @@ It wasn't hidden, she said. It was placed where any competent inspection would f
 
 They flew anyway. Over the Atlantic in a Learjet, engines droning, the dark water thirty thousand feet below. An hour in, [Lodin](/npcs/lodin/) stood in the cabin and laid out the briefing materials. A map of London. Hotel documents. Twenty-two thousand dollars in cash. An auction pamphlet he didn't explain. He tapped it once and said he would not be outbid.
 
-Then he took [Roarke](/npcs/roarke/)'s wrist and opened a vein in his own. Two mouthfuls of blood that tasted like cold metal and then burned like a furnace door. The cabin sharpened -- Derek's heartbeat through the bulkhead, JP-4 in the fuel lines, every rivet vibrating independently. Dominate sat in [Roarke](/npcs/roarke/)'s mind like a weapon he hadn't asked for.
+Then he took [Roarke](/npcs/roarke/)'s wrist and opened a vein in his own. Two mouthfuls of blood that tasted like cold metal and then burned like a furnace door. The cabin sharpened -- [Derek](/npcs/derek-gallen/)'s heartbeat through the bulkhead, JP-4 in the fuel lines, every rivet vibrating independently. Dominate sat in [Roarke](/npcs/roarke/)'s mind like a weapon he hadn't asked for.
 
-In case there is trouble during the day, Lodin said.
+In case there is trouble during the day, [Lodin](/npcs/lodin/) said.
 
 He gave them a phone number for the Queen of London's people. Request feeding permission. Speak respectfully.
 
-Then he climbed into his crate at thirty thousand feet and pulled the lid shut. The latches clicked from inside. Roarke sat in the dark with borrowed power in his blood and the Atlantic beneath him, going to a city he'd never seen for reasons he hadn't been told, because a man he loved and hated and couldn't tell the difference had said the word London like it meant something that mattered.
+Then he climbed into his crate at thirty thousand feet and pulled the lid shut. The latches clicked from inside. [Roarke](/npcs/roarke/) sat in the dark with borrowed power in his blood and the Atlantic beneath him, going to a city he'd never seen for reasons he hadn't been told, because a man he loved and hated and couldn't tell the difference had said the word London like it meant something that mattered.
 
 The others slept. Roarke stared at the dark window and strummed his fingers against the armrest and thought about half a million people with candles who got to choose what to fight for.

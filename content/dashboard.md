@@ -10,15 +10,15 @@ menu:
       icon: "dots"
 ---
 
-*Chicago Chronicles. Act II: Ashes and Blood. Updated: **1991-01-09 (Wednesday night)**.*
+*Chicago Chronicles. Act II: Ashes and Blood. Updated: **1991-01-10 (Thursday night)**.*
 
 
 
 ## Coterie Snapshot
 
-- 1991-01-09 (Wednesday night) — Darius at Starlite Motel, Room 9 (South Side). Sable at Allerton Hotel, Michigan Avenue, 3rd floor. Counter-operations active: ghoul driver Mesmerized + Conditioning 4/14, Ballard frame identified, Sir Henry making Drake inquiries. Lodin silent 5 nights. Modius managed (48 hrs bought).
-- Scenes played: Darius 33, Sable 32 (65 total + timeskip bluebook Aug-Nov + Dec timeskip). PCs met at Feb 2 Elysium. **COTERIE FORMED (S019, July 22).**
-- Scene-note inventory: Darius 33, Sable 32 (65 total on disk).
+- 1991-01-10 (Thursday night) — Darius at Starlite Motel, Room 9 (South Side). Sable at Allerton Hotel, Michigan Avenue, 3rd floor. Counter-operations active: ghoul driver Mesmerized + Conditioning 4/14, Ballard frame identified, Sir Henry making Drake inquiries. Lodin silent 6 nights. Modius leash on Sable dropped (turned inward, audit consuming attention).
+- Scenes played: Darius 33, Sable 33 (66 total + timeskip bluebook Aug-Nov + Dec timeskip). PCs met at Feb 2 Elysium. **COTERIE FORMED (S019, July 22).**
+- Scene-note inventory: Darius 33, Sable 33 (66 total on disk).
 - Sunset: 4:28 PM CST. Sunrise: 7:06 AM CST. Darkness: ~14.5 hours (early January).
 - Communications: Chicago protocol seeded. Tue/Fri 11 PM remains the default check-in window, using rotating nodes instead of a fixed haven line. If one node feels watched, move immediately to the next. Horace contact: The Cave, ask for Fred, "chess tournament."
 
@@ -31,7 +31,6 @@ menu:
 | Dane Identifies Darius | 5/6 | Active hunt. Saw BbF attendees, got plates. In Gary or following. |
 | Torch/Rack Heat | 5/6 | Stabilized. Webb proxy. Dormant while PCs away. |
 | Modius Internal Audit | 4/6 | Blood-taste bomb. Allicia. Offscreen while PCs in Chicago. |
-| Modius Leash (Sable) | 4/6 | Sent first. More expendable or more useful. |
 | Ballard's Case | 3/6 | D032-D033: Ballard dined with 3 Primogen in 3 nights (Annabelle, Critias, Jackson). Establishing context: Gary emissaries caused Chicago's crises. Cultivating ghoul driver (botched Forgetful Mind). Driver now Mesmerized + Conditioning 4/14. Counter-ops active. |
 | Docks Heat | 3/6 | Pipeline on autopilot. Eddie granite. |
 | Masquerade Heat (Chicago) | 2/6 | D031: 36 cultists witnessed supernatural events at Hell's Pasture (Roarke aging, vampire feeding, Dread Gaze). Scottie wiped (granite). Compound burning. Low-credibility witnesses but high numbers. |
@@ -44,6 +43,7 @@ menu:
 | Lodin's Grip | 1/6 | D031: Prince returns. Secured Menele's body at Drake. Ordering callback before dawn. Ballard reckoning incoming. |
 | Chuc Luc's Chicago Operations | 0/6 | Pipeline expansion into Capone's territory. |
 | Cover Story Exposure (Chicago) | 0/6 | Warren Birch fiction meets Chicago Auspex. Darius 10th claiming 12th. |
+| Modius Leash (Sable) | 0/6 | CLOSED (S033). Scene alteration (Close Thread). Modius turned inward — Internal Audit consuming attention, leash dropped. Silence, not forgiveness. |
 | Primogen Power Plays | 0/6 | Annabelle, Critias, Tyler, Nicolai — each has an agenda. |
 | Sabbat Infiltration | 0/6 LATENT | Phillipe Rigaud and Wendy Wade embedded. Activates Act III. |
 | Succubus Club Heat | 0/6 | Club as focal point. Helena's basement. Every thread passes through. |

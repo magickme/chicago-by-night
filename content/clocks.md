@@ -5,7 +5,7 @@ layout: "page"
 slug: "clocks"
 ---
 
-*Chicago pressure board. Updated: **1991-01-09 (Wednesday night)**. Session state is authoritative for all clock levels.*
+*Chicago pressure board. Updated: **1991-01-10 (Thursday night)**. Session state is authoritative for all clock levels.*
 
 
 
@@ -33,7 +33,7 @@ slug: "clocks"
 |---|---|---|---|
 | Dane Identifies Darius (CRITICAL) | ■■■■■□ | 5/6 | Active hunt. Saw BbF attendees, got plates. In Gary or following. |
 | Modius Leash (Darius) | ■■□□□□ | 2/6 | Emissary mission = continued obligation at distance. |
-| Modius Leash (Sable) (HOT) | ■■■■□□ | 4/6 | Sent first. More expendable or more useful. |
+| Modius Leash (Sable) (CLOSED) | □□□□□□ | 0/6 | CLOSED (S033). Scene alteration (Close Thread). Modius turned inward — Internal Audit consuming attention, leash dropped. Silence, not forgiveness. |
 | Modius Internal Audit (HOT) | ■■■■□□ | 4/6 | Blood-taste bomb. Allicia. Offscreen while PCs in Chicago. |
 | Torch/Rack Heat (CRITICAL) | ■■■■■□ | 5/6 | Stabilized. Webb proxy. Dormant while PCs away. |
 | Allicia Alliance (COMPLETE) | ■■■■■■ | 6/6 | COMPLETE. Erichtho evaluation done. Carna path active. Allicia in Gary. |

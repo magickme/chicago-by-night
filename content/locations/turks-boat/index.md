@@ -32,4 +32,4 @@ Union HQ. [Turk](/npcs/turk/)'s haven. A large houseboat docked at the McKinley 
 
 - [Turk](/npcs/turk/). His haven, his headquarters, his territory.
 - Union members maintain a presence. At least two or three on the boat at any time.
-- Through the Dominate chain: [Merik](/npcs/terence-merik/) controls the boat because [Merik](/npcs/terence-merik/) controls Turk.
+- Through the Dominate chain: [Merik](/npcs/terence-merik/) controls the boat because [Merik](/npcs/terence-merik/) controls [Turk](/npcs/turk/).

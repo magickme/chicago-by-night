@@ -114,7 +114,7 @@ On the back wall, near the office door, a framed photograph. Small, dusty, the g
 
 [Allicia](/npcs/allicia/).
 
-Sable stood in the middle of the floor and looked at the photograph and understood what Modius had done, whether he'd meant to do it or not. This was [Allicia](/npcs/allicia/)'s room. Before the mansion. Before the piano. Before she became the thing on the mantel he'd stopped seeing. [Allicia](/npcs/allicia/) danced here, on this floor, in front of this mirror. Then she stopped, or was stopped, and Modius held the room the way he held everything, not because he needed it but because ownership was the only verb he conjugated, and now he'd handed it to the next one. The new acquisition. The upgrade.
+[Sable](/sable-price/) stood in the middle of the floor and looked at the photograph and understood what [Modius](/npcs/modius/) had done, whether he'd meant to do it or not. This was [Allicia](/npcs/allicia/)'s room. Before the mansion. Before the piano. Before she became the thing on the mantel he'd stopped seeing. [Allicia](/npcs/allicia/) danced here, on this floor, in front of this mirror. Then she stopped, or was stopped, and Modius held the room the way he held everything, not because he needed it but because ownership was the only verb he conjugated, and now he'd handed it to the next one. The new acquisition. The upgrade.
 
 Sable left the shoes on the barre. Left the photograph on the wall.
 
@@ -126,7 +126,7 @@ She thought about [Michael](/npcs/michael/). The painter. The sire. The man who'
 
 She thought about Modius. The key. The drawing room. The finger under her chin. *You're very good at this.* She was. She'd always been good at this. The question nobody asked, because nobody wanted to hear the answer, was what *this* cost the person who was good at it. What it took out of you to kneel on a cold floor and mean it and not mean it at the same time, to perform devotion so well that you couldn't tell afterward which parts were real. The Oasis had taught her that. The Embrace had just given her forever to practice.
 
-She thought about the pointe shoes and the woman who'd worn them down to nothing, and she wondered if Allicia had knelt on this same floor in a different year, in a different slip, and said the same words to the same man, and whether the words had worked then the way they worked tonight, and whether any of it had ever worked for anyone, or whether the performance was the whole thing, the only thing, the floor and the mirror and the silence and the slow accumulation of roles that fit so well you forgot you were wearing them.
+She thought about the pointe shoes and the woman who'd worn them down to nothing, and she wondered if [Allicia](/npcs/allicia/) had knelt on this same floor in a different year, in a different slip, and said the same words to the same man, and whether the words had worked then the way they worked tonight, and whether any of it had ever worked for anyone, or whether the performance was the whole thing, the only thing, the floor and the mirror and the silence and the slow accumulation of roles that fit so well you forgot you were wearing them.
 
 Dawn was coming. She could feel it the way all of them felt it. Not light but weight. The sun pressing down on the world, pushing everything dead back into the ground.
 

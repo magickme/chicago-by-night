@@ -46,7 +46,7 @@ The boy's mouth opened. The jaw worked. Bone on bone, the cartilage long gone. A
 
 [Allicia](/npcs/allicia/). The name pushed through a broken instrument. Three syllables that a sixteen-year-old boy's mouth formed because the thing inside him was sent to find her and the mission survived the body's death.
 
-The boy looked past Sable into the bar. Scanned. Searched. Found nothing it wanted. The dead face recalculated. The interest dimmed. The body sagged, the strings loosening.
+The boy looked past [Sable](/sable-price/) into the bar. Scanned. Searched. Found nothing it wanted. The dead face recalculated. The interest dimmed. The body sagged, the strings loosening.
 
 Then it turned and walked toward the dark end of the alley. The wrong gait, the knees bending badly. It reached the chain-link fence, grabbed the links with ruined fingers, and climbed it with a speed that nothing dead should have. Up and over in two seconds. Dropped into the vacant lot on the other side.
 
@@ -60,7 +60,7 @@ Sable held the brooch and her sharpened senses read it: centuries old, handmade,
 
 "This is Kindred. Whoever dropped it in your alley was one of us."
 
-[Victor](/npcs/victor-salonika/) wanted to tell [Allicia](/npcs/allicia/). Darius cut him off.
+[Victor](/npcs/victor-salonika/) wanted to tell [Allicia](/npcs/allicia/). [Darius](/darius-cole/) cut him off.
 
 "We'll handle it. Sable's friends with her."
 

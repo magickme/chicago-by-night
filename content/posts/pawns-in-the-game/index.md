@@ -38,11 +38,11 @@ The mansion was south of the city proper, at the end of a lane that hadn't been 
 
 [Lodin](/npcs/lodin/) adjusted his cuffs. Became the Prince. Walked to the front door and knocked once.
 
-[Pershing](/npcs/pershing/) opened it. Silver-haired. The posture of a man who had been opening doors for important people since before important people had cars. He looked at Lodin the way a sommelier looks at a bottle he's been saving. He didn't look at the van at all.
+[Pershing](/npcs/pershing/) opened it. Silver-haired. The posture of a man who had been opening doors for important people since before important people had cars. He looked at [Lodin](/npcs/lodin/) the way a sommelier looks at a bottle he's been saving. He didn't look at the van at all.
 
 The door closed.
 
-[Roarke](/npcs/roarke/) told the others to stay put and walked up the gravel path. The gargoyles watched. [Pershing](/npcs/pershing/) opened the door and raised one hand -- palm out, fingers together -- without looking at Roarke directly. Then turned and walked down a corridor lined with portraits painted by someone who understood what power looked like when it sat still.
+[Roarke](/npcs/roarke/) told the others to stay put and walked up the gravel path. The gargoyles watched. [Pershing](/npcs/pershing/) opened the door and raised one hand -- palm out, fingers together -- without looking at [Roarke](/npcs/roarke/) directly. Then turned and walked down a corridor lined with portraits painted by someone who understood what power looked like when it sat still.
 
 From behind a closed door, two voices:
 

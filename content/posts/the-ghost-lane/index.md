@@ -33,7 +33,7 @@ Feeding rights. Formalized, written into the court structure, guaranteed for [Lu
 
 "If you can broker that, the mortgage offer disappears. And you will have done me a service I remember."
 
-[Darius](/darius-cole/) said he'd speak with [Modius](/npcs/modius/). Lucian noted the verb. A check-cashing nobody who can "speak with [Modius](/npcs/modius/)" about feeding rights. The lie from Monday got thinner and neither of them mentioned it.
+[Darius](/darius-cole/) said he'd speak with [Modius](/npcs/modius/). [Lucian](/npcs/lucian/) noted the verb. A check-cashing nobody who can "speak with [Modius](/npcs/modius/)" about feeding rights. The lie from Monday got thinner and neither of them mentioned it.
 
 Then Lucian stood and stopped at the loading dock and said: "There is a man named Gerald Fisk. He tends bar at a place called Rosie's, on Buchanan. He cannot make his mortgage and he owes money to people less patient than a bank. He is not my concern."
 
@@ -45,7 +45,7 @@ Gone. The pickup truck. The headlights. The warehouse dark and quiet and smellin
 
 One thirty-seven. Twenty-three minutes.
 
-The Cutlass east on the Buffington corridor. Headlights off a quarter mile from the docks. The abandoned scale house. Four hundred yards of container yard between him and berth 7. Darius moved along the rail spur, every foot on the wooden ties, shadow to shadow, the sodium lights sweeping past and finding nothing. A dock cat watched from a container roof and blinked once and looked away.
+The Cutlass east on the Buffington corridor. Headlights off a quarter mile from the docks. The abandoned scale house. Four hundred yards of container yard between him and berth 7. [Darius](/darius-cole/) moved along the rail spur, every foot on the wooden ties, shadow to shadow, the sodium lights sweeping past and finding nothing. A dock cat watched from a container roof and blinked once and looked away.
 
 At 2 AM the tug came in without running lights. Forty feet, riding low, no name on the hull. Two line handlers worked in silence. Two passengers stepped off — one tall in a long coat, one short and hooded, carrying something heavy. A sedan with no plates pulled through the truck gate and they climbed in and drove east toward Hammond. Five minutes. No manifest. No customs. No evidence that anything had happened at all except a line on a clipboard that said berth 7 and had nothing where a name should be.
 
@@ -67,7 +67,7 @@ Eight hundred dollars a month.
 
 That was the assumption. The bank would restructure the note if someone took over the payments. $800 a month. The check-cashing storefront cleared more than that on a decent week. For less than the rent on his apartment, Darius could assume the mortgage, make the Lakeside offer void, and control the building that fed every Kindred in Gary.
 
-He drove home. The west-side apartment. The kitchen table. The business card. The Polaroid. The napkin with Fisk's phone number. The mortgage folder. And underneath all of it, building itself in his head the way buildings build themselves in an Architect's blood, the blueprint: pay the mortgage, control Fisk, solve the auction without brokering, hand Modius a victory the prince didn't earn, give Lucian the feeding rights from a position of ownership instead of negotiation, and thread the pipeline through a building that Darius functionally controlled on the waterfront side of Gary's economy.
+He drove home. The west-side apartment. The kitchen table. The business card. The Polaroid. The napkin with Fisk's phone number. The mortgage folder. And underneath all of it, building itself in his head the way buildings build themselves in an Architect's blood, the blueprint: pay the mortgage, control Fisk, solve the auction without brokering, hand [Modius](/npcs/modius/) a victory the prince didn't earn, give Lucian the feeding rights from a position of ownership instead of negotiation, and thread the pipeline through a building that Darius functionally controlled on the waterfront side of Gary's economy.
 
 $800 a month. The price of the whole board.
 

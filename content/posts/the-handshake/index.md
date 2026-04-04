@@ -30,7 +30,7 @@ Seven minutes. Pete came back. [Spoon](/npcs/spoon-antoine/) already knew someth
 
 She had Pete bring him to the car.
 
-[Antoine](/npcs/spoon-antoine/). Spoon. Twenty-two or twenty-three, lean, dreads pulled back, a face built for watching and a voice built for not talking. He got in the backseat and looked at her with the eyes of a lot watcher evaluating a new variable, and she looked back and opened the Presence and let it fill the car like a change in pressure, like warmth from a source he couldn't see, and his guard dissolved the way ice dissolves in water you don't realize is warm until you're already in it.
+[Antoine](/npcs/spoon-antoine/). [Spoon](/npcs/spoon-antoine/). Twenty-two or twenty-three, lean, dreads pulled back, a face built for watching and a voice built for not talking. He got in the backseat and looked at her with the eyes of a lot watcher evaluating a new variable, and she looked back and opened the Presence and let it fill the car like a change in pressure, like warmth from a source he couldn't see, and his guard dissolved the way ice dissolves in water you don't realize is warm until you're already in it.
 
 Two successes. Shallow. Twenty-four hours of devotion made from chemistry and fear and the need to feel safe. She bit her wrist and told him to drink and he did and the shudder went through him like voltage and his pupils blew and his grip on her arm tightened and she pulled back and the wound closed and that was it. One mouthful. One step on a three-step ladder that ended in ownership.
 
@@ -60,7 +60,7 @@ The studio on Fifth Avenue. The lamp. The chaise. The paintings [Michael](/npcs/
 
 It didn't ring.
 
-At 10:30 Darius called and she said the thing she'd been building toward all night. Coterie. Full disclosure. Cards on the table, face to face, not on a phone line.
+At 10:30 [Darius](/darius-cole/) called and she said the thing she'd been building toward all night. Coterie. Full disclosure. Cards on the table, face to face, not on a phone line.
 
 She dressed for war. The black blazer over bare skin, the single button doing work that architecture does, the pumps that changed the geometry of how she occupied a room. Not seduction. Statement. Two predators meeting at a table, and the one who controls the frame controls the conversation, and [Sable](/sable-price/) had been controlling frames since she was sixteen in a VIP booth on Cottage Grove knowing exactly what she was selling and exactly what it cost.
 

@@ -32,7 +32,7 @@ Going once --
 
 Twenty-two thousand five hundred.
 
-Every head turned. The younger man. The American suit. The cold tea. Standing with no paddle, just a raised hand and a smile aimed at Roarke like a letter addressed to him personally.
+Every head turned. The younger man. The American suit. The cold tea. Standing with no paddle, just a raised hand and a smile aimed at [Roarke](/npcs/roarke/) like a letter addressed to him personally.
 
 He tripled Roarke's counter. Then tripled again. Sixty-nine thousand pounds. Roarke bid seventy thousand from [Lodin](/npcs/lodin/)'s Swiss account because [Lodin](/npcs/lodin/) had said six words on a plane and those words didn't have a ceiling.
 
@@ -40,6 +40,6 @@ The younger man shook his head. The gavel came down. He walked out past Roarke's
 
 A limousine waited at the curb. [Natasha](/npcs/natasha/) followed and lost him in two blocks.
 
-Back at the hotel, Roarke gave [Lodin](/npcs/lodin/) everything. The journal, the price, the Swiss account, the man. Lodin listened. Said the Swiss account was the correct decision. Said the man in the lavender tie would surface again. They always do when they want something.
+Back at the hotel, Roarke gave [Lodin](/npcs/lodin/) everything. The journal, the price, the Swiss account, the man. [Lodin](/npcs/lodin/) listened. Said the Swiss account was the correct decision. Said the man in the lavender tie would surface again. They always do when they want something.
 
 Then: the journal. Seven o'clock. You will retrieve it. Go alone.

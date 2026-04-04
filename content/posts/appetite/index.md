@@ -44,7 +44,7 @@ Her name was Kat. She smelled like patchouli and Pabst and the specific chemical
 
 She spent the blood to make the body work. One point and the skin flushed and the temperature rose and the breathing started because Kat was going to touch her and Kat deserved to touch something that felt alive. They found the single-occupancy bathroom. The lock worked. The fluorescent flickered. The Doc Martens stayed on because the floor was wet and this was still a nightclub bathroom in Chicago in January.
 
-Kat kissed her first. Hard. Tasting like beer and conviction. Sable turned it the way she'd turned Marco -- mouth to throat, teeth finding the vein. The Kiss opened and Kat made a sound that had no language in it and the blood came in like a forge -- choleric intense, the anger load-bearing, the fury of a woman working sixty-hour weeks for a band that would never break and a city that would never notice. It tasted like iron held over a flame.
+Kat kissed her first. Hard. Tasting like beer and conviction. [Sable](/sable-price/) turned it the way she'd turned Marco -- mouth to throat, teeth finding the vein. The Kiss opened and Kat made a sound that had no language in it and the blood came in like a forge -- choleric intense, the anger load-bearing, the fury of a woman working sixty-hour weeks for a band that would never break and a city that would never notice. It tasted like iron held over a flame.
 
 She took two and stopped. Licked the wounds. Ran water in the sink. Pressed a wet paper towel to the back of Kat's neck.
 
@@ -76,7 +76,7 @@ The silence on the other end lasted four seconds. She could hear a glass being s
 
 "And the Prince of Chicago was in difficulty," [Modius](/npcs/modius/) said. His voice hadn't changed temperature. "And you resolved it. In Chicago." A breath. "How fortunate for Prince [Lodin](/npcs/lodin/) that Gary's emissaries were so proximate."
 
-He asked the question he was always asking, which was never the question he appeared to be asking. When Lodin expresses his gratitude -- to whom will he be expressing it? To you? Or to Gary?
+He asked the question he was always asking, which was never the question he appeared to be asking. When [Lodin](/npcs/lodin/) expresses his gratitude -- to whom will he be expressing it? To you? Or to Gary?
 
 She turned it. Asked him what Gary needed from Chicago.
 
@@ -108,7 +108,7 @@ At last call she met [Nina](/npcs/nina/). A paralegal from a Loop firm who'd com
 
 Sable spent the blood. One point for warm skin and breathing and the flush that made the fiction hold. She got a room at the Allerton on Michigan Avenue -- her last forty dollars and a story about a lost key. Third floor, street-facing. She checked the curtains twice before [Nina](/npcs/nina/) noticed.
 
-What happened in the room wasn't about power or hunger or the Kiss. It was slower than that and less precise and the sounds were different -- human sounds, awkward and honest, elbows and laughter and the moment where Nina said *wait* and Sable waited, actually waited, because waiting was what a person did.
+What happened in the room wasn't about power or hunger or the Kiss. It was slower than that and less precise and the sounds were different -- human sounds, awkward and honest, elbows and laughter and the moment where [Nina](/npcs/nina/) said *wait* and Sable waited, actually waited, because waiting was what a person did.
 
 At six-fifteen Nina was asleep and sunrise was fifty-one minutes away.
 

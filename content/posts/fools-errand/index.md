@@ -36,7 +36,7 @@ He picked up the journal. Leaned close.
 
 Tough old bastard.
 
-He uncorked a small glass vial. Dark liquid, almost black, thicker than blood. Pressed it to Roarke's lips. It tasted like time. Like something so old it had forgotten what age meant.
+He uncorked a small glass vial. Dark liquid, almost black, thicker than blood. Pressed it to [Roarke](/npcs/roarke/)'s lips. It tasted like time. Like something so old it had forgotten what age meant.
 
 The dark came anyway. Slower than it should have. Somewhere underneath, something ancient kept a candle lit in a room that should have been empty.
 

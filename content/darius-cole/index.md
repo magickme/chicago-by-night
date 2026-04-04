@@ -57,7 +57,7 @@ The first meeting was in the back of a Vietnamese restaurant on Argyle Street in
 
 Darius answered honestly: he wanted to build something, he'd do almost anything, and he wouldn't sell drugs or hurt children.
 
-It was only later — months later, when Chuc Luc dropped the accent and the act and spoke to Darius in a voice that was flat, precise, and ancient — that Darius understood the first meeting had been an audition. The bumbling uncle had been reading him like a ledger the entire time.
+It was only later — months later, when [Chuc Luc](/npcs/chuc-luc/) dropped the accent and the act and spoke to Darius in a voice that was flat, precise, and ancient — that Darius understood the first meeting had been an audition. The bumbling uncle had been reading him like a ledger the entire time.
 
 The Embrace came in a cellar beneath the restaurant. No ceremony. No warning. Chuc Luc closed the restaurant, led Darius down a flight of stairs that smelled of old concrete and something older, and said: "This city was built on arrangements. The Italians think they own it. The Prince thinks he rules it. They are both correct, and neither one knows about me. You are about to understand why."
 

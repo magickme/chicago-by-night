@@ -32,7 +32,7 @@ She ghosted back to the Cutlass.
 
 "Federal plate. USG-7734. He's alone." She told him about the photographs, the notebook, the name. "He's not watching [Modius](/npcs/modius/). He's looking for the kid."
 
-Darius looked at the lakefront road. The sedan. The mansion beyond it. [Allicia](/npcs/allicia/) inside, unaware.
+[Darius](/darius-cole/) looked at the lakefront road. The sedan. The mansion beyond it. [Allicia](/npcs/allicia/) inside, unaware.
 
 "Let [Shepard](/npcs/william-shepard/) guard [Allicia](/npcs/allicia/). We go find the father."
 
@@ -44,7 +44,7 @@ The BP station on Fifth Avenue. The phone book hanging from a chain. [Wierus](/n
 
 Pennsylvania Avenue was the kind of street that existed in every dying neighborhood in every dying city: vinyl siding gone gray, chain-link fences around yards nobody maintained, the amber glow of occupied houses getting sparser until the dark won. 1847 was a bungalow. One light on. Kitchen window. The only evidence of human habitation on a block that was forgetting what the word meant.
 
-They split. Darius took the front and sides. Sable took the back. Three minutes. What they found: two warded entrances with salt lines and leather charm bags on the doorknobs, sealed windows, a man at a kitchen table surrounded by notebooks and photographs of [Allicia](/npcs/allicia/), and a chalk ritual circle scratched into the back patio stained with old blood.
+They split. Darius took the front and sides. [Sable](/sable-price/) took the back. Three minutes. What they found: two warded entrances with salt lines and leather charm bags on the doorknobs, sealed windows, a man at a kitchen table surrounded by notebooks and photographs of [Allicia](/npcs/allicia/), and a chalk ritual circle scratched into the back patio stained with old blood.
 
 And in the bedroom, visible through a gap in the window covering: a loose floorboard with a deliberate gap. A hiding spot.
 
@@ -74,7 +74,7 @@ Ryan's bedroom. She found the loose floorboard by touch. Worked her fingers into
 
 The spirit bag. Leather, hand-stitched, the size of a fist. It pulsed against her fingers. Hair, dirt, dried blood, and something underneath all three that vibrated with intention. The anchor. The door.
 
-A notebook. A photograph of Allicia at the piano, taken with something that wore love's clothes.
+A notebook. A photograph of [Allicia](/npcs/allicia/) at the piano, taken with something that wore love's clothes.
 
 She took all three. Replaced the board. Moved down the hallway past the kitchen door — [Wierus](/npcs/john-wierus/) facing Darius, back to her, three feet of lit hallway — and passed through the gap like a sentence that was never spoken.
 
@@ -94,7 +94,7 @@ The fire flared white. Both of them staggered. The light held for three seconds 
 
 Then it was over. The fire dropped to orange. The bag was ash. The notebook was carbon. The pulsing was gone.
 
-Somewhere in Gary, a boy's body stopped walking. The knees buckled the wrong way one final time. The body fell. The thing looking out through his eyes was gone, pulled back through a door that had just been slammed shut by two people who didn't know each other's real names, and the body hit the ground and was just a body again, and the silence afterward was the most merciful thing that had happened to Ryan Wierus since his father decided to love him enough to make him into a weapon.
+Somewhere in Gary, a boy's body stopped walking. The knees buckled the wrong way one final time. The body fell. The thing looking out through his eyes was gone, pulled back through a door that had just been slammed shut by two people who didn't know each other's real names, and the body hit the ground and was just a body again, and the silence afterward was the most merciful thing that had happened to Ryan [Wierus](/npcs/john-wierus/) since his father decided to love him enough to make him into a weapon.
 
 ---
 

@@ -26,7 +26,7 @@ Off the books. No partner. No reports filed. Just a man and a notebook and a fee
 
 ---
 
-The Horseshoe sat on 5th Avenue three blocks from the Palace Theater. Brown brick, Budweiser sign in the window, the kind of bar where cops went to drink among their own and pretend the city outside the door was somebody else's problem. Darius parked two blocks south and walked back and found the alley — dumpsters, dead payphone, the cracked window of the men's room letting sound and yellow light leak into the dark.
+The Horseshoe sat on 5th Avenue three blocks from the Palace Theater. Brown brick, Budweiser sign in the window, the kind of bar where cops went to drink among their own and pretend the city outside the door was somebody else's problem. [Darius](/darius-cole/) parked two blocks south and walked back and found the alley — dumpsters, dead payphone, the cracked window of the men's room letting sound and yellow light leak into the dark.
 
 He waited. The cold pressed against him and he let it. Patience was the discipline [Chuc Luc](/npcs/chuc-luc/) had valued above all others, above Dominate, above the blood, above everything. The ability to stand still while the world arranged itself around you. The elders who survived weren't the strongest or the smartest. They were the ones who could wait.
 
@@ -122,4 +122,4 @@ Darius studied the face until the dawn pressed against the curtains and the weig
 
 Two clocks zeroed. One relationship repaired. Two new faces in the pipeline. And a photograph of a man nobody could identify, taken by a detective who would never remember taking it, in a folder that now belonged to the only person in Gary who understood what all the pieces meant.
 
-Darius closed his eyes. The apartment was cold. The city was quiet. Somewhere in a Crown Vic on the east side, Gregory Stephens was driving home from a bar, thinking about nothing, and the nothing felt like relief, and he would never know why.
+Darius closed his eyes. The apartment was cold. The city was quiet. Somewhere in a Crown Vic on the east side, [Gregory Stephens](/npcs/gregory-stephens/) was driving home from a bar, thinking about nothing, and the nothing felt like relief, and he would never know why.

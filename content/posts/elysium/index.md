@@ -26,7 +26,7 @@ The ballroom was smaller than she expected and sadder than she'd imagined. Cande
 
 She counted the room in three heartbeats. Six Kindred. Two bodyguards. One piano. One woman at the piano who wasn't playing.
 
-Sable priced everything. She couldn't help it. The habit was older than the Embrace — Denise standing in the kitchen doorway of the apartment on State Street, studying the label on a bottle of activator, lips moving as she calculated cost per ounce. Sable did the same thing to rooms full of people: what's it worth, what does it cost, where's the margin. The candelabras were worth something but not to anyone in this room. The paintings were worthless. The string quartet was Dominated, which meant they worked for free, which meant the prince couldn't afford to pay musicians.
+[Sable](/sable-price/) priced everything. She couldn't help it. The habit was older than the Embrace — Denise standing in the kitchen doorway of the apartment on State Street, studying the label on a bottle of activator, lips moving as she calculated cost per ounce. Sable did the same thing to rooms full of people: what's it worth, what does it cost, where's the margin. The candelabras were worth something but not to anyone in this room. The paintings were worthless. The string quartet was Dominated, which meant they worked for free, which meant the prince couldn't afford to pay musicians.
 
 The prince couldn't afford flowers that lived.
 
@@ -78,7 +78,7 @@ She walked to the front door. The Dominated bodyguards didn't look at her. The d
 
 She drove to Polk and Thirteenth. Green door. Brass key. Deadbolt. She sat on the fur coat on the tile floor in the rectory kitchen and listened to the boiler tick and the pigeons shift in the rafters overhead and the nothing that lived in the gaps between those sounds.
 
-Modius had called her *Miss Price* and claimed her in front of the court and given her his protection and nobody had spoken to her and nobody had approached her and nobody had seen the girl underneath the dress and the coat and the face.
+[Modius](/npcs/modius/) had called her *Miss Price* and claimed her in front of the court and given her his protection and nobody had spoken to her and nobody had approached her and nobody had seen the girl underneath the dress and the coat and the face.
 
 She'd walked into a room full of immortals and made every one of them believe exactly what she wanted them to believe.
 

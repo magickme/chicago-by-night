@@ -38,7 +38,7 @@ Silence. The bass pulsed through the wall. The red lamp hummed.
 
 "You left the shoes on the barre."
 
-Sable looked at her. [Allicia](/npcs/allicia/)'s face was a mask and the mask was the face and the question of which one was performing had been answered decades ago: both. Always. There was nothing behind the mask because the mask had eaten it.
+[Sable](/sable-price/) looked at her. [Allicia](/npcs/allicia/)'s face was a mask and the mask was the face and the question of which one was performing had been answered decades ago: both. Always. There was nothing behind the mask because the mask had eaten it.
 
 "They're yours," Sable said. "Everything in that room is yours. I know what he did."
 
@@ -60,7 +60,7 @@ Sable watched her stand and thought about the razor in her pocket, which had not
 
 "What did he do to you? Not the studio. The thing you actually came here to not say."
 
-Allicia stopped. Her hand was on the table. Her fingers pressed into the velvet hard enough to leave marks.
+[Allicia](/npcs/allicia/) stopped. Her hand was on the table. Her fingers pressed into the velvet hard enough to leave marks.
 
 The bass pulsed. The lamp hummed. Ten seconds. Twenty. Sable didn't move. Didn't fill the silence. Didn't reach across the table. She just held the space open the way you hold a door for someone carrying something heavy, and waited to see if Allicia would walk through it.
 
@@ -112,7 +112,7 @@ Sable sat on the floor beneath the photograph and looked at the pointe shoes and
 
 Allicia was Blood Bound. Since 1941. Three drinks and the question of love becomes unanswerable. The Oasis taught Sable what that looked like from the outside: the regulars who came back every night, not because the drinks were good or the girls were beautiful but because the building had become the shape of their loneliness and they couldn't imagine fitting anywhere else. The Blood Bond was The Oasis with fangs. The cage was always the same shape. The bars just changed material.
 
-Modius would offer. Allicia said so. Whatever he calls it. A toast at court. A private drink in the drawing room. The intimacy of shared blood, which in Kindred culture was sex and communion and contract all at once, and Sable had been performing all three since she was seventeen and had never once let any of them be real.
+[Modius](/npcs/modius/) would offer. Allicia said so. Whatever he calls it. A toast at court. A private drink in the drawing room. The intimacy of shared blood, which in Kindred culture was sex and communion and contract all at once, and Sable had been performing all three since she was seventeen and had never once let any of them be real.
 
 She would not drink.
 

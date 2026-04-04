@@ -34,7 +34,7 @@ The man was standing on the shoulder of the access road like he'd been planted t
 
 Heavy build. Work jacket, canvas, the kind you bought at a surplus store and wore until it rotted. Hands at his sides. Reflective eyes that caught the headlights and threw them back with a color that wasn't quite right. He didn't move when the Cutlass approached. He didn't move when [Darius](/darius-cole/) slowed. He had the stillness of something that had been standing in one place for a very long time and could stand there for a very long time more, and the fact that he'd chosen this spot on this road on this night meant he'd known they were coming, which meant he'd tracked the Cutlass to East Chicago the night before, which meant [Lucian](/npcs/lucian/) had been watching them for at least twenty-four hours without either of them noticing.
 
-Darius stopped the car. Rolled down the window.
+[Darius](/darius-cole/) stopped the car. Rolled down the window.
 
 "Get in," he said.
 
@@ -62,7 +62,7 @@ He paused. Let the pause do what pauses did between Kindred, which was announce 
 
 The car went quiet again. A different quiet. [Sable](/sable-price/) in the backseat was a held breath.
 
-Lucian's jaw moved. Not quite a smile. The reflective eyes shifted from the windshield to Darius for the first time. Held there. The Beast behind those eyes was old enough to have killed things that Darius couldn't name, and the fact that it stayed behind the eyes instead of filling the car was a choice, not a limitation.
+[Lucian](/npcs/lucian/)'s jaw moved. Not quite a smile. The reflective eyes shifted from the windshield to Darius for the first time. Held there. The Beast behind those eyes was old enough to have killed things that Darius couldn't name, and the fact that it stayed behind the eyes instead of filling the car was a choice, not a limitation.
 
 "Mutual discretion," Darius said.
 
@@ -80,7 +80,7 @@ Darius put the car in gear. His hands were steady. In the rearview mirror, [Sabl
 
 ---
 
-[The Torch](/locations/the-torch/) at ten. Sable out. The car lighter by the weight of one vampire and whatever she was carrying in the part of her expression that she didn't share.
+[The Torch](/locations/the-torch/) at ten. [Sable](/sable-price/) out. The car lighter by the weight of one vampire and whatever she was carrying in the part of her expression that she didn't share.
 
 The haven. The phone. Webb picked up on the third ring and Darius could hear the television in the background, a game show, the sound of a life that was about to get simpler in ways that Marcus Webb would never understand.
 

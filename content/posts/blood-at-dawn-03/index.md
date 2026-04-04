@@ -40,7 +40,7 @@ The interview ended the way [Modius](/npcs/modius/)'s interviews always ended: w
 
 ---
 
-The Cutlass. The lakefront road. Sable came down the stairs with a face that had stopped performing something it usually performed, and [Darius](/darius-cole/) recognized the difference because he'd been watching her perform for four months and the absence of it looked like a woman who'd been allowed to sit still.
+The Cutlass. The lakefront road. [Sable](/sable-price/) came down the stairs with a face that had stopped performing something it usually performed, and [Darius](/darius-cole/) recognized the difference because he'd been watching her perform for four months and the absence of it looked like a woman who'd been allowed to sit still.
 
 "She said thank you. Two words."
 

@@ -202,12 +202,13 @@ Published scenes from **Chicago Chronicles** in chronological order.
 
 ### Chapter 5 — Clean Hands
 
-*Jan 8, 1991, 4:28 PM through Jan 9, 1991, 4:28 PM.*
+*Jan 8, 1991, 4:28 PM through Jan 10, 1991, 4:28 PM.*
 
 | # | Scene | PC | Date |
 |---|---|---|---|
 | 65 | [The Recruiter](/posts/the-recruiter/) | Darius | Jan 8, 1991, 4:28 PM |
 | 66 | [The Nightclub](/posts/the-nightclub/) | Darius + Sable | Jan 9, 1991, 4:28 PM |
+| 67 | [The Succubus Club](/posts/the-succubus-club/) | Sable | Jan 10, 1991, 4:28 PM |
 
 ---
 

@@ -40,7 +40,7 @@ In April, at [The Torch](/locations/the-torch/), [Sable](/sable-price/)'s blood 
 
 A Thursday night. Three dancers on the runway, the usual crowd, [Victor](/npcs/victor-salonika/) polishing glasses with the efficiency of a man who'd been polishing glasses since Eisenhower. The jukebox switched tracks and somebody put on [Anita](/npcs/anita-wainwright/) Baker, and one of the dancers caught the light at an angle that stopped being anatomy and became geometry, the body in motion transcribing something the eye couldn't name and the mind couldn't hold, and [Sable](/sable-price/)'s Toreador blood grabbed her by the jaw and said *look*.
 
-She froze. Mid-sentence, mid-word, mid-breath she didn't need. The entrancement took her the way it always took her: total, without warning, the beauty pouring into the space behind her eyes and filling it until there was no room for anything else. No will. No defense. No Sable. Just the looking, and the thing being looked at, and the annihilation of the distance between them.
+She froze. Mid-sentence, mid-word, mid-breath she didn't need. The entrancement took her the way it always took her: total, without warning, the beauty pouring into the space behind her eyes and filling it until there was no room for anything else. No will. No defense. No [Sable](/sable-price/). Just the looking, and the thing being looked at, and the annihilation of the distance between them.
 
 [Darius](/darius-cole/) was sitting across from her.
 
@@ -48,13 +48,13 @@ He saw it happen. The sentence stopping. The eyes locking. The body going rigid 
 
 He watched. Thirty seconds, a minute, the time it takes to read a paragraph. He studied her the way he studied everything: as information. The vulnerability registered. The helplessness filed. The specific mechanics of the Toreador weakness cataloged and indexed alongside the sound of her voice and the way she tilted her head when she was lying and the exact width of the smile she used when she meant it versus the one she used when she didn't.
 
-Then he moved. Shifted his body to block the sight line between Sable and the room. Put himself between her frozen form and every mortal eye in The Torch. Held the position until the entrancement broke and she surfaced, gasping, the world rushing back in like water into a vacuum.
+Then he moved. Shifted his body to block the sight line between Sable and the room. Put himself between her frozen form and every mortal eye in [The Torch](/locations/the-torch/). Held the position until the entrancement broke and she surfaced, gasping, the world rushing back in like water into a vacuum.
 
 She looked at him. He looked at her. His face was the face of a man who'd just learned something valuable.
 
 Not *are you okay*. Not *what happened*. Not the face of a man who'd watched someone he cared about disappear. The face of a man who'd watched something interesting and filed it for later.
 
-He'd cared. He'd acted. But the thirty seconds where he watched came before the thirty seconds where he helped, and Sable had been watched her entire life by men who were calculating what she was worth before they decided what to do with her. The difference between Darius and every man at The Oasis was not that he was better. It was that he was better at it.
+He'd cared. He'd acted. But the thirty seconds where he watched came before the thirty seconds where he helped, and Sable had been watched her entire life by men who were calculating what she was worth before they decided what to do with her. The difference between [Darius](/darius-cole/) and every man at The Oasis was not that he was better. It was that he was better at it.
 
 They didn't discuss it. They ordered drinks neither of them would finish and talked about the weather and the conversation had a new shape: the shape of something that had been weighed and found to have a price.
 

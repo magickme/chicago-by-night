@@ -32,7 +32,7 @@ The study. The self-portrait. The lamp. [Modius](/npcs/modius/) behind the desk 
 
 "Mine for now. Call it a fire under my ass to hustle harder."
 
-[Modius](/npcs/modius/) read the aura. Saw the evasion and the pride and the genuine urgency about the FBI, and underneath all of it the thread of concealment that lived in Darius's blood like a watermark, and the prince decided — tonight, not forever — to accept the win without auditing it.
+[Modius](/npcs/modius/) read the aura. Saw the evasion and the pride and the genuine urgency about the FBI, and underneath all of it the thread of concealment that lived in [Darius](/darius-cole/)'s blood like a watermark, and the prince decided — tonight, not forever — to accept the win without auditing it.
 
 He granted the feeding rights. Annual. Renewable. His generosity, not [Lucian](/npcs/lucian/)'s victory. Then he stood and said: "You will explain to me, at some point, how a twelfth-generation orphan who has been in my city for one year has the money, the connections, and the audacity to broker a deal between the two oldest powers in Gary."
 
@@ -46,7 +46,7 @@ He shook his head. "You remind me of someone."
 
 For one second something moved behind the prince's face that Darius couldn't read. Memory or regret or the specific loneliness of a man who has outlived every protégé he ever made. Then gone.
 
-Modius extended his hand. A prince offering a handshake to a neonate. In eighty years of court this gesture had happened fewer than a dozen times. Darius took it. The grip was cool and firm and meant exactly what it looked like, which in the Jyhad meant it could mean anything.
+[Modius](/npcs/modius/) extended his hand. A prince offering a handshake to a neonate. In eighty years of court this gesture had happened fewer than a dozen times. Darius took it. The grip was cool and firm and meant exactly what it looked like, which in the Jyhad meant it could mean anything.
 
 "File the paperwork. Deliver my terms to [Lucian](/npcs/lucian/). Brief [Victor](/npcs/victor-salonika/) on the FBI. And Warren — next time you save my club, perhaps call ahead."
 

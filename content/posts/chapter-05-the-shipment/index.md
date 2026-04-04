@@ -18,7 +18,7 @@ The second wrong thing was the man behind the pallets.
 
 [Darius](/darius-cole/) almost missed him. He was good — crouched low, leather jacket, no badge, no flashlight, just a shape in the shadow of stacked wood that didn't belong to the geometry of the dock. But [Darius](/darius-cole/) had spent eleven nights building a map of this place in his head, and the shape was new, and the shape was breathing, and breathing meant alive, and alive at Dock 7 at midnight on a Sunday meant trouble.
 
-[Detective](/npcs/detective-wilks/) [Gregory Stephens](/npcs/gregory-stephens/). [Evelyn](/npcs/evelyn-stephens/)'s brother. Chicago PD, no jurisdiction in Gary, no business at the docks, and yet here he was, watching the same containers Darius had come to watch. The man who knew about Kindred. The man who'd followed his sister's trail into the dark and kept going.
+[Detective](/npcs/detective-wilks/) [Gregory Stephens](/npcs/gregory-stephens/). [Evelyn](/npcs/evelyn-stephens/)'s brother. Chicago PD, no jurisdiction in Gary, no business at the docks, and yet here he was, watching the same containers [Darius](/darius-cole/) had come to watch. The man who knew about Kindred. The man who'd followed his sister's trail into the dark and kept going.
 
 Two predators in the same blind. Neither one aware of the other. And behind both of them, in the container with the open mouth, something was sleeping in the earth.
 

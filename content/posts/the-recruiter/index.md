@@ -20,11 +20,11 @@ The Cutlass started on the second try. He let the defroster work a circle in the
 
 Call night.
 
-The Succubus Club was quieter on a Tuesday but not quiet. Industrial music on the main floor, the bar three-quarters occupied, the air thick with clove smoke and the undercurrent only dead things register -- old blood, cold skin, the static-charge wrongness of too many predators in one room.
+The [Succubus Club](/locations/succubus-club/) was quieter on a Tuesday but not quiet. Industrial music on the main floor, the bar three-quarters occupied, the air thick with clove smoke and the undercurrent only dead things register -- old blood, cold skin, the static-charge wrongness of too many predators in one room.
 
 The Brujah was at the bar. Young, Black, mid-twenties at the Embrace, sitting three stools from the end with a flask of room-temperature blood open on the bartop. Not hiding it. The smell was copper and salt, consumed in public like a manifesto.
 
-The predatory aura hit the way it always did -- pressure, mutual recognition, the sizing-up that happens below thought. Darius catalogued him: Brujah, twelfth generation, confident. Threat assessment: low. He noted the man's flask, his loud voice, the way he tracked the room while appearing not to.
+The predatory aura hit the way it always did -- pressure, mutual recognition, the sizing-up that happens below thought. [Darius](/darius-cole/) catalogued him: Brujah, twelfth generation, confident. Threat assessment: low. He noted the man's flask, his loud voice, the way he tracked the room while appearing not to.
 
 His shoulders settled a half-inch. His jaw unclenched. He didn't notice either of these things.
 
@@ -36,11 +36,11 @@ His shoulders settled a half-inch. His jaw unclenched. He didn't notice either o
 
 Darius motioned him to sit. The Brujah moved without deference -- he sat the way you sit at a friend's table.
 
-[Gengis](/npcs/gengis/). That was his name. He gave it freely, along with everything else: Ballard's week as acting regent, the infrastructure he'd built, the three Primogen dinners, the narrative taking shape -- Gary's emissaries caused the crisis to manufacture the boon. None of it true the way Ballard told it, none of it a lie either.
+[Gengis](/npcs/gengis/). That was his name. He gave it freely, along with everything else: [Ballard](/npcs/ballard/)'s week as acting regent, the infrastructure he'd built, the three Primogen dinners, the narrative taking shape -- Gary's emissaries caused the crisis to manufacture the boon. None of it true the way Ballard told it, none of it a lie either.
 
 The driver was the key. [Belthazar](/npcs/belthazar/)'s ghoul. Walking around with holes in his head that weren't healing right. Ballard buying him drinks at Daley's and pulling threads.
 
-"Your Prince has been quiet," Gengis said. "Ballard hasn't."
+"Your Prince has been quiet," [Gengis](/npcs/gengis/) said. "Ballard hasn't."
 
 Darius asked why. Gengis told him: reputation, faction politics, access. A Brujah Anarch who wanted a seat at a table he'd never see the inside of, offering intelligence as an installment plan.
 
@@ -86,11 +86,11 @@ Clark and Randolph. A bank of payphones outside a Walgreens. Quarters into the s
 
 He started talking and she stopped him cold: "The hotel switchboard can hear us."
 
-He drove to the Allerton. Room 314, door cracked. Sable in the desk chair, glass of something she couldn't drink on the desk beside her for the look of it. He threw the deadbolt and told her everything.
+He drove to the Allerton. Room 314, door cracked. [Sable](/sable-price/) in the desk chair, glass of something she couldn't drink on the desk beside her for the look of it. He threw the deadbolt and told her everything.
 
 She listened. She asked the right questions. She had the plan half-built before he finished: the driver handled in two sessions, [Modius](/npcs/modius/) managed by phone, [Sir Henry](/npcs/sir-henry-johnson/) for Primogen intel, and they don't go back to Gary until their hands are clean.
 
-"Then we go to Lodin. Together. And we don't ask for the meeting -- we show up."
+"Then we go to [Lodin](/npcs/lodin/). Together. And we don't ask for the meeting -- we show up."
 
 The radiator clanked. Michigan Avenue hummed below. The couple in Room 7 had stopped fighting.
 

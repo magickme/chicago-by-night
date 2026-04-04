@@ -54,13 +54,13 @@ DeShawn twelve minutes later. Mansion quiet. One car, [Modius](/npcs/modius/)'s 
 
 [Allicia](/npcs/allicia/) in white. Hair pinned up. Playing something slow and minor-key that lived underneath the jukebox like a second conversation nobody else could hear. Her fingers hesitated on a chord when [Sable](/sable-price/) walked in, and that hesitation said everything about who she'd been waiting for.
 
-Three songs. A man tried to buy Sable a drink and she smiled him away. The jukebox played Bobby Brown and the piano disappeared under it. [Allicia](/npcs/allicia/) closed the fallboard with both hands and walked toward the back hallway without looking at her.
+Three songs. A man tried to buy [Sable](/sable-price/) a drink and she smiled him away. The jukebox played Bobby Brown and the piano disappeared under it. [Allicia](/npcs/allicia/) closed the fallboard with both hands and walked toward the back hallway without looking at her.
 
 Sable gave it thirty seconds and followed.
 
 The service door was propped open with a crate. [Allicia](/npcs/allicia/) was outside leaning against the wall where the shadow cut the sodium light in half. Up close and alone she was thinner. Eight days at the mansion had taken something out of her -- not blood, not weight, but the quality of presence that comes from choosing where you stand. She looked like a woman who'd been carefully maintained by someone who thought maintenance was love. Her skin was perfect. Her eyes were tired.
 
-Sable touched the side of her face. Thumb along the cheekbone. Allicia closed her eyes and leaned into it -- two ounces of pressure that said more than three spoken conversations -- and when she opened them they were wet, and she pressed her lips to the heel of Sable's palm in the gesture that meant *thank you for coming*.
+Sable touched the side of her face. Thumb along the cheekbone. [Allicia](/npcs/allicia/) closed her eyes and leaned into it -- two ounces of pressure that said more than three spoken conversations -- and when she opened them they were wet, and she pressed her lips to the heel of Sable's palm in the gesture that meant *thank you for coming*.
 
 Then two taps on her own sternum. A point at Sable. A touch to her lips and a shake of her head. *I need to tell you something. I can't say it here.*
 

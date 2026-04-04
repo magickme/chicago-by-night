@@ -12,11 +12,11 @@ description: "Darius hunts the club floor while Sable works the phones and the r
 
 ---
 
-They took the Buick. [Sable](/sable-price/) drove. Michigan Avenue to State Street, the lake wind cutting between buildings like it owned the corridor. The Succubus Club's neon bled pink and violet onto wet pavement.
+They took the Buick. [Sable](/sable-price/) drove. Michigan Avenue to State Street, the lake wind cutting between buildings like it owned the corridor. The [Succubus Club](/locations/succubus-club/)'s neon bled pink and violet onto wet pavement.
 
-Wednesday was looser than Tuesday. The doorman waved them through. Sable touched [Darius](/darius-cole/)'s elbow -- a gesture, not a grip -- and moved toward the back corridor. [Modius](/npcs/modius/) first. Then the room.
+Wednesday was looser than Tuesday. The doorman waved them through. [Sable](/sable-price/) touched [Darius](/darius-cole/)'s elbow -- a gesture, not a grip -- and moved toward the back corridor. [Modius](/npcs/modius/) first. Then the room.
 
-Darius took the bar.
+[Darius](/darius-cole/) took the bar.
 
 He ordered something he wouldn't drink and scanned the floor. Exits, money, threat, opportunity. The mortal crowd was young and fashionable and performing. The Kindred were the ones who didn't breathe between sentences, whose drinks didn't go down.
 
@@ -42,7 +42,7 @@ Two mouthfuls. The Beast wanted the third but the math didn't work -- the man ha
 
 ---
 
-In the back corridor, Sable held the receiver against her ear and listened to the line ring three times before Modius picked up.
+In the back corridor, Sable held the receiver against her ear and listened to the line ring three times before [Modius](/npcs/modius/) picked up.
 
 She opened with the Debussy -- the *Clair de Lune* voicing from October. He corrected her left hand technique with genuine pleasure: "What you lack is the cruelty to let the listener wait."
 
@@ -74,11 +74,11 @@ Sable sat across from him without asking.
 
 The smile started slow. "Valentino. 1987. I had to kill a man for it. Metaphorically."
 
-They spoke for an hour. The first twenty minutes were social -- a painter in Pilsen, [Annabelle](/npcs/annabelle-triabell/)'s poaching, the texture of the city's art scene. Sable mentioned Allicia's nocturnes and Sir listened to that with something careful in his face.
+They spoke for an hour. The first twenty minutes were social -- a painter in Pilsen, [Annabelle](/npcs/annabelle-triabell/)'s poaching, the texture of the city's art scene. Sable mentioned [Allicia](/npcs/allicia/)'s nocturnes and Sir listened to that with something careful in his face.
 
 Then the work.
 
-"Ballard held court at Daley's three nights running. Annabelle on Tuesday. [Critias](/npcs/critias/) on Wednesday. [Jackson](/npcs/kevin-jackson/) on Thursday." He counted on elegant fingers. "A man who just lost his regency doesn't dine with three Primogen in three nights unless he's selling something."
+"[Ballard](/npcs/ballard/) held court at Daley's three nights running. [Annabelle](/npcs/annabelle-triabell/) on Tuesday. [Critias](/npcs/critias/) on Wednesday. [Jackson](/npcs/kevin-jackson/) on Thursday." He counted on elegant fingers. "A man who just lost his regency doesn't dine with three Primogen in three nights unless he's selling something."
 
 The implication: the emissaries engineered the crisis to manufacture the boon.
 

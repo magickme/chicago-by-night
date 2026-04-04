@@ -33,4 +33,4 @@ ShowToc: false
 
 - [Valez](/npcs/carolina-valez/). Completely and without ambiguity. The building is his territory, his court, his statement.
 - Ghouls manage building security and control mortal access to the upper floors.
-- Visiting Bishops and pack leaders are guests, never residents. Valez does not share space.
+- Visiting Bishops and pack leaders are guests, never residents. [Valez](/npcs/carolina-valez/) does not share space.

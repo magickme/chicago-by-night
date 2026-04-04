@@ -41,5 +41,5 @@ ShowToc: false
 ## Who Controls It
 
 - [Khalid al-Rashid](/npcs/khalid-al-rashid/) holds absolute authority over the network. His word determines who enters, who trades, and who leaves with their memory intact.
-- The Nosferatu operate as a collective below him, but Khalid's intelligence apparatus is his own. Individual Nosferatu hold sections of tunnel as personal territory within the larger network.
+- The Nosferatu operate as a collective below him, but [Khalid](/npcs/khalid-al-rashid/)'s intelligence apparatus is his own. Individual Nosferatu hold sections of tunnel as personal territory within the larger network.
 - [Ublo-Satha](/npcs/ublo-satha/) occupies the deepest reaches by something closer to squatter's rights than formal claim. Khalid tolerates the arrangement. No one has asked [Ublo-Satha](/npcs/ublo-satha/)'s opinion on the matter.

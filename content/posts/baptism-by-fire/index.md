@@ -22,7 +22,7 @@ Stand where the exits stay visible. Never be trapped in the center of someone el
 
 Then [Juggler](/npcs/juggler/) broke the room open.
 
-Noise, mortals, [Evelyn](/npcs/evelyn-stephens/) exposed to every court eye worth fearing. The kind of disruption that turns hierarchy honest. In the spill and recoil and shouted contempt, Darius did what architecture does under stress: redistributed weight. Doorway. Sightline. Steward. Hall. Time purchased by seconds and used by other people for more dangerous work.
+Noise, mortals, [Evelyn](/npcs/evelyn-stephens/) exposed to every court eye worth fearing. The kind of disruption that turns hierarchy honest. In the spill and recoil and shouted contempt, [Darius](/darius-cole/) did what architecture does under stress: redistributed weight. Doorway. Sightline. Steward. Hall. Time purchased by seconds and used by other people for more dangerous work.
 
 [Annabelle](/npcs/annabelle-triabell/) arrived when the room was already wounded and made the wound ceremonial.
 
@@ -54,7 +54,7 @@ When [Juggler](/npcs/juggler/) detonated the evening, [Sable](/sable-price/) mov
 
 [Evelyn](/npcs/evelyn-stephens/) visible. Mortals loud. Every eye pulled off axis. For a few minutes the mansion stopped being court and became logistics. That was enough.
 
-[Allicia](/npcs/allicia/) did not ask where they were going. [Erichtho](/npcs/erichtho/) did not waste time pretending this was anything but surgery performed with no scalpel. Sable stood inside the borrowed privacy and watched the Tremere read a structure no one else in Gary had ever named correctly.
+[Allicia](/npcs/allicia/) did not ask where they were going. [Erichtho](/npcs/erichtho/) did not waste time pretending this was anything but surgery performed with no scalpel. [Sable](/sable-price/) stood inside the borrowed privacy and watched the Tremere read a structure no one else in Gary had ever named correctly.
 
 Fifty-two years.
 
@@ -68,7 +68,7 @@ The answer hurt because it was real. It also saved the question from turning sen
 
 When [Annabelle](/npcs/annabelle-triabell/) arrived, the room learned what rank looks like when it wears perfume.
 
-Sable did not mistake recognition for kindness. She only recognized that the woman from Chicago saw more than Modius saw and catalogued more carefully than [Sharon](/npcs/sharon-payne/) ever had.
+Sable did not mistake recognition for kindness. She only recognized that the woman from Chicago saw more than [Modius](/npcs/modius/) saw and catalogued more carefully than [Sharon](/npcs/sharon-payne/) ever had.
 
 By the end of the night Gary had made its decision. Modius's emissaries. Chicago bound. Letter sealed. Safe passage dressed up as duty.
 

@@ -26,7 +26,7 @@ He was four blocks from the cemetery when he started the sweep.
 
 The sedan was parked on Crane Street, the residential strip that ran along the cemetery's south boundary. Dark paint, American make — a Buick or an Oldsmobile, one of those mid-eighties sedans that looked like every other mid-eighties sedan, which was probably the point. Engine off. But the windshield was clear while every other car on the block had frost crawling up the glass. Someone was running the heater in intervals. Someone who understood that a fogged windshield was a tell and a frosted one was camouflage, but that a *clear* windshield in January meant body heat, which meant presence, and if you were a vampire with a predator's instinct sharpened by the blood, you could read that equation from a moving car at forty yards.
 
-Darius drove past without slowing. Turned right on Cleveland. Parked the Cutlass two blocks north, behind a dumpster at a closed laundromat. Sat in the dark and thought.
+[Darius](/darius-cole/) drove past without slowing. Turned right on Cleveland. Parked the Cutlass two blocks north, behind a dumpster at a closed laundromat. Sat in the dark and thought.
 
 Someone was watching the cemetery. A professional — the heater discipline proved that. Not a cop; cops sat in marked cars or unmarked Crown Vics, and they didn't park on residential streets for hours. Not a gang lookout; gang lookouts stood on corners and made noise.
 
@@ -56,7 +56,7 @@ He took out a notebook. Wrote something. Put the notebook away.
 
 Then he walked back to the Buick, and as he opened the driver's door his coat swung open and Darius saw two things.
 
-The first was a wooden stake in a belt holster, positioned for a cross-draw. Not a gun. A stake. Dane carried it the way Darius carried his pistol — always there, practiced angle, muscle memory in the draw. But Dane's weapon was a tool, not a prop. Dane had used his. Six times that anyone knew about.
+The first was a wooden stake in a belt holster, positioned for a cross-draw. Not a gun. A stake. [Dane](/npcs/sullivan-dane/) carried it the way Darius carried his pistol — always there, practiced angle, muscle memory in the draw. But Dane's weapon was a tool, not a prop. Dane had used his. Six times that anyone knew about.
 
 The second thing was a key fob clipped to his belt loop. Rectangular. Orange plastic. Motel key. From fifty yards Darius couldn't read the name, but the shape and color were distinctive. There were three motels on the Borman Expressway corridor that used orange plastic fobs. Darius knew this because he had cased every motel within ten miles of Gary during his first week in the city. It was what you did. It was how the architecture started.
 

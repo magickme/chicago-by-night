@@ -28,7 +28,7 @@ Harvey came back. Five suitcases for four visible people. He opened them one by 
 
 [Roarke](/npcs/roarke/) lied. Harvey didn't buy it. He started walking toward the alcove.
 
-Roarke stepped into his path and caught his eyes. The borrowed power in his blood reached out -- not warm, not cold, just *there* -- and something behind Harvey's face loosened like a knot pulled from the wrong end. The clipboard lowered. The pen stopped tapping.
+[Roarke](/npcs/roarke/) stepped into his path and caught his eyes. The borrowed power in his blood reached out -- not warm, not cold, just *there* -- and something behind Harvey's face loosened like a knot pulled from the wrong end. The clipboard lowered. The pen stopped tapping.
 
 Right, Harvey said. That's all in order. Welcome to England.
 
