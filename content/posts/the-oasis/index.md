@@ -44,7 +44,7 @@ Silence. The bass pulsed through the wall. The red lamp hummed.
 
 "What do you think he did?"
 
-A test. Not a question. [Sable](/sable-price/) could feel the weight of it. [Allicia](/npcs/allicia/) had come to the South Side of Chicago to sit in the back room of a strip club and ask one question, and the answer would determine whether Sable was worth talking to or just another piece of furniture the prince had moved from one room to another.
+A test. Not a question. [Sable](/sable-price/) could feel the weight of it. [Allicia](/npcs/allicia/) had come to the South Side of Chicago to sit in the back room of a strip club and ask one question, and the answer would determine whether [Sable](/sable-price/) was worth talking to or just another piece of furniture the prince had moved from one room to another.
 
 "He collected you. You were the most beautiful thing in Gary and he put you on a shelf. Then you stopped being new, and the shelf became a room, and the room became the mansion, and now you live inside the thing he built around you. And he gave your studio to the next one because keeping it empty would mean admitting he broke something."
 
@@ -90,7 +90,7 @@ She drove to Miller Beach. The mansion. The ghoul. The drawing room. [Modius](/n
 
 "Well?"
 
-She gave him the version she'd built on the drive south. Allicia was territorial. Proud. Wanted to see the replacement. Not a threat.
+She gave him the version she'd built on the drive south. [Allicia](/npcs/allicia/) was territorial. Proud. Wanted to see the replacement. Not a threat.
 
 "She said nothing else?"
 

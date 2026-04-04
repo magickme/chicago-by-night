@@ -34,11 +34,11 @@ He waited. The cold pressed against him and he let it. Patience was the discipli
 
 He waited another hour. The alley was dark and cold and smelled like grease and standing water. A rat the size of his fist ran along the base of the dumpster and disappeared into a hole that shouldn't have been big enough to hold it. [Darius](/darius-cole/) watched the front door and counted heartbeats he didn't have.
 
-At twenty past midnight they came out together. Stood by the Crown Vic talking. The older cop clapped Gregory on the shoulder and got in a blue Caprice and drove away.
+At twenty past midnight they came out together. Stood by the Crown Vic talking. The older cop clapped [Gregory](/npcs/gregory-stephens/) on the shoulder and got in a blue Caprice and drove away.
 
 Gregory stayed. He lit a cigarette and leaned against the Crown Vic with the folder on the hood, and in the orange glow of the match his face looked ten years older than it probably was, the face of a man carrying a weight he'd picked up voluntarily because nobody else would carry it and he couldn't set it down.
 
-Darius walked out of the alley.
+[Darius](/darius-cole/) walked out of the alley.
 
 Twenty feet. Fifteen. His shoes on the asphalt. Gregory's head turning, the cigarette pausing, the recognition starting to build behind the eyes the way a wave builds before it breaks. The brow tightening. The jaw shifting. The hand moving toward the hip where the off-duty piece sat in its holster.
 

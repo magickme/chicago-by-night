@@ -84,7 +84,7 @@ The note on the counter. Block letters, ballpoint pen, no question marks because
 
 Then Amy. Three days without food. The blanket. The shaking. [Gloria Serrano](/npcs/gloria-serrano/) arrived at two-fifteen with a medical bag and hands that found veins on the first try and a diagnosis that landed in the room like something falling from a height: dissociative, acute, severe. Stable isn't recovering. Stable is holding the line.
 
-The IV bag hung from a nail in the wall where a painting used to be. [Sable](/sable-price/) watched the saline drip into a girl who had retreated so far inside herself that the aura — when Sable looked, when she let the Auspex open and the colors bleed through skin — was dim. Not flickering. Dim. The light pulling inward the way a candle pulls inward before it goes out. Gray over white over something so faint it barely registered, and the faintness was the message: Amy was leaving her body the way you leave a house you've decided you'll never be safe in. Going somewhere internal where the chain and the storage unit couldn't follow. The not-eating wasn't a symptom. It was a border she was drawing with the last decision she was capable of making.
+The IV bag hung from a nail in the wall where a painting used to be. [Sable](/sable-price/) watched the saline drip into a girl who had retreated so far inside herself that the aura — when [Sable](/sable-price/) looked, when she let the Auspex open and the colors bleed through skin — was dim. Not flickering. Dim. The light pulling inward the way a candle pulls inward before it goes out. Gray over white over something so faint it barely registered, and the faintness was the message: Amy was leaving her body the way you leave a house you've decided you'll never be safe in. Going somewhere internal where the chain and the storage unit couldn't follow. The not-eating wasn't a symptom. It was a border she was drawing with the last decision she was capable of making.
 
 And the one thing keeping the flame lit — the only thing — was the heartbeat on the mattress ten feet away. The one face she'd seen that wasn't holding a chain.
 
@@ -118,11 +118,11 @@ Five forty-eight. Through the cinderblock, the pressure change. The sun clearing
 
 Twelve hours. A machine shop in East Chicago. Two vampires sitting on a concrete floor in the dark because they'd driven two human girls to Englewood and the night wasn't long enough and the math didn't work and the price of doing the right thing — if it was the right thing, if Humanity 5 could still calculate right from merely expedient — was twelve hours in a building that smelled like rust and old grease with the sun outside trying every crack and seam for a way in.
 
-Darius leaned against the wall. Sable leaned against the drill press. The silence between them was the particular silence of two people who had been running at full speed for seven hours and had stopped and had nothing to say because everything that needed saying had been said on payphones and in cars and the only thing left was the waiting.
+[Darius](/darius-cole/) leaned against the wall. Sable leaned against the drill press. The silence between them was the particular silence of two people who had been running at full speed for seven hours and had stopped and had nothing to say because everything that needed saying had been said on payphones and in cars and the only thing left was the waiting.
 
 She closed her eyes. Not sleeping — the dead don't sleep. Resting in the way the dead rest, which is a stillness so complete that the building could mistake her for one of its machines.
 
-Twelve hours. And then the night would come back and there would be Modius and [Shepard](/npcs/william-shepard/) and Webb and [Allicia](/npcs/allicia/) and Denise and [the Torch](/locations/the-torch/) and the pipeline and Chicago watching and the clock ticking toward something that Sable could feel approaching the way she could feel the sun through cinderblock — not visible yet, not named, but present.
+Twelve hours. And then the night would come back and there would be [Modius](/npcs/modius/) and [Shepard](/npcs/william-shepard/) and Webb and [Allicia](/npcs/allicia/) and Denise and [the Torch](/locations/the-torch/) and the pipeline and Chicago watching and the clock ticking toward something that Sable could feel approaching the way she could feel the sun through cinderblock — not visible yet, not named, but present.
 
 She'd placed the girls. She'd fed the Prince his report. She'd fed herself. She'd survived the night.
 

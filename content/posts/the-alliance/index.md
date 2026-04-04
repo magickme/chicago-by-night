@@ -40,7 +40,7 @@ The words landed like stones on still water. Not an offer. A confession. She was
 
 Four words. The fourth time. She had refused the prince of Gary. The woman who hadn't defied her sire in decades, who was three steps bound and had no leverage and no allies and no way out, had told [Modius](/npcs/modius/) *no*. That was why [Victor](/npcs/victor-salonika/) called. That was why the side entrance. She wasn't just reaching out. She was burning a bridge, and she wanted [Sable](/sable-price/) to know before the fire reached them both.
 
-Sable slid the robe off one shoulder. Then the other. Green silk pooling on the window seat. "May I?"
+[Sable](/sable-price/) slid the robe off one shoulder. Then the other. Green silk pooling on the window seat. "May I?"
 
 The smallest nod.
 
@@ -52,7 +52,7 @@ Sable surfaced slowly. The room reassembled. She spent the blood and felt the wa
 
 "Well," she said. "Now you see how I see you."
 
-Allicia's hand found Sable's cheek where the warmth was. She traced the blush the way a painter traces a brushstroke she didn't make. And then she laughed. Small. Barely a sound. More breath than voice. But a laugh, and Sable was certain nobody in this house had heard Allicia laugh in decades.
+[Allicia](/npcs/allicia/)'s hand found Sable's cheek where the warmth was. She traced the blush the way a painter traces a brushstroke she didn't make. And then she laughed. Small. Barely a sound. More breath than voice. But a laugh, and Sable was certain nobody in this house had heard Allicia laugh in decades.
 
 She pressed her lips to Sable's forehead. Held up five fingers.
 

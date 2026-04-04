@@ -32,7 +32,7 @@ The first time, he stopped short in the open, exposed, the wall ten feet away in
 
 He let the blood do what the skill couldn't. Felt it surge into his legs, his ankles, his feet — the stolen vitae remembering what dexterity felt like, sharpening his proprioception, making each step lighter by a fraction that mattered. He moved again.
 
-The stack of pallets was invisible in the shadow. He caught it with his shin. The top pallet slid, tilted, and fell three feet to the concrete, and the sound it made was the loudest thing Darius had ever heard. A flat wooden crack that bounced off every steel surface on the dock and came back as an echo that said *you are here and everyone knows it.*
+The stack of pallets was invisible in the shadow. He caught it with his shin. The top pallet slid, tilted, and fell three feet to the concrete, and the sound it made was the loudest thing [Darius](/darius-cole/) had ever heard. A flat wooden crack that bounced off every steel surface on the dock and came back as an echo that said *you are here and everyone knows it.*
 
 [Gregory Stephens](/npcs/gregory-stephens/) was ten feet away, running — not toward Darius but away from something behind him, the dock crew, two big men, one with a crowbar — and the crack stopped him like a wall. He spun. His hand went to his hip. His eyes found the gap between the containers where Darius was standing in the dark, and for one second that lasted much longer than a second, they looked at each other.
 

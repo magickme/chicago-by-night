@@ -52,7 +52,7 @@ On the easel by the window, a canvas under a drop cloth. She lifted the corner.
 
 He'd been painting her for months. The woman he bonded in 1941, rendered over and over in layers of oil and blood, dissolving into the city he'd failed to hold.
 
-Sable replaced the cloth. Exactly as it was.
+[Sable](/sable-price/) replaced the cloth. Exactly as it was.
 
 At the end of the hallway, behind a closed door, [Allicia](/npcs/allicia/)'s stillness registered on Sable's senses the way a held note registers on a tuned ear. The particular density of a body waiting in a dark room.
 
@@ -102,7 +102,7 @@ He was thinking about the woman at the piano.
 
 [Danov](/npcs/alexander-danov/) had materialized in the semicircle without [Darius](/darius-cole/) registering his arrival. The Nosferatu's face was a ruin, the kind of ugly that went past grotesque into something geological. But the eyes. Deep-set gray, steady, the eyes of a man who'd been watching things for six centuries and had not yet seen enough to stop.
 
-Modius's gaze found [Darius](/darius-cole/). "Mr. Birch. How good of you to join us again. I was beginning to worry."
+[Modius](/npcs/modius/)'s gaze found [Darius](/darius-cole/). "Mr. Birch. How good of you to join us again. I was beginning to worry."
 
 Light tone. Heavy freight. Every Kindred in the room heard the leash check. [Darius](/darius-cole/) met it with a nod. Low enough for respect. Spine straight enough for something else. He settled back in his chair with the unhurried ease of a man whose three weeks had been full, and Modius held his gaze for two beats and moved on, because a prince who pushes a neonate in public over a missed court looks petty, and Modius had spent two centuries avoiding that.
 
@@ -132,7 +132,7 @@ The silence lasted three seconds that felt geological.
 
 "I just came to pay respect to the King of the Docks. Respect, [Lucian](/npcs/lucian/)."
 
-The elder turned the phrase over. "King of the Docks. I haven't heard that one." A pause that could have held a small country. "The docks don't need a king. They need workers who show up and freight that moves." He looked at Darius the way a mountain looks at a particular rock and decides it can stay where it is. "But respect is noted."
+The elder turned the phrase over. "King of the Docks. I haven't heard that one." A pause that could have held a small country. "The docks don't need a king. They need workers who show up and freight that moves." He looked at [Darius](/darius-cole/) the way a mountain looks at a particular rock and decides it can stay where it is. "But respect is noted."
 
 He turned his gaze back to the room. Conversation concluded. Darius walked away with exactly what he'd given: acknowledgment, and the understanding that next time he'd need to bring something heavier than a greeting.
 
@@ -180,7 +180,7 @@ Sable crossed the ballroom to the piano. She sat on the left side of the bench, 
 
 Two Toreador women at a piano bench. The most natural composition in the world. Nobody would question it.
 
-Allicia's hands contracted in her lap. The knuckles whitened for half a second. She looked at Sable. She looked at Modius across the room. She looked back.
+[Allicia](/npcs/allicia/)'s hands contracted in her lap. The knuckles whitened for half a second. She looked at Sable. She looked at Modius across the room. She looked back.
 
 She shook her head. Once. Small.
 
@@ -192,7 +192,7 @@ Sable sat alone on the bench. Five seconds. Then she stood and smoothed her own 
 
 ---
 
-Court ended the way court ends. [Lucian](/npcs/lucian/) rose and the room's center of gravity shifted. [Claudette](/npcs/claudette-mallet/) followed without a word between them. Danov was gone before anyone noticed his chair was empty. Modius in his armchair making final pronouncements to an audience of two neonates and a ghoul.
+Court ended the way court ends. [Lucian](/npcs/lucian/) rose and the room's center of gravity shifted. [Claudette](/npcs/claudette-mallet/) followed without a word between them. [Danov](/npcs/alexander-danov/) was gone before anyone noticed his chair was empty. Modius in his armchair making final pronouncements to an audience of two neonates and a ghoul.
 
 "Next month. First Friday. I expect you all."
 

@@ -32,7 +32,7 @@ A silence opened in the room. [Nicolai](/npcs/nicolai/) had a way of using silen
 
 Tomás didn't move.
 
-"What didn't you tell me?" Nicolai said.
+"What didn't you tell me?" [Nicolai](/npcs/nicolai/) said.
 
 The boy's head tilted three degrees. A gesture Tomás had seen once before, in the basement, when Nicolai found a contaminated blood sample and wanted to know who had mislabeled it. Not anger. Curiosity operating as threat.
 
@@ -54,13 +54,13 @@ He went back to the [Succubus Club](/locations/succubus-club/).
 
 He told himself it was follow-up collection. The emissaries might still be there, the [Brennon](/npcs/brennon-thornhill/) relationship needed reinforcement, and he'd identified three gaps in his initial assessment that a second pass could fill. All of which was true. None of which was why he parked the Crown Vic on Dearborn and walked two blocks through falling snow to push through the club's front door at 12:40 AM.
 
-Brennon was behind the bar. He looked up when Tomás came in and said, "Your friend left about an hour ago." The emphasis on *friend* carried exactly the weight Brennon intended it to carry.
+[Brennon](/npcs/brennon-thornhill/) was behind the bar. He looked up when Tomás came in and said, "Your friend left about an hour ago." The emphasis on *friend* carried exactly the weight Brennon intended it to carry.
 
 From the back hallway, the scratch of pencil on paper. [Drummond](/npcs/edgar/) logging the Tremere's second visit. Two data points where one should have been. The unforced error.
 
 ---
 
-He found Brennon in the back corridor twenty minutes later. The Ventrue was checking camera feeds on a monitor tucked behind the office door, the screen casting blue-white light across his face. Tomás leaned against the doorframe and offered the first piece of currency: Drummond's surveillance pattern. Back hallway to balcony, twelve-minute rotation, pocket notebook with columnar entries. The fat man was cataloguing traffic by affiliation and logging it somewhere outside the club.
+He found Brennon in the back corridor twenty minutes later. The Ventrue was checking camera feeds on a monitor tucked behind the office door, the screen casting blue-white light across his face. Tomás leaned against the doorframe and offered the first piece of currency: [Drummond](/npcs/edgar/)'s surveillance pattern. Back hallway to balcony, twelve-minute rotation, pocket notebook with columnar entries. The fat man was cataloguing traffic by affiliation and logging it somewhere outside the club.
 
 Brennon listened without expression. Then he reciprocated, because that was how the economy worked between professionals.
 
@@ -74,7 +74,7 @@ Tomás was turning to leave when Brennon said, "Grace." He pointed to the monito
 
 [Annabelle](/npcs/annabelle-triabell/). [Ballard](/npcs/ballard/). [Portia](/npcs/portia/). [Sir Henry](/npcs/sir-henry-johnson/).
 
-Drummond was double-reporting. To Annabelle, who'd placed him, and to someone whose priorities required tracking all four Primogens simultaneously.
+Drummond was double-reporting. To [Annabelle](/npcs/annabelle-triabell/), who'd placed him, and to someone whose priorities required tracking all four Primogens simultaneously.
 
 Tomás filed the image. Brennon watched him file it. Neither said the name neither needed to say.
 
@@ -134,7 +134,7 @@ Three hours in the silver circle. The chantry basement, two levels below the bui
 
 The lineage arrived face by face.
 
-The Sheriff was [Thomas](/npcs/thomas-gerhieren/) S. Ewell. Eighth generation. The name landed with a date: 1908, the year Ballard recruited him by paying him to betray his own sire. Before that: Alexis Blanc. Seventh generation, French, Brujah. Paris, 1848. A revolutionary who made the mistake of siring a man who could be bought. Beyond Blanc the faces blurred, sixth generation, fifth, the blood thinning into distances Tomás's three successes couldn't resolve.
+The Sheriff was [Thomas](/npcs/thomas-gerhieren/) S. Ewell. Eighth generation. The name landed with a date: 1908, the year [Ballard](/npcs/ballard/) recruited him by paying him to betray his own sire. Before that: Alexis Blanc. Seventh generation, French, Brujah. Paris, 1848. A revolutionary who made the mistake of siring a man who could be bought. Beyond Blanc the faces blurred, sixth generation, fifth, the blood thinning into distances Tomás's three successes couldn't resolve.
 
 The bonds came next. [Lodin](/npcs/lodin/)'s leash was the first thing the ritual found, because it was the loudest: Step 3, full, decades old, baked into the blood like calcium into bone. The Sheriff had belonged to the Prince the way a tool belongs to the hand that uses it.
 

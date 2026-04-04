@@ -50,7 +50,7 @@ And in the bedroom, visible through a gap in the window covering: a loose floorb
 
 ---
 
-Darius went to the front door. Touched the ward pouch. The current hit his hand like frozen electricity, the blood recoiling, the Beast surging for half a second before he let go. A wind chime inside sounded one clear note.
+[Darius](/darius-cole/) went to the front door. Touched the ward pouch. The current hit his hand like frozen electricity, the blood recoiling, the Beast surging for half a second before he let go. A wind chime inside sounded one clear note.
 
 The door opened. [John Wierus](/npcs/john-wierus/) stood in the frame with a shotgun and the eyes of a man who had been waiting for this visit.
 
@@ -106,7 +106,7 @@ The fire burned down. Darius's hands were shaking. The psychic contact had left 
 
 He wasn't. He would be.
 
-Sable sat on the concrete beside him. The Wasteland was quiet. The ore smelter's ruined walls held the heat and the ash and the two of them, and for a while neither spoke because the silence was enough.
+[Sable](/sable-price/) sat on the concrete beside him. The Wasteland was quiet. The ore smelter's ruined walls held the heat and the ash and the two of them, and for a while neither spoke because the silence was enough.
 
 They had operated as a unit. No agreement, no discussion, no handshake. Darius at the front table keeping a sorcerer talking while Sable moved through the back of his house and stole the thing that held a monster in the world. The coterie that formed the way coteries actually form — not in a prince's ballroom with witnesses and protocol, but in a house on Pennsylvania Avenue at two in the morning when the only alternative was letting something terrible keep walking.
 

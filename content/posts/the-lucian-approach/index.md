@@ -74,7 +74,7 @@ The hum of the fluorescent in the outer office. The distant cycling of machinery
 
 "A way to survive in Gary. Domain."
 
-Lucian opened a desk drawer. Pulled out a business card. Plain white. Black ink. A phone number and nothing else. He set it on the edge of the desk.
+[Lucian](/npcs/lucian/) opened a desk drawer. Pulled out a business card. Plain white. Black ink. A phone number and nothing else. He set it on the edge of the desk.
 
 "Call that number Thursday. After midnight. I'll tell you where to meet."
 
@@ -84,4 +84,4 @@ He didn't explain. Didn't qualify.
 
 [Darius](/darius-cole/) took the card. Stood. Nodded once. Walked through the outer office, which was empty now, [Claudette](/npcs/claudette-mallet/) gone, her desk pushed back, and out into the sodium-lit night where the container cranes stood like gallows against the lake sky.
 
-The Cutlass. The Buffington corridor heading west. In his coat pocket: a business card with no name on it. In his head: berth 7, Friday, two AM, nothing on paper. In his gut: the particular weight of a man who'd been studied by something older than the country he was born in and found interesting enough to keep alive, which was not the same thing as being found trustworthy, and the difference between the two was the distance between a phone number and a harbor floor, and the man from Mombasa had traveled that distance in eleven years, and Darius intended to be smarter than the man from Mombasa, and the intention was the first honest thing he'd brought to the docks tonight, and Lucian had seen it, and that was either the beginning of something or the end of everything, and Darius wouldn't know which until Thursday.
+The Cutlass. The Buffington corridor heading west. In his coat pocket: a business card with no name on it. In his head: berth 7, Friday, two AM, nothing on paper. In his gut: the particular weight of a man who'd been studied by something older than the country he was born in and found interesting enough to keep alive, which was not the same thing as being found trustworthy, and the difference between the two was the distance between a phone number and a harbor floor, and the man from Mombasa had traveled that distance in eleven years, and [Darius](/darius-cole/) intended to be smarter than the man from Mombasa, and the intention was the first honest thing he'd brought to the docks tonight, and Lucian had seen it, and that was either the beginning of something or the end of everything, and Darius wouldn't know which until Thursday.

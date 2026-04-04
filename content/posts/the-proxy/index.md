@@ -38,7 +38,7 @@ Then he stopped. Looked up.
 
 The question wasn't about the insurance.
 
-Darius looked at Marcus Webb. His mortal right hand. The man who had filed incorporation papers in two states, who had driven to Gary on a Saturday because a phone call told him to, who had sat in a bare apartment for eight hours without food or explanation and was still here, still holding the folder. The closest thing [Darius Cole](/darius-cole/) had to a friend on either side of the grave.
+[Darius](/darius-cole/) looked at Marcus Webb. His mortal right hand. The man who had filed incorporation papers in two states, who had driven to Gary on a Saturday because a phone call told him to, who had sat in a bare apartment for eight hours without food or explanation and was still here, still holding the folder. The closest thing [Darius Cole](/darius-cole/) had to a friend on either side of the grave.
 
 He caught Webb's eyes. Held them.
 

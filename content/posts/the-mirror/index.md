@@ -100,7 +100,7 @@ The ghoul appeared in the hallway.
 
 ---
 
-Seventy-fifth Street. 1:15 in the morning. Sable parked the Buick across the street from The Oasis with the engine running and the headlights off and looked at the building where she used to take her clothes off for money.
+Seventy-fifth Street. 1:15 in the morning. [Sable](/sable-price/) parked the Buick across the street from The Oasis with the engine running and the headlights off and looked at the building where she used to take her clothes off for money.
 
 The sign hadn't changed. THE OASIS in pink neon, the S flickering. Three cars in the lot. A bouncer she didn't recognize on a stool by the front door, reading a newspaper under the awning light. The bass line of whatever the DJ was playing vibrated through the brick and into the asphalt and up through the Buick's chassis into her hands on the steering wheel.
 
@@ -120,7 +120,7 @@ Sable sat in the Buick with the heater pushing air against legs that couldn't fe
 
 She was faster now. Stronger. She had teeth that could open his throat and a discipline that could make him worship her until she told him to stop. But her hands were shaking on the steering wheel, and the shaking had nothing to do with what she was and everything to do with what she had been, and the distance between those two things was not as wide as she wanted it to be.
 
-Tomorrow night she had to walk into that building and sit in the back room with Allicia and have a conversation about [Modius](/npcs/modius/) while Big Six sat somewhere on the other side of the wall, watching the new girls with the same flat patience he'd watched her, and he wouldn't know she was there, and she wouldn't be able to stop knowing he was.
+Tomorrow night she had to walk into that building and sit in the back room with [Allicia](/npcs/allicia/) and have a conversation about [Modius](/npcs/modius/) while Big Six sat somewhere on the other side of the wall, watching the new girls with the same flat patience he'd watched her, and he wouldn't know she was there, and she wouldn't be able to stop knowing he was.
 
 She pulled away from the curb without headlights. Two blocks before she turned them on. Old habit. The highway was empty. The lake was black.
 

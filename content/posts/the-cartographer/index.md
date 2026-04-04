@@ -64,7 +64,7 @@ He held up one finger. "One question. Answered truthfully."
 
 The cemetery went quiet. The rats stopped. The crow watched.
 
-Darius deflected. [Danov](/npcs/alexander-danov/) refused the deflection with the patience of a man who had been deflected by better liars for centuries. The conversation shifted — Darius asked about independence, about endgame, about where the information went once it entered the vault.
+[Darius](/darius-cole/) deflected. [Danov](/npcs/alexander-danov/) refused the deflection with the patience of a man who had been deflected by better liars for centuries. The conversation shifted — Darius asked about independence, about endgame, about where the information went once it entered the vault.
 
 [Danov](/npcs/alexander-danov/) told him. Independent. Not [Modius](/npcs/modius/)'s, not [Lucian](/npcs/lucian/)'s. Nosferatu. The economy underneath every other economy. "I'm building nothing. I'm maintaining. When Gary collapses — and the math is already done — the man who kept the records is the man Chicago calls first."
 
@@ -74,7 +74,7 @@ Whether Darius believed that was a calculation he ran in three seconds — the p
 
 "[Chuc Luc](/npcs/chuc-luc/)."
 
-He said it once and watched it land. Danov processed in three seconds — the name, the generation, the lineage, the implication. Ninth generation. Chicago. Ventrue. [Lodin](/npcs/lodin/)'s line. The dead sire story was furniture. The twelfth-generation cover was furniture. The pipeline wasn't a Gary initiative — it was a Chicago directive.
+He said it once and watched it land. [Danov](/npcs/alexander-danov/) processed in three seconds — the name, the generation, the lineage, the implication. Ninth generation. Chicago. Ventrue. [Lodin](/npcs/lodin/)'s line. The dead sire story was furniture. The twelfth-generation cover was furniture. The pipeline wasn't a Gary initiative — it was a Chicago directive.
 
 "That's worth paper."
 

@@ -78,7 +78,7 @@ She crossed to his booth and sat. He said her name like it was a compliment he d
 
 [Sir Henry](/npcs/sir-henry-johnson/) set down the glass. The warmth stayed on his face but something behind it sharpened.
 
-"They didn't *send* me. [Annabelle](/npcs/annabelle-triabell/) suggested. Which is how [Annabelle](/npcs/annabelle-triabell/) sends." He'd gone in September. Stayed three nights. The Aspire, the guest suite, the wallpaper peeling. "Modius in 1990 is a man running a court with no court. The city is hemorrhaging population. His domain isn't shrinking because someone is taking it. It's evaporating."
+"They didn't *send* me. [Annabelle](/npcs/annabelle-triabell/) suggested. Which is how [Annabelle](/npcs/annabelle-triabell/) sends." He'd gone in September. Stayed three nights. The Aspire, the guest suite, the wallpaper peeling. "[Modius](/npcs/modius/) in 1990 is a man running a court with no court. The city is hemorrhaging population. His domain isn't shrinking because someone is taking it. It's evaporating."
 
 He knew about [Allicia](/npcs/allicia/). Every Toreador elder between Chicago and Milwaukee knew. And nobody said it out loud, because what Modius had done to that woman was the kind of thing the clan didn't forgive but also didn't fix.
 
@@ -86,7 +86,7 @@ He knew about [Allicia](/npcs/allicia/). Every Toreador elder between Chicago an
 
 She asked what would happen if he lost her. *Theoretically.*
 
-"Gary without Allicia is Gary without Modius," Sir Henry said. "Not immediately — he'd rage first. But the infrastructure is gone. If you pull that pin, the whole thing comes apart inside a year."
+"Gary without [Allicia](/npcs/allicia/) is Gary without Modius," [Sir Henry](/npcs/sir-henry-johnson/) said. "Not immediately — he'd rage first. But the infrastructure is gone. If you pull that pin, the whole thing comes apart inside a year."
 
 For the clan, he said, it would be a reckoning. Fifty-two years. Everyone knew. Nobody acted. If she were suddenly free, the question wasn't what happened to Modius. The question was what it said about every Toreador who watched for half a century and did nothing.
 
@@ -130,7 +130,7 @@ He laid out the operational play — work the bartender, casual HUMINT, no Disci
 
 She grinned and went to work. Two minutes with [Jackie](/npcs/jackie-goodman/) behind the bar under four successes of Awe, and she came back with two names, two patterns, and the fact that [Drummond](/npcs/edgar/) had asked Brennon who she was.
 
-She gave him what she'd gotten. He gave her his analysis — Drummond asking [Thornhill](/npcs/brennon-thornhill/), not her, meant a cutout or a handler. Thornhill was the node.
+She gave him what she'd gotten. He gave her his analysis — [Drummond](/npcs/edgar/) asking [Thornhill](/npcs/brennon-thornhill/), not her, meant a cutout or a handler. [Thornhill](/npcs/brennon-thornhill/) was the node.
 
 "You're not recruiting me because you need an analyst," he said. "You're recruiting me because you need something I have access to that you don't."
 
@@ -146,4 +146,4 @@ She left him with the tab and walked into the snow on State Street. A quarter pa
 
 The melancholy from Ray's blood lingered. A man saving for someone. A woman in a photo with her hand raised.
 
-Sable pulled the coat tighter and walked north toward the Allerton through the falling snow. The city was a machine she didn't control yet. The word was *yet.*
+[Sable](/sable-price/) pulled the coat tighter and walked north toward the Allerton through the falling snow. The city was a machine she didn't control yet. The word was *yet.*

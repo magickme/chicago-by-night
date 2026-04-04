@@ -30,7 +30,7 @@ The trumpet stopped. A child's voice said "I don't want to play anymore." A comm
 
 ---
 
-In the Cutlass, between Broadway and Miller Beach, Darius listened to five people tell one story from five different angles. His instincts stripped the confusion and found the skeleton: the violent personality killed Ryan [Wierus](/npcs/john-wierus/) in the alley behind [The Torch](/locations/the-torch/) in March because the boy was wrong, because something inside the boy was reaching for the back door of the bar, because the part of [Falcon](/npcs/raymond-falcon/) that assessed threats did what it was built to do, fast and professional and without consulting the rest.
+In the Cutlass, between Broadway and Miller Beach, [Darius](/darius-cole/) listened to five people tell one story from five different angles. His instincts stripped the confusion and found the skeleton: the violent personality killed Ryan [Wierus](/npcs/john-wierus/) in the alley behind [The Torch](/locations/the-torch/) in March because the boy was wrong, because something inside the boy was reaching for the back door of the bar, because the part of [Falcon](/npcs/raymond-falcon/) that assessed threats did what it was built to do, fast and professional and without consulting the rest.
 
 [Falcon](/npcs/raymond-falcon/) didn't breach the Masquerade. He defended it. The brooch fell during the struggle. Nobody noticed. [Raymond](/npcs/raymond-falcon/) surfaced after the violence, saw the blood on his hands, and ran. He'd been on Broadway ever since, four blocks from the alley, close enough to walk back to the scene of something he couldn't remember clearly and couldn't stop remembering entirely.
 
@@ -42,7 +42,7 @@ The mansion. [Victor](/npcs/victor-salonika/) at the door. [Modius](/npcs/modius
 
 "One more thing, Your Grace. The federal agent watching your mansion. SA [William Shepard](/npcs/william-shepard/), FBI, Chicago field office. He investigated the alley behind [The Torch](/locations/the-torch/) in March. [Falcon](/npcs/raymond-falcon/) had his card."
 
-[Modius](/npcs/modius/) listened to Falcon's testimony for forty minutes. Five personalities, five versions, one truth. When it was over, the prince cleared Falcon. The kill was protective, not criminal, and punishing a man for defending the Rack was beneath the dignity of the office.
+[Modius](/npcs/modius/) listened to [Falcon](/npcs/raymond-falcon/)'s testimony for forty minutes. Five personalities, five versions, one truth. When it was over, the prince cleared Falcon. The kill was protective, not criminal, and punishing a man for defending the Rack was beneath the dignity of the office.
 
 Then [Modius](/npcs/modius/) looked at Darius and smiled. Not the performance. Not the calculation. The smile of a man who asked for a tool and received an instrument.
 

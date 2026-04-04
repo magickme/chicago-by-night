@@ -36,7 +36,7 @@ The question landed in the bar noise like a coin in a jukebox. [Victor](/npcs/vi
 
 "Never heard of him."
 
-Victor held the look. [Darius](/darius-cole/) held it back. The lie was simple and clean and Victor filed it and nodded and went back to work, and the best briefing [Darius](/darius-cole/) could have given was the one he didn't give. What Victor didn't know, Victor couldn't say. What Victor couldn't say, [Shepard](/npcs/william-shepard/) couldn't pull out of him with a subpoena. Ignorance was the only armor that couldn't be beaten by a federal judge.
+[Victor](/npcs/victor-salonika/) held the look. [Darius](/darius-cole/) held it back. The lie was simple and clean and Victor filed it and nodded and went back to work, and the best briefing [Darius](/darius-cole/) could have given was the one he didn't give. What Victor didn't know, Victor couldn't say. What Victor couldn't say, [Shepard](/npcs/william-shepard/) couldn't pull out of him with a subpoena. Ignorance was the only armor that couldn't be beaten by a federal judge.
 
 Broadway south to Fifth. The laundromat closed since '88. The payphone outside with a receiver that smelled like rain and cigarettes and the particular neglect of a phone company that services dead neighborhoods. Quarters in the slot. The Argyle Street number from memory.
 
@@ -66,7 +66,7 @@ He explained it the way you explain a bet to a man who plays odds — [the Torch
 
 "What else."
 
-Darius emptied the magazine. The FBI first — [Shepard](/npcs/william-shepard/), Lakeside, the Warren Birch name on the filing. The cover story at three-six, two elders holding the same question about a twelfth-generation nobody with tenth-generation money. Then Marcus Webb.
+[Darius](/darius-cole/) emptied the magazine. The FBI first — [Shepard](/npcs/william-shepard/), Lakeside, the Warren Birch name on the filing. The cover story at three-six, two elders holding the same question about a twelfth-generation nobody with tenth-generation money. Then Marcus Webb.
 
 He said the name and the line went quiet.
 

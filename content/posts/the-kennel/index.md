@@ -126,7 +126,7 @@ That was worse. Being entranced was the easy version. You fell into beauty the w
 
 She kissed her.
 
-Allicia's mouth was cool and tasted like Pete's blood — copper, youth, fear — and underneath it something older, something that had been alive in the 1930s when the jazz was real and the gin was bathtub and the women who kissed women in speakeasies did it knowing the world would burn them for it. She kissed back with the precision of a woman who had learned patience from decades of not being touched by anyone who wasn't also her jailer, and the precision dissolved, and what was underneath was not precise at all.
+[Allicia](/npcs/allicia/)'s mouth was cool and tasted like Pete's blood — copper, youth, fear — and underneath it something older, something that had been alive in the 1930s when the jazz was real and the gin was bathtub and the women who kissed women in speakeasies did it knowing the world would burn them for it. She kissed back with the precision of a woman who had learned patience from decades of not being touched by anyone who wasn't also her jailer, and the precision dissolved, and what was underneath was not precise at all.
 
 They moved together on the chaise. Hands on skin. Mouths on necks. The architecture of blood and desire collapsing into a single structure that had no name in the language of the Camarilla because the Camarilla had no word for what happened when two women who had been owned by the same kind of men discovered they could own each other instead, and the owning was not ownership but something gentler and more dangerous.
 
@@ -134,7 +134,7 @@ Allicia said one word. "Please."
 
 Nine.
 
-[Sable](/sable-price/) offered her neck, and Allicia took it — slow, deliberate, two mouthfuls, the bond between them tightening from cord to cable. Then Sable bit Allicia's neck. Not because she was hungry. Because the symmetry demanded it. Because two Toreador in a room full of a dead man's paintings knew that the most beautiful thing in the world was not a painting but a circuit — blood moving between two bodies in a loop that was older than language and more honest than anything either of them would ever say.
+[Sable](/sable-price/) offered her neck, and Allicia took it — slow, deliberate, two mouthfuls, the bond between them tightening from cord to cable. Then [Sable](/sable-price/) bit Allicia's neck. Not because she was hungry. Because the symmetry demanded it. Because two Toreador in a room full of a dead man's paintings knew that the most beautiful thing in the world was not a painting but a circuit — blood moving between two bodies in a loop that was older than language and more honest than anything either of them would ever say.
 
 Allicia's blood tasted like old music. Like a chord held for fifty years in a dark room. Like the specific loneliness of a woman who had been owned so long she'd forgotten what her own name sounded like when someone said it with tenderness.
 

@@ -54,7 +54,7 @@ The car was quiet. The engine idled. Somewhere south, past the access road, past
 
 [Darius](/darius-cole/) looked at the three fingers. Each one a condition. Each one reasonable, which was the dangerous part, because reasonable conditions from a sixth-generation Gangrel who controlled the waterfront of a dying city meant the unreasonable part was hidden in the space between the words. The first two were rent. The third was intelligence. And intelligence, once given, became a lever that could be pulled from any direction.
 
-"First two, yes," Darius said. "Two thousand, first of the month, lockbox. Quiet waterfront. That's infrastructure. I understand infrastructure."
+"First two, yes," [Darius](/darius-cole/) said. "Two thousand, first of the month, lockbox. Quiet waterfront. That's infrastructure. I understand infrastructure."
 
 He paused. Let the pause do what pauses did between Kindred, which was announce that the next sentence had been chosen and not improvised.
 
@@ -124,7 +124,7 @@ The model took shape. Not operator. Landlord.
 
 Cantone had operated. [Williams](/npcs/williams/) had operated. They'd touched the product and handled the logistics and stood in the warehouse and counted the sacks and done the work that put their fingerprints on everything. And both of them were gone -- Cantone pushed out, [Williams](/npcs/williams/) dead. Operators got replaced. The building stayed.
 
-Own the infrastructure. Charge rent. Let the operators operate and take a percentage and never touch the product and never stand in the warehouse at three AM counting sacks with your hands on the evidence. Lucian understood this. Lucian had owned the docks for decades and never loaded a single crate. The two thousand a month was rent on infrastructure that Lucian had built by controlling the waterfront without ever running a dock operation himself. The model was there. Darius was adapting it.
+Own the infrastructure. Charge rent. Let the operators operate and take a percentage and never touch the product and never stand in the warehouse at three AM counting sacks with your hands on the evidence. [Lucian](/npcs/lucian/) understood this. Lucian had owned the docks for decades and never loaded a single crate. The two thousand a month was rent on infrastructure that Lucian had built by controlling the waterfront without ever running a dock operation himself. The model was there. Darius was adapting it.
 
 Pivot points. Eddie's reprogramming -- five days, the Conditioning layering deeper each session until the dock worker's loyalty was structural rather than compelled, a foundation instead of a leash. Cantone's redirect -- the trafficking as scapegoat, the notebook as evidence that Cantone's operation was the source of whatever federal attention was accumulating around the docks, a frame that redirected [Shepard](/npcs/william-shepard/)'s investigation toward Cicero and away from Gary. Webb -- two-week window. Saturday's Conditioning would install the first layer. The second session would lock it. By August, Warren Birch would have a voice and a face and a man who answered the phone when the FBI called. Mr. White in October. Long play. The Milwaukee buyer who paid premium for a product Darius didn't yet fully understand but whose value was denominated in a currency older than dollars.
 

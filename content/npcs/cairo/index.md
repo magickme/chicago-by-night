@@ -23,6 +23,6 @@ As the months passed, Elisa entered the dark world of the Widows and her duties 
 
 [Pierre](/npcs/pierre-bellemare/) never realized that Cairo was a skilled Thaumaturgist. She has spent the years since her imprisonment loosening the chains around her soul. The pack's weekly Vaulderie strengthens Cairo's bondage, but for the last three months she has worked herself relatively free for a few nights a week. Not yet strong enough to actively challenge her tormentor, Cairo is trying her best to subtly expose [Pierre](/npcs/pierre-bellemare/)'s infernalism and stop his corruption from spreading. She is desperate to get to [Ezekiel](/npcs/ezekiel/) to warn him, but her efforts have been inexplicably thwarted by Santiago DeSoto.
 
-**Image:** Pierre replaced Elisa's lithe form and long black hair with a stocky Riot-Grrrl frame and shocking red hair. Cairo dresses to complement her lord, wearing black leather and dozens of body piercings.
+**Image:** [Pierre](/npcs/pierre-bellemare/) replaced Elisa's lithe form and long black hair with a stocky Riot-Grrrl frame and shocking red hair. Cairo dresses to complement her lord, wearing black leather and dozens of body piercings.
 
 **Secrets:** Cairo is familiar with the location of Metathiax's Blood Circle, knows of the demon's plans to corrupt [Ezekiel](/npcs/ezekiel/) and has experienced the full extent of Pierre's perversity.

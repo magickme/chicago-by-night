@@ -46,7 +46,7 @@ He shook his head. "You remind me of someone."
 
 For one second something moved behind the prince's face that [Darius](/darius-cole/) couldn't read. Memory or regret or the specific loneliness of a man who has outlived every protégé he ever made. Then gone.
 
-[Modius](/npcs/modius/) extended his hand. A prince offering a handshake to a neonate. In eighty years of court this gesture had happened fewer than a dozen times. Darius took it. The grip was cool and firm and meant exactly what it looked like, which in the Jyhad meant it could mean anything.
+[Modius](/npcs/modius/) extended his hand. A prince offering a handshake to a neonate. In eighty years of court this gesture had happened fewer than a dozen times. [Darius](/darius-cole/) took it. The grip was cool and firm and meant exactly what it looked like, which in the Jyhad meant it could mean anything.
 
 "File the paperwork. Deliver my terms to [Lucian](/npcs/lucian/). Brief [Victor](/npcs/victor-salonika/) on the FBI. And Warren — next time you save my club, perhaps call ahead."
 

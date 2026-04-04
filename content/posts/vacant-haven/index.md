@@ -76,7 +76,7 @@ Beyond: a vault door. Seven tons of steel, reinforced, time-locked. Torn from it
 
 [Critias](/npcs/critias/)'s head turned. Slight motion. The interest of a man who just heard a word he didn't expect from the source he didn't expect it from. *Psychometry.* A neonate Toreador with Spirit's Touch.
 
-"Proceed," he said. To Sable, not to [Belthazar](/npcs/belthazar/). That distinction filled the room.
+"Proceed," he said. To [Sable](/sable-price/), not to [Belthazar](/npcs/belthazar/). That distinction filled the room.
 
 She put her hand on the vault door and the world went white.
 
@@ -126,7 +126,7 @@ On a shelf in the office: a leather-bound journal. Admiral Tourney — a British
 
 "Look at this. Who's [Roarke](/npcs/roarke/)?" Sable asked, offering the journal.
 
-Belthazar answered first. "One of [Lodin](/npcs/lodin/)'s people. Sent to England on some errand, before my appointment. Never came back. The Prince wrote him off as dead."
+[Belthazar](/npcs/belthazar/) answered first. "One of [Lodin](/npcs/lodin/)'s people. Sent to England on some errand, before my appointment. Never came back. The Prince wrote him off as dead."
 
 [Critias](/npcs/critias/) took the journal. Read the inscription. Read it again.
 
@@ -136,9 +136,9 @@ He set the journal back on the desk and let the silence carry the weight.
 
 ---
 
-Critias moved through the vault. He stood over the pendant for a long time — longer than he'd stood anywhere else — and his hand moved toward it and then stopped. Something crossed his face. Not recognition. Something quieter. He turned away from it.
+[Critias](/npcs/critias/) moved through the vault. He stood over the pendant for a long time — longer than he'd stood anywhere else — and his hand moved toward it and then stopped. Something crossed his face. Not recognition. Something quieter. He turned away from it.
 
-He looked at Sable. Then at Darius.
+He looked at Sable. Then at [Darius](/darius-cole/).
 
 "You are more capable than [Ballard](/npcs/ballard/) led me to expect. That may or may not work in your favor." He turned to Belthazar. "The map. The woods northwest. That is the lead worth following."
 

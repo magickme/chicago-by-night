@@ -27,7 +27,7 @@ ShowToc: false
 
 - Where [Ballard](/npcs/ballard/) holds court. The table is always reserved. The food is always ordered. The guest is always expected to eat while [Ballard](/npcs/ballard/) watches, and the watching is the point.
 - Political intimidation dressed as hospitality. [Ballard](/npcs/ballard/) forces food on his guests because it reminds them they have bodies, and bodies are vulnerable.
-- The place where [Darius](/darius-cole/) receives his Chicago assignments and learns what Ballard's patience looks like when it starts to thin.
+- The place where [Darius](/darius-cole/) receives his Chicago assignments and learns what [Ballard](/npcs/ballard/)'s patience looks like when it starts to thin.
 
 ## Geographic Placement
 

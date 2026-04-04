@@ -63,7 +63,7 @@ The Embrace came in a cellar beneath the restaurant. No ceremony. No warning. [C
 
 Three nights in a locked room while the last of his mortal life burned out of him. When it was over, [Chuc Luc](/npcs/chuc-luc/) opened the door and said: "You work for me. You will go to Gary. You will do exactly what I tell you. And no one will ever know I exist."
 
-The feeding restriction hit hard and strange. He tried to feed from a woman at a bus stop. The blood hit his tongue like ash. Chuc Luc guided him to a different target — a stevedore at a bar, three months behind on child support, two payments from losing his truck. That blood was *perfect*. Warm, alive, singing with desperation and shame and the particular hunger of a person who owes more than they can ever pay.
+The feeding restriction hit hard and strange. He tried to feed from a woman at a bus stop. The blood hit his tongue like ash. [Chuc Luc](/npcs/chuc-luc/) guided him to a different target — a stevedore at a bar, three months behind on child support, two payments from losing his truck. That blood was *perfect*. Warm, alive, singing with desperation and shame and the particular hunger of a person who owes more than they can ever pay.
 
 *"People who owe debts they can't pay,"* Chuc Luc observed. *"How very Ventrue."*
 

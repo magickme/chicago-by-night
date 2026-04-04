@@ -38,11 +38,11 @@ Their eyes met. A quarter-second. Then [Darius](/darius-cole/) was around the co
 
 *He saw me. He knows I'm here. Sal doesn't — [Michael](/npcs/michael/) didn't react, the Malkavian discipline held — but [Michael](/npcs/michael/) knows.*
 
-Darius waited. The wind came off the lake. The dispatch office light threw a yellow rectangle across the concrete. Ten minutes passed. Darius counted them the way he'd been counting time since the Embrace — not by minutes but by heartbeats that weren't there, by the pulse of the blood in his veins that moved only because the stolen vitae remembered what circulation felt like.
+[Darius](/darius-cole/) waited. The wind came off the lake. The dispatch office light threw a yellow rectangle across the concrete. Ten minutes passed. Darius counted them the way he'd been counting time since the Embrace — not by minutes but by heartbeats that weren't there, by the pulse of the blood in his veins that moved only because the stolen vitae remembered what circulation felt like.
 
 The door opened. [Michael](/npcs/michael/) came out.
 
-He was carrying something in his coat pocket. Darius could see the weight of it — the way the fabric pulled. Not a weapon. Not money. Paper. An envelope. Michael held it against his body the way a child holds a letter from someone who matters.
+He was carrying something in his coat pocket. Darius could see the weight of it — the way the fabric pulled. Not a weapon. Not money. Paper. An envelope. [Michael](/npcs/michael/) held it against his body the way a child holds a letter from someone who matters.
 
 *What business does a cemetery Malkavian have with a dockside bookie?*
 

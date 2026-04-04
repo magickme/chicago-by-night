@@ -58,7 +58,7 @@ He named the domains. He noted the absent. He mentioned Chicago the way a man me
 
 And then [Allicia](/npcs/allicia/) stood up.
 
-The whole room stopped. Not dramatically — the way a room stops when the barometric pressure changes. Everyone felt it. The silent woman at the piano, the one who hadn't spoken in fifty years, the one who sat and watched and existed as furniture in [Modius](/npcs/modius/)'s decaying gallery — she stood. She looked at [Modius](/npcs/modius/). She looked at Sable. Her eyes moved between them with the precision of a needle finding a vein.
+The whole room stopped. Not dramatically — the way a room stops when the barometric pressure changes. Everyone felt it. The silent woman at the piano, the one who hadn't spoken in fifty years, the one who sat and watched and existed as furniture in [Modius](/npcs/modius/)'s decaying gallery — she stood. She looked at [Modius](/npcs/modius/). She looked at [Sable](/sable-price/). Her eyes moved between them with the precision of a needle finding a vein.
 
 The expression on her face was not anger. Anger requires a belief that things should be different. The expression on [Allicia](/npcs/allicia/)'s face was the thing that comes after anger, when you've been sitting at a piano for half a century watching beautiful women walk through the door and walk out with the one person who owns you, and you've stopped being angry about it and started being something worse, which is awake.
 

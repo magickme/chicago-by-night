@@ -96,9 +96,9 @@ They came out of the tunnel at a run. The amphitheater was mid-feast — faces s
 
 "**STOP.**"
 
-[Roarke](/npcs/roarke/)'s body went rigid. His jaw set. His muscles fought the command and lost. His eyes found Darius and they were full of recognition — not of the man, but of the leash.
+[Roarke](/npcs/roarke/)'s body went rigid. His jaw set. His muscles fought the command and lost. His eyes found [Darius](/darius-cole/) and they were full of recognition — not of the man, but of the leash.
 
-One cultist stepped forward with a machete. Sable found his eyes. Dread Gaze. The man's face went white. The blade hit the ground. He crawled backward making a sound too high for his size. Nobody else moved.
+One cultist stepped forward with a machete. [Sable](/sable-price/) found his eyes. Dread Gaze. The man's face went white. The blade hit the ground. He crawled backward making a sound too high for his size. Nobody else moved.
 
 [Roarke](/npcs/roarke/) broke the Command ten seconds later. Felt the shotgun. Assessed the situation the way ghouls do — half a century of serving things that could kill him in a heartbeat.
 
@@ -110,7 +110,7 @@ Darius picked up the machete.
 
 The preacher's cadence fell away. What was underneath was smaller and rougher. Sixty years of service. The errand to London. The bullet on a Piccadilly street. "I woke up somewhere else. The blood they put in me — it showed me things. What he was. What I was to him." His hands were shaking. "So I took the one thing that mattered to him."
 
-The machete drew a line across Roarke's forearm. The blood welled dark. Darius held the wound over [Lodin](/npcs/lodin/)'s mouth and the jaw opened and the throat worked and it was like watching gravity assert itself.
+The machete drew a line across [Roarke](/npcs/roarke/)'s forearm. The blood welled dark. Darius held the wound over [Lodin](/npcs/lodin/)'s mouth and the jaw opened and the throat worked and it was like watching gravity assert itself.
 
 Four blood points. Sable hauled Roarke back. The ghoul slumped on his knees, a hundred and sixteen years suddenly visible in every line.
 
@@ -146,7 +146,7 @@ Five successes on the Forgetful Mind. Granite. Scottie's face slackened, refocus
 
 ---
 
-The drive back. I-90. Sodium lights and long-haul trucks. Lodin sat in the passenger seat of the Cutlass the way a man in a ruined six-thousand-dollar suit sits in an '83 Oldsmobile — like the car had been designed for exactly this purpose and had been failing at every other.
+The drive back. I-90. Sodium lights and long-haul trucks. [Lodin](/npcs/lodin/) sat in the passenger seat of the Cutlass the way a man in a ruined six-thousand-dollar suit sits in an '83 Oldsmobile — like the car had been designed for exactly this purpose and had been failing at every other.
 
 "How long was I in there?"
 

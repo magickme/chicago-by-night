@@ -60,7 +60,7 @@ He left a pamphlet under the windshield wiper of the Cutlass. Romans 6:23. *The 
 
 [Darius](/darius-cole/) found it at sundown. Read it. Tossed it in the trash. Drove to the docks.
 
-He didn't know what it meant. He didn't know that the man in the rented car had watched the pamphlet stay on the windshield all day through rain and a gust that should have taken it, because it was held there by something Darius couldn't see and couldn't feel and had no name for in any language he spoke. He didn't know that [Dane](/npcs/sullivan-dane/) had smiled when the pamphlet held, because holding meant Darius wasn't home during the day, and not being home during the day was the first answer to the first question.
+He didn't know what it meant. He didn't know that the man in the rented car had watched the pamphlet stay on the windshield all day through rain and a gust that should have taken it, because it was held there by something [Darius](/darius-cole/) couldn't see and couldn't feel and had no name for in any language he spoke. He didn't know that [Dane](/npcs/sullivan-dane/) had smiled when the pamphlet held, because holding meant Darius wasn't home during the day, and not being home during the day was the first answer to the first question.
 
 [Modius](/npcs/modius/) wanted more. The leash tightened the way fishing line tightens -- slowly, and then it's in the skin. Biweekly reports. Questions about the waterfront. Questions about the FBI file. Questions, finally, about where Darius slept. He gave [Modius](/npcs/modius/) most of it. The most of it that wasn't the truth.
 
@@ -68,6 +68,6 @@ In September, [Sable](/sable-price/)'s mother left a message on the Fifth Avenue
 
 She didn't call back. She pressed erase. The tape rewound with a mechanical click and the message was gone and the fact of it wasn't.
 
-Thirty days to the party. Modius's invitation arrived by [Victor](/npcs/victor-salonika/)'s hand, cream cardstock with the Prince's seal pressed into wax that was the color of old blood. New Year's Eve. Every Kindred in Gary. Formal dress. Attendance not optional.
+Thirty days to the party. [Modius](/npcs/modius/)'s invitation arrived by [Victor](/npcs/victor-salonika/)'s hand, cream cardstock with the Prince's seal pressed into wax that was the color of old blood. New Year's Eve. Every Kindred in Gary. Formal dress. Attendance not optional.
 
 Darius put the invitation on the kitchen counter and looked at it while the night outside turned December-cold and the west-side house fire put smoke across the moon. Somewhere on the next block, a rented car sat empty. [Dane](/npcs/sullivan-dane/) had gone home to pray. He'd be back.

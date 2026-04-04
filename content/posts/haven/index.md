@@ -46,7 +46,7 @@ She said his name and he stopped moving. Not because the name was a threat — b
 
 "Merchandise," he said. His voice was flat, uninflected, the voice of a man describing inventory. "Saturday inventory. Man owed money to the wrong people. They sold the debt. I collected."
 
-*They sold the debt.* [Sable](/sable-price/) filed the phrase the way she filed everything — quickly, silently, in the part of her mind that was always recording even when the rest of her was performing. Someone was selling human debts to Williams. Not collecting for the debtor — selling the debtor. Converting a financial obligation into a body on a table. There was a chain there, a structure, an economy that connected the loan sharks and the bookies and the street-level credit operations to Williams's church and Williams's folding tables and the Kindred who shopped there every Saturday night.
+*They sold the debt.* [Sable](/sable-price/) filed the phrase the way she filed everything — quickly, silently, in the part of her mind that was always recording even when the rest of her was performing. Someone was selling human debts to [Williams](/npcs/williams/). Not collecting for the debtor — selling the debtor. Converting a financial obligation into a body on a table. There was a chain there, a structure, an economy that connected the loan sharks and the bookies and the street-level credit operations to Williams's church and Williams's folding tables and the Kindred who shopped there every Saturday night.
 
 She filed it. She would understand it later.
 
@@ -76,7 +76,7 @@ She brought everything in from the Buick. The fur coat. The cosmetics bag. The l
 
 *Behind the Green Door.* The old song. The forbidden room. The thing you're not supposed to see.
 
-Sable lay in the dark under a dead church in Gary, Indiana, on the fourth night of January in the first year of a decade that belonged to no one, and listened to the boiler tick, and did not dream, and did not think about the shape in the van or the phrase *they sold the debt* or the look on Williams's face when she'd said *men infinitely greater than you* because those thoughts would keep until tomorrow and tomorrow she had to stand in [Modius](/npcs/modius/)'s decaying mansion and pretend to be something worth looking at, and the distance between the girl on the rectory floor and the woman she would have to perform at Elysium was the distance between the green door and the rest of the world, and she could not afford to think about that distance right now.
+[Sable](/sable-price/) lay in the dark under a dead church in Gary, Indiana, on the fourth night of January in the first year of a decade that belonged to no one, and listened to the boiler tick, and did not dream, and did not think about the shape in the van or the phrase *they sold the debt* or the look on Williams's face when she'd said *men infinitely greater than you* because those thoughts would keep until tomorrow and tomorrow she had to stand in [Modius](/npcs/modius/)'s decaying mansion and pretend to be something worth looking at, and the distance between the girl on the rectory floor and the woman she would have to perform at Elysium was the distance between the green door and the rest of the world, and she could not afford to think about that distance right now.
 
 She could only afford to sleep.
 

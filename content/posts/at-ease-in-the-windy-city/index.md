@@ -34,7 +34,7 @@ Twenty minutes later someone knocked on the door. Hard. Three times.
 
 [Belthazar](/npcs/belthazar/). Ventrue. One of the Prince's Eyes -- the upper-class districts, the cushy beat. [Roarke](/npcs/roarke/) knew the name from the roster. He opened the door.
 
-The Kindred filled the doorway. Charcoal overcoat, dark hair swept back, eyes that looked at mortals the way a man looks at furniture he's considering replacing. He walked past [Roarke](/npcs/roarke/) muttering about a crazy Malkavian bitch and her unsanctioned Embrace. Demanded to see the Prince. Roarke went to the vault door and knocked. [Lodin](/npcs/lodin/) told him to be silent. Five minutes passed. The vault opened.
+The Kindred filled the doorway. Charcoal overcoat, dark hair swept back, eyes that looked at mortals the way a man looks at furniture he's considering replacing. He walked past [Roarke](/npcs/roarke/) muttering about a crazy Malkavian bitch and her unsanctioned Embrace. Demanded to see the Prince. [Roarke](/npcs/roarke/) went to the vault door and knocked. [Lodin](/npcs/lodin/) told him to be silent. Five minutes passed. The vault opened.
 
 [Lodin](/npcs/lodin/) stepped out. Not tall. Not physically imposing. A dark suit that fit like it was born on him and eyes that were old in a way that had nothing to do with the face. Roarke's name as an accusation: one word.
 

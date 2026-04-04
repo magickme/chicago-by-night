@@ -50,7 +50,7 @@ Newspaper clipping on the wall. BLOODLESS ANIMAL MAN SEIZED BY POLICE. A body in
 
 [Sable](/sable-price/) fed from the sleeping cop. Three points. Quick, efficient, the Kiss on an unconscious mortal who stirred and breathed harder and never woke. She licked the wound and stood and the hunger retreated to the place where it waited between feedings and the cop would wake tired and blame it on the cold.
 
-The basement was twenty feet down. Cable descent. Concrete walls, chemistry table, a chair, and on the floor in the corner — the outline. Lighter concrete where something had lain long enough to bleach the stone beneath it. The pressure coming off the outline was directional, a thing with edges, and Sable's enhanced senses tasted it as copper and ozone and deep time.
+The basement was twenty feet down. Cable descent. Concrete walls, chemistry table, a chair, and on the floor in the corner — the outline. Lighter concrete where something had lain long enough to bleach the stone beneath it. The pressure coming off the outline was directional, a thing with edges, and [Sable](/sable-price/)'s enhanced senses tasted it as copper and ozone and deep time.
 
 She found the drawer by touch — a seam in the wall that her fingertips caught where enhanced sight in the dark had shown nothing. Stone, flush-set, no handle. It slid out smooth. Inside: satin cloth. Inside the cloth: a vial.
 
@@ -64,7 +64,7 @@ The facility was a stone warehouse on the near north side. Three stories, bottom
 
 Sable went in through the fire escape. The second-floor lab was a controlled environment — CAT scan, examination table, monitoring equipment, a desk with two weeks of handwritten notes that read like a man's faith being simultaneously confirmed and destroyed. *Day 1: Subject appears to be male, indeterminate age. Epidermis has undergone complete calcification.* And in the margin, different pen: *God help me, [Shepard](/npcs/william-shepard/) was right.*
 
-The body had been moved to ground-floor cold storage. She let Darius in through the loading dock. The cold storage door opened with a hiss. Steel table. The body.
+The body had been moved to ground-floor cold storage. She let [Darius](/darius-cole/) in through the loading dock. The cold storage door opened with a hiss. Steel table. The body.
 
 The photographs had lied by omission. The torpored Methuselah was a presence — grey-white skin like cracked marble, four fangs behind parted lips, matted hair, and the saber-toothed pendant on the chest. Three inches. Dark. The twin of the one humming in [Lodin](/npcs/lodin/)'s vault, except this one was silent.
 

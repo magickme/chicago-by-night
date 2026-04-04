@@ -60,7 +60,7 @@ Then he caught Terry's eyes -- glassy, half-focused, the door already open -- an
 
 Three successes. The memory set like concrete. Terry would wake up stiff and sheepish and fill the gap with the obvious story, and the obvious story would be the only story his brain could find.
 
-Darius tucked the Marlboros back into the breast pocket. Left the keys. Walked to the Cutlass.
+[Darius](/darius-cole/) tucked the Marlboros back into the breast pocket. Left the keys. Walked to the Cutlass.
 
 The drive to [Modius](/npcs/modius/)'s mansion took eleven minutes. He used every one of them building the report: what to give, what to keep, where to draw the line between loyalty and leverage. The cleanup. The competence. The fact of a man who comes to his Prince at one in the morning with a solved problem instead of an unsolved one.
 

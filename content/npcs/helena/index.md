@@ -52,7 +52,7 @@ This was the Amaranth — diablerie of one's own sire. It elevated her to 4th ge
 
 Helena first abused the Blood Bond during the Carthage period, forcing [Prias](/npcs/prias/) to hunt her enemies during the day. He believed their love had grown deeper. Helena knew the truth.
 
-After three millennia of feeding on 4th-generation blood, Prias reads as a Vampire to Auspex. Chicago's Tremere believe him to be an Inconnu. He possesses a silver sword made by Carthaginian vampire craftsmen — its wounds cannot be healed by Kindred except by mixing another vampire's blood with their own and pressing it to the wound.
+After three millennia of feeding on 4th-generation blood, [Prias](/npcs/prias/) reads as a Vampire to Auspex. Chicago's Tremere believe him to be an Inconnu. He possesses a silver sword made by Carthaginian vampire craftsmen — its wounds cannot be healed by Kindred except by mixing another vampire's blood with their own and pressing it to the wound.
 
 When Helena fell into torpor at Fort Dearborn, Prias stopped feeding on her blood to ensure she had enough for healing. He began killing other Kindred and taking their blood instead. As he did, he felt the Blood Bond — a bond he never knew he had — slipping away. Amazed at having free will for the first time in two thousand years, he pledged never again to drink her blood.
 
@@ -82,7 +82,7 @@ After the climactic battle in Spain and a century of searching, Helena discovere
 
 ## Fort Dearborn (1832)
 
-Helena allied with the United States military. [Menele](/npcs/menele/) with Chief Black Hawk. The air turned red with the vast quantities of blood they used. Helena dug her claws into [Menele](/npcs/menele/)'s ribs. Menele drove his skull into her forehead. Both were thrown to the ground. Prias drove a burning stake into Menele's neck.
+Helena allied with the United States military. [Menele](/npcs/menele/) with Chief Black Hawk. The air turned red with the vast quantities of blood they used. Helena dug her claws into [Menele](/npcs/menele/)'s ribs. [Menele](/npcs/menele/) drove his skull into her forehead. Both were thrown to the ground. Prias drove a burning stake into Menele's neck.
 
 Both Methuselahs fell into torpor. Prias carried Helena to a place of safety under the fort — deep in the dark earth at the bottom of a well, which he bricked up.
 

@@ -50,4 +50,4 @@ He drove home. The west-side apartment was dark. He sat at the kitchen table and
 
 The mathematics of survival. The architecture of self-preservation. The specific weight of a man's name given to a prince who collects people the way other men collect paintings, and the knowledge that tomorrow he would have to put the brooch in [Modius](/npcs/modius/)'s hand and the day after that [Michael](/npcs/michael/) might find a Dominated guard standing outside his shed and the day after that the machine would keep turning because the machine always keeps turning and the man inside it can either turn with it or get ground down.
 
-Darius closed his eyes. The kitchen was cold. Gary was quiet. The game was the game.
+[Darius](/darius-cole/) closed his eyes. The kitchen was cold. Gary was quiet. The game was the game.

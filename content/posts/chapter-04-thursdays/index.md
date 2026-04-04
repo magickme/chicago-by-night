@@ -42,7 +42,7 @@ The bus shelter on the corner of Crane and [Jefferson](/npcs/jefferson-foster/) 
 
 He counted. That was the thing about counter-surveillance — it was arithmetic, not intuition. You counted intervals. You counted movements. You built a dataset and then you read it the way a bookie reads a line, looking for the pattern that told you where the smart money was.
 
-The driver checked his mirrors every four minutes. Darius timed it eleven times to be certain. Four minutes, a sweep of the side mirrors and the rearview, then eyes front. Four minutes. Sweep. Eyes front. The rhythm was mechanical. Military. A man who had been trained to surveil and had done it long enough that the training had become reflex.
+The driver checked his mirrors every four minutes. [Darius](/darius-cole/) timed it eleven times to be certain. Four minutes, a sweep of the side mirrors and the rearview, then eyes front. Four minutes. Sweep. Eyes front. The rhythm was mechanical. Military. A man who had been trained to surveil and had done it long enough that the training had become reflex.
 
 At 10:47 PM the driver's door opened.
 
@@ -60,7 +60,7 @@ The first was a wooden stake in a belt holster, positioned for a cross-draw. Not
 
 The second thing was a key fob clipped to his belt loop. Rectangular. Orange plastic. Motel key. From fifty yards Darius couldn't read the name, but the shape and color were distinctive. There were three motels on the Borman Expressway corridor that used orange plastic fobs. Darius knew this because he had cased every motel within ten miles of Gary during his first week in the city. It was what you did. It was how the architecture started.
 
-Dane got back in the Buick. At 11:30 he started the engine and drove north.
+[Dane](/npcs/sullivan-dane/) got back in the Buick. At 11:30 he started the engine and drove north.
 
 Darius stood at the bus shelter for another five minutes after the taillights disappeared, watching the empty street, feeling the cold he couldn't feel, thinking about the stake.
 

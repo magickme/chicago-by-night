@@ -58,15 +58,15 @@ He didn't wait.
 
 "Your Prince sent you here with a letter, and the night you arrived, my Prince disappeared from his haven on Lake Shore Drive. You're going to tell me that's a coincidence."
 
-"We had nothing to do with it," Darius said. "We're just here to deliver the letter."
+"We had nothing to do with it," [Darius](/darius-cole/) said. "We're just here to deliver the letter."
 
-[Ballard](/npcs/ballard/) set down his knife. Folded his hands — enormous hands, thick fingers, and Sable could see the manicure again, the nails filed to clean ovals, and thought of every man who had ever presented a groomed surface over a ruined interior and called it civilization.
+[Ballard](/npcs/ballard/) set down his knife. Folded his hands — enormous hands, thick fingers, and [Sable](/sable-price/) could see the manicure again, the nails filed to clean ovals, and thought of every man who had ever presented a groomed surface over a ruined interior and called it civilization.
 
 "You're being blamed. Whether you did it or not is secondary. You were here. You're from Gary. You're convenient."
 
 The curtain parted.
 
-[Edward](/npcs/sir-edward-scott/) [Neally](/npcs/neally-edwards/) stepped through — double-breasted suit, wing tips, hairpiece that might as well have been real. The man who had played [Lodin](/npcs/lodin/) at the [Field Museum](/locations/field-museum/) two nights ago, performing a Prince's authority with a bureaucrat's precision. He sat beside Ballard without being invited.
+[Edward](/npcs/sir-edward-scott/) [Neally](/npcs/neally-edwards/) stepped through — double-breasted suit, wing tips, hairpiece that might as well have been real. The man who had played [Lodin](/npcs/lodin/) at the [Field Museum](/locations/field-museum/) two nights ago, performing a Prince's authority with a bureaucrat's precision. He sat beside [Ballard](/npcs/ballard/) without being invited.
 
 "It's done. The Primogen know."
 

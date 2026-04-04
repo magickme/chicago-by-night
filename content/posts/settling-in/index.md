@@ -36,7 +36,7 @@ They rented a Ford Transit from Hertz. White, smelled like cigarettes and the gh
 
 Nobody followed them from Heathrow. Every car behind them accounted for over twenty minutes.
 
-The hotel was in Mayfair. Cream stone, brass revolving door, a doorman in a grey coat. The kind of place that doesn't print prices because if you're asking you shouldn't be here. Roarke brought the crate in through the service entrance -- a freight corridor, a porter who didn't ask questions, a narrow lift that smelled like brass polish. Twenty-second floor. Suite. Blackout curtains drawn before the crate entered the bedroom.
+The hotel was in Mayfair. Cream stone, brass revolving door, a doorman in a grey coat. The kind of place that doesn't print prices because if you're asking you shouldn't be here. [Roarke](/npcs/roarke/) brought the crate in through the service entrance -- a freight corridor, a porter who didn't ask questions, a narrow lift that smelled like brass polish. Twenty-second floor. Suite. Blackout curtains drawn before the crate entered the bedroom.
 
 Roarke called the Queen of London's people from the room phone. Two rings. Three. A warm British voice: *Your business, please?*
 

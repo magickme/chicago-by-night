@@ -48,7 +48,7 @@ Eddie talked. Sal Cantone. Chicago. 312. Panel van, white, no markings. Tuesdays
 
 He rewrote the memory last. The Forgetful Mind was cleaner than the Mesmerize — not a command but an edit, the careful removal of fifteen minutes from a life that had sixty-three years of minutes and wouldn't miss these. Eddie blinked and picked up his pen and went back to his manifest, and the door closed, and the dock was quiet.
 
-The gravel. The sodium lamps. The lake wind carrying diesel and rust and the particular smell of a city that had been dying for twenty years and still hadn't finished. Darius walked to the Cutlass and sat behind the wheel and didn't start the engine.
+The gravel. The sodium lamps. The lake wind carrying diesel and rust and the particular smell of a city that had been dying for twenty years and still hadn't finished. [Darius](/darius-cole/) walked to the Cutlass and sat behind the wheel and didn't start the engine.
 
 Eddie Fells. Fifty-three. A man who owed debts he couldn't pay, which made him prey, which made him food, which made him a tool. The Ventrue taxonomy of human value: can I feed on you, can I use you, or both. Eddie was both. The architecture demanded it. The sire demanded it. The pipeline demanded it. And Darius had looked into a man's eyes and said *I own you now* and meant it the way a landlord means it when he says *I own this building* — not with cruelty but with the calm certainty of possession, and the calm certainty was worse than cruelty because cruelty at least acknowledged that the other person was a person.
 

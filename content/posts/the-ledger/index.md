@@ -34,7 +34,7 @@ The plan was simple: Ray at ground level, visible, the front man for whoever sho
 
 He climbed the loading bay pallets and the drain pipe and rolled onto the tar paper roof at 9:35. Flat on his stomach. The waterfront spread below him in sodium orange and black: the berths, the access road, Ray's Nova in the Berth 7 lot, the container stacks to the south. Almost no moon. Dark sky for a man with no supernatural eyes.
 
-The visitor arrived at 10:09. Appeared is the better word. One moment the loading bay was empty and the next there was a shape near the door that didn't catch the light right. It stood where the sodium should have hit it and the sodium slid off like oil on water. Darius could track it only by the way it blocked the background, a hole in the orange glow shaped like a man.
+The visitor arrived at 10:09. Appeared is the better word. One moment the loading bay was empty and the next there was a shape near the door that didn't catch the light right. It stood where the sodium should have hit it and the sodium slid off like oil on water. [Darius](/darius-cole/) could track it only by the way it blocked the background, a hole in the orange glow shaped like a man.
 
 They talked for two minutes. Ray's shoulders were up, his weight forward. The shape gestured once toward Darius's warehouse. Then it turned and walked south toward the rail spur and Darius went after it.
 

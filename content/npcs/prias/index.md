@@ -23,7 +23,7 @@ Prias did not die. He spent thirteen years tracking [Helena](/npcs/helena/) acro
 
 What happened next established the pattern for the next three millennia. Prias attacked Minos with soldiers — mortal soldiers, armed and organized, thrown against a vampire. He speared Minos through the heart. [Helena](/npcs/helena/) leapt on the staked Methuselah and committed diablerie, consuming his soul and his power. Then she turned to Prias and offered the Embrace.
 
-He refused. "I would never become one of the horrors who fed on the blood of the living." The sentence is recorded in the source material as direct quotation, which means someone — Helena, or Prias himself — considered it important enough to preserve across thirty centuries.
+He refused. "I would never become one of the horrors who fed on the blood of the living." The sentence is recorded in the source material as direct quotation, which means someone — [Helena](/npcs/helena/), or Prias himself — considered it important enough to preserve across thirty centuries.
 
 Instead, Prias drank Helena's blood. Not the Embrace, but the beginning of a ghoul arrangement that has persisted for over three thousand years. Helena fed on Kindred and mortals. Prias fed from Helena. He gained vitae-enhanced strength, endurance, and longevity. He also gained the Blood Bond — three drinks from the same Kindred, and the Bond became total. For two thousand years, Prias served Helena under a compulsion he did not fully understand, believing his devotion was love rather than chemistry.
 

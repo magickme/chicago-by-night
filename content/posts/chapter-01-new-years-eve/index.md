@@ -46,7 +46,7 @@ Broadway and Fifth Avenue was the kind of block that looked the same at midnight
 
 The man was leaning against the side of Ebenezer Baptist Church — not praying, just using the wall to stay upright. Late fifties. Steelworker's hands, thick and scarred. Three months behind on rent — [Darius](/darius-cole/) could see it in the way he held himself, the shoulders that had given up pretending they could carry what was on them. He'd been at a card game. He'd lost.
 
-Darius got out of the car and walked over with twenty dollars in his hand, because you always started with the gift. That was the rule. Generosity before the thumbscrew.
+[Darius](/darius-cole/) got out of the car and walked over with twenty dollars in his hand, because you always started with the gift. That was the rule. Generosity before the thumbscrew.
 
 "Happy New Year, brother. You need a ride somewhere?"
 

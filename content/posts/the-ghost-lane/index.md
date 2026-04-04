@@ -57,7 +57,7 @@ Gerald Fisk was forty-six and tired the way foundations are tired — the weight
 
 "My old man built that place with his hands. And I'm gonna lose it to a company that don't even have a real address."
 
-Darius listened. Then he fed. The wrist across the bar, the blood warm and singing with debt and shame and the specific taste of a man who inherited everything and is losing it all. Perfect. The restriction sang the way it always sang when the prey was true.
+[Darius](/darius-cole/) listened. Then he fed. The wrist across the bar, the blood warm and singing with debt and shame and the specific taste of a man who inherited everything and is losing it all. Perfect. The restriction sang the way it always sang when the prey was true.
 
 He cleaned the memory after. Three seconds of eye contact and the bite dissolved and what remained was a conversation at Rosie's at closing time, a man from the west side named Warren who might be able to help.
 
@@ -71,4 +71,4 @@ He drove home. The west-side apartment. The kitchen table. The business card. Th
 
 $800 a month. The price of the whole board.
 
-He picked up the phone. Not [Chuc Luc](/npcs/chuc-luc/) — that call was tomorrow. Not Lucian. Not [Modius](/npcs/modius/). He called information and asked for the number of the Lake County Recorder's Office, open at 8:30 AM, and wrote it on the back of the business card with no name on it, and set the card on the kitchen table next to everything else, and sat in the dark and did not sleep because the dead don't sleep, and the dead who are building something don't rest either, and the sun came up over Gary and turned the mill smoke gold and Darius Jeremiah Cole — Warren Birch, 12th generation, nobody, check-cashing man, squirrel trying to get a nut — sat at his kitchen table with $800 between him and everything he came here to build.
+He picked up the phone. Not [Chuc Luc](/npcs/chuc-luc/) — that call was tomorrow. Not [Lucian](/npcs/lucian/). Not [Modius](/npcs/modius/). He called information and asked for the number of the Lake County Recorder's Office, open at 8:30 AM, and wrote it on the back of the business card with no name on it, and set the card on the kitchen table next to everything else, and sat in the dark and did not sleep because the dead don't sleep, and the dead who are building something don't rest either, and the sun came up over Gary and turned the mill smoke gold and Darius Jeremiah Cole — Warren Birch, 12th generation, nobody, check-cashing man, squirrel trying to get a nut — sat at his kitchen table with $800 between him and everything he came here to build.

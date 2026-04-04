@@ -52,7 +52,7 @@ Chicago was sending someone. A representative. To assess conditions. Two weeks. 
 
 Then the other thing. The men at the union hall. Suits. Suburban accents. Asking about warehouse leases in Gary. [Modius](/npcs/modius/)'s people had reported it, and the prince did not know what it meant, and not knowing was corroding him from the inside.
 
-Darius heard it and put it in a box and closed the lid. The aura was live. Every thought was a color, and certain colors could kill him. He spent the willpower and the composure held and [Modius](/npcs/modius/) saw what [Modius](/npcs/modius/) needed to see — a useful neonate calculating the logistics of a problem he'd just been handed. Nothing underneath it. Nothing at all.
+[Darius](/darius-cole/) heard it and put it in a box and closed the lid. The aura was live. Every thought was a color, and certain colors could kill him. He spent the willpower and the composure held and [Modius](/npcs/modius/) saw what [Modius](/npcs/modius/) needed to see — a useful neonate calculating the logistics of a problem he'd just been handed. Nothing underneath it. Nothing at all.
 
 The mission was simple in the way that simple things are when a prince says them: find out who, find out why, make it disappear. Two weeks. Don't involve [Lucian](/npcs/lucian/). Don't involve the Bureau. Come back with answers, not problems. The word he used was *legible*. He wanted his waterfront legible. He wanted someone from Chicago to look at it and see a city that worked.
 

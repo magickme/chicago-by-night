@@ -60,7 +60,7 @@ Three songs. A man tried to buy [Sable](/sable-price/) a drink and she smiled hi
 
 The service door was propped open with a crate. [Allicia](/npcs/allicia/) was outside leaning against the wall where the shadow cut the sodium light in half. Up close and alone she was thinner. Eight days at the mansion had taken something out of her -- not blood, not weight, but the quality of presence that comes from choosing where you stand. She looked like a woman who'd been carefully maintained by someone who thought maintenance was love. Her skin was perfect. Her eyes were tired.
 
-[Sable](/sable-price/) touched the side of her face. Thumb along the cheekbone. [Allicia](/npcs/allicia/) closed her eyes and leaned into it -- two ounces of pressure that said more than three spoken conversations -- and when she opened them they were wet, and she pressed her lips to the heel of Sable's palm in the gesture that meant *thank you for coming*.
+[Sable](/sable-price/) touched the side of her face. Thumb along the cheekbone. [Allicia](/npcs/allicia/) closed her eyes and leaned into it -- two ounces of pressure that said more than three spoken conversations -- and when she opened them they were wet, and she pressed her lips to the heel of [Sable](/sable-price/)'s palm in the gesture that meant *thank you for coming*.
 
 Then two taps on her own sternum. A point at Sable. A touch to her lips and a shake of her head. *I need to tell you something. I can't say it here.*
 
@@ -68,7 +68,7 @@ Five fingers. Two miles east. She slipped back inside and the white dress vanish
 
 Miller Beach didn't look like Gary. Old trees, privacy fences, houses that belonged to people who remembered when the money was real. [Allicia](/npcs/allicia/)'s house was two stories behind a gate, and the front door was unlocked, and inside it smelled like dust and lemon polish and recording equipment. A grand piano in the living room better than the one at [The Torch](/locations/the-torch/). Photographs on the walls of Gary in the 1940s -- men at ribbon cuttings, women in furs, and [Allicia](/npcs/allicia/) in every frame, the same face, the same stillness, standing next to people who aged and died around her.
 
-When Allicia arrived she locked the door -- deadbolt and chain, two more locks than she'd used on the way out. She crossed the room and took both of Sable's hands and held them hard, the way you hold onto something in rough water. Then she got a notepad and a pen with a light in the cap and wrote the words that changed the shape of the summer.
+When [Allicia](/npcs/allicia/) arrived she locked the door -- deadbolt and chain, two more locks than she'd used on the way out. She crossed the room and took both of Sable's hands and held them hard, the way you hold onto something in rough water. Then she got a notepad and a pen with a light in the cap and wrote the words that changed the shape of the summer.
 
 *He knows about the blood. Mine in you. He can taste it when he feeds on me. He asked who. I didn't answer. He will ask again.*
 

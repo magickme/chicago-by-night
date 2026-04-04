@@ -40,7 +40,7 @@ His shoulders settled a half-inch. His jaw unclenched. He didn't notice either o
 
 The driver was the key. [Belthazar](/npcs/belthazar/)'s ghoul. Walking around with holes in his head that weren't healing right. [Ballard](/npcs/ballard/) buying him drinks at Daley's and pulling threads.
 
-"Your Prince has been quiet," [Gengis](/npcs/gengis/) said. "Ballard hasn't."
+"Your Prince has been quiet," [Gengis](/npcs/gengis/) said. "[Ballard](/npcs/ballard/) hasn't."
 
 [Darius](/darius-cole/) asked why. [Gengis](/npcs/gengis/) told him: reputation, faction politics, access. A Brujah Anarch who wanted a seat at a table he'd never see the inside of, offering intelligence as an installment plan.
 
@@ -50,7 +50,7 @@ He left the flask and the grin and the too-sharp eyes at the bar and walked out 
 
 ---
 
-Daley's was North Side money. White tablecloths, valet parking, a restaurant where ward bosses and developers shook hands over veal. Darius parked two blocks east under a busted streetlight and watched the front entrance on the diagonal.
+Daley's was North Side money. White tablecloths, valet parking, a restaurant where ward bosses and developers shook hands over veal. [Darius](/darius-cole/) parked two blocks east under a busted streetlight and watched the front entrance on the diagonal.
 
 Nine-fifty-two. The driver stepped out alone. Sandy hair, wiry build, a coat too nice for him. He lit a cigarette and started walking east.
 
