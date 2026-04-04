@@ -929,11 +929,11 @@ Use one headline at scene open to add mortal friction unrelated to the Jyhad. Th
 |17|Sabbat infiltration|LATENT. Rigaud and Wade embedded.|
 |18|The Methuselah War|HIDDEN but ACTIVE. Helena vs Menele. Darius bonded Step 1. Menele's body in Lodin's custody. Lodin fed Menele's blood via Roarke. Three Jyhad pieces active (Darius, Lodin, Critias).|
 |19|Tremere PC integration|LATENT. Third PC planned post-Act II.|
-|20-21|Lodin's return (2x)|ACTIVE. Prince back in play. 5 nights silent. Major boon owed. Sir Henry making Drake inquiries. Political reshuffling. Blood bond demand likely. Menele's body in his cedar closet.|
+|20-21|Lodin's return (2x)|ACTIVE. S034: Lodin appeared publicly at Annabelle's Party Jan 16 (first in 7 nights). Aura read: damaged, furious at someone absent, faint thread of long-term external influence. Major boon owed. Blood bond demand likely. Menele's body in his cedar closet.|
 |22|Belthazar vendetta|NEW. Staked by Damien on Wacker Drive (S030). Neon guarding. When unstaked → hunt.|
 |23|The torpored body|TRANSFERRED. Menele's body delivered to Lodin at Drake Hotel (D031). Cedar closet, 8th floor. Lodin recognized the pendant. "A key." Coterie no longer in possession. Lodin ordered: do not discuss, do not open trunk for anyone.|
 |24|Damien and Neon|NEW. Anarch allies (strained — Sable warned Belthazar). Rescued coterie. Debt owed.|
-|25-26|Ballard's frame job (2x)|ADVANCING. Counter-narrative built D034: dual-track (Lodin dossier + Primogen consensus). Sable/Sir Henry at salon Wed Jan 16. Driver Conditioning 5/14, blood-bonded Step 1. Legal pad secured. Lodin deadline: Wed or force Drake meeting. Goal: permanent removal.|
+|25-26|Ballard's frame job (2x)|ADVANCING. S034: Track 2 (Annabelle) ahead of schedule — Sable delivered Drummond evidence, Annabelle connecting dots to Ballard. Track 1 (Walt/dossier) held in reserve. Lodin appeared at party — primed against Ballard. Walt Conditioning 5/14, legal pad on Darius.|
 |27|Gengis intel channel|OPEN. Brujah Anarch gave Ballard intel freely. Wants access to Camarilla table through coterie. No commitment made.|
 |28|Tremere breach|NEW. Unknown visitor (profile matches Tomás Navarro) found Walt's walkup Jan 10. Used Dominate, searched apartment, read legal pad, examined bite mark. Counter-op transparent to Tremere.|
 
@@ -945,7 +945,7 @@ Use one headline at scene open to add mortal friction unrelated to the Jyhad. Th
 |Ashes to Ashes: find the Prince|2x|COMPLETE (6/6). Lodin rescued D031. Roarke destroyed.|
 |Sharon Payne's vendetta|3x|ESCALATED. Sharon is IN CHICAGO. Proxy chain: Halloran → Warwick → law firm. Sable entering her territory.|
 |Succubus Club politics|2x|OPEN. Natural habitat for Toreador. Helena's basement.|
-|Annabelle's manipulations|2x|OPEN. Toreador elder, collects neonates. Sable's clan.|
+|Annabelle's manipulations|2x|ADVANCING. S034: Direct contact. Private haven number. Minor boon. Positioned as asset. Annabelle wants Sable's "eyes." Teaching reflex surfaced.|
 |Blood Bond steps|2x|ACTIVE. Darius Step 1 Menele. Lodin forced bond pending. Allicia carryover.|
 |Allicia bond-breaking (remote)|2x|ACTIVE. Erichtho evaluation done. Carna path. Months in Milwaukee needed. Coordinate from Chicago.|
 |Michael Payne — absent sire|2x|ESCALATED. Michael in Gary or Chicago? Sharon's ex-husband.|
@@ -954,16 +954,17 @@ Use one headline at scene open to add mortal friction unrelated to the Jyhad. Th
 |Cover story under scrutiny|1x|OPEN. Sable's identity less fabricated than Darius's, but App 5 is memorable. Critias now aware of her Auspex 3.|
 |Anarch unrest|1x|OPEN. Gengis/Damien. Brewery. Lodin's files mention Damien by name.|
 |Who is Roarke?|1x|COMPLETE. Destroyed D031.|
-|Lodin's return|2x|ACTIVE. Prince back 5 nights, silent. Sir Henry making Drake inquiries. Political reshuffling. Blood bond demand likely.|
+|Lodin's return|2x|ACTIVE. S034: Lodin appeared at Annabelle's Party Jan 16 — first public sighting in 7 nights. Aura read (Sable): damaged, furious at someone absent, primed. Chose this event to return.|
 |The torpored body|1x|TRANSFERRED. Menele's body with Lodin at Drake Hotel. No longer in coterie possession.|
 |Damien/Neon|1x|NEW. Anarch contact, strained by Sable's warning. Rescued coterie.|
 |Belthazar vendetta|1x|NEW. Staked on Wacker. Will wake. Will hunt.|
 |Hunter convergence|1x|ADVANCED. Standdown encountered + wiped. Shepard connected.|
-|Ballard's frame job|2x|ADVANCING. Counter-narrative built D034. Sable delivering via Sir Henry at salon Wed Jan 16. Goal: permanent removal.|
-|Sir Henry alliance|1x|ACTIVE. Gossip-for-gossip deal. Making Drake inquiries re Lodin. Salon Wed Jan 16 = delivery point for counter-narrative.|
+|Ballard's frame job|2x|ADVANCING. S034: Track 2 (Annabelle) ahead of schedule. Annabelle has Drummond evidence + Ballard connection. Private audience upcoming. Track 1 (Walt/dossier) held in reserve. Lodin appeared — primed.|
+|Sir Henry alliance|1x|DEEPENED S034. Coached Sable at Annabelle's Party. Fully invested. +3 disposition.|
 |Modius's leash|2x|CLOSED (S033). Scene alteration. Modius turned inward. Silence, not forgiveness.|
-|Annabelle's salon|1x|NEW. Wednesday Jan 16, 8 PM, Drake Hotel Rose Room. Sir Henry introducing. Seeds Annabelle's Party.|
-|Tomás Navarro — Tremere contact|1x|NEW. First meeting S033 at Succubus Club. Operational potential. Analyst, not operator.|
+|Annabelle's Party|2x|PLAYED (S034). Published adventure Scene One complete. All 4 disasters. Annabelle alliance formed. Private number + minor boon. Counter-Ballard Track 2 ahead of schedule.|
+|Tamoszius alliance|1x|NEW S034. Toreador elder, 90yr Ballard-watcher. Deal: info exchange, card given. Independent channel into Chicago Toreador intel.|
+|Tomás Navarro — Tremere contact|1x|First meeting S033 at Succubus Club. Operational potential. Analyst, not operator.|
 |Methuselah War|HIDDEN but ACTIVE|Helena vs Menele. Darius bonded Step 1 to Menele. Coterie = unwitting Menele proxies. Portia at Succubus Club.|
 |Sabbat infiltration|LATENT|Activates Act III.|
 
@@ -998,6 +999,9 @@ Use one headline at scene open to add mortal friction unrelated to the Jyhad. Th
 |30|Tomás Navarro|
 |31|Drummond|
 |32|Walt Gryzinski|
+|33|Tamoszius|
+|34|Lucina (Milwaukee)|
+|35|Sophia Ayes|
 
 ## Live Story Oracles
 

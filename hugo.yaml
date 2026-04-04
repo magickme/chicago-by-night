@@ -41,6 +41,12 @@ params:
           url: "/world/"
         - name: "Method"
           url: "/guide/"
+    - heading: "Other Chronicles"
+      items:
+        - name: "Hell's Highway"
+          url: "/nefer-hotep/"
+        - name: "Alien Hunger"
+          url: "/alien-hunger/"
     - heading: "Reference"
       items:
         - name: "Threat Clocks"
