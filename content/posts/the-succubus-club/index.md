@@ -46,7 +46,7 @@ The cab idled on a residential block off Clark. Snow collected on the windshield
 
 She sat on the steps of a brownstone whose owners were asleep or in Florida. The cold didn't touch her the way it was supposed to, the way it would have touched Ann Price five years ago — now it was information, a number her skin reported without urgency. The snow collected on her shoulders, her hair, the wool of the coat. A passing car's headlights caught her and she was a woman sitting on steps in a snowstorm at seven o'clock on a Thursday night in January, which in Chicago was not remarkable enough to stop for.
 
-She thought about [Allicia](/npcs/allicia/). The piano. The nocturne that stopped when [Sable](/sable-price/) entered the room and resumed when she understood she wasn't being asked to speak. Fifty-two years. The alliance was complete — [Erichtho](/npcs/erichtho/) had evaluated it, [Carna](/npcs/carna/) was the path, the mechanism existed — and none of that changed the weight of the distance between having a plan and executing one, which was measured in other people's patience and Sable's ability to hold every thread without dropping one.
+She thought about [Allicia](/npcs/allicia/). The piano. The nocturne that stopped when [Sable](/sable-price/) entered the room and resumed when she understood she wasn't being asked to speak. Fifty-two years. The alliance was complete — [Erichtho](/npcs/erichtho/) had evaluated it, [Carna](/npcs/carna/) was the path, the mechanism existed — and none of that changed the weight of the distance between having a plan and executing one, which was measured in other people's patience and [Sable](/sable-price/)'s ability to hold every thread without dropping one.
 
 Ray's melancholy nested inside hers. Saving for someone. [Allicia](/npcs/allicia/)'s freedom cost more than money and the filing deadline wasn't on any calendar — it was the day [Modius](/npcs/modius/) noticed, or the day the bond finished what fifty-two years had started, or the day [Allicia](/npcs/allicia/) simply stopped playing.
 
@@ -74,13 +74,13 @@ She gripped the rail until it passed.
 
 [Sir Henry](/npcs/sir-henry-johnson/) lifted his glass toward her. Small gesture, warm. An invitation. As though nothing had happened at all.
 
-She crossed to his booth and sat. He said her name like it was a compliment he didn't need to explain. She asked him about Modius.
+She crossed to his booth and sat. He said her name like it was a compliment he didn't need to explain. She asked him about [Modius](/npcs/modius/).
 
-Sir Henry set down the glass. The warmth stayed on his face but something behind it sharpened.
+[Sir Henry](/npcs/sir-henry-johnson/) set down the glass. The warmth stayed on his face but something behind it sharpened.
 
 "They didn't *send* me. [Annabelle](/npcs/annabelle-triabell/) suggested. Which is how [Annabelle](/npcs/annabelle-triabell/) sends." He'd gone in September. Stayed three nights. The Aspire, the guest suite, the wallpaper peeling. "Modius in 1990 is a man running a court with no court. The city is hemorrhaging population. His domain isn't shrinking because someone is taking it. It's evaporating."
 
-He knew about Allicia. Every Toreador elder between Chicago and Milwaukee knew. And nobody said it out loud, because what Modius had done to that woman was the kind of thing the clan didn't forgive but also didn't fix.
+He knew about [Allicia](/npcs/allicia/). Every Toreador elder between Chicago and Milwaukee knew. And nobody said it out loud, because what Modius had done to that woman was the kind of thing the clan didn't forgive but also didn't fix.
 
 "We just... watch."
 
@@ -128,9 +128,9 @@ The wall. The pause. "I'm compiling."
 
 He laid out the operational play — work the bartender, casual HUMINT, no Disciplines — and hit the gap at the step that required charm. "Which is not my tool."
 
-She grinned and went to work. Two minutes with [Jackie](/npcs/jackie-goodman/) behind the bar under four successes of Awe, and she came back with two names, two patterns, and the fact that Drummond had asked Brennon who she was.
+She grinned and went to work. Two minutes with [Jackie](/npcs/jackie-goodman/) behind the bar under four successes of Awe, and she came back with two names, two patterns, and the fact that [Drummond](/npcs/edgar/) had asked Brennon who she was.
 
-She gave him what she'd gotten. He gave her his analysis — Drummond asking Thornhill, not her, meant a cutout or a handler. Thornhill was the node.
+She gave him what she'd gotten. He gave her his analysis — Drummond asking [Thornhill](/npcs/brennon-thornhill/), not her, meant a cutout or a handler. Thornhill was the node.
 
 "You're not recruiting me because you need an analyst," he said. "You're recruiting me because you need something I have access to that you don't."
 

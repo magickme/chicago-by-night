@@ -24,7 +24,7 @@ And two seats from the door, a man in his late thirties with the Ford.
 
 Work boots, laces replaced twice. Carhartt jacket washed past its useful life. Wedding ring on a hand that shook in the way that has nothing to do with temperature. Two empties and a third in progress. Cash from a fold, not a wallet. The fold was thin.
 
-Darius took the next stool. Ordered a beer he'd never drink. The Budweiser sat in his mouth like cold nothing.
+[Darius](/darius-cole/) took the next stool. Ordered a beer he'd never drink. The Budweiser sat in his mouth like cold nothing.
 
 "Ford out front yours?"
 

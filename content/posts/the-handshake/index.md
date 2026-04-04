@@ -72,7 +72,7 @@ He sat in the wooden chair by the window. Folded his hands.
 
 "You first or me first?"
 
-"Does it matter? You and I are not so different, Darius. Not so different at all."
+"Does it matter? You and I are not so different, [Darius](/darius-cole/). Not so different at all."
 
 He went first. The name she'd never heard: [Darius Cole](/darius-cole/). The generation she'd never suspected: tenth, not twelfth. The sire: [Chuc Luc](/npcs/chuc-luc/), Pham Hong, ninth generation, [Lodin](/npcs/lodin/)'s brood. Planted in Gary to build a pipeline through the docks. Every interaction she'd had with Warren Birch, every phone call, every intel exchange, recalculated in real time with the new variable inserted, and the new variable changed everything and changed nothing because the man in the chair was the same man who'd been in the chair before he said his name. Just more of him.
 

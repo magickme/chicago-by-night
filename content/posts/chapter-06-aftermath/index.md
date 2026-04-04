@@ -30,9 +30,9 @@ The Horseshoe sat on 5th Avenue three blocks from the Palace Theater. Brown bric
 
 He waited. The cold pressed against him and he let it. Patience was the discipline [Chuc Luc](/npcs/chuc-luc/) had valued above all others, above Dominate, above the blood, above everything. The ability to stand still while the world arranged itself around you. The elders who survived weren't the strongest or the smartest. They were the ones who could wait.
 
-[Gregory](/npcs/gregory-stephens/) arrived at eleven with another man. Older, heavier, plainclothes, the comfortable slouch of a cop who'd been doing it long enough to stop caring about posture. They came in a tan Crown Vic and Gregory was carrying a manila folder under his arm and they went inside and [Darius](/darius-cole/) watched them go and thought about the folder and what was in it.
+[Gregory](/npcs/gregory-stephens/) arrived at eleven with another man. Older, heavier, plainclothes, the comfortable slouch of a cop who'd been doing it long enough to stop caring about posture. They came in a tan Crown Vic and [Gregory](/npcs/gregory-stephens/) was carrying a manila folder under his arm and they went inside and [Darius](/darius-cole/) watched them go and thought about the folder and what was in it.
 
-He waited another hour. The alley was dark and cold and smelled like grease and standing water. A rat the size of his fist ran along the base of the dumpster and disappeared into a hole that shouldn't have been big enough to hold it. Darius watched the front door and counted heartbeats he didn't have.
+He waited another hour. The alley was dark and cold and smelled like grease and standing water. A rat the size of his fist ran along the base of the dumpster and disappeared into a hole that shouldn't have been big enough to hold it. [Darius](/darius-cole/) watched the front door and counted heartbeats he didn't have.
 
 At twenty past midnight they came out together. Stood by the Crown Vic talking. The older cop clapped Gregory on the shoulder and got in a blue Caprice and drove away.
 

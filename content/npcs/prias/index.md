@@ -21,7 +21,7 @@ He met [Helena](/npcs/helena/) before she was anything other than mortal. They f
 
 Prias did not die. He spent thirteen years tracking [Helena](/npcs/helena/) across the ancient Mediterranean, a search that would have taken him through coastal trade routes, island chains, and port cities where information moved at the speed of sail. He found her in Argos, one of the oldest continuously inhabited cities in Greece, a Mycenaean stronghold already ancient when Prias arrived. But the woman he found was no longer the woman he had lost. Minos had Embraced her. She was Kindred.
 
-What happened next established the pattern for the next three millennia. Prias attacked Minos with soldiers — mortal soldiers, armed and organized, thrown against a vampire. He speared Minos through the heart. Helena leapt on the staked Methuselah and committed diablerie, consuming his soul and his power. Then she turned to Prias and offered the Embrace.
+What happened next established the pattern for the next three millennia. Prias attacked Minos with soldiers — mortal soldiers, armed and organized, thrown against a vampire. He speared Minos through the heart. [Helena](/npcs/helena/) leapt on the staked Methuselah and committed diablerie, consuming his soul and his power. Then she turned to Prias and offered the Embrace.
 
 He refused. "I would never become one of the horrors who fed on the blood of the living." The sentence is recorded in the source material as direct quotation, which means someone — Helena, or Prias himself — considered it important enough to preserve across thirty centuries.
 

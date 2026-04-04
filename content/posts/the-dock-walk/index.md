@@ -44,7 +44,7 @@ Mesmerize. The word wasn't spoken. The word was never spoken. You didn't name wh
 
 Eddie said yes the way a man confirms his own name. No hesitation. No resistance. The forty thousand dollars owed to Cicero and the daughter in Valparaiso and the twelve years of night shift and the seven months of Sal Cantone's money — all of it rearranged around a new center of gravity, and the center was a dead man standing in a dock office at eleven o'clock on a Monday in July.
 
-Eddie talked. Sal Cantone. Chicago. 312. Panel van, white, no markings. Tuesdays and Fridays. Two thousand a month in an envelope on the dashboard. Seven months. No questions, no names, no opening the sacks. A three-link chain: dock to warehouse to van, and Eddie was the first link, and Darius had just removed the chain from one machine and welded it to another.
+Eddie talked. Sal Cantone. Chicago. 312. Panel van, white, no markings. Tuesdays and Fridays. Two thousand a month in an envelope on the dashboard. Seven months. No questions, no names, no opening the sacks. A three-link chain: dock to warehouse to van, and Eddie was the first link, and [Darius](/darius-cole/) had just removed the chain from one machine and welded it to another.
 
 He rewrote the memory last. The Forgetful Mind was cleaner than the Mesmerize — not a command but an edit, the careful removal of fifteen minutes from a life that had sixty-three years of minutes and wouldn't miss these. Eddie blinked and picked up his pen and went back to his manifest, and the door closed, and the dock was quiet.
 

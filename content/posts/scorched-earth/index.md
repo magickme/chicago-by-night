@@ -48,4 +48,4 @@ The pipeline wasn't going to be built alongside [Lucian](/npcs/lucian/)'s operat
 
 Blood at thirteen. Willpower at five. The [Modius](/npcs/modius/) leash at its lowest point. The docks at his fingertips. And somewhere in a restaurant cellar in Chicago's New [Chinatown](/locations/chinatown/), a man in a cheap suit who smiled too wide was waiting for exactly this phone call.
 
-The game was the game. But for the first time, Darius was playing his own.
+The game was the game. But for the first time, [Darius](/darius-cole/) was playing his own.

@@ -118,7 +118,7 @@ On the back wall, near the office door, a framed photograph. Small, dusty, the g
 
 [Sable](/sable-price/) left the shoes on the barre. Left the photograph on the wall.
 
-She drove to Polk Street. Took what she needed, left the coat. The fur coat stayed at the green door, the real door, the one nobody knew about, the exit she'd need when everything Modius gave her turned out to be everything Modius could take away.
+She drove to Polk Street. Took what she needed, left the coat. The fur coat stayed at the green door, the real door, the one nobody knew about, the exit she'd need when everything [Modius](/npcs/modius/) gave her turned out to be everything Modius could take away.
 
 Back at Fifth Avenue she braced the office door and checked the walls for light and lay on the hardwood floor in the dark, and the mirror showed nothing because there was no light to show it by, and outside the boarded windows Gary was doing what Gary did at two in the morning, which was dying, which was the same thing it did at every other hour, only quieter.
 

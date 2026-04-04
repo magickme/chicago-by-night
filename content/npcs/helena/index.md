@@ -50,7 +50,7 @@ This was the Amaranth — diablerie of one's own sire. It elevated her to 4th ge
 
 [Prias](/npcs/prias/) refused the Embrace absolutely. He would never become one of the horrors who fed on the blood of the living. Helena offered an alternative: drink her blood, gain immortal life and extraordinary powers. He accepted. For the next three thousand years they lived together — Kindred and ghoul. He is an extremely beautiful blond young man with deep blue eyes and a dark, rich tan. Prefers robes.
 
-Helena first abused the Blood Bond during the Carthage period, forcing Prias to hunt her enemies during the day. He believed their love had grown deeper. Helena knew the truth.
+Helena first abused the Blood Bond during the Carthage period, forcing [Prias](/npcs/prias/) to hunt her enemies during the day. He believed their love had grown deeper. Helena knew the truth.
 
 After three millennia of feeding on 4th-generation blood, Prias reads as a Vampire to Auspex. Chicago's Tremere believe him to be an Inconnu. He possesses a silver sword made by Carthaginian vampire craftsmen — its wounds cannot be healed by Kindred except by mixing another vampire's blood with their own and pressing it to the wound.
 
@@ -82,7 +82,7 @@ After the climactic battle in Spain and a century of searching, Helena discovere
 
 ## Fort Dearborn (1832)
 
-Helena allied with the United States military. [Menele](/npcs/menele/) with Chief Black Hawk. The air turned red with the vast quantities of blood they used. Helena dug her claws into Menele's ribs. Menele drove his skull into her forehead. Both were thrown to the ground. Prias drove a burning stake into Menele's neck.
+Helena allied with the United States military. [Menele](/npcs/menele/) with Chief Black Hawk. The air turned red with the vast quantities of blood they used. Helena dug her claws into [Menele](/npcs/menele/)'s ribs. Menele drove his skull into her forehead. Both were thrown to the ground. Prias drove a burning stake into Menele's neck.
 
 Both Methuselahs fell into torpor. Prias carried Helena to a place of safety under the fort — deep in the dark earth at the bottom of a well, which he bricked up.
 

@@ -88,7 +88,7 @@ He looked. For two seconds he turned the words over behind his eyes and she coul
 
 "[Allicia](/npcs/allicia/) is settled," he said. He moved to the piano. One finger along the closed lid. "She has her role. She has her comforts. What she does not have is the right to interrogate my decisions."
 
-He looked back at Sable.
+He looked back at [Sable](/sable-price/).
 
 "Go to the meeting. Hear what she has to say. Then come tell me."
 
@@ -104,7 +104,7 @@ Seventy-fifth Street. 1:15 in the morning. Sable parked the Buick across the str
 
 The sign hadn't changed. THE OASIS in pink neon, the S flickering. Three cars in the lot. A bouncer she didn't recognize on a stool by the front door, reading a newspaper under the awning light. The bass line of whatever the DJ was playing vibrated through the brick and into the asphalt and up through the Buick's chassis into her hands on the steering wheel.
 
-Auspex opened without her asking. The senses widened and the building gave up its secrets. Two exits besides the front: the service door on the east side where the dancers smoked, and the fire exit in the back. The fire exit had a new padlock and chain on the outside. One way out the back now, through the service door. The back room where Allicia wanted to meet was the VIP lounge, no windows, one door, velvet booths that smelled like perfume and sweat and cash. She'd done private dances in that room for men who thought they were paying for intimacy when they were paying for proximity, and the difference between those two things was the width of Sable's entire career.
+Auspex opened without her asking. The senses widened and the building gave up its secrets. Two exits besides the front: the service door on the east side where the dancers smoked, and the fire exit in the back. The fire exit had a new padlock and chain on the outside. One way out the back now, through the service door. The back room where [Allicia](/npcs/allicia/) wanted to meet was the VIP lounge, no windows, one door, velvet booths that smelled like perfume and sweat and cash. She'd done private dances in that room for men who thought they were paying for intimacy when they were paying for proximity, and the difference between those two things was the width of Sable's entire career.
 
 Four heartbeats inside the building. No Kindred. No dead blood.
 

@@ -88,11 +88,11 @@ Blue flame. Then orange. The heat pushed up the tunnel like a train. Behind the 
 
 They came out of the tunnel at a run. The amphitheater was mid-feast — faces smeared with blood, the bonfire throwing lurching shadows. [Roarke](/npcs/roarke/) was twenty yards away, arms raised, face tilted toward the sky.
 
-Sable covered the distance in three seconds. Shotgun barrel to the back of [Roarke](/npcs/roarke/)'s skull.
+[Sable](/sable-price/) covered the distance in three seconds. Shotgun barrel to the back of [Roarke](/npcs/roarke/)'s skull.
 
 "Don't."
 
-Darius locked eyes across the firelight. Ventrue eyes. The same authority that had owned this man for sixty years.
+[Darius](/darius-cole/) locked eyes across the firelight. Ventrue eyes. The same authority that had owned this man for sixty years.
 
 "**STOP.**"
 
@@ -102,7 +102,7 @@ One cultist stepped forward with a machete. Sable found his eyes. Dread Gaze. Th
 
 [Roarke](/npcs/roarke/) broke the Command ten seconds later. Felt the shotgun. Assessed the situation the way ghouls do — half a century of serving things that could kill him in a heartbeat.
 
-"Take him," Roarke said. "Take him and get out. I don't care about the Prince."
+"Take him," [Roarke](/npcs/roarke/) said. "Take him and get out. I don't care about the Prince."
 
 Darius picked up the machete.
 
@@ -142,7 +142,7 @@ Darius knelt beside him. Eye contact. Easy. The man was already halfway to somew
 
 Five successes on the Forgetful Mind. Granite. Scottie's face slackened, refocused, cleared. A man who drove out to the country and found nothing worth the gas. The notebook went into Darius's pocket.
 
-Lodin had watched the entire exchange. When they rejoined him, the Prince nodded once. "Efficient."
+[Lodin](/npcs/lodin/) had watched the entire exchange. When they rejoined him, the Prince nodded once. "Efficient."
 
 ---
 

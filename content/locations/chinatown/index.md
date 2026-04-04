@@ -39,6 +39,6 @@ ShowToc: false
 
 ## Who Controls It
 
-- Chuc Luc. Completely. She has operated in this city longer than most Chicago Kindred realize, and the communities she feeds from protect her without knowing what she is.
+- [Chuc Luc](/npcs/chuc-luc/). Completely. She has operated in this city longer than most Chicago Kindred realize, and the communities she feeds from protect her without knowing what she is.
 - Mortal community leaders owe her favors through intermediaries. Gang activity in her territory is low because the last three people who tried to establish it disappeared.
 - The proximity to [Capone](/npcs/capone/)'s old South Side territory creates friction. The Italian Kindred remember whose ground this used to be.

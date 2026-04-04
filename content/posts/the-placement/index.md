@@ -60,7 +60,7 @@ He relaxed by a quarter inch. Then he told her about Chicago.
 
 "An Archon in Gary would be the end of everything I've built."
 
-She heard the fear in it. Not a man afraid of losing power — a man afraid of losing the proof that his power had ever been real. Modius's Touchstone was the city itself, and the city was dying, and Chicago was calling to ask whether the mortician had arrived yet.
+She heard the fear in it. Not a man afraid of losing power — a man afraid of losing the proof that his power had ever been real. [Modius](/npcs/modius/)'s Touchstone was the city itself, and the city was dying, and Chicago was calling to ask whether the mortician had arrived yet.
 
 "Tell Birch his two weeks are not a courtesy. They are a deadline."
 
@@ -84,7 +84,7 @@ The note on the counter. Block letters, ballpoint pen, no question marks because
 
 Then Amy. Three days without food. The blanket. The shaking. [Gloria Serrano](/npcs/gloria-serrano/) arrived at two-fifteen with a medical bag and hands that found veins on the first try and a diagnosis that landed in the room like something falling from a height: dissociative, acute, severe. Stable isn't recovering. Stable is holding the line.
 
-The IV bag hung from a nail in the wall where a painting used to be. Sable watched the saline drip into a girl who had retreated so far inside herself that the aura — when Sable looked, when she let the Auspex open and the colors bleed through skin — was dim. Not flickering. Dim. The light pulling inward the way a candle pulls inward before it goes out. Gray over white over something so faint it barely registered, and the faintness was the message: Amy was leaving her body the way you leave a house you've decided you'll never be safe in. Going somewhere internal where the chain and the storage unit couldn't follow. The not-eating wasn't a symptom. It was a border she was drawing with the last decision she was capable of making.
+The IV bag hung from a nail in the wall where a painting used to be. [Sable](/sable-price/) watched the saline drip into a girl who had retreated so far inside herself that the aura — when Sable looked, when she let the Auspex open and the colors bleed through skin — was dim. Not flickering. Dim. The light pulling inward the way a candle pulls inward before it goes out. Gray over white over something so faint it barely registered, and the faintness was the message: Amy was leaving her body the way you leave a house you've decided you'll never be safe in. Going somewhere internal where the chain and the storage unit couldn't follow. The not-eating wasn't a symptom. It was a border she was drawing with the last decision she was capable of making.
 
 And the one thing keeping the flame lit — the only thing — was the heartbeat on the mattress ten feet away. The one face she'd seen that wasn't holding a chain.
 
@@ -110,7 +110,7 @@ The Dan Ryan construction killed the margin — ten minutes of crawling through 
 
 [Darius](/darius-cole/) took the East Chicago exit without asking because the math was done and the math said Gary was forty minutes and forty minutes was ten minutes too many. Indianapolis Boulevard. Industrial. Refineries and rail yards and buildings made of cinderblock that didn't have windows because they were built for machines, not people.
 
-Lakovic & Sons. A machine shop that had closed when the steel died. The deadbolt rusted through the frame. Darius put his shoulder into it and the door opened on a darkness that smelled like cutting oil and cold metal and nothing alive.
+Lakovic & Sons. A machine shop that had closed when the steel died. The deadbolt rusted through the frame. [Darius](/darius-cole/) put his shoulder into it and the door opened on a darkness that smelled like cutting oil and cold metal and nothing alive.
 
 Inside. Door shut. The dark was total and perfect and safe in the way that only the dead understood — not an absence of light but a presence of protection, a wall between them and the thing outside that was about to try to kill them.
 

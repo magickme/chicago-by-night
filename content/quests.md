@@ -5,7 +5,7 @@ layout: "page"
 slug: "quests"
 ---
 
-*Chicago Chronicles. Act II: Ashes and Blood. Updated: **1991-01-10 (Thursday night)**.*
+*Chicago Chronicles. Act II: Ashes and Blood. Updated: **1991-01-11 (Friday night)**.*
 
 
 
@@ -30,8 +30,9 @@ slug: "quests"
 | Belthazar vendetta | NEW. Staked by Damien on Wacker Drive (S030). Neon guarding. When unstaked → hunt. |
 | The torpored body | TRANSFERRED. Menele's body delivered to Lodin at Drake Hotel (D031). Cedar closet, 8th floor. Lodin recognized the pendant. "A key." Coterie no longer in possession. Lodin ordered: do not discuss, do not open trunk for anyone. |
 | Damien and Neon | NEW. Anarch allies (strained — Sable warned Belthazar). Rescued coterie. Debt owed. |
-| Ballard's frame job (2x) | NEW. Ballard dining with Primogen, cultivating ghoul driver. Counter-ops: driver Mesmerized, Conditioning 4/14. Sir Henry monitoring. Clock 3/6. |
-| Gengis intel channel | NEW. Brujah Anarch gave Ballard intel freely. Wants access to Camarilla table through coterie. No commitment made. |
+| Ballard's frame job (2x) | ADVANCING. Counter-narrative built D034: dual-track (Lodin dossier + Primogen consensus). Sable/Sir Henry at salon Wed Jan 16. Driver Conditioning 5/14, blood-bonded Step 1. Legal pad secured. Lodin deadline: Wed or force Drake meeting. Goal: permanent removal. |
+| Gengis intel channel | OPEN. Brujah Anarch gave Ballard intel freely. Wants access to Camarilla table through coterie. No commitment made. |
+| Tremere breach | NEW. Unknown visitor (profile matches Tomás Navarro) found Walt's walkup Jan 10. Used Dominate, searched apartment, read legal pad, examined bite mark. Counter-op transparent to Tremere. |
 
 ## Sable
 
@@ -55,8 +56,8 @@ slug: "quests"
 | Damien/Neon | 1x | NEW. Anarch contact, strained by Sable's warning. Rescued coterie. |
 | Belthazar vendetta | 1x | NEW. Staked on Wacker. Will wake. Will hunt. |
 | Hunter convergence | 1x | ADVANCED. Standdown encountered + wiped. Shepard connected. |
-| Ballard's frame job | 2x | NEW. Ballard dining Primogen, cultivating ghoul driver. Counter-ops active. Clock 3/6. |
-| Sir Henry alliance | 1x | NEW. Gossip-for-gossip deal. Making Drake inquiries re Lodin. Invested — vouching on the line. |
+| Ballard's frame job | 2x | ADVANCING. Counter-narrative built D034. Sable delivering via Sir Henry at salon Wed Jan 16. Goal: permanent removal. |
+| Sir Henry alliance | 1x | ACTIVE. Gossip-for-gossip deal. Making Drake inquiries re Lodin. Salon Wed Jan 16 = delivery point for counter-narrative. |
 | Modius's leash | 2x | CLOSED (S033). Scene alteration. Modius turned inward. Silence, not forgiveness. |
 | Annabelle's salon | 1x | NEW. Wednesday Jan 16, 8 PM, Drake Hotel Rose Room. Sir Henry introducing. Seeds Annabelle's Party. |
 | Tomás Navarro — Tremere contact | 1x | NEW. First meeting S033 at Succubus Club. Operational potential. Analyst, not operator. |

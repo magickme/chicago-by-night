@@ -44,7 +44,7 @@ The machine had parts [Darius](/darius-cole/) hadn't installed. Parts that moved
 
 The mansion sat at the Emerson-Midtown seam like a mausoleum that still accepted visitors. White columns going gray. Classical music from inside. Chopin becoming Debussy becoming Satie, the soundtrack of a man who'd been alone for a very long time.
 
-[Modius](/npcs/modius/) received him in the study. Lamp positioned to catch the caller's face and leave the prince in shadow. The predatory aura of a seventh-generation Toreador filled the room like barometric pressure, and Darius sat in the deep chair and felt every vertebra in his spine register the difference between his blood and the blood on the other side of the desk.
+[Modius](/npcs/modius/) received him in the study. Lamp positioned to catch the caller's face and leave the prince in shadow. The predatory aura of a seventh-generation Toreador filled the room like barometric pressure, and [Darius](/darius-cole/) sat in the deep chair and felt every vertebra in his spine register the difference between his blood and the blood on the other side of the desk.
 
 The prince was warm. Pleased with the [Lucian](/npcs/lucian/) work. And frightened, under the warmth, of something he spoke about the way people speak about weather they can't control.
 

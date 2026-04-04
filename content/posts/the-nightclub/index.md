@@ -34,7 +34,7 @@ The barback took his break at ten-fifteen. Service entrance, the alley behind St
 
 "Got a light?"
 
-The barback read the coat and flicked his Bic. Darius leaned in, and what he offered was the shape of a solution -- private events on the South Side, cash bar, two hundred a night. The number landed the way numbers land on men who are counting. Two hundred a week is rent. The barback started talking about his experience and his availability and his schedule, and he didn't notice Darius's hand on his shoulder until it was there, and by then the alley was dark and something in the air had changed.
+The barback read the coat and flicked his Bic. [Darius](/darius-cole/) leaned in, and what he offered was the shape of a solution -- private events on the South Side, cash bar, two hundred a night. The number landed the way numbers land on men who are counting. Two hundred a week is rent. The barback started talking about his experience and his availability and his schedule, and he didn't notice Darius's hand on his shoulder until it was there, and by then the alley was dark and something in the air had changed.
 
 The barback's breath caught. His body went rigid, then loose, then nothing -- weight against the wall, eyes half-closed. The fleeting warmth of a man who watched people because he liked people, who worked two jobs because someone was counting on the money.
 
@@ -62,7 +62,7 @@ She gave him the shape without the detail: vacuums, renegotiations, the appearan
 
 "That is what you said last time, my dear." The warmth in his voice pulled back one degree. "I trust your judgment. I trust that you understand what it means to be missed."
 
-In the background, through the phone, faint as memory: [Allicia](/npcs/allicia/) playing something Sable didn't recognize. Modius listening to two women at once.
+In the background, through the phone, faint as memory: [Allicia](/npcs/allicia/) playing something [Sable](/sable-price/) didn't recognize. [Modius](/npcs/modius/) listening to two women at once.
 
 ---
 
@@ -100,7 +100,7 @@ Past midnight. The Buick heading south on State Street. Sable at the wheel.
 
 "What's it cost?"
 
-"Temperature of the room. After the audience." She drove. "He's invested now. Ballard's narrative makes him look bad -- he vouched for us."
+"Temperature of the room. After the audience." She drove. "He's invested now. [Ballard](/npcs/ballard/)'s narrative makes him look bad -- he vouched for us."
 
 "You trust him?"
 

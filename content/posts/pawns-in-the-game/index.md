@@ -56,7 +56,7 @@ From behind a closed door, two voices:
 
 [Julian](/npcs/julian-curry/) saw it too. Eight white pawns. Eight faces. We're five.
 
-[Amber](/npcs/amber/) said maybe everything is a game to them and the game is the point. Roarke said *truer words* in the flat dry voice of a man who'd spent six decades learning exactly how true it was.
+[Amber](/npcs/amber/) said maybe everything is a game to them and the game is the point. [Roarke](/npcs/roarke/) said *truer words* in the flat dry voice of a man who'd spent six decades learning exactly how true it was.
 
 An hour and a half later, [Pershing](/npcs/pershing/) opened the door without knocking and told them their master was finished. The corridor. The portraits. The front door. [Lodin](/npcs/lodin/) at the van with his hands behind his back and his face closed like a book someone had decided you weren't allowed to read.
 

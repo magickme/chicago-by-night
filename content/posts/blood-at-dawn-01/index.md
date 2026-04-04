@@ -62,7 +62,7 @@ Gone.
 
 [Victor](/npcs/victor-salonika/) wanted to tell [Allicia](/npcs/allicia/). [Darius](/darius-cole/) cut him off.
 
-"We'll handle it. Sable's friends with her."
+"We'll handle it. [Sable](/sable-price/)'s friends with her."
 
 The word *friends* hung in the air for a moment. Sable pocketed the brooch and didn't challenge it.
 
@@ -78,7 +78,7 @@ The eye moved to Sable. Three seconds.
 
 "She's pretty. The pretty ones are always the most trouble."
 
-The shed was small and full of candles and the paintings Darius had paid for with turpentine and linseed oil five months ago. Small dark canvases on the walls. One showed the cemetery from above with the headstones open and the coffins empty and something black and formless sitting in the center. Another showed [The Torch](/locations/the-torch/) at night with a shape in the alley that wasn't a boy and wasn't a shadow.
+The shed was small and full of candles and the paintings [Darius](/darius-cole/) had paid for with turpentine and linseed oil five months ago. Small dark canvases on the walls. One showed the cemetery from above with the headstones open and the coffins empty and something black and formless sitting in the center. Another showed [The Torch](/locations/the-torch/) at night with a shape in the alley that wasn't a boy and wasn't a shadow.
 
 He'd painted it months ago. He already knew.
 

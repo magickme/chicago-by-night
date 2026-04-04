@@ -61,7 +61,7 @@ It was only later — months later, when [Chuc Luc](/npcs/chuc-luc/) dropped the
 
 The Embrace came in a cellar beneath the restaurant. No ceremony. No warning. [Chuc Luc](/npcs/chuc-luc/) closed the restaurant, led Darius down a flight of stairs that smelled of old concrete and something older, and said: "This city was built on arrangements. The Italians think they own it. The Prince thinks he rules it. They are both correct, and neither one knows about me. You are about to understand why."
 
-Three nights in a locked room while the last of his mortal life burned out of him. When it was over, Chuc Luc opened the door and said: "You work for me. You will go to Gary. You will do exactly what I tell you. And no one will ever know I exist."
+Three nights in a locked room while the last of his mortal life burned out of him. When it was over, [Chuc Luc](/npcs/chuc-luc/) opened the door and said: "You work for me. You will go to Gary. You will do exactly what I tell you. And no one will ever know I exist."
 
 The feeding restriction hit hard and strange. He tried to feed from a woman at a bus stop. The blood hit his tongue like ash. Chuc Luc guided him to a different target — a stevedore at a bar, three months behind on child support, two payments from losing his truck. That blood was *perfect*. Warm, alive, singing with desperation and shame and the particular hunger of a person who owes more than they can ever pay.
 

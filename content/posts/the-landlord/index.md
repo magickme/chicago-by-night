@@ -52,7 +52,7 @@ Third finger. "Tell me what's in the warehouse. And tell me whether it's going t
 
 The car was quiet. The engine idled. Somewhere south, past the access road, past the docks, the lake moved against pilings with a sound like slow breathing.
 
-Darius looked at the three fingers. Each one a condition. Each one reasonable, which was the dangerous part, because reasonable conditions from a sixth-generation Gangrel who controlled the waterfront of a dying city meant the unreasonable part was hidden in the space between the words. The first two were rent. The third was intelligence. And intelligence, once given, became a lever that could be pulled from any direction.
+[Darius](/darius-cole/) looked at the three fingers. Each one a condition. Each one reasonable, which was the dangerous part, because reasonable conditions from a sixth-generation Gangrel who controlled the waterfront of a dying city meant the unreasonable part was hidden in the space between the words. The first two were rent. The third was intelligence. And intelligence, once given, became a lever that could be pulled from any direction.
 
 "First two, yes," Darius said. "Two thousand, first of the month, lockbox. Quiet waterfront. That's infrastructure. I understand infrastructure."
 
@@ -92,7 +92,7 @@ The haven. The phone. Webb picked up on the third ring and Darius could hear the
 
 He hung up. The receiver went back in the cradle with a click that was the sound of a man being scheduled for a procedure he hadn't consented to. Webb would arrive expecting paperwork. He would leave with instructions he'd follow without knowing why, the Conditioning settling into the architecture of his will like rebar into wet concrete.
 
-The warehouse was intact. Twenty-four sacks in the back, undisturbed, Eddie Fells on the floor doing whatever Eddie did when the night was long and the work was waiting. The lockbox was where Lucian said it would be -- bolted to the concrete inside the loading bay door, the combination scratched into the underside with something sharp. Darius memorized the numbers and left.
+The warehouse was intact. Twenty-four sacks in the back, undisturbed, Eddie Fells on the floor doing whatever Eddie did when the night was long and the work was waiting. The lockbox was where [Lucian](/npcs/lucian/) said it would be -- bolted to the concrete inside the loading bay door, the combination scratched into the underside with something sharp. Darius memorized the numbers and left.
 
 Polk & 13th was a skeleton. The roof was gone. The walls stood but they were black, the brick scorched in patterns that said the fire had started inside and burned outward, which was what happened when squatter candles caught dry wood in a building that nobody maintained in a city where the fire trucks came in twenty minutes if they came at all. The green door was a black rectangle. Yellow tape across it, the plastic kind that said FIRE LINE DO NOT CROSS in letters that were already fading. The smell was char and wet ash and something underneath that might have been the anchor bolts and the chain and the stain in the wooden floor, all of it rendered into the same undifferentiated gray powder that was Gary's native element.
 

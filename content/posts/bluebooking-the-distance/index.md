@@ -54,7 +54,7 @@ She looked at him. He looked at her. His face was the face of a man who'd just l
 
 Not *are you okay*. Not *what happened*. Not the face of a man who'd watched someone he cared about disappear. The face of a man who'd watched something interesting and filed it for later.
 
-He'd cared. He'd acted. But the thirty seconds where he watched came before the thirty seconds where he helped, and Sable had been watched her entire life by men who were calculating what she was worth before they decided what to do with her. The difference between [Darius](/darius-cole/) and every man at The Oasis was not that he was better. It was that he was better at it.
+He'd cared. He'd acted. But the thirty seconds where he watched came before the thirty seconds where he helped, and [Sable](/sable-price/) had been watched her entire life by men who were calculating what she was worth before they decided what to do with her. The difference between [Darius](/darius-cole/) and every man at The Oasis was not that he was better. It was that he was better at it.
 
 They didn't discuss it. They ordered drinks neither of them would finish and talked about the weather and the conversation had a new shape: the shape of something that had been weighed and found to have a price.
 
@@ -84,7 +84,7 @@ The next time they saw each other — Elysium, first Friday in June — the car 
 
 Meanwhile, Gary kept dying.
 
-In March, a boy's body turned up in the dumpster behind [The Torch](/locations/the-torch/). Sixteen, underfed, gray-skinned. Gary PD wrote it as an overdose. [Victor](/npcs/victor-salonika/) cleaned the alley before dawn, the way he cleaned everything that happened behind The Torch, with bleach and efficiency and the quiet competence of a man who had been making problems disappear for forty years.
+In March, a boy's body turned up in the dumpster behind [The Torch](/locations/the-torch/). Sixteen, underfed, gray-skinned. Gary PD wrote it as an overdose. [Victor](/npcs/victor-salonika/) cleaned the alley before dawn, the way he cleaned everything that happened behind [The Torch](/locations/the-torch/), with bleach and efficiency and the quiet competence of a man who had been making problems disappear for forty years.
 
 In April, a dockworker told a bouncer who told a dancer who told Sable that somebody had seen a boy walking near the Wasteland. A boy matching the description of the one they found in the dumpster. Three weeks dead and walking. The dancer laughed when she said it. Sable didn't.
 
@@ -94,7 +94,7 @@ The city was doing what Gary always did: producing evidence of something wrong a
 
 ---
 
-By June, Darius and Sable had what they had. Not a coterie. Not an alliance. Not a friendship. Something with no name that operated on the frequency between trust and surveillance, between care and calculation, between the woman who froze in a strip club and the man who watched her freeze, between the soldier who left for Chicago and the woman who recognized the shape of the cage.
+By June, [Darius](/darius-cole/) and Sable had what they had. Not a coterie. Not an alliance. Not a friendship. Something with no name that operated on the frequency between trust and surveillance, between care and calculation, between the woman who froze in a strip club and the man who watched her freeze, between the soldier who left for Chicago and the woman who recognized the shape of the cage.
 
 They saw each other clearly. That was the problem. Two architects looking at each other's blueprints and finding the same load-bearing flaw: neither of them could be honest without being vulnerable, and being vulnerable in Gary was the kind of mistake that ended with your ashes in a dumpster behind The Torch, next to the body of a boy who wouldn't stay dead.
 

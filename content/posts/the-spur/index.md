@@ -46,13 +46,13 @@ He put his hands in the pockets of the overcoat. Patient. A man settling in for 
 
 [Darius](/darius-cole/) leaned against the Cutlass. Crossed his arms. Let his eyes go slightly wide. The Conformist mask -- attentive, a little overwhelmed, the twelfth-generation nobody trying to keep up. He asked the questions a confused neonate would ask. How does that work. Is [Modius](/npcs/modius/) aware. What happens if the report says something they don't like. Each answer [Horace](/npcs/horace/) gave was another card shown, another minute invested, another step deeper into a conversation the man from Chicago couldn't walk away from empty-handed.
 
-And while [Horace](/npcs/horace/) talked, Darius watched the cracks.
+And while [Horace](/npcs/horace/) talked, [Darius](/darius-cole/) watched the cracks.
 
 The paranoia was constant. Not about Darius -- about being here. [Horace](/npcs/horace/) tracked the tree line, the road, the wind direction. Five months in a foreign city without a haven or a retainer or an exit route. A man whose mind never stopped calculating threats because stopping meant dying, and dying was the only thing the Malkavian in him truly feared.
 
 He needed this to work. The observation had run its course. He'd seen what Obfuscate could show him and now he needed a source, someone inside Gary's court who could provide the kind of intelligence that justified five months of silence to a handler in Chicago. Without Darius, [Horace](/npcs/horace/) went home with nothing.
 
-And underneath both of those: the respect. Genuine. Not performed. Horace had spent five months watching a neonate build something in a dying city and he'd come to the spur tonight because he believed the builder was worth talking to. That was the crack. Respect made a man predictable.
+And underneath both of those: the respect. Genuine. Not performed. [Horace](/npcs/horace/) had spent five months watching a neonate build something in a dying city and he'd come to the spur tonight because he believed the builder was worth talking to. That was the crack. Respect made a man predictable.
 
 "You're a good listener," Horace said eventually. The smooth surface catching a seam. "Most neonates would have interrupted six times by now."
 

@@ -18,7 +18,7 @@ Tuesday night. Al Green on the jukebox. [The Torch](/locations/the-torch/) two-t
 
 He'd never seen [Juggler](/npcs/juggler/). Seven months in Gary and nobody had introduced them — not [Modius](/npcs/modius/), not [Victor](/npcs/victor-salonika/), not [Allicia](/npcs/allicia/), not the court. The Brujah who controlled feeding on the Rack, who decided who hunted and who didn't, who kept the Masquerade intact on Broadway, had been twenty feet away on every night [Darius](/darius-cole/) walked through that door, and the two of them had never exchanged a word. That was either Gary being Gary — a city too small to have protocols and too broken to enforce them — or it was deliberate. [Victor](/npcs/victor-salonika/)'s deliberate. The ghoul had compartmentalized the mortal mortgage holder from the Kindred operations because nobody told him the mortal was Kindred.
 
-Darius sat at the bar. Let [Juggler](/npcs/juggler/) come to him. Three minutes. Then the booth creaked and footsteps crossed the floor and a body dropped onto the next stool with the ease of a man who considered every seat in the building his.
+[Darius](/darius-cole/) sat at the bar. Let [Juggler](/npcs/juggler/) come to him. Three minutes. Then the booth creaked and footsteps crossed the floor and a body dropped onto the next stool with the ease of a man who considered every seat in the building his.
 
 "So you're the one who bought my bar."
 
@@ -26,7 +26,7 @@ The voice was mid-register and direct and wasted nothing. The face was dark-skin
 
 Darius answered the statement with a question and [Juggler](/npcs/juggler/) answered the question with a fact and for five minutes they circled each other the way two professionals circle when neither knows the other's rate. Darius deflected. [Juggler](/npcs/juggler/) laid his cards on the bar — the handshake, the FBI, the Warren Birch name, the money with no source. He gave it free, which in the Camarilla was either generosity or a trap, and [Juggler](/npcs/juggler/) said it was neither. He said the Camarilla's habit of charging for the weather report was half the reason the machine didn't work.
 
-Darius challenged him. Told him his name wasn't on any paperwork. Juggler proved his authority through [Victor](/npcs/victor-salonika/) — a single question, a single answer, the kind of proof that doesn't need emphasis because the room already knew. Then Juggler asked what Darius wanted with the building and Darius made him ask three times before answering, because the Ventrue in him couldn't stop testing and the street kid in him couldn't stop stalling and both of them knew that the first person to show their hand in Gary was the first person to get played.
+Darius challenged him. Told him his name wasn't on any paperwork. [Juggler](/npcs/juggler/) proved his authority through [Victor](/npcs/victor-salonika/) — a single question, a single answer, the kind of proof that doesn't need emphasis because the room already knew. Then Juggler asked what Darius wanted with the building and Darius made him ask three times before answering, because the Ventrue in him couldn't stop testing and the street kid in him couldn't stop stalling and both of them knew that the first person to show their hand in Gary was the first person to get played.
 
 He told the truth. Rent. Eight hundred a month. The building was an investment, not a power play. He didn't know about Juggler because nobody told him about Juggler, and the man he'd trusted to manage the bar had treated him like a mortal front because that's what he'd looked like.
 

@@ -30,7 +30,7 @@ The conclusion was wrong. But it was clean and it was logical and it locked into
 
 He armed up at the haven. The Remington was under the bed in a gym bag, sawed down to eighteen inches, loaded, next to a .38 he'd taken as payment on a fence job and forgotten about. He put the snub-nose on his ankle and the shotgun in the bag and the bag over his shoulder and he drove back to the docks.
 
-The plan was simple: Ray at ground level, visible, the front man for whoever showed up at ten. Darius on the roof of the adjacent warehouse with the Remington and a sight line. Watch the meeting, confirm it was [Danov](/npcs/alexander-danov/)'s proxy, file the information, move on.
+The plan was simple: Ray at ground level, visible, the front man for whoever showed up at ten. [Darius](/darius-cole/) on the roof of the adjacent warehouse with the Remington and a sight line. Watch the meeting, confirm it was [Danov](/npcs/alexander-danov/)'s proxy, file the information, move on.
 
 He climbed the loading bay pallets and the drain pipe and rolled onto the tar paper roof at 9:35. Flat on his stomach. The waterfront spread below him in sodium orange and black: the berths, the access road, Ray's Nova in the Berth 7 lot, the container stacks to the south. Almost no moon. Dark sky for a man with no supernatural eyes.
 

@@ -38,7 +38,7 @@ The words landed like stones on still water. Not an offer. A confession. She was
 
 "I told him no."
 
-Four words. The fourth time. She had refused the prince of Gary. The woman who hadn't defied her sire in decades, who was three steps bound and had no leverage and no allies and no way out, had told [Modius](/npcs/modius/) *no*. That was why [Victor](/npcs/victor-salonika/) called. That was why the side entrance. She wasn't just reaching out. She was burning a bridge, and she wanted Sable to know before the fire reached them both.
+Four words. The fourth time. She had refused the prince of Gary. The woman who hadn't defied her sire in decades, who was three steps bound and had no leverage and no allies and no way out, had told [Modius](/npcs/modius/) *no*. That was why [Victor](/npcs/victor-salonika/) called. That was why the side entrance. She wasn't just reaching out. She was burning a bridge, and she wanted [Sable](/sable-price/) to know before the fire reached them both.
 
 Sable slid the robe off one shoulder. Then the other. Green silk pooling on the window seat. "May I?"
 
@@ -46,7 +46,7 @@ The smallest nod.
 
 Then the curse took her. The green eyes at close range, the gardenia, the lamplight on the line of [Allicia](/npcs/allicia/)'s throat, and the Toreador weakness hit Sable like a wall of glass — beauty so absolute that the part of her mind responsible for doing things shut off. She froze. Fingers still on [Allicia](/npcs/allicia/)'s skin. Eyes locked. Held by the blood's oldest and cruelest gift: to see beauty more clearly than any creature alive and be paralyzed by it.
 
-Allicia watched it happen. She knew the weakness. She had it too. She saw Sable freeze mid-gesture, and she understood, and she didn't pull away. She didn't cover herself. She stayed perfectly still and let Sable look, because this was the one thing in her life that wasn't performance or control or ownership. A woman frozen by the beauty of another woman, and neither of them chose it, and neither of them could stop it, and the honesty of that was more naked than skin.
+[Allicia](/npcs/allicia/) watched it happen. She knew the weakness. She had it too. She saw Sable freeze mid-gesture, and she understood, and she didn't pull away. She didn't cover herself. She stayed perfectly still and let Sable look, because this was the one thing in her life that wasn't performance or control or ownership. A woman frozen by the beauty of another woman, and neither of them chose it, and neither of them could stop it, and the honesty of that was more naked than skin.
 
 Sable surfaced slowly. The room reassembled. She spent the blood and felt the warmth rise in her cheeks — the blush, the old trick, vitae turned into the ghost of a living woman's flush.
 

@@ -34,7 +34,7 @@ Twenty minutes later someone knocked on the door. Hard. Three times.
 
 [Belthazar](/npcs/belthazar/). Ventrue. One of the Prince's Eyes -- the upper-class districts, the cushy beat. [Roarke](/npcs/roarke/) knew the name from the roster. He opened the door.
 
-The Kindred filled the doorway. Charcoal overcoat, dark hair swept back, eyes that looked at mortals the way a man looks at furniture he's considering replacing. He walked past Roarke muttering about a crazy Malkavian bitch and her unsanctioned Embrace. Demanded to see the Prince. Roarke went to the vault door and knocked. [Lodin](/npcs/lodin/) told him to be silent. Five minutes passed. The vault opened.
+The Kindred filled the doorway. Charcoal overcoat, dark hair swept back, eyes that looked at mortals the way a man looks at furniture he's considering replacing. He walked past [Roarke](/npcs/roarke/) muttering about a crazy Malkavian bitch and her unsanctioned Embrace. Demanded to see the Prince. Roarke went to the vault door and knocked. [Lodin](/npcs/lodin/) told him to be silent. Five minutes passed. The vault opened.
 
 [Lodin](/npcs/lodin/) stepped out. Not tall. Not physically imposing. A dark suit that fit like it was born on him and eyes that were old in a way that had nothing to do with the face. Roarke's name as an accusation: one word.
 
@@ -46,6 +46,6 @@ The library door closed. [Belthazar](/npcs/belthazar/)'s voice came through anyw
 
 The front door slammed hard enough to rattle the liquor cabinet. [Lodin](/npcs/lodin/) called Roarke into the library and told him about London.
 
-Tomorrow night. Chartered jet. Absolute secrecy. A manila envelope with logistics. The way Lodin said the word London -- low, deliberate, weighted -- made it sound like the instructions for a war.
+Tomorrow night. Chartered jet. Absolute secrecy. A manila envelope with logistics. The way [Lodin](/npcs/lodin/) said the word London -- low, deliberate, weighted -- made it sound like the instructions for a war.
 
 Roarke briefed the others. [Natasha](/npcs/natasha/) nodded. [Julian](/npcs/julian-curry/) approved. [Amber](/npcs/amber/) said wow. [Derek](/npcs/derek-gallen/) got back from O'Hare and grinned like it was Christmas.

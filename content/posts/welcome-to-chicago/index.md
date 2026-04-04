@@ -44,7 +44,7 @@ The back room held six Gangrel bikers and two men on the floor. [Horace](/npcs/h
 
 In the office, [Horace](/npcs/horace/) made his calls. The coterie was expected. The [Field Museum](/locations/field-museum/), three in the morning. The Prince would see them.
 
-Darius didn't ask about the boon. The currency was worth more unspent.
+[Darius](/darius-cole/) didn't ask about the boon. The currency was worth more unspent.
 
 ---
 

@@ -23,7 +23,7 @@ Jason Newberry got his start as a child, pulling the wings off butterflies and b
 
 Son has not changed much during the past hundred years. The only difference is that he sometimes prefers mental cruelty to physical torment -- but not always. His preferred method of hunting is to attract a pair of lovers to his Skokie Haven using his strong Presence, feed on them and convince one that he or she has been turned into a Vampire. He will then force that one to drink the blood of the other and then, satiated and happy, use Domination to render his victims forever unable to speak about what happened.
 
-Son publicly claims to be the child of Ben and Paula Smith, and only he, O'Leary and Prince [Lodin](/npcs/lodin/) know the truth. He began doing this merely to tease the couple, since he knows they were not married in life. However, he has also caught himself occasionally believing that he really is their son, and bringing them gifts of chocolates and dead flowers. Recently he has found himself thinking about drinking their Blood.
+Son publicly claims to be the child of Ben and Paula Smith, and only he, [O'Leary](/npcs/maureen-oleary/) and Prince [Lodin](/npcs/lodin/) know the truth. He began doing this merely to tease the couple, since he knows they were not married in life. However, he has also caught himself occasionally believing that he really is their son, and bringing them gifts of chocolates and dead flowers. Recently he has found himself thinking about drinking their Blood.
 
 During the upheavals of the mid-80s, Son killed a Caitiff by draining her of all her Blood. He enjoyed the experience even more than feeding off his parents, and the desire is growing to do it again.
 

@@ -44,7 +44,7 @@ Silence. The bass pulsed through the wall. The red lamp hummed.
 
 "What do you think he did?"
 
-A test. Not a question. Sable could feel the weight of it. [Allicia](/npcs/allicia/) had come to the South Side of Chicago to sit in the back room of a strip club and ask one question, and the answer would determine whether Sable was worth talking to or just another piece of furniture the prince had moved from one room to another.
+A test. Not a question. [Sable](/sable-price/) could feel the weight of it. [Allicia](/npcs/allicia/) had come to the South Side of Chicago to sit in the back room of a strip club and ask one question, and the answer would determine whether Sable was worth talking to or just another piece of furniture the prince had moved from one room to another.
 
 "He collected you. You were the most beautiful thing in Gary and he put you on a shelf. Then you stopped being new, and the shelf became a room, and the room became the mansion, and now you live inside the thing he built around you. And he gave your studio to the next one because keeping it empty would mean admitting he broke something."
 
@@ -78,7 +78,7 @@ She looked at Sable. The mask was cracked. Not broken. One fault line running th
 
 She stood. Walked to the door. Opened it and the main floor music flooded the booth and the red light shifted and Sable sat in the velvet dark with the razor in her pocket and the warning in her chest.
 
-Allicia paused in the doorway without turning around.
+[Allicia](/npcs/allicia/) paused in the doorway without turning around.
 
 "The shoes are yours now. I don't dance anymore."
 

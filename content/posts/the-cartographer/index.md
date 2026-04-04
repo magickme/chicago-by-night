@@ -50,7 +50,7 @@ Eight feet to [Darius](/darius-cole/)'s left. The Obfuscate stopped and [Danov](
 
 They moved between headstones. The ground was soft where the earth had settled over old graves. [Danov](/npcs/alexander-danov/) walked without looking down.
 
-"[Juggler](/npcs/juggler/) tells me you need paper. Federal-grade. A face that can sit across from a desk at the FBI field office and not melt." He didn't look at Darius when he spoke. He looked at the cemetery. "I have a man on Washington Street who does paper. Shallow layer — license, social, credit. Good enough for a traffic stop. Not good enough for the Bureau."
+"[Juggler](/npcs/juggler/) tells me you need paper. Federal-grade. A face that can sit across from a desk at the FBI field office and not melt." He didn't look at [Darius](/darius-cole/) when he spoke. He looked at the cemetery. "I have a man on Washington Street who does paper. Shallow layer — license, social, credit. Good enough for a traffic stop. Not good enough for the Bureau."
 
 The distinction was everything. [Shepard](/npcs/william-shepard/) wasn't going to pull Warren Birch over for running a stop sign. [Shepard](/npcs/william-shepard/) was going to run Warren Birch through Social Security Administration databases and IRS records and cross-reference employment history with addresses, and the shallow layer would collapse in seventy-two hours like a set built for a single scene.
 
@@ -70,7 +70,7 @@ Darius deflected. [Danov](/npcs/alexander-danov/) refused the deflection with th
 
 An archive. Not a weapon.
 
-Whether Darius believed that was a calculation he ran in three seconds — the posture, the voice, the fact that Danov had been sitting on information about the warehouse and the FBI and the handshake for weeks without using any of it. An information broker who used what he knew would have already sold Darius's cover story to [Modius](/npcs/modius/) for a favor. The fact that he hadn't meant either he was playing a longer game or he was telling the truth, and in Gary, in 1990, in a cemetery at midnight, the longer game and the truth looked exactly the same.
+Whether Darius believed that was a calculation he ran in three seconds — the posture, the voice, the fact that [Danov](/npcs/alexander-danov/) had been sitting on information about the warehouse and the FBI and the handshake for weeks without using any of it. An information broker who used what he knew would have already sold Darius's cover story to [Modius](/npcs/modius/) for a favor. The fact that he hadn't meant either he was playing a longer game or he was telling the truth, and in Gary, in 1990, in a cemetery at midnight, the longer game and the truth looked exactly the same.
 
 "[Chuc Luc](/npcs/chuc-luc/)."
 

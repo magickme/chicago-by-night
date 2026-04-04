@@ -22,7 +22,7 @@ He stood when [Darius](/darius-cole/) came in. Not fast. The controlled way a ma
 
 "Mr. Birch."
 
-"Marcus." Darius pulled out the other chair. Sat. "Long drive?"
+"Marcus." [Darius](/darius-cole/) pulled out the other chair. Sat. "Long drive?"
 
 "Left at nine. Construction on the Skyway." A pause. "You said noon."
 

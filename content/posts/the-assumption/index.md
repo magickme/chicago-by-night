@@ -44,7 +44,7 @@ The room shifted. The Child rose through the Conniver like warmth through cold w
 
 He shook his head. "You remind me of someone."
 
-For one second something moved behind the prince's face that Darius couldn't read. Memory or regret or the specific loneliness of a man who has outlived every protégé he ever made. Then gone.
+For one second something moved behind the prince's face that [Darius](/darius-cole/) couldn't read. Memory or regret or the specific loneliness of a man who has outlived every protégé he ever made. Then gone.
 
 [Modius](/npcs/modius/) extended his hand. A prince offering a handshake to a neonate. In eighty years of court this gesture had happened fewer than a dozen times. Darius took it. The grip was cool and firm and meant exactly what it looked like, which in the Jyhad meant it could mean anything.
 

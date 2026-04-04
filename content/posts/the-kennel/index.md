@@ -122,7 +122,7 @@ After the call, the room was quiet. The ghouls were gone — sent to East Chicag
 
 She felt the pull. The Toreador weakness reaching for her, the beauty sharp enough to cut. She held. Stayed present. Stayed in control.
 
-That was worse. Being entranced was the easy version. You fell into beauty the way you fell into water and when you surfaced you could say the blood made you helpless. [Sable](/sable-price/) wasn't helpless. She reached for Allicia because she wanted to.
+That was worse. Being entranced was the easy version. You fell into beauty the way you fell into water and when you surfaced you could say the blood made you helpless. [Sable](/sable-price/) wasn't helpless. She reached for [Allicia](/npcs/allicia/) because she wanted to.
 
 She kissed her.
 
@@ -134,7 +134,7 @@ Allicia said one word. "Please."
 
 Nine.
 
-Sable offered her neck, and Allicia took it — slow, deliberate, two mouthfuls, the bond between them tightening from cord to cable. Then Sable bit Allicia's neck. Not because she was hungry. Because the symmetry demanded it. Because two Toreador in a room full of a dead man's paintings knew that the most beautiful thing in the world was not a painting but a circuit — blood moving between two bodies in a loop that was older than language and more honest than anything either of them would ever say.
+[Sable](/sable-price/) offered her neck, and Allicia took it — slow, deliberate, two mouthfuls, the bond between them tightening from cord to cable. Then Sable bit Allicia's neck. Not because she was hungry. Because the symmetry demanded it. Because two Toreador in a room full of a dead man's paintings knew that the most beautiful thing in the world was not a painting but a circuit — blood moving between two bodies in a loop that was older than language and more honest than anything either of them would ever say.
 
 Allicia's blood tasted like old music. Like a chord held for fifty years in a dark room. Like the specific loneliness of a woman who had been owned so long she'd forgotten what her own name sounded like when someone said it with tenderness.
 

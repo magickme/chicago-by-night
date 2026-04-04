@@ -66,7 +66,7 @@ He meant it the way a drowning man means *help*. Not a proposition. A prayer.
 
 ---
 
-Outside. The cold. Curtis shivered and Sable didn't and she wrapped her arms around herself because that was what living women did in January. He took off the denim jacket — the clean one, the costume, the last piece of the man he'd been before September — and put it around her shoulders without asking. The inside of it was warm from his body and it smelled like fabric softener and Marlboro Lights and the particular sadness of a man who still does his own laundry because if he stopped he'd have to admit that nobody is coming back.
+Outside. The cold. Curtis shivered and [Sable](/sable-price/) didn't and she wrapped her arms around herself because that was what living women did in January. He took off the denim jacket — the clean one, the costume, the last piece of the man he'd been before September — and put it around her shoulders without asking. The inside of it was warm from his body and it smelled like fabric softener and Marlboro Lights and the particular sadness of a man who still does his own laundry because if he stopped he'd have to admit that nobody is coming back.
 
 They walked. Half a block. The streetlights thinned and the storefronts went dark and Gary opened up around them like a mouth with missing teeth.
 

@@ -44,7 +44,7 @@ The BP station on Fifth Avenue. The phone book hanging from a chain. [Wierus](/n
 
 Pennsylvania Avenue was the kind of street that existed in every dying neighborhood in every dying city: vinyl siding gone gray, chain-link fences around yards nobody maintained, the amber glow of occupied houses getting sparser until the dark won. 1847 was a bungalow. One light on. Kitchen window. The only evidence of human habitation on a block that was forgetting what the word meant.
 
-They split. Darius took the front and sides. [Sable](/sable-price/) took the back. Three minutes. What they found: two warded entrances with salt lines and leather charm bags on the doorknobs, sealed windows, a man at a kitchen table surrounded by notebooks and photographs of [Allicia](/npcs/allicia/), and a chalk ritual circle scratched into the back patio stained with old blood.
+They split. [Darius](/darius-cole/) took the front and sides. [Sable](/sable-price/) took the back. Three minutes. What they found: two warded entrances with salt lines and leather charm bags on the doorknobs, sealed windows, a man at a kitchen table surrounded by notebooks and photographs of [Allicia](/npcs/allicia/), and a chalk ritual circle scratched into the back patio stained with old blood.
 
 And in the bedroom, visible through a gap in the window covering: a loose floorboard with a deliberate gap. A hiding spot.
 
@@ -82,7 +82,7 @@ She took all three. Replaced the board. Moved down the hallway past the kitchen 
 
 In the Cutlass, the bag pulsed faster. Twice a second. Three times. The anchor knew it had been moved. The spirit on the other end of the leash was recalculating.
 
-"It's a beacon," Sable said. "It goes both ways. It can feel where the anchor is."
+"It's a beacon," [Sable](/sable-price/) said. "It goes both ways. It can feel where the anchor is."
 
 They drove to the Wasteland. The ore smelter where the roof had caved in. A shipping pallet, dry wood, a fire built the way people who grew up without reliable heat know how to build fires.
 

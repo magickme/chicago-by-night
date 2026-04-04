@@ -48,7 +48,7 @@ Halloran to Warwick to a law-firm shell in Chicago. [Sharon](/npcs/sharon-payne/
 
 Then the party began doing what parties in Gary always did when enough Kindred were trapped in one structure: pretending etiquette was stronger than appetite.
 
-The signal system kept Darius close without requiring closeness. A touch at the cuff. Fingers to the collarbone. Language small enough to survive in hostile architecture. It was one of the few beautiful things in the room because it was useful.
+The signal system kept [Darius](/darius-cole/) close without requiring closeness. A touch at the cuff. Fingers to the collarbone. Language small enough to survive in hostile architecture. It was one of the few beautiful things in the room because it was useful.
 
 When [Juggler](/npcs/juggler/) detonated the evening, [Sable](/sable-price/) moved.
 
@@ -72,7 +72,7 @@ When [Annabelle](/npcs/annabelle-triabell/) arrived, the room learned what rank 
 
 By the end of the night Gary had made its decision. [Modius](/npcs/modius/)'s emissaries. Chicago bound. Letter sealed. Safe passage dressed up as duty.
 
-Sable left with the piano still in her ears and [Allicia](/npcs/allicia/)'s unreadable face burned behind her eyes and one clear fact where hope used to be:
+[Sable](/sable-price/) left with the piano still in her ears and [Allicia](/npcs/allicia/)'s unreadable face burned behind her eyes and one clear fact where hope used to be:
 
 The bond could break.
 

@@ -44,7 +44,7 @@ She gave him everything he wanted to hear. The trembling voice. The catch in the
 
 He led her to the good chair. He brought her wine she wouldn't drink. He sat beside her and his whole body leaned toward her the way buildings lean toward their foundations, structural, load-bearing, as if without her specific gravity in the room beside him he might tip over and never get up.
 
-She'd known men like this her entire life. Big Six had the same lean. The johns at The Oasis had the same lean. The difference was that [Modius](/npcs/modius/) had been leaning for two hundred years and the weight of all that leaning had compressed him into something that was simultaneously the most powerful man in Gary and the loneliest creature she had ever seen, and Sable had seen a lot of lonely creatures because she'd been making them her whole career.
+She'd known men like this her entire life. Big Six had the same lean. The johns at The Oasis had the same lean. The difference was that [Modius](/npcs/modius/) had been leaning for two hundred years and the weight of all that leaning had compressed him into something that was simultaneously the most powerful man in Gary and the loneliest creature she had ever seen, and [Sable](/sable-price/) had seen a lot of lonely creatures because she'd been making them her whole career.
 
 ---
 

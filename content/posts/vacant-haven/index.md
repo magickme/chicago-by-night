@@ -72,11 +72,11 @@ Beyond: a vault door. Seven tons of steel, reinforced, time-locked. Torn from it
 
 ---
 
-"Let me try psychometry," Sable said, taking off her evening gloves. "[Darius](/darius-cole/). Unlock the girl."
+"Let me try psychometry," [Sable](/sable-price/) said, taking off her evening gloves. "[Darius](/darius-cole/). Unlock the girl."
 
 [Critias](/npcs/critias/)'s head turned. Slight motion. The interest of a man who just heard a word he didn't expect from the source he didn't expect it from. *Psychometry.* A neonate Toreador with Spirit's Touch.
 
-"Proceed," he said. To Sable, not to Belthazar. That distinction filled the room.
+"Proceed," he said. To Sable, not to [Belthazar](/npcs/belthazar/). That distinction filled the room.
 
 She put her hand on the vault door and the world went white.
 
@@ -112,7 +112,7 @@ Sable summarized for [Critias](/npcs/critias/). The ancient blood. The single at
 
 "The blood you describe," he said. "You have nothing to compare it to."
 
-Darius came back from the security room. Reported: [Natasha](/npcs/natasha/)'s memory had been surgically removed. Whoever did it knew her. She let them in. The wipe was beyond his ability to reverse.
+[Darius](/darius-cole/) came back from the security room. Reported: [Natasha](/npcs/natasha/)'s memory had been surgically removed. Whoever did it knew her. She let them in. The wipe was beyond his ability to reverse.
 
 "One person," [Critias](/npcs/critias/) said from the vault doorway. He hadn't raised his voice. "One individual entered this haven, shot the retainer at the desk, disabled the security system through the second retainer's willing cooperation, tore a seven-ton vault door from reinforced concrete with physical force derived from blood older than this city, and carried the Prince of Chicago out of the building." He paused. "That individual knew both retainers by name."
 
@@ -128,7 +128,7 @@ On a shelf in the office: a leather-bound journal. Admiral Tourney — a British
 
 Belthazar answered first. "One of [Lodin](/npcs/lodin/)'s people. Sent to England on some errand, before my appointment. Never came back. The Prince wrote him off as dead."
 
-Critias took the journal. Read the inscription. Read it again.
+[Critias](/npcs/critias/) took the journal. Read the inscription. Read it again.
 
 "A retainer believed dead," he said. "Dedicated in a book purchased at a London auction. And the Prince's haven was entered by someone the surviving retainer opened the door for."
 

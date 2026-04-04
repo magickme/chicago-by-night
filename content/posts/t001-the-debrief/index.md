@@ -28,7 +28,7 @@ He gave it clean. Operational shorthand. Subject, verb, assessment. The things h
 
 "She's in [Modius](/npcs/modius/)'s delegation. Arrived with the coterie from Gary. Background pending."
 
-A silence opened in the room. Nicolai had a way of using silence the way other people used questions. He let it sit there like a specimen on a slide, waiting for the subject to move first and reveal something.
+A silence opened in the room. [Nicolai](/npcs/nicolai/) had a way of using silence the way other people used questions. He let it sit there like a specimen on a slide, waiting for the subject to move first and reveal something.
 
 Tomás didn't move.
 
@@ -52,11 +52,11 @@ Tomás waited for dismissal. Nicolai picked up the Thucydides and resumed readin
 
 He went back to the [Succubus Club](/locations/succubus-club/).
 
-He told himself it was follow-up collection. The emissaries might still be there, the Brennon relationship needed reinforcement, and he'd identified three gaps in his initial assessment that a second pass could fill. All of which was true. None of which was why he parked the Crown Vic on Dearborn and walked two blocks through falling snow to push through the club's front door at 12:40 AM.
+He told himself it was follow-up collection. The emissaries might still be there, the [Brennon](/npcs/brennon-thornhill/) relationship needed reinforcement, and he'd identified three gaps in his initial assessment that a second pass could fill. All of which was true. None of which was why he parked the Crown Vic on Dearborn and walked two blocks through falling snow to push through the club's front door at 12:40 AM.
 
 Brennon was behind the bar. He looked up when Tomás came in and said, "Your friend left about an hour ago." The emphasis on *friend* carried exactly the weight Brennon intended it to carry.
 
-From the back hallway, the scratch of pencil on paper. Drummond logging the Tremere's second visit. Two data points where one should have been. The unforced error.
+From the back hallway, the scratch of pencil on paper. [Drummond](/npcs/edgar/) logging the Tremere's second visit. Two data points where one should have been. The unforced error.
 
 ---
 
@@ -72,7 +72,7 @@ Brennon slid a black card across the desk. Private line. "If you learn something
 
 Tomás was turning to leave when Brennon said, "Grace." He pointed to the monitor. Drummond was visible on camera three, his notebook open on the balcony railing. The image was sharp enough to read. Four columns. Four letters heading each column: A, B, P, S.
 
-Annabelle. [Ballard](/npcs/ballard/). [Portia](/npcs/portia/). [Sir Henry](/npcs/sir-henry-johnson/).
+[Annabelle](/npcs/annabelle-triabell/). [Ballard](/npcs/ballard/). [Portia](/npcs/portia/). [Sir Henry](/npcs/sir-henry-johnson/).
 
 Drummond was double-reporting. To Annabelle, who'd placed him, and to someone whose priorities required tracking all four Primogens simultaneously.
 
@@ -110,7 +110,7 @@ The data arrived the way it always did: not as vision, not as sound, but as *kno
 
 He searched the apartment with the overhead light off because the light would have meant something to the neighbors and the neighbors were already too close. Three pages of yellow legal pad in the bedroom, the handwriting degrading line by line. Walt's memories of Wacker Drive, January third or fourth, fragmentary, looping. A woman warned someone. A man went down. The writing stopped mid-sentence and resumed three lines lower in a different slant, as if the hand had forgotten what the hand was doing. Botched Forgetful Mind. Whoever wiped Walt had been in a hurry or didn't care enough to be thorough.
 
-Ballard's business card in the nightstand drawer. Five hundred dollars in fifties, banded. Medical blood bags in the bathroom trash, empty, the clinical plastic crumpled like beer cans.
+[Ballard](/npcs/ballard/)'s business card in the nightstand drawer. Five hundred dollars in fifties, banded. Medical blood bags in the bathroom trash, empty, the clinical plastic crumpled like beer cans.
 
 Tomás sat on the edge of Walt's bed and looked at the legal pad.
 
@@ -138,7 +138,7 @@ The Sheriff was [Thomas](/npcs/thomas-gerhieren/) S. Ewell. Eighth generation. T
 
 The bonds came next. [Lodin](/npcs/lodin/)'s leash was the first thing the ritual found, because it was the loudest: Step 3, full, decades old, baked into the blood like calcium into bone. The Sheriff had belonged to the Prince the way a tool belongs to the hand that uses it.
 
-Then the second thread. Fainter. Recent. Step 1, less than a year old, fragile enough to break with distance or time. A woman's face surfaced from the ritual data. Toreador. Someone Tomás didn't recognize. Features he would need to cross-reference against the chantry's files, against Brennon's camera feeds, against the gallery of faces he'd catalogued at the Succubus Club.
+Then the second thread. Fainter. Recent. Step 1, less than a year old, fragile enough to break with distance or time. A woman's face surfaced from the ritual data. Toreador. Someone Tomás didn't recognize. Features he would need to cross-reference against the chantry's files, against Brennon's camera feeds, against the gallery of faces he'd catalogued at the [Succubus Club](/locations/succubus-club/).
 
 Someone was bonding the Prince's enforcer without the Prince knowing.
 

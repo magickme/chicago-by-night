@@ -78,7 +78,7 @@ Not loud. Not to a mortal twenty yards away. But the quiet one — the soldier, 
 
 One word. The other two stopped talking. Big Six uncrossed his arms. The younger one stepped sideways. Three men facing the door, ten yards away. The soldier already moving, getting an angle.
 
-[Sable](/sable-price/) stood behind the door. The .38 at her back. The knife in her pocket. The plan she'd carried from the Torch was in pieces on the concrete floor.
+[Sable](/sable-price/) stood behind the door. The .38 at her back. The knife in her pocket. The plan she'd carried from [the Torch](/locations/the-torch/) was in pieces on the concrete floor.
 
 She pushed the door wide and stepped into the lot.
 

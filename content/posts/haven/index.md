@@ -42,7 +42,7 @@ The door closed. The shape disappeared. The van was just a van again.
 
 "What's in the van, [Williams](/npcs/williams/)?"
 
-She said his name and he stopped moving. Not because the name was a threat — because the name meant she knew him, and being known by Kindred was a different equation than being known by mortals. Mortals who knew [Williams](/npcs/williams/) could be silenced. Kindred who knew Williams were customers or complications, and a Toreador with Dread Gaze and the kind of face that functioned as a weapon was emphatically not a customer.
+She said his name and he stopped moving. Not because the name was a threat — because the name meant she knew him, and being known by Kindred was a different equation than being known by mortals. Mortals who knew [Williams](/npcs/williams/) could be silenced. Kindred who knew [Williams](/npcs/williams/) were customers or complications, and a Toreador with Dread Gaze and the kind of face that functioned as a weapon was emphatically not a customer.
 
 "Merchandise," he said. His voice was flat, uninflected, the voice of a man describing inventory. "Saturday inventory. Man owed money to the wrong people. They sold the debt. I collected."
 
@@ -68,7 +68,7 @@ The alley ran along the south wall. A green door, steel, set into the foundation
 
 Inside was dark and cool and smelled like stone. Her eyes adjusted — vampire eyes, the night vision that still caught her off guard sometimes, the way the dark wasn't dark anymore but just a different kind of light — and she saw the rectory kitchen. Low ceiling, tile floor cracked in a pattern that looked deliberate if you squinted. A cast-iron sink set into a stone counter, the kind of sink that had been installed when the church was built and would outlast the church and the city and probably the species. She turned the tap. Brown water, then clear. Cold enough to feel even through dead fingers.
 
-Through a doorway: the boiler room. An ancient gas furnace ticking in the dark, radiating heat through the stone walls the way a living thing radiates warmth, and for one disorienting second Sable thought of her mother's kitchen on State Street, the radiator clanking, the smell of lye and hot metal combs, the warmth that meant someone was home.
+Through a doorway: the boiler room. An ancient gas furnace ticking in the dark, radiating heat through the stone walls the way a living thing radiates warmth, and for one disorienting second [Sable](/sable-price/) thought of her mother's kitchen on State Street, the radiator clanking, the smell of lye and hot metal combs, the warmth that meant someone was home.
 
 She locked the deadbolt from inside. Tested it with her weight. The door didn't move.
 

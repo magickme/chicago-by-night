@@ -51,7 +51,7 @@ At 2 AM the tug came in without running lights. Forty feet, riding low, no name 
 
 The tug left at 2:25. [Darius](/darius-cole/) checked the berth and found concrete and oil and the faint smell of diesel and nothing else. The ghost lane didn't leave ghosts. It left patterns, and patterns were what the pipeline needed.
 
-Then Rosie's. Buchanan Street. A beer sign with half its letters burned out. Three AM and a man behind the bar wiping the same spot with the same rag, and Darius sat down and ordered a whiskey he wouldn't drink and let the silence work.
+Then Rosie's. Buchanan Street. A beer sign with half its letters burned out. Three AM and a man behind the bar wiping the same spot with the same rag, and [Darius](/darius-cole/) sat down and ordered a whiskey he wouldn't drink and let the silence work.
 
 Gerald Fisk was forty-six and tired the way foundations are tired — the weight of everything above pressing down on something that was never designed to hold this much. He talked about [the Torch](/locations/the-torch/). His father built it in '61. Poured the foundation himself. Jazz club first, then a bar, then whatever it is now. The mortgage was $114,000 on a building assessed at ninety, and the attorneys in Hammond kept sending letters he put in a drawer and the company called Lakeside wanted to buy the building for less than the debt.
 
@@ -67,7 +67,7 @@ Eight hundred dollars a month.
 
 That was the assumption. The bank would restructure the note if someone took over the payments. $800 a month. The check-cashing storefront cleared more than that on a decent week. For less than the rent on his apartment, Darius could assume the mortgage, make the Lakeside offer void, and control the building that fed every Kindred in Gary.
 
-He drove home. The west-side apartment. The kitchen table. The business card. The Polaroid. The napkin with Fisk's phone number. The mortgage folder. And underneath all of it, building itself in his head the way buildings build themselves in an Architect's blood, the blueprint: pay the mortgage, control Fisk, solve the auction without brokering, hand [Modius](/npcs/modius/) a victory the prince didn't earn, give Lucian the feeding rights from a position of ownership instead of negotiation, and thread the pipeline through a building that Darius functionally controlled on the waterfront side of Gary's economy.
+He drove home. The west-side apartment. The kitchen table. The business card. The Polaroid. The napkin with Fisk's phone number. The mortgage folder. And underneath all of it, building itself in his head the way buildings build themselves in an Architect's blood, the blueprint: pay the mortgage, control Fisk, solve the auction without brokering, hand [Modius](/npcs/modius/) a victory the prince didn't earn, give [Lucian](/npcs/lucian/) the feeding rights from a position of ownership instead of negotiation, and thread the pipeline through a building that Darius functionally controlled on the waterfront side of Gary's economy.
 
 $800 a month. The price of the whole board.
 

@@ -48,7 +48,7 @@ The second cop went down harder. One success on the Command, the man staggering 
 
 Newspaper clipping on the wall. BLOODLESS ANIMAL MAN SEIZED BY POLICE. A body in a basement, drained, petrified, four fangs, a pendant shaped like a saber tooth. The police had found a torpored vampire under a stone slab in a stripped-out convenience store and they hadn't known what they were looking at.
 
-Sable fed from the sleeping cop. Three points. Quick, efficient, the Kiss on an unconscious mortal who stirred and breathed harder and never woke. She licked the wound and stood and the hunger retreated to the place where it waited between feedings and the cop would wake tired and blame it on the cold.
+[Sable](/sable-price/) fed from the sleeping cop. Three points. Quick, efficient, the Kiss on an unconscious mortal who stirred and breathed harder and never woke. She licked the wound and stood and the hunger retreated to the place where it waited between feedings and the cop would wake tired and blame it on the cold.
 
 The basement was twenty feet down. Cable descent. Concrete walls, chemistry table, a chair, and on the floor in the corner — the outline. Lighter concrete where something had lain long enough to bleach the stone beneath it. The pressure coming off the outline was directional, a thing with edges, and Sable's enhanced senses tasted it as copper and ozone and deep time.
 
@@ -58,7 +58,7 @@ The blood was red the way a ruby is red — not flat, not dull, but luminous and
 
 They climbed out. They called a reporter from a payphone at two in the morning. His name was Scottie Cartwright and he'd been waiting his entire career for that call. He gave them [Roarke](/npcs/roarke/). He gave them [Shepard](/npcs/william-shepard/). He gave them an address — a specialist's facility on the near north side.
 
-Sable turned on the Awe and let Appearance 5 do the rest and Scottie Cartwright spent the remainder of the conversation trying to be the kind of man a woman like that would take seriously. He gave them everything. When Darius tried to erase it, the man's will fought the rewrite — fought it hard enough to surface, for one moment, the particular delight of a hack journalist who had finally stumbled onto something real. "Did you just do what I think you did?" Sable killed it with a smile and a line she'd learned from Rue McClanahan and the moment passed and they left him with a turned-over notepad and a blush that would fade by morning.
+Sable turned on the Awe and let Appearance 5 do the rest and Scottie Cartwright spent the remainder of the conversation trying to be the kind of man a woman like that would take seriously. He gave them everything. When [Darius](/darius-cole/) tried to erase it, the man's will fought the rewrite — fought it hard enough to surface, for one moment, the particular delight of a hack journalist who had finally stumbled onto something real. "Did you just do what I think you did?" Sable killed it with a smile and a line she'd learned from Rue McClanahan and the moment passed and they left him with a turned-over notepad and a blush that would fade by morning.
 
 The facility was a stone warehouse on the near north side. Three stories, bottom two painted dark, top floor rebuilt with new glass. One heartbeat upstairs. Medical equipment on the middle floor, the hum of machines working in the dark. And below the hum — the pressure. Fainter than the 7-11 but the same signature. Whatever the police had pulled from that basement was here.
 

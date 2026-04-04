@@ -60,7 +60,7 @@ Menele lost control of the spirit and escaped only by throwing himself into the 
 
 ## The Escape to the New World (1415)
 
-In a climactic battle near Agincourt, France, in 1415, Menele was dealt a near-fatal blow. He escaped with the aid of a force of knights he controlled. Phoenician legends of a land to the west prompted him to trick Helena into thinking he was destroyed. Trusted retainers carried his body aboard a specially prepared ship which sailed westward.
+In a climactic battle near Agincourt, France, in 1415, Menele was dealt a near-fatal blow. He escaped with the aid of a force of knights he controlled. Phoenician legends of a land to the west prompted him to trick [Helena](/npcs/helena/) into thinking he was destroyed. Trusted retainers carried his body aboard a specially prepared ship which sailed westward.
 
 [Critias](/npcs/critias/) — his childe, who did not know his sire still existed — had been compelled through the Blood Bond to finance a secret voyage by a sea-captain who believed the world was round. [Critias](/npcs/critias/) never heard from the captain again. He had unknowingly funded his sire's escape.
 
@@ -108,7 +108,7 @@ A Coptic jar containing [the Heart](/locations/the-heart/) of Osiris surfaced in
 
 ## The Network
 
-**Critias** (5th gen) — his childe, Embraced in the baths of Athens ~400 BC after a night debating the nature of existence. Blood-Bonded through centuries of feeding on his sire's blood. The "Brujah School," the Path of Entelechy, the vision of Chicago as the new Carthage — convictions Critias considers his own philosophical legacy. They originate from Menele's sleeping mind. Critias does not realize his sire survived Carthage. *(In the V20 era, Critias broke free after nearly dying. Whether the Bond has been re-established is unclear.)*
+**[Critias](/npcs/critias/)** (5th gen) — his childe, Embraced in the baths of Athens ~400 BC after a night debating the nature of existence. Blood-Bonded through centuries of feeding on his sire's blood. The "Brujah School," the Path of Entelechy, the vision of Chicago as the new Carthage — convictions Critias considers his own philosophical legacy. They originate from Menele's sleeping mind. Critias does not realize his sire survived Carthage. *(In the V20 era, Critias broke free after nearly dying. Whether the Bond has been re-established is unclear.)*
 
 **[Inyanga](/npcs/inyanga/)** (6th gen) — fell under Menele's control shortly after arriving in Chicago. Extended Domination, not Blood Bond. Through her, Menele commands the entire Gangrel clan. If word comes from [Inyanga](/npcs/inyanga/), every Gangrel mobilizes. Her Laibon immigration operation through [Lucian](/npcs/lucian/)'s docks in Gary moves bodies and resources through Menele's corridor. She is not actually Gangrel — she is Laibon, operating under Kindred cover.
 
@@ -120,7 +120,7 @@ A Coptic jar containing [the Heart](/locations/the-heart/) of Osiris surfaced in
 
 **[Annabelle](/npcs/annabelle-triabell/) → [Modius](/npcs/modius/)** — [Annabelle](/npcs/annabelle-triabell/) sired the Prince of Gary. Gary is not exile. Gary is a staging ground.
 
-**Annabelle → [Sharon](/npcs/sharon-payne/) → [Michael](/npcs/michael/) → [Sable](/sable-price/)** — four steps from a sleeping god.
+**[Annabelle](/npcs/annabelle-triabell/) → [Sharon](/npcs/sharon-payne/) → [Michael](/npcs/michael/) → [Sable](/sable-price/)** — four steps from a sleeping god.
 
 **[Heath Quinn](/npcs/heath-quinn/)** — mortal operative. Carried Menele's blood to London in 1969. Shot [Roarke](/npcs/roarke/), fed him 4th-gen vitae. The twenty-year weapon: [Roarke](/npcs/roarke/) returned to Chicago, lived among the Anarchs, found the torpid Methuselah, kidnapped [Lodin](/npcs/lodin/). One move in a four-thousand-year chess game.
 

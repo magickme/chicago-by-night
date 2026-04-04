@@ -10,15 +10,15 @@ menu:
       icon: "dots"
 ---
 
-*Chicago Chronicles. Act II: Ashes and Blood. Updated: **1991-01-10 (Thursday night)**.*
+*Chicago Chronicles. Act II: Ashes and Blood. Updated: **1991-01-11 (Friday night)**.*
 
 
 
 ## Coterie Snapshot
 
-- 1991-01-10 (Thursday night) — Darius at Starlite Motel, Room 9 (South Side). Sable at Allerton Hotel, Michigan Avenue, 3rd floor. Counter-operations active: ghoul driver Mesmerized + Conditioning 4/14, Ballard frame identified, Sir Henry making Drake inquiries. Lodin silent 6 nights. Modius leash on Sable dropped (turned inward, audit consuming attention).
-- Scenes played: Darius 33, Sable 33, Tomás 1 (67 total + timeskip bluebook Aug-Nov + Dec timeskip). PCs met at Feb 2 Elysium. **COTERIE FORMED (S019, July 22).**
-- Scene-note inventory: Darius 33, Sable 33, Tomás 1 (67 total on disk).
+- 1991-01-11 (Friday night) — Darius at Starlite Motel, Room 9 (South Side). Sable at Allerton Hotel, Michigan Avenue, 3rd floor. Counter-Ballard plan built: dual-track (Lodin dossier + Primogen consensus via Sable/Sir Henry). Driver Conditioning 5/14, blood-bonded Step 1 to Darius. Tremere breach discovered at Walt's walkup (profile matches Tomás Navarro). Legal pad secured. Lodin silent 7 nights. Next milestone: Annabelle's salon Wed Jan 16.
+- Scenes played: Darius 34, Sable 33, Tomás 1 (68 total + timeskip bluebook Aug-Nov + Dec timeskip). PCs met at Feb 2 Elysium. **COTERIE FORMED (S019, July 22).**
+- Scene-note inventory: Darius 34, Sable 33, Tomás 1 (68 total on disk).
 - Sunset: 4:28 PM CST. Sunrise: 7:06 AM CST. Darkness: ~14.5 hours (early January).
 - Communications: Chicago protocol seeded. Tue/Fri 11 PM remains the default check-in window, using rotating nodes instead of a fixed haven line. If one node feels watched, move immediately to the next. Horace contact: The Cave, ask for Fred, "chess tournament."
 

@@ -46,13 +46,13 @@ Then the food. [Ballard](/npcs/ballard/) ordered for the table — porterhouse, 
 
 He didn't look at her. He was looking at [Darius](/darius-cole/), and the dismissal was so complete that the room rearranged itself around the fact of her irrelevance. Not hostility. Something worse: she wasn't worth the energy of hostility. A Ventrue talking to another Ventrue, and the Toreador in the room was furniture.
 
-"[Darius Cole](/darius-cole/)," Darius said. "Tenth generation."
+"[Darius Cole](/darius-cole/)," [Darius](/darius-cole/) said. "Tenth generation."
 
 [Ballard](/npcs/ballard/) went still. The stillness of something large recalculating. "Tenth generation. [Modius](/npcs/modius/) sent a tenth-generation Ventrue as a courier. Either he respects Chicago more than I thought, or he respects you less than you think."
 
 He ate another piece of steak. The knife moved through the meat with a surgeon's ease.
 
-"You came with this one." The knife gestured toward Sable — small motion, blade wet. Not a threat. A dismissal. *This one.* Luggage. "Toreador?"
+"You came with this one." The knife gestured toward [Sable](/sable-price/) — small motion, blade wet. Not a threat. A dismissal. *This one.* Luggage. "Toreador?"
 
 He didn't wait.
 
@@ -60,7 +60,7 @@ He didn't wait.
 
 "We had nothing to do with it," Darius said. "We're just here to deliver the letter."
 
-Ballard set down his knife. Folded his hands — enormous hands, thick fingers, and Sable could see the manicure again, the nails filed to clean ovals, and thought of every man who had ever presented a groomed surface over a ruined interior and called it civilization.
+[Ballard](/npcs/ballard/) set down his knife. Folded his hands — enormous hands, thick fingers, and Sable could see the manicure again, the nails filed to clean ovals, and thought of every man who had ever presented a groomed surface over a ruined interior and called it civilization.
 
 "You're being blamed. Whether you did it or not is secondary. You were here. You're from Gary. You're convenient."
 

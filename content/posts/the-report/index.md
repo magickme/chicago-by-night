@@ -39,7 +39,7 @@ Two. Outside.
 
 At two in the morning she stood on the shingle beach behind the mansion. The porch light was off. One window on the second floor glowed and died. Then [Allicia](/npcs/allicia/) was on the lawn — Celerity-fast, bare feet on the grass, dark clothes, shaking with the kind of hunger that lives in the jaw.
 
-Sable undressed on the bluff. Not [the Torch](/locations/the-torch/). Not performance. She let the blouse fall and stood in the moonlight and let the woman who hadn't been touched gently in eighty years see her the way no one in the drawing room would ever be allowed to see her.
+[Sable](/sable-price/) undressed on the bluff. Not [the Torch](/locations/the-torch/). Not performance. She let the blouse fall and stood in the moonlight and let the woman who hadn't been touched gently in eighty years see her the way no one in the drawing room would ever be allowed to see her.
 
 She stepped into the lake. The water took her to the waist. Cold and black and alive. She turned and beckoned.
 
@@ -47,7 +47,7 @@ She stepped into the lake. The water took her to the waist. Cold and black and a
 
 [Allicia](/npcs/allicia/) dropped off the bluff and waded to her and pressed her mouth to Sable's throat and drank.
 
-Five blood points. The vitae leaving Sable's body in a warm current that the lake pulled south. Allicia's hands on her shoulders, grip tightening, the jaw clenching as the Beast fought for more and the woman underneath the Beast fought to stop. One success on the self-control. One. The margin between feeding and killing measured in a single die that could have gone either way.
+Five blood points. The vitae leaving Sable's body in a warm current that the lake pulled south. [Allicia](/npcs/allicia/)'s hands on her shoulders, grip tightening, the jaw clenching as the Beast fought for more and the woman underneath the Beast fought to stop. One success on the self-control. One. The margin between feeding and killing measured in a single die that could have gone either way.
 
 She pulled away gasping. Red on her lips. Eyes bright with blood-high and the first step of a Bond that neither of them named and both of them felt — the fascination, the pull, the chemical gravity of one woman's blood singing inside another woman's veins.
 

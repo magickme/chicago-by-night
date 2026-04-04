@@ -32,7 +32,7 @@ The paper was federal grade. Social Security number repurposed from a dead man i
 
 Webb was the paper now. Fourteen sessions of Conditioning, Tuesday and Thursday nights in the apartment, [Darius](/darius-cole/)'s voice layered under every reflex until the name was bone-deep. Webb opened Birch's mail. Signed Birch's checks. Answered when someone said Birch's name. If [Shepard](/npcs/william-shepard/) came back to [the Torch](/locations/the-torch/) asking for Warren Birch, there was a man who would appear and shake his hand and know the right things and believe every word he said because the words were his now.
 
-The cost was a file in [Danov](/npcs/alexander-danov/)'s archives. Everything the Nosferatu knew about [Darius Cole](/darius-cole/) -- real name, generation, sire, pipeline, the Chicago directive -- written in whatever cipher [Danov](/npcs/alexander-danov/) used and stored in whatever hole Danov called home. Insurance, not weapon. The distinction between those two things is a disposition number, and disposition numbers change.
+The cost was a file in [Danov](/npcs/alexander-danov/)'s archives. Everything the Nosferatu knew about [Darius Cole](/darius-cole/) -- real name, generation, sire, pipeline, the Chicago directive -- written in whatever cipher [Danov](/npcs/alexander-danov/) used and stored in whatever hole [Danov](/npcs/alexander-danov/) called home. Insurance, not weapon. The distinction between those two things is a disposition number, and disposition numbers change.
 
 Cantone's paper trail died. His suits traced the Lakeshore Industrial shell company back to itself and found a warehouse that looked dormant and a night supervisor whose cover story was granite. [Darius](/darius-cole/) helped it along through a Dominated port commission clerk who filed a lease transfer notice into a bureaucratic cul-de-sac. By the end of September the Cicero caporegime had a federal RICO investigation chewing on his other operations and a stolen drug pipeline in Gary stopped being worth the questions. [Chuc Luc](/npcs/chuc-luc/) received the monthly reports. The two thousand went into [Lucian](/npcs/lucian/)'s lockbox. The machine ran.
 
@@ -58,11 +58,11 @@ Thirteen months of data. Church records and missing-persons reports and bar clos
 
 He left a pamphlet under the windshield wiper of the Cutlass. Romans 6:23. *The wages of sin is death; but the gift of God is eternal life through Jesus Christ our Lord.* Small card stock, the kind churches leave in laundromat windows. [Dane](/npcs/sullivan-dane/) sat in a rented car on the next block and watched the apartment with a patience that was older than patience, that came from a place in him where the waiting and the faith were the same thing.
 
-Darius found it at sundown. Read it. Tossed it in the trash. Drove to the docks.
+[Darius](/darius-cole/) found it at sundown. Read it. Tossed it in the trash. Drove to the docks.
 
 He didn't know what it meant. He didn't know that the man in the rented car had watched the pamphlet stay on the windshield all day through rain and a gust that should have taken it, because it was held there by something Darius couldn't see and couldn't feel and had no name for in any language he spoke. He didn't know that [Dane](/npcs/sullivan-dane/) had smiled when the pamphlet held, because holding meant Darius wasn't home during the day, and not being home during the day was the first answer to the first question.
 
-[Modius](/npcs/modius/) wanted more. The leash tightened the way fishing line tightens -- slowly, and then it's in the skin. Biweekly reports. Questions about the waterfront. Questions about the FBI file. Questions, finally, about where Darius slept. He gave Modius most of it. The most of it that wasn't the truth.
+[Modius](/npcs/modius/) wanted more. The leash tightened the way fishing line tightens -- slowly, and then it's in the skin. Biweekly reports. Questions about the waterfront. Questions about the FBI file. Questions, finally, about where Darius slept. He gave [Modius](/npcs/modius/) most of it. The most of it that wasn't the truth.
 
 In September, [Sable](/sable-price/)'s mother left a message on the Fifth Avenue answering machine. [Sable](/sable-price/) listened to it at Kendrick's, alone, in the body that didn't breathe, with a phone pressed to an ear that heard the heartbeat in a voice from thirty miles and six years and one death away.
 

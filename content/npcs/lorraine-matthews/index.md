@@ -25,4 +25,4 @@ Instead of feeding on her, [Lodin](/npcs/lodin/) kept talking with her almost ti
 
 At first, [Lodin](/npcs/lodin/) was afraid to reveal Lorraine's existence, since in creating her he had violated his recent pledge to seek approval from the Primogen. He managed to extract promises from a majority of the Elders to support his decision. He kept her heavily Dominated until he became convinced that she really loved him. Since deciding she does indeed love him, he has spent every available moment with her.
 
-She feeds on the blood of drug-users and he in turn feeds on her Blood, an arrangement he keeps very secret. Indeed, it was this arrangement which made his abduction in Ashes to Ashes so easy. She avoids the other Kindred in Lodin's broods, and is the only female Vampire he ever created.
+She feeds on the blood of drug-users and he in turn feeds on her Blood, an arrangement he keeps very secret. Indeed, it was this arrangement which made his abduction in Ashes to Ashes so easy. She avoids the other Kindred in [Lodin](/npcs/lodin/)'s broods, and is the only female Vampire he ever created.

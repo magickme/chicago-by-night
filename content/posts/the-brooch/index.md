@@ -26,7 +26,7 @@ The trumpet stopped. A child's voice said "I don't want to play anymore." A comm
 
 "[Modius](/npcs/modius/) needs to see you. On penalty of Blood Hunt."
 
-[Raymond](/npcs/raymond-falcon/) came. He brought the trumpet. Darius took the revolver.
+[Raymond](/npcs/raymond-falcon/) came. He brought the trumpet. [Darius](/darius-cole/) took the revolver.
 
 In the Cutlass, between Broadway and Miller Beach, Darius listened to five people tell one story from five different angles. His Empathy stripped the confusion and found the skeleton: Dirk MacGriff killed Ryan [Wierus](/npcs/john-wierus/) in the alley behind [The Torch](/locations/the-torch/) in March because the boy was wrong, because something inside the boy was reaching for the back door of the bar, because the violent personality assessed a threat and eliminated it the way a cop eliminates threats — fast, professional, without consultation.
 
@@ -38,7 +38,7 @@ The mansion. [Victor](/npcs/victor-salonika/) at the door. [Modius](/npcs/modius
 
 "One more thing, Your Grace. The federal agent watching your mansion — SA [William Shepard](/npcs/william-shepard/), FBI, Chicago field office. He investigated the alley behind [The Torch](/locations/the-torch/) in March. [Falcon](/npcs/raymond-falcon/) had his card."
 
-[Modius](/npcs/modius/) listened to Falcon's testimony for forty minutes. Five personalities, five versions, one truth. When it was over, the prince cleared Falcon — the kill was protective, not criminal, and punishing a man for defending the Rack was the kind of pettiness [Modius](/npcs/modius/) had spent two centuries avoiding.
+[Modius](/npcs/modius/) listened to [Falcon](/npcs/raymond-falcon/)'s testimony for forty minutes. Five personalities, five versions, one truth. When it was over, the prince cleared Falcon — the kill was protective, not criminal, and punishing a man for defending the Rack was the kind of pettiness [Modius](/npcs/modius/) had spent two centuries avoiding.
 
 Then [Modius](/npcs/modius/) looked at Darius and smiled. Not the Cavalier's performance. Not the Conniver's calculation. The smile of a man who asked for a tool and received an instrument.
 

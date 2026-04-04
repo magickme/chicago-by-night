@@ -44,7 +44,7 @@ Broadway and Fifth Avenue was the kind of block that looked the same at midnight
 
 [Darius](/darius-cole/) found his prey the way he always did — by the smell. Not blood-smell. That came later. What he smelled first was the particular sourness of a man whose body was producing cortisol and adrenaline in the specific cocktail of financial desperation. It was chemical. The blood knew it before the mind did. His mouth watered and his pupils dilated and the Cutlass was already pulling to the curb before he consciously decided to stop.
 
-The man was leaning against the side of Ebenezer Baptist Church — not praying, just using the wall to stay upright. Late fifties. Steelworker's hands, thick and scarred. Three months behind on rent — Darius could see it in the way he held himself, the shoulders that had given up pretending they could carry what was on them. He'd been at a card game. He'd lost.
+The man was leaning against the side of Ebenezer Baptist Church — not praying, just using the wall to stay upright. Late fifties. Steelworker's hands, thick and scarred. Three months behind on rent — [Darius](/darius-cole/) could see it in the way he held himself, the shoulders that had given up pretending they could carry what was on them. He'd been at a card game. He'd lost.
 
 Darius got out of the car and walked over with twenty dollars in his hand, because you always started with the gift. That was the rule. Generosity before the thumbscrew.
 

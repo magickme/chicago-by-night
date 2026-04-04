@@ -54,7 +54,7 @@ He stood there for six seconds. The longest since the Embrace. Every instinct bu
 
 Back to the Cutlass. North on Adams. East on Fifteenth. South on Broadway to [the Torch](/locations/the-torch/). The alley. He found the man fifteen feet in, sitting between the dumpsters with his legs out and his head tilted and a cigarette still smoldering between two fingers. White, early twenties, flannel and Carhartt, work boots, a name tag that said TERRY. The feeding wound was two punctures above the collar, closing, a thin line of dried blood disappearing into flannel. He was breathing. The daze was still on him -- the half-smile of a man whose body remembered pleasure his brain couldn't locate.
 
-Darius crouched. Tilted Terry's head. Ran his tongue across the punctures and tasted copper and tar and the fading chemistry of the Kiss. The wound sealed under saliva, leaving marks that would pass for a shaving nick by morning.
+[Darius](/darius-cole/) crouched. Tilted Terry's head. Ran his tongue across the punctures and tasted copper and tar and the fading chemistry of the Kiss. The wound sealed under saliva, leaving marks that would pass for a shaving nick by morning.
 
 Then he caught Terry's eyes -- glassy, half-focused, the door already open -- and spoke the replacement. Low, even, each word fitted into the gap the girl had left. Terry stepped outside for a cigarette. Got dizzy. The cold, the skipped dinner, twelve hours on his feet. Sat down between the dumpsters. Fell asleep. That's the night. The woman doesn't exist. The mouth on his neck doesn't exist. The warmth that made December stop doesn't exist.
 

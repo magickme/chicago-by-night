@@ -40,7 +40,7 @@ The clock chimed the half hour. He dismissed her. She went.
 
 ---
 
-The second floor was empty. Sable moved through the rooms the way she'd been taught to move through clubs: body angled away, eyes working reflections. She'd sharpened the thing in her blood that turned the mansion into a frequency map of creaking wood and plumbing and the low hum of the stereo warming up downstairs.
+The second floor was empty. [Sable](/sable-price/) moved through the rooms the way she'd been taught to move through clubs: body angled away, eyes working reflections. She'd sharpened the thing in her blood that turned the mansion into a frequency map of creaking wood and plumbing and the low hum of the stereo warming up downstairs.
 
 The art studio door was ajar. She pushed it open.
 
@@ -96,7 +96,7 @@ He was thinking about the woman at the piano.
 
 ---
 
-Modius descended with [Allicia](/npcs/allicia/) one step behind. The prince in a darker suit, pocket square working too hard. [Allicia](/npcs/allicia/) in black, the yellow lace shawl, eyes on the floor. The room organized itself around the armchair.
+[Modius](/npcs/modius/) descended with [Allicia](/npcs/allicia/) one step behind. The prince in a darker suit, pocket square working too hard. [Allicia](/npcs/allicia/) in black, the yellow lace shawl, eyes on the floor. The room organized itself around the armchair.
 
 "Thank you all for coming. Gary endures."
 
@@ -122,7 +122,7 @@ And [Darius](/darius-cole/), in his chair, registered the thing nobody else care
 
 ---
 
-Darius went to [Lucian](/npcs/lucian/) first. Straight line across the ballroom, no angle, no pretense. He felt the elder's Presence at ten feet, the weight of eight centuries compressed into a body, the air thickening the way air thickens before something massive shifts. His blood wanted to look away. He didn't let it.
+[Darius](/darius-cole/) went to [Lucian](/npcs/lucian/) first. Straight line across the ballroom, no angle, no pretense. He felt the elder's Presence at ten feet, the weight of eight centuries compressed into a body, the air thickening the way air thickens before something massive shifts. His blood wanted to look away. He didn't let it.
 
 "Good evening, sir. Warren Birch."
 
@@ -164,7 +164,7 @@ And there it was. The mention of Warren Birch's destruction, the fictional sire,
 
 [Danov](/npcs/alexander-danov/) watched. Darius didn't know that behind those gray eyes, six hundred years of reading the dead had opened like a lens, and the light pouring off his blood told a story that contradicted the one coming out of his mouth. The aura burned too bright for a twelfth-generation nobody. The emotion was fear where grief should live.
 
-"Fear," Danov said. The word placed between them like a stone on a go board. "The hunters who took your sire. You worry they're still looking."
+"Fear," [Danov](/npcs/alexander-danov/) said. The word placed between them like a stone on a go board. "The hunters who took your sire. You worry they're still looking."
 
 An exit. A reading of the fear that fit the cover story, offered the way a man offers an umbrella without comment on the rain. Whether it was kindness or inventory, Darius couldn't tell.
 
@@ -176,7 +176,7 @@ He walked back to his chair. The conversation was over. The information was not.
 
 Sable crossed the ballroom to the piano. She sat on the left side of the bench, left the right side open, didn't touch the keys.
 
-"I don't play well," she said, quiet enough for Allicia and nobody else. "But I can follow if you lead."
+"I don't play well," she said, quiet enough for [Allicia](/npcs/allicia/) and nobody else. "But I can follow if you lead."
 
 Two Toreador women at a piano bench. The most natural composition in the world. Nobody would question it.
 
@@ -226,7 +226,7 @@ She wrote a number on the back of a matchbook from her jacket. The studio line, 
 
 She walked to her car. The cold took the space where she'd been standing and Darius was alone on a dead street in Miller Beach with a matchbook and a phone number and something he hadn't had five minutes ago.
 
-He drove home. The west-side apartment was dark. He sat at the kitchen table and looked at the matchbook and thought about the woman who wrote it and whether she was running a game on him the same way he was running a game on her, and whether it mattered, and whether the answer to that question was the most dangerous thing that had happened all night. More dangerous than Danov's gray eyes and Modius's collar adjustment and Lucian's ancient indifference.
+He drove home. The west-side apartment was dark. He sat at the kitchen table and looked at the matchbook and thought about the woman who wrote it and whether she was running a game on him the same way he was running a game on her, and whether it mattered, and whether the answer to that question was the most dangerous thing that had happened all night. More dangerous than Danov's gray eyes and Modius's collar adjustment and [Lucian](/npcs/lucian/)'s ancient indifference.
 
 The matchbook sat on the table next to the Polaroid of the unknown man at Dock 7. Two mysteries. One of them might solve the other. Neither of them would solve itself.
 

@@ -33,6 +33,6 @@ Then he uncorked a vial of ancient blood and fed it to the dying man. Not enough
 
 [Roarke](/npcs/roarke/) woke up transformed. Returned to Chicago consumed with justified rage against [Lodin](/npcs/lodin/). Took up with the Anarchs — [Menele](/npcs/menele/)'s people. A dying Anarch led him to a torpored Methuselah in a basement. [Roarke](/npcs/roarke/) thought he had found leverage. He thought the revenge was his own idea.
 
-It wasn't. The blood Quinn fed him created a proto-Bond. The Anarchs who sheltered Roarke were [Menele](/npcs/menele/)'s network. The Anarch who revealed the torpid body was nudged by [Menele](/npcs/menele/)'s psychic communion. Roarke's cult, his powers, his assault on [Lodin's Haven](/locations/lodins-haven/) — all of it served one purpose: removing [Helena](/npcs/helena/)'s puppet-Prince from the board.
+It wasn't. The blood Quinn fed him created a proto-Bond. The Anarchs who sheltered [Roarke](/npcs/roarke/) were [Menele](/npcs/menele/)'s network. The Anarch who revealed the torpid body was nudged by [Menele](/npcs/menele/)'s psychic communion. Roarke's cult, his powers, his assault on [Lodin's Haven](/locations/lodins-haven/) — all of it served one purpose: removing [Helena](/npcs/helena/)'s puppet-Prince from the board.
 
 Quinn's single surgical strike in 1969 produced [Lodin](/npcs/lodin/)'s kidnapping on New Year's Eve 1990. One move in a four-thousand-year chess game. The puppet never felt the strings because the strings were woven from his own desires.

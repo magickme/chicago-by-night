@@ -28,7 +28,7 @@ The dock fought him from the start.
 
 The south gate was the same — bent chain-link, no camera — but the night watchman was on duty, a flashlight bobbing near the main entrance. [Darius](/darius-cole/) came through the gap in the fence and moved along the warehouse wall, and his feet betrayed him twice.
 
-The first time, he stopped short in the open, exposed, the wall ten feet away instead of five. He pressed himself flat and waited. The detective didn't turn. The watchman didn't swing his beam this direction. Darius breathed air he didn't need. Stealth had never been among his gifts.
+The first time, he stopped short in the open, exposed, the wall ten feet away instead of five. He pressed himself flat and waited. The detective didn't turn. The watchman didn't swing his beam this direction. [Darius](/darius-cole/) breathed air he didn't need. Stealth had never been among his gifts.
 
 He let the blood do what the skill couldn't. Felt it surge into his legs, his ankles, his feet — the stolen vitae remembering what dexterity felt like, sharpening his proprioception, making each step lighter by a fraction that mattered. He moved again.
 

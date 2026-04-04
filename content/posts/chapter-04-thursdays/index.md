@@ -38,7 +38,7 @@ The gift could wait. The sedan could not.
 
 ---
 
-The bus shelter on the corner of Crane and [Jefferson](/npcs/jefferson-foster/) had a backlit ad panel selling Coca-Cola to an audience of nobody. Darius stood behind it with his coat collar up and his hands in his pockets and watched the Buick for ninety minutes.
+The bus shelter on the corner of Crane and [Jefferson](/npcs/jefferson-foster/) had a backlit ad panel selling Coca-Cola to an audience of nobody. [Darius](/darius-cole/) stood behind it with his coat collar up and his hands in his pockets and watched the Buick for ninety minutes.
 
 He counted. That was the thing about counter-surveillance — it was arithmetic, not intuition. You counted intervals. You counted movements. You built a dataset and then you read it the way a bookie reads a line, looking for the pattern that told you where the smart money was.
 
@@ -56,7 +56,7 @@ He took out a notebook. Wrote something. Put the notebook away.
 
 Then he walked back to the Buick, and as he opened the driver's door his coat swung open and Darius saw two things.
 
-The first was a wooden stake in a belt holster, positioned for a cross-draw. Not a gun. A stake. [Dane](/npcs/sullivan-dane/) carried it the way Darius carried his pistol — always there, practiced angle, muscle memory in the draw. But [Dane](/npcs/sullivan-dane/)'s weapon was a tool, not a prop. Dane had used his. Six times that anyone knew about.
+The first was a wooden stake in a belt holster, positioned for a cross-draw. Not a gun. A stake. [Dane](/npcs/sullivan-dane/) carried it the way Darius carried his pistol — always there, practiced angle, muscle memory in the draw. But [Dane](/npcs/sullivan-dane/)'s weapon was a tool, not a prop. [Dane](/npcs/sullivan-dane/) had used his. Six times that anyone knew about.
 
 The second thing was a key fob clipped to his belt loop. Rectangular. Orange plastic. Motel key. From fifty yards Darius couldn't read the name, but the shape and color were distinctive. There were three motels on the Borman Expressway corridor that used orange plastic fobs. Darius knew this because he had cased every motel within ten miles of Gary during his first week in the city. It was what you did. It was how the architecture started.
 

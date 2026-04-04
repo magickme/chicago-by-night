@@ -27,4 +27,4 @@ She met [Celeste](/npcs/celeste/) after seeing the vampire perform at [Angel's F
 
 **Image:** Erinyi makes no attempt to hide her Gargoyle nature. Standing on her toes like a canine, she is over seven feet tall, which includes her eight-inch-long horns. Her gray wings stretch and sway as she walks.
 
-**Secrets:** Erinyi knows that Ezekiel is not a pawn in a grand conspiracy, but is an astute, strong and conscientious leader who can bring strength and freedom to Montreal.
+**Secrets:** Erinyi knows that [Ezekiel](/npcs/ezekiel/) is not a pawn in a grand conspiracy, but is an astute, strong and conscientious leader who can bring strength and freedom to Montreal.

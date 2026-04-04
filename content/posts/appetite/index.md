@@ -52,7 +52,7 @@ She took two and stopped. Licked the wounds. Ran water in the sink. Pressed a we
 
 [Sable](/sable-price/) didn't answer.
 
-The third was the easiest and that was the worst of it. A woman at the end of the bar in a dark blazer and gold earrings -- CBOT trader energy, checking her pager, drinking Maker's Mark neat. Sable sat down next to her and the whole thing took twenty minutes. The cocaine had worn to a warm residue that made every gesture feel rehearsed, and the trader laughed at something and touched Sable's wrist and Sable thought *this is what I am now* and the thought didn't hurt, which was the thing that should have hurt.
+The third was the easiest and that was the worst of it. A woman at the end of the bar in a dark blazer and gold earrings -- CBOT trader energy, checking her pager, drinking Maker's Mark neat. [Sable](/sable-price/) sat down next to her and the whole thing took twenty minutes. The cocaine had worn to a warm residue that made every gesture feel rehearsed, and the trader laughed at something and touched Sable's wrist and Sable thought *this is what I am now* and the thought didn't hurt, which was the thing that should have hurt.
 
 Service corridor behind the kitchen. Standing up. Quick. The blood was warm and sweet and tasted like the word *momentum*. She took two and stopped and licked the wounds and steadied the woman against a stack of beer cases and walked away.
 
@@ -114,7 +114,7 @@ At six-fifteen [Nina](/npcs/nina/) was asleep and sunrise was fifty-one minutes 
 
 "You gotta go."
 
-Not cruel. Just flat. The warmth from two hours ago gone from the voice like it had never been there. Nina stirred. Sat up. Read the room the way a woman reads a room when the situation has changed -- quickly, with her jacket already in her hand.
+Not cruel. Just flat. The warmth from two hours ago gone from the voice like it had never been there. [Nina](/npcs/nina/) stirred. Sat up. Read the room the way a woman reads a room when the situation has changed -- quickly, with her jacket already in her hand.
 
 "You okay?" she asked at the door.
 
