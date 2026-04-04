@@ -50,7 +50,7 @@ She took two and stopped. Licked the wounds. Ran water in the sink. Pressed a we
 
 "Jesus," Kat said. "What's your name?"
 
-Sable didn't answer.
+[Sable](/sable-price/) didn't answer.
 
 The third was the easiest and that was the worst of it. A woman at the end of the bar in a dark blazer and gold earrings -- CBOT trader energy, checking her pager, drinking Maker's Mark neat. Sable sat down next to her and the whole thing took twenty minutes. The cocaine had worn to a warm residue that made every gesture feel rehearsed, and the trader laughed at something and touched Sable's wrist and Sable thought *this is what I am now* and the thought didn't hurt, which was the thing that should have hurt.
 
@@ -110,7 +110,7 @@ Sable spent the blood. One point for warm skin and breathing and the flush that 
 
 What happened in the room wasn't about power or hunger or the Kiss. It was slower than that and less precise and the sounds were different -- human sounds, awkward and honest, elbows and laughter and the moment where [Nina](/npcs/nina/) said *wait* and Sable waited, actually waited, because waiting was what a person did.
 
-At six-fifteen Nina was asleep and sunrise was fifty-one minutes away.
+At six-fifteen [Nina](/npcs/nina/) was asleep and sunrise was fifty-one minutes away.
 
 "You gotta go."
 

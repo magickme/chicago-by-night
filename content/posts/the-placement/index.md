@@ -56,7 +56,7 @@ She gave him the answer she'd built on a payphone forty minutes ago: Birch is ha
 
 He relaxed by a quarter inch. Then he told her about Chicago.
 
-[Lodin](/npcs/lodin/)'s seneschal. A phone call. "Conditions in Gary." The two words that meant the difference between a satellite prince who governed at sufferance and a problem that Chicago solved by sending someone who answered to no one and could dismantle everything Modius had built with a single ruling and a single night.
+[Lodin](/npcs/lodin/)'s seneschal. A phone call. "Conditions in Gary." The two words that meant the difference between a satellite prince who governed at sufferance and a problem that Chicago solved by sending someone who answered to no one and could dismantle everything [Modius](/npcs/modius/) had built with a single ruling and a single night.
 
 "An Archon in Gary would be the end of everything I've built."
 
@@ -80,7 +80,7 @@ The note on the counter. Block letters, ballpoint pen, no question marks because
 
 *WE NEED CLOTHES. AMY WONT EAT. IM NOT STUPID. WHERE DO YOU GO.*
 
-Sable sat on the kitchen floor and told the truth sideways. Drugs and crime. Close enough to the architecture of her actual life that the walls didn't buckle. Close enough to [Keisha](/npcs/keisha-williams/)'s Englewood vocabulary that the girl could hold it and it held her, and the relief on [Keisha](/npcs/keisha-williams/)'s face wasn't joy — it was the relief of a known quantity replacing a gap in the map where monsters live.
+[Sable](/sable-price/) sat on the kitchen floor and told the truth sideways. Drugs and crime. Close enough to the architecture of her actual life that the walls didn't buckle. Close enough to [Keisha](/npcs/keisha-williams/)'s Englewood vocabulary that the girl could hold it and it held her, and the relief on [Keisha](/npcs/keisha-williams/)'s face wasn't joy — it was the relief of a known quantity replacing a gap in the map where monsters live.
 
 Then Amy. Three days without food. The blanket. The shaking. [Gloria Serrano](/npcs/gloria-serrano/) arrived at two-fifteen with a medical bag and hands that found veins on the first try and a diagnosis that landed in the room like something falling from a height: dissociative, acute, severe. Stable isn't recovering. Stable is holding the line.
 
@@ -108,7 +108,7 @@ They didn't make Gary.
 
 The Dan Ryan construction killed the margin — ten minutes of crawling through orange cones at Seventy-First with the sky turning colors that had names Sable didn't want to think about. Indigo to violet. Violet to something paler. The horizon sharpening the way a blade sharpens, the edge of the world becoming visible in a way that meant the sun was below it and climbing.
 
-Darius took the East Chicago exit without asking because the math was done and the math said Gary was forty minutes and forty minutes was ten minutes too many. Indianapolis Boulevard. Industrial. Refineries and rail yards and buildings made of cinderblock that didn't have windows because they were built for machines, not people.
+[Darius](/darius-cole/) took the East Chicago exit without asking because the math was done and the math said Gary was forty minutes and forty minutes was ten minutes too many. Indianapolis Boulevard. Industrial. Refineries and rail yards and buildings made of cinderblock that didn't have windows because they were built for machines, not people.
 
 Lakovic & Sons. A machine shop that had closed when the steel died. The deadbolt rusted through the frame. Darius put his shoulder into it and the door opened on a darkness that smelled like cutting oil and cold metal and nothing alive.
 
@@ -126,6 +126,6 @@ Twelve hours. And then the night would come back and there would be Modius and [
 
 She'd placed the girls. She'd fed the Prince his report. She'd fed herself. She'd survived the night.
 
-At Humanity 5, that was enough. It had to be enough. Because if it wasn't enough — if the note on the counter and the aura dimming and the grandmother holding Keisha for four seconds meant something more than logistics, more than operational competence, more than the machinery of survival performing its function — then Sable was in trouble. Then the thing she'd done tonight wasn't a placement. It was a feeling. And feelings at Humanity 5 were doors she couldn't afford to open because the room behind them was the room where the person she used to be was still sitting, waiting, and that person would ask questions that the predator couldn't answer.
+At Humanity 5, that was enough. It had to be enough. Because if it wasn't enough — if the note on the counter and the aura dimming and the grandmother holding [Keisha](/npcs/keisha-williams/) for four seconds meant something more than logistics, more than operational competence, more than the machinery of survival performing its function — then Sable was in trouble. Then the thing she'd done tonight wasn't a placement. It was a feeling. And feelings at Humanity 5 were doors she couldn't afford to open because the room behind them was the room where the person she used to be was still sitting, waiting, and that person would ask questions that the predator couldn't answer.
 
 The machine shop ticked in the heat. The drill press held her weight. The dark held everything.

@@ -40,11 +40,11 @@ He gave [Darius](/darius-cole/) the folder. The mortgage details. The authorizat
 
 ---
 
-Darius drove home. The west-side apartment. The kitchen table. He spread the mortgage documents next to the Polaroid of the unknown man at Dock 7 and [Shepard](/npcs/william-shepard/)'s phone number and the cocktail napkin with the shell company name, and for the first time since he arrived in Gary he could see the whole board.
+[Darius](/darius-cole/) drove home. The west-side apartment. The kitchen table. He spread the mortgage documents next to the Polaroid of the unknown man at Dock 7 and [Shepard](/npcs/william-shepard/)'s phone number and the cocktail napkin with the shell company name, and for the first time since he arrived in Gary he could see the whole board.
 
 Seven months of furniture. Ralph Rego at Kiefer's, Eddie and Pete, the check-cashing storefront, the slow patient work of becoming invisible in a city that was already invisible. And now the prince of that city had given him permission to walk up to the man who controlled the docks and start a conversation.
 
-The pipeline wasn't going to be built alongside Lucian's operation. It was going to be built through it. Through the legitimate cover of a real estate negotiation, through the mortal contacts who owed debts they couldn't pay, through the specific architecture of a neonate who'd made himself useful enough to be trusted and harmless enough to be underestimated.
+The pipeline wasn't going to be built alongside [Lucian](/npcs/lucian/)'s operation. It was going to be built through it. Through the legitimate cover of a real estate negotiation, through the mortal contacts who owed debts they couldn't pay, through the specific architecture of a neonate who'd made himself useful enough to be trusted and harmless enough to be underestimated.
 
 Blood at thirteen. Willpower at five. The [Modius](/npcs/modius/) leash at its lowest point. The docks at his fingertips. And somewhere in a restaurant cellar in Chicago's New [Chinatown](/locations/chinatown/), a man in a cheap suit who smiled too wide was waiting for exactly this phone call.
 

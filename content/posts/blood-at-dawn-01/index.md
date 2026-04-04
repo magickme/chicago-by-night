@@ -56,7 +56,7 @@ Gone.
 
 [Victor](/npcs/victor-salonika/) gave them the brooch. Antique metalwork, nested eyes, initials E.K. scratched into the back. Three months in the lost-and-found. Found the same week as the boy's body in the dumpster. He told them about the morgue, the body that walked out of its drawer three days after Gary PD picked it up.
 
-Sable held the brooch and her sharpened senses read it: centuries old, handmade, the faint trace of Kindred vitae soaked into the metal. Someone dead had owned this for a very long time.
+[Sable](/sable-price/) held the brooch and her sharpened senses read it: centuries old, handmade, the faint trace of Kindred vitae soaked into the metal. Someone dead had owned this for a very long time.
 
 "This is Kindred. Whoever dropped it in your alley was one of us."
 
@@ -68,7 +68,7 @@ The word *friends* hung in the air for a moment. Sable pocketed the brooch and d
 
 ---
 
-The Cutlass. [Telton Cemetery](/locations/telton-cemetery/). Darius drove south on Broadway past the dead storefronts and Sable sat in the passenger seat and neither of them spoke. The silence had changed shape again. Not the distance of Lake Street or the careful blankness of Elysium. The silence of two people heading toward the same thing.
+The Cutlass. [Telton Cemetery](/locations/telton-cemetery/). [Darius](/darius-cole/) drove south on Broadway past the dead storefronts and Sable sat in the passenger seat and neither of them spoke. The silence had changed shape again. Not the distance of Lake Street or the careful blankness of Elysium. The silence of two people heading toward the same thing.
 
 [Michael](/npcs/michael/) opened the shed door two inches. One pale eye.
 

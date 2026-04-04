@@ -23,7 +23,7 @@ Erinyi's days in 25:17 were bittersweet. She loved [Ezekiel](/npcs/ezekiel/), wh
 
 [Ezekiel](/npcs/ezekiel/) asked [Reza Fatir](/npcs/reza-fatir/) to guide Erinyi on the structured Path of Honorable Accord. [Reza](/npcs/reza-fatir/) accepted, aware of the sacrifice that [Ezekiel](/npcs/ezekiel/) made by initiating a change in Erinyi that his own Path deemed a weakness. Erinyi gained some control over her life as a result.
 
-She met [Celeste](/npcs/celeste/) after seeing the vampire perform at [Angel's Fall](/locations/angels-fall/). Finding that her hostility was soothed by music, Erinyi joined Wyldchylde. When she approached her patrons with the prospect of traveling with the Navigators in 1996, they complied. [Miguel Santo Domingo](/npcs/miguel-santo-domingo/) remains uncomfortable with Erinyi's ties to Ezekiel, but respects [Celeste](/npcs/celeste/)'s refusal to condemn the Gargoyle for her loyalty.
+She met [Celeste](/npcs/celeste/) after seeing the vampire perform at [Angel's Fall](/locations/angels-fall/). Finding that her hostility was soothed by music, Erinyi joined Wyldchylde. When she approached her patrons with the prospect of traveling with the Navigators in 1996, they complied. [Miguel Santo Domingo](/npcs/miguel-santo-domingo/) remains uncomfortable with Erinyi's ties to [Ezekiel](/npcs/ezekiel/), but respects [Celeste](/npcs/celeste/)'s refusal to condemn the Gargoyle for her loyalty.
 
 **Image:** Erinyi makes no attempt to hide her Gargoyle nature. Standing on her toes like a canine, she is over seven feet tall, which includes her eight-inch-long horns. Her gray wings stretch and sway as she walks.
 

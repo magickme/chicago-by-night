@@ -40,15 +40,15 @@ Then the food. [Ballard](/npcs/ballard/) ordered for the table — porterhouse, 
 
 [Ballard](/npcs/ballard/) turned to [Darius](/darius-cole/). "Your name. Your real name, and who is your sire."
 
-Sable leaned forward. Drew the eye. The geometry of attention she'd learned before she was dead and perfected after. "Mr. [Ballard](/npcs/ballard/), we appreciate your hospitality. The letter speaks for itself, and we're happy to discuss Prince [Modius](/npcs/modius/)'s intentions in whatever detail you—"
+[Sable](/sable-price/) leaned forward. Drew the eye. The geometry of attention she'd learned before she was dead and perfected after. "Mr. [Ballard](/npcs/ballard/), we appreciate your hospitality. The letter speaks for itself, and we're happy to discuss Prince [Modius](/npcs/modius/)'s intentions in whatever detail you—"
 
 "I wasn't talking to you."
 
-He didn't look at her. He was looking at Darius, and the dismissal was so complete that the room rearranged itself around the fact of her irrelevance. Not hostility. Something worse: she wasn't worth the energy of hostility. A Ventrue talking to another Ventrue, and the Toreador in the room was furniture.
+He didn't look at her. He was looking at [Darius](/darius-cole/), and the dismissal was so complete that the room rearranged itself around the fact of her irrelevance. Not hostility. Something worse: she wasn't worth the energy of hostility. A Ventrue talking to another Ventrue, and the Toreador in the room was furniture.
 
 "[Darius Cole](/darius-cole/)," Darius said. "Tenth generation."
 
-Ballard went still. The stillness of something large recalculating. "Tenth generation. [Modius](/npcs/modius/) sent a tenth-generation Ventrue as a courier. Either he respects Chicago more than I thought, or he respects you less than you think."
+[Ballard](/npcs/ballard/) went still. The stillness of something large recalculating. "Tenth generation. [Modius](/npcs/modius/) sent a tenth-generation Ventrue as a courier. Either he respects Chicago more than I thought, or he respects you less than you think."
 
 He ate another piece of steak. The knife moved through the meat with a surgeon's ease.
 

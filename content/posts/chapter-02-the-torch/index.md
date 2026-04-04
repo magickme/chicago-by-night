@@ -56,7 +56,7 @@ He didn't want sex. He wanted to matter.
 
 His name was Curtis. He told her everything. Bethlehem Steel, the layoffs, the wife, the kids in Merrillville, the picture he'd carried in his head since he was nineteen — the house, the yard, the good schools — and how he'd done everything right and the picture had dissolved anyway, the way pictures dissolve when the light they were projected on goes out.
 
-Sable listened. She was very good at listening. She'd learned it the way she'd learned everything — by survival, by necessity, by the understanding that a woman who listens gets fed and a woman who talks gets hit. She nodded at the right moments. She touched his wrist once, lightly, when he talked about his daughter, and the touch lasted exactly as long as it needed to last and not one heartbeat longer.
+[Sable](/sable-price/) listened. She was very good at listening. She'd learned it the way she'd learned everything — by survival, by necessity, by the understanding that a woman who listens gets fed and a woman who talks gets hit. She nodded at the right moments. She touched his wrist once, lightly, when he talked about his daughter, and the touch lasted exactly as long as it needed to last and not one heartbeat longer.
 
 Curtis bought her a drink she didn't touch and didn't notice she hadn't touched. He talked for eleven minutes. She counted because counting was something to do with the part of her mind that wasn't performing, the part that was always counting — exits, threats, angles, the distance between where she sat and the door, the bartender's eye line, the clock above the register.
 

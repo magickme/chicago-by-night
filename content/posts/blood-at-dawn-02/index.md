@@ -38,9 +38,9 @@ She ghosted back to the Cutlass.
 
 ---
 
-The BP station on Fifth Avenue. The phone book hanging from a chain. [Wierus](/npcs/john-wierus/), John R. 1847 Pennsylvania Ave. One listing, one name, the whole equation reduced to a seven-digit number and an address six blocks from the lake.
+The BP station on Fifth Avenue. The phone book hanging from a chain. [Wierus](/npcs/john-wierus/), [John](/npcs/john-wierus/) R. 1847 Pennsylvania Ave. One listing, one name, the whole equation reduced to a seven-digit number and an address six blocks from the lake.
 
-[Sable](/sable-price/) tore the page out. Darius was already in the car.
+[Sable](/sable-price/) tore the page out. [Darius](/darius-cole/) was already in the car.
 
 Pennsylvania Avenue was the kind of street that existed in every dying neighborhood in every dying city: vinyl siding gone gray, chain-link fences around yards nobody maintained, the amber glow of occupied houses getting sparser until the dark won. 1847 was a bungalow. One light on. Kitchen window. The only evidence of human habitation on a block that was forgetting what the word meant.
 
@@ -66,7 +66,7 @@ Darius broke the salt with his foot and stepped into a house that smelled like c
 
 ---
 
-Sable felt the front ward break. The house's protection shuddered and thinned. She scuffed the back salt line with her heel and went in.
+[Sable](/sable-price/) felt the front ward break. The house's protection shuddered and thinned. She scuffed the back salt line with her heel and went in.
 
 The hallway. Darius's voice from the kitchen, calm, measured, asking questions that fed a man's need to explain. How did you do it? What kind of spirit? When did you know it worked? The stained fingers moving over diagrams, the present tense when he said his son's name.
 
@@ -110,7 +110,7 @@ Sable sat on the concrete beside him. The Wasteland was quiet. The ore smelter's
 
 They had operated as a unit. No agreement, no discussion, no handshake. Darius at the front table keeping a sorcerer talking while Sable moved through the back of his house and stole the thing that held a monster in the world. The coterie that formed the way coteries actually form — not in a prince's ballroom with witnesses and protocol, but in a house on Pennsylvania Avenue at two in the morning when the only alternative was letting something terrible keep walking.
 
-Sable pulled the photograph from her pocket. Allicia at the piano. The obsessive intimacy of the angle.
+Sable pulled the photograph from her pocket. [Allicia](/npcs/allicia/) at the piano. The obsessive intimacy of the angle.
 
 "We still need to tell her."
 

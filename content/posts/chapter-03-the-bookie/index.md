@@ -32,11 +32,11 @@ He didn't walk away. That was the second mistake. The first was coming here on a
 
 He pulled back from the doorway. A half-step, maybe less. Not enough.
 
-[Michael](/npcs/michael/) had felt him coming. That was the thing about Malkavians — the cracked ones, the ones who lived in cemeteries and talked to headstones — they had senses that operated on frequencies the other clans couldn't tune. Auspex. The psychic antenna that picked up Kindred vitae the way a dog picks up fear. [Michael](/npcs/michael/) had been tracking [Darius](/darius-cole/)'s approach while sitting across from a mortal bookie eating a meatball sub, and when Darius appeared in the doorway for that fractional second, [Michael](/npcs/michael/) was already looking at the exact spot where his face would be.
+[Michael](/npcs/michael/) had felt him coming. That was the thing about Malkavians — the cracked ones, the ones who lived in cemeteries and talked to headstones — they had senses that operated on frequencies the other clans couldn't tune. Auspex. The psychic antenna that picked up Kindred vitae the way a dog picks up fear. [Michael](/npcs/michael/) had been tracking [Darius](/darius-cole/)'s approach while sitting across from a mortal bookie eating a meatball sub, and when [Darius](/darius-cole/) appeared in the doorway for that fractional second, [Michael](/npcs/michael/) was already looking at the exact spot where his face would be.
 
 Their eyes met. A quarter-second. Then Darius was around the corner, pressing his back against the corrugated wall of the warehouse, breathing air he didn't need, thinking very fast.
 
-*He saw me. He knows I'm here. Sal doesn't — [Michael](/npcs/michael/) didn't react, the Malkavian discipline held — but Michael knows.*
+*He saw me. He knows I'm here. Sal doesn't — [Michael](/npcs/michael/) didn't react, the Malkavian discipline held — but [Michael](/npcs/michael/) knows.*
 
 Darius waited. The wind came off the lake. The dispatch office light threw a yellow rectangle across the concrete. Ten minutes passed. Darius counted them the way he'd been counting time since the Embrace — not by minutes but by heartbeats that weren't there, by the pulse of the blood in his veins that moved only because the stolen vitae remembered what circulation felt like.
 

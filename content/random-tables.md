@@ -996,6 +996,7 @@ Use one headline at scene open to add mortal friction unrelated to the Jyhad. Th
 |29|Ghoul driver (Belthazar's)|
 |30|Tomás Navarro|
 |31|Drummond|
+|32|Walt Gryzinski|
 
 ## Live Story Oracles
 

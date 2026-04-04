@@ -44,7 +44,7 @@ Then a voice, close enough that it should have had footsteps first and didn't.
 
 "You're punctual. [Juggler](/npcs/juggler/) said you would be."
 
-Eight feet to Darius's left. The Obfuscate stopped and [Danov](/npcs/alexander-danov/) was there — not arriving, just revealed, the way a wall becomes visible when a light changes. Short figure in a long coat. The face was what Nosferatu faces were. The details didn't matter because the eye refused to hold them, sliding off the wrongness the way water slides off wax. What registered was the coat, the posture, and the voice — deliberate, precise, every consonant placed like furniture in a room where nothing was accidental.
+Eight feet to [Darius](/darius-cole/)'s left. The Obfuscate stopped and [Danov](/npcs/alexander-danov/) was there — not arriving, just revealed, the way a wall becomes visible when a light changes. Short figure in a long coat. The face was what Nosferatu faces were. The details didn't matter because the eye refused to hold them, sliding off the wrongness the way water slides off wax. What registered was the coat, the posture, and the voice — deliberate, precise, every consonant placed like furniture in a room where nothing was accidental.
 
 "Walk with me. I don't do business standing still."
 
@@ -66,7 +66,7 @@ The cemetery went quiet. The rats stopped. The crow watched.
 
 Darius deflected. [Danov](/npcs/alexander-danov/) refused the deflection with the patience of a man who had been deflected by better liars for centuries. The conversation shifted — Darius asked about independence, about endgame, about where the information went once it entered the vault.
 
-Danov told him. Independent. Not [Modius](/npcs/modius/)'s, not [Lucian](/npcs/lucian/)'s. Nosferatu. The economy underneath every other economy. "I'm building nothing. I'm maintaining. When Gary collapses — and the math is already done — the man who kept the records is the man Chicago calls first."
+[Danov](/npcs/alexander-danov/) told him. Independent. Not [Modius](/npcs/modius/)'s, not [Lucian](/npcs/lucian/)'s. Nosferatu. The economy underneath every other economy. "I'm building nothing. I'm maintaining. When Gary collapses — and the math is already done — the man who kept the records is the man Chicago calls first."
 
 An archive. Not a weapon.
 

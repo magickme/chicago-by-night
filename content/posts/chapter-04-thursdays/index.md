@@ -32,7 +32,7 @@ Someone was watching the cemetery. A professional — the heater discipline prov
 
 A hunter.
 
-The paper bag with [Michael](/npcs/michael/)'s gift sat on the back seat. The blanket, the candles, the Merlot. Darius looked at it in the rearview mirror and then looked at the street ahead and made a decision that felt less like a choice and more like a gear engaging.
+The paper bag with [Michael](/npcs/michael/)'s gift sat on the back seat. The blanket, the candles, the Merlot. [Darius](/darius-cole/) looked at it in the rearview mirror and then looked at the street ahead and made a decision that felt less like a choice and more like a gear engaging.
 
 The gift could wait. The sedan could not.
 
@@ -56,7 +56,7 @@ He took out a notebook. Wrote something. Put the notebook away.
 
 Then he walked back to the Buick, and as he opened the driver's door his coat swung open and Darius saw two things.
 
-The first was a wooden stake in a belt holster, positioned for a cross-draw. Not a gun. A stake. [Dane](/npcs/sullivan-dane/) carried it the way Darius carried his pistol — always there, practiced angle, muscle memory in the draw. But Dane's weapon was a tool, not a prop. Dane had used his. Six times that anyone knew about.
+The first was a wooden stake in a belt holster, positioned for a cross-draw. Not a gun. A stake. [Dane](/npcs/sullivan-dane/) carried it the way Darius carried his pistol — always there, practiced angle, muscle memory in the draw. But [Dane](/npcs/sullivan-dane/)'s weapon was a tool, not a prop. Dane had used his. Six times that anyone knew about.
 
 The second thing was a key fob clipped to his belt loop. Rectangular. Orange plastic. Motel key. From fifty yards Darius couldn't read the name, but the shape and color were distinctive. There were three motels on the Borman Expressway corridor that used orange plastic fobs. Darius knew this because he had cased every motel within ten miles of Gary during his first week in the city. It was what you did. It was how the architecture started.
 

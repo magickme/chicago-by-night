@@ -34,7 +34,7 @@ She nodded her deference and left.
 
 At the bookshelf, [Darius](/darius-cole/) stood beside her and they spoke in voices that didn't carry past the spines.
 
-"He wants me to spy on Allicia again. She told him no about something and he's rattled."
+"He wants me to spy on [Allicia](/npcs/allicia/) again. She told him no about something and he's rattled."
 
 "Just keep it cool. No sudden moves. We're in a good spot."
 

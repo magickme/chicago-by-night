@@ -34,15 +34,15 @@ His shoulders settled a half-inch. His jaw unclenched. He didn't notice either o
 
 "People who spent the last week watching [Ballard](/npcs/ballard/) play Prince and wondering how long before he started making it permanent."
 
-Darius motioned him to sit. The Brujah moved without deference -- he sat the way you sit at a friend's table.
+[Darius](/darius-cole/) motioned him to sit. The Brujah moved without deference -- he sat the way you sit at a friend's table.
 
-[Gengis](/npcs/gengis/). That was his name. He gave it freely, along with everything else: [Ballard](/npcs/ballard/)'s week as acting regent, the infrastructure he'd built, the three Primogen dinners, the narrative taking shape -- Gary's emissaries caused the crisis to manufacture the boon. None of it true the way Ballard told it, none of it a lie either.
+[Gengis](/npcs/gengis/). That was his name. He gave it freely, along with everything else: [Ballard](/npcs/ballard/)'s week as acting regent, the infrastructure he'd built, the three Primogen dinners, the narrative taking shape -- Gary's emissaries caused the crisis to manufacture the boon. None of it true the way [Ballard](/npcs/ballard/) told it, none of it a lie either.
 
 The driver was the key. [Belthazar](/npcs/belthazar/)'s ghoul. Walking around with holes in his head that weren't healing right. Ballard buying him drinks at Daley's and pulling threads.
 
 "Your Prince has been quiet," [Gengis](/npcs/gengis/) said. "Ballard hasn't."
 
-Darius asked why. Gengis told him: reputation, faction politics, access. A Brujah Anarch who wanted a seat at a table he'd never see the inside of, offering intelligence as an installment plan.
+Darius asked why. [Gengis](/npcs/gengis/) told him: reputation, faction politics, access. A Brujah Anarch who wanted a seat at a table he'd never see the inside of, offering intelligence as an installment plan.
 
 "Tell [Juggler](/npcs/juggler/) hi for me if you see him."
 

@@ -40,7 +40,7 @@ Eddie looked up when [Darius](/darius-cole/) walked in. The half-second of blank
 
 Ray was in the foreman's shed with his Racing Form and his Marlboros. The intel came with the smoke — two suits at the union hall last Thursday, Chicago accents, asking about warehouse lease structures. Not muscle. Paperwork. Cantone was tracing ownership chains, narrowing the field, building a case before he sent the crew. And [Lucian](/npcs/lucian/)'s new man at Berth 5 was walking all the berths after midnight, checking manifests that weren't his to check.
 
-The machine had parts Darius hadn't installed. Parts that moved on their own schedules, toward their own conclusions.
+The machine had parts [Darius](/darius-cole/) hadn't installed. Parts that moved on their own schedules, toward their own conclusions.
 
 The mansion sat at the Emerson-Midtown seam like a mausoleum that still accepted visitors. White columns going gray. Classical music from inside. Chopin becoming Debussy becoming Satie, the soundtrack of a man who'd been alone for a very long time.
 

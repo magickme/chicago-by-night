@@ -32,11 +32,11 @@ The question landed in the bar noise like a coin in a jukebox. [Victor](/npcs/vi
 
 "What did he ask before I walked in?"
 
-[Victor](/npcs/victor-salonika/) told him. Lakeside. The building. Whether anyone unusual had come around. Warren Birch. Victor's answers had been true because Victor's ignorance was genuine, and [Darius](/darius-cole/) looked at the ghoul and made a decision that felt like locking a door.
+[Victor](/npcs/victor-salonika/) told him. Lakeside. The building. Whether anyone unusual had come around. Warren Birch. [Victor](/npcs/victor-salonika/)'s answers had been true because Victor's ignorance was genuine, and [Darius](/darius-cole/) looked at the ghoul and made a decision that felt like locking a door.
 
 "Never heard of him."
 
-Victor held the look. [Darius](/darius-cole/) held it back. The lie was simple and clean and Victor filed it and nodded and went back to work, and the best briefing Darius could have given was the one he didn't give. What Victor didn't know, Victor couldn't say. What Victor couldn't say, [Shepard](/npcs/william-shepard/) couldn't pull out of him with a subpoena. Ignorance was the only armor that couldn't be beaten by a federal judge.
+Victor held the look. [Darius](/darius-cole/) held it back. The lie was simple and clean and Victor filed it and nodded and went back to work, and the best briefing [Darius](/darius-cole/) could have given was the one he didn't give. What Victor didn't know, Victor couldn't say. What Victor couldn't say, [Shepard](/npcs/william-shepard/) couldn't pull out of him with a subpoena. Ignorance was the only armor that couldn't be beaten by a federal judge.
 
 Broadway south to Fifth. The laundromat closed since '88. The payphone outside with a receiver that smelled like rain and cigarettes and the particular neglect of a phone company that services dead neighborhoods. Quarters in the slot. The Argyle Street number from memory.
 

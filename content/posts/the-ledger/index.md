@@ -26,7 +26,7 @@ Ray told him about the man who knew his name. A man whose face wouldn't hold in 
 
 [Danov](/npcs/alexander-danov/). Had to be. The Nosferatu was checking the merchandise before the deal closed. Running his people through the docks to verify that [Darius](/darius-cole/)'s warehouse was real, that the pipeline existed, that the story held. Standard tradecraft for a man who filed secrets by instinct.
 
-The conclusion was wrong. But it was clean and it was logical and it locked into place with the satisfaction of a padlock snapping shut, and Darius trusted it the way he trusted every diagram his mind built for him. The architecture had never failed him before.
+The conclusion was wrong. But it was clean and it was logical and it locked into place with the satisfaction of a padlock snapping shut, and [Darius](/darius-cole/) trusted it the way he trusted every diagram his mind built for him. The architecture had never failed him before.
 
 He armed up at the haven. The Remington was under the bed in a gym bag, sawed down to eighteen inches, loaded, next to a .38 he'd taken as payment on a fence job and forgotten about. He put the snub-nose on his ankle and the shotgun in the bag and the bag over his shoulder and he drove back to the docks.
 

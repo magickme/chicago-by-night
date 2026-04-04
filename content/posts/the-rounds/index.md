@@ -34,7 +34,7 @@ Choleric blood. Marie's anger tasted like an engine running hot -- burned and im
 
 Four points. She counted. She stopped.
 
-The second one she shouldn't have taken. The coworker came looking (flashlight, clipboard, Guerrero on his name badge, mid-thirties, the kind of worried that reads as annoyed) and Sable stepped into the beam and opened Entrancement like opening a door and he walked through it with a smile that said he'd been waiting all night for someone to tell him what to do.
+The second one she shouldn't have taken. The coworker came looking (flashlight, clipboard, Guerrero on his name badge, mid-thirties, the kind of worried that reads as annoyed) and [Sable](/sable-price/) stepped into the beam and opened Entrancement like opening a door and he walked through it with a smile that said he'd been waiting all night for someone to tell him what to do.
 
 He talked while she fed. They do that -- the Entranced, the devoted, the temporarily ruined. He gave her words because words were what he had, and buried in the recitation of shift complaints and union problems and night-shift strangeness came the thing she'd needed without knowing she needed it: the white van. Econoline. Adams one night, Seventeenth the next. A man who sits in it after midnight and writes in a notebook and watches the street with the patience of someone who has been trained to watch streets.
 

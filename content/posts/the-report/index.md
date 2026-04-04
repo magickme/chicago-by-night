@@ -35,7 +35,7 @@ She talked about entertaining and guest lists and wine selection, and underneath
 
 Two. Outside.
 
-Sable left at ten-fifteen. Fed on the west side — a man outside a bar on Broadway, the crying play, six blood points, left him sitting on the sidewalk looking like a drunk. Killed time on the lakefront road with the windows down and the lake flat and black and the dashboard clock counting toward something that would change the architecture of every relationship in the chronicle.
+[Sable](/sable-price/) left at ten-fifteen. Fed on the west side — a man outside a bar on Broadway, the crying play, six blood points, left him sitting on the sidewalk looking like a drunk. Killed time on the lakefront road with the windows down and the lake flat and black and the dashboard clock counting toward something that would change the architecture of every relationship in the chronicle.
 
 At two in the morning she stood on the shingle beach behind the mansion. The porch light was off. One window on the second floor glowed and died. Then [Allicia](/npcs/allicia/) was on the lawn — Celerity-fast, bare feet on the grass, dark clothes, shaking with the kind of hunger that lives in the jaw.
 
@@ -45,7 +45,7 @@ She stepped into the lake. The water took her to the waist. Cold and black and a
 
 ![Two women in black water at night](the-report.webp)
 
-Allicia dropped off the bluff and waded to her and pressed her mouth to Sable's throat and drank.
+[Allicia](/npcs/allicia/) dropped off the bluff and waded to her and pressed her mouth to Sable's throat and drank.
 
 Five blood points. The vitae leaving Sable's body in a warm current that the lake pulled south. Allicia's hands on her shoulders, grip tightening, the jaw clenching as the Beast fought for more and the woman underneath the Beast fought to stop. One success on the self-control. One. The margin between feeding and killing measured in a single die that could have gone either way.
 

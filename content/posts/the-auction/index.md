@@ -34,7 +34,7 @@ Twenty-two thousand five hundred.
 
 Every head turned. The younger man. The American suit. The cold tea. Standing with no paddle, just a raised hand and a smile aimed at [Roarke](/npcs/roarke/) like a letter addressed to him personally.
 
-He tripled Roarke's counter. Then tripled again. Sixty-nine thousand pounds. Roarke bid seventy thousand from [Lodin](/npcs/lodin/)'s Swiss account because [Lodin](/npcs/lodin/) had said six words on a plane and those words didn't have a ceiling.
+He tripled [Roarke](/npcs/roarke/)'s counter. Then tripled again. Sixty-nine thousand pounds. Roarke bid seventy thousand from [Lodin](/npcs/lodin/)'s Swiss account because [Lodin](/npcs/lodin/) had said six words on a plane and those words didn't have a ceiling.
 
 The younger man shook his head. The gavel came down. He walked out past Roarke's chair close enough that Roarke could smell the aftershave -- American, expensive -- and see the lavender tie.
 

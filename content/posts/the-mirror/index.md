@@ -68,7 +68,7 @@ The handwriting was elegant. Toreador precision, every letter a small performanc
 
 Four days of silence. Then this. Not hostile, not warm. Probing. The handwriting of a woman who had practiced patience for fifty years and was choosing, now, to break it.
 
-The Oasis. Sable's club. Her old life. The place where Big Six used to sit in the front row with his hands on his knees and watch her dance with the flat attention of a man selecting livestock.
+The Oasis. [Sable](/sable-price/)'s club. Her old life. The place where Big Six used to sit in the front row with his hands on his knees and watch her dance with the flat attention of a man selecting livestock.
 
 [Allicia](/npcs/allicia/) couldn't know that. Nobody in Gary knew where [Sable Price](/sable-price/) came from or what she'd been before the Embrace turned her into something with a clan name and a patron. [Allicia](/npcs/allicia/) had picked a South Side club the way you'd pick any neutral ground. Coincidence. The universe arranging its furniture without consulting anyone who had to sit in it.
 
@@ -86,7 +86,7 @@ The words were positioned. The concern was real but the framing was strategic, d
 
 He looked. For two seconds he turned the words over behind his eyes and she could feel him weighing the seams. Then the vanity caught. The idea that his new ward worried about his household, cared about his comfort, came to him first before acting. The flattery landed where it always landed with [Modius](/npcs/modius/), in the part of him that needed to believe he was loved rather than obeyed.
 
-"Allicia is settled," he said. He moved to the piano. One finger along the closed lid. "She has her role. She has her comforts. What she does not have is the right to interrogate my decisions."
+"[Allicia](/npcs/allicia/) is settled," he said. He moved to the piano. One finger along the closed lid. "She has her role. She has her comforts. What she does not have is the right to interrogate my decisions."
 
 He looked back at Sable.
 

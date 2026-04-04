@@ -36,7 +36,7 @@ The study. The self-portrait. The lamp. [Modius](/npcs/modius/) behind the desk 
 
 He granted the feeding rights. Annual. Renewable. His generosity, not [Lucian](/npcs/lucian/)'s victory. Then he stood and said: "You will explain to me, at some point, how a twelfth-generation orphan who has been in my city for one year has the money, the connections, and the audacity to broker a deal between the two oldest powers in Gary."
 
-Darius heard the fuse light. The question wasn't casual and the "at some point" wasn't indefinite. The prince was giving him time the way a bank gives an extension — the debt was still there.
+[Darius](/darius-cole/) heard the fuse light. The question wasn't casual and the "at some point" wasn't indefinite. The prince was giving him time the way a bank gives an extension — the debt was still there.
 
 "Hell, I'll explain it tonight, [Modius](/npcs/modius/). I'm just trying to impress you. Beginner's luck. If I'm overstepping, guide me, your Majesty. I am new. You are a master."
 

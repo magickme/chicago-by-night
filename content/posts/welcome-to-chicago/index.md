@@ -40,7 +40,7 @@ Sir was in a booth with three drunk lawyers, flushed red with too much blood, th
 
 The back room held six Gangrel bikers and two men on the floor. [Horace](/npcs/horace/) — hook-nosed, patient, the weight of two centuries compressed into a Malkavian's grin — drove a stake through the stocky man's chest while the bikers watched like an audience at a prizefight. The man went rigid. They folded him into a trunk and padlocked it. Ninety seconds later he stepped out, blood oozing from the hole, fingers already rolling an invisible coin across the knuckles.
 
-Darius declined the wager. [Horace](/npcs/horace/) didn't blink.
+[Darius](/darius-cole/) declined the wager. [Horace](/npcs/horace/) didn't blink.
 
 In the office, [Horace](/npcs/horace/) made his calls. The coterie was expected. The [Field Museum](/locations/field-museum/), three in the morning. The Prince would see them.
 

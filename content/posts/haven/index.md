@@ -42,7 +42,7 @@ The door closed. The shape disappeared. The van was just a van again.
 
 "What's in the van, [Williams](/npcs/williams/)?"
 
-She said his name and he stopped moving. Not because the name was a threat — because the name meant she knew him, and being known by Kindred was a different equation than being known by mortals. Mortals who knew Williams could be silenced. Kindred who knew Williams were customers or complications, and a Toreador with Dread Gaze and the kind of face that functioned as a weapon was emphatically not a customer.
+She said his name and he stopped moving. Not because the name was a threat — because the name meant she knew him, and being known by Kindred was a different equation than being known by mortals. Mortals who knew [Williams](/npcs/williams/) could be silenced. Kindred who knew Williams were customers or complications, and a Toreador with Dread Gaze and the kind of face that functioned as a weapon was emphatically not a customer.
 
 "Merchandise," he said. His voice was flat, uninflected, the voice of a man describing inventory. "Saturday inventory. Man owed money to the wrong people. They sold the debt. I collected."
 
@@ -64,7 +64,7 @@ He turned toward the van. He stopped.
 
 The church on Polk and Thirteenth was stone and brick and seventy years old and had been dead for at least ten of them. The roof sagged on the north side where the rafters had surrendered to gravity and weather. The stained glass was gone, replaced by plywood that was itself starting to rot. The upstairs was a cavity — pews removed or stolen, the altar stripped, pigeons in the rafters and rain stains on the walls like abstract paintings nobody had commissioned.
 
-The alley ran along the south wall. A green door, steel, set into the foundation below grade. Sable put the brass key in the lock and turned it and the mechanism moved with the smoothness of something that had been oiled recently, which meant Williams maintained his properties, which meant Williams was a professional, which meant the fifty dollars a month was not charity but infrastructure.
+The alley ran along the south wall. A green door, steel, set into the foundation below grade. [Sable](/sable-price/) put the brass key in the lock and turned it and the mechanism moved with the smoothness of something that had been oiled recently, which meant Williams maintained his properties, which meant Williams was a professional, which meant the fifty dollars a month was not charity but infrastructure.
 
 Inside was dark and cool and smelled like stone. Her eyes adjusted — vampire eyes, the night vision that still caught her off guard sometimes, the way the dark wasn't dark anymore but just a different kind of light — and she saw the rectory kitchen. Low ceiling, tile floor cracked in a pattern that looked deliberate if you squinted. A cast-iron sink set into a stone counter, the kind of sink that had been installed when the church was built and would outlast the church and the city and probably the species. She turned the tap. Brown water, then clear. Cold enough to feel even through dead fingers.
 

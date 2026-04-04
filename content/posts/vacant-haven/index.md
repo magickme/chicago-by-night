@@ -54,9 +54,9 @@ Two words. No ornamentation. His eyes stayed on her for one more second — the 
 
 ---
 
-The indoor plaza was vast — marble, glass, the hushed acoustics of money spent on empty space. Double-decker elevators, brass and steel. Five police officers stood near the service bank and straightened when Belthazar approached. None of them looked at [Critias](/npcs/critias/). None of them seemed to notice him at all.
+The indoor plaza was vast — marble, glass, the hushed acoustics of money spent on empty space. Double-decker elevators, brass and steel. Five police officers stood near the service bank and straightened when [Belthazar](/npcs/belthazar/) approached. None of them looked at [Critias](/npcs/critias/). None of them seemed to notice him at all.
 
-The elevator was the express — 107 floors in under a minute. Sable watched the digital numbers climb and watched [Critias](/npcs/critias/) in the polished brass of the door. He stood with his hands in his coat pockets, perfectly still, and his reflection looked back at her with the patience of a man who had ridden elevators and stage coaches and horse carts and walked barefoot on roads that hadn't been named yet.
+The elevator was the express — 107 floors in under a minute. [Sable](/sable-price/) watched the digital numbers climb and watched [Critias](/npcs/critias/) in the polished brass of the door. He stood with his hands in his coat pockets, perfectly still, and his reflection looked back at her with the patience of a man who had ridden elevators and stage coaches and horse carts and walked barefoot on roads that hadn't been named yet.
 
 The doors opened onto a hallway that ran the full eastern side of the floor. No windows on this side — deliberate. A Prince who planned for sieges.
 
@@ -100,7 +100,7 @@ She reached for it and stopped. Not because she chose to. Because her hand told 
 
 ---
 
-Across the hall, Darius sat knee-to-knee with [Natasha](/npcs/natasha/). His eyes held hers and she couldn't look away. He slid into her memories the way he'd learned to — carefully, like opening a filing cabinet in someone else's office. Her night was there: the security room, the monitors, the routine. And then a wall. Clean. Surgical. Someone had removed a section of her experience with a precision that made his Dominate feel like a child's toy. What he got was the scar tissue: her thoughts, looping. *I opened the door to enter a dark room and then I opened the door to enter a dark room.* The same phrase, repeated, the brain trying to bridge the gap by running the last complete thought on a loop.
+Across the hall, [Darius](/darius-cole/) sat knee-to-knee with [Natasha](/npcs/natasha/). His eyes held hers and she couldn't look away. He slid into her memories the way he'd learned to — carefully, like opening a filing cabinet in someone else's office. Her night was there: the security room, the monitors, the routine. And then a wall. Clean. Surgical. Someone had removed a section of her experience with a precision that made his Dominate feel like a child's toy. What he got was the scar tissue: her thoughts, looping. *I opened the door to enter a dark room and then I opened the door to enter a dark room.* The same phrase, repeated, the brain trying to bridge the gap by running the last complete thought on a loop.
 
 She knew whoever came in. She let them in willingly. Then she forgot everything.
 
@@ -114,7 +114,7 @@ Sable summarized for [Critias](/npcs/critias/). The ancient blood. The single at
 
 Darius came back from the security room. Reported: [Natasha](/npcs/natasha/)'s memory had been surgically removed. Whoever did it knew her. She let them in. The wipe was beyond his ability to reverse.
 
-"One person," Critias said from the vault doorway. He hadn't raised his voice. "One individual entered this haven, shot the retainer at the desk, disabled the security system through the second retainer's willing cooperation, tore a seven-ton vault door from reinforced concrete with physical force derived from blood older than this city, and carried the Prince of Chicago out of the building." He paused. "That individual knew both retainers by name."
+"One person," [Critias](/npcs/critias/) said from the vault doorway. He hadn't raised his voice. "One individual entered this haven, shot the retainer at the desk, disabled the security system through the second retainer's willing cooperation, tore a seven-ton vault door from reinforced concrete with physical force derived from blood older than this city, and carried the Prince of Chicago out of the building." He paused. "That individual knew both retainers by name."
 
 ---
 

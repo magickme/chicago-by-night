@@ -25,7 +25,7 @@ During the years which followed Nathaniel has learned a great deal of patience, 
 
 Nathaniel happily assists both [Khalid](/npcs/khalid-al-rashid/) and [Lodin](/npcs/lodin/), and has become quite skilled at playing both ends against each other. He was careful to be out of town when [Maldavis](/npcs/maldavis/) made her bid for power, and very quick to return when the Primogen fell in behind [Lodin](/npcs/lodin/) once again -- just in time to help the Prince clean out some of the last Anarchs.
 
-While both Lodin and [Khalid](/npcs/khalid-al-rashid/) count the old Vampire hunter among their allies, nothing would give him more pleasure than to kill them both. However, this hatred for Undead does not imply any mercy or compassion for the living. Nathaniel is among the most cold-blooded Vampires any character could meet. Unlike the other Nosferatu, Nathaniel has no special loyalty to his clan. He harbors only hatred for all his kind.
+While both [Lodin](/npcs/lodin/) and [Khalid](/npcs/khalid-al-rashid/) count the old Vampire hunter among their allies, nothing would give him more pleasure than to kill them both. However, this hatred for Undead does not imply any mercy or compassion for the living. Nathaniel is among the most cold-blooded Vampires any character could meet. Unlike the other Nosferatu, Nathaniel has no special loyalty to his clan. He harbors only hatred for all his kind.
 
 **Image:** A tall, gaunt Nosferatu.
 

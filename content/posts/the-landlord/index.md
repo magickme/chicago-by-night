@@ -40,7 +40,7 @@ Heavy build. Work jacket, canvas, the kind you bought at a surplus store and wor
 
 The passenger door opened. [Sable](/sable-price/) moved to the backseat without being asked and without speaking. [Lucian](/npcs/lucian/) sat. The car dipped on its springs. He smelled like lake water and something underneath it, something animal, the musk of a predator that spent its nights in places where the distinction between man and territory had dissolved centuries ago.
 
-He didn't look at Darius. He looked through the windshield at the access road ahead, the darkness where it bent toward the docks.
+He didn't look at [Darius](/darius-cole/). He looked through the windshield at the access road ahead, the darkness where it bent toward the docks.
 
 "Three things."
 
@@ -68,7 +68,7 @@ The car went quiet again. A different quiet. [Sable](/sable-price/) in the backs
 
 Three seconds. Four. The access road. The distant sound of water.
 
-"Mutual discretion," Lucian said.
+"Mutual discretion," [Lucian](/npcs/lucian/) said.
 
 He opened the door. Got out. The car rose on its springs. He stood on the gravel shoulder and leaned down to the open window and the face that came through was lit from underneath by the dashboard glow, the eyes catching green in a way that human eyes never did.
 
@@ -128,7 +128,7 @@ Own the infrastructure. Charge rent. Let the operators operate and take a percen
 
 Pivot points. Eddie's reprogramming -- five days, the Conditioning layering deeper each session until the dock worker's loyalty was structural rather than compelled, a foundation instead of a leash. Cantone's redirect -- the trafficking as scapegoat, the notebook as evidence that Cantone's operation was the source of whatever federal attention was accumulating around the docks, a frame that redirected [Shepard](/npcs/william-shepard/)'s investigation toward Cicero and away from Gary. Webb -- two-week window. Saturday's Conditioning would install the first layer. The second session would lock it. By August, Warren Birch would have a voice and a face and a man who answered the phone when the FBI called. Mr. White in October. Long play. The Milwaukee buyer who paid premium for a product Darius didn't yet fully understand but whose value was denominated in a currency older than dollars.
 
-Vulnerable points. Eddie was a single point of failure -- one man between the warehouse and exposure, and if Eddie broke or was discovered or simply failed to show up, the entire dock operation went dark. The warehouse itself was discoverable, twenty-four sacks of narcotics in a building that Cantone's people had already watched once and would watch again. Webb was unconditioned. One session didn't make a proxy. Two sessions made a tool. Three made a weapon. The gap between one and three was the gap between a plan and a liability. [Chuc Luc](/npcs/chuc-luc/) was checking at the end of July, and whatever he found would determine whether Darius had a sire or a problem. And Sable's phone was a live wire -- the Chicago scrutiny channeled through her connections, a line that ran from [Lodin](/npcs/lodin/)'s seneschal through the Toreador network to a woman who slept in the same city as Darius and knew most of what he knew.
+Vulnerable points. Eddie was a single point of failure -- one man between the warehouse and exposure, and if Eddie broke or was discovered or simply failed to show up, the entire dock operation went dark. The warehouse itself was discoverable, twenty-four sacks of narcotics in a building that Cantone's people had already watched once and would watch again. Webb was unconditioned. One session didn't make a proxy. Two sessions made a tool. Three made a weapon. The gap between one and three was the gap between a plan and a liability. [Chuc Luc](/npcs/chuc-luc/) was checking at the end of July, and whatever he found would determine whether Darius had a sire or a problem. And [Sable](/sable-price/)'s phone was a live wire -- the Chicago scrutiny channeled through her connections, a line that ran from [Lodin](/npcs/lodin/)'s seneschal through the Toreador network to a woman who slept in the same city as Darius and knew most of what he knew.
 
 The advantage pulsed. The diagram held.
 

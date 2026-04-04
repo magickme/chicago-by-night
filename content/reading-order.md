@@ -209,6 +209,7 @@ Published scenes from **Chicago Chronicles** in chronological order.
 | 65 | [The Recruiter](/posts/the-recruiter/) | Darius | Jan 8, 1991, 4:28 PM |
 | 66 | [The Nightclub](/posts/the-nightclub/) | Darius + Sable | Jan 9, 1991, 4:28 PM |
 | 67 | [The Succubus Club](/posts/the-succubus-club/) | Sable | Jan 10, 1991, 4:28 PM |
+| 68 | [T001 The Debrief](/posts/t001-the-debrief/) | Chronicle | Jan 10, 1991, 4:28 PM |
 
 ---
 

@@ -26,7 +26,7 @@ Two predators in the same blind. Neither one aware of the other. And behind both
 
 The dock fought him from the start.
 
-The south gate was the same — bent chain-link, no camera — but the night watchman was on duty, a flashlight bobbing near the main entrance. Darius came through the gap in the fence and moved along the warehouse wall, and his feet betrayed him twice.
+The south gate was the same — bent chain-link, no camera — but the night watchman was on duty, a flashlight bobbing near the main entrance. [Darius](/darius-cole/) came through the gap in the fence and moved along the warehouse wall, and his feet betrayed him twice.
 
 The first time, he stopped short in the open, exposed, the wall ten feet away instead of five. He pressed himself flat and waited. The detective didn't turn. The watchman didn't swing his beam this direction. Darius breathed air he didn't need. Stealth had never been among his gifts.
 

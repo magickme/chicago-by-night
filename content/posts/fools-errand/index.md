@@ -40,4 +40,4 @@ He uncorked a small glass vial. Dark liquid, almost black, thicker than blood. P
 
 The dark came anyway. Slower than it should have. Somewhere underneath, something ancient kept a candle lit in a room that should have been empty.
 
-Roarke's eyes closed. The last thing he saw was the orange streetlamp and the gargoyles on the building across the street and the sky that wasn't his sky over a city that wasn't his city, and somewhere under all of it, quieter than the blood and the bullet and the sixty-one years, the thought that he had spent his whole life carrying things for other people and the last thing he carried was a package he couldn't hold on to.
+[Roarke](/npcs/roarke/)'s eyes closed. The last thing he saw was the orange streetlamp and the gargoyles on the building across the street and the sky that wasn't his sky over a city that wasn't his city, and somewhere under all of it, quieter than the blood and the bullet and the sixty-one years, the thought that he had spent his whole life carrying things for other people and the last thing he carried was a package he couldn't hold on to.

@@ -59,7 +59,7 @@ Darius answered honestly: he wanted to build something, he'd do almost anything,
 
 It was only later — months later, when [Chuc Luc](/npcs/chuc-luc/) dropped the accent and the act and spoke to Darius in a voice that was flat, precise, and ancient — that Darius understood the first meeting had been an audition. The bumbling uncle had been reading him like a ledger the entire time.
 
-The Embrace came in a cellar beneath the restaurant. No ceremony. No warning. Chuc Luc closed the restaurant, led Darius down a flight of stairs that smelled of old concrete and something older, and said: "This city was built on arrangements. The Italians think they own it. The Prince thinks he rules it. They are both correct, and neither one knows about me. You are about to understand why."
+The Embrace came in a cellar beneath the restaurant. No ceremony. No warning. [Chuc Luc](/npcs/chuc-luc/) closed the restaurant, led Darius down a flight of stairs that smelled of old concrete and something older, and said: "This city was built on arrangements. The Italians think they own it. The Prince thinks he rules it. They are both correct, and neither one knows about me. You are about to understand why."
 
 Three nights in a locked room while the last of his mortal life burned out of him. When it was over, Chuc Luc opened the door and said: "You work for me. You will go to Gary. You will do exactly what I tell you. And no one will ever know I exist."
 

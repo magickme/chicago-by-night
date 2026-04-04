@@ -26,7 +26,7 @@ The ballroom was smaller than she expected and sadder than she'd imagined. Cande
 
 She counted the room in three heartbeats. Six Kindred. Two bodyguards. One piano. One woman at the piano who wasn't playing.
 
-[Sable](/sable-price/) priced everything. She couldn't help it. The habit was older than the Embrace — Denise standing in the kitchen doorway of the apartment on State Street, studying the label on a bottle of activator, lips moving as she calculated cost per ounce. Sable did the same thing to rooms full of people: what's it worth, what does it cost, where's the margin. The candelabras were worth something but not to anyone in this room. The paintings were worthless. The string quartet was Dominated, which meant they worked for free, which meant the prince couldn't afford to pay musicians.
+[Sable](/sable-price/) priced everything. She couldn't help it. The habit was older than the Embrace — Denise standing in the kitchen doorway of the apartment on State Street, studying the label on a bottle of activator, lips moving as she calculated cost per ounce. [Sable](/sable-price/) did the same thing to rooms full of people: what's it worth, what does it cost, where's the margin. The candelabras were worth something but not to anyone in this room. The paintings were worthless. The string quartet was Dominated, which meant they worked for free, which meant the prince couldn't afford to pay musicians.
 
 The prince couldn't afford flowers that lived.
 

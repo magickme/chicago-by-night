@@ -38,6 +38,6 @@ ShowToc: false
 
 ## Who Controls It
 
-- Lodin controlled it. Past tense may apply.
+- [Lodin](/npcs/lodin/) controlled it. Past tense may apply.
 - Building management has no record of the 107th floor's true tenant. The lease is held through a trust that routes through three shell companies.
 - After the breach, whoever finds this place controls the biggest secret in Chicago.

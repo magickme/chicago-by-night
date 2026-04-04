@@ -48,7 +48,7 @@ He saw it happen. The sentence stopping. The eyes locking. The body going rigid 
 
 He watched. Thirty seconds, a minute, the time it takes to read a paragraph. He studied her the way he studied everything: as information. The vulnerability registered. The helplessness filed. The specific mechanics of the Toreador weakness cataloged and indexed alongside the sound of her voice and the way she tilted her head when she was lying and the exact width of the smile she used when she meant it versus the one she used when she didn't.
 
-Then he moved. Shifted his body to block the sight line between Sable and the room. Put himself between her frozen form and every mortal eye in [The Torch](/locations/the-torch/). Held the position until the entrancement broke and she surfaced, gasping, the world rushing back in like water into a vacuum.
+Then he moved. Shifted his body to block the sight line between [Sable](/sable-price/) and the room. Put himself between her frozen form and every mortal eye in [The Torch](/locations/the-torch/). Held the position until the entrancement broke and she surfaced, gasping, the world rushing back in like water into a vacuum.
 
 She looked at him. He looked at her. His face was the face of a man who'd just learned something valuable.
 
@@ -66,7 +66,7 @@ Two AM, engine off, the heater running. One of the long conversations — not ab
 
 The air in the car was close. Lake Michigan made sounds in the dark that sounded like breathing. The proximity was doing what proximity does when two people have been circling each other for three months and haven't decided what the circling means.
 
-Darius's pager went off.
+[Darius](/darius-cole/)'s pager went off.
 
 Six digits. A Chicago exchange. He looked at it and the man she'd been talking to left the car without standing up. What replaced him was something she recognized: the posture, the jaw, the eyes flattening into operational blankness. A soldier receiving orders. The transformation took less than a second. The warmth didn't drain from his face — it was removed, surgically, by something he'd practiced until the seams were invisible.
 
@@ -84,7 +84,7 @@ The next time they saw each other — Elysium, first Friday in June — the car 
 
 Meanwhile, Gary kept dying.
 
-In March, a boy's body turned up in the dumpster behind The Torch. Sixteen, underfed, gray-skinned. Gary PD wrote it as an overdose. [Victor](/npcs/victor-salonika/) cleaned the alley before dawn, the way he cleaned everything that happened behind The Torch, with bleach and efficiency and the quiet competence of a man who had been making problems disappear for forty years.
+In March, a boy's body turned up in the dumpster behind [The Torch](/locations/the-torch/). Sixteen, underfed, gray-skinned. Gary PD wrote it as an overdose. [Victor](/npcs/victor-salonika/) cleaned the alley before dawn, the way he cleaned everything that happened behind The Torch, with bleach and efficiency and the quiet competence of a man who had been making problems disappear for forty years.
 
 In April, a dockworker told a bouncer who told a dancer who told Sable that somebody had seen a boy walking near the Wasteland. A boy matching the description of the one they found in the dumpster. Three weeks dead and walking. The dancer laughed when she said it. Sable didn't.
 

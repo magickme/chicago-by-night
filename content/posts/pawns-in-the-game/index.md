@@ -52,13 +52,13 @@ From behind a closed door, two voices:
 
 [Pershing](/npcs/pershing/) coughed. Kept walking. Opened a door at the end of the hall. A game room -- billiards, chess set, decanters, leather chairs. The kind of room designed to keep people comfortable and irrelevant at the same time.
 
-Roarke brought the others inside. The chess set was mid-game -- white losing material but winning position. The white pawns had faces. Not decorative. Specific. Eight individual people carved into the expendable pieces. The black pawns were blank.
+[Roarke](/npcs/roarke/) brought the others inside. The chess set was mid-game -- white losing material but winning position. The white pawns had faces. Not decorative. Specific. Eight individual people carved into the expendable pieces. The black pawns were blank.
 
 [Julian](/npcs/julian-curry/) saw it too. Eight white pawns. Eight faces. We're five.
 
 [Amber](/npcs/amber/) said maybe everything is a game to them and the game is the point. Roarke said *truer words* in the flat dry voice of a man who'd spent six decades learning exactly how true it was.
 
-An hour and a half later, [Pershing](/npcs/pershing/) opened the door without knocking and told them their master was finished. The corridor. The portraits. The front door. Lodin at the van with his hands behind his back and his face closed like a book someone had decided you weren't allowed to read.
+An hour and a half later, [Pershing](/npcs/pershing/) opened the door without knocking and told them their master was finished. The corridor. The portraits. The front door. [Lodin](/npcs/lodin/) at the van with his hands behind his back and his face closed like a book someone had decided you weren't allowed to read.
 
 Tomorrow. There is an auction. Piccadilly. Eleven o'clock. You will attend.
 

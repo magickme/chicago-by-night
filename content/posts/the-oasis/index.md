@@ -40,7 +40,7 @@ Silence. The bass pulsed through the wall. The red lamp hummed.
 
 [Sable](/sable-price/) looked at her. [Allicia](/npcs/allicia/)'s face was a mask and the mask was the face and the question of which one was performing had been answered decades ago: both. Always. There was nothing behind the mask because the mask had eaten it.
 
-"They're yours," Sable said. "Everything in that room is yours. I know what he did."
+"They're yours," [Sable](/sable-price/) said. "Everything in that room is yours. I know what he did."
 
 "What do you think he did?"
 
@@ -62,7 +62,7 @@ Sable watched her stand and thought about the razor in her pocket, which had not
 
 [Allicia](/npcs/allicia/) stopped. Her hand was on the table. Her fingers pressed into the velvet hard enough to leave marks.
 
-The bass pulsed. The lamp hummed. Ten seconds. Twenty. Sable didn't move. Didn't fill the silence. Didn't reach across the table. She just held the space open the way you hold a door for someone carrying something heavy, and waited to see if Allicia would walk through it.
+The bass pulsed. The lamp hummed. Ten seconds. Twenty. Sable didn't move. Didn't fill the silence. Didn't reach across the table. She just held the space open the way you hold a door for someone carrying something heavy, and waited to see if [Allicia](/npcs/allicia/) would walk through it.
 
 She sat back down.
 
@@ -122,4 +122,4 @@ Dawn pressed against the windows. Sable lay on the hardwood floor. The pointe sh
 
 Somewhere in Miller Beach, Allicia was sitting at a piano she didn't play, in a mansion she couldn't leave, bound to a man she couldn't stop loving because the blood wouldn't let her, and she had driven to the South Side of Chicago to sit in a strip club and tell a stranger the truth, and the truth was the only thing in fifty years that was entirely her own, and she had given it away.
 
-Sable closed her eyes and thought about the woman on the barre in the photograph and the woman in the doorway of the back room and whether they were the same person or whether one had killed the other, and whether the killing was Modius's fault or the blood's or just the long slow mathematics of being beautiful and owned in a world that could not tell the difference between the two.
+Sable closed her eyes and thought about the woman on the barre in the photograph and the woman in the doorway of the back room and whether they were the same person or whether one had killed the other, and whether the killing was [Modius](/npcs/modius/)'s fault or the blood's or just the long slow mathematics of being beautiful and owned in a world that could not tell the difference between the two.

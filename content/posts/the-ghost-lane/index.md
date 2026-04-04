@@ -35,7 +35,7 @@ Feeding rights. Formalized, written into the court structure, guaranteed for [Lu
 
 [Darius](/darius-cole/) said he'd speak with [Modius](/npcs/modius/). [Lucian](/npcs/lucian/) noted the verb. A check-cashing nobody who can "speak with [Modius](/npcs/modius/)" about feeding rights. The lie from Monday got thinner and neither of them mentioned it.
 
-Then Lucian stood and stopped at the loading dock and said: "There is a man named Gerald Fisk. He tends bar at a place called Rosie's, on Buchanan. He cannot make his mortgage and he owes money to people less patient than a bank. He is not my concern."
+Then [Lucian](/npcs/lucian/) stood and stopped at the loading dock and said: "There is a man named Gerald Fisk. He tends bar at a place called Rosie's, on Buchanan. He cannot make his mortgage and he owes money to people less patient than a bank. He is not my concern."
 
 A beat.
 
@@ -49,7 +49,7 @@ The Cutlass east on the Buffington corridor. Headlights off a quarter mile from 
 
 At 2 AM the tug came in without running lights. Forty feet, riding low, no name on the hull. Two line handlers worked in silence. Two passengers stepped off — one tall in a long coat, one short and hooded, carrying something heavy. A sedan with no plates pulled through the truck gate and they climbed in and drove east toward Hammond. Five minutes. No manifest. No customs. No evidence that anything had happened at all except a line on a clipboard that said berth 7 and had nothing where a name should be.
 
-The tug left at 2:25. Darius checked the berth and found concrete and oil and the faint smell of diesel and nothing else. The ghost lane didn't leave ghosts. It left patterns, and patterns were what the pipeline needed.
+The tug left at 2:25. [Darius](/darius-cole/) checked the berth and found concrete and oil and the faint smell of diesel and nothing else. The ghost lane didn't leave ghosts. It left patterns, and patterns were what the pipeline needed.
 
 Then Rosie's. Buchanan Street. A beer sign with half its letters burned out. Three AM and a man behind the bar wiping the same spot with the same rag, and Darius sat down and ordered a whiskey he wouldn't drink and let the silence work.
 
@@ -71,4 +71,4 @@ He drove home. The west-side apartment. The kitchen table. The business card. Th
 
 $800 a month. The price of the whole board.
 
-He picked up the phone. Not [Chuc Luc](/npcs/chuc-luc/) — that call was tomorrow. Not Lucian. Not Modius. He called information and asked for the number of the Lake County Recorder's Office, open at 8:30 AM, and wrote it on the back of the business card with no name on it, and set the card on the kitchen table next to everything else, and sat in the dark and did not sleep because the dead don't sleep, and the dead who are building something don't rest either, and the sun came up over Gary and turned the mill smoke gold and Darius Jeremiah Cole — Warren Birch, 12th generation, nobody, check-cashing man, squirrel trying to get a nut — sat at his kitchen table with $800 between him and everything he came here to build.
+He picked up the phone. Not [Chuc Luc](/npcs/chuc-luc/) — that call was tomorrow. Not Lucian. Not [Modius](/npcs/modius/). He called information and asked for the number of the Lake County Recorder's Office, open at 8:30 AM, and wrote it on the back of the business card with no name on it, and set the card on the kitchen table next to everything else, and sat in the dark and did not sleep because the dead don't sleep, and the dead who are building something don't rest either, and the sun came up over Gary and turned the mill smoke gold and Darius Jeremiah Cole — Warren Birch, 12th generation, nobody, check-cashing man, squirrel trying to get a nut — sat at his kitchen table with $800 between him and everything he came here to build.

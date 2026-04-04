@@ -18,7 +18,7 @@ He unbolted the back room. Stepped into the front.
 
 Webb was at the table. Navy suit jacket over the chair back, summer weight. Tie loosened. Shirtsleeves rolled once at the cuff. The quarterly reports in a manila folder, edges aligned. The Birch Holdings partnership agreement beside it, tabbed with yellow stickies marking signature lines. He'd been ready since before noon.
 
-He stood when [Darius](/darius-cole/) came in. Not fast. The controlled way a man stands when he's rehearsed the standing. His eyes went to Darius, then to the dark rectangle of the bedroom behind him — the bolt, the blackout material — and back.
+He stood when [Darius](/darius-cole/) came in. Not fast. The controlled way a man stands when he's rehearsed the standing. His eyes went to [Darius](/darius-cole/), then to the dark rectangle of the bedroom behind him — the bolt, the blackout material — and back.
 
 "Mr. Birch."
 

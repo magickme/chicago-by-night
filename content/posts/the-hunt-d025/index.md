@@ -12,7 +12,7 @@ description: "Four nights without blood and the Beast has stopped asking. A shor
 
 ---
 
-The Cutlass ran cold for the first three miles. December in Gary meant the heater was a promise the engine broke every morning and kept every night, twenty minutes late. By the time warm air pushed through the vents Darius was on Lakeshore Drive heading east with the mills behind him putting their orange signature on the cloud ceiling and the hunger sitting behind his teeth like a second tongue.
+The Cutlass ran cold for the first three miles. December in Gary meant the heater was a promise the engine broke every morning and kept every night, twenty minutes late. By the time warm air pushed through the vents [Darius](/darius-cole/) was on Lakeshore Drive heading east with the mills behind him putting their orange signature on the cloud ceiling and the hunger sitting behind his teeth like a second tongue.
 
 Four nights. The blood rationed itself when it ran low. The dead machinery of his body prioritizing function over comfort, slowing everything to a crawl. He could feel the edges of it now. The thing in the basement of his chest, the thing he'd learned to call the Beast because calling it anything else would mean admitting it was him, had stopped pacing. It was sitting. Watching. Patient the way a dog is patient when it knows the leash is about to come off.
 

@@ -50,7 +50,7 @@ The white panel van sat on Adams where it had been parked all night. No plates. 
 
 He stood there for six seconds. The longest since the Embrace. Every instinct built by thirty-two years of reading rooms and six hundred nights of reading the blood told him to close the distance, identify the variable, file it. The Beast said one word: *go*.
 
-Darius went.
+[Darius](/darius-cole/) went.
 
 Back to the Cutlass. North on Adams. East on Fifteenth. South on Broadway to [the Torch](/locations/the-torch/). The alley. He found the man fifteen feet in, sitting between the dumpsters with his legs out and his head tilted and a cigarette still smoldering between two fingers. White, early twenties, flannel and Carhartt, work boots, a name tag that said TERRY. The feeding wound was two punctures above the collar, closing, a thin line of dried blood disappearing into flannel. He was breathing. The daze was still on him -- the half-smile of a man whose body remembered pleasure his brain couldn't locate.
 

@@ -30,7 +30,7 @@ White. Late. Untouchable. She did not need volume because rank handled acoustics
 
 [Modius](/npcs/modius/) shouted for the crowd. He complied for reality.
 
-By the time Darius left, the whole year had collapsed into three objects and one instruction: the sealed reply, the safe-passage letter, [Lucian](/npcs/lucian/)'s whisper.
+By the time [Darius](/darius-cole/) left, the whole year had collapsed into three objects and one instruction: the sealed reply, the safe-passage letter, [Lucian](/npcs/lucian/)'s whisper.
 
 Go to the [Succubus Club](/locations/succubus-club/).
 
@@ -68,9 +68,9 @@ The answer hurt because it was real. It also saved the question from turning sen
 
 When [Annabelle](/npcs/annabelle-triabell/) arrived, the room learned what rank looks like when it wears perfume.
 
-Sable did not mistake recognition for kindness. She only recognized that the woman from Chicago saw more than [Modius](/npcs/modius/) saw and catalogued more carefully than [Sharon](/npcs/sharon-payne/) ever had.
+[Sable](/sable-price/) did not mistake recognition for kindness. She only recognized that the woman from Chicago saw more than [Modius](/npcs/modius/) saw and catalogued more carefully than [Sharon](/npcs/sharon-payne/) ever had.
 
-By the end of the night Gary had made its decision. Modius's emissaries. Chicago bound. Letter sealed. Safe passage dressed up as duty.
+By the end of the night Gary had made its decision. [Modius](/npcs/modius/)'s emissaries. Chicago bound. Letter sealed. Safe passage dressed up as duty.
 
 Sable left with the piano still in her ears and [Allicia](/npcs/allicia/)'s unreadable face burned behind her eyes and one clear fact where hope used to be:
 

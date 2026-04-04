@@ -52,7 +52,7 @@ The Cutlass. The lakefront road. [Sable](/sable-price/) came down the stairs wit
 
 The mansion shrank in the rearview mirror. The lake was dark. The porch light held its post on the dead-end street, and inside the house a prince closed his piano and a woman who hadn't spoken in fifty years sat on her bed with a snow globe and a face-down photograph and thought about the distance between being owned and being seen, and whether the girl who'd burned a monster for her understood the difference, and whether understanding the difference was the same thing as escaping it.
 
-"She kept the snow globe," Sable said.
+"She kept the snow globe," [Sable](/sable-price/) said.
 
 [Darius](/darius-cole/) drove. The city was quiet in the way Gary was quiet: not peace, just the pause between one thing going wrong and the next. Somewhere on the east side, [John Wierus](/npcs/john-wierus/) was sitting at his kitchen table writing in notebooks that no longer had a companion volume, and the space underneath his son's bedroom floor was empty, and the discovery of that emptiness was hours or days away, and when it came the man who had summoned a spirit and lost a son and spoken to a vampire in his kitchen would become something worse than all three, because grief with a target is just another word for war.
 

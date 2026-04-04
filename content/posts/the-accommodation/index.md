@@ -114,9 +114,9 @@ On the back wall, near the office door, a framed photograph. Small, dusty, the g
 
 [Allicia](/npcs/allicia/).
 
-[Sable](/sable-price/) stood in the middle of the floor and looked at the photograph and understood what [Modius](/npcs/modius/) had done, whether he'd meant to do it or not. This was [Allicia](/npcs/allicia/)'s room. Before the mansion. Before the piano. Before she became the thing on the mantel he'd stopped seeing. [Allicia](/npcs/allicia/) danced here, on this floor, in front of this mirror. Then she stopped, or was stopped, and Modius held the room the way he held everything, not because he needed it but because ownership was the only verb he conjugated, and now he'd handed it to the next one. The new acquisition. The upgrade.
+[Sable](/sable-price/) stood in the middle of the floor and looked at the photograph and understood what [Modius](/npcs/modius/) had done, whether he'd meant to do it or not. This was [Allicia](/npcs/allicia/)'s room. Before the mansion. Before the piano. Before she became the thing on the mantel he'd stopped seeing. [Allicia](/npcs/allicia/) danced here, on this floor, in front of this mirror. Then she stopped, or was stopped, and [Modius](/npcs/modius/) held the room the way he held everything, not because he needed it but because ownership was the only verb he conjugated, and now he'd handed it to the next one. The new acquisition. The upgrade.
 
-Sable left the shoes on the barre. Left the photograph on the wall.
+[Sable](/sable-price/) left the shoes on the barre. Left the photograph on the wall.
 
 She drove to Polk Street. Took what she needed, left the coat. The fur coat stayed at the green door, the real door, the one nobody knew about, the exit she'd need when everything Modius gave her turned out to be everything Modius could take away.
 

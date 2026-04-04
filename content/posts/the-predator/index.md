@@ -18,7 +18,7 @@ description: "A woman walks into GD territory with a .38 she can barely shoot an
 
 [Sable](/sable-price/) sat and drank the water and watched the room the way she always watched rooms — from behind the performance of not watching. The water was cold. The glass sweated in her hand. Outside, the strip was wet from the rain that had come and gone while she was underground in East Chicago, and the headlights on Broadway crawled through the puddles and turned them into mirrors that showed nothing but themselves.
 
-She'd been moving for forty-eight hours. The marathon of Thursday night — the federal agent at the Torch, the prince in his drawing room, Amy's aura dimming, the Dan Ryan at dawn — was still in her muscles, in the particular tiredness that vampires carried when the body stopped pretending it had muscles to tire. She should have been looking for a haven. The church was charcoal. The studio had a telephone that her mother could call at any hour. She had nowhere to sleep that wasn't borrowed or bugged or burned.
+She'd been moving for forty-eight hours. The marathon of Thursday night — the federal agent at [the Torch](/locations/the-torch/), the prince in his drawing room, Amy's aura dimming, the Dan Ryan at dawn — was still in her muscles, in the particular tiredness that vampires carried when the body stopped pretending it had muscles to tire. She should have been looking for a haven. The church was charcoal. The studio had a telephone that her mother could call at any hour. She had nowhere to sleep that wasn't borrowed or bugged or burned.
 
 Instead she sat at the bar and thought about Marcus Tillman.
 

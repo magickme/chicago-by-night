@@ -42,7 +42,7 @@ The Civic had no heat and a cracked windshield and [Damien](/npcs/damien/) drove
 
 The 7-11 was a stripped carcass. Plywood face, no sign, no light. The man who'd lived here — the Ghoulie Man, [Damien](/npcs/damien/) called him — wasn't home. Two cops were. [Sable](/sable-price/) heard their heartbeats through the wall and the scrape of pen on clipboard and below both, something else. Pressure. The same frequency she'd felt through bent steel on the 107th floor. Ancient blood had been here. Ancient blood had saturated the concrete.
 
-They went in through the back door. [Darius](/darius-cole/) removed the hinge pins. [Sable](/sable-price/) moved past the cops' office like a thing made of shadow and silence. [Darius](/darius-cole/) did not. His boot caught debris and the sound was a gunshot in the quiet and then there was a cop in the doorway with a flashlight and Sable behind him with her hand over his mouth and [Darius](/darius-cole/) in front of him with eye contact and one word — *sleep* — and the cop went down.
+They went in through the back door. [Darius](/darius-cole/) removed the hinge pins. [Sable](/sable-price/) moved past the cops' office like a thing made of shadow and silence. [Darius](/darius-cole/) did not. His boot caught debris and the sound was a gunshot in the quiet and then there was a cop in the doorway with a flashlight and [Sable](/sable-price/) behind him with her hand over his mouth and [Darius](/darius-cole/) in front of him with eye contact and one word — *sleep* — and the cop went down.
 
 The second cop went down harder. One success on the Command, the man staggering like a sedative kicking in, catching the chair, catching the table. But he went down.
 
@@ -54,7 +54,7 @@ The basement was twenty feet down. Cable descent. Concrete walls, chemistry tabl
 
 She found the drawer by touch — a seam in the wall that her fingertips caught where enhanced sight in the dark had shown nothing. Stone, flush-set, no handle. It slid out smooth. Inside: satin cloth. Inside the cloth: a vial.
 
-The blood was red the way a ruby is red — not flat, not dull, but luminous and thick and rolling against the glass with a viscosity that made physics feel approximate. Her mouth flooded. The hunger she'd just fed screamed. The Self-Control held. Darius went still beside her and his stillness was the Ventrue kind — the Beast awake and being managed through architecture and will — and his held too.
+The blood was red the way a ruby is red — not flat, not dull, but luminous and thick and rolling against the glass with a viscosity that made physics feel approximate. Her mouth flooded. The hunger she'd just fed screamed. The Self-Control held. [Darius](/darius-cole/) went still beside her and his stillness was the Ventrue kind — the Beast awake and being managed through architecture and will — and his held too.
 
 They climbed out. They called a reporter from a payphone at two in the morning. His name was Scottie Cartwright and he'd been waiting his entire career for that call. He gave them [Roarke](/npcs/roarke/). He gave them [Shepard](/npcs/william-shepard/). He gave them an address — a specialist's facility on the near north side.
 

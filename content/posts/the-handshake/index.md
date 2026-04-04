@@ -66,7 +66,7 @@ She dressed for war. The black blazer over bare skin, the single button doing wo
 
 Pete on the landing. Chair against the wall. Visible.
 
-Darius arrived at 11:42. Navy jacket, white shirt, the stillness of a man who had already decided what he was going to say and in what order. He scanned the room the way she'd seen him scan rooms at Elysium: exits, threats, angles, power dynamics, all of it catalogued in two seconds and filed in a system she couldn't see but could feel operating behind his eyes.
+[Darius](/darius-cole/) arrived at 11:42. Navy jacket, white shirt, the stillness of a man who had already decided what he was going to say and in what order. He scanned the room the way she'd seen him scan rooms at Elysium: exits, threats, angles, power dynamics, all of it catalogued in two seconds and filed in a system she couldn't see but could feel operating behind his eyes.
 
 He sat in the wooden chair by the window. Folded his hands.
 

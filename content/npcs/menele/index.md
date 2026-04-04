@@ -56,7 +56,7 @@ Menele lost control of the spirit and escaped only by throwing himself into the 
 
 ## Thirteen Centuries of War (79-1415 A.D.)
 
-[Helena](/npcs/helena/) survived through [Prias](/npcs/prias/)'s aid. They fled to Egypt. For over 1,300 years, the two Methuselahs fought across Eurasia. Neither could strike a decisive blow. Helena slowly gained the upper hand as [Prias](/npcs/prias/) grew in power through millennia of feeding on her 4th-generation blood.
+[Helena](/npcs/helena/) survived through [Prias](/npcs/prias/)'s aid. They fled to Egypt. For over 1,300 years, the two Methuselahs fought across Eurasia. Neither could strike a decisive blow. [Helena](/npcs/helena/) slowly gained the upper hand as [Prias](/npcs/prias/) grew in power through millennia of feeding on her 4th-generation blood.
 
 ## The Escape to the New World (1415)
 
@@ -104,7 +104,7 @@ Through correspondence between [Saul Osiecki](/npcs/saul-osiecki/) and Dr. Phill
 
 A Coptic jar containing [the Heart](/locations/the-heart/) of Osiris surfaced in Chicago. Channeling its energy would enable Menele to awaken at full strength — unstoppable, a god in the modern world. [Inyanga](/npcs/inyanga/) pursued it on his behalf. [Critias](/npcs/critias/), after breaking free of the Blood Bond by falling 73 stories from the [Sears Tower](/locations/sears-tower/), tried to prevent Menele from obtaining it. Beckett, the Noddist scholar, became entangled in the search.
 
-Critias, newly free: *"It took the massive injuries I sustained from that accident to break free of my sire's influence. I, like many other Cainites in this city, have been Menele's unwitting agent for some time now. It has been thus for over two millennia."*
+[Critias](/npcs/critias/), newly free: *"It took the massive injuries I sustained from that accident to break free of my sire's influence. I, like many other Cainites in this city, have been Menele's unwitting agent for some time now. It has been thus for over two millennia."*
 
 ## The Network
 
@@ -118,7 +118,7 @@ Critias, newly free: *"It took the massive injuries I sustained from that accide
 
 **[Ublo-Satha](/npcs/ublo-satha/)** — sleeper agent inside the Tremere. A Gargoyle conditioned by Menele before her transformation — the dormant commands survived the process. Her dual loyalty is unknown to the Tremere hierarchy. She watches [Nicolai](/npcs/nicolai/) (Helena's controlled Tremere Regent) from within the Chantry.
 
-**[Annabelle](/npcs/annabelle-triabell/) → [Modius](/npcs/modius/)** — Annabelle sired the Prince of Gary. Gary is not exile. Gary is a staging ground.
+**[Annabelle](/npcs/annabelle-triabell/) → [Modius](/npcs/modius/)** — [Annabelle](/npcs/annabelle-triabell/) sired the Prince of Gary. Gary is not exile. Gary is a staging ground.
 
 **Annabelle → [Sharon](/npcs/sharon-payne/) → [Michael](/npcs/michael/) → [Sable](/sable-price/)** — four steps from a sleeping god.
 

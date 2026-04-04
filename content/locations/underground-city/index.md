@@ -32,5 +32,5 @@ ShowToc: false
 ## Who Controls It
 
 - [Elias the Whale](/npcs/elias-the-whale/). He has lived down here long enough that the tunnel network is an extension of his body. He knows every maintenance schedule, every dead-end, every passage that connects to somewhere it shouldn't.
-- Elias does not claim the populated sections — he can't control what happens in a lit mall concourse during business hours. He controls the margins. The service corridors, the sealed tunnels, the spaces between the spaces.
+- [Elias](/npcs/elias-the-whale/) does not claim the populated sections — he can't control what happens in a lit mall concourse during business hours. He controls the margins. The service corridors, the sealed tunnels, the spaces between the spaces.
 - Other Sabbat use the tunnels, but they use them on Elias's sufferance. He can redirect, delay, or trap anyone who doesn't know the network the way he does.

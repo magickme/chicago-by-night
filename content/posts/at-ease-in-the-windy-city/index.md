@@ -32,7 +32,7 @@ Twenty minutes later someone knocked on the door. Hard. Three times.
 
 [Natasha](/npcs/natasha/) had the Walther before the echo died. [Julian](/npcs/julian-curry/)'s newspaper became a prop. [Roarke](/npcs/roarke/) went to the door and asked for a name.
 
-[Belthazar](/npcs/belthazar/). Ventrue. One of the Prince's Eyes -- the upper-class districts, the cushy beat. Roarke knew the name from the roster. He opened the door.
+[Belthazar](/npcs/belthazar/). Ventrue. One of the Prince's Eyes -- the upper-class districts, the cushy beat. [Roarke](/npcs/roarke/) knew the name from the roster. He opened the door.
 
 The Kindred filled the doorway. Charcoal overcoat, dark hair swept back, eyes that looked at mortals the way a man looks at furniture he's considering replacing. He walked past Roarke muttering about a crazy Malkavian bitch and her unsanctioned Embrace. Demanded to see the Prince. Roarke went to the vault door and knocked. [Lodin](/npcs/lodin/) told him to be silent. Five minutes passed. The vault opened.
 
@@ -44,7 +44,7 @@ Good judgment, Roarke. Show him to the library.
 
 The library door closed. [Belthazar](/npcs/belthazar/)'s voice came through anyway -- shouting about permitting the Embrace, about severity, about precedent. [Lodin](/npcs/lodin/)'s silence was worse than any answer. Then the library door flew open and [Belthazar](/npcs/belthazar/) crossed the suite in four strides, coat flaring. Muttering: owes her something, he says. Phahhh. Owes her nothing.
 
-The front door slammed hard enough to rattle the liquor cabinet. Lodin called Roarke into the library and told him about London.
+The front door slammed hard enough to rattle the liquor cabinet. [Lodin](/npcs/lodin/) called Roarke into the library and told him about London.
 
 Tomorrow night. Chartered jet. Absolute secrecy. A manila envelope with logistics. The way Lodin said the word London -- low, deliberate, weighted -- made it sound like the instructions for a war.
 

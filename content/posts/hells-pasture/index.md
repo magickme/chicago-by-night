@@ -78,9 +78,9 @@ And in the center: a body. Male. Staked through the chest. Not desiccated — th
 
 [Sable](/sable-price/)'s voice, flat: "That's the Prince of Chicago."
 
-Darius pulled the stake. The wood came free with a sound like a boot leaving mud. The eyes didn't open. Torpor. Blood-starved past consciousness. But the wound exhaled — a release of pressure — and the rats went berserk. Cages rattling. Hinges groaning.
+[Darius](/darius-cole/) pulled the stake. The wood came free with a sound like a boot leaving mud. The eyes didn't open. Torpor. Blood-starved past consciousness. But the wound exhaled — a release of pressure — and the rats went berserk. Cages rattling. Hinges groaning.
 
-He got [Lodin](/npcs/lodin/) over his shoulders. Sable swept jars off the shelf in the grotto — formaldehyde, the smell unmistakable. She splashed the tunnel floor at the rat room entrance, struck a match from the ceremony shelf, and dropped it.
+He got [Lodin](/npcs/lodin/) over his shoulders. [Sable](/sable-price/) swept jars off the shelf in the grotto — formaldehyde, the smell unmistakable. She splashed the tunnel floor at the rat room entrance, struck a match from the ceremony shelf, and dropped it.
 
 Blue flame. Then orange. The heat pushed up the tunnel like a train. Behind the firewall, the rats screamed.
 
@@ -100,7 +100,7 @@ Darius locked eyes across the firelight. Ventrue eyes. The same authority that h
 
 One cultist stepped forward with a machete. Sable found his eyes. Dread Gaze. The man's face went white. The blade hit the ground. He crawled backward making a sound too high for his size. Nobody else moved.
 
-Roarke broke the Command ten seconds later. Felt the shotgun. Assessed the situation the way ghouls do — half a century of serving things that could kill him in a heartbeat.
+[Roarke](/npcs/roarke/) broke the Command ten seconds later. Felt the shotgun. Assessed the situation the way ghouls do — half a century of serving things that could kill him in a heartbeat.
 
 "Take him," Roarke said. "Take him and get out. I don't care about the Prince."
 
@@ -114,7 +114,7 @@ The machete drew a line across Roarke's forearm. The blood welled dark. Darius h
 
 Four blood points. Sable hauled Roarke back. The ghoul slumped on his knees, a hundred and sixteen years suddenly visible in every line.
 
-Lodin's eyes opened.
+[Lodin](/npcs/lodin/)'s eyes opened.
 
 Not confused. Not grateful. Not afraid. The eyes of a man who had been conscious and paralyzed for a week and had spent every second counting debts.
 

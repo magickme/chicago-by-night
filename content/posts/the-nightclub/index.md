@@ -30,7 +30,7 @@ Enough to confirm. Not enough to know the kind.
 
 The barback took his break at ten-fifteen. Service entrance, the alley behind State Street. He lit a cigarette in the cold.
 
-Darius followed him out. Good overcoat, good shoes. A patron who noticed good work.
+[Darius](/darius-cole/) followed him out. Good overcoat, good shoes. A patron who noticed good work.
 
 "Got a light?"
 
@@ -42,7 +42,7 @@ Two mouthfuls. The Beast wanted the third but the math didn't work -- the man ha
 
 ---
 
-In the back corridor, Sable held the receiver against her ear and listened to the line ring three times before [Modius](/npcs/modius/) picked up.
+In the back corridor, [Sable](/sable-price/) held the receiver against her ear and listened to the line ring three times before [Modius](/npcs/modius/) picked up.
 
 She opened with the Debussy -- the *Clair de Lune* voicing from October. He corrected her left hand technique with genuine pleasure: "What you lack is the cruelty to let the listener wait."
 
@@ -50,7 +50,7 @@ Then the turn.
 
 "The Prince has been deliberate. He's received our service and acknowledged the debt. But Chicago's political machinery moves at its own speed."
 
-Modius parsed every word. She could hear him doing it.
+[Modius](/npcs/modius/) parsed every word. She could hear him doing it.
 
 "Patience. How refreshing. A Prince who asks for patience from emissaries of a court he hasn't formally recognized in forty years."
 
@@ -82,7 +82,7 @@ Then the work.
 
 The implication: the emissaries engineered the crisis to manufacture the boon.
 
-"None of them committed to anything. But none of them told Ballard to stop talking, either."
+"None of them committed to anything. But none of them told [Ballard](/npcs/ballard/) to stop talking, either."
 
 Sable gave him [Lodin](/npcs/lodin/)'s silence -- five nights, no callback. Sir's assessment was immediate: "Five nights of silence from a Prince who just reclaimed his throne means either he's decided you're not worth the conversation, or the conversation has become complicated by something he didn't expect to find when he got home."
 

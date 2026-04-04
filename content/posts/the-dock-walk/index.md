@@ -36,7 +36,7 @@ Berth 7. The dock office. A prefab box at the foot of the loading bay with one l
 
 He opened it anyway.
 
-Eddie looked up. Reflex. His mouth started forming a question and Darius caught his eyes and held them and the question died in the air between them.
+Eddie looked up. Reflex. His mouth started forming a question and [Darius](/darius-cole/) caught his eyes and held them and the question died in the air between them.
 
 Mesmerize. The word wasn't spoken. The word was never spoken. You didn't name what you did to people because naming it made it a thing with edges and a weight. You just looked and spoke and the other person's will bent until it matched your own, and if you did it right — and six successes was as right as it got — the bend was permanent. The new shape felt natural. The new shape felt like it had always been there.
 

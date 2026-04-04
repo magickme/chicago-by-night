@@ -16,7 +16,7 @@ She woke to the sound of the radiator and Michigan Avenue below, muffled under a
 
 Three days ago that silence would have been a countdown. Tonight it just sat there. A dog that stopped barking for reasons the dog wasn't sharing.
 
-She dressed in the bathroom with the door open because there was no one to close it against and because the mirror was better in there — better light, better angle, the kind of light that reminded her she was still something to look at even when the looking was only for herself. The wool coat, the boots, the scarf she'd bought at Marshall Field's with cash from Modius's operating fund. She checked the window. Lake Shore Drive headlights crawled through falling snow. The cabs were yellow smudges along the Magnificent Mile, stopping and starting with the rhythm of a city that didn't care whether you were alive or dead as long as you had fare.
+She dressed in the bathroom with the door open because there was no one to close it against and because the mirror was better in there — better light, better angle, the kind of light that reminded her she was still something to look at even when the looking was only for herself. The wool coat, the boots, the scarf she'd bought at Marshall Field's with cash from [Modius](/npcs/modius/)'s operating fund. She checked the window. Lake Shore Drive headlights crawled through falling snow. The cabs were yellow smudges along the Magnificent Mile, stopping and starting with the rhythm of a city that didn't care whether you were alive or dead as long as you had fare.
 
 She needed to eat.
 
@@ -46,9 +46,9 @@ The cab idled on a residential block off Clark. Snow collected on the windshield
 
 She sat on the steps of a brownstone whose owners were asleep or in Florida. The cold didn't touch her the way it was supposed to, the way it would have touched Ann Price five years ago — now it was information, a number her skin reported without urgency. The snow collected on her shoulders, her hair, the wool of the coat. A passing car's headlights caught her and she was a woman sitting on steps in a snowstorm at seven o'clock on a Thursday night in January, which in Chicago was not remarkable enough to stop for.
 
-She thought about [Allicia](/npcs/allicia/). The piano. The nocturne that stopped when Sable entered the room and resumed when she understood she wasn't being asked to speak. Fifty-two years. The alliance was complete — [Erichtho](/npcs/erichtho/) had evaluated it, [Carna](/npcs/carna/) was the path, the mechanism existed — and none of that changed the weight of the distance between having a plan and executing one, which was measured in other people's patience and Sable's ability to hold every thread without dropping one.
+She thought about [Allicia](/npcs/allicia/). The piano. The nocturne that stopped when [Sable](/sable-price/) entered the room and resumed when she understood she wasn't being asked to speak. Fifty-two years. The alliance was complete — [Erichtho](/npcs/erichtho/) had evaluated it, [Carna](/npcs/carna/) was the path, the mechanism existed — and none of that changed the weight of the distance between having a plan and executing one, which was measured in other people's patience and Sable's ability to hold every thread without dropping one.
 
-Ray's melancholy nested inside hers. Saving for someone. [Allicia](/npcs/allicia/)'s freedom cost more than money and the filing deadline wasn't on any calendar — it was the day [Modius](/npcs/modius/) noticed, or the day the bond finished what fifty-two years had started, or the day Allicia simply stopped playing.
+Ray's melancholy nested inside hers. Saving for someone. [Allicia](/npcs/allicia/)'s freedom cost more than money and the filing deadline wasn't on any calendar — it was the day [Modius](/npcs/modius/) noticed, or the day the bond finished what fifty-two years had started, or the day [Allicia](/npcs/allicia/) simply stopped playing.
 
 The snow covered her hands. She let it.
 
@@ -66,19 +66,19 @@ She went to the mezzanine rail and opened her Auspex on him. His aura unfolded i
 
 Tremere. Blood magic left a watermark.
 
-She'd never seen one before. Not like this, not close enough to study. Erichtho at the Baptism had been a name and a force, not a face she'd read. This was different. A young man at a bar with a filing system built into his soul, cataloguing Brennon's movements and the mezzanine occupants and the angles between the exits with the mechanical patience of someone who'd been trained to assess rooms in a building with a clearance level.
+She'd never seen one before. Not like this, not close enough to study. [Erichtho](/npcs/erichtho/) at the Baptism had been a name and a force, not a face she'd read. This was different. A young man at a bar with a filing system built into his soul, cataloguing Brennon's movements and the mezzanine occupants and the angles between the exits with the mechanical patience of someone who'd been trained to assess rooms in a building with a clearance level.
 
 She turned Auspex on Brennon. Nothing — the strobes and the crowd ate the read. She turned it on [Sir Henry](/npcs/sir-henry-johnson/), and something pushed back. Not him. The read itself went wrong, the colors folding inward to a flat mirror that threw her own perception at her — for half a second she was looking at herself from his angle, a woman at the rail with snow in her hair and eyes that glowed faintly in the strobe, and the image was beautiful and wrong and carried the particular nausea of seeing your own predatory aura from the outside.
 
 She gripped the rail until it passed.
 
-Sir Henry lifted his glass toward her. Small gesture, warm. An invitation. As though nothing had happened at all.
+[Sir Henry](/npcs/sir-henry-johnson/) lifted his glass toward her. Small gesture, warm. An invitation. As though nothing had happened at all.
 
 She crossed to his booth and sat. He said her name like it was a compliment he didn't need to explain. She asked him about Modius.
 
 Sir Henry set down the glass. The warmth stayed on his face but something behind it sharpened.
 
-"They didn't *send* me. [Annabelle](/npcs/annabelle-triabell/) suggested. Which is how Annabelle sends." He'd gone in September. Stayed three nights. The Aspire, the guest suite, the wallpaper peeling. "Modius in 1990 is a man running a court with no court. The city is hemorrhaging population. His domain isn't shrinking because someone is taking it. It's evaporating."
+"They didn't *send* me. [Annabelle](/npcs/annabelle-triabell/) suggested. Which is how [Annabelle](/npcs/annabelle-triabell/) sends." He'd gone in September. Stayed three nights. The Aspire, the guest suite, the wallpaper peeling. "Modius in 1990 is a man running a court with no court. The city is hemorrhaging population. His domain isn't shrinking because someone is taking it. It's evaporating."
 
 He knew about Allicia. Every Toreador elder between Chicago and Milwaukee knew. And nobody said it out loud, because what Modius had done to that woman was the kind of thing the clan didn't forgive but also didn't fix.
 
@@ -118,7 +118,7 @@ He recalculated. She could see it happen — the moment where *she tried to mani
 
 She tested him. Read the room, she said. Show me what you can find out about the Kindred in here.
 
-He didn't look at anyone. He'd already looked. He'd been looking for two hours. Nine Kindred including them. [Thornhill](/npcs/brennon-thornhill/)'s three conversations — two operational, one about a delivery he didn't want "anyone upstairs" to see. Drummond had checked his watch eleven times, spoken to Thornhill twice, shifted booths to get a better angle on Sir Henry's table. Nobody ran collection that disciplined for free.
+He didn't look at anyone. He'd already looked. He'd been looking for two hours. Nine Kindred including them. [Thornhill](/npcs/brennon-thornhill/)'s three conversations — two operational, one about a delivery he didn't want "anyone upstairs" to see. [Drummond](/npcs/edgar/) had checked his watch eleven times, spoken to [Thornhill](/npcs/brennon-thornhill/) twice, shifted booths to get a better angle on Sir Henry's table. Nobody ran collection that disciplined for free.
 
 "Somebody's paying for that."
 

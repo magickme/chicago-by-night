@@ -22,7 +22,7 @@ The trumpet stopped. A child's voice said "I don't want to play anymore." A comm
 
 [Darius](/darius-cole/) stepped into the doorway and reached for the weapon he'd used on every mortal who'd ever stood between him and an objective, and the weapon didn't fire. The command left his mouth and hit [Raymond Falcon](/npcs/raymond-falcon/)'s blood and stopped. Ninth generation. The power running the wrong direction, and for the first time in his unlife [Darius](/darius-cole/) felt his primary tool click empty.
 
-[Baron](/npcs/baron-vulture/) Winger reached for the revolver. Darius reached for something older. The thing in his blood that makes rooms lean toward him. It caught the Malkavian mid-reach and held him just long enough for the wheel to turn and [Raymond](/npcs/raymond-falcon/) to surface, confused, frightened, the original personality blinking behind borrowed eyes.
+[Baron](/npcs/baron-vulture/) Winger reached for the revolver. [Darius](/darius-cole/) reached for something older. The thing in his blood that makes rooms lean toward him. It caught the Malkavian mid-reach and held him just long enough for the wheel to turn and [Raymond](/npcs/raymond-falcon/) to surface, confused, frightened, the original personality blinking behind borrowed eyes.
 
 "[Modius](/npcs/modius/) needs to see you. On penalty of Blood Hunt."
 
@@ -32,7 +32,7 @@ The trumpet stopped. A child's voice said "I don't want to play anymore." A comm
 
 In the Cutlass, between Broadway and Miller Beach, Darius listened to five people tell one story from five different angles. His instincts stripped the confusion and found the skeleton: the violent personality killed Ryan [Wierus](/npcs/john-wierus/) in the alley behind [The Torch](/locations/the-torch/) in March because the boy was wrong, because something inside the boy was reaching for the back door of the bar, because the part of [Falcon](/npcs/raymond-falcon/) that assessed threats did what it was built to do, fast and professional and without consulting the rest.
 
-Falcon didn't breach the Masquerade. He defended it. The brooch fell during the struggle. Nobody noticed. [Raymond](/npcs/raymond-falcon/) surfaced after the violence, saw the blood on his hands, and ran. He'd been on Broadway ever since, four blocks from the alley, close enough to walk back to the scene of something he couldn't remember clearly and couldn't stop remembering entirely.
+[Falcon](/npcs/raymond-falcon/) didn't breach the Masquerade. He defended it. The brooch fell during the struggle. Nobody noticed. [Raymond](/npcs/raymond-falcon/) surfaced after the violence, saw the blood on his hands, and ran. He'd been on Broadway ever since, four blocks from the alley, close enough to walk back to the scene of something he couldn't remember clearly and couldn't stop remembering entirely.
 
 Between personalities, the orderly one surfaced long enough to produce a business card from the lining of the trumpet case. SA [William Shepard](/npcs/william-shepard/), Federal Bureau of Investigation, Chicago Field Office. The card had been there for four months, taken from the dumpster where [Shepard](/npcs/william-shepard/) left it the week after Ryan died, cataloged and forgotten by four out of five.
 

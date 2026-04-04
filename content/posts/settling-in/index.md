@@ -32,7 +32,7 @@ Harvey came back. Five suitcases for four visible people. He opened them one by 
 
 Right, Harvey said. That's all in order. Welcome to England.
 
-They rented a Ford Transit from Hertz. White, smelled like cigarettes and the ghost of a dog. Roarke navigated from [Lodin](/npcs/lodin/)'s map and watched the mirrors at the same time. London through the windshield looked nothing like Chicago -- older, smaller, buildings that had been standing since before the country Roarke worked for existed. Red buses and black cabs and people carrying umbrellas they hadn't opened yet.
+They rented a Ford Transit from Hertz. White, smelled like cigarettes and the ghost of a dog. [Roarke](/npcs/roarke/) navigated from [Lodin](/npcs/lodin/)'s map and watched the mirrors at the same time. London through the windshield looked nothing like Chicago -- older, smaller, buildings that had been standing since before the country Roarke worked for existed. Red buses and black cabs and people carrying umbrellas they hadn't opened yet.
 
 Nobody followed them from Heathrow. Every car behind them accounted for over twenty minutes.
 

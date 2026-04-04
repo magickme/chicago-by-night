@@ -118,11 +118,11 @@ After the call, the room was quiet. The ghouls were gone — sent to East Chicag
 
 [Allicia](/npcs/allicia/) opened her eyes.
 
-[Sable](/sable-price/) sat beside her. Close. Their knees touching. She looked at Allicia with every sense open, every detail amplified — the line of her jaw, the lamplight in the hollow of her throat, the stillness of pianist's hands that had played Debussy for a prince for fifty years and never hit a wrong note.
+[Sable](/sable-price/) sat beside her. Close. Their knees touching. She looked at [Allicia](/npcs/allicia/) with every sense open, every detail amplified — the line of her jaw, the lamplight in the hollow of her throat, the stillness of pianist's hands that had played Debussy for a prince for fifty years and never hit a wrong note.
 
 She felt the pull. The Toreador weakness reaching for her, the beauty sharp enough to cut. She held. Stayed present. Stayed in control.
 
-That was worse. Being entranced was the easy version. You fell into beauty the way you fell into water and when you surfaced you could say the blood made you helpless. Sable wasn't helpless. She reached for Allicia because she wanted to.
+That was worse. Being entranced was the easy version. You fell into beauty the way you fell into water and when you surfaced you could say the blood made you helpless. [Sable](/sable-price/) wasn't helpless. She reached for Allicia because she wanted to.
 
 She kissed her.
 

@@ -36,4 +36,4 @@ He gave them a phone number for the Queen of London's people. Request feeding pe
 
 Then he climbed into his crate at thirty thousand feet and pulled the lid shut. The latches clicked from inside. [Roarke](/npcs/roarke/) sat in the dark with borrowed power in his blood and the Atlantic beneath him, going to a city he'd never seen for reasons he hadn't been told, because a man he loved and hated and couldn't tell the difference had said the word London like it meant something that mattered.
 
-The others slept. Roarke stared at the dark window and strummed his fingers against the armrest and thought about half a million people with candles who got to choose what to fight for.
+The others slept. [Roarke](/npcs/roarke/) stared at the dark window and strummed his fingers against the armrest and thought about half a million people with candles who got to choose what to fight for.

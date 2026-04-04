@@ -20,7 +20,7 @@ Nine o'clock. The hallway smelled like lemon polish and wet plaster. [Modius](/n
 
 The drawing room. Piano lid closed. [Modius](/npcs/modius/) stood at the window in a charcoal suit that was expensive when Kennedy was president. He turned. The smile arrived on schedule.
 
-"Sable. Punctual. I appreciate that."
+"[Sable](/sable-price/). Punctual. I appreciate that."
 
 She sat where he pointed. The settee breathed dust. [Modius](/npcs/modius/) took the armchair and crossed his legs and studied her the way a man studies a painting he hasn't finished hanging.
 
@@ -80,7 +80,7 @@ The sheepish grin. The apologetic posture. "Yeah, I wasn't sure about the schedu
 
 "Won't happen again."
 
-The ballroom. Moth-eaten curtains, half-dead chandelier, chairs in a semicircle facing an armchair that wasn't a throne because Modius wasn't that obvious. Dust and old carpet and the particular staleness of money that stopped circulating.
+The ballroom. Moth-eaten curtains, half-dead chandelier, chairs in a semicircle facing an armchair that wasn't a throne because [Modius](/npcs/modius/) wasn't that obvious. Dust and old carpet and the particular staleness of money that stopped circulating.
 
 Three Kindred already present. [Darius](/darius-cole/) read the room in a sweep. [Lucian](/npcs/lucian/) in a wingback chair apart from the semicircle, arms folded, the posture of a man who attended court the way a lion attends a dog show. [Claudette](/npcs/claudette-mallet/) beside him, standing. Eighteen forever, watching everything with the flat attention of a blade laid on a table.
 
@@ -96,7 +96,7 @@ He was thinking about the woman at the piano.
 
 ---
 
-Modius descended with [Allicia](/npcs/allicia/) one step behind. The prince in a darker suit, pocket square working too hard. Allicia in black, the yellow lace shawl, eyes on the floor. The room organized itself around the armchair.
+Modius descended with [Allicia](/npcs/allicia/) one step behind. The prince in a darker suit, pocket square working too hard. [Allicia](/npcs/allicia/) in black, the yellow lace shawl, eyes on the floor. The room organized itself around the armchair.
 
 "Thank you all for coming. Gary endures."
 
@@ -118,7 +118,7 @@ She bowed her head. "Thank you. It's a pleasure to make all of your acquaintance
 
 Terse. Simple. The room filed it. Modius looked pleased. [Lucian](/npcs/lucian/)'s gaze moved past her. [Danov](/npcs/alexander-danov/) gave her three seconds and then moved on.
 
-And Darius, in his chair, registered the thing nobody else cared to notice: the performance that started and stopped. The woman who reached for a weapon and put it back.
+And [Darius](/darius-cole/), in his chair, registered the thing nobody else cared to notice: the performance that started and stopped. The woman who reached for a weapon and put it back.
 
 ---
 
@@ -162,7 +162,7 @@ Then the shift. "I'm told your sire was destroyed. Hunters." The word arrived fl
 
 And there it was. The mention of Warren Birch's destruction, the fictional sire, the load-bearing wall of the cover story. What moved through Darius's blood wasn't grief. It was fear. Sharp, present, the specific terror of a man standing next to something that might see through the architecture he'd built his survival on.
 
-Danov watched. Darius didn't know that behind those gray eyes, six hundred years of reading the dead had opened like a lens, and the light pouring off his blood told a story that contradicted the one coming out of his mouth. The aura burned too bright for a twelfth-generation nobody. The emotion was fear where grief should live.
+[Danov](/npcs/alexander-danov/) watched. Darius didn't know that behind those gray eyes, six hundred years of reading the dead had opened like a lens, and the light pouring off his blood told a story that contradicted the one coming out of his mouth. The aura burned too bright for a twelfth-generation nobody. The emotion was fear where grief should live.
 
 "Fear," Danov said. The word placed between them like a stone on a go board. "The hunters who took your sire. You worry they're still looking."
 
@@ -192,7 +192,7 @@ Sable sat alone on the bench. Five seconds. Then she stood and smoothed her own 
 
 ---
 
-Court ended the way court ends. Lucian rose and the room's center of gravity shifted. [Claudette](/npcs/claudette-mallet/) followed without a word between them. Danov was gone before anyone noticed his chair was empty. Modius in his armchair making final pronouncements to an audience of two neonates and a ghoul.
+Court ended the way court ends. [Lucian](/npcs/lucian/) rose and the room's center of gravity shifted. [Claudette](/npcs/claudette-mallet/) followed without a word between them. Danov was gone before anyone noticed his chair was empty. Modius in his armchair making final pronouncements to an audience of two neonates and a ghoul.
 
 "Next month. First Friday. I expect you all."
 
