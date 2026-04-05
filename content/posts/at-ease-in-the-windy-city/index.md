@@ -36,7 +36,7 @@ Twenty minutes later someone knocked on the door. Hard. Three times.
 
 The Kindred filled the doorway. Charcoal overcoat, dark hair swept back, eyes that looked at mortals the way a man looks at furniture he's considering replacing. He walked past [Roarke](/npcs/roarke/) muttering about a crazy Malkavian bitch and her unsanctioned Embrace. Demanded to see the Prince. [Roarke](/npcs/roarke/) went to the vault door and knocked. [Lodin](/npcs/lodin/) told him to be silent. Five minutes passed. The vault opened.
 
-[Lodin](/npcs/lodin/) stepped out. Not tall. Not physically imposing. A dark suit that fit like it was born on him and eyes that were old in a way that had nothing to do with the face. Roarke's name as an accusation: one word.
+[Lodin](/npcs/lodin/) stepped out. Not tall. Not physically imposing. A dark suit that fit like it was born on him and eyes that were old in a way that had nothing to do with the face. [Roarke](/npcs/roarke/)'s name as an accusation: one word.
 
 Roarke said: unauthorized Embrace. [Lodin](/npcs/lodin/)'s annoyance left his face like water off marble.
 

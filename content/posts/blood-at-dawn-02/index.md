@@ -62,7 +62,7 @@ The shotgun didn't lower. But the man behind it was a teacher at heart, and nobo
 
 "Tell me what you know," [Wierus](/npcs/john-wierus/) said, and stepped back from the door. The salt line gleamed across the threshold. "If you want to come in, you break it yourself. I'm not inviting you."
 
-Darius broke the salt with his foot and stepped into a house that smelled like chalk and candle wax and a grief so thick it had soaked into the walls.
+[Darius](/darius-cole/) broke the salt with his foot and stepped into a house that smelled like chalk and candle wax and a grief so thick it had soaked into the walls.
 
 ---
 
@@ -108,7 +108,7 @@ He wasn't. He would be.
 
 [Sable](/sable-price/) sat on the concrete beside him. The Wasteland was quiet. The ore smelter's ruined walls held the heat and the ash and the two of them, and for a while neither spoke because the silence was enough.
 
-They had operated as a unit. No agreement, no discussion, no handshake. Darius at the front table keeping a sorcerer talking while Sable moved through the back of his house and stole the thing that held a monster in the world. The coterie that formed the way coteries actually form — not in a prince's ballroom with witnesses and protocol, but in a house on Pennsylvania Avenue at two in the morning when the only alternative was letting something terrible keep walking.
+They had operated as a unit. No agreement, no discussion, no handshake. Darius at the front table keeping a sorcerer talking while [Sable](/sable-price/) moved through the back of his house and stole the thing that held a monster in the world. The coterie that formed the way coteries actually form — not in a prince's ballroom with witnesses and protocol, but in a house on Pennsylvania Avenue at two in the morning when the only alternative was letting something terrible keep walking.
 
 Sable pulled the photograph from her pocket. [Allicia](/npcs/allicia/) at the piano. The obsessive intimacy of the angle.
 

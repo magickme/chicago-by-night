@@ -25,4 +25,4 @@ As sunrise approached, Reza fought ferociously. [Ezekiel](/npcs/ezekiel/)'s dete
 
 **Image:** Reza's features are distinctly Middle Eastern. His hair is short except for a long braided ponytail that is tied with gold rings for each of his kills (there are 23). Reza wears suits that lend him a simple, yet powerful elegance. During war parties and crusades, he wears traditional robes.
 
-**Secrets:** Unbeknownst even to Reza, he is not susceptible to the Blood Bond. As a result, he has no Vinculum ratings for any Sabbat. His feelings of loyalty for Ezekiel are genuine, not induced through blood.
+**Secrets:** Unbeknownst even to Reza, he is not susceptible to the Blood Bond. As a result, he has no Vinculum ratings for any Sabbat. His feelings of loyalty for [Ezekiel](/npcs/ezekiel/) are genuine, not induced through blood.

@@ -70,13 +70,13 @@ The curtain parted.
 
 "It's done. The Primogen know."
 
-Something crossed Ballard's face. Quick, absorbed by the fat before it could become an expression. Fear. The specific fear of a man sitting in a chair he didn't build, holding an authority he didn't earn, watching the structure he depends on develop cracks he can't plaster over.
+Something crossed [Ballard](/npcs/ballard/)'s face. Quick, absorbed by the fat before it could become an expression. Fear. The specific fear of a man sitting in a chair he didn't build, holding an authority he didn't earn, watching the structure he depends on develop cracks he can't plaster over.
 
 "Who told them."
 
 "I did. We had no choice." [Neally](/npcs/neally-edwards/)'s voice was smooth, bureaucratic — quarterly report cadence. "If we look for him ourselves, everyone will know something is wrong. The Primogen's will is to keep it among themselves for a few days. That gives us time. But we need people looking. People no one in Chicago knows."
 
-He looked at Sable. At Darius. Back to Ballard.
+He looked at [Sable](/sable-price/). At [Darius](/darius-cole/). Back to Ballard.
 
 "Them."
 

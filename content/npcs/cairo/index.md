@@ -25,4 +25,4 @@ As the months passed, Elisa entered the dark world of the Widows and her duties 
 
 **Image:** [Pierre](/npcs/pierre-bellemare/) replaced Elisa's lithe form and long black hair with a stocky Riot-Grrrl frame and shocking red hair. Cairo dresses to complement her lord, wearing black leather and dozens of body piercings.
 
-**Secrets:** Cairo is familiar with the location of Metathiax's Blood Circle, knows of the demon's plans to corrupt [Ezekiel](/npcs/ezekiel/) and has experienced the full extent of Pierre's perversity.
+**Secrets:** Cairo is familiar with the location of Metathiax's Blood Circle, knows of the demon's plans to corrupt [Ezekiel](/npcs/ezekiel/) and has experienced the full extent of [Pierre](/npcs/pierre-bellemare/)'s perversity.

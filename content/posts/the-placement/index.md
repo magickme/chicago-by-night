@@ -90,7 +90,7 @@ And the one thing keeping the flame lit — the only thing — was the heartbeat
 
 [Keisha](/npcs/keisha-williams/) said it plainly: [Ms. Okonkwo](/npcs/ms-okonkwo/), four houses from her grandmother's, green door, twenty years of fostering kids the system forgot. Cash. No paperwork. A room with a bed and a window and a person who'd be there during the day, when it was light, when the sounds outside were normal sounds.
 
-Sable called [Darius](/darius-cole/). He came.
+[Sable](/sable-price/) called [Darius](/darius-cole/). He came.
 
 ---
 

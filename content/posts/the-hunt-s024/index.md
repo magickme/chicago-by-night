@@ -58,7 +58,7 @@ The answering machine blinked.
 
 [Sable](/sable-price/)'s mouth found the vein below the ear and the girl made a sound that was the opposite of pain. The Kiss opened and Nisha's hands came up and found [Sable](/sable-price/)'s shoulder and the back of her neck and held on the way a person holds on to something that feels like rescue and isn't.
 
-The blood was phlegmatic. Flat. Professional. It tasted like nothing -- tap water from a clean pipe, no mineral character, no weather. The blood of a girl who had decided that feeling things was not a survival strategy and had built her interior life around that decision. Sable drank it the way you drink water at three in the morning because the body requires it.
+The blood was phlegmatic. Flat. Professional. It tasted like nothing -- tap water from a clean pipe, no mineral character, no weather. The blood of a girl who had decided that feeling things was not a survival strategy and had built her interior life around that decision. [Sable](/sable-price/) drank it the way you drink water at three in the morning because the body requires it.
 
 Four points. She counted. She stopped. Licked the wound closed.
 

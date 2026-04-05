@@ -38,7 +38,7 @@ Their eyes met. A quarter-second. Then [Darius](/darius-cole/) was around the co
 
 *He saw me. He knows I'm here. Sal doesn't — [Michael](/npcs/michael/) didn't react, the Malkavian discipline held — but [Michael](/npcs/michael/) knows.*
 
-[Darius](/darius-cole/) waited. The wind came off the lake. The dispatch office light threw a yellow rectangle across the concrete. Ten minutes passed. Darius counted them the way he'd been counting time since the Embrace — not by minutes but by heartbeats that weren't there, by the pulse of the blood in his veins that moved only because the stolen vitae remembered what circulation felt like.
+[Darius](/darius-cole/) waited. The wind came off the lake. The dispatch office light threw a yellow rectangle across the concrete. Ten minutes passed. [Darius](/darius-cole/) counted them the way he'd been counting time since the Embrace — not by minutes but by heartbeats that weren't there, by the pulse of the blood in his veins that moved only because the stolen vitae remembered what circulation felt like.
 
 The door opened. [Michael](/npcs/michael/) came out.
 
@@ -50,7 +50,7 @@ Darius made his decision. He reached for the Presence — the discipline his sir
 
 "Just testing, Mikey!" He laughed. The laugh was good — he'd practiced it. Loose, warm, big-brotherly. He did a playful fake-lunge, the kind of gesture you'd make toward a kid sibling. "Gotta make sure you're staying on your game. Particularly if you're somewhere you're not supposed to be. Somewhere a *very old, very irritable* Roman likes keeping to himself."
 
-Michael stopped walking. He didn't flinch. He didn't smile. He looked at Darius with eyes that were flat and still and not at all the eyes of the nervous, lurching boy that the court saw at [Modius](/npcs/modius/)'s gatherings.
+[Michael](/npcs/michael/) stopped walking. He didn't flinch. He didn't smile. He looked at Darius with eyes that were flat and still and not at all the eyes of the nervous, lurching boy that the court saw at [Modius](/npcs/modius/)'s gatherings.
 
 "You weren't testing," Michael said. His voice was quiet and higher than Darius expected and completely steady. "You were *pushing.*"
 

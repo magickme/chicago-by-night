@@ -33,7 +33,7 @@ ShowToc: false
 
 - **Address:** West side of the 1000 block of North State Street, Near North Side. Fictional restaurant placed in the CbN setting. American/International cuisine, high prices, exclusive clientele.
 - **Neighborhood:** Near North / River North, in the transition zone between the Rack's nightlife and the residential North Side. Adjacent to [the Brewery](/locations/the-brewery/).
-- **Proximity:** Physically backs onto [the Brewery](/locations/the-brewery/) (N Clark facing Dearborn) — Ashes to Ashes establishes you can jump from Daley's roof to [the Brewery](/locations/the-brewery/)'s roof. The [Succubus Club](/locations/succubus-club/) and [the Cave](/locations/the-cave/) are a few blocks south on State Street. Eight blocks from Ballard's undisclosed primary residence. The Loop is south across the river.
+- **Proximity:** Physically backs onto [the Brewery](/locations/the-brewery/) (N Clark facing Dearborn) — Ashes to Ashes establishes you can jump from Daley's roof to [the Brewery](/locations/the-brewery/)'s roof. The [Succubus Club](/locations/succubus-club/) and [the Cave](/locations/the-cave/) are a few blocks south on State Street. Eight blocks from [Ballard](/npcs/ballard/)'s undisclosed primary residence. The Loop is south across the river.
 - **Transit:** CTA Red Line to Clark/Division. Cab access from State Street. The restaurant's street presence looks like any other high-end Near North steakhouse — the Kindred significance is invisible from the sidewalk.
 
 ## Who Controls It

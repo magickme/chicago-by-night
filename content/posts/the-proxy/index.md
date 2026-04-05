@@ -42,7 +42,7 @@ The question wasn't about the insurance.
 
 He caught Webb's eyes. Held them.
 
-Webb met the gaze because that was what you did when your boss looked at you. Professional courtesy. The same instinct that had made him wait eight hours — the architecture of deference that Darius had built over years of mortal association, now about to become permanent and irreversible and necessary. The word he would use later. Necessary.
+Webb met the gaze because that was what you did when your boss looked at you. Professional courtesy. The same instinct that had made him wait eight hours — the architecture of deference that [Darius](/darius-cole/) had built over years of mortal association, now about to become permanent and irreversible and necessary. The word he would use later. Necessary.
 
 The Dominate opened like a door.
 

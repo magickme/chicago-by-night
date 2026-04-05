@@ -34,7 +34,7 @@ He let the blood do what the skill couldn't. Felt it surge into his legs, his an
 
 The stack of pallets was invisible in the shadow. He caught it with his shin. The top pallet slid, tilted, and fell three feet to the concrete, and the sound it made was the loudest thing [Darius](/darius-cole/) had ever heard. A flat wooden crack that bounced off every steel surface on the dock and came back as an echo that said *you are here and everyone knows it.*
 
-[Gregory Stephens](/npcs/gregory-stephens/) was ten feet away, running — not toward Darius but away from something behind him, the dock crew, two big men, one with a crowbar — and the crack stopped him like a wall. He spun. His hand went to his hip. His eyes found the gap between the containers where Darius was standing in the dark, and for one second that lasted much longer than a second, they looked at each other.
+[Gregory Stephens](/npcs/gregory-stephens/) was ten feet away, running — not toward [Darius](/darius-cole/) but away from something behind him, the dock crew, two big men, one with a crowbar — and the crack stopped him like a wall. He spun. His hand went to his hip. His eyes found the gap between the containers where Darius was standing in the dark, and for one second that lasted much longer than a second, they looked at each other.
 
 The detective saw a Black man in a dark coat. Calm face. No weapon visible. Not running, not hiding, just standing there like he had a reason to be in this particular shadow at this particular moment.
 

@@ -66,7 +66,7 @@ The drive to [Modius](/npcs/modius/)'s mansion took eleven minutes. He used ever
 
 [Victor](/npcs/victor-salonika/) opened the door. The house smelled like wood polish and radiant heat and the accumulated silence of four centuries of a man who owned rooms he'd stopped entering.
 
-[Modius](/npcs/modius/) was in the study. The lamplight found his jaw, his silver hair, his hands on the chair arms. Darius stood inside the door and gave him the minimum: found a feeding victim in [the Torch](/locations/the-torch/) alley. Fresh wound, male, mortal. Cleaned it. Sealed the wound, rewrote the memory. Sloppy but not savage. Didn't see who fed.
+[Modius](/npcs/modius/) was in the study. The lamplight found his jaw, his silver hair, his hands on the chair arms. [Darius](/darius-cole/) stood inside the door and gave him the minimum: found a feeding victim in [the Torch](/locations/the-torch/) alley. Fresh wound, male, mortal. Cleaned it. Sealed the wound, rewrote the memory. Sloppy but not savage. Didn't see who fed.
 
 The lie lived in the last sentence and it sat between them in the warm air like a coin on a table.
 

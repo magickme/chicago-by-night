@@ -62,7 +62,7 @@ The service door was propped open with a crate. [Allicia](/npcs/allicia/) was ou
 
 [Sable](/sable-price/) touched the side of her face. Thumb along the cheekbone. [Allicia](/npcs/allicia/) closed her eyes and leaned into it -- two ounces of pressure that said more than three spoken conversations -- and when she opened them they were wet, and she pressed her lips to the heel of [Sable](/sable-price/)'s palm in the gesture that meant *thank you for coming*.
 
-Then two taps on her own sternum. A point at Sable. A touch to her lips and a shake of her head. *I need to tell you something. I can't say it here.*
+Then two taps on her own sternum. A point at [Sable](/sable-price/). A touch to her lips and a shake of her head. *I need to tell you something. I can't say it here.*
 
 Five fingers. Two miles east. She slipped back inside and the white dress vanished into the hallway and Sable was alone with the dumpster.
 
@@ -72,7 +72,7 @@ When [Allicia](/npcs/allicia/) arrived she locked the door -- deadbolt and chain
 
 *He knows about the blood. Mine in you. He can taste it when he feeds on me. He asked who. I didn't answer. He will ask again.*
 
-They went back and forth on the notepad in the dark living room with the clock ticking and the lake breathing through the walls. Four options, all terrible. Kill the prince. Outlast a fifty-two-year bond through willpower she'd already proven she didn't have. Find someone who'd trade one cage for another. Or find the woman in Milwaukee who'd offered to help nineteen years ago, when Allicia had been too afraid to let her try.
+They went back and forth on the notepad in the dark living room with the clock ticking and the lake breathing through the walls. Four options, all terrible. Kill the prince. Outlast a fifty-two-year bond through willpower she'd already proven she didn't have. Find someone who'd trade one cage for another. Or find the woman in Milwaukee who'd offered to help nineteen years ago, when [Allicia](/npcs/allicia/) had been too afraid to let her try.
 
 *She offered because she believes the bond is an obscenity.*
 

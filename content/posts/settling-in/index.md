@@ -38,7 +38,7 @@ Nobody followed them from Heathrow. Every car behind them accounted for over twe
 
 The hotel was in Mayfair. Cream stone, brass revolving door, a doorman in a grey coat. The kind of place that doesn't print prices because if you're asking you shouldn't be here. [Roarke](/npcs/roarke/) brought the crate in through the service entrance -- a freight corridor, a porter who didn't ask questions, a narrow lift that smelled like brass polish. Twenty-second floor. Suite. Blackout curtains drawn before the crate entered the bedroom.
 
-Roarke called the Queen of London's people from the room phone. Two rings. Three. A warm British voice: *Your business, please?*
+[Roarke](/npcs/roarke/) called the Queen of London's people from the room phone. Two rings. Three. A warm British voice: *Your business, please?*
 
 He gave his name. [Lodin](/npcs/lodin/)'s name. Chicago. Formally requested acceptance on the Camarilla's best terms and feeding permission prior to the evening's meeting with Her Highness.
 

@@ -130,7 +130,7 @@ She kissed her.
 
 They moved together on the chaise. Hands on skin. Mouths on necks. The architecture of blood and desire collapsing into a single structure that had no name in the language of the Camarilla because the Camarilla had no word for what happened when two women who had been owned by the same kind of men discovered they could own each other instead, and the owning was not ownership but something gentler and more dangerous.
 
-Allicia said one word. "Please."
+[Allicia](/npcs/allicia/) said one word. "Please."
 
 Nine.
 
@@ -142,7 +142,7 @@ They stayed. Tangled on the chaise, the lamp painting their shadows on the wall 
 
 ---
 
-She drove Allicia back to the mansion at three. Two blocks out, killed the lights. The house was dark. Allicia opened the door, paused, touched Sable's hand on the steering wheel — two fingers, light, the pressure of a promise or a warning — and got out and walked toward the porch and didn't look back.
+She drove Allicia back to the mansion at three. Two blocks out, killed the lights. The house was dark. Allicia opened the door, paused, touched [Sable](/sable-price/)'s hand on the steering wheel — two fingers, light, the pressure of a promise or a warning — and got out and walked toward the porch and didn't look back.
 
 The front door opened and closed.
 

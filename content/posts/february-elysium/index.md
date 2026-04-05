@@ -54,7 +54,7 @@ He'd been painting her for months. The woman he bonded in 1941, rendered over an
 
 [Sable](/sable-price/) replaced the cloth. Exactly as it was.
 
-At the end of the hallway, behind a closed door, [Allicia](/npcs/allicia/)'s stillness registered on Sable's senses the way a held note registers on a tuned ear. The particular density of a body waiting in a dark room.
+At the end of the hallway, behind a closed door, [Allicia](/npcs/allicia/)'s stillness registered on [Sable](/sable-price/)'s senses the way a held note registers on a tuned ear. The particular density of a body waiting in a dark room.
 
 She knocked. Two soft knocks.
 
@@ -104,7 +104,7 @@ He was thinking about the woman at the piano.
 
 [Modius](/npcs/modius/)'s gaze found [Darius](/darius-cole/). "Mr. Birch. How good of you to join us again. I was beginning to worry."
 
-Light tone. Heavy freight. Every Kindred in the room heard the leash check. [Darius](/darius-cole/) met it with a nod. Low enough for respect. Spine straight enough for something else. He settled back in his chair with the unhurried ease of a man whose three weeks had been full, and Modius held his gaze for two beats and moved on, because a prince who pushes a neonate in public over a missed court looks petty, and Modius had spent two centuries avoiding that.
+Light tone. Heavy freight. Every Kindred in the room heard the leash check. [Darius](/darius-cole/) met it with a nod. Low enough for respect. Spine straight enough for something else. He settled back in his chair with the unhurried ease of a man whose three weeks had been full, and [Modius](/npcs/modius/) held his gaze for two beats and moved on, because a prince who pushes a neonate in public over a missed court looks petty, and Modius had spent two centuries avoiding that.
 
 "Some of you have not yet met our newest member of court. [Sable Price](/sable-price/), Toreador, recently of Chicago."
 
@@ -134,7 +134,7 @@ The silence lasted three seconds that felt geological.
 
 The elder turned the phrase over. "King of the Docks. I haven't heard that one." A pause that could have held a small country. "The docks don't need a king. They need workers who show up and freight that moves." He looked at [Darius](/darius-cole/) the way a mountain looks at a particular rock and decides it can stay where it is. "But respect is noted."
 
-He turned his gaze back to the room. Conversation concluded. Darius walked away with exactly what he'd given: acknowledgment, and the understanding that next time he'd need to bring something heavier than a greeting.
+He turned his gaze back to the room. Conversation concluded. [Darius](/darius-cole/) walked away with exactly what he'd given: acknowledgment, and the understanding that next time he'd need to bring something heavier than a greeting.
 
 Modius was easier and more dangerous. Darius paid his respects. The prince adjusted his collar, the intimate proprietary gesture of a man touching his property, and gave him a nothing errand. Art supplies from a dealer in Hammond. Fetch and carry.
 
@@ -186,7 +186,7 @@ She shook her head. Once. Small.
 
 Her hand moved to the bench between them. Her pinky finger touched Sable's for one second. One. Then it withdrew.
 
-Allicia stood. Smoothed her dress. Walked to her position three paces behind Modius's armchair, where she'd stood for decades. The yellow lace shawl caught the lamplight.
+[Allicia](/npcs/allicia/) stood. Smoothed her dress. Walked to her position three paces behind Modius's armchair, where she'd stood for decades. The yellow lace shawl caught the lamplight.
 
 Sable sat alone on the bench. Five seconds. Then she stood and smoothed her own dress and found the windows again, and if anyone in the room was watching they saw a young Toreador's failed attempt at clan bonding. Harmless. Forgettable. Not the pinky on the bench. Not the snow globe upstairs.
 
@@ -226,7 +226,7 @@ She wrote a number on the back of a matchbook from her jacket. The studio line, 
 
 She walked to her car. The cold took the space where she'd been standing and Darius was alone on a dead street in Miller Beach with a matchbook and a phone number and something he hadn't had five minutes ago.
 
-He drove home. The west-side apartment was dark. He sat at the kitchen table and looked at the matchbook and thought about the woman who wrote it and whether she was running a game on him the same way he was running a game on her, and whether it mattered, and whether the answer to that question was the most dangerous thing that had happened all night. More dangerous than Danov's gray eyes and Modius's collar adjustment and [Lucian](/npcs/lucian/)'s ancient indifference.
+He drove home. The west-side apartment was dark. He sat at the kitchen table and looked at the matchbook and thought about the woman who wrote it and whether she was running a game on him the same way he was running a game on her, and whether it mattered, and whether the answer to that question was the most dangerous thing that had happened all night. More dangerous than [Danov](/npcs/alexander-danov/)'s gray eyes and Modius's collar adjustment and [Lucian](/npcs/lucian/)'s ancient indifference.
 
 The matchbook sat on the table next to the Polaroid of the unknown man at Dock 7. Two mysteries. One of them might solve the other. Neither of them would solve itself.
 

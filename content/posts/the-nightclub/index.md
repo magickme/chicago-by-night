@@ -38,7 +38,7 @@ The barback read the coat and flicked his Bic. [Darius](/darius-cole/) leaned in
 
 The barback's breath caught. His body went rigid, then loose, then nothing -- weight against the wall, eyes half-closed. The fleeting warmth of a man who watched people because he liked people, who worked two jobs because someone was counting on the money.
 
-Two mouthfuls. The Beast wanted the third but the math didn't work -- the man had to walk back inside and finish a shift. Darius straightened the man's collar, slid a business card into his shirt pocket. Warren Birch. The Gary number that rings nowhere.
+Two mouthfuls. The Beast wanted the third but the math didn't work -- the man had to walk back inside and finish a shift. [Darius](/darius-cole/) straightened the man's collar, slid a business card into his shirt pocket. Warren Birch. The Gary number that rings nowhere.
 
 ---
 
@@ -74,7 +74,7 @@ Sir was at a corner table on the main floor. Charcoal suit, silk pocket square t
 
 The smile started slow. "Valentino. 1987. I had to kill a man for it. Metaphorically."
 
-They spoke for an hour. The first twenty minutes were social -- a painter in Pilsen, [Annabelle](/npcs/annabelle-triabell/)'s poaching, the texture of the city's art scene. Sable mentioned [Allicia](/npcs/allicia/)'s nocturnes and Sir listened to that with something careful in his face.
+They spoke for an hour. The first twenty minutes were social -- a painter in Pilsen, [Annabelle](/npcs/annabelle-triabell/)'s poaching, the texture of the city's art scene. [Sable](/sable-price/) mentioned [Allicia](/npcs/allicia/)'s nocturnes and Sir listened to that with something careful in his face.
 
 Then the work.
 

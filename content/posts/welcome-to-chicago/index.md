@@ -48,7 +48,7 @@ In the office, [Horace](/npcs/horace/) made his calls. The coterie was expected.
 
 ---
 
-He hunted on the side streets near Dearborn. The first mark was a private investigator in an Oldsmobile with expired plates. The man made [Darius](/darius-cole/) at thirty feet — he watched people for a living and a stranger closing distance in a parking garage at midnight triggered exactly the response it should have. Darius walked away.
+He hunted on the side streets near Dearborn. The first mark was a private investigator in an Oldsmobile with expired plates. The man made [Darius](/darius-cole/) at thirty feet — he watched people for a living and a stranger closing distance in a parking garage at midnight triggered exactly the response it should have. [Darius](/darius-cole/) walked away.
 
 The second mark was better. A construction worker outside a bar near the Dan Ryan. Non-union. Winter shifts. Drinking at two in the morning because his sister had been missing for eight months and the money he'd spent looking for her had emptied everything. His boots were resoled. His truck registration was expired. The camera around his neck was the last expensive thing he owned.
 

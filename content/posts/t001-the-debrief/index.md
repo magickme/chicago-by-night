@@ -34,7 +34,7 @@ Tomás didn't move.
 
 "What didn't you tell me?" [Nicolai](/npcs/nicolai/) said.
 
-The boy's head tilted three degrees. A gesture Tomás had seen once before, in the basement, when Nicolai found a contaminated blood sample and wanted to know who had mislabeled it. Not anger. Curiosity operating as threat.
+The boy's head tilted three degrees. A gesture Tomás had seen once before, in the basement, when [Nicolai](/npcs/nicolai/) found a contaminated blood sample and wanted to know who had mislabeled it. Not anger. Curiosity operating as threat.
 
 "I gave you the operational picture."
 
@@ -54,7 +54,7 @@ He went back to the [Succubus Club](/locations/succubus-club/).
 
 He told himself it was follow-up collection. The emissaries might still be there, the [Brennon](/npcs/brennon-thornhill/) relationship needed reinforcement, and he'd identified three gaps in his initial assessment that a second pass could fill. All of which was true. None of which was why he parked the Crown Vic on Dearborn and walked two blocks through falling snow to push through the club's front door at 12:40 AM.
 
-[Brennon](/npcs/brennon-thornhill/) was behind the bar. He looked up when Tomás came in and said, "Your friend left about an hour ago." The emphasis on *friend* carried exactly the weight Brennon intended it to carry.
+[Brennon](/npcs/brennon-thornhill/) was behind the bar. He looked up when Tomás came in and said, "Your friend left about an hour ago." The emphasis on *friend* carried exactly the weight [Brennon](/npcs/brennon-thornhill/) intended it to carry.
 
 From the back hallway, the scratch of pencil on paper. [Drummond](/npcs/edgar/) logging the Tremere's second visit. Two data points where one should have been. The unforced error.
 
@@ -64,7 +64,7 @@ He found Brennon in the back corridor twenty minutes later. The Ventrue was chec
 
 Brennon listened without expression. Then he reciprocated, because that was how the economy worked between professionals.
 
-[Lodin](/npcs/lodin/) had spoken with [Annabelle](/npcs/annabelle-triabell/) two nights ago. [Drake Hotel](/locations/lodins-haven/), eighth floor. Private meeting, no witnesses Brennon could confirm. [Portia](/npcs/portia/) had been asking about the Gary emissaries through three different intermediaries, each one more careful than the last, which meant she cared enough to hide the caring. And Drummond was on loan from [Annabelle](/npcs/annabelle-triabell/), not just [Ballard](/npcs/ballard/)'s man. Which reframed the notebook entirely.
+[Lodin](/npcs/lodin/) had spoken with [Annabelle](/npcs/annabelle-triabell/) two nights ago. [Drake Hotel](/locations/lodins-haven/), eighth floor. Private meeting, no witnesses Brennon could confirm. [Portia](/npcs/portia/) had been asking about the Gary emissaries through three different intermediaries, each one more careful than the last, which meant she cared enough to hide the caring. And [Drummond](/npcs/edgar/) was on loan from [Annabelle](/npcs/annabelle-triabell/), not just [Ballard](/npcs/ballard/)'s man. Which reframed the notebook entirely.
 
 Brennon slid a black card across the desk. Private line. "If you learn something I should know."
 
@@ -150,6 +150,6 @@ He capped the remaining vials. Blew out the candles. Carried the diagram upstair
 
 At 7:00 AM he was still looking at the diagram.
 
-At 7:04 AM he was adding a notation about Ballard's business card in Walt's nightstand and what that implied about who was managing the evidence chain.
+At 7:04 AM he was adding a notation about [Ballard](/npcs/ballard/)'s business card in Walt's nightstand and what that implied about who was managing the evidence chain.
 
 At 7:06 AM the sun cleared the lake and his body shut down mid-sentence, the mechanical pencil still in his hand, the legal pad filling with a handwriting that was precise and controlled and exactly one notation short of complete.

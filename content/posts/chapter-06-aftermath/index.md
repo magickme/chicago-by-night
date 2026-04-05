@@ -36,13 +36,13 @@ He waited another hour. The alley was dark and cold and smelled like grease and 
 
 At twenty past midnight they came out together. Stood by the Crown Vic talking. The older cop clapped [Gregory](/npcs/gregory-stephens/) on the shoulder and got in a blue Caprice and drove away.
 
-Gregory stayed. He lit a cigarette and leaned against the Crown Vic with the folder on the hood, and in the orange glow of the match his face looked ten years older than it probably was, the face of a man carrying a weight he'd picked up voluntarily because nobody else would carry it and he couldn't set it down.
+[Gregory](/npcs/gregory-stephens/) stayed. He lit a cigarette and leaned against the Crown Vic with the folder on the hood, and in the orange glow of the match his face looked ten years older than it probably was, the face of a man carrying a weight he'd picked up voluntarily because nobody else would carry it and he couldn't set it down.
 
 [Darius](/darius-cole/) walked out of the alley.
 
 Twenty feet. Fifteen. His shoes on the asphalt. Gregory's head turning, the cigarette pausing, the recognition starting to build behind the eyes the way a wave builds before it breaks. The brow tightening. The jaw shifting. The hand moving toward the hip where the off-duty piece sat in its holster.
 
-Eight feet. Darius caught his eyes.
+Eight feet. [Darius](/darius-cole/) caught his eyes.
 
 "Stop."
 

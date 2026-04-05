@@ -56,7 +56,7 @@ Then the other thing. The men at the union hall. Suits. Suburban accents. Asking
 
 The mission was simple in the way that simple things are when a prince says them: find out who, find out why, make it disappear. Two weeks. Don't involve [Lucian](/npcs/lucian/). Don't involve the Bureau. Come back with answers, not problems. The word he used was *legible*. He wanted his waterfront legible. He wanted someone from Chicago to look at it and see a city that worked.
 
-Darius drove south after midnight. Polk and Thirteenth. The church wasn't a church anymore. It was a black rectangle with a condemned notice stapled to the fence post and the fence gate hanging open, padlock cut, and in the gravel beside the ruin, tire tracks that didn't belong to any city vehicle.
+[Darius](/darius-cole/) drove south after midnight. Polk and Thirteenth. The church wasn't a church anymore. It was a black rectangle with a condemned notice stapled to the fence post and the fence gate hanging open, padlock cut, and in the gravel beside the ruin, tire tracks that didn't belong to any city vehicle.
 
 Van tires. Wide wheelbase. Fresh — four, five hours old. And next to them, two sets of footprints through the gate. One heavy, work boots, left heel dragging from years on a clutch pedal. One lighter, dress shoes, a man who didn't belong at a burned building in the wasteland.
 

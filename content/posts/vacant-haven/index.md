@@ -106,7 +106,7 @@ She knew whoever came in. She let them in willingly. Then she forgot everything.
 
 ---
 
-Sable summarized for [Critias](/npcs/critias/). The ancient blood. The single attacker. The chess game played with someone loved. The security gap cut with Dominate beyond anything she could measure. The pendant that hummed with a connection to something alive.
+[Sable](/sable-price/) summarized for [Critias](/npcs/critias/). The ancient blood. The single attacker. The chess game played with someone loved. The security gap cut with Dominate beyond anything she could measure. The pendant that hummed with a connection to something alive.
 
 [Critias](/npcs/critias/) listened without interrupting. When she finished, he was quiet for four seconds — which, from a man who weighed every sentence, was a long time.
 
@@ -140,7 +140,7 @@ He set the journal back on the desk and let the silence carry the weight.
 
 He looked at Sable. Then at [Darius](/darius-cole/).
 
-"You are more capable than [Ballard](/npcs/ballard/) led me to expect. That may or may not work in your favor." He turned to Belthazar. "The map. The woods northwest. That is the lead worth following."
+"You are more capable than [Ballard](/npcs/ballard/) led me to expect. That may or may not work in your favor." He turned to [Belthazar](/npcs/belthazar/). "The map. The woods northwest. That is the lead worth following."
 
 Then he left. No farewell. The elevator doors closed behind him and the pressure in the room dropped by half.
 

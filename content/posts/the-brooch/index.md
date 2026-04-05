@@ -34,7 +34,7 @@ In the Cutlass, between Broadway and Miller Beach, [Darius](/darius-cole/) liste
 
 Between personalities, Evan Klein surfaced long enough to produce a business card from the lining of the trumpet case. SA [William Shepard](/npcs/william-shepard/), Federal Bureau of Investigation, Chicago Field Office. The card had been there for four months, taken from the dumpster where [Shepard](/npcs/william-shepard/) left it the week after Ryan died, cataloged by the orderly personality and forgotten by the rest.
 
-The mansion. [Victor](/npcs/victor-salonika/) at the door. [Modius](/npcs/modius/) in the drawing room. Darius walked in with a Malkavian, a trumpet case, and two pieces of evidence he placed on the piano lid side by side: the brooch that started everything and the business card that connected everything.
+The mansion. [Victor](/npcs/victor-salonika/) at the door. [Modius](/npcs/modius/) in the drawing room. [Darius](/darius-cole/) walked in with a Malkavian, a trumpet case, and two pieces of evidence he placed on the piano lid side by side: the brooch that started everything and the business card that connected everything.
 
 "One more thing, Your Grace. The federal agent watching your mansion — SA [William Shepard](/npcs/william-shepard/), FBI, Chicago field office. He investigated the alley behind [The Torch](/locations/the-torch/) in March. [Falcon](/npcs/raymond-falcon/) had his card."
 
@@ -44,7 +44,7 @@ Then [Modius](/npcs/modius/) looked at Darius and smiled. Not the Cavalier's per
 
 "You've done well tonight, Warren. Very well."
 
-Darius drove home. The west-side apartment was dark. WP at two, blood at thirteen, the revolver from Falcon's squat in his coat pocket next to his own .357. Two guns, one from a man with five selves and one from a man with two names, and the prince of a dying city had smiled at him and meant it, and the smile was worth more than the guns and the blood and the architecture combined, because in the Jyhad a prince's genuine respect was the rarest currency there was, and Darius had just earned his first real coin of it.
+Darius drove home. The west-side apartment was dark. WP at two, blood at thirteen, the revolver from [Falcon](/npcs/raymond-falcon/)'s squat in his coat pocket next to his own .357. Two guns, one from a man with five selves and one from a man with two names, and the prince of a dying city had smiled at him and meant it, and the smile was worth more than the guns and the blood and the architecture combined, because in the Jyhad a prince's genuine respect was the rarest currency there was, and Darius had just earned his first real coin of it.
 
 He sat at the kitchen table. [Shepard](/npcs/william-shepard/)'s phone number from [Gregory](/npcs/gregory-stephens/)'s folder. [Shepard](/npcs/william-shepard/)'s business card from Falcon's trumpet case. The Polaroid of the unknown man at Dock 7. Three pieces of a federal investigation that kept circling the same points: the docks, the boy, the alley, the mansion. The circles were getting smaller. Eventually they'd close.
 

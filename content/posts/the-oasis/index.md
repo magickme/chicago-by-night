@@ -56,7 +56,7 @@ Not a compliment. An observation. A woman picking up a blade and testing the edg
 
 "I didn't come here to warn you. I came here to see what you are." She was already shifting in the booth, the muscles in her shoulders organizing themselves for departure. "Now I've seen."
 
-Sable watched her stand and thought about the razor in her pocket, which had nothing to do with anything, and about the pointe shoes on the barre, which had everything to do with everything, and about the photograph on the wall of a woman who used to dance in a room that now belonged to the woman who'd replaced her, and she opened her mouth and said the thing she'd come to say, the thing that would either crack the wall or end the conversation forever.
+[Sable](/sable-price/) watched her stand and thought about the razor in her pocket, which had nothing to do with anything, and about the pointe shoes on the barre, which had everything to do with everything, and about the photograph on the wall of a woman who used to dance in a room that now belonged to the woman who'd replaced her, and she opened her mouth and said the thing she'd come to say, the thing that would either crack the wall or end the conversation forever.
 
 "What did he do to you? Not the studio. The thing you actually came here to not say."
 
@@ -108,7 +108,7 @@ He closed the piano lid.
 
 Fifth Avenue. Two in the morning. The studio was cold.
 
-Sable sat on the floor beneath the photograph and looked at the pointe shoes and thought about what Allicia had told her and what she'd told [Modius](/npcs/modius/) and the distance between those two things, which was the distance between what she knew and what she'd sold, which was the distance between the woman she was becoming and the woman she was supposed to be.
+Sable sat on the floor beneath the photograph and looked at the pointe shoes and thought about what [Allicia](/npcs/allicia/) had told her and what she'd told [Modius](/npcs/modius/) and the distance between those two things, which was the distance between what she knew and what she'd sold, which was the distance between the woman she was becoming and the woman she was supposed to be.
 
 Allicia was Blood Bound. Since 1941. Three drinks and the question of love becomes unanswerable. The Oasis taught Sable what that looked like from the outside: the regulars who came back every night, not because the drinks were good or the girls were beautiful but because the building had become the shape of their loneliness and they couldn't imagine fitting anywhere else. The Blood Bond was The Oasis with fangs. The cage was always the same shape. The bars just changed material.
 

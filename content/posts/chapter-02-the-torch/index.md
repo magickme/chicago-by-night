@@ -82,7 +82,7 @@ She pulled back. Wiped her mouth with the back of her hand. Put the denim jacket
 
 "I... wow."
 
-Sable stepped back. One step. Two. The distance opened between them and Curtis's face changed as he realized she was leaving — not panic, not anger, but the slow dawning of a loss he couldn't locate.
+[Sable](/sable-price/) stepped back. One step. Two. The distance opened between them and Curtis's face changed as he realized she was leaving — not panic, not anger, but the slow dawning of a loss he couldn't locate.
 
 "Hey — wait. I didn't... what's your name?"
 

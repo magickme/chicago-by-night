@@ -202,7 +202,7 @@ Published scenes from **Chicago Chronicles** in chronological order.
 
 ### Chapter 5 — Clean Hands
 
-*Jan 8, 1991, 4:28 PM through Jan 16, 1991, 4:35 PM.*
+*Jan 8, 1991, 4:28 PM through Jan 11, 1991, 4:28 PM.*
 
 | # | Scene | PC | Date |
 |---|---|---|---|
@@ -211,7 +211,15 @@ Published scenes from **Chicago Chronicles** in chronological order.
 | 67 | [The Succubus Club](/posts/the-succubus-club/) | Sable | Jan 10, 1991, 4:28 PM |
 | 68 | [T001 The Debrief](/posts/t001-the-debrief/) | Chronicle | Jan 10, 1991, 4:28 PM |
 | 69 | [The Starlite](/posts/the-starlite/) | Darius | Jan 11, 1991, 4:28 PM |
+
+### Chapter 6 — Annabelle's Party
+
+*Jan 16, 1991, 4:35 PM through Jan 17, 1991.*
+
+| # | Scene | PC | Date |
+|---|---|---|---|
 | 70 | [Annabelles Party](/posts/annabelles-party/) | Darius + Sable | Jan 16, 1991, 4:35 PM |
+| 71 | [The Rail Baron](/posts/the-rail-baron/) | Darius + Sable | Jan 17, 1991 |
 
 ---
 

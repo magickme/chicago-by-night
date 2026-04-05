@@ -60,7 +60,7 @@ He left a pamphlet under the windshield wiper of the Cutlass. Romans 6:23. *The 
 
 [Darius](/darius-cole/) found it at sundown. Read it. Tossed it in the trash. Drove to the docks.
 
-He didn't know what it meant. He didn't know that the man in the rented car had watched the pamphlet stay on the windshield all day through rain and a gust that should have taken it, because it was held there by something [Darius](/darius-cole/) couldn't see and couldn't feel and had no name for in any language he spoke. He didn't know that [Dane](/npcs/sullivan-dane/) had smiled when the pamphlet held, because holding meant Darius wasn't home during the day, and not being home during the day was the first answer to the first question.
+He didn't know what it meant. He didn't know that the man in the rented car had watched the pamphlet stay on the windshield all day through rain and a gust that should have taken it, because it was held there by something [Darius](/darius-cole/) couldn't see and couldn't feel and had no name for in any language he spoke. He didn't know that [Dane](/npcs/sullivan-dane/) had smiled when the pamphlet held, because holding meant [Darius](/darius-cole/) wasn't home during the day, and not being home during the day was the first answer to the first question.
 
 [Modius](/npcs/modius/) wanted more. The leash tightened the way fishing line tightens -- slowly, and then it's in the skin. Biweekly reports. Questions about the waterfront. Questions about the FBI file. Questions, finally, about where Darius slept. He gave [Modius](/npcs/modius/) most of it. The most of it that wasn't the truth.
 

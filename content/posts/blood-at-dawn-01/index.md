@@ -68,7 +68,7 @@ The word *friends* hung in the air for a moment. [Sable](/sable-price/) pocketed
 
 ---
 
-The Cutlass. [Telton Cemetery](/locations/telton-cemetery/). [Darius](/darius-cole/) drove south on Broadway past the dead storefronts and Sable sat in the passenger seat and neither of them spoke. The silence had changed shape again. Not the distance of Lake Street or the careful blankness of Elysium. The silence of two people heading toward the same thing.
+The Cutlass. [Telton Cemetery](/locations/telton-cemetery/). [Darius](/darius-cole/) drove south on Broadway past the dead storefronts and [Sable](/sable-price/) sat in the passenger seat and neither of them spoke. The silence had changed shape again. Not the distance of Lake Street or the careful blankness of Elysium. The silence of two people heading toward the same thing.
 
 [Michael](/npcs/michael/) opened the shed door two inches. One pale eye.
 
@@ -102,7 +102,7 @@ The Cutlass again. Miller Beach. [Darius](/darius-cole/) driving fast now, the .
 
 A spirit in a dead boy, hunting [Allicia](/npcs/allicia/), growing stronger, anchored by a bag of hair and dirt and blood somewhere in Gary. A grieving father who built a door and pushed his son through it. And somewhere between the cemetery and the lakefront, in the dead lots and abandoned factories of a city that had been dying since before either of them was born, a sixteen-year-old body was walking toward the woman who didn't speak, saying her name through a mouth that had forgotten what mouths were for.
 
-Darius drove. Sable watched the road. The distance between them was still there but it had a different name now. Not caution. Not performance. Not the careful width of two people who'd failed each other and hadn't discussed it.
+[Darius](/darius-cole/) drove. Sable watched the road. The distance between them was still there but it had a different name now. Not caution. Not performance. Not the careful width of two people who'd failed each other and hadn't discussed it.
 
 Purpose. The distance had become a direction. They were both pointed at the same thing, and the thing was [Allicia](/npcs/allicia/), and whatever was coming for her would have to go through both of them to get there.
 

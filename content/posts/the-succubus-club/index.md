@@ -66,7 +66,7 @@ She went to the mezzanine rail and opened her Auspex on him. His aura unfolded i
 
 Tremere. Blood magic left a watermark.
 
-She'd never seen one before. Not like this, not close enough to study. [Erichtho](/npcs/erichtho/) at the Baptism had been a name and a force, not a face she'd read. This was different. A young man at a bar with a filing system built into his soul, cataloguing Brennon's movements and the mezzanine occupants and the angles between the exits with the mechanical patience of someone who'd been trained to assess rooms in a building with a clearance level.
+She'd never seen one before. Not like this, not close enough to study. [Erichtho](/npcs/erichtho/) at the Baptism had been a name and a force, not a face she'd read. This was different. A young man at a bar with a filing system built into his soul, cataloguing [Brennon](/npcs/brennon-thornhill/)'s movements and the mezzanine occupants and the angles between the exits with the mechanical patience of someone who'd been trained to assess rooms in a building with a clearance level.
 
 She turned Auspex on Brennon. Nothing — the strobes and the crowd ate the read. She turned it on [Sir Henry](/npcs/sir-henry-johnson/), and something pushed back. Not him. The read itself went wrong, the colors folding inward to a flat mirror that threw her own perception at her — for half a second she was looking at herself from his angle, a woman at the rail with snow in her hair and eyes that glowed faintly in the strobe, and the image was beautiful and wrong and carried the particular nausea of seeing your own predatory aura from the outside.
 
@@ -80,7 +80,7 @@ She crossed to his booth and sat. He said her name like it was a compliment he d
 
 "They didn't *send* me. [Annabelle](/npcs/annabelle-triabell/) suggested. Which is how [Annabelle](/npcs/annabelle-triabell/) sends." He'd gone in September. Stayed three nights. The Aspire, the guest suite, the wallpaper peeling. "[Modius](/npcs/modius/) in 1990 is a man running a court with no court. The city is hemorrhaging population. His domain isn't shrinking because someone is taking it. It's evaporating."
 
-He knew about [Allicia](/npcs/allicia/). Every Toreador elder between Chicago and Milwaukee knew. And nobody said it out loud, because what Modius had done to that woman was the kind of thing the clan didn't forgive but also didn't fix.
+He knew about [Allicia](/npcs/allicia/). Every Toreador elder between Chicago and Milwaukee knew. And nobody said it out loud, because what [Modius](/npcs/modius/) had done to that woman was the kind of thing the clan didn't forgive but also didn't fix.
 
 "We just... watch."
 
@@ -92,7 +92,7 @@ For the clan, he said, it would be a reckoning. Fifty-two years. Everyone knew. 
 
 "Including me."
 
-She deflected. Told him she was trying to understand clan politics, that her sire hadn't told her much, that Modius was his own favorite subject. The misdirection held — Sir Henry laughed, a real laugh, and what he saw was a sharp neonate navigating blind. He offered to introduce her to [Annabelle](/npcs/annabelle-triabell/). Wednesday. The Drake. Eight o'clock.
+She deflected. Told him she was trying to understand clan politics, that her sire hadn't told her much, that Modius was his own favorite subject. The misdirection held — [Sir Henry](/npcs/sir-henry-johnson/) laughed, a real laugh, and what he saw was a sharp neonate navigating blind. He offered to introduce her to [Annabelle](/npcs/annabelle-triabell/). Wednesday. The Drake. Eight o'clock.
 
 "Wear something that makes a statement. She notices."
 

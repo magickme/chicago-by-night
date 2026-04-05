@@ -36,7 +36,7 @@ Every head turned. The younger man. The American suit. The cold tea. Standing wi
 
 He tripled [Roarke](/npcs/roarke/)'s counter. Then tripled again. Sixty-nine thousand pounds. [Roarke](/npcs/roarke/) bid seventy thousand from [Lodin](/npcs/lodin/)'s Swiss account because [Lodin](/npcs/lodin/) had said six words on a plane and those words didn't have a ceiling.
 
-The younger man shook his head. The gavel came down. He walked out past [Roarke](/npcs/roarke/)'s chair close enough that Roarke could smell the aftershave -- American, expensive -- and see the lavender tie.
+The younger man shook his head. The gavel came down. He walked out past [Roarke](/npcs/roarke/)'s chair close enough that [Roarke](/npcs/roarke/) could smell the aftershave -- American, expensive -- and see the lavender tie.
 
 A limousine waited at the curb. [Natasha](/npcs/natasha/) followed and lost him in two blocks.
 

@@ -38,11 +38,11 @@ Between personalities, the orderly one surfaced long enough to produce a busines
 
 ---
 
-The mansion. [Victor](/npcs/victor-salonika/) at the door. [Modius](/npcs/modius/) in the drawing room. Darius walked in with a Malkavian, a trumpet case, and two pieces of evidence he placed on the piano lid side by side: the brooch that started everything and the business card that connected everything.
+The mansion. [Victor](/npcs/victor-salonika/) at the door. [Modius](/npcs/modius/) in the drawing room. [Darius](/darius-cole/) walked in with a Malkavian, a trumpet case, and two pieces of evidence he placed on the piano lid side by side: the brooch that started everything and the business card that connected everything.
 
 "One more thing, Your Grace. The federal agent watching your mansion. SA [William Shepard](/npcs/william-shepard/), FBI, Chicago field office. He investigated the alley behind [The Torch](/locations/the-torch/) in March. [Falcon](/npcs/raymond-falcon/) had his card."
 
-[Modius](/npcs/modius/) listened to [Falcon](/npcs/raymond-falcon/)'s testimony for forty minutes. Five personalities, five versions, one truth. When it was over, the prince cleared Falcon. The kill was protective, not criminal, and punishing a man for defending the Rack was beneath the dignity of the office.
+[Modius](/npcs/modius/) listened to [Falcon](/npcs/raymond-falcon/)'s testimony for forty minutes. Five personalities, five versions, one truth. When it was over, the prince cleared [Falcon](/npcs/raymond-falcon/). The kill was protective, not criminal, and punishing a man for defending the Rack was beneath the dignity of the office.
 
 Then [Modius](/npcs/modius/) looked at Darius and smiled. Not the performance. Not the calculation. The smile of a man who asked for a tool and received an instrument.
 

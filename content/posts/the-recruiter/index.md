@@ -56,9 +56,9 @@ Nine-fifty-two. The driver stepped out alone. Sandy hair, wiry build, a coat too
 
 Then the side entrance opened. A second man. Bigger, older, overcoat. Professional distance. Half a block back.
 
-Ballard wasn't stupid.
+[Ballard](/npcs/ballard/) wasn't stupid.
 
-Darius didn't follow -- he paralleled. One block south, matching pace by intersection rhythm. He caught them at cross streets, lost them on the straightaways, looped a block when they turned north on Clark. The minder never looked behind him. The driver never looked up.
+[Darius](/darius-cole/) didn't follow -- he paralleled. One block south, matching pace by intersection rhythm. He caught them at cross streets, lost them on the straightaways, looped a block when they turned north on Clark. The minder never looked behind him. The driver never looked up.
 
 Eight blocks. A tan brick walkup. The driver keyed the front door. Second-floor window lit up forty seconds later. The minder watched for two minutes and walked back the way he came.
 

@@ -44,7 +44,7 @@ Four words. The fourth time. She had refused the prince of Gary. The woman who h
 
 The smallest nod.
 
-Then the curse took her. The green eyes at close range, the gardenia, the lamplight on the line of [Allicia](/npcs/allicia/)'s throat, and the Toreador weakness hit Sable like a wall of glass — beauty so absolute that the part of her mind responsible for doing things shut off. She froze. Fingers still on [Allicia](/npcs/allicia/)'s skin. Eyes locked. Held by the blood's oldest and cruelest gift: to see beauty more clearly than any creature alive and be paralyzed by it.
+Then the curse took her. The green eyes at close range, the gardenia, the lamplight on the line of [Allicia](/npcs/allicia/)'s throat, and the Toreador weakness hit [Sable](/sable-price/) like a wall of glass — beauty so absolute that the part of her mind responsible for doing things shut off. She froze. Fingers still on [Allicia](/npcs/allicia/)'s skin. Eyes locked. Held by the blood's oldest and cruelest gift: to see beauty more clearly than any creature alive and be paralyzed by it.
 
 [Allicia](/npcs/allicia/) watched it happen. She knew the weakness. She had it too. She saw Sable freeze mid-gesture, and she understood, and she didn't pull away. She didn't cover herself. She stayed perfectly still and let Sable look, because this was the one thing in her life that wasn't performance or control or ownership. A woman frozen by the beauty of another woman, and neither of them chose it, and neither of them could stop it, and the honesty of that was more naked than skin.
 
@@ -52,7 +52,7 @@ Sable surfaced slowly. The room reassembled. She spent the blood and felt the wa
 
 "Well," she said. "Now you see how I see you."
 
-[Allicia](/npcs/allicia/)'s hand found Sable's cheek where the warmth was. She traced the blush the way a painter traces a brushstroke she didn't make. And then she laughed. Small. Barely a sound. More breath than voice. But a laugh, and Sable was certain nobody in this house had heard Allicia laugh in decades.
+[Allicia](/npcs/allicia/)'s hand found Sable's cheek where the warmth was. She traced the blush the way a painter traces a brushstroke she didn't make. And then she laughed. Small. Barely a sound. More breath than voice. But a laugh, and Sable was certain nobody in this house had heard [Allicia](/npcs/allicia/) laugh in decades.
 
 She pressed her lips to Sable's forehead. Held up five fingers.
 

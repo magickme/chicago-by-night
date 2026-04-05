@@ -104,7 +104,7 @@ Seventy-fifth Street. 1:15 in the morning. [Sable](/sable-price/) parked the Bui
 
 The sign hadn't changed. THE OASIS in pink neon, the S flickering. Three cars in the lot. A bouncer she didn't recognize on a stool by the front door, reading a newspaper under the awning light. The bass line of whatever the DJ was playing vibrated through the brick and into the asphalt and up through the Buick's chassis into her hands on the steering wheel.
 
-Auspex opened without her asking. The senses widened and the building gave up its secrets. Two exits besides the front: the service door on the east side where the dancers smoked, and the fire exit in the back. The fire exit had a new padlock and chain on the outside. One way out the back now, through the service door. The back room where [Allicia](/npcs/allicia/) wanted to meet was the VIP lounge, no windows, one door, velvet booths that smelled like perfume and sweat and cash. She'd done private dances in that room for men who thought they were paying for intimacy when they were paying for proximity, and the difference between those two things was the width of Sable's entire career.
+Auspex opened without her asking. The senses widened and the building gave up its secrets. Two exits besides the front: the service door on the east side where the dancers smoked, and the fire exit in the back. The fire exit had a new padlock and chain on the outside. One way out the back now, through the service door. The back room where [Allicia](/npcs/allicia/) wanted to meet was the VIP lounge, no windows, one door, velvet booths that smelled like perfume and sweat and cash. She'd done private dances in that room for men who thought they were paying for intimacy when they were paying for proximity, and the difference between those two things was the width of [Sable](/sable-price/)'s entire career.
 
 Four heartbeats inside the building. No Kindred. No dead blood.
 
@@ -128,7 +128,7 @@ She pulled away from the curb without headlights. Two blocks before she turned t
 
 Fifth Avenue. 2:15 AM.
 
-The studio was cold. The radiator took twenty minutes to warm. She sat against the wall beneath Allicia's photograph and thought about tomorrow and didn't come to any conclusions because the conclusions required information she didn't have yet. What Allicia wanted. Whether Big Six came to The Oasis every night or just some nights. Whether the back room was safe enough to have a conversation that mattered.
+The studio was cold. The radiator took twenty minutes to warm. She sat against the wall beneath [Allicia](/npcs/allicia/)'s photograph and thought about tomorrow and didn't come to any conclusions because the conclusions required information she didn't have yet. What Allicia wanted. Whether Big Six came to The Oasis every night or just some nights. Whether the back room was safe enough to have a conversation that mattered.
 
 She'd go early. Before Big Six arrived, if he came at all. Get into the back room first. Control the space. And she'd bring something, though she wasn't sure what yet. A knife. A plan. [Williams](/npcs/williams/), if she could reach him.
 

@@ -104,7 +104,7 @@ One cultist stepped forward with a machete. [Sable](/sable-price/) found his eye
 
 "Take him," [Roarke](/npcs/roarke/) said. "Take him and get out. I don't care about the Prince."
 
-Darius picked up the machete.
+[Darius](/darius-cole/) picked up the machete.
 
 "What were you trying to do here?"
 
@@ -112,7 +112,7 @@ The preacher's cadence fell away. What was underneath was smaller and rougher. S
 
 The machete drew a line across [Roarke](/npcs/roarke/)'s forearm. The blood welled dark. Darius held the wound over [Lodin](/npcs/lodin/)'s mouth and the jaw opened and the throat worked and it was like watching gravity assert itself.
 
-Four blood points. Sable hauled Roarke back. The ghoul slumped on his knees, a hundred and sixteen years suddenly visible in every line.
+Four blood points. [Sable](/sable-price/) hauled [Roarke](/npcs/roarke/) back. The ghoul slumped on his knees, a hundred and sixteen years suddenly visible in every line.
 
 [Lodin](/npcs/lodin/)'s eyes opened.
 
@@ -154,7 +154,7 @@ The drive back. I-90. Sodium lights and long-haul trucks. [Lodin](/npcs/lodin/) 
 
 "And [Ballard](/npcs/ballard/). Who is acting as regent."
 
-Darius talked for twenty minutes. The whole ledger. The [Succubus Club](/locations/succubus-club/). The false Prince. [Ballard](/npcs/ballard/)'s dinner and his threats. The haven search and the twin pendants. [Standdown](/npcs/michael-standdown/)'s warehouse and the body that wasn't Lodin. The vial. The frenzy. All of it.
+Darius talked for twenty minutes. The whole ledger. The [Succubus Club](/locations/succubus-club/). The false Prince. [Ballard](/npcs/ballard/)'s dinner and his threats. The haven search and the twin pendants. [Standdown](/npcs/michael-standdown/)'s warehouse and the body that wasn't [Lodin](/npcs/lodin/). The vial. The frenzy. All of it.
 
 Lodin listened without interrupting until the body.
 

@@ -36,7 +36,7 @@ The question landed in the bar noise like a coin in a jukebox. [Victor](/npcs/vi
 
 "Never heard of him."
 
-[Victor](/npcs/victor-salonika/) held the look. [Darius](/darius-cole/) held it back. The lie was simple and clean and Victor filed it and nodded and went back to work, and the best briefing [Darius](/darius-cole/) could have given was the one he didn't give. What Victor didn't know, Victor couldn't say. What Victor couldn't say, [Shepard](/npcs/william-shepard/) couldn't pull out of him with a subpoena. Ignorance was the only armor that couldn't be beaten by a federal judge.
+[Victor](/npcs/victor-salonika/) held the look. [Darius](/darius-cole/) held it back. The lie was simple and clean and [Victor](/npcs/victor-salonika/) filed it and nodded and went back to work, and the best briefing [Darius](/darius-cole/) could have given was the one he didn't give. What Victor didn't know, Victor couldn't say. What Victor couldn't say, [Shepard](/npcs/william-shepard/) couldn't pull out of him with a subpoena. Ignorance was the only armor that couldn't be beaten by a federal judge.
 
 Broadway south to Fifth. The laundromat closed since '88. The payphone outside with a receiver that smelled like rain and cigarettes and the particular neglect of a phone company that services dead neighborhoods. Quarters in the slot. The Argyle Street number from memory.
 
@@ -74,7 +74,7 @@ Marcus Webb. The mortal from before. Filed the assumption Friday at the Lake Cou
 
 "The mortal is a problem you will solve or I will solve. Those are the options. Do you understand the difference."
 
-Darius understood the difference. The difference was whether Marcus Webb woke up tomorrow or didn't.
+[Darius](/darius-cole/) understood the difference. The difference was whether Marcus Webb woke up tomorrow or didn't.
 
 "Yes, I do."
 

@@ -46,7 +46,7 @@ She fed the ghouls at Kendrick's. DeShawn first, then Pete -- wrist, quick, one 
 
 At the studio on Fifth Avenue, the answering machine blinked twice. September she knew. November she didn't.
 
-Her mother's voice. Different this time. Tighter. Mrs. Henderson told her [Sable](/sable-price/) had moved months ago. Aunt Clarice thought she saw someone who looked like Sable in Hammond.
+Her mother's voice. Different this time. Tighter. Mrs. Henderson told her [Sable](/sable-price/) had moved months ago. Aunt Clarice thought she saw someone who looked like [Sable](/sable-price/) in Hammond.
 
 *Call me. Please.*
 

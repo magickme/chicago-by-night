@@ -23,7 +23,7 @@ The television was a thirteen-inch Zenith bolted to the dresser. He turned it on
 
 He pulled the straight-backed chair to the window and opened the curtain two inches. The parking lot threw sodium light across his knees. A woman in a quilted coat walked a dog past the office. The city operated around him and none of it required his participation.
 
-Call night. [Sable](/sable-price/) at the Allerton, eleven miles northeast. [Lodin](/npcs/lodin/) at the Drake, silent for six nights. The ghoul in the walkup on the North Side, sitting where Darius told him to sit, waiting for a return visit that was thirty hours overdue.
+Call night. [Sable](/sable-price/) at the Allerton, eleven miles northeast. [Lodin](/npcs/lodin/) at the Drake, silent for six nights. The ghoul in the walkup on the North Side, sitting where [Darius](/darius-cole/) told him to sit, waiting for a return visit that was thirty hours overdue.
 
 And [Ballard](/npcs/ballard/). At Daley's or wherever [Ballard](/npcs/ballard/) went when he wasn't at Daley's, building something out of three Primogen dinners and a narrative that had the advantage of being almost true.
 
@@ -31,9 +31,9 @@ The problem was structural. Darius worked it the way he worked everything — lo
 
 Cui bono. Two neonates from Gary with no territory, no allies, no history. What was the motive? What was the gain? A week in a motel on the South Side and a Brujah they'd never met buying them drinks at a bar. Now turn it around. A century as the man standing next to the chair. Resources, retainers, institutional access. The disappearance handed him the regency. Three Primogen dinners in three nights. The narrative wasn't defense. It was an audition.
 
-The counter-story had two paths. [Lodin](/npcs/lodin/) for the kill — the Prince returns, finds his lieutenant measured the drapes while he was gone. A paranoid medieval monarch didn't demote a man for that. He made an example. Primogen for the permission — the counter-narrative seeded wide enough that when Lodin moved, nobody stood in front of it.
+The counter-story had two paths. [Lodin](/npcs/lodin/) for the kill — the Prince returns, finds his lieutenant measured the drapes while he was gone. A paranoid medieval monarch didn't demote a man for that. He made an example. Primogen for the permission — the counter-narrative seeded wide enough that when [Lodin](/npcs/lodin/) moved, nobody stood in front of it.
 
-And [Sable](/sable-price/) was the delivery mechanism. A Toreador who'd been dismissed at Ballard's dinner table — treated like furniture by the man claiming to run the city — with a direct line to [Sir Henry Johnson](/npcs/sir-henry-johnson/), who sat close enough to the Primogen table to pass notes.
+And [Sable](/sable-price/) was the delivery mechanism. A Toreador who'd been dismissed at [Ballard](/npcs/ballard/)'s dinner table — treated like furniture by the man claiming to run the city — with a direct line to [Sir Henry Johnson](/npcs/sir-henry-johnson/), who sat close enough to the Primogen table to pass notes.
 
 The plan assembled itself over five hours in a straight-backed chair. By eleven o'clock it had three moving parts and no gaps he could find.
 
@@ -41,7 +41,7 @@ The plan assembled itself over five hours in a straight-backed chair. By eleven 
 
 Cottage Grove. A payphone three blocks from the Starlite. Quarters into the slot.
 
-"Go." Sable's voice, stripped flat by the speaker.
+"Go." [Sable](/sable-price/)'s voice, stripped flat by the speaker.
 
 He gave it to her in pieces. The counter-narrative, the dual track, [Sir Henry](/npcs/sir-henry-johnson/) as the channel, the dossier, the goal. Not neutralization. Removal. Permanent.
 
@@ -51,7 +51,7 @@ She listened. She asked the right questions.
 
 "We're on our own," Darius said.
 
-"Okay. Then Sir Henry. Wednesday. The salon."
+"Okay. Then [Sir Henry](/npcs/sir-henry-johnson/). Wednesday. The salon."
 
 "Don't oversell. Concern, not accusation."
 

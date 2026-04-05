@@ -46,7 +46,7 @@ The driver checked his mirrors every four minutes. [Darius](/darius-cole/) timed
 
 At 10:47 PM the driver's door opened.
 
-The man who got out was tall. Long dark coat, the kind that covered a shoulder holster or a hip rig without showing the outline. Gloves — he wore gloves, and even from fifty yards Darius could see that the gloves weren't leather, they were cotton, the kind you wore when your hands had been burned badly enough that the scar tissue cracked in cold air.
+The man who got out was tall. Long dark coat, the kind that covered a shoulder holster or a hip rig without showing the outline. Gloves — he wore gloves, and even from fifty yards [Darius](/darius-cole/) could see that the gloves weren't leather, they were cotton, the kind you wore when your hands had been burned badly enough that the scar tissue cracked in cold air.
 
 [Sullivan Dane](/npcs/sullivan-dane/). It had to be. Everything matched the fragments — [Modius](/npcs/modius/)'s whispered warnings, the profile Darius had assembled over months of listening at court: tall, British, ex-Jesuit, burn scars, always gloves. A man whose faith was a weapon. Six confirmed kills. Connected to the Inquisition. Patient.
 
@@ -66,7 +66,7 @@ Darius stood at the bus shelter for another five minutes after the taillights di
 
 *I carry a gun. Never fired it at a person. Prop, not a tool.*
 
-Dane carried a stake. Fired it at people. Tool, not a prop.
+[Dane](/npcs/sullivan-dane/) carried a stake. Fired it at people. Tool, not a prop.
 
 The mirror was exact and it was not comforting.
 

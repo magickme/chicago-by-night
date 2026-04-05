@@ -3,7 +3,7 @@ title: "Annabelle's Party — Wednesday, 16 January 1991, 4:35 PM"
 date: 1991-01-16T16:35:00
 lastmod: 2026-04-04
 tags: ["ashes-and-blood", "sable", "darius", "vtm", "chicago"]
-categories: ["Chapter 5 — Clean Hands"]
+categories: ["Chapter 6 — Annabelle's Party"]
 description: "The Toreador Primogen's party. Thirty Kindred, candlelight on brick, four disasters waiting to detonate, and Sable walking in with someone else's secrets in her pocket."
 ---
 
@@ -13,7 +13,7 @@ description: "The Toreador Primogen's party. Thirty Kindred, candlelight on bric
 
 ---
 
-Rain on the Succubus Club's awning, eight o'clock on a Wednesday, and America was going to war. The doorman held the door and didn't offer an umbrella and [Sable](/sable-price/) climbed the narrow stairs to the private lounge where the air changed. Cooler. The particular silence of a room where nobody breathed.
+Rain on the [Succubus Club](/locations/succubus-club/)'s awning, eight o'clock on a Wednesday, and America was going to war. The doorman held the door and didn't offer an umbrella and [Sable](/sable-price/) climbed the narrow stairs to the private lounge where the air changed. Cooler. The particular silence of a room where nobody breathed.
 
 [Sir Henry](/sir-henry-johnson/) waited at the top of the landing. Dark suit, burgundy pocket square. He took her arm and said she looked extraordinary and it wasn't flattery — it was a warning. Thirty Kindred in the lounge above, candles on exposed brick, a baby grand piano against the far wall. [Annabelle Triabell](/annabelle-triabell/) stood beside it in conversation with something very old — [Critias](/critias/), Brujah Primogen, whose patience was measured in millennia. She wore something cream-colored and simple that cost more than a season's rent at the Allerton, and when she laughed every head in the room turned toward the sound.
 
@@ -23,7 +23,7 @@ Somewhere in the crowd a woman with red hair held a champagne flute she'd never 
 
 [Sharon](/sharon-payne/). Eight feet away and not looking.
 
-[Sable](/sable-price/) turned into [Sir Henry](/npcs/sir-henry-johnson/)'s shoulder. His body blocked the sightline. [Sharon](/npcs/sharon-payne/)'s gaze swept the space where Sable had been standing half a second earlier, passed over Sir Henry's back, and continued toward the piano. She didn't stop.
+[Sable](/sable-price/) turned into [Sir Henry](/npcs/sir-henry-johnson/)'s shoulder. His body blocked the sightline. [Sharon](/npcs/sharon-payne/)'s gaze swept the space where [Sable](/sable-price/) had been standing half a second earlier, passed over [Sir Henry](/npcs/sir-henry-johnson/)'s back, and continued toward the piano. She didn't stop.
 
 "Someone you know?" Sir Henry murmured.
 
@@ -33,11 +33,11 @@ He adjusted their trajectory without asking another question.
 
 The introduction was brief. Sir Henry brought her to the piano when [Critias](/npcs/critias/) stepped back. [Annabelle](/npcs/annabelle-triabell/) turned with the particular grace of someone who had been expecting you while appearing not to. Her gaze landed on Sable and stayed — Appearance 4 meeting Appearance 5, the elder's eyes doing the math.
 
-"Gary," Annabelle said, tasting the word. "Sir tells me you have an interesting perspective on our mutual friend's recent hospitality."
+"Gary," [Annabelle](/npcs/annabelle-triabell/) said, tasting the word. "Sir tells me you have an interesting perspective on our mutual friend's recent hospitality."
 
 Sable started to shape the hook — *I have the other half of the architecture* — but before it could land, the door opened and [Michael Payne](/michael-payne/) walked in and the room's temperature dropped.
 
-Sire and childe saw each other across thirty feet and every Kindred felt it. Sharon's voice went flat and surgical. [Michael](/npcs/michael/) said something too quiet to catch. A champagne flute hit a table hard enough to crack the stem.
+Sire and childe saw each other across thirty feet and every Kindred felt it. [Sharon](/npcs/sharon-payne/)'s voice went flat and surgical. [Michael](/npcs/michael/) said something too quiet to catch. A champagne flute hit a table hard enough to crack the stem.
 
 Annabelle's jaw tightened. Her party was unraveling and she hadn't played a note.
 
@@ -51,7 +51,7 @@ Someone near the back laughed once.
 
 Two Milwaukee visitors flanked Sable's sightline. The silver-haired woman — [Lucina](/npcs/lucina/), Milwaukee's Toreador Primogen — watched with the quiet satisfaction of a collector watching an auction lot depreciate. Her companion, [Louis Detonas](/npcs/louis-detonas/), a sculptor with paint-stained fingers and two centuries of aristocratic contempt, looked away.
 
-Sable read Lucina's aura from across the room. Three successes bought her the emotional topography: calculating pleasure over cold ambition over territorial satisfaction. Lucina had expected something to go wrong. She'd come from Milwaukee to take a measurement, and Annabelle was measuring small.
+Sable read [Lucina](/npcs/lucina/)'s aura from across the room. Three successes bought her the emotional topography: calculating pleasure over cold ambition over territorial satisfaction. Lucina had expected something to go wrong. She'd come from Milwaukee to take a measurement, and Annabelle was measuring small.
 
 Then the lights over the small stage dimmed and [Sophia Ayes](/sophia-ayes/) stepped onto the platform with Bret Stryker and the music started and what they did was not dancing.
 
@@ -81,7 +81,7 @@ She offered him the one thing nobody else in the room could provide: her hands o
 
 Different hands. A woman. Staff uniform. She placed the folio at 6:15 PM. She'd been paid. She was thinking about rent.
 
-Sable pulled her hand away. Forty seconds gone. She walked back to Tamoszius's empty table and told him what she'd seen. Drummond. The railroad warehouse. Aimed by someone. The trail stopped at Drummond's hands.
+Sable pulled her hand away. Forty seconds gone. She walked back to Tamoszius's empty table and told him what she'd seen. [Drummond](/npcs/edgar/). The railroad warehouse. Aimed by someone. The trail stopped at Drummond's hands.
 
 "That's the beauty of the man," Tamoszius said. "He never needs a Discipline when a compliment and a steak will do the job."
 
@@ -99,7 +99,7 @@ She told him everything. Annabelle, the private number, Tamoszius, the deal. The
 
 "Good work tonight," [Darius](/darius-cole/) said. He meant it.
 
-Rain on the awning. The war on television. Two phone numbers in her pocket and the taste of thirty predators still in her teeth. Annabelle's left hand closing. Lodin's cracked authority. Sharon eight feet away in cold perfume.
+Rain on the awning. The war on television. Two phone numbers in her pocket and the taste of thirty predators still in her teeth. Annabelle's left hand closing. [Lodin](/npcs/lodin/)'s cracked authority. Sharon eight feet away in cold perfume.
 
 She didn't get made. She got *made*. Chicago knew her name now.
 

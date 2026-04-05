@@ -64,7 +64,7 @@ He held up one finger. "One question. Answered truthfully."
 
 The cemetery went quiet. The rats stopped. The crow watched.
 
-[Darius](/darius-cole/) deflected. [Danov](/npcs/alexander-danov/) refused the deflection with the patience of a man who had been deflected by better liars for centuries. The conversation shifted — Darius asked about independence, about endgame, about where the information went once it entered the vault.
+[Darius](/darius-cole/) deflected. [Danov](/npcs/alexander-danov/) refused the deflection with the patience of a man who had been deflected by better liars for centuries. The conversation shifted — [Darius](/darius-cole/) asked about independence, about endgame, about where the information went once it entered the vault.
 
 [Danov](/npcs/alexander-danov/) told him. Independent. Not [Modius](/npcs/modius/)'s, not [Lucian](/npcs/lucian/)'s. Nosferatu. The economy underneath every other economy. "I'm building nothing. I'm maintaining. When Gary collapses — and the math is already done — the man who kept the records is the man Chicago calls first."
 
@@ -80,7 +80,7 @@ He said it once and watched it land. [Danov](/npcs/alexander-danov/) processed i
 
 The deal closed the way deals close between people who understand that the handshake is unnecessary because the currency is already exchanged. Tuesday nights, Washington Street, after ten. Bring the proxy.
 
-Danov walked him to the gate. Twenty yards of silence, which for a Nosferatu was an intimacy that cost more than the name.
+[Danov](/npcs/alexander-danov/) walked him to the gate. Twenty yards of silence, which for a Nosferatu was an intimacy that cost more than the name.
 
 "You should feed before you leave this part of town. The wasteland has people who won't be missed."
 

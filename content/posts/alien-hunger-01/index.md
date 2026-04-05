@@ -68,7 +68,7 @@ I went inside with him because I had nowhere else to go, and because the alterna
 
 ---
 
-Edward Williams had the kind of face that people with that kind of face learn to use. Composed. Attentive. The face of someone who has been having conversations in rooms like this for a long time. He listened to everything I told him about the lab without looking away from me once. The intake form. The bank name. The Liverman slides. The missing key.
+[Edward](/npcs/sir-edward-scott/) [Williams](/npcs/williams/) had the kind of face that people with that kind of face learn to use. Composed. Attentive. The face of someone who has been having conversations in rooms like this for a long time. He listened to everything I told him about the lab without looking away from me once. The intake form. The bank name. The Liverman slides. The missing key.
 
 I'd run an empathy read on him the way I sometimes read a room full of parents at a school board meeting: looking for the angle, the performance, the thing they actually want. I found something I hadn't expected, which was that he seemed to mean what he was saying.
 
@@ -96,4 +96,4 @@ Outside the windows, somewhere past the city, the sky was starting to think abou
 
 I slept in a room in Edward Williams' house because there was no longer any version of the night where I drove home and went to bed.
 
-In the morning -- if that's still the word for when I wake up, which is a question I'm choosing not to answer yet -- I would find out what a United National Bank safety deposit box contained and whether "Liverman" was a name that knew what Jacob Prestor had done to me.
+In the morning -- if that's still the word for when I wake up, which is a question I'm choosing not to answer yet -- I would find out what a United National Bank safety deposit box contained and whether "Liverman" was a name that knew what [Jacob](/npcs/jacob-the-glitch/) Prestor had done to me.

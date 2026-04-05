@@ -64,7 +64,7 @@ The expression on her face was not anger. Anger requires a belief that things sh
 
 Four seconds. Then she sat down. Hands in her lap. Eyes on the floor.
 
-Sable watched her and thought: *That's what I look like from the outside. That's what the doll looks like when it realizes it's on a shelf.*
+[Sable](/sable-price/) watched her and thought: *That's what I look like from the outside. That's what the doll looks like when it realizes it's on a shelf.*
 
 ---
 
