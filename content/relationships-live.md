@@ -49,6 +49,8 @@ graph TD
     Coterie -->|"3"| Modius
     SullivanDane["Sullivan Dane"]
     Coterie -->|"-3"| SullivanDane
+    Drummond["Drummond"]
+    Coterie -->|"3"| Drummond
     Lodin["Lodin"]
     Coterie -->|"2"| Lodin
     AnnabelleTriabell["Annabelle Triabell"]
@@ -57,8 +59,6 @@ graph TD
     Coterie -->|"2"| Gengis
     Lucian["Lucian"]
     Coterie -->|"2"| Lucian
-    Danov["Danov"]
-    Coterie -->|"2"| Danov
 ```
 
 ## Chicago Standing

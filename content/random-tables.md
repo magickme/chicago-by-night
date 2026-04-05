@@ -933,7 +933,8 @@ Use one headline at scene open to add mortal friction unrelated to the Jyhad. Th
 |22|Belthazar vendetta|NEW. Staked by Damien on Wacker Drive (S030). Neon guarding. When unstaked → hunt.|
 |23|The torpored body|TRANSFERRED. Menele's body delivered to Lodin at Drake Hotel (D031). Cedar closet, 8th floor. Lodin recognized the pendant. "A key." Coterie no longer in possession. Lodin ordered: do not discuss, do not open trunk for anyone.|
 |24|Damien and Neon|NEW. Anarch allies (strained — Sable warned Belthazar). Rescued coterie. Debt owed.|
-|25-26|Ballard's frame job (2x)|ADVANCING. S034: Track 2 (Annabelle) ahead of schedule — Sable delivered Drummond evidence, Annabelle connecting dots to Ballard. Track 1 (Walt/dossier) held in reserve. Lodin appeared at party — primed against Ballard. Walt Conditioning 5/14, legal pad on Darius.|
+|25-26|Ballard's frame job (2x)|ADVANCING. S035: Drummond delivered to Primogen with ledger evidence. Ballard exposed. Coterie invisible. Track 1 (Walt) in reserve. Ballard targeting Annabelle — 48-hr counterattack window.|
+|29|Railroad leverage|NEW S035. Drummond's ledger maps Ballard's unauthorized freight. Pipeline implications for Chuc Luc. Coterie has knowledge of the evidence even though Drummond holds the physical ledger.|
 |27|Gengis intel channel|OPEN. Brujah Anarch gave Ballard intel freely. Wants access to Camarilla table through coterie. No commitment made.|
 |28|Tremere breach|NEW. Unknown visitor (profile matches Tomás Navarro) found Walt's walkup Jan 10. Used Dominate, searched apartment, read legal pad, examined bite mark. Counter-op transparent to Tremere.|
 
@@ -959,10 +960,12 @@ Use one headline at scene open to add mortal friction unrelated to the Jyhad. Th
 |Damien/Neon|1x|NEW. Anarch contact, strained by Sable's warning. Rescued coterie.|
 |Belthazar vendetta|1x|NEW. Staked on Wacker. Will wake. Will hunt.|
 |Hunter convergence|1x|ADVANCED. Standdown encountered + wiped. Shepard connected.|
-|Ballard's frame job|2x|ADVANCING. S034: Track 2 (Annabelle) ahead of schedule. Annabelle has Drummond evidence + Ballard connection. Private audience upcoming. Track 1 (Walt/dossier) held in reserve. Lodin appeared — primed.|
+|Ballard's frame job|2x|ADVANCING. S035: Drummond delivered to Primogen with ledger. Ballard exposed. Coterie invisible. Track 1 (Walt) still in reserve. Ballard targeting Annabelle in 48-hr counterattack window. Coterie may need to defend ally.|
+|Drummond's gratitude|1x|NEW S035. Elder Ventrue owes Sable. Railroad access potential. Testified because Sable told him the truth.|
+|Railroad leverage|1x|NEW S035. Drummond's ledger maps Ballard's unauthorized freight through Chicago rail. Pipeline implications for Chuc Luc.|
 |Sir Henry alliance|1x|DEEPENED S034. Coached Sable at Annabelle's Party. Fully invested. +3 disposition.|
 |Modius's leash|2x|CLOSED (S033). Scene alteration. Modius turned inward. Silence, not forgiveness.|
-|Annabelle's Party|2x|PLAYED (S034). Published adventure Scene One complete. All 4 disasters. Annabelle alliance formed. Private number + minor boon. Counter-Ballard Track 2 ahead of schedule.|
+|Annabelle's Party|2x|COMPLETE (S034-S035). Published adventure fully resolved — all 4 scenes + Coda. Drummond confessed, testified with ledger. Ballard exposed at Primogen level. Coterie invisible.|
 |Tamoszius alliance|1x|NEW S034. Toreador elder, 90yr Ballard-watcher. Deal: info exchange, card given. Independent channel into Chicago Toreador intel.|
 |Tomás Navarro — Tremere contact|1x|First meeting S033 at Succubus Club. Operational potential. Analyst, not operator.|
 |Methuselah War|HIDDEN but ACTIVE|Helena vs Menele. Darius bonded Step 1 to Menele. Coterie = unwitting Menele proxies. Portia at Succubus Club.|

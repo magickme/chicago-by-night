@@ -10,15 +10,15 @@ menu:
       icon: "dots"
 ---
 
-*Chicago Chronicles. Act II: Ashes and Blood. Updated: **1991-01-16 (Wednesday night)**.*
+*Chicago Chronicles. Act II: Ashes and Blood. Updated: **1991-01-17 (Thursday, ~2 AM)**.*
 
 
 
 ## Coterie Snapshot
 
-- 1991-01-16 (Wednesday night) — Darius at Starlite Motel, Room 9 (South Side). Sable at Allerton Hotel, Michigan Avenue, 3rd floor. Annabelle's Party complete: Sable secured private haven number + minor boon from Annabelle, Tamoszius alliance formed, Lodin appeared publicly (first in 7 nights). Counter-Ballard Track 2 (Annabelle) ahead of schedule. Track 1 (Walt/dossier) held in reserve. Annabelle building case against Drummond → Ballard. Lodin primed. Walt Conditioning 5/14, blood-bonded Step 1 to Darius. Legal pad on Darius's person.
-- Scenes played: Darius 35, Sable 34, Tomás 1 (70 total + timeskip bluebook Aug-Nov + Dec timeskip). PCs met at Feb 2 Elysium. **COTERIE FORMED (S019, July 22).**
-- Scene-note inventory: Darius 34, Sable 34, Tomás 1 (69 total on disk; S034 is joint S034/D035).
+- 1991-01-17 (Thursday, ~2 AM) — Darius at Starlite Motel, Room 9 (South Side). Sable at Allerton Hotel, Michigan Avenue, 3rd floor. Annabelle's Party COMPLETE (published adventure fully resolved). Drummond confessed to Primogen with ledger evidence — Ballard exposed. Coterie invisible in the operation. Ballard targeting Annabelle (Fate: Yes). Major Grace active: "A path opens" (Sable's entry into Chicago power structure). Walt Conditioning 5/14, blood-bonded Step 1 to Darius. Legal pad on Darius's person.
+- Scenes played: Darius 36, Sable 35, Tomás 1 (72 total + timeskip bluebook Aug-Nov + Dec timeskip). PCs met at Feb 2 Elysium. **COTERIE FORMED (S019, July 22).**
+- Scene-note inventory: Darius 34, Sable 35, Tomás 1 (70 total on disk; S034/S035 are joint scenes with D035/D036).
 - Sunset: 4:35 PM CST. Sunrise: 7:04 AM CST. Darkness: ~14.5 hours (mid-January).
 - Communications: Chicago protocol seeded. Tue/Fri 11 PM remains the default check-in window, using rotating nodes instead of a fixed haven line. If one node feels watched, move immediately to the next. Horace contact: The Cave, ask for Fred, "chess tournament."
 
@@ -33,15 +33,15 @@ menu:
 | Modius Internal Audit | 4/6 | Blood-taste bomb. Allicia. Offscreen while PCs in Chicago. |
 | Ballard's Case | 3/6 | D032-D033: Ballard dined with 3 Primogen in 3 nights (Annabelle, Critias, Jackson). Establishing context: Gary emissaries caused Chicago's crises. Cultivating ghoul driver (botched Forgetful Mind). Driver now Mesmerized + Conditioning 4/14. Counter-ops active. |
 | Docks Heat | 3/6 | Pipeline on autopilot. Eddie granite. |
+| Lodin's Grip | 2/6 | S035: Prince presided over emergency Primogen session. Police mobilized around railyards. Drummond delivered. Authority reasserted through institutions. |
 | Masquerade Heat (Chicago) | 2/6 | D031: 36 cultists witnessed supernatural events at Hell's Pasture (Roarke aging, vampire feeding, Dread Gaze). Scottie wiped (granite). Compound burning. Low-credibility witnesses but high numbers. |
 | Methuselah War | 2/6 HIDDEN | D031: Darius blood-bonded Step 1 to Menele (frenzy over torpored body). Coterie now in Menele's camp — unknowingly. Menele likely orchestrated body recovery + vial frenzy from torpor. Helena's rival has agents. |
 | Modius Leash (Darius) | 2/6 | Emissary mission = continued obligation at distance. |
+| Primogen Power Plays | 2/6 | S035: Emergency Primogen session. Drummond testified with ledger evidence. Ballard exposed. Factions forming, blocs solidifying. Neonates recruited as proxies. |
 | Sharon's Vendetta | 2/6 | Proxy Halloran → Warwick → law firm. Sharon is IN CHICAGO. |
 | Anarch Tension | 1/6 | S030: Damien staked Sheriff Belthazar. Coterie interacted with Anarch faction. |
 | Blood Bond Web | 1/6 | D031: Darius consumed Menele's blood (frenzy). Step 1/3. First active bond step from Chicago events. Every sip tracked. |
 | Hunter Convergence (Chicago) | 1/6 | S030: PCs encountered Standdown. Evidence destroyed but he lives with "body walked away." Shepard connected. |
-| Lodin's Grip | 1/6 | D031: Prince returns. Secured Menele's body at Drake. Ordering callback before dawn. Ballard reckoning incoming. |
-| Primogen Power Plays | 1/6 | S034: Annabelle publicly humiliated at her own party (4 coordinated disasters via Drummond/Ballard). Visiting elders witnessed. Annabelle building counter-case. |
 | Chuc Luc's Chicago Operations | 0/6 | Pipeline expansion into Capone's territory. |
 | Cover Story Exposure (Chicago) | 0/6 | Warren Birch fiction meets Chicago Auspex. Darius 10th claiming 12th. |
 | Modius Leash (Sable) | 0/6 | CLOSED (S033). Scene alteration (Close Thread). Modius turned inward — Internal Audit consuming attention, leash dropped. Silence, not forgiveness. |

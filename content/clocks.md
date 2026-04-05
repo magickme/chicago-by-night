@@ -5,7 +5,7 @@ layout: "page"
 slug: "clocks"
 ---
 
-*Chicago pressure board. Updated: **1991-01-16 (Wednesday night)**. Session state is authoritative for all clock levels.*
+*Chicago pressure board. Updated: **1991-01-17 (Thursday, ~2 AM)**. Session state is authoritative for all clock levels.*
 
 
 
@@ -23,9 +23,9 @@ slug: "clocks"
 | Methuselah War (HIDDEN) | ■■□□□□ | 2/6 HIDDEN | D031: Darius blood-bonded Step 1 to Menele (frenzy over torpored body). Coterie now in Menele's camp — unknowingly. Menele likely orchestrated body recovery + vial frenzy from torpor. Helena's rival has agents. |
 | Chuc Luc's Chicago Operations | □□□□□□ | 0/6 | Pipeline expansion into Capone's territory. |
 | Ballard's Case | ■■■□□□ | 3/6 | D032-D033: Ballard dined with 3 Primogen in 3 nights (Annabelle, Critias, Jackson). Establishing context: Gary emissaries caused Chicago's crises. Cultivating ghoul driver (botched Forgetful Mind). Driver now Mesmerized + Conditioning 4/14. Counter-ops active. |
-| Primogen Power Plays | ■□□□□□ | 1/6 | S034: Annabelle publicly humiliated at her own party (4 coordinated disasters via Drummond/Ballard). Visiting elders witnessed. Annabelle building counter-case. |
+| Primogen Power Plays | ■■□□□□ | 2/6 | S035: Emergency Primogen session. Drummond testified with ledger evidence. Ballard exposed. Factions forming, blocs solidifying. Neonates recruited as proxies. |
 | Succubus Club Heat | □□□□□□ | 0/6 | Club as focal point. Helena's basement. Every thread passes through. |
-| Lodin's Grip | ■□□□□□ | 1/6 | D031: Prince returns. Secured Menele's body at Drake. Ordering callback before dawn. Ballard reckoning incoming. |
+| Lodin's Grip | ■■□□□□ | 2/6 | S035: Prince presided over emergency Primogen session. Police mobilized around railyards. Drummond delivered. Authority reasserted through institutions. |
 
 ## Gary (Offscreen)
 
