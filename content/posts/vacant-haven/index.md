@@ -124,7 +124,7 @@ In a filing cabinet: a folder of intelligence on Chicago's Anarchs. [Lodin](/npc
 
 On a shelf in the office: a leather-bound journal. Admiral Tourney — a British naval officer and member of an organization he referred to only as A. And on the final page, in different handwriting: *Dedicated to [Roarke](/npcs/roarke/), a fine retainer who sacrificed his life to bring me a book of worthless value.*
 
-"Look at this. Who's [Roarke](/npcs/roarke/)?" Sable asked, offering the journal.
+"Look at this. Who's [Roarke](/npcs/roarke/)?" [Sable](/sable-price/) asked, offering the journal.
 
 [Belthazar](/npcs/belthazar/) answered first. "One of [Lodin](/npcs/lodin/)'s people. Sent to England on some errand, before my appointment. Never came back. The Prince wrote him off as dead."
 
@@ -144,7 +144,7 @@ He looked at Sable. Then at [Darius](/darius-cole/).
 
 Then he left. No farewell. The elevator doors closed behind him and the pressure in the room dropped by half.
 
-The search consumed the rest of the night. By three in the morning, every room had been opened, every document read, every surface touched. Belthazar stood by the office door.
+The search consumed the rest of the night. By three in the morning, every room had been opened, every document read, every surface touched. [Belthazar](/npcs/belthazar/) stood by the office door.
 
 "We stay here until sunset. Nobody leaves."
 

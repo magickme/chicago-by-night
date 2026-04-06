@@ -56,6 +56,6 @@ Humanity seven. The number that said he was still closer to the man than the mon
 
 He started the engine. Drove west. The list was shorter now. The warehouse was his. The customs gap was his. The inside man was his. Sal Cantone's operation was dead and wouldn't know it until Tuesday or Friday, whichever came first, when a panel van pulled up to an empty warehouse and a phone rang in a dock office and nobody answered.
 
-Tuesday's call to [Chuc Luc](/npcs/chuc-luc/) would be simple. The sire asked for a warehouse and a customs gap. Darius was bringing him a working pipeline, a Dominated dock supervisor, and twenty-four sacks of product that belonged to a man in Chicago who was about to learn that someone in Gary had stolen his machine.
+Tuesday's call to [Chuc Luc](/npcs/chuc-luc/) would be simple. The sire asked for a warehouse and a customs gap. [Darius](/darius-cole/) was bringing him a working pipeline, a Dominated dock supervisor, and twenty-four sacks of product that belonged to a man in Chicago who was about to learn that someone in Gary had stolen his machine.
 
 The west side. The apartment. The lock. The dark. The architecture held, and the architecture was everything, and the architecture now ran on a man who didn't know his own mind.

@@ -36,7 +36,7 @@ The question landed in the bar noise like a coin in a jukebox. [Victor](/npcs/vi
 
 "Never heard of him."
 
-[Victor](/npcs/victor-salonika/) held the look. [Darius](/darius-cole/) held it back. The lie was simple and clean and [Victor](/npcs/victor-salonika/) filed it and nodded and went back to work, and the best briefing [Darius](/darius-cole/) could have given was the one he didn't give. What Victor didn't know, Victor couldn't say. What Victor couldn't say, [Shepard](/npcs/william-shepard/) couldn't pull out of him with a subpoena. Ignorance was the only armor that couldn't be beaten by a federal judge.
+[Victor](/npcs/victor-salonika/) held the look. [Darius](/darius-cole/) held it back. The lie was simple and clean and [Victor](/npcs/victor-salonika/) filed it and nodded and went back to work, and the best briefing [Darius](/darius-cole/) could have given was the one he didn't give. What [Victor](/npcs/victor-salonika/) didn't know, Victor couldn't say. What Victor couldn't say, [Shepard](/npcs/william-shepard/) couldn't pull out of him with a subpoena. Ignorance was the only armor that couldn't be beaten by a federal judge.
 
 Broadway south to Fifth. The laundromat closed since '88. The payphone outside with a receiver that smelled like rain and cigarettes and the particular neglect of a phone company that services dead neighborhoods. Quarters in the slot. The Argyle Street number from memory.
 
@@ -86,7 +86,7 @@ Then, quieter: "You've done more than I expected. That is not a compliment. Expe
 
 Click. Dial tone. Broadway.
 
-Darius stood at the payphone with the receiver back on the hook and the list running: warehouse, customs gap, Marcus, FBI, seventeen days. The quarters were gone. The sire's voice was still in his ear the way a parent's voice stays in the ear of a child who knows he did the right thing wrong.
+[Darius](/darius-cole/) stood at the payphone with the receiver back on the hook and the list running: warehouse, customs gap, Marcus, FBI, seventeen days. The quarters were gone. The sire's voice was still in his ear the way a parent's voice stays in the ear of a child who knows he did the right thing wrong.
 
 He drove west. Found a bar with no name on a street where the streetlights alternated between working and dead. The man at the end of the bar was mid-forties, steel-toed boots, a wedding ring he kept turning on a finger that had gotten thinner since the ring was sized. Alimony. The tan line where a second ring used to be. A wallet he counted before ordering.
 

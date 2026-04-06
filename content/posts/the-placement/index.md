@@ -106,7 +106,7 @@ The Cutlass pulled away. The back seat was empty. The impression in the vinyl wh
 
 They didn't make Gary.
 
-The Dan Ryan construction killed the margin — ten minutes of crawling through orange cones at Seventy-First with the sky turning colors that had names Sable didn't want to think about. Indigo to violet. Violet to something paler. The horizon sharpening the way a blade sharpens, the edge of the world becoming visible in a way that meant the sun was below it and climbing.
+The Dan Ryan construction killed the margin — ten minutes of crawling through orange cones at Seventy-First with the sky turning colors that had names [Sable](/sable-price/) didn't want to think about. Indigo to violet. Violet to something paler. The horizon sharpening the way a blade sharpens, the edge of the world becoming visible in a way that meant the sun was below it and climbing.
 
 [Darius](/darius-cole/) took the East Chicago exit without asking because the math was done and the math said Gary was forty minutes and forty minutes was ten minutes too many. Indianapolis Boulevard. Industrial. Refineries and rail yards and buildings made of cinderblock that didn't have windows because they were built for machines, not people.
 

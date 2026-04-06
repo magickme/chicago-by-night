@@ -42,7 +42,7 @@ Their eyes met. A quarter-second. Then [Darius](/darius-cole/) was around the co
 
 The door opened. [Michael](/npcs/michael/) came out.
 
-He was carrying something in his coat pocket. Darius could see the weight of it — the way the fabric pulled. Not a weapon. Not money. Paper. An envelope. [Michael](/npcs/michael/) held it against his body the way a child holds a letter from someone who matters.
+He was carrying something in his coat pocket. [Darius](/darius-cole/) could see the weight of it — the way the fabric pulled. Not a weapon. Not money. Paper. An envelope. [Michael](/npcs/michael/) held it against his body the way a child holds a letter from someone who matters.
 
 *What business does a cemetery Malkavian have with a dockside bookie?*
 
@@ -52,7 +52,7 @@ Darius made his decision. He reached for the Presence — the discipline his sir
 
 [Michael](/npcs/michael/) stopped walking. He didn't flinch. He didn't smile. He looked at Darius with eyes that were flat and still and not at all the eyes of the nervous, lurching boy that the court saw at [Modius](/npcs/modius/)'s gatherings.
 
-"You weren't testing," Michael said. His voice was quiet and higher than Darius expected and completely steady. "You were *pushing.*"
+"You weren't testing," [Michael](/npcs/michael/) said. His voice was quiet and higher than Darius expected and completely steady. "You were *pushing.*"
 
 The Awe had bounced. The Malkavian mind — fractured, yes, but fractured the way a prism is fractured, breaking one light into many — had registered the Presence, identified it, and rejected it. Michael knew exactly what Darius had just tried to do.
 

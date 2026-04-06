@@ -70,7 +70,7 @@ Once across the sea, Menele began to mold the Incans into a force capable of des
 
 [Helena](/npcs/helena/) followed with Cortez. She destroyed the Aztecs, then the Maya, then allied with Pizarro to destroy the Inca. Menele and his people proved no match for Spanish technology and [Helena](/npcs/helena/)'s horde of progeny. He barely escaped with his life and fled north.
 
-He hid among the Pueblos. Helena found him; he fled without doing battle. He spent decades among the Plains Indians, living with them, learning the way of peace. He came closer to attaining Golconda than he ever had. The Uktena Garou tolerated his presence — they came to each other's aid and respected each other's rights. Within the heart of the village was a hollow mound that served as Menele's haven.
+He hid among the Pueblos. [Helena](/npcs/helena/) found him; he fled without doing battle. He spent decades among the Plains Indians, living with them, learning the way of peace. He came closer to attaining Golconda than he ever had. The Uktena Garou tolerated his presence — they came to each other's aid and respected each other's rights. Within the heart of the village was a hollow mound that served as Menele's haven.
 
 **Humanity 10.** The canonical stat block confirms it. A 4th-generation Methuselah with maximum Humanity — a creature pursuing transcendence while the world around him burned.
 
@@ -108,7 +108,7 @@ A Coptic jar containing [the Heart](/locations/the-heart/) of Osiris surfaced in
 
 ## The Network
 
-**[Critias](/npcs/critias/)** (5th gen) — his childe, Embraced in the baths of Athens ~400 BC after a night debating the nature of existence. Blood-Bonded through centuries of feeding on his sire's blood. The "Brujah School," the Path of Entelechy, the vision of Chicago as the new Carthage — convictions [Critias](/npcs/critias/) considers his own philosophical legacy. They originate from Menele's sleeping mind. [Critias](/npcs/critias/) does not realize his sire survived Carthage. *(In the V20 era, Critias broke free after nearly dying. Whether the Bond has been re-established is unclear.)*
+**[Critias](/npcs/critias/)** (5th gen) — his childe, Embraced in the baths of Athens ~400 BC after a night debating the nature of existence. Blood-Bonded through centuries of feeding on his sire's blood. The "Brujah School," the Path of Entelechy, the vision of Chicago as the new Carthage — convictions [Critias](/npcs/critias/) considers his own philosophical legacy. They originate from Menele's sleeping mind. [Critias](/npcs/critias/) does not realize his sire survived Carthage. *(In the V20 era, [Critias](/npcs/critias/) broke free after nearly dying. Whether the Bond has been re-established is unclear.)*
 
 **[Inyanga](/npcs/inyanga/)** (6th gen) — fell under Menele's control shortly after arriving in Chicago. Extended Domination, not Blood Bond. Through her, Menele commands the entire Gangrel clan. If word comes from [Inyanga](/npcs/inyanga/), every Gangrel mobilizes. Her Laibon immigration operation through [Lucian](/npcs/lucian/)'s docks in Gary moves bodies and resources through Menele's corridor. She is not actually Gangrel — she is Laibon, operating under Kindred cover.
 

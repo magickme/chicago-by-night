@@ -110,7 +110,7 @@ One cultist stepped forward with a machete. [Sable](/sable-price/) found his eye
 
 The preacher's cadence fell away. What was underneath was smaller and rougher. Sixty years of service. The errand to London. The bullet on a Piccadilly street. "I woke up somewhere else. The blood they put in me — it showed me things. What he was. What I was to him." His hands were shaking. "So I took the one thing that mattered to him."
 
-The machete drew a line across [Roarke](/npcs/roarke/)'s forearm. The blood welled dark. Darius held the wound over [Lodin](/npcs/lodin/)'s mouth and the jaw opened and the throat worked and it was like watching gravity assert itself.
+The machete drew a line across [Roarke](/npcs/roarke/)'s forearm. The blood welled dark. [Darius](/darius-cole/) held the wound over [Lodin](/npcs/lodin/)'s mouth and the jaw opened and the throat worked and it was like watching gravity assert itself.
 
 Four blood points. [Sable](/sable-price/) hauled [Roarke](/npcs/roarke/) back. The ghoul slumped on his knees, a hundred and sixteen years suddenly visible in every line.
 
@@ -120,7 +120,7 @@ Not confused. Not grateful. Not afraid. The eyes of a man who had been conscious
 
 He stood. The amphitheater contracted around him. Every cultist took one step back.
 
-He looked down at Roarke for a long time.
+He looked down at [Roarke](/npcs/roarke/) for a long time.
 
 "You kept my blood in a ram. You fed it to these people."
 
@@ -132,7 +132,7 @@ The aging began immediately. Subtle, then fast. Skin tightening. Hair going whit
 
 ---
 
-They collected Scottie Cartwright from his log. He was hysterical — saw everything, notebook full of it, pen frozen mid-sentence. Sable walked toward him with the Awe rolling ahead of her like warm water. One button undone. Two. The terror crashed into recognition and produced something he couldn't process.
+They collected Scottie Cartwright from his log. He was hysterical — saw everything, notebook full of it, pen frozen mid-sentence. [Sable](/sable-price/) walked toward him with the Awe rolling ahead of her like warm water. One button undone. Two. The terror crashed into recognition and produced something he couldn't process.
 
 "What *are* you people?"
 
@@ -156,7 +156,7 @@ The drive back. I-90. Sodium lights and long-haul trucks. [Lodin](/npcs/lodin/) 
 
 Darius talked for twenty minutes. The whole ledger. The [Succubus Club](/locations/succubus-club/). The false Prince. [Ballard](/npcs/ballard/)'s dinner and his threats. The haven search and the twin pendants. [Standdown](/npcs/michael-standdown/)'s warehouse and the body that wasn't [Lodin](/npcs/lodin/). The vial. The frenzy. All of it.
 
-Lodin listened without interrupting until the body.
+[Lodin](/npcs/lodin/) listened without interrupting until the body.
 
 "Open the trunk."
 

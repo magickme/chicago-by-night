@@ -40,6 +40,6 @@ The younger man shook his head. The gavel came down. He walked out past [Roarke]
 
 A limousine waited at the curb. [Natasha](/npcs/natasha/) followed and lost him in two blocks.
 
-Back at the hotel, Roarke gave [Lodin](/npcs/lodin/) everything. The journal, the price, the Swiss account, the man. [Lodin](/npcs/lodin/) listened. Said the Swiss account was the correct decision. Said the man in the lavender tie would surface again. They always do when they want something.
+Back at the hotel, [Roarke](/npcs/roarke/) gave [Lodin](/npcs/lodin/) everything. The journal, the price, the Swiss account, the man. [Lodin](/npcs/lodin/) listened. Said the Swiss account was the correct decision. Said the man in the lavender tie would surface again. They always do when they want something.
 
 Then: the journal. Seven o'clock. You will retrieve it. Go alone.

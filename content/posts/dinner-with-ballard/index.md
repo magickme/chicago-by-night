@@ -76,7 +76,7 @@ Something crossed [Ballard](/npcs/ballard/)'s face. Quick, absorbed by the fat b
 
 "I did. We had no choice." [Neally](/npcs/neally-edwards/)'s voice was smooth, bureaucratic — quarterly report cadence. "If we look for him ourselves, everyone will know something is wrong. The Primogen's will is to keep it among themselves for a few days. That gives us time. But we need people looking. People no one in Chicago knows."
 
-He looked at [Sable](/sable-price/). At [Darius](/darius-cole/). Back to Ballard.
+He looked at [Sable](/sable-price/). At [Darius](/darius-cole/). Back to [Ballard](/npcs/ballard/).
 
 "Them."
 
@@ -84,7 +84,7 @@ The silence stretched. Restaurant sounds filled it — silverware, conversation,
 
 "Fine," Ballard said. He leaned forward. His voice dropped to the frequency that only dead ears were made to hear. "I will destroy you with my own hands if any among you speak to anyone about this. No one must know about the disappearance of [Lodin](/npcs/lodin/). Do I make myself clear?"
 
-"[Crystal](/npcs/crystal-spinner/)," Sable said.
+"[Crystal](/npcs/crystal-spinner/)," [Sable](/sable-price/) said.
 
 He held her gaze a moment longer than necessary. Then he grunted and lifted a hand. The frosted glass partition behind her clicked, and a figure stepped through — lean, dark-haired, long coat that didn't hide the way he moved, which was the way people move when hurting other people is a practiced skill. He stood by the curtain and said nothing.
 

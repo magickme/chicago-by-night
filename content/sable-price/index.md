@@ -63,7 +63,7 @@ It cost everything.
 
 [Sharon](/npcs/sharon-payne/) realized [Michael](/npcs/michael/) was falling. The early sketches were studies. The December paintings were love letters. [Sharon](/npcs/sharon-payne/) destroyed the paintings — all of them, knife through canvas, turpentine on the oils. Then she left. [Michael](/npcs/michael/) Embraced Sable that same night. Not gently. In rage, in grief, in the specific Toreador madness that mistakes possession for preservation. He drained her in the studio surrounded by the ruined canvases and told her she was beautiful, she was art, she was his, and when she woke up three nights later she was twenty-one years old and she would be twenty-one years old forever and the woman who had painted her nails that morning in a kitchen on State Street would never see her daughter again.
 
-[Michael](/npcs/michael/) Payne was a bad sire the way a distracted parent is a bad parent — not cruel, just absent. Within a week he was back at war with [Sharon](/npcs/sharon-payne/). Sable was left in the Roselle house with a hunger she didn't understand and a set of powers nobody had explained.
+[Michael](/npcs/michael/) [Payne](/npcs/sharon-payne/) was a bad sire the way a distracted parent is a bad parent — not cruel, just absent. Within a week he was back at war with [Sharon](/npcs/sharon-payne/). Sable was left in the Roselle house with a hunger she didn't understand and a set of powers nobody had explained.
 
 She drove to Gary in the fall of 1989. She went because it was the place where nobody looked, where beauty washed up when Chicago spat it out, where a Toreador neonate with no education could disappear into the ruins of a city that had already disappeared.
 

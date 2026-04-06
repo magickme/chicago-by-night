@@ -50,7 +50,7 @@ Her mother's voice. Different this time. Tighter. Mrs. Henderson told her [Sable
 
 *Call me. Please.*
 
-The machine clicked and went steady and Sable stood in the dust and the turpentine ghost and did not call.
+The machine clicked and went steady and [Sable](/sable-price/) stood in the dust and the turpentine ghost and did not call.
 
 At [the Torch](/locations/the-torch/), [Allicia](/npcs/allicia/) was at the piano. Chopin. The nocturne in C-sharp minor, which is the one that sounds like it was written by someone who understood that the most precise expression of grief is restraint. Nobody in the bar was listening. Three men at the television. A couple in a booth. [Victor](/npcs/victor-salonika/) behind the bar, polishing the same glass he'd been polishing since 1938.
 

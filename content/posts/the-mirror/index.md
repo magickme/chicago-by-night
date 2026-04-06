@@ -116,7 +116,7 @@ She knew that car. She knew it the way her body knew the Robert Taylor stairwell
 
 One of those four heartbeats was his.
 
-Sable sat in the Buick with the heater pushing air against legs that couldn't feel warmth anymore and thought about a night two years ago when she was alive and working the VIP and Big Six sat in the front booth for four hours without ordering a drink, without speaking, without taking his eyes off her, and when she left through the service door at 3 AM his Lincoln was parked in the alley and his window was down and he said, "You need a ride home, Sable?" and the way he said her name made it sound like something he'd already written on a deed.
+[Sable](/sable-price/) sat in the Buick with the heater pushing air against legs that couldn't feel warmth anymore and thought about a night two years ago when she was alive and working the VIP and Big Six sat in the front booth for four hours without ordering a drink, without speaking, without taking his eyes off her, and when she left through the service door at 3 AM his Lincoln was parked in the alley and his window was down and he said, "You need a ride home, Sable?" and the way he said her name made it sound like something he'd already written on a deed.
 
 She was faster now. Stronger. She had teeth that could open his throat and a discipline that could make him worship her until she told him to stop. But her hands were shaking on the steering wheel, and the shaking had nothing to do with what she was and everything to do with what she had been, and the distance between those two things was not as wide as she wanted it to be.
 
@@ -128,7 +128,7 @@ She pulled away from the curb without headlights. Two blocks before she turned t
 
 Fifth Avenue. 2:15 AM.
 
-The studio was cold. The radiator took twenty minutes to warm. She sat against the wall beneath [Allicia](/npcs/allicia/)'s photograph and thought about tomorrow and didn't come to any conclusions because the conclusions required information she didn't have yet. What Allicia wanted. Whether Big Six came to The Oasis every night or just some nights. Whether the back room was safe enough to have a conversation that mattered.
+The studio was cold. The radiator took twenty minutes to warm. She sat against the wall beneath [Allicia](/npcs/allicia/)'s photograph and thought about tomorrow and didn't come to any conclusions because the conclusions required information she didn't have yet. What [Allicia](/npcs/allicia/) wanted. Whether Big Six came to The Oasis every night or just some nights. Whether the back room was safe enough to have a conversation that mattered.
 
 She'd go early. Before Big Six arrived, if he came at all. Get into the back room first. Control the space. And she'd bring something, though she wasn't sure what yet. A knife. A plan. [Williams](/npcs/williams/), if she could reach him.
 

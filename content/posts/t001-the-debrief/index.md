@@ -40,7 +40,7 @@ The boy's head tilted three degrees. A gesture Tomás had seen once before, in t
 
 "Yes. You did."
 
-Nicolai closed the book. Placed it on the side table with both hands, aligning the spine with the table's edge. "The Gary emissaries. [Modius](/npcs/modius/) doesn't send delegations. He sends messages, usually with teeth marks. Find out what they're really here for." He paused. "You have operational scope. Blood Walk the sample collection in the basement. Map the power structure. Bonds, lineage, debts. I want an order of battle for Chicago's court by the end of the month."
+[Nicolai](/npcs/nicolai/) closed the book. Placed it on the side table with both hands, aligning the spine with the table's edge. "The Gary emissaries. [Modius](/npcs/modius/) doesn't send delegations. He sends messages, usually with teeth marks. Find out what they're really here for." He paused. "You have operational scope. Blood Walk the sample collection in the basement. Map the power structure. Bonds, lineage, debts. I want an order of battle for Chicago's court by the end of the month."
 
 "Understood."
 
@@ -60,7 +60,7 @@ From the back hallway, the scratch of pencil on paper. [Drummond](/npcs/edgar/) 
 
 ---
 
-He found Brennon in the back corridor twenty minutes later. The Ventrue was checking camera feeds on a monitor tucked behind the office door, the screen casting blue-white light across his face. Tomás leaned against the doorframe and offered the first piece of currency: [Drummond](/npcs/edgar/)'s surveillance pattern. Back hallway to balcony, twelve-minute rotation, pocket notebook with columnar entries. The fat man was cataloguing traffic by affiliation and logging it somewhere outside the club.
+He found [Brennon](/npcs/brennon-thornhill/) in the back corridor twenty minutes later. The Ventrue was checking camera feeds on a monitor tucked behind the office door, the screen casting blue-white light across his face. Tomás leaned against the doorframe and offered the first piece of currency: [Drummond](/npcs/edgar/)'s surveillance pattern. Back hallway to balcony, twelve-minute rotation, pocket notebook with columnar entries. The fat man was cataloguing traffic by affiliation and logging it somewhere outside the club.
 
 Brennon listened without expression. Then he reciprocated, because that was how the economy worked between professionals.
 
@@ -70,7 +70,7 @@ Brennon slid a black card across the desk. Private line. "If you learn something
 
 "Likewise."
 
-Tomás was turning to leave when Brennon said, "Grace." He pointed to the monitor. Drummond was visible on camera three, his notebook open on the balcony railing. The image was sharp enough to read. Four columns. Four letters heading each column: A, B, P, S.
+Tomás was turning to leave when Brennon said, "Grace." He pointed to the monitor. [Drummond](/npcs/edgar/) was visible on camera three, his notebook open on the balcony railing. The image was sharp enough to read. Four columns. Four letters heading each column: A, B, P, S.
 
 [Annabelle](/npcs/annabelle-triabell/). [Ballard](/npcs/ballard/). [Portia](/npcs/portia/). [Sir Henry](/npcs/sir-henry-johnson/).
 

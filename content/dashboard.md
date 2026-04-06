@@ -17,8 +17,8 @@ menu:
 ## Coterie Snapshot
 
 - 1991-01-17 (Thursday, ~2 AM) — Darius at Starlite Motel, Room 9 (South Side). Sable at Allerton Hotel, Michigan Avenue, 3rd floor. Annabelle's Party COMPLETE (published adventure fully resolved). Drummond confessed to Primogen with ledger evidence — Ballard exposed. Coterie invisible in the operation. Ballard targeting Annabelle (Fate: Yes). Major Grace active: "A path opens" (Sable's entry into Chicago power structure). Walt Conditioning 5/14, blood-bonded Step 1 to Darius. Legal pad on Darius's person.
-- Scenes played: Darius 36, Sable 35, Tomás 1 (72 total + timeskip bluebook Aug-Nov + Dec timeskip). PCs met at Feb 2 Elysium. **COTERIE FORMED (S019, July 22).**
-- Scene-note inventory: Darius 34, Sable 35, Tomás 1 (70 total on disk; S034/S035 are joint scenes with D035/D036).
+- Scenes played: Darius 36, Sable 35, Tomás 2 (73 total + timeskip bluebook Aug-Nov + Dec timeskip). PCs met at Feb 2 Elysium. **COTERIE FORMED (S019, July 22).**
+- Scene-note inventory: Darius 34, Sable 35, Tomás 2 (71 total on disk; S034/S035 are joint scenes with D035/D036).
 - Sunset: 4:35 PM CST. Sunrise: 7:04 AM CST. Darkness: ~14.5 hours (mid-January).
 - Communications: Chicago protocol seeded. Tue/Fri 11 PM remains the default check-in window, using rotating nodes instead of a fixed haven line. If one node feels watched, move immediately to the next. Horace contact: The Cave, ask for Fred, "chess tournament."
 
@@ -72,24 +72,24 @@ menu:
 
 | Thread | Status |
 |---|---|
-| Modius's mission: deliver reply (2x) | DELIVERED. Letter given to Neally. Now under Ballard's assignment. |
-| Ashes to Ashes: find the Prince (2x) | COMPLETE (6/6). Lodin rescued. Roarke destroyed. Adventure resolved D031. |
-| Cover story under new scrutiny (2x) | OPEN. Warren Birch built for Gary. Chicago has 100 Kindred with Auspex. Critias now aware of coterie. |
-| Chuc Luc's expanded pipeline (2x) | OPEN. Sire operates from Chinatown. Capone's territory. Conflict of interest. |
-| Succubus Club politics (2x) | OPEN. Social center of Chicago Kindred. Every thread crosses here. |
-| Anarch unrest | OPEN. Gengis/Damien. Brewery. Reform vs revolution. Lodin's files mention Damien by name. |
-| Annabelle's manipulations | OPEN. She collects neonates smarter than their prince. |
+| Cover story under scrutiny (2x) | OPEN. Warren Birch built for Gary. Chicago has 100 Kindred with Auspex. Critias now aware. |
+| Chuc Luc's pipeline (2x) | OPEN. Sire operates from Chinatown. Capone's territory. Conflict of interest. |
+| Chicago court politics (2x) | OPEN. Succubus Club as nexus. Annabelle collects neonates. Lodin's return reshapes board. |
 | Blood Bond steps (2x) | ACTIVE. Darius Step 1 Menele (D031 frenzy). Lodin forced bond pending. Allicia carryover. |
+| Anarch unrest | OPEN. Gengis/Damien. Brewery. Reform vs revolution. Gengis intel channel open. |
+| Ballard's frame job (2x) | ADVANCING. Drummond testified with ledger. Ballard exposed. Walt counter-op in reserve. 48-hr counterattack window. |
+| Railroad leverage | NEW S035. Drummond's ledger maps unauthorized freight. Pipeline implications for Chuc Luc. |
+| Lodin's return (2x) | ACTIVE. Appeared Jan 16 (7-night absence). Damaged, furious. Major boon owed. Blood bond demand likely. Menele's body in cedar closet. |
 
 ### Sable
 
 | Thread | Weight | Status |
 |---|---|---|
-| Modius's mission: deliver reply | 2x | DELIVERED. Letter given to Neally. Under Ballard's assignment. |
-| Ashes to Ashes: find the Prince | 2x | COMPLETE (6/6). Lodin rescued D031. Roarke destroyed. |
-| Sharon Payne's vendetta | 3x | ESCALATED. Sharon is IN CHICAGO. Proxy chain: Halloran → Warwick → law firm. Sable entering her territory. |
-| Succubus Club politics | 2x | OPEN. Natural habitat for Toreador. Helena's basement. |
-| Annabelle's manipulations | 2x | ADVANCING. S034: Direct contact. Private haven number. Minor boon. Positioned as asset. Annabelle wants Sable's "eyes." Teaching reflex surfaced. |
+| Payne family threat | 3x | ESCALATED. Sharon IN CHICAGO (proxy: Halloran → Warwick → law firm). Michael absent — in Gary or Chicago? Blood bonded to Sharon. Mutual feud but mutual vengeance. |
+| Annabelle's patronage | 2x | ADVANCING. Private haven number. Minor boon. Positioned as asset. Wants Sable's Auspex. Teaching reflex. Ballard targeting her — coterie may need to defend ally. |
+| Succubus Club politics | 2x | OPEN. Natural habitat for Toreador. Helena's basement. Every thread crosses here. |
 | Blood Bond steps | 2x | ACTIVE. Darius Step 1 Menele. Lodin forced bond pending. Allicia carryover. |
-| Allicia bond-breaking (remote) | 2x | ACTIVE. Erichtho evaluation done. Carna path. Months in Milwaukee needed. Coordinate from Chicago. |
-| Michael Payne — absent sire | 2x | ESCALATED. Michael in Gary or Chicago? Sharon's ex-husband. |
+| Allicia bond-breaking (remote) | 2x | ACTIVE. Erichtho evaluation done. Carna path. Months in Milwaukee needed. |
+| Ballard's frame job | 2x | ADVANCING. Drummond testified with ledger. Ballard exposed. Walt in reserve. 48-hr counterattack. |
+| Lodin's return | 2x | ACTIVE. Appeared Jan 16. Damaged, furious, primed. Major boon owed. Blood bond demand likely. |
+| Denise Price — the mother | 1x | ESCALATED. In Chicago (Robert Taylor Homes). Thirty miles south. |

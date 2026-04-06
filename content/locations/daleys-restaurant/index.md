@@ -38,6 +38,6 @@ ShowToc: false
 
 ## Who Controls It
 
-- Ballard owns the building through a holding company. The restaurant manager is a ghoul who has run the front of house for twenty years and will run it for twenty more.
+- [Ballard](/npcs/ballard/) owns the building through a holding company. The restaurant manager is a ghoul who has run the front of house for twenty years and will run it for twenty more.
 - The mortal staff are professionals. They notice nothing because they are paid to notice nothing, and they are very good at their jobs.
 - Other Ventrue use the restaurant by invitation. The reservation book is a political document.

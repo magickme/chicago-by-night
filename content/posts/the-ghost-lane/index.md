@@ -67,7 +67,7 @@ Eight hundred dollars a month.
 
 That was the assumption. The bank would restructure the note if someone took over the payments. $800 a month. The check-cashing storefront cleared more than that on a decent week. For less than the rent on his apartment, [Darius](/darius-cole/) could assume the mortgage, make the Lakeside offer void, and control the building that fed every Kindred in Gary.
 
-He drove home. The west-side apartment. The kitchen table. The business card. The Polaroid. The napkin with Fisk's phone number. The mortgage folder. And underneath all of it, building itself in his head the way buildings build themselves in an Architect's blood, the blueprint: pay the mortgage, control Fisk, solve the auction without brokering, hand [Modius](/npcs/modius/) a victory the prince didn't earn, give [Lucian](/npcs/lucian/) the feeding rights from a position of ownership instead of negotiation, and thread the pipeline through a building that Darius functionally controlled on the waterfront side of Gary's economy.
+He drove home. The west-side apartment. The kitchen table. The business card. The Polaroid. The napkin with Fisk's phone number. The mortgage folder. And underneath all of it, building itself in his head the way buildings build themselves in an Architect's blood, the blueprint: pay the mortgage, control Fisk, solve the auction without brokering, hand [Modius](/npcs/modius/) a victory the prince didn't earn, give [Lucian](/npcs/lucian/) the feeding rights from a position of ownership instead of negotiation, and thread the pipeline through a building that [Darius](/darius-cole/) functionally controlled on the waterfront side of Gary's economy.
 
 $800 a month. The price of the whole board.
 

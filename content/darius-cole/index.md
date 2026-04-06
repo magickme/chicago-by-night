@@ -75,7 +75,7 @@ Go to Gary. Present yourself as the orphaned childe of Warren Birch — a fictio
 
 Get close to the docks. Find out how the money moves through [Lucian](/npcs/lucian/)'s smuggling operation. Build a pipeline for routing laundering through Gary's waterfront without the ancient Gangrel knowing who's behind it.
 
-Do not let [Modius](/npcs/modius/) know your real sire. Do not let anyone know Chuc Luc exists. Do not attract attention.
+Do not let [Modius](/npcs/modius/) know your real sire. Do not let anyone know [Chuc Luc](/npcs/chuc-luc/) exists. Do not attract attention.
 
 If you are caught, Chuc Luc will deny everything. Darius is expendable.
 

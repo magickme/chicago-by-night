@@ -38,7 +38,7 @@ The Kindred filled the doorway. Charcoal overcoat, dark hair swept back, eyes th
 
 [Lodin](/npcs/lodin/) stepped out. Not tall. Not physically imposing. A dark suit that fit like it was born on him and eyes that were old in a way that had nothing to do with the face. [Roarke](/npcs/roarke/)'s name as an accusation: one word.
 
-Roarke said: unauthorized Embrace. [Lodin](/npcs/lodin/)'s annoyance left his face like water off marble.
+[Roarke](/npcs/roarke/) said: unauthorized Embrace. [Lodin](/npcs/lodin/)'s annoyance left his face like water off marble.
 
 Good judgment, Roarke. Show him to the library.
 

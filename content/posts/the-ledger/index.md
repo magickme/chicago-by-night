@@ -36,7 +36,7 @@ He climbed the loading bay pallets and the drain pipe and rolled onto the tar pa
 
 The visitor arrived at 10:09. Appeared is the better word. One moment the loading bay was empty and the next there was a shape near the door that didn't catch the light right. It stood where the sodium should have hit it and the sodium slid off like oil on water. [Darius](/darius-cole/) could track it only by the way it blocked the background, a hole in the orange glow shaped like a man.
 
-They talked for two minutes. Ray's shoulders were up, his weight forward. The shape gestured once toward [Darius](/darius-cole/)'s warehouse. Then it turned and walked south toward the rail spur and Darius went after it.
+They talked for two minutes. Ray's shoulders were up, his weight forward. The shape gestured once toward [Darius](/darius-cole/)'s warehouse. Then it turned and walked south toward the rail spur and [Darius](/darius-cole/) went after it.
 
 Off the roof with the gym bag banging against his hip. Across the loading road at a run. Into the container alley where the sodium didn't reach and the corrugated walls turned every sound into something that could be footsteps or could be the lake wind or could be his own breathing bounced back at him.
 

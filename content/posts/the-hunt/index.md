@@ -64,7 +64,7 @@ The service door was propped open with a crate. [Allicia](/npcs/allicia/) was ou
 
 Then two taps on her own sternum. A point at [Sable](/sable-price/). A touch to her lips and a shake of her head. *I need to tell you something. I can't say it here.*
 
-Five fingers. Two miles east. She slipped back inside and the white dress vanished into the hallway and Sable was alone with the dumpster.
+Five fingers. Two miles east. She slipped back inside and the white dress vanished into the hallway and [Sable](/sable-price/) was alone with the dumpster.
 
 Miller Beach didn't look like Gary. Old trees, privacy fences, houses that belonged to people who remembered when the money was real. [Allicia](/npcs/allicia/)'s house was two stories behind a gate, and the front door was unlocked, and inside it smelled like dust and lemon polish and recording equipment. A grand piano in the living room better than the one at [The Torch](/locations/the-torch/). Photographs on the walls of Gary in the 1940s -- men at ribbon cuttings, women in furs, and [Allicia](/npcs/allicia/) in every frame, the same face, the same stillness, standing next to people who aged and died around her.
 
@@ -76,7 +76,7 @@ They went back and forth on the notepad in the dark living room with the clock t
 
 *She offered because she believes the bond is an obscenity.*
 
-Sable named the truth neither of them wanted to hear: it was a long shot, it was months away at minimum, and they weren't positioned for it. Allicia nodded the way someone nods who has waited fifty-two years and can wait longer because waiting is the only thing she's ever been allowed to be good at.
+Sable named the truth neither of them wanted to hear: it was a long shot, it was months away at minimum, and they weren't positioned for it. [Allicia](/npcs/allicia/) nodded the way someone nods who has waited fifty-two years and can wait longer because waiting is the only thing she's ever been allowed to be good at.
 
 *I am not asking you to save me tonight. I am asking you to know what I need so that when the moment comes you do not hesitate.*
 

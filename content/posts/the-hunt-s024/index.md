@@ -62,7 +62,7 @@ The blood was phlegmatic. Flat. Professional. It tasted like nothing -- tap wate
 
 Four points. She counted. She stopped. Licked the wound closed.
 
-Nisha slid off the stool. Sable caught her. Set her on the floor. Covered her with the afghan -- the one with the cigarette burn on the third panel, [Michael](/npcs/michael/)'s afghan, the last warm thing in a room full of unfinished paintings and unanswered calls.
+Nisha slid off the stool. [Sable](/sable-price/) caught her. Set her on the floor. Covered her with the afghan -- the one with the cigarette burn on the third panel, [Michael](/npcs/michael/)'s afghan, the last warm thing in a room full of unfinished paintings and unanswered calls.
 
 Blood: fourteen out of fourteen. Full.
 

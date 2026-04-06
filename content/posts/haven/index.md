@@ -46,7 +46,7 @@ She said his name and he stopped moving. Not because the name was a threat — b
 
 "Merchandise," he said. His voice was flat, uninflected, the voice of a man describing inventory. "Saturday inventory. Man owed money to the wrong people. They sold the debt. I collected."
 
-*They sold the debt.* [Sable](/sable-price/) filed the phrase the way she filed everything — quickly, silently, in the part of her mind that was always recording even when the rest of her was performing. Someone was selling human debts to [Williams](/npcs/williams/). Not collecting for the debtor — selling the debtor. Converting a financial obligation into a body on a table. There was a chain there, a structure, an economy that connected the loan sharks and the bookies and the street-level credit operations to [Williams](/npcs/williams/)'s church and Williams's folding tables and the Kindred who shopped there every Saturday night.
+*They sold the debt.* [Sable](/sable-price/) filed the phrase the way she filed everything — quickly, silently, in the part of her mind that was always recording even when the rest of her was performing. Someone was selling human debts to [Williams](/npcs/williams/). Not collecting for the debtor — selling the debtor. Converting a financial obligation into a body on a table. There was a chain there, a structure, an economy that connected the loan sharks and the bookies and the street-level credit operations to [Williams](/npcs/williams/)'s church and [Williams](/npcs/williams/)'s folding tables and the Kindred who shopped there every Saturday night.
 
 She filed it. She would understand it later.
 

@@ -84,7 +84,7 @@ The implication: the emissaries engineered the crisis to manufacture the boon.
 
 "None of them committed to anything. But none of them told [Ballard](/npcs/ballard/) to stop talking, either."
 
-Sable gave him [Lodin](/npcs/lodin/)'s silence -- five nights, no callback. Sir's assessment was immediate: "Five nights of silence from a Prince who just reclaimed his throne means either he's decided you're not worth the conversation, or the conversation has become complicated by something he didn't expect to find when he got home."
+[Sable](/sable-price/) gave him [Lodin](/npcs/lodin/)'s silence -- five nights, no callback. Sir's assessment was immediate: "Five nights of silence from a Prince who just reclaimed his throne means either he's decided you're not worth the conversation, or the conversation has become complicated by something he didn't expect to find when he got home."
 
 The deal formed naturally. Sir would make inquiries at the Drake through a concierge favor from the seventies. In return: the temperature of the room, after the audience.
 
@@ -108,7 +108,7 @@ Quiet for a block.
 
 "I trust that he's afraid of the silence. Same as us."
 
-The Starlite was dark except for the office. Sable dropped Darius at the lot. Taillights on wet asphalt, heading north.
+The Starlite was dark except for the office. Sable dropped [Darius](/darius-cole/) at the lot. Taillights on wet asphalt, heading north.
 
 Room 9. Deadbolt. The radiator clanked. The couple in Room 7 had moved on to silence, which was worse or better depending on how you measured.
 

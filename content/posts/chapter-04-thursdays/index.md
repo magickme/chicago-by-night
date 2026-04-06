@@ -48,7 +48,7 @@ At 10:47 PM the driver's door opened.
 
 The man who got out was tall. Long dark coat, the kind that covered a shoulder holster or a hip rig without showing the outline. Gloves — he wore gloves, and even from fifty yards [Darius](/darius-cole/) could see that the gloves weren't leather, they were cotton, the kind you wore when your hands had been burned badly enough that the scar tissue cracked in cold air.
 
-[Sullivan Dane](/npcs/sullivan-dane/). It had to be. Everything matched the fragments — [Modius](/npcs/modius/)'s whispered warnings, the profile Darius had assembled over months of listening at court: tall, British, ex-Jesuit, burn scars, always gloves. A man whose faith was a weapon. Six confirmed kills. Connected to the Inquisition. Patient.
+[Sullivan Dane](/npcs/sullivan-dane/). It had to be. Everything matched the fragments — [Modius](/npcs/modius/)'s whispered warnings, the profile [Darius](/darius-cole/) had assembled over months of listening at court: tall, British, ex-Jesuit, burn scars, always gloves. A man whose faith was a weapon. Six confirmed kills. Connected to the Inquisition. Patient.
 
 [Dane](/npcs/sullivan-dane/) walked the cemetery perimeter on the outside of the fence. He didn't enter. He moved with the unhurried precision of a man who had been doing this for weeks or months, who knew every headstone and fence post and sight line, who was not looking for anything new but confirming that nothing had changed. At the south gate he stopped, crouched, and studied the ground. Footprints. [Michael](/npcs/michael/)'s boots in the January mud — [Dane](/npcs/sullivan-dane/) was tracking [Michael](/npcs/michael/)'s schedule by the impressions he left at the gate.
 
@@ -84,7 +84,7 @@ Darius put the napkin in his pocket and bought a clock radio from [Marlene](/npc
 
 The feeding that night was ugly in the way that necessary things are ugly when you've waited too long to do them.
 
-Near the cemetery, after Dane left: a bar with no name and a Hamm's neon in the window. A man on the curb outside, drunk, on the payphone, telling someone he'd have the money in two weeks. Valid prey. The feeding restriction accepted him the way a lock accepts a key — the blood knew debt, knew desperation, knew the specific hormonal signature of a man who owed more than he would ever repay.
+Near the cemetery, after [Dane](/npcs/sullivan-dane/) left: a bar with no name and a Hamm's neon in the window. A man on the curb outside, drunk, on the payphone, telling someone he'd have the money in two weeks. Valid prey. The feeding restriction accepted him the way a lock accepts a key — the blood knew debt, knew desperation, knew the specific hormonal signature of a man who owed more than he would ever repay.
 
 Darius used Dominate to walk him into the alley. Took six points. Enough to hurt, not enough to kill. Cleaned the memory with Forgetful Mind. Left the man against the wall with a gap in his night he would fill with bourbon and bad luck.
 

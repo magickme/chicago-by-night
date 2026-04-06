@@ -40,7 +40,7 @@ At twenty past midnight they came out together. Stood by the Crown Vic talking. 
 
 [Darius](/darius-cole/) walked out of the alley.
 
-Twenty feet. Fifteen. His shoes on the asphalt. Gregory's head turning, the cigarette pausing, the recognition starting to build behind the eyes the way a wave builds before it breaks. The brow tightening. The jaw shifting. The hand moving toward the hip where the off-duty piece sat in its holster.
+Twenty feet. Fifteen. His shoes on the asphalt. [Gregory](/npcs/gregory-stephens/)'s head turning, the cigarette pausing, the recognition starting to build behind the eyes the way a wave builds before it breaks. The brow tightening. The jaw shifting. The hand moving toward the hip where the off-duty piece sat in its holster.
 
 Eight feet. [Darius](/darius-cole/) caught his eyes.
 
@@ -50,7 +50,7 @@ The word left his mouth and traveled the distance between them and landed in [Gr
 
 Gregory's hand froze. The cigarette dropped. His pupils swallowed his irises and his face went slack and he stood there in the parking lot of the Horseshoe at twenty minutes past midnight with his mouth open and his mind empty and his body waiting for instructions.
 
-Darius spoke low. Even. The voice [Chuc Luc](/npcs/chuc-luc/) had taught him in the cellar. Not loud. Inevitable.
+[Darius](/darius-cole/) spoke low. Even. The voice [Chuc Luc](/npcs/chuc-luc/) had taught him in the cellar. Not loud. Inevitable.
 
 "You never saw me at the docks. You don't remember my face. The investigation you've been running — the shipments, the questions, the dock workers — it's over. You're done with it. There's nothing there. You were wasting your time and you knew it. Let it go."
 

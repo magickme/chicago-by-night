@@ -68,7 +68,7 @@ Tremere. Blood magic left a watermark.
 
 She'd never seen one before. Not like this, not close enough to study. [Erichtho](/npcs/erichtho/) at the Baptism had been a name and a force, not a face she'd read. This was different. A young man at a bar with a filing system built into his soul, cataloguing [Brennon](/npcs/brennon-thornhill/)'s movements and the mezzanine occupants and the angles between the exits with the mechanical patience of someone who'd been trained to assess rooms in a building with a clearance level.
 
-She turned Auspex on Brennon. Nothing — the strobes and the crowd ate the read. She turned it on [Sir Henry](/npcs/sir-henry-johnson/), and something pushed back. Not him. The read itself went wrong, the colors folding inward to a flat mirror that threw her own perception at her — for half a second she was looking at herself from his angle, a woman at the rail with snow in her hair and eyes that glowed faintly in the strobe, and the image was beautiful and wrong and carried the particular nausea of seeing your own predatory aura from the outside.
+She turned Auspex on [Brennon](/npcs/brennon-thornhill/). Nothing — the strobes and the crowd ate the read. She turned it on [Sir Henry](/npcs/sir-henry-johnson/), and something pushed back. Not him. The read itself went wrong, the colors folding inward to a flat mirror that threw her own perception at her — for half a second she was looking at herself from his angle, a woman at the rail with snow in her hair and eyes that glowed faintly in the strobe, and the image was beautiful and wrong and carried the particular nausea of seeing your own predatory aura from the outside.
 
 She gripped the rail until it passed.
 
@@ -86,7 +86,7 @@ He knew about [Allicia](/npcs/allicia/). Every Toreador elder between Chicago an
 
 She asked what would happen if he lost her. *Theoretically.*
 
-"Gary without [Allicia](/npcs/allicia/) is Gary without Modius," [Sir Henry](/npcs/sir-henry-johnson/) said. "Not immediately — he'd rage first. But the infrastructure is gone. If you pull that pin, the whole thing comes apart inside a year."
+"Gary without [Allicia](/npcs/allicia/) is Gary without [Modius](/npcs/modius/)," [Sir Henry](/npcs/sir-henry-johnson/) said. "Not immediately — he'd rage first. But the infrastructure is gone. If you pull that pin, the whole thing comes apart inside a year."
 
 For the clan, he said, it would be a reckoning. Fifty-two years. Everyone knew. Nobody acted. If she were suddenly free, the question wasn't what happened to Modius. The question was what it said about every Toreador who watched for half a century and did nothing.
 
@@ -110,7 +110,7 @@ Two words. No clan, no city, no sire. She told him he had a positively magical a
 
 She raised an eyebrow. "Perhaps you're not the only one with a magical aura."
 
-He recalculated. She could see it happen — the moment where *she tried to manipulate me* got weighed against *she's telling me she tried,* and the second frame won. His hand came away from his jacket. He asked about Sir Henry. Handler? Patron?
+He recalculated. She could see it happen — the moment where *she tried to manipulate me* got weighed against *she's telling me she tried,* and the second frame won. His hand came away from his jacket. He asked about [Sir Henry](/npcs/sir-henry-johnson/). Handler? Patron?
 
 "An elder's an elder. You don't ignore them."
 

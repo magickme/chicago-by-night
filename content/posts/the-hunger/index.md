@@ -60,7 +60,7 @@ The mission was simple in the way that simple things are when a prince says them
 
 Van tires. Wide wheelbase. Fresh — four, five hours old. And next to them, two sets of footprints through the gate. One heavy, work boots, left heel dragging from years on a clutch pedal. One lighter, dress shoes, a man who didn't belong at a burned building in the wasteland.
 
-D-Train had come early. Before sunset, before Darius was even awake. He'd brought someone who went straight to the basement stairs and searched the rubble with bare hands, looking for something specific that the fire was supposed to have destroyed.
+D-Train had come early. Before sunset, before [Darius](/darius-cole/) was even awake. He'd brought someone who went straight to the basement stairs and searched the rubble with bare hands, looking for something specific that the fire was supposed to have destroyed.
 
 The receipt was in the gravel near the van's front tire. Amoco. Fifth and Grant. 6:47 PM. Eleven dollars and forty cents. Cash.
 

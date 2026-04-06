@@ -74,7 +74,7 @@ The Cutlass. [Telton Cemetery](/locations/telton-cemetery/). [Darius](/darius-co
 
 "You brought someone."
 
-The eye moved to Sable. Three seconds.
+The eye moved to [Sable](/sable-price/). Three seconds.
 
 "She's pretty. The pretty ones are always the most trouble."
 

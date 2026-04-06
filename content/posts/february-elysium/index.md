@@ -60,7 +60,7 @@ She knocked. Two soft knocks.
 
 The door opened three inches. One green eye. The hallway check, quick and practiced, the reflex of fifty years in someone else's house.
 
-Sable held out the wrapped gift. The shape was obvious through the paper. [Allicia](/npcs/allicia/) unwrapped it in the gap between door and frame. The snow globe caught the hallway light. A bird in a cage. Ornate metalwork. False snow settling over both.
+[Sable](/sable-price/) held out the wrapped gift. The shape was obvious through the paper. [Allicia](/npcs/allicia/) unwrapped it in the gap between door and frame. The snow globe caught the hallway light. A bird in a cage. Ornate metalwork. False snow settling over both.
 
 Her hand tightened on it. The green eye went wet, then hard, then somewhere Sable couldn't follow.
 
@@ -104,7 +104,7 @@ He was thinking about the woman at the piano.
 
 [Modius](/npcs/modius/)'s gaze found [Darius](/darius-cole/). "Mr. Birch. How good of you to join us again. I was beginning to worry."
 
-Light tone. Heavy freight. Every Kindred in the room heard the leash check. [Darius](/darius-cole/) met it with a nod. Low enough for respect. Spine straight enough for something else. He settled back in his chair with the unhurried ease of a man whose three weeks had been full, and [Modius](/npcs/modius/) held his gaze for two beats and moved on, because a prince who pushes a neonate in public over a missed court looks petty, and Modius had spent two centuries avoiding that.
+Light tone. Heavy freight. Every Kindred in the room heard the leash check. [Darius](/darius-cole/) met it with a nod. Low enough for respect. Spine straight enough for something else. He settled back in his chair with the unhurried ease of a man whose three weeks had been full, and [Modius](/npcs/modius/) held his gaze for two beats and moved on, because a prince who pushes a neonate in public over a missed court looks petty, and [Modius](/npcs/modius/) had spent two centuries avoiding that.
 
 "Some of you have not yet met our newest member of court. [Sable Price](/sable-price/), Toreador, recently of Chicago."
 
@@ -136,7 +136,7 @@ The elder turned the phrase over. "King of the Docks. I haven't heard that one."
 
 He turned his gaze back to the room. Conversation concluded. [Darius](/darius-cole/) walked away with exactly what he'd given: acknowledgment, and the understanding that next time he'd need to bring something heavier than a greeting.
 
-Modius was easier and more dangerous. Darius paid his respects. The prince adjusted his collar, the intimate proprietary gesture of a man touching his property, and gave him a nothing errand. Art supplies from a dealer in Hammond. Fetch and carry.
+Modius was easier and more dangerous. [Darius](/darius-cole/) paid his respects. The prince adjusted his collar, the intimate proprietary gesture of a man touching his property, and gave him a nothing errand. Art supplies from a dealer in Hammond. Fetch and carry.
 
 "Can I count on you?"
 
@@ -198,7 +198,7 @@ Court ended the way court ends. [Lucian](/npcs/lucian/) rose and the room's cent
 
 The foyer. Coats and cold air. Darius timed the intersection at the threshold, the casual bump, shoulder to shoulder.
 
-"Hey. I saw what happened there. Tension with Allicia already?"
+"Hey. I saw what happened there. Tension with [Allicia](/npcs/allicia/) already?"
 
 They were outside. Miller Beach in February, the lake breathing in the dark, the porch light throwing their shadows across the dead lawn. Sable's court voice dropped off her like a rented dress. What came up from underneath was South Side Chicago, the register she'd learned in the Robert Taylor Homes and refined at The Oasis and packed away every time she walked into a room full of white people who'd been dead longer than her family had been free.
 

@@ -60,7 +60,7 @@ The [Field Museum](/locations/field-museum/) at three in the morning was a Greek
 
 The man under the mastodon skeleton spoke with his back turned. Double-breasted suit. Wing tips that cost more than the Cutlass. He talked like a ruler — careful, imperious, each word placed. He asked about [Modius](/npcs/modius/) the way a chief of staff asks about a regional office.
 
-Darius gave him what the letter already said and nothing more. Five words for every twenty the man wanted. The sealed envelope changed hands.
+[Darius](/darius-cole/) gave him what the letter already said and nothing more. Five words for every twenty the man wanted. The sealed envelope changed hands.
 
 The man turned. The face was younger than the voice promised. Mid-thirties, clean-shaven, a well-fitted hairpiece. The generation pressure was wrong — eighth, not seventh. The difference between a hand on your chest and a hand on your throat. This was a lieutenant sitting in a chair that didn't belong to him, asking questions that a prince would already know the answers to.
 

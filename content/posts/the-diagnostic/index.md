@@ -80,7 +80,7 @@ The silence lasted four seconds. [Modius](/npcs/modius/) processed it the way he
 
 "Understood."
 
-The lamp hummed. The dismissal was in the air before it was in the gesture. Darius left through [Victor](/npcs/victor-salonika/), through the door, into December.
+The lamp hummed. The dismissal was in the air before it was in the gesture. [Darius](/darius-cole/) left through [Victor](/npcs/victor-salonika/), through the door, into December.
 
 He sat in the Cutlass and ran the ledger. An unauthorized Kindred in [Juggler](/npcs/juggler/)'s haven. A sloppy feed cleaned without cost. A Prince who appreciated the cleanup and expected the next delivery. A feeling near a van on Adams that he couldn't name and wouldn't forget, filed under the architecture that held everything except the six seconds when the architecture broke and the thing underneath said *go* and he listened.
 

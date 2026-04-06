@@ -33,11 +33,11 @@ They moved together through the Station Corridor — concrete, caged bulbs, fram
 
 Chicago in miniature. The entire rail and subway network in exact scale, filling a room sixty feet by forty. Tiny locomotives on tiny tracks through tiny neighborhoods. Streetlights that worked. Lake Michigan painted on the far wall. The trains were running. All of them. At midnight, alone, the trains ran because the man who built them couldn't sleep without the sound.
 
-The office door was ajar. Drummond's voice — high, wet, petulant — berating Emmett for the phone call, for the breach, for the insult to his sovereignty. They came in from both sides.
+The office door was ajar. [Drummond](/npcs/edgar/)'s voice — high, wet, petulant — berating Emmett for the phone call, for the breach, for the insult to his sovereignty. They came in from both sides.
 
-The predatory aura hit the room and Emmett's hand went to his gun and Drummond's nostrils flared and then Sable's Presence filled the space like a change in atmospheric pressure and everything stopped.
+The predatory aura hit the room and Emmett's hand went to his gun and Drummond's nostrils flared and then [Sable](/sable-price/)'s Presence filled the space like a change in atmospheric pressure and everything stopped.
 
-Darius took Emmett. One word, eye contact, the mortal folding like paper. Walked him out.
+[Darius](/darius-cole/) took Emmett. One word, eye contact, the mortal folding like paper. Walked him out.
 
 Sable sat on the edge of Drummond's desk. Close. Inside the radius of his fear.
 
@@ -69,9 +69,9 @@ Sable picked it up. Felt the weight of it. Set it back in his hands.
 
 "This is yours, Mr. Drummond. You walk in with your own evidence."
 
-They drove north in the rain. Drummond in the back seat, enormous, silent, the ledger in his lap. CNN on every frequency. The Succubus Club still lit. The emergency Primogen session still running on the third floor.
+They drove north in the rain. Drummond in the back seat, enormous, silent, the ledger in his lap. CNN on every frequency. The [Succubus Club](/locations/succubus-club/) still lit. The emergency Primogen session still running on the third floor.
 
-He walked inside under his own power. Up the stairs. Through the door. The room — [Lodin](/npcs/lodin/), [Annabelle](/npcs/annabelle-triabell/), [Critias](/critias/), [Nicolai](/nicolai/) — turned toward the doorway and saw a Ventrue elder with a ledger and two neonates behind him and Lodin's eyes landed on Darius and something crossed the Prince's face that was not surprise.
+He walked inside under his own power. Up the stairs. Through the door. The room — [Lodin](/npcs/lodin/), [Annabelle](/npcs/annabelle-triabell/), [Critias](/critias/), [Nicolai](/nicolai/) — turned toward the doorway and saw a Ventrue elder with a ledger and two neonates behind him and [Lodin](/npcs/lodin/)'s eyes landed on Darius and something crossed the Prince's face that was not surprise.
 
 "I was used, Your Highness. I was used, and I can prove it, and I know who did it."
 

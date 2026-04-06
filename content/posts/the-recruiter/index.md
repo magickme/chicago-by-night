@@ -64,13 +64,13 @@ Eight blocks. A tan brick walkup. The driver keyed the front door. Second-floor 
 
 The window was cracked. Smoker's habit. The fire escape ran right past it.
 
-Darius waited until the minder's footsteps faded on the next block. Then he crossed the street, pulled the counterweight ladder down hand over hand, and climbed. Iron grate cold through his soles. Through the gap: a studio apartment, television on low, the driver at a table with his back to the window.
+[Darius](/darius-cole/) waited until the minder's footsteps faded on the next block. Then he crossed the street, pulled the counterweight ladder down hand over hand, and climbed. Iron grate cold through his soles. Through the gap: a studio apartment, television on low, the driver at a table with his back to the window.
 
 The floorboard creaked.
 
 The driver turned. Darius was already there. Eye contact. The man's mouth opened and what came out of Darius was not a request.
 
-"You will not speak to Ballard about your memories. You will not return to Daley's. You will wait here until I come back."
+"You will not speak to [Ballard](/npcs/ballard/) about your memories. You will not return to Daley's. You will wait here until I come back."
 
 Five successes. The driver's eyes went flat, receptive. The commands sank like stones into water -- straight down, no splash. Darius watched the resistance collapse and something clicked: [Neally](/npcs/neally-edwards/) at the [Field Museum](/locations/field-museum/), wearing a dead man's suit because the system needed a body in the chair. The Camarilla made people into instruments. Darius understood the pressure points because he'd watched it happen, and now he was doing it, and he was good at it.
 

@@ -89,7 +89,7 @@ Automatic Interrupt: when you have no idea what happens next, skip CF roll and m
 
 ## THE SCALE
 
-Range: -10 to +10. Carries between scenes. Resets to 0 ONLY after triggering Major Trouble or Major Grace.
+Range: -8 to +8. Carries between scenes. Resets to 0 ONLY after triggering Major Trouble or Major Grace.
 The Scale interacts with every action roll the character takes (not soak or willpower rolls).
 ### Adding Points
 
@@ -102,14 +102,14 @@ On any action roll:
 
 | Condition | Result |
 |---|---|
-| Hits -10 | Major Trouble triggers. Roll Story Oracle (d10), then Trouble chart (d10). Reset to 0. |
-| Hits +10 | Major Grace triggers. Roll Story Oracle (d10), then Grace chart (d10). Reset to 0. |
+| Hits -8 | Major Trouble triggers. Roll Story Oracle (d10), then Trouble chart (d10). Reset to 0. |
+| Hits +8 | Major Grace triggers. Roll Story Oracle (d10), then Grace chart (d10). Reset to 0. |
 
 ### Burning the Scale
 
-If adding or subtracting 3+ points and those points will not drive the Scale to ±10, you may burn them instead.
-- Burn negative points: suffer Minor Trouble (roll Trouble chart).
-- Burn positive points: gain Minor Grace (roll Grace chart).
+If adding or subtracting 3+ points and those points will not drive the Scale to ±8, you may burn them instead.
+- Grace Burn (+3): Player chooses one — +1 die to next roll, free Discipline activation (if plausible), or +1 NPC disposition shift. Reset Scale to 0.
+- Trouble Burn (-3): GM chooses one — -1 die to next roll, Discipline complication, or -1 NPC disposition shift. Reset Scale to 0.
 - Must burn ALL points from that roll (cannot partial burn).
 - Offer burn concisely (one line, end of roll narration). If player doesn't address within their next message, bank automatically. Don't re-ask or interrupt narrative flow with repeated burn offers.
 
@@ -916,59 +916,42 @@ Use one headline at scene open to add mortal friction unrelated to the Jyhad. Th
 
 |Slot|Thread|Progress|
 |---|---|---|
-|1-2|Modius's mission: deliver reply (2x)|DELIVERED. Letter given to Neally. Now under Ballard's assignment.|
-|3-4|Ashes to Ashes: find the Prince (2x)|COMPLETE (6/6). Lodin rescued. Roarke destroyed. Adventure resolved D031.|
-|5-6|Cover story under new scrutiny (2x)|OPEN. Warren Birch built for Gary. Chicago has 100 Kindred with Auspex. Critias now aware of coterie.|
-|7-8|Chuc Luc's expanded pipeline (2x)|OPEN. Sire operates from Chinatown. Capone's territory. Conflict of interest.|
-|9-10|Succubus Club politics (2x)|OPEN. Social center of Chicago Kindred. Every thread crosses here.|
-|11|Anarch unrest|OPEN. Gengis/Damien. Brewery. Reform vs revolution. Lodin's files mention Damien by name.|
-|12|Annabelle's manipulations|OPEN. She collects neonates smarter than their prince.|
-|13-14|Blood Bond steps (2x)|ACTIVE. Darius Step 1 Menele (D031 frenzy). Lodin forced bond pending. Allicia carryover.|
-|15|Lodin's siring ban|OPEN. 18 years, no new Embraces. Lodin broke his own rule.|
-|16|Hunter convergence|OPEN. Shepard (FBI), Dane (may follow), Society of Leopold.|
-|17|Sabbat infiltration|LATENT. Rigaud and Wade embedded.|
-|18|The Methuselah War|HIDDEN but ACTIVE. Helena vs Menele. Darius bonded Step 1. Menele's body in Lodin's custody. Lodin fed Menele's blood via Roarke. Three Jyhad pieces active (Darius, Lodin, Critias).|
-|19|Tremere PC integration|LATENT. Third PC planned post-Act II.|
-|20-21|Lodin's return (2x)|ACTIVE. S034: Lodin appeared publicly at Annabelle's Party Jan 16 (first in 7 nights). Aura read: damaged, furious at someone absent, faint thread of long-term external influence. Major boon owed. Blood bond demand likely. Menele's body in his cedar closet.|
-|22|Belthazar vendetta|NEW. Staked by Damien on Wacker Drive (S030). Neon guarding. When unstaked → hunt.|
-|23|The torpored body|TRANSFERRED. Menele's body delivered to Lodin at Drake Hotel (D031). Cedar closet, 8th floor. Lodin recognized the pendant. "A key." Coterie no longer in possession. Lodin ordered: do not discuss, do not open trunk for anyone.|
-|24|Damien and Neon|NEW. Anarch allies (strained — Sable warned Belthazar). Rescued coterie. Debt owed.|
-|25-26|Ballard's frame job (2x)|ADVANCING. S035: Drummond delivered to Primogen with ledger evidence. Ballard exposed. Coterie invisible. Track 1 (Walt) in reserve. Ballard targeting Annabelle — 48-hr counterattack window.|
-|29|Railroad leverage|NEW S035. Drummond's ledger maps Ballard's unauthorized freight. Pipeline implications for Chuc Luc. Coterie has knowledge of the evidence even though Drummond holds the physical ledger.|
-|27|Gengis intel channel|OPEN. Brujah Anarch gave Ballard intel freely. Wants access to Camarilla table through coterie. No commitment made.|
-|28|Tremere breach|NEW. Unknown visitor (profile matches Tomás Navarro) found Walt's walkup Jan 10. Used Dominate, searched apartment, read legal pad, examined bite mark. Counter-op transparent to Tremere.|
+|1-2|Cover story under scrutiny (2x)|OPEN. Warren Birch built for Gary. Chicago has 100 Kindred with Auspex. Critias now aware.|
+|3-4|Chuc Luc's pipeline (2x)|OPEN. Sire operates from Chinatown. Capone's territory. Conflict of interest.|
+|5-6|Chicago court politics (2x)|OPEN. Succubus Club as nexus. Annabelle collects neonates. Lodin's return reshapes board.|
+|7-8|Blood Bond steps (2x)|ACTIVE. Darius Step 1 Menele (D031 frenzy). Lodin forced bond pending. Allicia carryover.|
+|9|Anarch unrest|OPEN. Gengis/Damien. Brewery. Reform vs revolution. Gengis intel channel open.|
+|10-11|Ballard's frame job (2x)|ADVANCING. Drummond testified with ledger. Ballard exposed. Walt counter-op in reserve. 48-hr counterattack window.|
+|12|Railroad leverage|NEW S035. Drummond's ledger maps unauthorized freight. Pipeline implications for Chuc Luc.|
+|13-14|Lodin's return (2x)|ACTIVE. Appeared Jan 16 (7-night absence). Damaged, furious. Major boon owed. Blood bond demand likely. Menele's body in cedar closet.|
+|15|Hunter pressure|OPEN. Dane 5/6 (active hunt, may follow to Chicago). Shepard (FBI, dormant). Society of Leopold (Chicago chapter).|
+|16|The Methuselah War|HIDDEN but ACTIVE. Helena vs Menele. Darius bonded Step 1. Three Jyhad pieces (Darius, Lodin, Critias).|
+|17|Sabbat infiltration|LATENT. Rigaud and Wade embedded. Activates Act III.|
+|18|Damien and Neon|Anarch allies (strained). Rescued coterie. Debt owed. Belthazar staked on Wacker — when unstaked, hunt.|
+|19|Tremere breach|NEW. Tomás found Walt's walkup Jan 10. Counter-op transparent to Tremere.|
+|20|Lodin's siring ban|OPEN. 18 years, no new Embraces. Lodin broke his own rule.|
 
 ### Sable Threads
 
 |Thread|Weight|Status|
 |---|---|---|
-|Modius's mission: deliver reply|2x|DELIVERED. Letter given to Neally. Under Ballard's assignment.|
-|Ashes to Ashes: find the Prince|2x|COMPLETE (6/6). Lodin rescued D031. Roarke destroyed.|
-|Sharon Payne's vendetta|3x|ESCALATED. Sharon is IN CHICAGO. Proxy chain: Halloran → Warwick → law firm. Sable entering her territory.|
-|Succubus Club politics|2x|OPEN. Natural habitat for Toreador. Helena's basement.|
-|Annabelle's manipulations|2x|ADVANCING. S034: Direct contact. Private haven number. Minor boon. Positioned as asset. Annabelle wants Sable's "eyes." Teaching reflex surfaced.|
+|Payne family threat|3x|ESCALATED. Sharon IN CHICAGO (proxy: Halloran → Warwick → law firm). Michael absent — in Gary or Chicago? Blood bonded to Sharon. Mutual feud but mutual vengeance.|
+|Annabelle's patronage|2x|ADVANCING. Private haven number. Minor boon. Positioned as asset. Wants Sable's Auspex. Teaching reflex. Ballard targeting her — coterie may need to defend ally.|
+|Succubus Club politics|2x|OPEN. Natural habitat for Toreador. Helena's basement. Every thread crosses here.|
 |Blood Bond steps|2x|ACTIVE. Darius Step 1 Menele. Lodin forced bond pending. Allicia carryover.|
-|Allicia bond-breaking (remote)|2x|ACTIVE. Erichtho evaluation done. Carna path. Months in Milwaukee needed. Coordinate from Chicago.|
-|Michael Payne — absent sire|2x|ESCALATED. Michael in Gary or Chicago? Sharon's ex-husband.|
-|Denise Price — the mother|1x|ESCALATED. Denise in Chicago (Robert Taylor Homes area). Thirty miles from wherever Sable ends up.|
-|Ghoul management (remote)|1x|ACTIVE. DeShawn, Pete at Kendrick's. Coop on call. Spoon home. Maintenance 3 BP/month. Distance = decay risk.|
-|Cover story under scrutiny|1x|OPEN. Sable's identity less fabricated than Darius's, but App 5 is memorable. Critias now aware of her Auspex 3.|
-|Anarch unrest|1x|OPEN. Gengis/Damien. Brewery. Lodin's files mention Damien by name.|
-|Who is Roarke?|1x|COMPLETE. Destroyed D031.|
-|Lodin's return|2x|ACTIVE. S034: Lodin appeared at Annabelle's Party Jan 16 — first public sighting in 7 nights. Aura read (Sable): damaged, furious at someone absent, primed. Chose this event to return.|
-|The torpored body|1x|TRANSFERRED. Menele's body with Lodin at Drake Hotel. No longer in coterie possession.|
-|Damien/Neon|1x|NEW. Anarch contact, strained by Sable's warning. Rescued coterie.|
-|Belthazar vendetta|1x|NEW. Staked on Wacker. Will wake. Will hunt.|
-|Hunter convergence|1x|ADVANCED. Standdown encountered + wiped. Shepard connected.|
-|Ballard's frame job|2x|ADVANCING. S035: Drummond delivered to Primogen with ledger. Ballard exposed. Coterie invisible. Track 1 (Walt) still in reserve. Ballard targeting Annabelle in 48-hr counterattack window. Coterie may need to defend ally.|
-|Drummond's gratitude|1x|NEW S035. Elder Ventrue owes Sable. Railroad access potential. Testified because Sable told him the truth.|
-|Railroad leverage|1x|NEW S035. Drummond's ledger maps Ballard's unauthorized freight through Chicago rail. Pipeline implications for Chuc Luc.|
-|Sir Henry alliance|1x|DEEPENED S034. Coached Sable at Annabelle's Party. Fully invested. +3 disposition.|
-|Modius's leash|2x|CLOSED (S033). Scene alteration. Modius turned inward. Silence, not forgiveness.|
-|Annabelle's Party|2x|COMPLETE (S034-S035). Published adventure fully resolved — all 4 scenes + Coda. Drummond confessed, testified with ledger. Ballard exposed at Primogen level. Coterie invisible.|
-|Tamoszius alliance|1x|NEW S034. Toreador elder, 90yr Ballard-watcher. Deal: info exchange, card given. Independent channel into Chicago Toreador intel.|
-|Tomás Navarro — Tremere contact|1x|First meeting S033 at Succubus Club. Operational potential. Analyst, not operator.|
-|Methuselah War|HIDDEN but ACTIVE|Helena vs Menele. Darius bonded Step 1 to Menele. Coterie = unwitting Menele proxies. Portia at Succubus Club.|
+|Allicia bond-breaking (remote)|2x|ACTIVE. Erichtho evaluation done. Carna path. Months in Milwaukee needed.|
+|Ballard's frame job|2x|ADVANCING. Drummond testified with ledger. Ballard exposed. Walt in reserve. 48-hr counterattack.|
+|Lodin's return|2x|ACTIVE. Appeared Jan 16. Damaged, furious, primed. Major boon owed. Blood bond demand likely.|
+|Denise Price — the mother|1x|ESCALATED. In Chicago (Robert Taylor Homes). Thirty miles south.|
+|Ghoul management (remote)|1x|ACTIVE. DeShawn, Pete at Kendrick's. Coop on call. Spoon home. 3 BP/month. Distance = decay risk.|
+|Cover story under scrutiny|1x|OPEN. App 5 memorable. Critias aware of Auspex 3.|
+|Anarch unrest|1x|OPEN. Gengis/Damien. Brewery. Damien staked Belthazar — when unstaked, hunt.|
+|Hunter pressure|1x|ADVANCED. Standdown encountered + wiped. Shepard (FBI) connected. Dane may follow.|
+|Drummond's gratitude + railroad|1x|NEW S035. Elder Ventrue owes Sable. Ledger maps Ballard's freight. Pipeline implications for Chuc Luc.|
+|Sir Henry alliance|1x|DEEPENED S034. Coaching Sable. Fully invested. +3 disposition.|
+|Tamoszius alliance|1x|NEW S034. 90yr Ballard-watcher. Info exchange deal. Independent Toreador intel channel.|
+|Tomás Navarro — Tremere contact|1x|Met S033. Operational potential. Analyst, not operator.|
+|Methuselah War|HIDDEN|Helena vs Menele. Coterie = unwitting Menele proxies. Portia at Succubus Club.|
 |Sabbat infiltration|LATENT|Activates Act III.|
 
 ### Shared Characters
@@ -1005,6 +988,7 @@ Use one headline at scene open to add mortal friction unrelated to the Jyhad. Th
 |33|Tamoszius|
 |34|Lucina (Milwaukee)|
 |35|Sophia Ayes|
+|36|Anonymous Elder / "Bus Stop" (Khalid in persona, unknown to Tomás)|
 
 ## Live Story Oracles
 

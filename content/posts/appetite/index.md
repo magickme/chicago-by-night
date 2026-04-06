@@ -106,7 +106,7 @@ She danced alone. Not performing. Not hunting. Moving in a room full of people w
 
 At last call she met [Nina](/npcs/nina/). A paralegal from a Loop firm who'd come from a birthday in Wicker Park and ended up at the [Succubus Club](/locations/succubus-club/) because someone told her the DJ was good. She talked with her hands and laughed before she finished her own jokes and smelled like cocoa butter and cab exhaust.
 
-Sable spent the blood. One point for warm skin and breathing and the flush that made the fiction hold. She got a room at the Allerton on Michigan Avenue -- her last forty dollars and a story about a lost key. Third floor, street-facing. She checked the curtains twice before [Nina](/npcs/nina/) noticed.
+[Sable](/sable-price/) spent the blood. One point for warm skin and breathing and the flush that made the fiction hold. She got a room at the Allerton on Michigan Avenue -- her last forty dollars and a story about a lost key. Third floor, street-facing. She checked the curtains twice before [Nina](/npcs/nina/) noticed.
 
 What happened in the room wasn't about power or hunger or the Kiss. It was slower than that and less precise and the sounds were different -- human sounds, awkward and honest, elbows and laughter and the moment where [Nina](/npcs/nina/) said *wait* and Sable waited, actually waited, because waiting was what a person did.
 

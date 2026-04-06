@@ -94,7 +94,7 @@ She walked to the Buick and didn't look back. Her heels on the cracked sidewalk 
 
 ---
 
-The parking garage on Madison had been dead for years. Three levels, the top two open to the sky, the ground level chained shut. Sable snapped the chain-link with one hand — the strength still surprised her, fourteen months later, the casual violence of a body that looked like porcelain and performed like a machine — and pulled the Buick into the basement where the ceiling was solid concrete and the earth was close and the sun could not reach.
+The parking garage on Madison had been dead for years. Three levels, the top two open to the sky, the ground level chained shut. [Sable](/sable-price/) snapped the chain-link with one hand — the strength still surprised her, fourteen months later, the casual violence of a body that looked like porcelain and performed like a machine — and pulled the Buick into the basement where the ceiling was solid concrete and the earth was close and the sun could not reach.
 
 She killed the engine. The dashboard clock said 4:17 AM. Dawn was two hours away.
 

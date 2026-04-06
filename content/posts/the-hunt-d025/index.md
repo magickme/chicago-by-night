@@ -38,7 +38,7 @@ His name was Dale Kessler. Thirty-eight. Divorced. One kid in Hammond he saw whe
 
 Dale talked because [Darius](/darius-cole/) listened. That was the technique and it was barely a technique. Just the discipline of keeping his mouth shut while a man who hadn't been heard in weeks said the things that had been building pressure. The unemployment office. The certified letter. The call to his ex-wife where he'd asked to borrow money and she'd said no in a voice that wasn't angry, just finished.
 
-[Darius](/darius-cole/) bought him a fourth beer. Didn't push. When Dale said "I don't even know why I'm telling you this," Darius said, "Because nobody else asked."
+[Darius](/darius-cole/) bought him a fourth beer. Didn't push. When Dale said "I don't even know why I'm telling you this," [Darius](/darius-cole/) said, "Because nobody else asked."
 
 *Because nobody else wanted what's in your throat.*
 

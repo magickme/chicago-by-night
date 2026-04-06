@@ -134,7 +134,7 @@ They moved together on the chaise. Hands on skin. Mouths on necks. The architect
 
 Nine.
 
-[Sable](/sable-price/) offered her neck, and Allicia took it — slow, deliberate, two mouthfuls, the bond between them tightening from cord to cable. Then [Sable](/sable-price/) bit Allicia's neck. Not because she was hungry. Because the symmetry demanded it. Because two Toreador in a room full of a dead man's paintings knew that the most beautiful thing in the world was not a painting but a circuit — blood moving between two bodies in a loop that was older than language and more honest than anything either of them would ever say.
+[Sable](/sable-price/) offered her neck, and [Allicia](/npcs/allicia/) took it — slow, deliberate, two mouthfuls, the bond between them tightening from cord to cable. Then [Sable](/sable-price/) bit Allicia's neck. Not because she was hungry. Because the symmetry demanded it. Because two Toreador in a room full of a dead man's paintings knew that the most beautiful thing in the world was not a painting but a circuit — blood moving between two bodies in a loop that was older than language and more honest than anything either of them would ever say.
 
 Allicia's blood tasted like old music. Like a chord held for fifty years in a dark room. Like the specific loneliness of a woman who had been owned so long she'd forgotten what her own name sounded like when someone said it with tenderness.
 
@@ -146,7 +146,7 @@ She drove Allicia back to the mansion at three. Two blocks out, killed the light
 
 The front door opened and closed.
 
-Sable drove to Kendrick's with the window down and the night air cooling on her skin and the taste of Allicia's blood fading on her tongue like a note held until it stopped being sound and became memory.
+[Sable](/sable-price/) drove to Kendrick's with the window down and the night air cooling on her skin and the taste of Allicia's blood fading on her tongue like a note held until it stopped being sound and became memory.
 
 DeShawn was awake. Pete was sleeping. The Buick was parked on Adams, two doors down. The roll-up door was chained.
 

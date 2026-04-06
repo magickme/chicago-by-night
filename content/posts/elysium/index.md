@@ -68,7 +68,7 @@ Four seconds. Then she sat down. Hands in her lap. Eyes on the floor.
 
 ---
 
-Nobody spoke to her after. The court emptied out around her the way a bar empties at closing time — gradually, without farewell, each departure a small act of self-preservation. [Modius](/npcs/modius/) retreated to his art studio. [Allicia](/npcs/allicia/) stayed at the piano. The Nosferatu with the gray eyes had been gone for an hour and Sable didn't know when he'd left because that was presumably the point.
+Nobody spoke to her after. The court emptied out around her the way a bar empties at closing time — gradually, without farewell, each departure a small act of self-preservation. [Modius](/npcs/modius/) retreated to his art studio. [Allicia](/npcs/allicia/) stayed at the piano. The Nosferatu with the gray eyes had been gone for an hour and [Sable](/sable-price/) didn't know when he'd left because that was presumably the point.
 
 She stood alone in the ballroom. The candles were guttering in their tarnished holders. One of the flower arrangements had shed petals onto the floor and nobody had picked them up. The string quartet's music stands were empty. The room smelled like old wax and dead flowers and the particular must of a building that had been beautiful once and was now just large.
 

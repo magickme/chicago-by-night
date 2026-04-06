@@ -94,7 +94,7 @@ The city was doing what Gary always did: producing evidence of something wrong a
 
 ---
 
-By June, [Darius](/darius-cole/) and Sable had what they had. Not a coterie. Not an alliance. Not a friendship. Something with no name that operated on the frequency between trust and surveillance, between care and calculation, between the woman who froze in a strip club and the man who watched her freeze, between the soldier who left for Chicago and the woman who recognized the shape of the cage.
+By June, [Darius](/darius-cole/) and [Sable](/sable-price/) had what they had. Not a coterie. Not an alliance. Not a friendship. Something with no name that operated on the frequency between trust and surveillance, between care and calculation, between the woman who froze in a strip club and the man who watched her freeze, between the soldier who left for Chicago and the woman who recognized the shape of the cage.
 
 They saw each other clearly. That was the problem. Two architects looking at each other's blueprints and finding the same load-bearing flaw: neither of them could be honest without being vulnerable, and being vulnerable in Gary was the kind of mistake that ended with your ashes in a dumpster behind [The Torch](/locations/the-torch/), next to the body of a boy who wouldn't stay dead.
 

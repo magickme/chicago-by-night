@@ -39,26 +39,6 @@ graph LR
 ```mermaid
 graph TD
     Coterie["Darius + Sable"]
-    Allicia["Allicia"]
-    Coterie -->|"5"| Allicia
-    SharonPayne["Sharon Payne"]
-    Coterie -->|"-4"| SharonPayne
-    SirHenryJohnson["Sir Henry Johnson"]
-    Coterie -->|"3"| SirHenryJohnson
-    Modius["Modius"]
-    Coterie -->|"3"| Modius
-    SullivanDane["Sullivan Dane"]
-    Coterie -->|"-3"| SullivanDane
-    Drummond["Drummond"]
-    Coterie -->|"3"| Drummond
-    Lodin["Lodin"]
-    Coterie -->|"2"| Lodin
-    AnnabelleTriabell["Annabelle Triabell"]
-    Coterie -->|"2"| AnnabelleTriabell
-    Gengis["Gengis"]
-    Coterie -->|"2"| Gengis
-    Lucian["Lucian"]
-    Coterie -->|"2"| Lucian
 ```
 
 ## Chicago Standing

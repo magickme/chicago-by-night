@@ -68,7 +68,7 @@ The shotgun didn't lower. But the man behind it was a teacher at heart, and nobo
 
 [Sable](/sable-price/) felt the front ward break. The house's protection shuddered and thinned. She scuffed the back salt line with her heel and went in.
 
-The hallway. Darius's voice from the kitchen, calm, measured, asking questions that fed a man's need to explain. How did you do it? What kind of spirit? When did you know it worked? The stained fingers moving over diagrams, the present tense when he said his son's name.
+The hallway. [Darius](/darius-cole/)'s voice from the kitchen, calm, measured, asking questions that fed a man's need to explain. How did you do it? What kind of spirit? When did you know it worked? The stained fingers moving over diagrams, the present tense when he said his son's name.
 
 Ryan's bedroom. She found the loose floorboard by touch. Worked her fingers into the gap and pried it up while a man with a shotgun lectured a vampire about stellar alignments in the next room.
 
@@ -110,7 +110,7 @@ He wasn't. He would be.
 
 They had operated as a unit. No agreement, no discussion, no handshake. Darius at the front table keeping a sorcerer talking while [Sable](/sable-price/) moved through the back of his house and stole the thing that held a monster in the world. The coterie that formed the way coteries actually form — not in a prince's ballroom with witnesses and protocol, but in a house on Pennsylvania Avenue at two in the morning when the only alternative was letting something terrible keep walking.
 
-Sable pulled the photograph from her pocket. [Allicia](/npcs/allicia/) at the piano. The obsessive intimacy of the angle.
+[Sable](/sable-price/) pulled the photograph from her pocket. [Allicia](/npcs/allicia/) at the piano. The obsessive intimacy of the angle.
 
 "We still need to tell her."
 

@@ -62,7 +62,7 @@ Not a compliment. An observation. A woman picking up a blade and testing the edg
 
 [Allicia](/npcs/allicia/) stopped. Her hand was on the table. Her fingers pressed into the velvet hard enough to leave marks.
 
-The bass pulsed. The lamp hummed. Ten seconds. Twenty. Sable didn't move. Didn't fill the silence. Didn't reach across the table. She just held the space open the way you hold a door for someone carrying something heavy, and waited to see if [Allicia](/npcs/allicia/) would walk through it.
+The bass pulsed. The lamp hummed. Ten seconds. Twenty. [Sable](/sable-price/) didn't move. Didn't fill the silence. Didn't reach across the table. She just held the space open the way you hold a door for someone carrying something heavy, and waited to see if [Allicia](/npcs/allicia/) would walk through it.
 
 She sat back down.
 
@@ -110,7 +110,7 @@ Fifth Avenue. Two in the morning. The studio was cold.
 
 Sable sat on the floor beneath the photograph and looked at the pointe shoes and thought about what [Allicia](/npcs/allicia/) had told her and what she'd told [Modius](/npcs/modius/) and the distance between those two things, which was the distance between what she knew and what she'd sold, which was the distance between the woman she was becoming and the woman she was supposed to be.
 
-Allicia was Blood Bound. Since 1941. Three drinks and the question of love becomes unanswerable. The Oasis taught Sable what that looked like from the outside: the regulars who came back every night, not because the drinks were good or the girls were beautiful but because the building had become the shape of their loneliness and they couldn't imagine fitting anywhere else. The Blood Bond was The Oasis with fangs. The cage was always the same shape. The bars just changed material.
+[Allicia](/npcs/allicia/) was Blood Bound. Since 1941. Three drinks and the question of love becomes unanswerable. The Oasis taught Sable what that looked like from the outside: the regulars who came back every night, not because the drinks were good or the girls were beautiful but because the building had become the shape of their loneliness and they couldn't imagine fitting anywhere else. The Blood Bond was The Oasis with fangs. The cage was always the same shape. The bars just changed material.
 
 [Modius](/npcs/modius/) would offer. Allicia said so. Whatever he calls it. A toast at court. A private drink in the drawing room. The intimacy of shared blood, which in Kindred culture was sex and communion and contract all at once, and Sable had been performing all three since she was seventeen and had never once let any of them be real.
 

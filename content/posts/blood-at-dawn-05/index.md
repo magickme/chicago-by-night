@@ -44,7 +44,7 @@ The mansion. [Victor](/npcs/victor-salonika/) at the door. [Modius](/npcs/modius
 
 [Modius](/npcs/modius/) listened to [Falcon](/npcs/raymond-falcon/)'s testimony for forty minutes. Five personalities, five versions, one truth. When it was over, the prince cleared [Falcon](/npcs/raymond-falcon/). The kill was protective, not criminal, and punishing a man for defending the Rack was beneath the dignity of the office.
 
-Then [Modius](/npcs/modius/) looked at Darius and smiled. Not the performance. Not the calculation. The smile of a man who asked for a tool and received an instrument.
+Then [Modius](/npcs/modius/) looked at [Darius](/darius-cole/) and smiled. Not the performance. Not the calculation. The smile of a man who asked for a tool and received an instrument.
 
 "You've done well tonight, Warren. Very well."
 
@@ -54,4 +54,4 @@ Darius drove home. The west-side apartment was dark. Two guns in his coat, one f
 
 He sat at the kitchen table. [Shepard](/npcs/william-shepard/)'s phone number from a dead detective's folder. [Shepard](/npcs/william-shepard/)'s business card from a broken musician's trumpet case. The Polaroid of the unknown man at Dock 7. Three pieces of a federal investigation that kept circling the same points: the docks, the boy, the alley, the mansion. The circles were getting smaller. Eventually they'd close.
 
-But that was tomorrow's problem. Tonight the prince smiled. Tonight Falcon was in custody. Tonight the clock sat at one and the architecture held and the game was the game, and for the first time since New Year's Eve, [Darius Cole](/darius-cole/) was winning it.
+But that was tomorrow's problem. Tonight the prince smiled. Tonight [Falcon](/npcs/raymond-falcon/) was in custody. Tonight the clock sat at one and the architecture held and the game was the game, and for the first time since New Year's Eve, [Darius Cole](/darius-cole/) was winning it.

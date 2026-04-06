@@ -221,6 +221,12 @@ Published scenes from **Chicago Chronicles** in chronological order.
 | 70 | [Annabelles Party](/posts/annabelles-party/) | Darius + Sable | Jan 16, 1991, 4:35 PM |
 | 71 | [The Rail Baron](/posts/the-rail-baron/) | Darius + Sable | Jan 17, 1991 |
 
+### Chapter 7 — The Owl
+
+| # | Scene | PC | Date |
+|---|---|---|---|
+| 72 | [The Railroad Eccentric](/posts/the-railroad-eccentric/) | Chronicle | Jan 17, 1991, 4:35 PM |
+
 ---
 
 ## Other Chronicles

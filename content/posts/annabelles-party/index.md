@@ -25,13 +25,13 @@ Somewhere in the crowd a woman with red hair held a champagne flute she'd never 
 
 [Sable](/sable-price/) turned into [Sir Henry](/npcs/sir-henry-johnson/)'s shoulder. His body blocked the sightline. [Sharon](/npcs/sharon-payne/)'s gaze swept the space where [Sable](/sable-price/) had been standing half a second earlier, passed over [Sir Henry](/npcs/sir-henry-johnson/)'s back, and continued toward the piano. She didn't stop.
 
-"Someone you know?" Sir Henry murmured.
+"Someone you know?" [Sir Henry](/npcs/sir-henry-johnson/) murmured.
 
 "Someone who knows my sire."
 
 He adjusted their trajectory without asking another question.
 
-The introduction was brief. Sir Henry brought her to the piano when [Critias](/npcs/critias/) stepped back. [Annabelle](/npcs/annabelle-triabell/) turned with the particular grace of someone who had been expecting you while appearing not to. Her gaze landed on Sable and stayed — Appearance 4 meeting Appearance 5, the elder's eyes doing the math.
+The introduction was brief. Sir Henry brought her to the piano when [Critias](/npcs/critias/) stepped back. [Annabelle](/npcs/annabelle-triabell/) turned with the particular grace of someone who had been expecting you while appearing not to. Her gaze landed on [Sable](/sable-price/) and stayed — Appearance 4 meeting Appearance 5, the elder's eyes doing the math.
 
 "Gary," [Annabelle](/npcs/annabelle-triabell/) said, tasting the word. "Sir tells me you have an interesting perspective on our mutual friend's recent hospitality."
 
@@ -39,9 +39,9 @@ Sable started to shape the hook — *I have the other half of the architecture* 
 
 Sire and childe saw each other across thirty feet and every Kindred felt it. [Sharon](/npcs/sharon-payne/)'s voice went flat and surgical. [Michael](/npcs/michael/) said something too quiet to catch. A champagne flute hit a table hard enough to crack the stem.
 
-Annabelle's jaw tightened. Her party was unraveling and she hadn't played a note.
+[Annabelle](/npcs/annabelle-triabell/)'s jaw tightened. Her party was unraveling and she hadn't played a note.
 
-Sharon left. Heels hitting marble. Cold perfume in a wake that passed eight feet from where Sable stood behind a column and she didn't look and she didn't stop and she was gone.
+[Sharon](/npcs/sharon-payne/) left. Heels hitting marble. Cold perfume in a wake that passed eight feet from where Sable stood behind a column and she didn't look and she didn't stop and she was gone.
 
 Sable tried the hook with Annabelle in the ninety seconds before the next disaster. It landed thin — one success against a woman with two hundred and seventy years of Subterfuge. "How generous," Annabelle said, and the compliment contained a ranking. But she gave the private number through Sir Henry and promised a conversation later in the week, and then the sculpture was unveiled.
 
@@ -51,7 +51,7 @@ Someone near the back laughed once.
 
 Two Milwaukee visitors flanked Sable's sightline. The silver-haired woman — [Lucina](/npcs/lucina/), Milwaukee's Toreador Primogen — watched with the quiet satisfaction of a collector watching an auction lot depreciate. Her companion, [Louis Detonas](/npcs/louis-detonas/), a sculptor with paint-stained fingers and two centuries of aristocratic contempt, looked away.
 
-Sable read [Lucina](/npcs/lucina/)'s aura from across the room. Three successes bought her the emotional topography: calculating pleasure over cold ambition over territorial satisfaction. Lucina had expected something to go wrong. She'd come from Milwaukee to take a measurement, and Annabelle was measuring small.
+Sable read [Lucina](/npcs/lucina/)'s aura from across the room. Three successes bought her the emotional topography: calculating pleasure over cold ambition over territorial satisfaction. [Lucina](/npcs/lucina/) had expected something to go wrong. She'd come from Milwaukee to take a measurement, and Annabelle was measuring small.
 
 Then the lights over the small stage dimmed and [Sophia Ayes](/sophia-ayes/) stepped onto the platform with Bret Stryker and the music started and what they did was not dancing.
 
@@ -81,7 +81,7 @@ She offered him the one thing nobody else in the room could provide: her hands o
 
 Different hands. A woman. Staff uniform. She placed the folio at 6:15 PM. She'd been paid. She was thinking about rent.
 
-Sable pulled her hand away. Forty seconds gone. She walked back to Tamoszius's empty table and told him what she'd seen. [Drummond](/npcs/edgar/). The railroad warehouse. Aimed by someone. The trail stopped at Drummond's hands.
+Sable pulled her hand away. Forty seconds gone. She walked back to Tamoszius's empty table and told him what she'd seen. [Drummond](/npcs/edgar/). The railroad warehouse. Aimed by someone. The trail stopped at [Drummond](/npcs/edgar/)'s hands.
 
 "That's the beauty of the man," Tamoszius said. "He never needs a Discipline when a compliment and a steak will do the job."
 

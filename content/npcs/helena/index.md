@@ -56,7 +56,7 @@ After three millennia of feeding on 4th-generation blood, [Prias](/npcs/prias/) 
 
 When Helena fell into torpor at Fort Dearborn, [Prias](/npcs/prias/) stopped feeding on her blood to ensure she had enough for healing. He began killing other Kindred and taking their blood instead. As he did, he felt the Blood Bond — a bond he never knew he had — slipping away. Amazed at having free will for the first time in two thousand years, he pledged never again to drink her blood.
 
-**Helena does not know her control of Prias has broken.** He still loves her. He does most of what she orders. But he is no longer bound. He is afraid his powers may leave him without her blood. He has begun to think about killing the woman who once gave his life meaning.
+**Helena does not know her control of [Prias](/npcs/prias/) has broken.** He still loves her. He does most of what she orders. But he is no longer bound. He is afraid his powers may leave him without her blood. He has begun to think about killing the woman who once gave his life meaning.
 
 ## Carthage and the Betrayal
 
@@ -88,7 +88,7 @@ Both Methuselahs fell into torpor. Prias carried Helena to a place of safety und
 
 ## The Sleeping War — Chicago
 
-Even in torpor, Helena used Auspex and Dominate to fight. She controlled soldiers in the fort, then settlers, then civilians as Chicago grew. When she discovered Menele had already begun work in the city and controlled the Prince, she found a new pawn — [Lodin](/npcs/lodin/). She caused Chicago's Malkavians to light the Great Fire of 1871, destroying many of Menele's pieces. [Lodin](/npcs/lodin/) defeated Prince [Maxwell](/npcs/maxwell/) and took praxis. Helena's puppet sat on Chicago's throne.
+Even in torpor, Helena used Auspex and Dominate to fight. She controlled soldiers in the fort, then settlers, then civilians as Chicago grew. When she discovered [Menele](/npcs/menele/) had already begun work in the city and controlled the Prince, she found a new pawn — [Lodin](/npcs/lodin/). She caused Chicago's Malkavians to light the Great Fire of 1871, destroying many of Menele's pieces. [Lodin](/npcs/lodin/) defeated Prince [Maxwell](/npcs/maxwell/) and took praxis. Helena's puppet sat on Chicago's throne.
 
 ## The [Succubus Club](/locations/succubus-club/)
 

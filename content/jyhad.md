@@ -211,9 +211,18 @@ The coterie pulls the stake. The Prince is returned to the board — but not the
 
 **Neutral / Contested:**
 - [Sable](/sable-price/) — not directly bonded but linked through Darius; investigation served Black's interests
-- Khalid (Nosferatu Primogen) — hidden; each side assumes the other controls him
+- [Tomas](/tomas-navarro/) (Tremere) — recruited by Khalid as off-books intelligence asset. Holds Portia identification + bond discrepancy data. Running parallel to Pyramid and Methuselah networks. Unaware of the Methuselah war.
+- Khalid (Nosferatu Primogen) — hidden; each side assumes the other controls him. Now actively recruiting independent assets. Has verified Helena's bond operation on the Sheriff.
 - [Erichtho](/npcs/erichtho/) (Tremere) — suspicious of Portia; could blow Helena's cover
 - The Sabbat — a third player not on this board
+
+### 35. Rb1 — Helena bonds the staked Sheriff (Jan 10-17, 1991)
+
+Helena (as [Portia](/npcs/portia/)) has been visiting [Balthazar](/npcs/balthazar/)'s staked body and feeding him her blood. The Sheriff's Toreador bond advanced from Step 1 to Step 2 in seven days. One more drink and the new bond overtakes [Lodin](/npcs/lodin/)'s three-step hold. Helena is rebuilding enforcement capacity — when Balthazar is unstaked, he wakes loyal to her instead of the Prince. A Brujah Sheriff is a weapon. Helena is repointing it.
+
+### 35... Na5 — Khalid recruits a Tremere counter-agent (T002)
+
+Khalid al-Rashid makes his first active move. He approaches [Tomas](/tomas-navarro/) via Obfuscate persona and commissions an off-books Blood Walk to verify Helena's bond operation. Khalid is building his own intelligence capability outside both Methuselahs' awareness. The knight on the rim — low on material, high on information.
 
 ### The Evaluation
 

@@ -62,7 +62,7 @@ He left a pamphlet under the windshield wiper of the Cutlass. Romans 6:23. *The 
 
 He didn't know what it meant. He didn't know that the man in the rented car had watched the pamphlet stay on the windshield all day through rain and a gust that should have taken it, because it was held there by something [Darius](/darius-cole/) couldn't see and couldn't feel and had no name for in any language he spoke. He didn't know that [Dane](/npcs/sullivan-dane/) had smiled when the pamphlet held, because holding meant [Darius](/darius-cole/) wasn't home during the day, and not being home during the day was the first answer to the first question.
 
-[Modius](/npcs/modius/) wanted more. The leash tightened the way fishing line tightens -- slowly, and then it's in the skin. Biweekly reports. Questions about the waterfront. Questions about the FBI file. Questions, finally, about where Darius slept. He gave [Modius](/npcs/modius/) most of it. The most of it that wasn't the truth.
+[Modius](/npcs/modius/) wanted more. The leash tightened the way fishing line tightens -- slowly, and then it's in the skin. Biweekly reports. Questions about the waterfront. Questions about the FBI file. Questions, finally, about where [Darius](/darius-cole/) slept. He gave [Modius](/npcs/modius/) most of it. The most of it that wasn't the truth.
 
 In September, [Sable](/sable-price/)'s mother left a message on the Fifth Avenue answering machine. [Sable](/sable-price/) listened to it at Kendrick's, alone, in the body that didn't breathe, with a phone pressed to an ear that heard the heartbeat in a voice from thirty miles and six years and one death away.
 

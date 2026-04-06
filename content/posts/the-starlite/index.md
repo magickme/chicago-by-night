@@ -27,7 +27,7 @@ Call night. [Sable](/sable-price/) at the Allerton, eleven miles northeast. [Lod
 
 And [Ballard](/npcs/ballard/). At Daley's or wherever [Ballard](/npcs/ballard/) went when he wasn't at Daley's, building something out of three Primogen dinners and a narrative that had the advantage of being almost true.
 
-The problem was structural. Darius worked it the way he worked everything — load-bearing walls first, then the thing you could see from the street.
+The problem was structural. [Darius](/darius-cole/) worked it the way he worked everything — load-bearing walls first, then the thing you could see from the street.
 
 Cui bono. Two neonates from Gary with no territory, no allies, no history. What was the motive? What was the gain? A week in a motel on the South Side and a Brujah they'd never met buying them drinks at a bar. Now turn it around. A century as the man standing next to the chair. Resources, retainers, institutional access. The disappearance handed him the regency. Three Primogen dinners in three nights. The narrative wasn't defense. It was an audition.
 
@@ -47,7 +47,7 @@ He gave it to her in pieces. The counter-narrative, the dual track, [Sir Henry](
 
 She listened. She asked the right questions.
 
-"The case to Lodin is the easier sell. But we need the map. Ballard's network. Who he's Dominated, who he's bought, who reports to him." She mentioned a Tremere she'd met at the club. Analytical mind, intelligence background, exactly the kind of skill set that could map an operation in half the time.
+"The case to [Lodin](/npcs/lodin/) is the easier sell. But we need the map. [Ballard](/npcs/ballard/)'s network. Who he's Dominated, who he's bought, who reports to him." She mentioned a Tremere she'd met at the club. Analytical mind, intelligence background, exactly the kind of skill set that could map an operation in half the time.
 
 "We're on our own," Darius said.
 
@@ -57,7 +57,7 @@ She listened. She asked the right questions.
 
 "I know how to talk to Toreador, Darius."
 
-They set the deadlines. Sir Henry at the salon. Lodin by Wednesday or they'd go to the Drake and not leave. The driver as insurance while the narrative did the real work.
+They set the deadlines. [Sir Henry](/npcs/sir-henry-johnson/) at the salon. Lodin by Wednesday or they'd go to the Drake and not leave. The driver as insurance while the narrative did the real work.
 
 The line clicked. Dial tone.
 
@@ -83,7 +83,7 @@ Darius stood very still and listened.
 
 Dark hair. Latino. Thirties. Neat. Not a cop but that kind of clean. He'd said one word — *still* — and Walt couldn't move. He'd examined the bite mark on Walt's neck like he was reading something printed there. He'd searched the apartment, found the legal pad, read all three pages. Put things back, but not exactly where they were. One question: *Who owns you?* Walt answered the truth. The Sheriff. Then the man said *sleep* and Walt slept and when he woke the window was latched and the apartment was empty.
 
-The profile landed against the description Sable had given him three hours ago on the payphone. Tremere. New to Chicago. Intelligence background. The kind of mind that takes things apart to see the wiring. [Tomas](/npcs/tomas/).
+The profile landed against the description [Sable](/sable-price/) had given him three hours ago on the payphone. Tremere. New to Chicago. Intelligence background. The kind of mind that takes things apart to see the wiring. [Tomas](/npcs/tomas/).
 
 The operation wasn't compromised. It was transparent. Someone had read his work, identified his method, confirmed his blood, and walked out with the complete picture. The Tremere were already running collection on the same target. Darius was three days behind a player he hadn't known was at the table.
 

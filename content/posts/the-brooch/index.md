@@ -40,12 +40,12 @@ The mansion. [Victor](/npcs/victor-salonika/) at the door. [Modius](/npcs/modius
 
 [Modius](/npcs/modius/) listened to [Falcon](/npcs/raymond-falcon/)'s testimony for forty minutes. Five personalities, five versions, one truth. When it was over, the prince cleared [Falcon](/npcs/raymond-falcon/) — the kill was protective, not criminal, and punishing a man for defending the Rack was the kind of pettiness [Modius](/npcs/modius/) had spent two centuries avoiding.
 
-Then [Modius](/npcs/modius/) looked at Darius and smiled. Not the Cavalier's performance. Not the Conniver's calculation. The smile of a man who asked for a tool and received an instrument.
+Then [Modius](/npcs/modius/) looked at [Darius](/darius-cole/) and smiled. Not the Cavalier's performance. Not the Conniver's calculation. The smile of a man who asked for a tool and received an instrument.
 
 "You've done well tonight, Warren. Very well."
 
 Darius drove home. The west-side apartment was dark. WP at two, blood at thirteen, the revolver from [Falcon](/npcs/raymond-falcon/)'s squat in his coat pocket next to his own .357. Two guns, one from a man with five selves and one from a man with two names, and the prince of a dying city had smiled at him and meant it, and the smile was worth more than the guns and the blood and the architecture combined, because in the Jyhad a prince's genuine respect was the rarest currency there was, and Darius had just earned his first real coin of it.
 
-He sat at the kitchen table. [Shepard](/npcs/william-shepard/)'s phone number from [Gregory](/npcs/gregory-stephens/)'s folder. [Shepard](/npcs/william-shepard/)'s business card from Falcon's trumpet case. The Polaroid of the unknown man at Dock 7. Three pieces of a federal investigation that kept circling the same points: the docks, the boy, the alley, the mansion. The circles were getting smaller. Eventually they'd close.
+He sat at the kitchen table. [Shepard](/npcs/william-shepard/)'s phone number from [Gregory](/npcs/gregory-stephens/)'s folder. [Shepard](/npcs/william-shepard/)'s business card from [Falcon](/npcs/raymond-falcon/)'s trumpet case. The Polaroid of the unknown man at Dock 7. Three pieces of a federal investigation that kept circling the same points: the docks, the boy, the alley, the mansion. The circles were getting smaller. Eventually they'd close.
 
 But that was tomorrow's problem. Tonight the prince smiled. Tonight Falcon was in custody. Tonight the Blood at Dawn clock sat at one out of six and the architecture held and the game was the game, and for the first time since New Year's Eve, [Darius Cole](/darius-cole/) was winning it.

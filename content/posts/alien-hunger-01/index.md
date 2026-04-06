@@ -94,6 +94,6 @@ I listened. The information got filed in the same cold place I'd been filing eve
 
 Outside the windows, somewhere past the city, the sky was starting to think about morning.
 
-I slept in a room in Edward Williams' house because there was no longer any version of the night where I drove home and went to bed.
+I slept in a room in [Edward](/npcs/sir-edward-scott/) [Williams](/npcs/williams/)' house because there was no longer any version of the night where I drove home and went to bed.
 
 In the morning -- if that's still the word for when I wake up, which is a question I'm choosing not to answer yet -- I would find out what a United National Bank safety deposit box contained and whether "Liverman" was a name that knew what [Jacob](/npcs/jacob-the-glitch/) Prestor had done to me.
