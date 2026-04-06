@@ -42,7 +42,7 @@ Dale talked because [Darius](/darius-cole/) listened. That was the technique and
 
 *Because nobody else wanted what's in your throat.*
 
-He walked Dale out. The parking lot was empty. Snow fell through the floodlight's cone and made the slush look almost clean. Dale's breath came in white clouds. Darius's didn't. Nobody noticed.
+He walked Dale out. The parking lot was empty. Snow fell through the floodlight's cone and made the slush look almost clean. Dale's breath came in white clouds. [Darius](/darius-cole/)'s didn't. Nobody noticed.
 
 Dale stopped at the Ford, digging for keys, and Darius put a hand on his shoulder and Dale turned and the Presence washed over him like warm water and his eyes went soft and the last thing he said before the Kiss was "Thanks for listening, man."
 

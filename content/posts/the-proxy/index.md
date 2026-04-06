@@ -50,7 +50,7 @@ The Dominate opened like a door.
 
 Conditioning didn't look like the movies. No spiraling eyes, no swinging watch. It looked like a conversation. It sounded like a meeting. The difference was invisible and absolute and it happened in the space between [Darius](/darius-cole/)'s words and Webb's comprehension, the space where language stopped being communication and became instruction, each sentence a wire threaded into the architecture of a man's will.
 
-Darius talked about Warren Birch. Not the fiction — the man. He built Birch in the air between them line by line, room by room. Birch's voice. Birch's manner. The handshake — firm, brief. The way Birch answered the phone. The way Birch sat in a meeting with an FBI agent and said *I'm sorry, I don't know what you're referring to* with the flatness of a man who had nothing to hide because he had never done anything worth hiding.
+[Darius](/darius-cole/) talked about Warren Birch. Not the fiction — the man. He built Birch in the air between them line by line, room by room. Birch's voice. Birch's manner. The handshake — firm, brief. The way Birch answered the phone. The way Birch sat in a meeting with an FBI agent and said *I'm sorry, I don't know what you're referring to* with the flatness of a man who had nothing to hide because he had never done anything worth hiding.
 
 Webb listened. His eyes didn't leave Darius's. He didn't blink for stretches that would have concerned a doctor. The quarterly reports sat untouched between them, the yellow stickies marking lines that would never be signed because the meeting they represented had never been real.
 

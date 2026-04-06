@@ -68,7 +68,7 @@ Five fingers. Two miles east. She slipped back inside and the white dress vanish
 
 Miller Beach didn't look like Gary. Old trees, privacy fences, houses that belonged to people who remembered when the money was real. [Allicia](/npcs/allicia/)'s house was two stories behind a gate, and the front door was unlocked, and inside it smelled like dust and lemon polish and recording equipment. A grand piano in the living room better than the one at [The Torch](/locations/the-torch/). Photographs on the walls of Gary in the 1940s -- men at ribbon cuttings, women in furs, and [Allicia](/npcs/allicia/) in every frame, the same face, the same stillness, standing next to people who aged and died around her.
 
-When [Allicia](/npcs/allicia/) arrived she locked the door -- deadbolt and chain, two more locks than she'd used on the way out. She crossed the room and took both of Sable's hands and held them hard, the way you hold onto something in rough water. Then she got a notepad and a pen with a light in the cap and wrote the words that changed the shape of the summer.
+When [Allicia](/npcs/allicia/) arrived she locked the door -- deadbolt and chain, two more locks than she'd used on the way out. She crossed the room and took both of [Sable](/sable-price/)'s hands and held them hard, the way you hold onto something in rough water. Then she got a notepad and a pen with a light in the cap and wrote the words that changed the shape of the summer.
 
 *He knows about the blood. Mine in you. He can taste it when he feeds on me. He asked who. I didn't answer. He will ask again.*
 
@@ -82,7 +82,7 @@ Sable named the truth neither of them wanted to hear: it was a long shot, it was
 
 She folded the pages into Sable's hand and closed her fingers around them. *Burn these.* Then she touched Sable's wrist one more time -- two fingers on the pulse point where there was no pulse -- and walked out the door without looking back.
 
-Sable drove to Kendrick's with the folded pages in her jacket pocket and the taste of Dale's blood still in her teeth and the knowledge of what Allicia needed sitting in her chest where the blood sat, warm and heavy and not enough.
+Sable drove to Kendrick's with the folded pages in her jacket pocket and the taste of Dale's blood still in her teeth and the knowledge of what [Allicia](/npcs/allicia/) needed sitting in her chest where the blood sat, warm and heavy and not enough.
 
 She burned the pages in an empty Quaker State can behind the garage. The pen-light paper curled and the words went -- *the bond*, *every night*, *a tourniquet* -- and the smoke smelled like nothing because there was nothing on those pages anyone would ever read again.
 

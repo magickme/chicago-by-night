@@ -38,7 +38,7 @@ The stack of pallets was invisible in the shadow. He caught it with his shin. Th
 
 The detective saw a Black man in a dark coat. Calm face. No weapon visible. Not running, not hiding, just standing there like he had a reason to be in this particular shadow at this particular moment.
 
-Darius could have used a word. One word and [Gregory](/npcs/gregory-stephens/) would have done anything — slept, frozen, walked into the lake. The power was right there, sitting behind his teeth, waiting.
+[Darius](/darius-cole/) could have used a word. One word and [Gregory](/npcs/gregory-stephens/) would have done anything — slept, frozen, walked into the lake. The power was right there, sitting behind his teeth, waiting.
 
 He didn't use it.
 

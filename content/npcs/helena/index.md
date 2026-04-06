@@ -60,7 +60,7 @@ When Helena fell into torpor at Fort Dearborn, [Prias](/npcs/prias/) stopped fee
 
 ## Carthage and the Betrayal
 
-Helena and Prias reached Carthage just as the Brujah were raising it to its greatest glory. At first they fought for Carthage. Then they saw who the winners would be. They fled to Rome and gave the Ventrue the intelligence they needed to destroy the city. In exchange, Helena received the fief of Pompeii.
+Helena and [Prias](/npcs/prias/) reached Carthage just as the Brujah were raising it to its greatest glory. At first they fought for Carthage. Then they saw who the winners would be. They fled to Rome and gave the Ventrue the intelligence they needed to destroy the city. In exchange, Helena received the fief of Pompeii.
 
 [Menele](/npcs/menele/) discovered the betrayal and swore vengeance. He tracked her to Pompeii and summoned a spirit of fire. The eruption buried the city. Helena survived through Prias's aid. They fled to Egypt.
 
@@ -88,7 +88,7 @@ Both Methuselahs fell into torpor. Prias carried Helena to a place of safety und
 
 ## The Sleeping War — Chicago
 
-Even in torpor, Helena used Auspex and Dominate to fight. She controlled soldiers in the fort, then settlers, then civilians as Chicago grew. When she discovered [Menele](/npcs/menele/) had already begun work in the city and controlled the Prince, she found a new pawn — [Lodin](/npcs/lodin/). She caused Chicago's Malkavians to light the Great Fire of 1871, destroying many of Menele's pieces. [Lodin](/npcs/lodin/) defeated Prince [Maxwell](/npcs/maxwell/) and took praxis. Helena's puppet sat on Chicago's throne.
+Even in torpor, Helena used Auspex and Dominate to fight. She controlled soldiers in the fort, then settlers, then civilians as Chicago grew. When she discovered [Menele](/npcs/menele/) had already begun work in the city and controlled the Prince, she found a new pawn — [Lodin](/npcs/lodin/). She caused Chicago's Malkavians to light the Great Fire of 1871, destroying many of [Menele](/npcs/menele/)'s pieces. [Lodin](/npcs/lodin/) defeated Prince [Maxwell](/npcs/maxwell/) and took praxis. Helena's puppet sat on Chicago's throne.
 
 ## The [Succubus Club](/locations/succubus-club/)
 

@@ -43,7 +43,7 @@ graph TD
 
 ## Chicago Standing
 
-- Court 1/5 (Known): Arriving as Modius's emissaries with letters. Status comes from purpose, not trust
-- Society 1/5 (Known): Sir Henry referral gives them one soft entry point into Toreador / Succubus space
+- Court 2/5 (Recognized): Critias +2 (faculty club invitation). Brennon +1 (office line). Annabelle +3 (property warning). Wednesday session = next formal step.
+- Society 2/5 (Established): Succubus Club explored including Labyrinth. Brennon met. Falcon boon. Sir Henry +3. Toreador social infrastructure mapped.
 - Underworld 0/5 (Unknown): No standing yet with Capone, Chuc Luc's Chicago operators, or the city's criminal brokers
-- Street 0/5 (Unknown): No established footing yet with Anarchs, Brewery traffic, or district-level crews
+- Street 1/5 (Emerging): Gengis +1 (Brewery confirmed Thursdays). Maldavis +1 (shared intel, task accepted). Anarch channel open.

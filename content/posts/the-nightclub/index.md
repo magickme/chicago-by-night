@@ -94,7 +94,7 @@ They shook on it -- not a handshake, something more natural. Two Toreadors who u
 
 ---
 
-Past midnight. The Buick heading south on State Street. Sable at the wheel.
+Past midnight. The Buick heading south on State Street. [Sable](/sable-price/) at the wheel.
 
 "Sir's making inquiries at the Drake. We'll hear tomorrow night."
 

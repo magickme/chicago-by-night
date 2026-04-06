@@ -42,7 +42,7 @@ Off the roof with the gym bag banging against his hip. Across the loading road a
 
 He chased a sound into a dead end. Two containers stacked flush against a third, forming a box of rust. Nobody there. The gravel undisturbed. And in the still air of that dead corridor, a smell that didn't belong on a loading dock: old leather and dust, faint and wrong, like opening a room that had been sealed for years.
 
-Darius racked the Remington. Let the sound carry. Backed out of the dead end one step at a time with the shotgun at low ready and his shoulder against the wall. Nothing followed him.
+[Darius](/darius-cole/) racked the Remington. Let the sound carry. Backed out of the dead end one step at a time with the shotgun at low ready and his shoulder against the wall. Nothing followed him.
 
 He called Ray from the union hall payphone. The message was short: the visitor wanted to meet directly. Tuesday. "Not his enemy."
 

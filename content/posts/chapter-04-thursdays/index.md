@@ -54,7 +54,7 @@ The man who got out was tall. Long dark coat, the kind that covered a shoulder h
 
 He took out a notebook. Wrote something. Put the notebook away.
 
-Then he walked back to the Buick, and as he opened the driver's door his coat swung open and Darius saw two things.
+Then he walked back to the Buick, and as he opened the driver's door his coat swung open and [Darius](/darius-cole/) saw two things.
 
 The first was a wooden stake in a belt holster, positioned for a cross-draw. Not a gun. A stake. [Dane](/npcs/sullivan-dane/) carried it the way Darius carried his pistol — always there, practiced angle, muscle memory in the draw. But [Dane](/npcs/sullivan-dane/)'s weapon was a tool, not a prop. [Dane](/npcs/sullivan-dane/) had used his. Six times that anyone knew about.
 

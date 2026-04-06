@@ -108,7 +108,7 @@ At last call she met [Nina](/npcs/nina/). A paralegal from a Loop firm who'd com
 
 [Sable](/sable-price/) spent the blood. One point for warm skin and breathing and the flush that made the fiction hold. She got a room at the Allerton on Michigan Avenue -- her last forty dollars and a story about a lost key. Third floor, street-facing. She checked the curtains twice before [Nina](/npcs/nina/) noticed.
 
-What happened in the room wasn't about power or hunger or the Kiss. It was slower than that and less precise and the sounds were different -- human sounds, awkward and honest, elbows and laughter and the moment where [Nina](/npcs/nina/) said *wait* and Sable waited, actually waited, because waiting was what a person did.
+What happened in the room wasn't about power or hunger or the Kiss. It was slower than that and less precise and the sounds were different -- human sounds, awkward and honest, elbows and laughter and the moment where [Nina](/npcs/nina/) said *wait* and [Sable](/sable-price/) waited, actually waited, because waiting was what a person did.
 
 At six-fifteen [Nina](/npcs/nina/) was asleep and sunrise was fifty-one minutes away.
 

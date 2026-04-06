@@ -76,7 +76,7 @@ She opened her wrist. He crossed the three feet and drank. Fifteen seconds. The 
 
 "Janelle's got a Christmas thing Friday," he said when she pulled back. "Choir. She's got a solo. 'Silent Night.'"
 
-"That's nice," Sable said.
+"That's nice," [Sable](/sable-price/) said.
 
 It was nice. A nine-year-old singing in a gymnasium that smelled like floor wax while her father sat in a folding chair and believed every word. It was the kind of nice that existed in a world Sable could see from a great distance, the way you see a lit window from the far side of a parking lot in December. Close enough to describe. Too far to feel.
 

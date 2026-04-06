@@ -52,7 +52,7 @@ The man was leaning against the side of Ebenezer Baptist Church — not praying,
 
 The man looked at the twenty the way a dog looks at a hand that might hit or might feed. Then he took it. Then [Darius](/darius-cole/) was close enough, and the alley beside the church was dark enough, and the man's blood was *singing* — all that cortisol and shame and the specific flavor of a debt that would never be repaid — and [Darius](/darius-cole/) fed.
 
-It was clean. Quick. The man would wake up against the church wall with a headache he'd blame on the bourbon and a twenty-dollar bill in his pocket he wouldn't remember receiving. Darius leaned back against the brick and let the blood settle in him. Warm. Alive. The best he'd felt all night.
+It was clean. Quick. The man would wake up against the church wall with a headache he'd blame on the bourbon and a twenty-dollar bill in his pocket he wouldn't remember receiving. [Darius](/darius-cole/) leaned back against the brick and let the blood settle in him. Warm. Alive. The best he'd felt all night.
 
 The man was mumbling as he faded. Half-conscious, the way they always were in the last few seconds — the mind dropping its filters, the mouth saying what the sober brain would never permit.
 

@@ -227,6 +227,12 @@ Published scenes from **Chicago Chronicles** in chronological order.
 |---|---|---|---|
 | 72 | [The Railroad Eccentric](/posts/the-railroad-eccentric/) | Chronicle | Jan 17, 1991, 4:35 PM |
 
+### Chapter 8 — The Labyrinth
+
+| # | Scene | PC | Date |
+|---|---|---|---|
+| 73 | [An Unexpected Meeting](/posts/an-unexpected-meeting/) | Darius | Jan 18, 1991, 4:35 PM |
+
 ---
 
 ## Other Chronicles

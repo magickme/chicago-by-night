@@ -56,7 +56,7 @@ At [the Torch](/locations/the-torch/), [Allicia](/npcs/allicia/) was at the pian
 
 [Allicia](/npcs/allicia/) looked wrong. The face was the same (Toreador, eighth generation, the architecture of the bone structure doesn't negotiate with entropy) but the skin was tighter, the wrists narrower, the black dress hanging where it used to fit. She was disappearing. Not dramatically. Not romantically. The way a photograph fades when you leave it in a window -- slowly, irreversibly, and without anyone noticing until the image is almost gone.
 
-Sable read her aura from the end of the bar and the colors confirmed what the dress already said. The old bond -- fifty-two years of violet -- had gone the shade of a bruise that refuses to heal. Depression lay over everything like silt. The rose thread (Sable's blood, Sable's bond, the newer and thinner connection) brightened when she walked in, pulling through the smoke toward its other half. The gold was almost gone. A fleck. A memory of hope that hadn't been fed in five months.
+[Sable](/sable-price/) read her aura from the end of the bar and the colors confirmed what the dress already said. The old bond -- fifty-two years of violet -- had gone the shade of a bruise that refuses to heal. Depression lay over everything like silt. The rose thread (Sable's blood, Sable's bond, the newer and thinner connection) brightened when she walked in, pulling through the smoke toward its other half. The gold was almost gone. A fleck. A memory of hope that hadn't been fed in five months.
 
 They talked under the Satie. Carefully. The way you handle something that might break if you set it down too fast. [Allicia](/npcs/allicia/)'s hours. [Modius](/npcs/modius/)'s calls. Milwaukee. The name she recognized from 1971.
 

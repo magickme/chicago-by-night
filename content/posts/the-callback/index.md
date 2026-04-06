@@ -36,7 +36,7 @@ The question landed in the bar noise like a coin in a jukebox. [Victor](/npcs/vi
 
 "Never heard of him."
 
-[Victor](/npcs/victor-salonika/) held the look. [Darius](/darius-cole/) held it back. The lie was simple and clean and [Victor](/npcs/victor-salonika/) filed it and nodded and went back to work, and the best briefing [Darius](/darius-cole/) could have given was the one he didn't give. What [Victor](/npcs/victor-salonika/) didn't know, Victor couldn't say. What Victor couldn't say, [Shepard](/npcs/william-shepard/) couldn't pull out of him with a subpoena. Ignorance was the only armor that couldn't be beaten by a federal judge.
+[Victor](/npcs/victor-salonika/) held the look. [Darius](/darius-cole/) held it back. The lie was simple and clean and [Victor](/npcs/victor-salonika/) filed it and nodded and went back to work, and the best briefing [Darius](/darius-cole/) could have given was the one he didn't give. What [Victor](/npcs/victor-salonika/) didn't know, [Victor](/npcs/victor-salonika/) couldn't say. What Victor couldn't say, [Shepard](/npcs/william-shepard/) couldn't pull out of him with a subpoena. Ignorance was the only armor that couldn't be beaten by a federal judge.
 
 Broadway south to Fifth. The laundromat closed since '88. The payphone outside with a receiver that smelled like rain and cigarettes and the particular neglect of a phone company that services dead neighborhoods. Quarters in the slot. The Argyle Street number from memory.
 
@@ -90,7 +90,7 @@ Click. Dial tone. Broadway.
 
 He drove west. Found a bar with no name on a street where the streetlights alternated between working and dead. The man at the end of the bar was mid-forties, steel-toed boots, a wedding ring he kept turning on a finger that had gotten thinner since the ring was sized. Alimony. The tan line where a second ring used to be. A wallet he counted before ordering.
 
-The alley. The Kiss. Three pulls. The man slid down the brick wall breathing shallow, and the blood was warm and rich with the particular chemistry of a body running on cortisol and cheap beer and the mathematics of a life that cost more than it paid. Darius wiped his mouth and walked to the Cutlass and drove home.
+The alley. The Kiss. Three pulls. The man slid down the brick wall breathing shallow, and the blood was warm and rich with the particular chemistry of a body running on cortisol and cheap beer and the mathematics of a life that cost more than it paid. [Darius](/darius-cole/) wiped his mouth and walked to the Cutlass and drove home.
 
 The apartment. The door. The lock. He sat on the edge of the bed in the dark and listened to the west side through the walls — a siren, a dog, the bass line from somebody's stereo — and thought about Marcus Webb.
 

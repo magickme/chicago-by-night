@@ -46,4 +46,4 @@ A pause -- the kind where someone is choosing between several available response
 
 Her Highness gladly extends such permission to her very welcome guest. One stipulation. Please do not feed in the theatre district.
 
-[Roarke](/npcs/roarke/) hung up. Briefed the others. They ate and showered and slept because that was the job -- rest when you can, because you can't choose when you can't. Roarke set the alarm for five.
+[Roarke](/npcs/roarke/) hung up. Briefed the others. They ate and showered and slept because that was the job -- rest when you can, because you can't choose when you can't. [Roarke](/npcs/roarke/) set the alarm for five.

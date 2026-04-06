@@ -46,7 +46,7 @@ The boy's head tilted three degrees. A gesture Tomás had seen once before, in t
 
 "The middle vial in the case I left you. Start with that one."
 
-Tomás waited for dismissal. Nicolai picked up the Thucydides and resumed reading. That was the dismissal.
+Tomás waited for dismissal. [Nicolai](/npcs/nicolai/) picked up the Thucydides and resumed reading. That was the dismissal.
 
 ---
 
@@ -62,7 +62,7 @@ From the back hallway, the scratch of pencil on paper. [Drummond](/npcs/edgar/) 
 
 He found [Brennon](/npcs/brennon-thornhill/) in the back corridor twenty minutes later. The Ventrue was checking camera feeds on a monitor tucked behind the office door, the screen casting blue-white light across his face. Tomás leaned against the doorframe and offered the first piece of currency: [Drummond](/npcs/edgar/)'s surveillance pattern. Back hallway to balcony, twelve-minute rotation, pocket notebook with columnar entries. The fat man was cataloguing traffic by affiliation and logging it somewhere outside the club.
 
-Brennon listened without expression. Then he reciprocated, because that was how the economy worked between professionals.
+[Brennon](/npcs/brennon-thornhill/) listened without expression. Then he reciprocated, because that was how the economy worked between professionals.
 
 [Lodin](/npcs/lodin/) had spoken with [Annabelle](/npcs/annabelle-triabell/) two nights ago. [Drake Hotel](/locations/lodins-haven/), eighth floor. Private meeting, no witnesses Brennon could confirm. [Portia](/npcs/portia/) had been asking about the Gary emissaries through three different intermediaries, each one more careful than the last, which meant she cared enough to hide the caring. And [Drummond](/npcs/edgar/) was on loan from [Annabelle](/npcs/annabelle-triabell/), not just [Ballard](/npcs/ballard/)'s man. Which reframed the notebook entirely.
 
@@ -74,7 +74,7 @@ Tomás was turning to leave when Brennon said, "Grace." He pointed to the monito
 
 [Annabelle](/npcs/annabelle-triabell/). [Ballard](/npcs/ballard/). [Portia](/npcs/portia/). [Sir Henry](/npcs/sir-henry-johnson/).
 
-Drummond was double-reporting. To [Annabelle](/npcs/annabelle-triabell/), who'd placed him, and to someone whose priorities required tracking all four Primogens simultaneously.
+[Drummond](/npcs/edgar/) was double-reporting. To [Annabelle](/npcs/annabelle-triabell/), who'd placed him, and to someone whose priorities required tracking all four Primogens simultaneously.
 
 Tomás filed the image. Brennon watched him file it. Neither said the name neither needed to say.
 

@@ -62,7 +62,7 @@ The door opened three inches. One green eye. The hallway check, quick and practi
 
 [Sable](/sable-price/) held out the wrapped gift. The shape was obvious through the paper. [Allicia](/npcs/allicia/) unwrapped it in the gap between door and frame. The snow globe caught the hallway light. A bird in a cage. Ornate metalwork. False snow settling over both.
 
-Her hand tightened on it. The green eye went wet, then hard, then somewhere Sable couldn't follow.
+Her hand tightened on it. The green eye went wet, then hard, then somewhere [Sable](/sable-price/) couldn't follow.
 
 She looked at Sable. Nodded once. The door closed, quiet as a coffin lid.
 
@@ -110,7 +110,7 @@ Light tone. Heavy freight. Every Kindred in the room heard the leash check. [Dar
 
 The room turned. Sable stood near the windows. For half a second the old software booted up in her body, the geometry of seduction that had worked on a thousand men in a hundred rooms, the chin tilt and the shoulder angle and the weight shifting to one hip. It started in her body before her mind caught up.
 
-Then she saw them. Really saw them. [Lucian](/npcs/lucian/), who'd served under Caesar and didn't blink enough. [Danov](/npcs/alexander-danov/), whose ruined face had been reading the dead since before Gutenberg. [Claudette](/npcs/claudette-mallet/), calculating how fast she could take apart everything in the room. Modius, smiling his collector's smile.
+Then she saw them. Really saw them. [Lucian](/npcs/lucian/), who'd served under Caesar and didn't blink enough. [Danov](/npcs/alexander-danov/), whose ruined face had been reading the dead since before Gutenberg. [Claudette](/npcs/claudette-mallet/), calculating how fast she could take apart everything in the room. [Modius](/npcs/modius/), smiling his collector's smile.
 
 These were not men. These were not marks. These were Greenland sharks circling in cold water, and the rules she'd learned at The Oasis meant nothing down here.
 
@@ -160,7 +160,7 @@ The dry-leaf chuckle. "The American Riviera. Yes. I've seen the actual Riviera. 
 
 Then the shift. "I'm told your sire was destroyed. Hunters." The word arrived flat, clinical. "A hard start to an unlife. You have my sympathy."
 
-And there it was. The mention of Warren Birch's destruction, the fictional sire, the load-bearing wall of the cover story. What moved through Darius's blood wasn't grief. It was fear. Sharp, present, the specific terror of a man standing next to something that might see through the architecture he'd built his survival on.
+And there it was. The mention of Warren Birch's destruction, the fictional sire, the load-bearing wall of the cover story. What moved through [Darius](/darius-cole/)'s blood wasn't grief. It was fear. Sharp, present, the specific terror of a man standing next to something that might see through the architecture he'd built his survival on.
 
 [Danov](/npcs/alexander-danov/) watched. Darius didn't know that behind those gray eyes, six hundred years of reading the dead had opened like a lens, and the light pouring off his blood told a story that contradicted the one coming out of his mouth. The aura burned too bright for a twelfth-generation nobody. The emotion was fear where grief should live.
 

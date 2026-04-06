@@ -126,7 +126,7 @@ He looked down at [Roarke](/npcs/roarke/) for a long time.
 
 An open palm, facing down. "**Look at me.**"
 
-Roarke's head came up. Sixty years of conditioning. Their eyes locked. Four seconds. Roarke's face went slack, then empty, then peaceful. He exhaled once and folded sideways.
+[Roarke](/npcs/roarke/)'s head came up. Sixty years of conditioning. Their eyes locked. Four seconds. Roarke's face went slack, then empty, then peaceful. He exhaled once and folded sideways.
 
 The aging began immediately. Subtle, then fast. Skin tightening. Hair going white. The suit hanging loose on a collapsing frame. By the time it stopped, there was nothing on the ground that looked like it had ever been a person.
 
@@ -136,7 +136,7 @@ They collected Scottie Cartwright from his log. He was hysterical — saw everyt
 
 "What *are* you people?"
 
-Darius knelt beside him. Eye contact. Easy. The man was already halfway to somewhere else.
+[Darius](/darius-cole/) knelt beside him. Eye contact. Easy. The man was already halfway to somewhere else.
 
 "You drove out here following a tip. You saw a bonfire. People running. You fell asleep in the cold."
 
@@ -160,7 +160,7 @@ Darius talked for twenty minutes. The whole ledger. The [Succubus Club](/locatio
 
 "Open the trunk."
 
-The [Drake Hotel](/locations/drake-hotel/). East side service entrance. Darius popped the trunk under a loading dock light. Lodin stood over the motel bedspread and the shape underneath for a long time. His hand found the pendant — just the pendant — and something moved behind his eyes.
+The [Drake Hotel](/locations/drake-hotel/). East side service entrance. Darius popped the trunk under a loading dock light. [Lodin](/npcs/lodin/) stood over the motel bedspread and the shape underneath for a long time. His hand found the pendant — just the pendant — and something moved behind his eyes.
 
 "The pendant in my vault. I acquired it from someone who told me it was a key. He didn't say what it opened."
 
@@ -170,7 +170,7 @@ The body went into the eighth-floor suite. Cedar closet, heavy doors. Lodin lock
 
 The audience was over.
 
-Sable was quiet for three blocks.
+[Sable](/sable-price/) was quiet for three blocks.
 
 "We just handed him the most valuable thing we had."
 

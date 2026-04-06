@@ -40,7 +40,7 @@ The Kindred filled the doorway. Charcoal overcoat, dark hair swept back, eyes th
 
 [Roarke](/npcs/roarke/) said: unauthorized Embrace. [Lodin](/npcs/lodin/)'s annoyance left his face like water off marble.
 
-Good judgment, Roarke. Show him to the library.
+Good judgment, [Roarke](/npcs/roarke/). Show him to the library.
 
 The library door closed. [Belthazar](/npcs/belthazar/)'s voice came through anyway -- shouting about permitting the Embrace, about severity, about precedent. [Lodin](/npcs/lodin/)'s silence was worse than any answer. Then the library door flew open and [Belthazar](/npcs/belthazar/) crossed the suite in four strides, coat flaring. Muttering: owes her something, he says. Phahhh. Owes her nothing.
 

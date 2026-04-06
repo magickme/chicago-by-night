@@ -35,11 +35,11 @@ Chicago in miniature. The entire rail and subway network in exact scale, filling
 
 The office door was ajar. [Drummond](/npcs/edgar/)'s voice — high, wet, petulant — berating Emmett for the phone call, for the breach, for the insult to his sovereignty. They came in from both sides.
 
-The predatory aura hit the room and Emmett's hand went to his gun and Drummond's nostrils flared and then [Sable](/sable-price/)'s Presence filled the space like a change in atmospheric pressure and everything stopped.
+The predatory aura hit the room and Emmett's hand went to his gun and [Drummond](/npcs/edgar/)'s nostrils flared and then [Sable](/sable-price/)'s Presence filled the space like a change in atmospheric pressure and everything stopped.
 
 [Darius](/darius-cole/) took Emmett. One word, eye contact, the mortal folding like paper. Walked him out.
 
-Sable sat on the edge of Drummond's desk. Close. Inside the radius of his fear.
+[Sable](/sable-price/) sat on the edge of Drummond's desk. Close. Inside the radius of his fear.
 
 He was exactly what the Spirit's Touch had shown. A fat man in an engineer's cap. Appearance 1. The face of someone who had been told he was stupid his entire mortal life and then given eternity to prove them right. He looked at her and his expression cycled through shock, fury, fear, and something pathetic — the wounded indignation of a child whose bedroom had been invaded.
 
@@ -71,7 +71,7 @@ Sable picked it up. Felt the weight of it. Set it back in his hands.
 
 They drove north in the rain. Drummond in the back seat, enormous, silent, the ledger in his lap. CNN on every frequency. The [Succubus Club](/locations/succubus-club/) still lit. The emergency Primogen session still running on the third floor.
 
-He walked inside under his own power. Up the stairs. Through the door. The room — [Lodin](/npcs/lodin/), [Annabelle](/npcs/annabelle-triabell/), [Critias](/critias/), [Nicolai](/nicolai/) — turned toward the doorway and saw a Ventrue elder with a ledger and two neonates behind him and [Lodin](/npcs/lodin/)'s eyes landed on Darius and something crossed the Prince's face that was not surprise.
+He walked inside under his own power. Up the stairs. Through the door. The room — [Lodin](/npcs/lodin/), [Annabelle](/npcs/annabelle-triabell/), [Critias](/critias/), [Nicolai](/nicolai/) — turned toward the doorway and saw a Ventrue elder with a ledger and two neonates behind him and [Lodin](/npcs/lodin/)'s eyes landed on [Darius](/darius-cole/) and something crossed the Prince's face that was not surprise.
 
 "I was used, Your Highness. I was used, and I can prove it, and I know who did it."
 
@@ -87,4 +87,4 @@ They sat in the Cutlass and didn't talk for a while. Darius started the engine. 
 
 He pulled onto Wacker Drive. The river was black underneath. The city ran on rails and the rails ran on a fat man's loneliness and nobody had ever asked him about it and Sable had and the asking was the knife and the knife had opened something that couldn't be closed.
 
-Room 9. The radiator clanked. The ice machine cycled. Baghdad burned on every screen in America and in the private lounge of the Succubus Club the dead were eating their own and the two Gary neonates who had served the meal were already ghosts in the stairwell, already gone, already nowhere anyone would think to look.
+Room 9. The radiator clanked. The ice machine cycled. Baghdad burned on every screen in America and in the private lounge of the [Succubus Club](/locations/succubus-club/) the dead were eating their own and the two Gary neonates who had served the meal were already ghosts in the stairwell, already gone, already nowhere anyone would think to look.

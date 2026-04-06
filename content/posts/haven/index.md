@@ -52,7 +52,7 @@ She filed it. She would understand it later.
 
 "Please," she said. And the word came out cold, with an edge on it she hadn't planned, the voice of a woman who had been approached by too many men who thought they were selling something she should want. "Men infinitely greater than you throw themselves at my feet. They beg me to take what you have to steal."
 
-Williams looked at her for a long time. The blankness had returned to his face, but it was a different blankness now — the blankness of assessment, not neutrality. He was re-evaluating. The young Toreador in the Buick with the fur coat and the cosmetics bag was not a lost fledgling. She had teeth.
+[Williams](/npcs/williams/) looked at her for a long time. The blankness had returned to his face, but it was a different blankness now — the blankness of assessment, not neutrality. He was re-evaluating. The young Toreador in the Buick with the fur coat and the cosmetics bag was not a lost fledgling. She had teeth.
 
 "Fair enough."
 

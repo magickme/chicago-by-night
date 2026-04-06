@@ -76,7 +76,7 @@ The spirit bag. Leather, hand-stitched, the size of a fist. It pulsed against he
 
 A notebook. A photograph of [Allicia](/npcs/allicia/) at the piano, taken with something that wore love's clothes.
 
-She took all three. Replaced the board. Moved down the hallway past the kitchen door — [Wierus](/npcs/john-wierus/) facing Darius, back to her, three feet of lit hallway — and passed through the gap like a sentence that was never spoken.
+She took all three. Replaced the board. Moved down the hallway past the kitchen door — [Wierus](/npcs/john-wierus/) facing [Darius](/darius-cole/), back to her, three feet of lit hallway — and passed through the gap like a sentence that was never spoken.
 
 ---
 
@@ -118,4 +118,4 @@ They had operated as a unit. No agreement, no discussion, no handshake. Darius a
 
 "Tomorrow night."
 
-The fire went to embers. They drove home in separate directions for the first time all night. Darius to the west side. Sable to Fifth Avenue. Dawn pressing against the edges of the sky. The matchbook with her number wasn't on his dashboard anymore. He didn't need it. He had it memorized, the way you memorize the number of someone you're going to call again, and again, and again, because the distance between you has finally become a direction instead of a wall.
+The fire went to embers. They drove home in separate directions for the first time all night. Darius to the west side. [Sable](/sable-price/) to Fifth Avenue. Dawn pressing against the edges of the sky. The matchbook with her number wasn't on his dashboard anymore. He didn't need it. He had it memorized, the way you memorize the number of someone you're going to call again, and again, and again, because the distance between you has finally become a direction instead of a wall.

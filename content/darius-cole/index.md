@@ -77,7 +77,7 @@ Get close to the docks. Find out how the money moves through [Lucian](/npcs/luci
 
 Do not let [Modius](/npcs/modius/) know your real sire. Do not let anyone know [Chuc Luc](/npcs/chuc-luc/) exists. Do not attract attention.
 
-If you are caught, Chuc Luc will deny everything. Darius is expendable.
+If you are caught, [Chuc Luc](/npcs/chuc-luc/) will deny everything. Darius is expendable.
 
 He arrived in Gary in mid-summer 1990. Got a ground-floor apartment on the west side. Opened a check-cashing storefront as cover. Started mapping the underground economy of a dying city.
 

@@ -46,7 +46,7 @@ He was carrying something in his coat pocket. [Darius](/darius-cole/) could see 
 
 *What business does a cemetery Malkavian have with a dockside bookie?*
 
-Darius made his decision. He reached for the Presence — the discipline his sire had called "the mask that invites" — and felt it build in his chest like a low hum, a magnetic warmth that radiated outward and said *trust me, like me, come closer.* He stepped out of the shadows and into the light with the confidence of a man who owned the ground under his feet.
+[Darius](/darius-cole/) made his decision. He reached for the Presence — the discipline his sire had called "the mask that invites" — and felt it build in his chest like a low hum, a magnetic warmth that radiated outward and said *trust me, like me, come closer.* He stepped out of the shadows and into the light with the confidence of a man who owned the ground under his feet.
 
 "Just testing, Mikey!" He laughed. The laugh was good — he'd practiced it. Loose, warm, big-brotherly. He did a playful fake-lunge, the kind of gesture you'd make toward a kid sibling. "Gotta make sure you're staying on your game. Particularly if you're somewhere you're not supposed to be. Somewhere a *very old, very irritable* Roman likes keeping to himself."
 
@@ -54,7 +54,7 @@ Darius made his decision. He reached for the Presence — the discipline his sir
 
 "You weren't testing," [Michael](/npcs/michael/) said. His voice was quiet and higher than Darius expected and completely steady. "You were *pushing.*"
 
-The Awe had bounced. The Malkavian mind — fractured, yes, but fractured the way a prism is fractured, breaking one light into many — had registered the Presence, identified it, and rejected it. Michael knew exactly what Darius had just tried to do.
+The Awe had bounced. The Malkavian mind — fractured, yes, but fractured the way a prism is fractured, breaking one light into many — had registered the Presence, identified it, and rejected it. [Michael](/npcs/michael/) knew exactly what Darius had just tried to do.
 
 The laugh died in Darius's throat.
 

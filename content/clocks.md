@@ -5,7 +5,7 @@ layout: "page"
 slug: "clocks"
 ---
 
-*Chicago pressure board. Updated: **1991-01-17 (Thursday, ~2 AM)**. Session state is authoritative for all clock levels.*
+*Chicago pressure board. Updated: **1991-01-19 (Saturday, ~5:45 AM)**. Session state is authoritative for all clock levels.*
 
 
 
@@ -22,8 +22,8 @@ slug: "clocks"
 | Hunter Convergence (Chicago) | ■□□□□□ | 1/6 | S030: PCs encountered Standdown. Evidence destroyed but he lives with "body walked away." Shepard connected. |
 | Methuselah War (HIDDEN) | ■■□□□□ | 2/6 HIDDEN | D031: Darius blood-bonded Step 1 to Menele (frenzy over torpored body). Coterie now in Menele's camp — unknowingly. Menele likely orchestrated body recovery + vial frenzy from torpor. Helena's rival has agents. |
 | Chuc Luc's Chicago Operations | □□□□□□ | 0/6 | Pipeline expansion into Capone's territory. |
-| Ballard's Case | ■■■□□□ | 3/6 | D032-D033: Ballard dined with 3 Primogen in 3 nights (Annabelle, Critias, Jackson). Establishing context: Gary emissaries caused Chicago's crises. Cultivating ghoul driver (botched Forgetful Mind). Driver now Mesmerized + Conditioning 4/14. Counter-ops active. |
-| Primogen Power Plays | ■■□□□□ | 2/6 | S035: Emergency Primogen session. Drummond testified with ledger evidence. Ballard exposed. Factions forming, blocs solidifying. Neonates recruited as proxies. |
+| Ballard's Case (HOT) | ■■■■□□ | 4/6 | D037: Counterattack in motion. Greystone Fiduciary = mortal finance network (LaSalle). Three Annabelle properties targeted (Lake Shore lien, Armitage gallery lease, South Michigan subpoena). Courier network mapped. "Entrée comes Friday." Caitiff cleared off South Side through code enforcement. Coterie intercepted letter — Ballard unaware. |
+| Primogen Power Plays | ■■■□□□ | 3/6 | D037: Wednesday session announced — formal Ballard adjudication. Neally chairing, not Lodin. Anarchs floating succession talk with Maldavis as candidate. Factions hardening. |
 | Succubus Club Heat | □□□□□□ | 0/6 | Club as focal point. Helena's basement. Every thread passes through. |
 | Lodin's Grip | ■■□□□□ | 2/6 | S035: Prince presided over emergency Primogen session. Police mobilized around railyards. Drummond delivered. Authority reasserted through institutions. |
 

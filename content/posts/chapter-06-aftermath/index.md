@@ -48,7 +48,7 @@ Eight feet. [Darius](/darius-cole/) caught his eyes.
 
 The word left his mouth and traveled the distance between them and landed in [Gregory Stephens](/npcs/gregory-stephens/)'s skull like a key turning in a lock. The Dominate was not a suggestion. It was the voice of the blood speaking in a register that mortal neurology could not refuse, the frequency that went below thought and below will and into the machinery of obedience that lived in every human body, waiting for something old enough and cold enough to activate it.
 
-Gregory's hand froze. The cigarette dropped. His pupils swallowed his irises and his face went slack and he stood there in the parking lot of the Horseshoe at twenty minutes past midnight with his mouth open and his mind empty and his body waiting for instructions.
+[Gregory](/npcs/gregory-stephens/)'s hand froze. The cigarette dropped. His pupils swallowed his irises and his face went slack and he stood there in the parking lot of the Horseshoe at twenty minutes past midnight with his mouth open and his mind empty and his body waiting for instructions.
 
 [Darius](/darius-cole/) spoke low. Even. The voice [Chuc Luc](/npcs/chuc-luc/) had taught him in the cellar. Not loud. Inevitable.
 
@@ -60,7 +60,7 @@ He took the manila folder off the hood of the Crown Vic. Tucked it under his arm
 
 He stepped back. Broke eye contact.
 
-[Gregory Stephens](/npcs/gregory-stephens/) blinked. Looked down at the asphalt. Frowned at his empty hand. Lit another cigarette from his jacket pocket with the slow, unfocused movements of a man surfacing from a dream he couldn't quite recall. He leaned back against the Crown Vic and smoked and stared at nothing, and Darius was already in the alley, and then in the Cutlass, and then four blocks away under a dead streetlight with the folder open on the passenger seat.
+[Gregory Stephens](/npcs/gregory-stephens/) blinked. Looked down at the asphalt. Frowned at his empty hand. Lit another cigarette from his jacket pocket with the slow, unfocused movements of a man surfacing from a dream he couldn't quite recall. He leaned back against the Crown Vic and smoked and stared at nothing, and [Darius](/darius-cole/) was already in the alley, and then in the Cutlass, and then four blocks away under a dead streetlight with the folder open on the passenger seat.
 
 ---
 

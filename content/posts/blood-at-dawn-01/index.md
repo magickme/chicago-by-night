@@ -84,7 +84,7 @@ He'd painted it months ago. He already knew.
 
 "The ground got sick in the winter," [Michael](/npcs/michael/) said. Cross-legged on the mattress, rocking. "Something came in from outside and went into the dirt. Not a vampire. Not a ghost. Ghosts are sad. This is hungry."
 
-He looked at Sable with the stare that went through your face and read the wall behind your skull.
+He looked at [Sable](/sable-price/) with the stare that went through your face and read the wall behind your skull.
 
 "It's looking for your friend. The quiet one. The one who doesn't talk. I can hear it looking. Like a dog whistle. One note, all night. *Her. Her. Her.*"
 

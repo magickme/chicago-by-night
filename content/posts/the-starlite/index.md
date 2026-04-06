@@ -49,7 +49,7 @@ She listened. She asked the right questions.
 
 "The case to [Lodin](/npcs/lodin/) is the easier sell. But we need the map. [Ballard](/npcs/ballard/)'s network. Who he's Dominated, who he's bought, who reports to him." She mentioned a Tremere she'd met at the club. Analytical mind, intelligence background, exactly the kind of skill set that could map an operation in half the time.
 
-"We're on our own," Darius said.
+"We're on our own," [Darius](/darius-cole/) said.
 
 "Okay. Then [Sir Henry](/npcs/sir-henry-johnson/). Wednesday. The salon."
 
@@ -57,7 +57,7 @@ She listened. She asked the right questions.
 
 "I know how to talk to Toreador, Darius."
 
-They set the deadlines. [Sir Henry](/npcs/sir-henry-johnson/) at the salon. Lodin by Wednesday or they'd go to the Drake and not leave. The driver as insurance while the narrative did the real work.
+They set the deadlines. [Sir Henry](/npcs/sir-henry-johnson/) at the salon. [Lodin](/npcs/lodin/) by Wednesday or they'd go to the Drake and not leave. The driver as insurance while the narrative did the real work.
 
 The line clicked. Dial tone.
 
@@ -121,7 +121,7 @@ The hunger didn't care about the distinction. His body told him to cross the str
 
 He put the Cutlass in gear and drove back to the Starlite.
 
-Room 9. The radiator clanked. The ice machine cycled. Three moving parts and five days until Wednesday: Sable and Sir Henry at the salon, the driver on the North Side, and the Drake Hotel where a Prince sat in silence with a debt he hadn't acknowledged.
+Room 9. The radiator clanked. The ice machine cycled. Three moving parts and five days until Wednesday: [Sable](/sable-price/) and [Sir Henry](/npcs/sir-henry-johnson/) at the salon, the driver on the North Side, and the Drake Hotel where a Prince sat in silence with a debt he hadn't acknowledged.
 
 The legal pad sat in his coat pocket. The Tremere had already read it. The counter-op had a third player. And the woman on the bench was still talking to the street and nobody was listening and she owed nothing to anyone and that was the worst debt of all and Darius didn't know why he was thinking about her.
 

@@ -88,7 +88,7 @@ She asked what would happen if he lost her. *Theoretically.*
 
 "Gary without [Allicia](/npcs/allicia/) is Gary without [Modius](/npcs/modius/)," [Sir Henry](/npcs/sir-henry-johnson/) said. "Not immediately — he'd rage first. But the infrastructure is gone. If you pull that pin, the whole thing comes apart inside a year."
 
-For the clan, he said, it would be a reckoning. Fifty-two years. Everyone knew. Nobody acted. If she were suddenly free, the question wasn't what happened to Modius. The question was what it said about every Toreador who watched for half a century and did nothing.
+For the clan, he said, it would be a reckoning. Fifty-two years. Everyone knew. Nobody acted. If she were suddenly free, the question wasn't what happened to [Modius](/npcs/modius/). The question was what it said about every Toreador who watched for half a century and did nothing.
 
 "Including me."
 
@@ -118,7 +118,7 @@ He recalculated. She could see it happen — the moment where *she tried to mani
 
 She tested him. Read the room, she said. Show me what you can find out about the Kindred in here.
 
-He didn't look at anyone. He'd already looked. He'd been looking for two hours. Nine Kindred including them. [Thornhill](/npcs/brennon-thornhill/)'s three conversations — two operational, one about a delivery he didn't want "anyone upstairs" to see. [Drummond](/npcs/edgar/) had checked his watch eleven times, spoken to [Thornhill](/npcs/brennon-thornhill/) twice, shifted booths to get a better angle on Sir Henry's table. Nobody ran collection that disciplined for free.
+He didn't look at anyone. He'd already looked. He'd been looking for two hours. Nine Kindred including them. [Thornhill](/npcs/brennon-thornhill/)'s three conversations — two operational, one about a delivery he didn't want "anyone upstairs" to see. [Drummond](/npcs/edgar/) had checked his watch eleven times, spoken to [Thornhill](/npcs/brennon-thornhill/) twice, shifted booths to get a better angle on [Sir Henry](/npcs/sir-henry-johnson/)'s table. Nobody ran collection that disciplined for free.
 
 "Somebody's paying for that."
 
@@ -128,7 +128,7 @@ The wall. The pause. "I'm compiling."
 
 He laid out the operational play — work the bartender, casual HUMINT, no Disciplines — and hit the gap at the step that required charm. "Which is not my tool."
 
-She grinned and went to work. Two minutes with [Jackie](/npcs/jackie-goodman/) behind the bar under four successes of Awe, and she came back with two names, two patterns, and the fact that [Drummond](/npcs/edgar/) had asked Brennon who she was.
+She grinned and went to work. Two minutes with [Jackie](/npcs/jackie-goodman/) behind the bar under four successes of Awe, and she came back with two names, two patterns, and the fact that [Drummond](/npcs/edgar/) had asked [Brennon](/npcs/brennon-thornhill/) who she was.
 
 She gave him what she'd gotten. He gave her his analysis — [Drummond](/npcs/edgar/) asking [Thornhill](/npcs/brennon-thornhill/), not her, meant a cutout or a handler. [Thornhill](/npcs/brennon-thornhill/) was the node.
 

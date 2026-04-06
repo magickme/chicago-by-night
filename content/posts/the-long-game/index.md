@@ -70,4 +70,4 @@ She didn't call back. She pressed erase. The tape rewound with a mechanical clic
 
 Thirty days to the party. [Modius](/npcs/modius/)'s invitation arrived by [Victor](/npcs/victor-salonika/)'s hand, cream cardstock with the Prince's seal pressed into wax that was the color of old blood. New Year's Eve. Every Kindred in Gary. Formal dress. Attendance not optional.
 
-Darius put the invitation on the kitchen counter and looked at it while the night outside turned December-cold and the west-side house fire put smoke across the moon. Somewhere on the next block, a rented car sat empty. [Dane](/npcs/sullivan-dane/) had gone home to pray. He'd be back.
+[Darius](/darius-cole/) put the invitation on the kitchen counter and looked at it while the night outside turned December-cold and the west-side house fire put smoke across the moon. Somewhere on the next block, a rented car sat empty. [Dane](/npcs/sullivan-dane/) had gone home to pray. He'd be back.

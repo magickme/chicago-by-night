@@ -78,7 +78,7 @@ He hid among the Pueblos. [Helena](/npcs/helena/) found him; he fled without doi
 
 In 1820, they met again on the Kansas prairie. Menele fled to his friend, Chief Black Hawk. He hoped to turn Black Hawk's people into an effective fighting force — but had little knowledge of the destructive power of firearms.
 
-At Fort Dearborn, Helena allied with the United States military. Menele with Black Hawk's warriors. The two Methuselahs met with all the pent-up fury of a whirlwind. The air turned red with the vast quantities of blood they used. Many Indians escaped the slaughter only because of a portentous blood-red tornado.
+At Fort Dearborn, [Helena](/npcs/helena/) allied with the United States military. Menele with Black Hawk's warriors. The two Methuselahs met with all the pent-up fury of a whirlwind. The air turned red with the vast quantities of blood they used. Many Indians escaped the slaughter only because of a portentous blood-red tornado.
 
 Helena dug her claws deep into Menele's ribs. With a scream of agony that made the earth shake, Menele drove his skull into her forehead. Both were thrown to the ground. Menele's remaining braves made a last desperate charge to rescue him, but [Prias](/npcs/prias/) drove a burning stake deep into the vampire's neck before they could reach him.
 
@@ -114,7 +114,7 @@ A Coptic jar containing [the Heart](/locations/the-heart/) of Osiris surfaced in
 
 **[Annabelle Triabell](/npcs/annabelle-triabell/)** (6th gen) — the deepest play. Menele's double agent inside Helena's camp. Helena believes she controls [Annabelle](/npcs/annabelle-triabell/) through Domination. Through [Annabelle](/npcs/annabelle-triabell/), Menele has a window into everything Helena's network does.
 
-**[Khalid](/npcs/khalid-al-rashid/)** (Nosferatu Primogen) — initially independent. Each Methuselah assumed the other controlled him. In the V20 era, Critias claims: "Despite his claims, [Khalid](/npcs/khalid-al-rashid/) is as much a creature of Menele's now as I once was."
+**[Khalid](/npcs/khalid-al-rashid/)** (Nosferatu Primogen) — initially independent. Each Methuselah assumed the other controlled him. In the V20 era, [Critias](/npcs/critias/) claims: "Despite his claims, [Khalid](/npcs/khalid-al-rashid/) is as much a creature of Menele's now as I once was."
 
 **[Ublo-Satha](/npcs/ublo-satha/)** — sleeper agent inside the Tremere. A Gargoyle conditioned by Menele before her transformation — the dormant commands survived the process. Her dual loyalty is unknown to the Tremere hierarchy. She watches [Nicolai](/npcs/nicolai/) (Helena's controlled Tremere Regent) from within the Chantry.
 

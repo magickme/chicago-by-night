@@ -64,7 +64,7 @@ The man under the mastodon skeleton spoke with his back turned. Double-breasted 
 
 The man turned. The face was younger than the voice promised. Mid-thirties, clean-shaven, a well-fitted hairpiece. The generation pressure was wrong — eighth, not seventh. The difference between a hand on your chest and a hand on your throat. This was a lieutenant sitting in a chair that didn't belong to him, asking questions that a prince would already know the answers to.
 
-Darius knew before the reveal. The man admitted it with the nonchalance of a clerk removing a costume. He screened for the Prince. The real audience required a helicopter and a football field at dawn.
+[Darius](/darius-cole/) knew before the reveal. The man admitted it with the nonchalance of a clerk removing a costume. He screened for the Prince. The real audience required a helicopter and a football field at dawn.
 
 Darius called [Modius](/npcs/modius/) from a payphone on Lake Shore Drive. The Prince of Gary said comply. He said the helicopter was theater. He didn't know the theater had no audience.
 

@@ -13,7 +13,7 @@ description: "A Tremere intelligence analyst walking south on Clark gets stopped
 
 ---
 
-The bookkeeper from Ravenswood had been alone at a bar called Sterch's with three bourbons past his credit limit and a wedding ring he kept turning with his thumb. [Tomas](/tomas-navarro/) took him in the alley behind the kitchen. Two points. Clean puncture, licked and sealed, the man back on his stool before the ice in his fourth drink settled. The blood sat in Tomas like ballast — warm weight distributed evenly through the chassis, hunger pushed to a distance where it became data instead of imperative.
+The bookkeeper from Ravenswood had been alone at a bar called Sterch's with three bourbons past his credit limit and a wedding ring he kept turning with his thumb. [Tomas](/tomas-navarro/) took him in the alley behind the kitchen. Two points. Clean puncture, licked and sealed, the man back on his stool before the ice in his fourth drink settled. The blood sat in [Tomas](/npcs/tomas/) like ballast — warm weight distributed evenly through the chassis, hunger pushed to a distance where it became data instead of imperative.
 
 He walked south on Clark. The recruiting office on the corner had flags in every window and a handwritten sign someone had already corrected: SHIELD crossed out, STORM written over it in marker. The correction was a day old. Down on Division the bars all had their televisions angled toward the glass — green night-vision footage of tracers over Baghdad, the same four seconds of video repeating on every screen like a test pattern for the new American century.
 
@@ -43,7 +43,7 @@ The pen came out again. Uncap. Cap.
 
 ---
 
-The room was forty feet below Scott Street. Ten by twelve, poured concrete, a wooden table and a chair and a cot with a wool blanket folded on it. A bare bulb on a pull-chain. Someone had left a glass of water on the table that hadn't gathered dust.
+The room was forty feet below [Scott](/npcs/sir-edward-scott/) Street. Ten by twelve, poured concrete, a wooden table and a chair and a cot with a wool blanket folded on it. A bare bulb on a pull-chain. Someone had left a glass of water on the table that hadn't gathered dust.
 
 Tomas broke the black wax seal with his thumbnail. The smell was cold vitae with something heavy underneath — sediment, the old man had said. The deeper the generation, the heavier the weight.
 
@@ -57,7 +57,7 @@ The second bond did not match.
 
 Toreador. Female. Step 2.
 
-Not Step 1. The sample in Nicolai's basement had read Step 1 a week ago. This sample — independent provenance, collected differently, from the same source — read Step 2. The delta was one step in seven days. Someone had been feeding blood to a staked vampire who could not swallow, could not spit, could not turn his head. Gravity and patience. The oldest technology in the world.
+Not Step 1. The sample in [Nicolai](/npcs/nicolai/)'s basement had read Step 1 a week ago. This sample — independent provenance, collected differently, from the same source — read Step 2. The delta was one step in seven days. Someone had been feeding blood to a staked vampire who could not swallow, could not spit, could not turn his head. Gravity and patience. The oldest technology in the world.
 
 Tomas wrote the bond map in his notebook. He stared at it. The pen didn't move again until he wrote the word at the bottom of the page: *programming.*
 
@@ -89,7 +89,7 @@ Nicolai was in the second-floor study. Door open. Nothing on the desk except a f
 
 "You've been out."
 
-Tomas sat in the straight-backed chair and delivered the report. The clean report. [Drummond](/npcs/edgar-drummond/), Ballard, the ledger, the Primogen session, the emissaries vanishing, Ballard's counter-search, Brennon's lockdown. Every sentence load-bearing. Every fact sourced. The notebook stayed in his jacket pocket with the gun oil and the Guadalupe santo and the name he didn't say.
+Tomas sat in the straight-backed chair and delivered the report. The clean report. [Drummond](/npcs/edgar-drummond/), [Ballard](/npcs/ballard/), the ledger, the Primogen session, the emissaries vanishing, Ballard's counter-search, [Brennon](/npcs/brennon-thornhill/)'s lockdown. Every sentence load-bearing. Every fact sourced. The notebook stayed in his jacket pocket with the gun oil and the [Guadalupe](/npcs/guadalupe-droin/) santo and the name he didn't say.
 
 Nicolai listened without interrupting. He said Ballard had been summoned. He said the emissaries were now a priority collection target. He said Cole's generation claim needed independent verification.
 

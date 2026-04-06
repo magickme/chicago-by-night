@@ -62,9 +62,9 @@ The pale eyes held. Three seconds. Five. Then [Horace](/npcs/horace/) took his h
 
 "You're not what I expected."
 
-Darius gave him two things. The FBI agent named [Shepard](/npcs/william-shepard/) who'd been asking questions at [the Torch](/locations/the-torch/) and the docks -- information that cost Darius nothing but made [Horace](/npcs/horace/) realize his own surveillance had overlapped with a federal investigation. And the hunter. True Faith. Methodical. Patient. Eleven months of data and a god who answered.
+[Darius](/darius-cole/) gave him two things. The FBI agent named [Shepard](/npcs/william-shepard/) who'd been asking questions at [the Torch](/locations/the-torch/) and the docks -- information that cost Darius nothing but made [Horace](/npcs/horace/) realize his own surveillance had overlapped with a federal investigation. And the hunter. True Faith. Methodical. Patient. Eleven months of data and a god who answered.
 
-Horace went still when Darius said True Faith. The kind of still that meant the chess player had seen a piece on the board he'd missed for five months.
+[Horace](/npcs/horace/) went still when Darius said True Faith. The kind of still that meant the chess player had seen a piece on the board he'd missed for five months.
 
 "That is the kind of information that changes a report," Horace said.
 

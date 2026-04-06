@@ -64,7 +64,7 @@ The car went quiet again. A different quiet. [Sable](/sable-price/) in the backs
 
 [Lucian](/npcs/lucian/)'s jaw moved. Not quite a smile. The reflective eyes shifted from the windshield to [Darius](/darius-cole/) for the first time. Held there. The Beast behind those eyes was old enough to have killed things that [Darius](/darius-cole/) couldn't name, and the fact that it stayed behind the eyes instead of filling the car was a choice, not a limitation.
 
-"Mutual discretion," Darius said.
+"Mutual discretion," [Darius](/darius-cole/) said.
 
 Three seconds. Four. The access road. The distant sound of water.
 

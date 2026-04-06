@@ -82,7 +82,7 @@ He looked at [Sable](/sable-price/). At [Darius](/darius-cole/). Back to [Ballar
 
 The silence stretched. Restaurant sounds filled it — silverware, conversation, someone laughing three tables away in a world where Princes don't vanish from their havens and three-hundred-pound vampires don't eat bread with butter on their chins and two neonates from a dying steel town don't sit in [Gold Coast](/locations/gold-coast/) restaurants trying to keep lobster down.
 
-"Fine," Ballard said. He leaned forward. His voice dropped to the frequency that only dead ears were made to hear. "I will destroy you with my own hands if any among you speak to anyone about this. No one must know about the disappearance of [Lodin](/npcs/lodin/). Do I make myself clear?"
+"Fine," [Ballard](/npcs/ballard/) said. He leaned forward. His voice dropped to the frequency that only dead ears were made to hear. "I will destroy you with my own hands if any among you speak to anyone about this. No one must know about the disappearance of [Lodin](/npcs/lodin/). Do I make myself clear?"
 
 "[Crystal](/npcs/crystal-spinner/)," [Sable](/sable-price/) said.
 
@@ -90,7 +90,7 @@ He held her gaze a moment longer than necessary. Then he grunted and lifted a ha
 
 "[Belthazar](/npcs/belthazar/). He goes where you go. He sees what you see."
 
-[Belthazar](/npcs/belthazar/) looked at Sable the way a man looks at a parking meter.
+[Belthazar](/npcs/belthazar/) looked at [Sable](/sable-price/) the way a man looks at a parking meter.
 
 Ballard pushed back. The chair groaned under him. "As if you didn't already know where he is. Do not play your game past tomorrow night, Neonates."
 

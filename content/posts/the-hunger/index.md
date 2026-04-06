@@ -66,7 +66,7 @@ The receipt was in the gravel near the van's front tire. Amoco. Fifth and Grant.
 
 Three blocks from [The Torch](/locations/the-torch/). D-Train had been in the heart of Gary's Kindred territory before he drove south to check the church, and now he was gone, back to Chicago, back to Mama Roux, carrying the news that the Gary operation was dead and the question of who killed it.
 
-Darius stood in the ash at Polk and Thirteenth and looked at the receipt under the streetlight and knew two things. The first was that the Thursday intercept was finished before it started. The second was that he needed to talk to [Sable](/sable-price/) and it was Wednesday and the next call was Friday and there was no emergency channel and that gap in the architecture was going to cost him if he didn't close it.
+[Darius](/darius-cole/) stood in the ash at Polk and Thirteenth and looked at the receipt under the streetlight and knew two things. The first was that the Thursday intercept was finished before it started. The second was that he needed to talk to [Sable](/sable-price/) and it was Wednesday and the next call was Friday and there was no emergency channel and that gap in the architecture was going to cost him if he didn't close it.
 
 He pocketed the receipt. Drove home. The west side smelled like smoke and the docks smelled like rust and the mansion had smelled like furniture polish over something older, and all of it — the nurse's blood, Eddie's compliance, the prince's fear, the van tracks in the gravel — was the same machine. His machine. The one he'd built to survive a year in a dying city, and the one that required, every night, the specific fuel of other people's misfortune to keep running.
 

@@ -138,7 +138,7 @@ He set the journal back on the desk and let the silence carry the weight.
 
 [Critias](/npcs/critias/) moved through the vault. He stood over the pendant for a long time — longer than he'd stood anywhere else — and his hand moved toward it and then stopped. Something crossed his face. Not recognition. Something quieter. He turned away from it.
 
-He looked at Sable. Then at [Darius](/darius-cole/).
+He looked at [Sable](/sable-price/). Then at [Darius](/darius-cole/).
 
 "You are more capable than [Ballard](/npcs/ballard/) led me to expect. That may or may not work in your favor." He turned to [Belthazar](/npcs/belthazar/). "The map. The woods northwest. That is the lead worth following."
 

@@ -72,7 +72,7 @@ Three words. Delivered flat, like a doctor reading a chart. A fact, not a confes
 
 "Nineteen forty-one. I thought it was love. Three drinks and I couldn't tell the difference. By the time I understood what he'd done, the question of whether I loved him or whether the blood loved him for me had stopped being a question I could answer."
 
-She looked at Sable. The mask was cracked. Not broken. One fault line running through fifty years of stillness, one fracture in the porcelain that let the heat out for the first time since Truman was president.
+She looked at [Sable](/sable-price/). The mask was cracked. Not broken. One fault line running through fifty years of stillness, one fracture in the porcelain that let the heat out for the first time since Truman was president.
 
 "That's what he did. That's what he'll do to you if you let him pour."
 
@@ -112,7 +112,7 @@ Sable sat on the floor beneath the photograph and looked at the pointe shoes and
 
 [Allicia](/npcs/allicia/) was Blood Bound. Since 1941. Three drinks and the question of love becomes unanswerable. The Oasis taught Sable what that looked like from the outside: the regulars who came back every night, not because the drinks were good or the girls were beautiful but because the building had become the shape of their loneliness and they couldn't imagine fitting anywhere else. The Blood Bond was The Oasis with fangs. The cage was always the same shape. The bars just changed material.
 
-[Modius](/npcs/modius/) would offer. Allicia said so. Whatever he calls it. A toast at court. A private drink in the drawing room. The intimacy of shared blood, which in Kindred culture was sex and communion and contract all at once, and Sable had been performing all three since she was seventeen and had never once let any of them be real.
+[Modius](/npcs/modius/) would offer. [Allicia](/npcs/allicia/) said so. Whatever he calls it. A toast at court. A private drink in the drawing room. The intimacy of shared blood, which in Kindred culture was sex and communion and contract all at once, and Sable had been performing all three since she was seventeen and had never once let any of them be real.
 
 She would not drink.
 

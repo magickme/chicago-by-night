@@ -118,7 +118,7 @@ Five forty-eight. Through the cinderblock, the pressure change. The sun clearing
 
 Twelve hours. A machine shop in East Chicago. Two vampires sitting on a concrete floor in the dark because they'd driven two human girls to Englewood and the night wasn't long enough and the math didn't work and the price of doing the right thing — if it was the right thing, if Humanity 5 could still calculate right from merely expedient — was twelve hours in a building that smelled like rust and old grease with the sun outside trying every crack and seam for a way in.
 
-[Darius](/darius-cole/) leaned against the wall. Sable leaned against the drill press. The silence between them was the particular silence of two people who had been running at full speed for seven hours and had stopped and had nothing to say because everything that needed saying had been said on payphones and in cars and the only thing left was the waiting.
+[Darius](/darius-cole/) leaned against the wall. [Sable](/sable-price/) leaned against the drill press. The silence between them was the particular silence of two people who had been running at full speed for seven hours and had stopped and had nothing to say because everything that needed saying had been said on payphones and in cars and the only thing left was the waiting.
 
 She closed her eyes. Not sleeping — the dead don't sleep. Resting in the way the dead rest, which is a stillness so complete that the building could mistake her for one of its machines.
 

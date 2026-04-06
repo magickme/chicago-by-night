@@ -53,7 +53,7 @@ She pulled away gasping. Red on her lips. Eyes bright with blood-high and the fi
 
 [Sable](/sable-price/) took her to the bottom. Fifteen feet of black water where the moonlight couldn't reach and the silt rose around them like smoke and the city above was nothing — no mansion, no prince, no piano with the lid closed, no drawing room with a ghoul who listened, no letter on a kitchen counter from a mother who still thought her daughter was alive. Nothing but the dark and the cold and the weight of a body that didn't need air finding another body that didn't need air and the silence that exists at the bottom of a lake in a dead city at two in the morning, which is the only kind of silence where two women who have been owned by other people's hands can finally put their own hands wherever they want.
 
-They surfaced at three-forty. The mansion dark. The willow screen. [Allicia](/npcs/allicia/)'s hair flat against her skull, her eyes brighter than Sable had ever seen them. She touched Sable's face. Traced the jawline. Turned and walked barefoot across the lawn.
+They surfaced at three-forty. The mansion dark. The willow screen. [Allicia](/npcs/allicia/)'s hair flat against her skull, her eyes brighter than [Sable](/sable-price/) had ever seen them. She touched Sable's face. Traced the jawline. Turned and walked barefoot across the lawn.
 
 She didn't look back. Looking back would have meant stopping, and stopping would have meant choosing, and the choice was already made. It had been made on a winter night in January when a woman she'd never met walked into Elysium and didn't flinch from her gaze, and everything since then — the snow globe, the photograph, the five words and the sixth and the seventh — was just the choice arriving at its own speed.
 

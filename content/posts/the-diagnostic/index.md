@@ -84,7 +84,7 @@ The lamp hummed. The dismissal was in the air before it was in the gesture. [Dar
 
 He sat in the Cutlass and ran the ledger. An unauthorized Kindred in [Juggler](/npcs/juggler/)'s haven. A sloppy feed cleaned without cost. A Prince who appreciated the cleanup and expected the next delivery. A feeling near a van on Adams that he couldn't name and wouldn't forget, filed under the architecture that held everything except the six seconds when the architecture broke and the thing underneath said *go* and he listened.
 
-The heater caught. The cab warmed. Darius drove home through streets that were empty in the way Gary's streets were always empty -- not the emptiness of absence but the emptiness of everyone being inside with the doors locked, which was a different kind of full.
+The heater caught. The cab warmed. [Darius](/darius-cole/) drove home through streets that were empty in the way Gary's streets were always empty -- not the emptiness of absence but the emptiness of everyone being inside with the doors locked, which was a different kind of full.
 
 He didn't know about the leather notebook. He didn't know that a man with burn scars under his gloves had watched him stand on a sidewalk without a breath-cloud in thirty-five-degree air and then walk away from a threat he couldn't see, and that both of those facts were now written in a hand that was steady because the hand's owner had never been afraid of what he hunted.
 

@@ -62,7 +62,7 @@ They climbed out. They called a reporter from a payphone at two in the morning. 
 
 The facility was a stone warehouse on the near north side. Three stories, bottom two painted dark, top floor rebuilt with new glass. One heartbeat upstairs. Medical equipment on the middle floor, the hum of machines working in the dark. And below the hum — the pressure. Fainter than the 7-11 but the same signature. Whatever the police had pulled from that basement was here.
 
-Sable went in through the fire escape. The second-floor lab was a controlled environment — CAT scan, examination table, monitoring equipment, a desk with two weeks of handwritten notes that read like a man's faith being simultaneously confirmed and destroyed. *Day 1: Subject appears to be male, indeterminate age. Epidermis has undergone complete calcification.* And in the margin, different pen: *God help me, [Shepard](/npcs/william-shepard/) was right.*
+[Sable](/sable-price/) went in through the fire escape. The second-floor lab was a controlled environment — CAT scan, examination table, monitoring equipment, a desk with two weeks of handwritten notes that read like a man's faith being simultaneously confirmed and destroyed. *Day 1: Subject appears to be male, indeterminate age. Epidermis has undergone complete calcification.* And in the margin, different pen: *God help me, [Shepard](/npcs/william-shepard/) was right.*
 
 The body had been moved to ground-floor cold storage. She let [Darius](/darius-cole/) in through the loading dock. The cold storage door opened with a hiss. Steel table. The body.
 

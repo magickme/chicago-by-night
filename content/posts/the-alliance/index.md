@@ -46,7 +46,7 @@ The smallest nod.
 
 Then the curse took her. The green eyes at close range, the gardenia, the lamplight on the line of [Allicia](/npcs/allicia/)'s throat, and the Toreador weakness hit [Sable](/sable-price/) like a wall of glass — beauty so absolute that the part of her mind responsible for doing things shut off. She froze. Fingers still on [Allicia](/npcs/allicia/)'s skin. Eyes locked. Held by the blood's oldest and cruelest gift: to see beauty more clearly than any creature alive and be paralyzed by it.
 
-[Allicia](/npcs/allicia/) watched it happen. She knew the weakness. She had it too. She saw [Sable](/sable-price/) freeze mid-gesture, and she understood, and she didn't pull away. She didn't cover herself. She stayed perfectly still and let Sable look, because this was the one thing in her life that wasn't performance or control or ownership. A woman frozen by the beauty of another woman, and neither of them chose it, and neither of them could stop it, and the honesty of that was more naked than skin.
+[Allicia](/npcs/allicia/) watched it happen. She knew the weakness. She had it too. She saw [Sable](/sable-price/) freeze mid-gesture, and she understood, and she didn't pull away. She didn't cover herself. She stayed perfectly still and let [Sable](/sable-price/) look, because this was the one thing in her life that wasn't performance or control or ownership. A woman frozen by the beauty of another woman, and neither of them chose it, and neither of them could stop it, and the honesty of that was more naked than skin.
 
 Sable surfaced slowly. The room reassembled. She spent the blood and felt the warmth rise in her cheeks — the blush, the old trick, vitae turned into the ghost of a living woman's flush.
 
@@ -72,6 +72,6 @@ She touched Sable's cheek one last time. Quick. The way you touch something you'
 
 Four fingers. Friday. Elysium. The same room, the same chandelier, the same prince watching. Neither of them would acknowledge what happened. Both of them would know.
 
-The side entrance. The flagstone path. The Park Avenue on the dark street. Gardenia on her dress and a photograph in her coat pocket — Allicia's hands on a piano, taken by a dead man's obsession, given freely by a woman who'd just learned what freely meant.
+The side entrance. The flagstone path. The Park Avenue on the dark street. Gardenia on her dress and a photograph in her coat pocket — [Allicia](/npcs/allicia/)'s hands on a piano, taken by a dead man's obsession, given freely by a woman who'd just learned what freely meant.
 
 The lakefront road heading west. Blood at seven. The porch light shrinking in the mirror. Inside the house, a prince walked his hallways not knowing that the most valuable thing he owned had just discovered the word *no*, and the woman who taught it to her was driving away in a stolen Buick with the window down and the lake air cold on her face and the blush already fading because the blood only pretends for so long, but the warmth underneath it — the real warmth, the kind that doesn't cost a thing — that stayed.
