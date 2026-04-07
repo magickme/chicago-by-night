@@ -532,6 +532,50 @@ A Scandinavian Gangrel bloodline, the shamanic seers of the Sami people. Practit
 
 ---
 
+## Special Categories
+
+These are not clans in the traditional sense but occupy distinct structural positions in the Kindred political ecosystem.
+
+---
+
+### Caitiff — The Unaffiliated
+
+**Structural position:** No clan Disciplines, no clan weakness, no institutional backing of any kind. Social pariah in the Camarilla (no Primogen representation, automatic suspicion); officially recognized in the Sabbat as Panders; natural rank-and-file in the Anarch Movement.
+
+**The strategic error:** Treating the lack of clan as a deficit to compensate for rather than a different kind of structural position.
+
+**The optimal play:** The Caitiff's two actual advantages are **underestimation** and **flexibility.** Every other Kindred dismisses them. This is political cover that functions similarly to the Malkavian's madness framing or the Nosferatu's social invisibility — the vampire no one takes seriously can operate without scrutiny that dogs more prestigious bloodlines. Meanwhile, the lack of clan weakness means no Frenzy exploitability, no Appearance 0, no feeding restriction, no Blood Oath. The floor is lower; the ceiling is uncapped by the usual clan constraints.
+
+Discipline investment strategy: rather than trying to imitate a specific clan, identify the single most valuable Discipline available in the current political environment and acquire it, accepting the out-of-clan experience cost as the price of the position.
+
+**Key insight:** The Caitiff who understands their structural invisibility and uses it deliberately becomes harder to read than any clan-aligned vampire, because there is no clan template to anticipate. There is no "Caitiff playbook" for elders to counter.
+
+---
+
+### Panders — The Sabbat's Own
+
+The Sabbat name for Caitiff within the sect. Joseph Pander successfully argued for Caitiff recognition as a full Sabbat clan in the modern nights, winning official representation in Sabbat structure — something no Camarilla Caitiff has ever achieved. The recognition is genuine in some packs and nominal in others; clan-proud Lasombra and Tzimisce often view Panders with the same contempt Camarilla elders show Caitiff.
+
+**The structural difference from Caitiff generally:** Official recognition creates a baseline of legitimacy that Caitiff in other sects lack. A Pander can claim clan representation, attend Sabbat conclaves, and participate in the sect's formal political processes in ways that Camarilla Caitiff structurally cannot. The stigma is real; the recognition is also real.
+
+**The optimal play:** Numbers. Panders are the most common Sabbat vampires — they are the rank-and-file. A politically sophisticated Pander who builds coalition among other Panders and disenfranchised Sabbat members can constitute genuine political pressure within a pack or diocese. This is the Brujah model applied at smaller scale: unite the resentful, make the resentment useful, convert numerical majority into political leverage.
+
+---
+
+### Thin-Bloods (Duskborn)
+
+**Structural position:** 14th and 15th generation vampires — the most diluted blood in existence. Barely supernatural. Their proliferation is cited in some interpretations of the Book of Nod as a sign of Gehenna's approach, which makes them targets of suspicion and active elimination by both major sects.
+
+**Mechanical reality:** Cannot reliably learn standard Disciplines; blood does not create stable blood bonds; Embrace attempts frequently fail. Some retain the ability to eat mortal food; some can briefly tolerate early morning or late evening light; some can still have biological children. **Thin-Blood Alchemy** (in chronicles using V5 mechanic backports) allows creation of alchemical preparations from their blood mixed with mundane substances — the only genuinely unique supernatural capability they possess, and the only one that isn't simply a weakened version of a standard vampire power.
+
+**The strategic angle:** The Thin-Blood's structural advantage is **mortal world access** — the deepest cover of any Kindred. They eat. They blush. They may walk at dawn. They maintain mortal relationships without the tells that eventually expose other vampires. In contexts where mortal world integration is the primary power base, this is genuinely valuable. The Toreador pays a high supernatural price to maintain mortal relationships; the Thin-Blood maintains them almost for free.
+
+**The optimal play:** Lean into mortality rather than fighting it. Thin-Blood Alchemy (if available) converts the diluted blood into a unique capability — a form of situational alchemy that no other Kindred can replicate. Build power through mortal networks, treat the Kindred world as a secondary environment rather than the primary one, and find the one sect or community that provides protection in exchange for the unique services only a Thin-Blood can render.
+
+**The existential constraint:** Most Princes have standing instructions — hunt or exile Thin-Bloods on sight. The Sabbat views them as either Gehenna harbingers to be destroyed or disposable fodder. The most hospitable environment is the Anarch Movement, where some Barons actively shelter them as evidence that the old power structures are breaking down. Even there, protection is contingent.
+
+---
+
 ## Sect Strategies
 
 ### Camarilla

@@ -333,6 +333,24 @@ Wait — I actually placed Ventrue antitribu in D earlier. Let me reconsider. Th
 
 ---
 
+### Caitiff
+
+**Suite:** Any Disciplines, at out-of-clan cost — **No clan weakness**
+**Position:** Social pariah in Camarilla; officially recognized in Sabbat (as Panders); natural rank-and-file in Anarch; functional Independent
+**Weakness impact:** Inverted — the *absence* of a clan weakness is the structural advantage; the out-of-clan Discipline cost is the constraint
+
+No clan template means no clan playbook for elders to anticipate and counter. The Discipline flexibility is real but expensive; the lack of clan weakness (no Frenzy compulsion, no Appearance penalty, no feeding restriction, no Blood Oath) is the more important structural fact. Every other vampire carries a built-in exploitable constraint. The Caitiff does not.
+
+The ceiling is C rather than B because the absence of institutional backing — no Primogen, no lineage, no clan defense network — means every gain must be made individually from a position of social stigma. The underestimation that comes with that stigma is the only political cover available, and it is genuinely useful. A Caitiff who plays the invisibility deliberately is harder to read than any clan-aligned vampire because there is no template.
+
+---
+
+### Panders (Sabbat Caitiff)
+
+Mechanically identical to Caitiff. The strategic difference is Joseph Pander's successful advocacy for official Sabbat clan recognition — a Pander has institutional standing that Camarilla Caitiff permanently lack: Sabbat conclave representation, pack standing, the ability to participate in sect politics formally. The stigma from clan-proud Lasombra and Tzimisce is real; the recognition is also real. C tier because the numbers advantage (Panders are the Sabbat's most common vampires) enables the Brujah coalition model at small scale — unite the resentful rank-and-file, convert majority into pressure — without the Brujah's natural political infrastructure.
+
+---
+
 ### Ravnos
 
 Animalism (B) + Chimerstry (D) + Fortitude (B). High-variance, mobility-based play. Chimerstry's detection problem (Auspex pierces it) limits the deception model. The Vice compulsion creates a hard vulnerability — anyone who knows your specific criminal compulsion can manufacture situations that trigger it. Post-Week of Nightmares, the clan is scattered, elders dead, and the bloodline is rebuilding from near-extinction. C tier with declining trajectory.
@@ -384,6 +402,20 @@ Less stable than the parent clan, with the same Vice compulsion vulnerability an
 ### Noiad
 
 Tiny numbers, Sami regional context, shamanic spirit traditions that function primarily in that specific geographic and cultural environment. Strong individual capabilities within their tradition; near-zero achievable position outside Scandinavia and the Sami context.
+
+---
+
+### Thin-Bloods (Duskborn)
+
+**Suite:** Disciplines inaccessible or severely limited — Thin-Blood Alchemy (V5 backport) is their only unique capability
+**Position:** Hunted by Camarilla as Gehenna harbingers; used as Sabbat fodder; most tolerated in Anarch Free States
+**Weakness impact:** Defining — the diluted blood is the entire constraint; almost none of vampirism's powers, all of its vulnerabilities
+
+The only ranking entry where the primary strategic advantage is proximity to mortality. Thin-Bloods eat, blush, may tolerate early dawn light, and maintain mortal relationships without the tells that eventually expose other vampires. The Toreador pays an enormous price for deep mortal-world access; the Thin-Blood has it by default. In contexts where mortal cover is the primary power base, this is the strongest available position.
+
+Thin-Blood Alchemy converts diluted blood into situational alchemical preparations — the only genuinely unique supernatural capability they possess. It is not powerful by vampire standards. It is theirs alone, which matters strategically.
+
+D tier rather than F because the floor is survivable in Anarch environments and the mortal-world access ceiling is real. Floor approaches F in any city with a standing thin-blood Blood Hunt, which describes most Camarilla domains.
 
 ---
 
@@ -477,7 +509,10 @@ The Laibon are not comparable to Western Kindred on this ranking — they play a
 | C | Serpents of the Light | Anti-corruption niche in Sabbat |
 | C | Assamite antitribu | Service monopoly; reduced Sabbat demand |
 | C | Ventrue antitribu | Suite intact; institutional advantage gone |
+| C | Caitiff | No weakness; underestimation as cover; flexibility without institutional backing |
+| C | Panders | Caitiff with official Sabbat recognition; coalition via numbers |
 | C | Ravnos | High variance; Vice vulnerability; clan scattered |
+| D | Thin-Bloods | Mortal-world access; hunted everywhere; Alchemy as sole unique capability |
 | D | Tremere antitribu | Thaumaturgy without Pyramid; hunted |
 | D | Gargoyles | Survivability; near-zero political agency |
 | D | Blood Brothers | Circle-only utility |
