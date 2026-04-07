@@ -1,0 +1,43 @@
+---
+title: "Disciplines"
+description: "All V20 Disciplines with complete dot-by-dot power descriptions, costs, dice pools, and durations."
+weight: 20
+---
+
+Disciplines are supernatural powers awakened by the vampiric condition. They develop through blood expenditure, instruction, and practice. Each dot represents a discrete power; higher-level powers require all lower levels as prerequisites.
+
+## Using This Reference
+
+Each Discipline page lists powers in dot order (● through ●●●●●), followed by Elder/Combination powers where applicable. The standard format for each power:
+
+> **Cost** | **Dice Pool** | **Duration**
+
+Then the mechanical and narrative description.
+
+**General rules:**
+- Most powers cost 1 Blood Point and/or 1 Willpower Point to activate
+- Activation is instant unless noted as a sustained action
+- Discipline rolls typically use an Attribute + relevant Ability, opposed by the target's Willpower or a static difficulty
+- Botching a Discipline roll against a True Faith target may result in burnout (see [Ghouls & True Faith](../society/ghouls/))
+
+## Resistance
+
+To resist Presence or Dominate: spend 1 Willpower per scene. Vampires three or more Generations lower may resist for an entire night with 1 WP spend. Spending WP does not guarantee resistance — it grants a resistance roll in most cases.
+
+## Clan Disciplines
+
+| Clan | Disciplines |
+|------|------------|
+| Ventrue | Dominate, Fortitude, Presence |
+| Toreador | Auspex, Celerity, Presence |
+| Brujah | Celerity, Potence, Presence |
+| Gangrel | Animalism, Fortitude, Protean |
+| Nosferatu | Animalism, Obfuscate, Potence |
+| Malkavian | Auspex, Dementation, Obfuscate |
+| Tremere | Auspex, Dominate, Thaumaturgy |
+| Lasombra | Dominate, Obtenebration, Potence |
+| Tzimisce | Animalism, Auspex, Vicissitude |
+| Assamite | Celerity, Obfuscate, Quietus |
+| Ravnos | Animalism, Chimerstry, Fortitude |
+| Followers of Set | Obfuscate, Presence, Serpentis |
+| Giovanni | Dominate, Necromancy, Potence |

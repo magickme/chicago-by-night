@@ -11,8 +11,8 @@
 </div>
 {{ end }}
 
-{{/* Regular pages within this section */}}
-{{ $pages := .Pages }}
+{{/* Regular pages within this section (non-section pages only) */}}
+{{ $pages := .RegularPages }}
 {{ if $pages }}
 <div class="ref-section-grid">
   {{ range $pages }}

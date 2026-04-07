@@ -1,7 +1,7 @@
 ---
 title: "Solo Engine"
 description: "Mythic GME 2E oracle and Tourniquet Scale. Scene testing, Fate Chart, Chaos Factor, Random Events, and narrative momentum burns."
-weight: 10
+weight: 50
 ---
 
 The solo engine replaces a human GM with two interlocking systems:

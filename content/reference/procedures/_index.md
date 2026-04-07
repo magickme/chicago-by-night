@@ -1,7 +1,7 @@
 ---
 title: "Play Procedures"
 description: "Scene pre-flight checklist, scene type loading guide, joint scene protocol, and bookkeeping procedure."
-weight: 40
+weight: 70
 ---
 
 Procedures define the operational rhythm of play. They exist to ensure nothing is forgotten between sessions and that every scene starts from an accurate game state.

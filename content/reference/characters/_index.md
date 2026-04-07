@@ -1,7 +1,7 @@
 ---
 title: "Characters"
 description: "PC dice pools, feeding rules, key capabilities, NPC Quick Score table, and voice cards for active NPCs."
-weight: 30
+weight: 60
 ---
 
 Chicago Chronicles follows two player characters operating in tandem across the southern Lake Michigan corridor.
