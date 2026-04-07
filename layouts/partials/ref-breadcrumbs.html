@@ -1,0 +1,23 @@
+{{/* Breadcrumbs for reference pages.
+     Outputs: Home / Reference [/ Section] [/ Page]
+     Skips Home and Reference when already at /reference/. */}}
+{{ if ne .RelPermalink "/reference/" }}
+<nav class="ref-breadcrumbs" aria-label="Breadcrumb">
+  <ol>
+    <li><a href="/">Home</a></li>
+    <li><a href="/reference/">Reference</a></li>
+    {{ if .IsSection }}
+      {{/* Section landing: Home / Reference / Section */}}
+      <li aria-current="page">{{ .Title }}</li>
+    {{ else }}
+      {{/* Regular page: Home / Reference / Section / Page */}}
+      {{ with .Parent }}
+        {{ if ne .RelPermalink "/reference/" }}
+          <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+        {{ end }}
+      {{ end }}
+      <li aria-current="page">{{ .Title }}</li>
+    {{ end }}
+  </ol>
+</nav>
+{{ end }}

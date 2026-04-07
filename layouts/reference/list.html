@@ -1,0 +1,52 @@
+{{ define "main" }}
+<div class="ref-page-header">
+  {{ partial "ref-breadcrumbs.html" . }}
+  <h1>{{ .Title }}</h1>
+  {{ with .Description }}<p class="ref-page-desc">{{ . }}</p>{{ end }}
+</div>
+
+{{ if .Content }}
+<div class="ref-prose">
+  {{ .Content }}
+</div>
+{{ end }}
+
+{{/* Regular pages within this section */}}
+{{ $pages := .Pages }}
+{{ if $pages }}
+<div class="ref-section-grid">
+  {{ range $pages }}
+  <a href="{{ .RelPermalink }}" class="ref-section-card">
+    <div class="ref-section-card-title">{{ .Title }}</div>
+    {{ with .Description }}<div class="ref-section-card-desc">{{ . }}</div>{{ end }}
+  </a>
+  {{ end }}
+</div>
+{{ end }}
+
+{{/* Subsections (for the root /reference/ page) */}}
+{{ $sections := .Sections }}
+{{ if $sections }}
+<div class="ref-section-grid{{ if $pages }} ref-section-grid--sub{{ end }}">
+  {{ range $sections }}
+  <a href="{{ .RelPermalink }}" class="ref-section-card">
+    <div class="ref-section-card-title">{{ .Title }}</div>
+    {{ with .Description }}<div class="ref-section-card-desc">{{ . }}</div>{{ end }}
+    {{ $count := len .Pages }}
+    {{ if $count }}
+    <div class="ref-section-card-meta">{{ $count }} {{ if eq $count 1 }}page{{ else }}pages{{ end }}</div>
+    {{ end }}
+  </a>
+  {{ end }}
+</div>
+{{ end }}
+{{ end }}
+
+{{ define "toc" }}
+  {{ if .TableOfContents }}
+  <div class="ref-toc-inner">
+    <div class="ref-toc-label">On this page</div>
+    {{ .TableOfContents }}
+  </div>
+  {{ end }}
+{{ end }}

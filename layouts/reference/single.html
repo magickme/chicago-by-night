@@ -1,0 +1,29 @@
+{{ define "main" }}
+<div class="ref-page-header">
+  {{ partial "ref-breadcrumbs.html" . }}
+  <h1>{{ .Title }}</h1>
+  {{ with .Description }}<p class="ref-page-desc">{{ . }}</p>{{ end }}
+</div>
+
+<div class="ref-prose">
+  {{ .Content }}
+</div>
+
+<nav class="ref-page-nav" aria-label="Page navigation">
+  {{ with .PrevInSection }}
+    <a href="{{ .RelPermalink }}" class="ref-page-nav-prev">← {{ .Title }}</a>
+  {{ end }}
+  {{ with .NextInSection }}
+    <a href="{{ .RelPermalink }}" class="ref-page-nav-next">{{ .Title }} →</a>
+  {{ end }}
+</nav>
+{{ end }}
+
+{{ define "toc" }}
+  {{ if .TableOfContents }}
+  <div class="ref-toc-inner">
+    <div class="ref-toc-label">On this page</div>
+    {{ .TableOfContents }}
+  </div>
+  {{ end }}
+{{ end }}

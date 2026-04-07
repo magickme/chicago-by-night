@@ -21,6 +21,8 @@ params:
           url: "/about/"
         - name: "Why This Game"
           url: "/why/"
+        - name: "SRD / Reference →"
+          url: "/reference/"
     - heading: "The Story"
       items:
         - name: "Dashboard"

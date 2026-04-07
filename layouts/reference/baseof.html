@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode | default "en" }}">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="color-scheme" content="light dark">
+  <script>
+    (function() {
+      var t = localStorage.getItem('theme') || (window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light');
+      document.documentElement.setAttribute('data-theme', t);
+    })();
+  </script>
+  <title>{{ if .IsHome }}Reference | {{ .Site.Title }}{{ else }}{{ .Title }} — Reference | {{ .Site.Title }}{{ end }}</title>
+  <meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{ .Site.Params.description }}{{ end }}">
+  {{ hugo.Generator }}
+  <link rel="icon" href="/favicon.svg" type="image/svg+xml">
+  <link rel="preload" href="/fonts/cormorant-400.woff2" as="font" type="font/woff2" crossorigin>
+  <link rel="preload" href="/fonts/cinzel-600.woff2" as="font" type="font/woff2" crossorigin>
+  <style>
+    @font-face { font-family: 'Cinzel'; font-style: normal; font-weight: 400; font-display: swap; src: url('/fonts/cinzel-400.woff2') format('woff2'); }
+    @font-face { font-family: 'Cinzel'; font-style: normal; font-weight: 600; font-display: swap; src: url('/fonts/cinzel-600.woff2') format('woff2'); }
+    @font-face { font-family: 'Cinzel'; font-style: normal; font-weight: 700; font-display: swap; src: url('/fonts/cinzel-700.woff2') format('woff2'); }
+    @font-face { font-family: 'Cormorant Garamond'; font-style: normal; font-weight: 400; font-display: swap; src: url('/fonts/cormorant-400.woff2') format('woff2'); }
+    @font-face { font-family: 'Cormorant Garamond'; font-style: normal; font-weight: 500; font-display: swap; src: url('/fonts/cormorant-500.woff2') format('woff2'); }
+    @font-face { font-family: 'Cormorant Garamond'; font-style: normal; font-weight: 600; font-display: swap; src: url('/fonts/cormorant-600.woff2') format('woff2'); }
+    @font-face { font-family: 'Cormorant Garamond'; font-style: italic; font-weight: 400; font-display: swap; src: url('/fonts/cormorant-400i.woff2') format('woff2'); }
+    @font-face { font-family: 'Cormorant Garamond'; font-style: italic; font-weight: 500; font-display: swap; src: url('/fonts/cormorant-500i.woff2') format('woff2'); }
+    @font-face { font-family: 'Cormorant Garamond'; font-style: italic; font-weight: 600; font-display: swap; src: url('/fonts/cormorant-600i.woff2') format('woff2'); }
+  </style>
+  {{ $style := resources.Get "css/main.css" | minify | fingerprint }}
+  <link rel="stylesheet" href="{{ $style.RelPermalink }}">
+  {{ $ref := resources.Get "css/reference.css" | minify | fingerprint }}
+  <link rel="stylesheet" href="{{ $ref.RelPermalink }}">
+  <link rel="canonical" href="{{ .Permalink }}">
+  <meta property="og:title" content="{{ .Title }}">
+  <meta property="og:description" content="{{ with .Description }}{{ . }}{{ else }}{{ .Site.Params.description }}{{ end }}">
+  <meta property="og:url" content="{{ .Permalink }}">
+  <meta property="og:site_name" content="{{ .Site.Title }}">
+  <meta name="twitter:card" content="summary">
+</head>
+<body class="reference">
+  <a href="#main-content" class="skip-link">Skip to content</a>
+  <div class="ref-wrapper">
+
+    {{/* Left navigation sidebar */}}
+    <aside class="ref-sidebar" aria-label="Reference navigation">
+      {{ partial "ref-nav.html" . }}
+    </aside>
+
+    {{/* Content body + optional right TOC */}}
+    <div class="ref-body">
+      <main id="main-content" class="ref-content" role="main">
+        {{ block "main" . }}{{ end }}
+      </main>
+      <aside class="ref-toc-panel" aria-label="On this page">
+        {{ block "toc" . }}{{ end }}
+      </aside>
+    </div>
+
+  </div>
+
+  {{/* Theme toggle — reads/writes same localStorage key as main site */}}
+  <script>
+    (function() {
+      var toggle = document.getElementById('theme-toggle');
+      if (!toggle) return;
+      var theme = localStorage.getItem('theme') ||
+        (window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light');
+      document.documentElement.setAttribute('data-theme', theme);
+      toggle.textContent = theme === 'dark' ? 'Light mode' : 'Dark mode';
+      toggle.addEventListener('click', function() {
+        var next = document.documentElement.getAttribute('data-theme') === 'dark' ? 'light' : 'dark';
+        document.documentElement.setAttribute('data-theme', next);
+        localStorage.setItem('theme', next);
+        toggle.textContent = next === 'dark' ? 'Light mode' : 'Dark mode';
+      });
+    })();
+  </script>
+
+  {{/* Heading anchor links */}}
+  <script>
+    (function() {
+      var prose = document.querySelector('.ref-prose');
+      if (!prose) return;
+      prose.querySelectorAll('h2[id], h3[id], h4[id]').forEach(function(h) {
+        var a = document.createElement('a');
+        a.href = '#' + h.id;
+        a.className = 'heading-anchor';
+        a.setAttribute('aria-hidden', 'true');
+        a.textContent = '#';
+        h.appendChild(a);
+      });
+    })();
+  </script>
+
+  {{/* TOC active state highlighting on scroll */}}
+  <script>
+    (function() {
+      var tocLinks = document.querySelectorAll('.ref-toc-inner #TableOfContents a');
+      if (!tocLinks.length) return;
+      var headings = Array.from(document.querySelectorAll('.ref-prose h2[id], .ref-prose h3[id], .ref-prose h4[id]'));
+      if (!headings.length) return;
+      var observer = new IntersectionObserver(function(entries) {
+        entries.forEach(function(e) {
+          if (e.isIntersecting) {
+            tocLinks.forEach(function(l) { l.classList.remove('toc-active'); });
+            var sel = '.ref-toc-inner #TableOfContents a[href="#' + e.target.id + '"]';
+            var active = document.querySelector(sel);
+            if (active) active.classList.add('toc-active');
+          }
+        });
+      }, { rootMargin: '-8% 0% -82% 0%' });
+      headings.forEach(function(h) { observer.observe(h); });
+    })();
+  </script>
+
+  {{/* Mobile sidebar: open active section group */}}
+  <script>
+    (function() {
+      var groups = document.querySelectorAll('.ref-nav-group');
+      groups.forEach(function(g) {
+        if (g.querySelector('a.is-active')) {
+          g.classList.add('is-open');
+        }
+      });
+      // Toggle groups on mobile tap
+      groups.forEach(function(g) {
+        var title = g.querySelector('.ref-nav-group-title');
+        if (!title) return;
+        title.addEventListener('click', function(e) {
+          if (window.innerWidth < 769) {
+            e.preventDefault();
+            g.classList.toggle('is-open');
+          }
+        });
+      });
+    })();
+  </script>
+</body>
+</html>

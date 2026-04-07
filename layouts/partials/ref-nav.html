@@ -1,0 +1,36 @@
+<div class="ref-sidebar-inner">
+  {{/* Back to chronicle + brand */}}
+  <a href="/" class="ref-nav-back">← Chicago Chronicles</a>
+  <a href="/reference/" class="ref-nav-brand">Reference</a>
+
+  {{/* Section tree */}}
+  <nav aria-label="Reference sections">
+    {{ $ref := .Site.GetPage "/reference" }}
+    {{ if $ref }}
+      {{ range $ref.Sections }}
+        {{ $sectionActive := hasPrefix $.RelPermalink .RelPermalink }}
+        <div class="ref-nav-group{{ if $sectionActive }} is-open{{ end }}">
+          <a href="{{ .RelPermalink }}"
+             class="ref-nav-group-title{{ if $sectionActive }} is-active{{ end }}">
+            {{- .Title -}}
+          </a>
+          <ul class="ref-nav-items">
+            {{ range .Pages }}
+              <li>
+                <a href="{{ .RelPermalink }}"
+                   {{- if eq $.RelPermalink .RelPermalink }} class="is-active" aria-current="page"{{ end }}>
+                  {{- .Title -}}
+                </a>
+              </li>
+            {{ end }}
+          </ul>
+        </div>
+      {{ end }}
+    {{ end }}
+  </nav>
+
+  {{/* Footer: theme toggle */}}
+  <div class="ref-nav-footer">
+    <button class="theme-toggle" id="theme-toggle" aria-label="Toggle dark mode">Dark mode</button>
+  </div>
+</div>

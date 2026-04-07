@@ -1,0 +1,596 @@
+/* =====================================================
+   REFERENCE — Chicago Chronicles SRD
+   Doks-inspired documentation layout.
+   Supplements main.css; loaded only for /reference/ pages.
+   ===================================================== */
+
+/* ---- Custom Properties (scoped via .reference body class) ---- */
+.reference {
+  --ref-sidebar-bg:      #0d1117;
+  --ref-sidebar-text:    #c9d1d9;
+  --ref-sidebar-muted:   #484f58;
+  --ref-sidebar-width:   16.5rem;
+  --ref-active-bg:       rgba(255,255,255,0.10);
+  --ref-active-text:     #ffffff;
+  --ref-body-bg:         #ffffff;
+  --ref-body-text:       #0f172a;
+  --ref-muted:           #64748b;
+  --ref-border:          #e2e8f0;
+  --ref-code-bg:         #f1f5f9;
+  --ref-card-bg:         #f8fafc;
+  --ref-card-border:     #e2e8f0;
+  --ref-toc-width:       13rem;
+  --ref-content-max:     56rem;
+  --ref-accent:          #8B0000;
+  --ref-font-ui: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+}
+
+[data-theme="dark"] .reference {
+  --ref-body-bg:         #0d1117;
+  --ref-body-text:       #c9d1d9;
+  --ref-muted:           #6e7681;
+  --ref-border:          #21262d;
+  --ref-code-bg:         #161b22;
+  --ref-card-bg:         #161b22;
+  --ref-card-border:     #30363d;
+  --ref-sidebar-bg:      #010409;
+  --ref-sidebar-muted:   #3d444d;
+  --ref-accent:          #C24B4B;
+}
+
+/* ---- Kill the main site layout on reference pages ---- */
+.reference .site-wrapper {
+  display: block;
+  min-height: auto;
+}
+
+/* ---- Root wrapper: sidebar | content body ---- */
+.ref-wrapper {
+  display: flex;
+  min-height: 100vh;
+  background: var(--ref-body-bg);
+  color: var(--ref-body-text);
+}
+
+/* ============================================
+   LEFT NAV SIDEBAR
+   ============================================ */
+.ref-sidebar {
+  width: var(--ref-sidebar-width);
+  flex-shrink: 0;
+  background: var(--ref-sidebar-bg);
+  color: var(--ref-sidebar-text);
+  position: sticky;
+  top: 0;
+  height: 100vh;
+  overflow-y: auto;
+  overscroll-behavior: contain;
+  border-right: 1px solid rgba(255,255,255,0.04);
+}
+
+.ref-sidebar::-webkit-scrollbar { width: 3px; }
+.ref-sidebar::-webkit-scrollbar-track { background: transparent; }
+.ref-sidebar::-webkit-scrollbar-thumb { background: rgba(255,255,255,0.10); border-radius: 2px; }
+
+.ref-sidebar-inner {
+  padding: 1.5rem 1.25rem 2rem;
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+/* Back to chronicle + title */
+.ref-nav-back {
+  display: inline-block;
+  font-family: var(--ref-font-ui);
+  font-size: 0.75rem;
+  letter-spacing: 0.03em;
+  color: var(--ref-sidebar-muted);
+  margin-bottom: 0.4rem;
+  transition: color 0.15s;
+}
+.ref-nav-back:hover { color: rgba(201,209,217,0.70); }
+
+.ref-nav-brand {
+  display: block;
+  font-family: var(--font-display);
+  font-size: 1.05rem;
+  font-weight: 600;
+  letter-spacing: 0.04em;
+  color: #ffffff;
+  margin-bottom: 1.8rem;
+  line-height: 1.3;
+}
+.ref-nav-brand:hover { color: #ffffff; }
+
+/* Section group */
+.ref-nav-group {
+  margin-bottom: 0.25rem;
+}
+
+.ref-nav-group-title {
+  display: block;
+  font-family: var(--ref-font-ui);
+  font-size: 0.70rem;
+  font-weight: 600;
+  letter-spacing: 0.09em;
+  text-transform: uppercase;
+  color: var(--ref-sidebar-muted);
+  padding: 0.55rem 0 0.25rem;
+  border-top: 1px solid rgba(255,255,255,0.05);
+  margin-top: 0.6rem;
+  transition: color 0.15s;
+}
+.ref-nav-group-title:hover { color: rgba(201,209,217,0.80); }
+.ref-nav-group-title.is-active { color: rgba(201,209,217,0.90); }
+
+.ref-nav-items {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.ref-nav-items li a {
+  display: block;
+  padding: 0.22rem 0.5rem;
+  margin: 0 -0.25rem;
+  font-family: var(--ref-font-ui);
+  font-size: 0.855rem;
+  color: rgba(201,209,217,0.70);
+  border-radius: 4px;
+  transition: color 0.13s, background 0.13s;
+  line-height: 1.45;
+}
+.ref-nav-items li a:hover {
+  color: var(--ref-active-text);
+  background: var(--ref-active-bg);
+}
+.ref-nav-items li a.is-active {
+  color: var(--ref-active-text);
+  background: rgba(255,255,255,0.09);
+  font-weight: 500;
+}
+
+.ref-nav-footer {
+  margin-top: auto;
+  padding-top: 1.5rem;
+}
+
+.ref-nav-footer .theme-toggle {
+  font-family: var(--ref-font-ui);
+  font-size: 0.75rem;
+  color: var(--ref-sidebar-muted);
+  background: none;
+  border: 1px solid rgba(255,255,255,0.10);
+  padding: 0.3rem 0.75rem;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: color 0.15s, border-color 0.15s;
+  display: inline-block;
+}
+.ref-nav-footer .theme-toggle:hover {
+  color: rgba(201,209,217,0.80);
+  border-color: rgba(255,255,255,0.22);
+}
+
+/* ============================================
+   BODY: CONTENT + ON-PAGE TOC
+   ============================================ */
+.ref-body {
+  flex: 1;
+  min-width: 0;
+  display: flex;
+  background: var(--ref-body-bg);
+}
+
+.ref-content {
+  flex: 1;
+  min-width: 0;
+  max-width: var(--ref-content-max);
+  padding: 2.75rem 2.75rem 5rem;
+}
+
+/* On-page TOC panel */
+.ref-toc-panel {
+  width: var(--ref-toc-width);
+  flex-shrink: 0;
+  padding: 2.75rem 1.25rem 2.75rem 0;
+}
+
+.ref-toc-inner {
+  position: sticky;
+  top: 1.5rem;
+}
+
+.ref-toc-label {
+  font-family: var(--ref-font-ui);
+  font-size: 0.70rem;
+  font-weight: 600;
+  letter-spacing: 0.09em;
+  text-transform: uppercase;
+  color: var(--ref-muted);
+  margin-bottom: 0.6rem;
+}
+
+/* Hugo generates <nav id="TableOfContents"><ul>...</ul></nav> */
+.ref-toc-inner #TableOfContents ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+.ref-toc-inner #TableOfContents ul ul {
+  padding-left: 0.85rem;
+  margin-top: 0.1rem;
+}
+.ref-toc-inner #TableOfContents li {
+  margin-bottom: 0;
+}
+.ref-toc-inner #TableOfContents li a {
+  display: block;
+  font-family: var(--ref-font-ui);
+  font-size: 0.795rem;
+  color: var(--ref-muted);
+  padding: 0.18rem 0;
+  line-height: 1.45;
+  text-decoration: none;
+  border-left: 2px solid transparent;
+  padding-left: 0.5rem;
+  margin-left: -0.5rem;
+  transition: color 0.13s, border-color 0.13s;
+}
+.ref-toc-inner #TableOfContents li a:hover {
+  color: var(--ref-body-text);
+}
+.ref-toc-inner #TableOfContents li a.toc-active {
+  color: var(--ref-accent);
+  border-left-color: var(--ref-accent);
+  font-weight: 500;
+}
+
+/* ============================================
+   BREADCRUMBS
+   ============================================ */
+.ref-breadcrumbs {
+  margin-bottom: 1rem;
+}
+
+.ref-breadcrumbs ol {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  font-family: var(--ref-font-ui);
+  font-size: 0.82rem;
+  color: var(--ref-muted);
+}
+
+.ref-breadcrumbs li + li::before {
+  content: "/";
+  margin: 0 0.45em;
+  opacity: 0.35;
+  color: var(--ref-muted);
+}
+
+.ref-breadcrumbs a {
+  color: var(--ref-muted);
+  text-decoration: none;
+  transition: color 0.13s;
+}
+.ref-breadcrumbs a:hover { color: var(--ref-body-text); }
+.ref-breadcrumbs [aria-current="page"] { color: var(--ref-body-text); }
+
+/* ============================================
+   PAGE HEADER
+   ============================================ */
+.ref-page-header {
+  margin-bottom: 2rem;
+  padding-bottom: 1.25rem;
+  border-bottom: 1px solid var(--ref-border);
+}
+
+.ref-page-header h1 {
+  font-size: 2.0rem;
+  margin: 0.25rem 0 0.4rem;
+  color: var(--ref-body-text);
+  font-family: var(--font-display);
+  font-weight: 700;
+  line-height: 1.2;
+}
+
+.ref-page-desc {
+  font-family: var(--ref-font-ui);
+  font-size: 0.97rem;
+  color: var(--ref-muted);
+  margin: 0.5rem 0 0;
+  line-height: 1.55;
+}
+
+/* ============================================
+   REFERENCE PROSE
+   Body text for reference doc pages.
+   ============================================ */
+.ref-prose {
+  font-size: 0.965rem;
+  line-height: 1.72;
+  color: var(--ref-body-text);
+}
+
+.ref-prose p {
+  margin-bottom: 1.15em;
+}
+
+/* Override the global h2/h3 accent color for reference pages */
+.ref-prose h2 {
+  font-size: 1.3rem;
+  margin-top: 2.5rem;
+  margin-bottom: 0.6rem;
+  color: var(--ref-body-text);
+  border-bottom-color: var(--ref-accent);
+  padding-bottom: 0.25em;
+}
+
+.ref-prose h3 {
+  font-size: 1.1rem;
+  margin-top: 1.75rem;
+  margin-bottom: 0.4rem;
+  color: var(--ref-accent);
+}
+
+.ref-prose h4 {
+  font-size: 0.965rem;
+  margin-top: 1.4rem;
+  margin-bottom: 0.3rem;
+  color: var(--ref-body-text);
+  font-weight: 600;
+  font-family: var(--font-display);
+  letter-spacing: 0.03em;
+}
+
+/* Anchor indicator added by JS */
+.ref-prose .heading-anchor {
+  opacity: 0;
+  margin-left: 0.4em;
+  font-size: 0.8em;
+  color: var(--ref-muted);
+  transition: opacity 0.13s;
+  font-family: var(--ref-font-ui);
+  font-weight: 400;
+}
+.ref-prose h2:hover .heading-anchor,
+.ref-prose h3:hover .heading-anchor,
+.ref-prose h4:hover .heading-anchor {
+  opacity: 1;
+}
+
+.ref-prose strong {
+  font-weight: 600;
+  color: var(--ref-body-text);
+}
+
+.ref-prose em { font-style: italic; }
+
+.ref-prose ul, .ref-prose ol {
+  padding-left: 1.5rem;
+  margin-bottom: 1.15em;
+}
+.ref-prose li { margin-bottom: 0.3em; }
+
+.ref-prose a {
+  color: var(--ref-accent);
+  text-decoration: underline;
+  text-underline-offset: 2px;
+  text-decoration-color: rgba(139,0,0,0.35);
+  transition: text-decoration-color 0.13s;
+}
+.ref-prose a:hover { text-decoration-color: var(--ref-accent); }
+
+[data-theme="dark"] .ref-prose a {
+  text-decoration-color: rgba(194,75,75,0.35);
+}
+[data-theme="dark"] .ref-prose a:hover {
+  text-decoration-color: var(--ref-accent);
+}
+
+/* Blockquote — callout style */
+.ref-prose blockquote {
+  margin: 1.5em 0;
+  padding: 0.8em 1.25em;
+  border-left: 3px solid var(--ref-accent);
+  background: var(--ref-card-bg);
+  border-radius: 0 6px 6px 0;
+  color: var(--ref-muted);
+  font-style: normal;
+}
+.ref-prose blockquote p { margin-bottom: 0.4em; }
+.ref-prose blockquote p:last-child { margin-bottom: 0; }
+
+/* HR as section divider */
+.ref-prose hr {
+  border: none;
+  border-top: 1px solid var(--ref-border);
+  margin: 2rem 0;
+}
+
+/* Tables — inherit global styles but ensure body bg contrast in dark mode */
+[data-theme="dark"] .ref-prose td,
+[data-theme="dark"] .ref-prose th {
+  background: inherit;
+}
+[data-theme="dark"] .ref-prose tr:nth-child(even) {
+  background: rgba(255,255,255,0.025);
+}
+[data-theme="dark"] .ref-prose th {
+  background: rgba(194,75,75,0.12);
+}
+
+/* Code — override for reference pages */
+.ref-prose code {
+  background: var(--ref-code-bg);
+  color: var(--ref-accent);
+  font-size: 0.85em;
+  padding: 0.15em 0.4em;
+  border-radius: 3px;
+  font-family: ui-monospace, 'Cascadia Code', 'Fira Code', monospace;
+}
+
+[data-theme="dark"] .ref-prose code {
+  background: var(--ref-code-bg);
+  color: #e06c75;
+}
+
+.ref-prose pre {
+  background: #161b22;
+  color: #e6edf3;
+  padding: 1em 1.2em;
+  border-radius: 6px;
+  overflow-x: auto;
+  margin: 1.5em 0;
+  font-size: 0.875rem;
+  line-height: 1.55;
+  border: 1px solid var(--ref-border);
+}
+
+[data-theme="dark"] .ref-prose pre {
+  border-color: #30363d;
+}
+
+.ref-prose pre code {
+  background: none;
+  color: inherit;
+  padding: 0;
+  font-size: inherit;
+}
+
+/* Definition list style (markdown tables used as DL-like) */
+.ref-prose table {
+  font-size: 0.9rem;
+}
+
+/* ============================================
+   SECTION LANDING — card grid
+   ============================================ */
+.ref-section-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(15rem, 1fr));
+  gap: 0.85rem;
+  margin-top: 1.75rem;
+}
+
+.ref-section-card {
+  display: block;
+  padding: 1.1rem 1.25rem;
+  background: var(--ref-card-bg);
+  border: 1px solid var(--ref-card-border);
+  border-radius: 8px;
+  text-decoration: none;
+  transition: border-color 0.15s, box-shadow 0.15s, background 0.15s;
+}
+.ref-section-card:hover {
+  border-color: var(--ref-accent);
+  box-shadow: 0 2px 10px rgba(0,0,0,0.07);
+}
+
+.ref-section-card-title {
+  font-family: var(--font-display);
+  font-size: 0.97rem;
+  font-weight: 600;
+  letter-spacing: 0.02em;
+  color: var(--ref-body-text);
+  margin-bottom: 0.3rem;
+}
+.ref-section-card:hover .ref-section-card-title {
+  color: var(--ref-accent);
+}
+
+.ref-section-card-desc {
+  font-family: var(--ref-font-ui);
+  font-size: 0.83rem;
+  color: var(--ref-muted);
+  line-height: 1.45;
+}
+
+.ref-section-card-meta {
+  font-family: var(--ref-font-ui);
+  font-size: 0.75rem;
+  color: var(--ref-sidebar-muted);
+  margin-top: 0.5rem;
+}
+
+.ref-section-grid--sub {
+  margin-top: 1rem;
+}
+
+/* Section overview — intro text above the grid */
+.ref-section-intro {
+  font-family: var(--ref-font-ui);
+  font-size: 0.94rem;
+  color: var(--ref-muted);
+  line-height: 1.6;
+  margin-bottom: 0.5rem;
+}
+
+/* ============================================
+   PREV / NEXT NAVIGATION
+   ============================================ */
+.ref-page-nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 3.5rem;
+  padding-top: 1.5rem;
+  border-top: 1px solid var(--ref-border);
+  gap: 1rem;
+}
+
+.ref-page-nav a {
+  font-family: var(--ref-font-ui);
+  font-size: 0.9rem;
+  color: var(--ref-accent);
+  font-weight: 500;
+  text-decoration: none;
+  transition: opacity 0.15s;
+}
+.ref-page-nav a:hover { opacity: 0.75; }
+
+.ref-page-nav-next { margin-left: auto; }
+
+/* ============================================
+   RESPONSIVE
+   ============================================ */
+
+/* Hide on-page TOC on narrower viewports */
+@media (max-width: 1280px) {
+  .ref-toc-panel { display: none; }
+  .reference { --ref-content-max: 68rem; }
+}
+
+/* Collapse sidebar below tablet */
+@media (max-width: 768px) {
+  .ref-wrapper { flex-direction: column; }
+
+  .ref-sidebar {
+    width: 100%;
+    height: auto;
+    position: static;
+    border-right: none;
+    border-bottom: 1px solid rgba(255,255,255,0.06);
+  }
+
+  .ref-sidebar-inner {
+    min-height: auto;
+    padding: 1rem 1rem 1rem;
+  }
+
+  .ref-nav-back { margin-bottom: 0.2rem; }
+  .ref-nav-brand { margin-bottom: 0.75rem; }
+
+  /* Collapse nav groups on mobile — show only active */
+  .ref-nav-group:not(.is-open) .ref-nav-items { display: none; }
+  .ref-nav-group.is-open .ref-nav-items { display: block; }
+
+  .ref-nav-footer { display: none; }
+
+  .ref-content { padding: 1.5rem 1.25rem 3rem; }
+}
