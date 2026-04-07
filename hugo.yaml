@@ -75,6 +75,8 @@ params:
           url: "/clan-strategy/"
         - name: "Discipline Rankings"
           url: "/disciplines/"
+        - name: "Clan Tier Rankings"
+          url: "/clan-tier-list/"
 
 outputs:
   home:
