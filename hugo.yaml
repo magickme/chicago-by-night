@@ -67,6 +67,14 @@ params:
           url: "/random-tables/"
         - name: "Soundtrack"
           url: "/music/"
+        - name: "Game Theory"
+          url: "/theory/"
+        - name: "Optimal Strategy"
+          url: "/optimal-strategy/"
+        - name: "Clan & Sect Strategy"
+          url: "/clan-strategy/"
+        - name: "Discipline Rankings"
+          url: "/disciplines/"
 
 outputs:
   home:
