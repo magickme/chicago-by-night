@@ -160,7 +160,7 @@ The drive back. I-90. Sodium lights and long-haul trucks. [Lodin](/npcs/lodin/) 
 
 "Open the trunk."
 
-The [Drake Hotel](/locations/drake-hotel/). East side service entrance. Darius popped the trunk under a loading dock light. [Lodin](/npcs/lodin/) stood over the motel bedspread and the shape underneath for a long time. His hand found the pendant — just the pendant — and something moved behind his eyes.
+The [Drake Hotel](/locations/drake-hotel/). East side service entrance. [Darius](/darius-cole/) popped the trunk under a loading dock light. [Lodin](/npcs/lodin/) stood over the motel bedspread and the shape underneath for a long time. His hand found the pendant — just the pendant — and something moved behind his eyes.
 
 "The pendant in my vault. I acquired it from someone who told me it was a key. He didn't say what it opened."
 

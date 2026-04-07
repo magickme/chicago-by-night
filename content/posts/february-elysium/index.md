@@ -142,7 +142,7 @@ He turned his gaze back to the room. Conversation concluded. [Darius](/darius-co
 
 "Of course, boss."
 
-Modius's mouth did something complicated with the word. Nobody had called him boss in a hundred and fifty years. It landed somewhere between charmed and offended and settled on useful.
+[Modius](/npcs/modius/)'s mouth did something complicated with the word. Nobody had called him boss in a hundred and fifty years. It landed somewhere between charmed and offended and settled on useful.
 
 ---
 
@@ -174,7 +174,7 @@ He walked back to his chair. The conversation was over. The information was not.
 
 ---
 
-Sable crossed the ballroom to the piano. She sat on the left side of the bench, left the right side open, didn't touch the keys.
+[Sable](/sable-price/) crossed the ballroom to the piano. She sat on the left side of the bench, left the right side open, didn't touch the keys.
 
 "I don't play well," she said, quiet enough for [Allicia](/npcs/allicia/) and nobody else. "But I can follow if you lead."
 
@@ -196,7 +196,7 @@ Court ended the way court ends. [Lucian](/npcs/lucian/) rose and the room's cent
 
 "Next month. First Friday. I expect you all."
 
-The foyer. Coats and cold air. Darius timed the intersection at the threshold, the casual bump, shoulder to shoulder.
+The foyer. Coats and cold air. [Darius](/darius-cole/) timed the intersection at the threshold, the casual bump, shoulder to shoulder.
 
 "Hey. I saw what happened there. Tension with [Allicia](/npcs/allicia/) already?"
 

@@ -75,7 +75,7 @@ Someone had been here.
 
 The legal pad. Three days ago it had been on the table, half-hidden under a newspaper. Now it was on the counter, squared with the edge, the way a person straightens something after reading it.
 
-Walt was on the couch. Not sitting the way Darius had left him — sitting the way a man sits when he's been sitting too long and his body has found its own arrangement.
+Walt was on the couch. Not sitting the way [Darius](/darius-cole/) had left him — sitting the way a man sits when he's been sitting too long and his body has found its own arrangement.
 
 "Someone came," Walt said. His voice was dry, cracked at the edges. "Through the window. Like you."
 

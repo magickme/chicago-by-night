@@ -68,7 +68,7 @@ Helena and [Prias](/npcs/prias/) reached Carthage just as the Brujah were raisin
 
 For 1,300 years, Helena and [Menele](/npcs/menele/) fought across Eurasia. In 1415, near Agincourt, Helena and [Prias](/npcs/prias/) dealt [Menele](/npcs/menele/) a near-fatal blow. He escaped — faked his death and crossed the Atlantic.
 
-When Helena's Auspex detected [Menele](/npcs/menele/) far across the sea, she moved the Spanish Empire to send explorers westward. She joined the expedition of Hernan Cortez, along with Prias and several female progeny she had made.
+When Helena's Auspex detected [Menele](/npcs/menele/) far across the sea, she moved the Spanish Empire to send explorers westward. She joined the expedition of Hernan Cortez, along with [Prias](/npcs/prias/) and several female progeny she had made.
 
 In the Aztec capital, Helena encountered something beneath the great pyramid — a sleeping entity of such power that she fled upon sensing it. She left behind a childe, **Marie Galbraith**, and another follower, **Melinda**, who would eventually become Sabbat Cardinal of Mexico City. Both hate her. The rumors that Helena has been spotted in Mexico City continue.
 

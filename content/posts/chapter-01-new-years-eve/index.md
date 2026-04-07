@@ -72,7 +72,7 @@ Inside was warm and loud and smelled like kielbasa and spilled beer. A televisio
 
 Ray was at the bar. Red-faced, loud, waving a hand at the bartender for another round. Buying drinks he couldn't afford. [Darius](/darius-cole/) had known men like Ray his entire life — men whose generosity was a symptom of their terror, who spent money they didn't have because spending was the only language they knew for saying *I'm still here, I still matter, don't forget me.*
 
-Darius slid onto the stool beside him and put a folded twenty on the bar.
+[Darius](/darius-cole/) slid onto the stool beside him and put a folded twenty on the bar.
 
 "My round, big guy. No use drinking alone on New Year's Eve."
 

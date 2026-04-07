@@ -49,9 +49,9 @@ Cast iron. Gears and pistons and a centrifugal governor — a locomotive regulat
 
 Someone near the back laughed once.
 
-Two Milwaukee visitors flanked Sable's sightline. The silver-haired woman — [Lucina](/npcs/lucina/), Milwaukee's Toreador Primogen — watched with the quiet satisfaction of a collector watching an auction lot depreciate. Her companion, [Louis Detonas](/npcs/louis-detonas/), a sculptor with paint-stained fingers and two centuries of aristocratic contempt, looked away.
+Two Milwaukee visitors flanked [Sable](/sable-price/)'s sightline. The silver-haired woman — [Lucina](/npcs/lucina/), Milwaukee's Toreador Primogen — watched with the quiet satisfaction of a collector watching an auction lot depreciate. Her companion, [Louis Detonas](/npcs/louis-detonas/), a sculptor with paint-stained fingers and two centuries of aristocratic contempt, looked away.
 
-Sable read [Lucina](/npcs/lucina/)'s aura from across the room. Three successes bought her the emotional topography: calculating pleasure over cold ambition over territorial satisfaction. [Lucina](/npcs/lucina/) had expected something to go wrong. She'd come from Milwaukee to take a measurement, and Annabelle was measuring small.
+Sable read [Lucina](/npcs/lucina/)'s aura from across the room. Three successes bought her the emotional topography: calculating pleasure over cold ambition over territorial satisfaction. [Lucina](/npcs/lucina/) had expected something to go wrong. She'd come from Milwaukee to take a measurement, and [Annabelle](/npcs/annabelle-triabell/) was measuring small.
 
 Then the lights over the small stage dimmed and [Sophia Ayes](/sophia-ayes/) stepped onto the platform with Bret Stryker and the music started and what they did was not dancing.
 

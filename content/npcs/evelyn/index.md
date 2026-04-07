@@ -27,4 +27,4 @@ As word of [Evelyn](/npcs/evelyn-stephens/)'s exploits filtered down to the comm
 
 **Image:** [Evelyn](/npcs/evelyn-stephens/) wears a long black trench coat and shaves her head. Her chocolate-colored eyes glow in the moonlight.
 
-**Secrets:** Evelyn is aware that her pack is more than it appears and that Cranston of Ottawa has other sympathizers in Montreal. She has yet to discover who they are.
+**Secrets:** [Evelyn](/npcs/evelyn-stephens/) is aware that her pack is more than it appears and that Cranston of Ottawa has other sympathizers in Montreal. She has yet to discover who they are.

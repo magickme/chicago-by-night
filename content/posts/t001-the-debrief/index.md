@@ -70,7 +70,7 @@ He found [Brennon](/npcs/brennon-thornhill/) in the back corridor twenty minutes
 
 "Likewise."
 
-Tomás was turning to leave when Brennon said, "Grace." He pointed to the monitor. [Drummond](/npcs/edgar/) was visible on camera three, his notebook open on the balcony railing. The image was sharp enough to read. Four columns. Four letters heading each column: A, B, P, S.
+Tomás was turning to leave when [Brennon](/npcs/brennon-thornhill/) said, "Grace." He pointed to the monitor. [Drummond](/npcs/edgar/) was visible on camera three, his notebook open on the balcony railing. The image was sharp enough to read. Four columns. Four letters heading each column: A, B, P, S.
 
 [Annabelle](/npcs/annabelle-triabell/). [Ballard](/npcs/ballard/). [Portia](/npcs/portia/). [Sir Henry](/npcs/sir-henry-johnson/).
 
@@ -126,7 +126,7 @@ On the kitchen counter, a sample case that had not been there when he entered. T
 
 The middle vial bore the court enforcement sigil. The Sheriff's blood.
 
-[Nicolai](/npcs/nicolai/) had been here first. Or Nicolai's reach had been here first, which was the same thing.
+[Nicolai](/npcs/nicolai/) had been here first. Or [Nicolai](/npcs/nicolai/)'s reach had been here first, which was the same thing.
 
 ---
 

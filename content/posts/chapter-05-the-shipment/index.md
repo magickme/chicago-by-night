@@ -50,7 +50,7 @@ He didn't use it.
 
 The crew came around the warehouse corner and the bigger man was right there. Three feet. Crowbar. A face that said *I do this for a living and you are in my workplace.*
 
-Darius looked into his eyes and said, "Sleep."
+[Darius](/darius-cole/) looked into his eyes and said, "Sleep."
 
 The man's knees buckled first. Then his hand opened and the crowbar rang on the concrete — that sound again, metal on stone, everything tonight was sound and echo — and then he was down, face-first, out before he finished falling.
 

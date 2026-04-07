@@ -108,7 +108,7 @@ He closed the piano lid.
 
 Fifth Avenue. Two in the morning. The studio was cold.
 
-Sable sat on the floor beneath the photograph and looked at the pointe shoes and thought about what [Allicia](/npcs/allicia/) had told her and what she'd told [Modius](/npcs/modius/) and the distance between those two things, which was the distance between what she knew and what she'd sold, which was the distance between the woman she was becoming and the woman she was supposed to be.
+[Sable](/sable-price/) sat on the floor beneath the photograph and looked at the pointe shoes and thought about what [Allicia](/npcs/allicia/) had told her and what she'd told [Modius](/npcs/modius/) and the distance between those two things, which was the distance between what she knew and what she'd sold, which was the distance between the woman she was becoming and the woman she was supposed to be.
 
 [Allicia](/npcs/allicia/) was Blood Bound. Since 1941. Three drinks and the question of love becomes unanswerable. The Oasis taught Sable what that looked like from the outside: the regulars who came back every night, not because the drinks were good or the girls were beautiful but because the building had become the shape of their loneliness and they couldn't imagine fitting anywhere else. The Blood Bond was The Oasis with fangs. The cage was always the same shape. The bars just changed material.
 
@@ -116,7 +116,7 @@ Sable sat on the floor beneath the photograph and looked at the pointe shoes and
 
 She would not drink.
 
-She would not drink because [Allicia](/npcs/allicia/) told her not to, and [Allicia](/npcs/allicia/) was the only person in Gary who had told Sable something true without wanting something back, and that made Allicia the most dangerous person in Sable's life, because people who give you things for free are the people you owe debts you can't calculate.
+She would not drink because [Allicia](/npcs/allicia/) told her not to, and [Allicia](/npcs/allicia/) was the only person in Gary who had told Sable something true without wanting something back, and that made [Allicia](/npcs/allicia/) the most dangerous person in Sable's life, because people who give you things for free are the people you owe debts you can't calculate.
 
 Dawn pressed against the windows. Sable lay on the hardwood floor. The pointe shoes turned on their ribbons. The photograph watched.
 

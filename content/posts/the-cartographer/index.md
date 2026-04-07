@@ -94,7 +94,7 @@ Forty minutes of walking dark blocks before [Darius](/darius-cole/) found the ri
 
 Valid target. Alone. Quiet block.
 
-Two words. The man stood. Walked to the side of the duplex. Stood still. Darius fed. Two pulls — the minimum, the professional amount, the take of a predator who understood that killing the well dried the field. The man sat back down with a bottle he didn't remember putting down and an evening he'd chalk up to drinking too much.
+Two words. The man stood. Walked to the side of the duplex. Stood still. [Darius](/darius-cole/) fed. Two pulls — the minimum, the professional amount, the take of a predator who understood that killing the well dried the field. The man sat back down with a bottle he didn't remember putting down and an evening he'd chalk up to drinking too much.
 
 On the walk back to the Cutlass, three blocks north, cutting through a lot behind a collapsed gas station — the car.
 

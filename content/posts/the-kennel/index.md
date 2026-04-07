@@ -142,7 +142,7 @@ They stayed. Tangled on the chaise, the lamp painting their shadows on the wall 
 
 ---
 
-She drove [Allicia](/npcs/allicia/) back to the mansion at three. Two blocks out, killed the lights. The house was dark. Allicia opened the door, paused, touched [Sable](/sable-price/)'s hand on the steering wheel — two fingers, light, the pressure of a promise or a warning — and got out and walked toward the porch and didn't look back.
+She drove [Allicia](/npcs/allicia/) back to the mansion at three. Two blocks out, killed the lights. The house was dark. [Allicia](/npcs/allicia/) opened the door, paused, touched [Sable](/sable-price/)'s hand on the steering wheel — two fingers, light, the pressure of a promise or a warning — and got out and walked toward the porch and didn't look back.
 
 The front door opened and closed.
 

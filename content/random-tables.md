@@ -918,9 +918,9 @@ Use one headline at scene open to add mortal friction unrelated to the Jyhad. Th
 |---|---|---|
 |1-2|Cover story under scrutiny (2x)|OPEN. Warren Birch built for Gary. Chicago has 100 Kindred with Auspex. Critias engaged D037 — saw past Conformist mask, invited to faculty club. Cover intact but profile raised.|
 |3-4|Chuc Luc's pipeline (2x)|OPEN. Sire operates from Chinatown. Capone's territory. Conflict of interest. Greystone maps overlap with pipeline interests.|
-|5-6|Chicago court politics (2x)|ADVANCING. Succubus Club nexus. Wednesday Primogen session (Neally chairing). Critias +2, Gengis +1, Brennon +1. Anarchs floating Maldavis for succession.|
+|5-6|Chicago court politics (2x)|ADVANCING. Wednesday Primogen session tomorrow (Neally chairing). Critias +2, Gengis +2, Brennon +1. Wolf Pack unauthorized action night before session — political wildcard. Anarchs floating Maldavis for succession.|
 |7-8|Blood Bond steps (2x)|ACTIVE. Darius Step 1 Menele (D031 frenzy). Lodin forced bond pending. Allicia carryover.|
-|9|Anarch unrest|ADVANCING. Gengis confirmed Brewery (Thursdays after 10). Wants South Side intel. Anarchs tracking Caitiff displacement. Succession talk active.|
+|9|Anarch unrest|ADVANCING. Gengis +2 (Wolf Pack intel D038 — informal debt). Wolf Pack launched unauthorized dynamite run on Brujah safehouse night before Primogen session. Gengis sent ghouls to evacuate "Mookie's place." Outcome unknown. Brewery Thursdays after 10. Succession talk active.|
 |10-11|Ballard's counterattack (2x)|ADVANCING. Greystone Fiduciary = mortal finance network (LaSalle). Letter intercepted: 3 Annabelle properties targeted. Courier network mapped (Craig Hessler → Hayward → brownstone). "Entrée comes Friday." Annabelle warned by Sable. Camera at Sherwin-Williams has Darius's face. Forgetful Mind on Craig thin (1 succ).|
 |12|Railroad leverage|OPEN. Drummond's ledger maps unauthorized freight. Pipeline implications for Chuc Luc.|
 |13-14|Lodin's return (2x)|ACTIVE. Behind closed doors since Primogen session. Damaged. Neally chairing Wednesday. Anarchs reading weakness. Blood bond demand pending.|
@@ -930,7 +930,7 @@ Use one headline at scene open to add mortal friction unrelated to the Jyhad. Th
 |18|Damien and Neon|Anarch allies (strained). Rescued coterie. Debt owed. Belthazar staked on Wacker — when unstaked, hunt.|
 |19|Tremere breach|OPEN. Tomás found Walt's walkup Jan 10. Counter-op transparent to Tremere.|
 |20|Lodin's siring ban|OPEN. 18 years, no new Embraces. Lodin broke his own rule.|
-|21-22|Greystone / brownstone investigation (2x)|NEW D037. Maldavis task: who does Hayward meet at brownstone on Indiana Ave (25th-26th)? Greystone Fiduciary = Ballard's mortal lever. Caitiff displaced. Camera exposure risk at Sherwin-Williams.|
+|21-22|Greystone / brownstone investigation (2x)|ADVANCING D038. Brownstone confirmed "Hayward place" (neighbor). Hayward intermittent — meeting spot, not residence. "Cars at all hours." Crown Vic with alderman office parking placard. Fresh van tracks in alley. Second-floor watcher (active countersurveillance). SURVEILLANCE COMPROMISED: Darius's face seen by neighbor + possibly watcher while asking about building. Camera risk at Sherwin-Williams still open.|
 |23|Wednesday Primogen session|NEW D037. Formal Ballard adjudication. Neally chairing. Coterie needs strategy — present formally via Brennon, or observe?|
 |24|Thursday double-header|NEW D037. Critias faculty club 9 PM (both PCs). Brewery after 10 (Darius). Same night. High-value relationship building.|
 |25|Kaspar haven (establishing)|NEW D037. South Pilsen basement. Cash offer to Midwest Realty Trust pending Monday call. Functional but not yet legal.|
@@ -1004,6 +1004,7 @@ Use one headline at scene open to add mortal friction unrelated to the Jyhad. Th
 |40|Martin Hayward|
 |41|Nathaniel Bordruff|
 |42|Sabbat Scout (unnamed, Toreador antitribu?)|
+|43|Tyrus (Wolf Pack leader, Gangrel)|
 
 ## Live Story Oracles
 

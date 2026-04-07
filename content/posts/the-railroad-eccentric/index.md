@@ -31,7 +31,7 @@ The paper folded. The pen vanished.
 
 The old man looked at him the way a teacher looks at a student who answered correctly for the wrong reasons. "Someone who reads crosswords at bus stops." He adjusted the cap. "You walked past three people on this block who could tell you more about the war than CNN. The woman with the grocery cart has a son in the 1st Marine Division. The man in the doorway of the shoe repair lost his lease because his landlord is selling to a developer who doesn't exist yet. The kid at the payphone is calling a girl in Cicero who won't pick up." He paused. "You didn't look at any of them. You looked at me. That's training, not instinct."
 
-The old man knew about [Nicolai](/npcs/nicolai/)'s labeled vials. He knew about [Tomas](/npcs/tomas/)'s two visits to the [Succubus Club](/locations/succubus-club/). He knew about the second visit — the one where Tomas went looking for a Toreador who'd already left.
+The old man knew about [Nicolai](/npcs/nicolai/)'s labeled vials. He knew about [Tomas](/npcs/tomas/)'s two visits to the [Succubus Club](/locations/succubus-club/). He knew about the second visit — the one where [Tomas](/npcs/tomas/) went looking for a Toreador who'd already left.
 
 "That's not operational," the old man said. "That's personal. Personal is where the mistakes live."
 
@@ -99,7 +99,7 @@ Tomas walked down the hall to his room. Closed the door. Sat on the cot in the d
 
 Three secrets now. The Toreador woman he couldn't stop looking for. The blood ritual he performed for a stranger in a room under the street. The stranger himself — whoever he was, whatever he wanted, sitting in a chair with a newspaper on his lap and five hundred years of memory behind his eyes.
 
-The notebook was under his pillow. The bond map was on one page. [Portia](/npcs/portia/)'s name was on another. The gap between what he'd told Nicolai and what he knew was the shape of the thing he was becoming, and the thing he was becoming wasn't an analyst anymore.
+The notebook was under his pillow. The bond map was on one page. [Portia](/npcs/portia/)'s name was on another. The gap between what he'd told [Nicolai](/npcs/nicolai/) and what he knew was the shape of the thing he was becoming, and the thing he was becoming wasn't an analyst anymore.
 
 Mickey Contreras had called him El Buho. The Owl. Sits in the dark, sees everything, speaks only to deliver the verdict. Mickey meant it as a warning. Tomas had taken it as a compliment. He was starting to understand which one Mickey was right about.
 

@@ -27,11 +27,11 @@ Two hundred and twenty thousand dollars.
 
 The envelope was manila and thin and Craig held it on the bar between them like a confession. "I'm supposed to walk it to a drop at the Sherwin-[Williams](/npcs/williams/) building. Mailbox in the lobby. Tonight before midnight." He'd carried three in six months. Each time the interest got deferred another thirty days. That was the deal. Carry paper, get time.
 
-In the alley behind the Palmer House, in the steam from the kitchen vent, Darius tipped Craig Hessler's head to the side and the teeth went in and the melancholy hit his blood like a minor chord. Every sip was the second mortgage and the pawned watch and the wife and the Naperville property and the convention lanyard that might as well have been a noose. He counted two pints and pulled back and the arithmetic was better and the man slid down the wall breathing and alive and the taste stayed in Darius's mouth for hours.
+In the alley behind the Palmer House, in the steam from the kitchen vent, [Darius](/darius-cole/) tipped Craig Hessler's head to the side and the teeth went in and the melancholy hit his blood like a minor chord. Every sip was the second mortgage and the pawned watch and the wife and the Naperville property and the convention lanyard that might as well have been a noose. He counted two pints and pulled back and the arithmetic was better and the man slid down the wall breathing and alive and the taste stayed in Darius's mouth for hours.
 
 He rewrote the last five minutes and Craig walked away with a headache he'd blame on the Dewar's.
 
-The letter. He read it at the Sherwin-Williams building, hunched in a doorway on Wabash, the full moon making the type legible through the manila. Three addresses. Three attacks. Liens, leases, subpoenas. The surgical dismantling of [Annabelle Triabell](/npcs/annabelle-triabell/)'s mortal infrastructure through real estate paperwork and a cooperating landlord named Corwin. *The appetizer was [Drummond](/npcs/edgar/). Entrée comes Friday.* And at the bottom, in blue ink: *Do NOT contact W. directly.*
+The letter. He read it at the Sherwin-[Williams](/npcs/williams/) building, hunched in a doorway on Wabash, the full moon making the type legible through the manila. Three addresses. Three attacks. Liens, leases, subpoenas. The surgical dismantling of [Annabelle Triabell](/npcs/annabelle-triabell/)'s mortal infrastructure through real estate paperwork and a cooperating landlord named Corwin. *The appetizer was [Drummond](/npcs/edgar/). Entrée comes Friday.* And at the bottom, in blue ink: *Do NOT contact W. directly.*
 
 Walt.
 
@@ -63,7 +63,7 @@ Darius gave him the honest answer. "I understood what we were doing to [Ballard]
 
 In the Labyrinth, Darius and [Sable](/sable-price/) found [Raymond Falcon](/npcs/raymond-falcon/) curled on the floor of a dead-end corridor with three skinheads kicking at him. The Malkavian's child personality — Susie, three years old, the one who surfaces when trauma cracks the wheel — had taken the driver's seat and couldn't let go. Darius crouched and said her name and the wheel turned and [Raymond](/npcs/raymond-falcon/) came back like a man surfacing from deep water. The skinheads didn't remember anything afterward. [Falcon](/npcs/raymond-falcon/) remembered all of it.
 
-Deeper: [Gengis](/npcs/gengis/)'s voice through the brick. *"Your sire is wounded and the whole city can smell it."* [Brennon](/npcs/brennon-thornhill/)'s whisper, barely audible, relayed through Sable's sharpened hearing: *"The Prince's health requires discretion."* And then the word that sat in the corridor like a lit fuse: *[Maldavis](/npcs/maldavis/).*
+Deeper: [Gengis](/npcs/gengis/)'s voice through the brick. *"Your sire is wounded and the whole city can smell it."* [Brennon](/npcs/brennon-thornhill/)'s whisper, barely audible, relayed through [Sable](/sable-price/)'s sharpened hearing: *"The Prince's health requires discretion."* And then the word that sat in the corridor like a lit fuse: *[Maldavis](/npcs/maldavis/).*
 
 The city was holding its breath. [Lodin](/npcs/lodin/) behind closed doors. [Ballard](/npcs/ballard/)'s counterattack landing through mortar and paperwork. The anarchs measuring the throne. And two neonates from Gary in the middle of all of it, building infrastructure out of payphone numbers and legal pads and photocopies pinned to basement walls.
 

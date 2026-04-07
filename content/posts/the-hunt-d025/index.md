@@ -54,7 +54,7 @@ The Beast wanted all of it. For two seconds there was no [Darius Cole](/darius-c
 
 He pulled off.
 
-Dale slid down the Ford's door panel and sat in the slush with his head back and his eyes half-closed and the expression that the Kiss left on every face, which was the expression of a man touched by something he would spend his life trying to name. Darius sealed the wound. Rewrote the last five minutes. Helped Dale into the cab with the engine running and the heater on.
+Dale slid down the Ford's door panel and sat in the slush with his head back and his eyes half-closed and the expression that the Kiss left on every face, which was the expression of a man touched by something he would spend his life trying to name. [Darius](/darius-cole/) sealed the wound. Rewrote the last five minutes. Helped Dale into the cab with the engine running and the heater on.
 
 "You're alright. Just the cold."
 

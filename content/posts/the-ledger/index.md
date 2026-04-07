@@ -58,7 +58,7 @@ He drove to [Modius](/npcs/modius/) at one in the morning. [Victor](/npcs/victor
 
 "If new ones are appearing," the Prince said, "someone is reasserting a claim."
 
-He ordered Darius to continue. Watch for more markers. Identify the water presence. Do not approach [Lucian](/npcs/lucian/). That last part was not a suggestion.
+He ordered [Darius](/darius-cole/) to continue. Watch for more markers. Identify the water presence. Do not approach [Lucian](/npcs/lucian/). That last part was not a suggestion.
 
 Darius drove north along the dock road at two in the morning with the report delivered and the Prince's order in his pocket and one more task to complete before dawn. He needed blood.
 

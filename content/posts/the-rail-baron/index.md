@@ -61,11 +61,11 @@ He couldn't finish.
 
 He opened a drawer and pulled out a leather-bound ledger — old, heavy, decades of freight manifests. Routing anomalies. Cargo codes that didn't correspond. The authorized operations of a man who kept records of everything because his trains were the only thing that was his. And threaded through them, the unauthorized operations of a man who had been using those trains without permission, moving things and people through sovereign territory while the sovereign played with his models and waited for a visit that never came.
 
-Drummond pushed the ledger across the desk.
+[Drummond](/npcs/edgar/) pushed the ledger across the desk.
 
 "Take it. Take it before they come."
 
-Sable picked it up. Felt the weight of it. Set it back in his hands.
+[Sable](/sable-price/) picked it up. Felt the weight of it. Set it back in his hands.
 
 "This is yours, Mr. Drummond. You walk in with your own evidence."
 

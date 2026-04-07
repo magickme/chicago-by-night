@@ -88,7 +88,7 @@ Both Methuselahs fell into torpor. [Prias](/npcs/prias/) took [Helena](/npcs/hel
 
 From torpor, Menele called out to supporters around the world. His extra level of Auspex allows awareness of events around him while he sleeps — distorted, dreamlike, but functional. His Dominate works through touch without eye contact. The Bond carries his will to the surface through agents who do not feel the strings.
 
-The war continued through proxies. Helena's forces centered around Prince [Lodin](/npcs/lodin/). Menele controlled the Anarchs through [Critias](/npcs/critias/) and Dominated the other clan leaders. Most battles revolved around each Methuselah's attempts to kill off the other's allies.
+The war continued through proxies. [Helena](/npcs/helena/)'s forces centered around Prince [Lodin](/npcs/lodin/). Menele controlled the Anarchs through [Critias](/npcs/critias/) and Dominated the other clan leaders. Most battles revolved around each Methuselah's attempts to kill off the other's allies.
 
 ### The [Maldavis](/npcs/maldavis/) Sacrifice (Council Wars, 1983-1987)
 

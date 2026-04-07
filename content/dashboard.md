@@ -10,13 +10,13 @@ menu:
       icon: "dots"
 ---
 
-*Chicago Chronicles. Act II: Ashes and Blood. Updated: **1991-01-21 (Monday night, scene close ~11 PM)**.*
+*Chicago Chronicles. Act II: Ashes and Blood. Updated: **1991-01-22 (Tuesday night, scene close ~1 AM Wed)**.*
 
 
 
 ## Coterie Snapshot
 
-- 1991-01-21 (Monday night, scene close ~11 PM) — Sable at Succubus Club. Sir Henry provided Drake intel: Lodin can't chair Wednesday (mortal physician + 2 unknown Kindred visitors). Sophia Ayes (Annabelle's childe) met and insulted — left hostile. Gary intel traded (safe). Wednesday strategy set: attend, weaponize clan weakness, don't drink.
+- 1991-01-22 (Tuesday night, scene close ~1 AM Wed) — Darius fed (delivery driver, Loop), warned Gengis of Wolf Pack unauthorized dynamite run on Brujah safehouse near Soldier Field. Surveilled Maldavis brownstone on Indiana Ave: confirmed Hayward place, municipal car (alderman placard), second-floor watcher. Surveillance compromised (Trouble Burn). Shared intel with Sable at haven.
 - Scenes played: Darius 37, Sable 37, Tomás 2 (76 total + timeskip bluebook Aug-Nov + Dec timeskip). PCs met at Feb 2 Elysium. **COTERIE FORMED (S019, July 22).**
 - Scene-note inventory: Darius 35, Sable 37, Tomás 2 (74 total on disk; S034/S035 are joint scenes with D035/D036).
 - Sunset: 4:35 PM CST. Sunrise: 7:04 AM CST. Darkness: ~14.5 hours (mid-January).
@@ -81,9 +81,9 @@ menu:
 |---|---|
 | Cover story under scrutiny (2x) | OPEN. Warren Birch built for Gary. Chicago has 100 Kindred with Auspex. Critias engaged D037 — saw past Conformist mask, invited to faculty club. Cover intact but profile raised. |
 | Chuc Luc's pipeline (2x) | OPEN. Sire operates from Chinatown. Capone's territory. Conflict of interest. Greystone maps overlap with pipeline interests. |
-| Chicago court politics (2x) | ADVANCING. Succubus Club nexus. Wednesday Primogen session (Neally chairing). Critias +2, Gengis +1, Brennon +1. Anarchs floating Maldavis for succession. |
+| Chicago court politics (2x) | ADVANCING. Wednesday Primogen session tomorrow (Neally chairing). Critias +2, Gengis +2, Brennon +1. Wolf Pack unauthorized action night before session — political wildcard. Anarchs floating Maldavis for succession. |
 | Blood Bond steps (2x) | ACTIVE. Darius Step 1 Menele (D031 frenzy). Lodin forced bond pending. Allicia carryover. |
-| Anarch unrest | ADVANCING. Gengis confirmed Brewery (Thursdays after 10). Wants South Side intel. Anarchs tracking Caitiff displacement. Succession talk active. |
+| Anarch unrest | ADVANCING. Gengis +2 (Wolf Pack intel D038 — informal debt). Wolf Pack launched unauthorized dynamite run on Brujah safehouse night before Primogen session. Gengis sent ghouls to evacuate "Mookie's place." Outcome unknown. Brewery Thursdays after 10. Succession talk active. |
 | Ballard's counterattack (2x) | ADVANCING. Greystone Fiduciary = mortal finance network (LaSalle). Letter intercepted: 3 Annabelle properties targeted. Courier network mapped (Craig Hessler → Hayward → brownstone). "Entrée comes Friday." Annabelle warned by Sable. Camera at Sherwin-Williams has Darius's face. Forgetful Mind on Craig thin (1 succ). |
 | Railroad leverage | OPEN. Drummond's ledger maps unauthorized freight. Pipeline implications for Chuc Luc. |
 | Lodin's return (2x) | ACTIVE. Behind closed doors since Primogen session. Damaged. Neally chairing Wednesday. Anarchs reading weakness. Blood bond demand pending. |

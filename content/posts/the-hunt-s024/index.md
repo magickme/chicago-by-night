@@ -86,7 +86,7 @@ Two blocks from Kendrick's.
 
 Two blocks from the cot where [Sable](/sable-price/) slept and the cinderblock walls that were supposed to be invisible and the ghouls who were supposed to be enough.
 
-The payphone on Broadway smelled like wet metal. The Milwaukee number rang six times before a woman answered with the controlled patience of someone who answers that phone knowing what it means. Sable gave the name [Allicia](/npcs/allicia/) had whispered at Miller Beach. The line went quiet.
+The payphone on Broadway smelled like wet metal. The Milwaukee number rang six times before a woman answered with the controlled patience of someone who answers that phone knowing what it means. [Sable](/sable-price/) gave the name [Allicia](/npcs/allicia/) had whispered at Miller Beach. The line went quiet.
 
 A different voice. Lower. Central European vowels worn smooth by decades of English. A woman who spoke carefully because she was trained to speak carefully.
 

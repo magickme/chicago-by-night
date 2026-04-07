@@ -66,7 +66,7 @@ They talked under the Satie. Carefully. The way you handle something that might 
 
 They both knew what came after certainty in [Modius](/npcs/modius/)'s vocabulary.
 
-*My answer is you,* [Allicia](/npcs/allicia/) said. Said it to the keys, not to Sable, but the rose thread in her aura flared when she said it and there was no performance in that.
+*My answer is you,* [Allicia](/npcs/allicia/) said. Said it to the keys, not to [Sable](/sable-price/), but the rose thread in her aura flared when she said it and there was no performance in that.
 
 Sable nodded. One gesture, one syllable of motion, and left before the visit became long enough to note.
 

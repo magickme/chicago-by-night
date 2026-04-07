@@ -245,6 +245,12 @@ Published scenes from **Chicago Chronicles** in chronological order.
 |---|---|---|---|
 | 75 | [The Assessment](/posts/the-assessment/) | Sable | Jan 21, 1991, 4:35 PM |
 
+### Chapter 11 — The Delivery
+
+| # | Scene | PC | Date |
+|---|---|---|---|
+| 76 | [The Delivery](/posts/the-delivery/) | Darius | Jan 22, 1991, 4:35 PM |
+
 ---
 
 ## Other Chronicles

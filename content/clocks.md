@@ -5,7 +5,7 @@ layout: "page"
 slug: "clocks"
 ---
 
-*Chicago pressure board. Updated: **1991-01-21 (Monday night, scene close ~11 PM)**. Session state is authoritative for all clock levels.*
+*Chicago pressure board. Updated: **1991-01-22 (Tuesday night, scene close ~1 AM Wed)**. Session state is authoritative for all clock levels.*
 
 
 

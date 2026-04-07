@@ -25,7 +25,7 @@ She sat with it. Six women. The number had weight.
 
 714 was [Lorraine](/npcs/lorraine-matthews/). She'd known [Lorraine](/npcs/lorraine-matthews/) in a distant way — a woman who had three kids and kept a begonia on the windowsill and came home from the currency exchange on Fridays with grocery bags that were never quite full enough. 709 was somebody's cousin. Two doors from her mother's apartment. Four doors from 718.
 
-The north stairwell lock had been broken since 1982. The fluorescent on the second landing had burned out when Sable was fourteen and been reported six times to maintenance and replaced never. She went up in the dark by memory, one hand on the cinderblock wall that was cold even through the winter, and the cold was her cold now, a reflection, and the smell of the building came back to her: cleaning fluid and old cooking oil and the particular closeness of too many people in not enough space. A smell she had climbed out of with her face and her body and her mother's kitchen money, and here she was climbing back into it.
+The north stairwell lock had been broken since 1982. The fluorescent on the second landing had burned out when [Sable](/sable-price/) was fourteen and been reported six times to maintenance and replaced never. She went up in the dark by memory, one hand on the cinderblock wall that was cold even through the winter, and the cold was her cold now, a reflection, and the smell of the building came back to her: cleaning fluid and old cooking oil and the particular closeness of too many people in not enough space. A smell she had climbed out of with her face and her body and her mother's kitchen money, and here she was climbing back into it.
 
 Seventh floor. The maintenance tape was yellow, the aggressive yellow of bureaucratic caution, stretched across 714 and then again across 709. Somebody had written *DO NOT ENTER — AUTHORIZED PERSONNEL* in black marker and misspelled *authorized.* The tape was new enough to still be taut.
 
@@ -125,7 +125,7 @@ He offered her a Wednesday meeting. After midnight, Church of Christ, 53rd Stree
 
 "[Khalid](/npcs/khalid-al-rashid/) has been watching this for six weeks," Sable said.
 
-"Khalid watches a great many things for a great many weeks."
+"[Khalid](/npcs/khalid-al-rashid/) watches a great many things for a great many weeks."
 
 "He hasn't told the Primogen."
 
@@ -133,7 +133,7 @@ He offered her a Wednesday meeting. After midnight, Church of Christ, 53rd Stree
 
 She held that. The information hoarding of elders. The way intelligence became a resource to be dispensed strategically rather than shared in service of the city they ostensibly governed. Six women taken from a four-block radius, and the Nosferatu sewer network knew, and Khalid knew, and nobody had said a word to [Annabelle](/npcs/annabelle-triabell/) or [Lodin](/npcs/lodin/) or the FBI agents who were now canvassing a seventh floor that was a symptom of the thing nobody had named aloud.
 
-She said she'd be there Wednesday. Bordruff nodded and did not say goodbye and was simply not present anymore.
+She said she'd be there Wednesday. [Bordruff](/npcs/nathaniel-bordruff/) nodded and did not say goodbye and was simply not present anymore.
 
 Alone in the freight tunnel, she touched Tanya Green's ID badge, which she had taken from the lair.
 
@@ -155,7 +155,7 @@ She found a payphone three blocks from the freight tunnel entrance and called [A
 
 She laid it out clean. A Sabbat scout working the Robert Taylor Homes. Six weeks of documented activity. Khalid's network knew and had not shared. The lair, the route, the endpoint. Wednesday meeting with Bordruff, price from Khalid.
 
-Annabelle's response was the sharp intake of information processing. Then: "A scout mapping routes to the [Succubus Club](/locations/succubus-club/)." Pause. "And Khalid has known this for six weeks and told no one."
+[Annabelle](/npcs/annabelle-triabell/)'s response was the sharp intake of information processing. Then: "A scout mapping routes to the [Succubus Club](/locations/succubus-club/)." Pause. "And Khalid has known this for six weeks and told no one."
 
 "That's what Bordruff said."
 
@@ -171,7 +171,7 @@ The pause was shorter this time. Annabelle was already ahead of it.
 
 "And the wine."
 
-"The wine will be his own blood." She said it without inflection, the way you state the price of bread. "It's how he does it. He won't announce it. He'll pour, he'll speak warmly about loyalty and the city's future, and he'll hand you a cup and watch to see who drinks without asking what's in it. A Toreador who is useful to me, bound to Lodin, is no longer useful to me."
+"The wine will be his own blood." She said it without inflection, the way you state the price of bread. "It's how he does it. He won't announce it. He'll pour, he'll speak warmly about loyalty and the city's future, and he'll hand you a cup and watch to see who drinks without asking what's in it. A Toreador who is useful to me, bound to [Lodin](/npcs/lodin/), is no longer useful to me."
 
 Sable held the receiver. Sleet on the phone booth glass. The Dan Ryan visible two blocks east, headlights in both directions.
 
