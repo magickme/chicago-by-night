@@ -15,6 +15,8 @@ The ranking below evaluates each Discipline against four criteria:
 - **Survivability contribution** — does it extend your operational window?
 - **Breadth** — does it apply to many situations or only a few?
 
+Bloodline and clan Disciplines from V20, Lore of the Clans, and Lore of the Bloodlines are included throughout. Disciplines marked (†) belong to extinct or near-extinct bloodlines.
+
 ---
 
 ## S Tier — Game-Defining
@@ -157,18 +159,92 @@ Subsume the Lesser Spirit and Beast Within push Animalism from surveillance into
 
 ---
 
-### Necromancy (Giovanni)
+### Necromancy
 
 **Information value:** Extreme in specific domains
 **Social leverage:** High (dead intelligence assets)
 **Survivability:** Medium
 **Breadth:** Medium (powerful but niche)
 
+*Primary users: Giovanni, Harbingers of Skulls, Nagaraja, Samedi. Each bloodline accesses different paths.*
+
 Necromancy is the most powerful information Discipline after Auspex, but limited to a specific information type: **what the dead know.** Since the dead include everyone who has died in a location in living memory, this is not as narrow as it appears. Historical events, buried secrets, forgotten political transactions — these are recoverable through sufficiently skilled Necromancy.
 
 The strategic value of dead informants is that they have no living loyalty, no political agenda, and cannot be bought or threatened by rivals. They are purely information sources.
 
+**Path differentiation:** The Giovanni specialize in the Bone Path (direct wraith control) and Sepulchre Path (Underworld access). The Harbingers of Skulls use the Mortuus Path (death effects on the living) and Ash Path (Underworld communication). These are strategically distinct — the Giovanni's paths excel at interrogation and control; the Harbingers' paths excel at covert damage and battlefield communication with the dead.
+
 **Strategic use:** Haunting the key political and historical locations of your domain before you need the information they contain. Wraith gathering as a passive intelligence operation that costs no maintenance.
+
+---
+
+### Obeah (Salubri)
+
+**Information value:** High (Sense Vitality reads health, Resonance, and Humanity)
+**Social leverage:** Extreme (if trusted — near-zero if not)
+**Survivability:** High (unique healing capability)
+**Breadth:** Narrow (healing-oriented; socially constrained by suspicion)
+
+The most strategically paradoxical Discipline in the game. Obeah can do something no other Discipline can: **repair the psychological scars left by the Beast on a Kindred's soul.** At its highest levels, it can literally restore Humanity — the thing every vampire in the game is losing, that drives the entire dual-axis problem. This should make the Salubri among the most sought-after Kindred in existence.
+
+The problem is the Tremere slander. The Tremere diablerized Saulot and spent centuries building the reputation that Salubri are "soul-stealers" — and the third eye that manifests at Obeah level 2 confirms the "Cyclops" stereotype visually. Every use of Obeah above level 1 exposes the user as Salubri and invites attack from both sects.
+
+**The strategic window:** Obeah's extraordinary capability becomes fully available only in a small number of trusted relationships — vampires who know the truth about what Obeah does and are willing to accept the treatment. Within that window, it creates genuine loyalty that no blood bond or prestation could replicate. A vampire who has had their Humanity partially restored by a Salubri owes a debt that cannot be expressed in boon denominations.
+
+**Strategic use:** Sense Vitality as a baseline intelligence tool — it reads the target's current blood pool, approximate generation, and Humanity rating, all without the target knowing. Higher powers for trusted allies only.
+
+---
+
+### Melpominee (Daughters of Cacophony)
+
+**Information value:** Medium (Phantom Speaker enables remote communication)
+**Social leverage:** High (emotional manipulation at range, area effect)
+**Survivability:** Low
+**Breadth:** Medium (requires natural voice range; cannot function through recordings)
+
+The voice as a weapon and an information instrument. Melpominee's critical distinction from Presence: it **affects the soul directly, not just the ears** — it works on deaf subjects, and it can project effects to anyone within the natural range of the singer's voice simultaneously, making it a true area-of-effect social Discipline.
+
+Key powers: The Missing Voice (voice ventriloquism and impersonation — attend conversations without being present by projecting your voice into the room), Phantom Speaker (project voice to any location within a mile, enabling communication or eavesdropping at range), Siren's Beckoning (mass confusion and compulsion affecting everyone in hearing range).
+
+The limitation is a hard wall: Melpominee **cannot be encoded onto recordings or transmitted electronically.** It requires the singer's natural voice or a Melpominee-projected effect. This makes it irrelevant in the modern world for any application requiring broadcast, but devastating in any setting where the Daughter is physically or vocally present.
+
+**Strategic use:** The Missing Voice for intelligence gathering — plant your voice in a room and listen to the response. Phantom Speaker for secure communication with trusted contacts at range. Siren's Beckoning as a mass crowd-control tool in social settings where a single decisive intervention is needed.
+
+---
+
+### Mytherceria (Kiasyd)
+
+**Information value:** High (Fae Sight reveals supernatural; Riddle Phantastique extracts secrets)
+**Social leverage:** Medium (binding fae oaths, perception manipulation)
+**Survivability:** Low
+**Breadth:** Medium (information + disruption, but socially isolated bloodline)
+
+The sources describe Mytherceria as "similar to Auspex for its ability to reveal insights about the world; in others, it resembles Dementation in its ability to bring the sturdiest mind crashing down in madness." This is an accurate characterization of what makes it strategically interesting: it occupies the Auspex/Dementation niche simultaneously, combining information capability with psychological disruption.
+
+Key powers: Fae Sight (perceive the supernatural world, fae, and spirit activity invisible to normal Auspex), Phantom Lure (project compelling sensory illusions that Auspex cannot detect — a significant upgrade from Chimerstry which Auspex does see through), Riddle Phantastique (force the target into a state of madness focused on a specific question, which they compulsively try to answer), Haunted Muse (long-term creative madness that slowly degrades a target's mental coherence).
+
+The Kiasyd's obsessive scholarship pairs well with Mytherceria's knowledge-extraction applications. The Riddle Phantastique power in particular is a sophisticated intelligence tool: applied to the right target at the right moment, it can extract information that direct Dominate cannot because the target isn't aware they're being interrogated — they think they're working through a creative problem.
+
+**Strategic use:** Fae Sight as a supplement to Auspex for detecting supernatural activity in your domain. Phantom Lure for creating undetectable false evidence. Riddle Phantastique for targeted intelligence extraction.
+
+---
+
+### Daimoinon (Baali)
+
+**Information value:** High (Sense the Sin reveals moral corruption and secret sins)
+**Social leverage:** Extreme (mass fear, corruption of targets) — but at catastrophic political cost
+**Survivability:** High within Baali networks
+**Breadth:** High (powers work on mortals and Kindred equally)
+
+*Caveat: possessing Daimoinon means being a Baali. Auspex detects infernal taint in the aura. Discovery by either sect means immediate lethal response. Rank assumes clandestine operation.*
+
+Daimoinon's power ceiling is among the highest in the game. Sense the Sin (detect specific sins, secrets, and spiritual corruption in a target) is an information tool with no equivalent — it reveals what a target is hiding at the soul level, not just the surface. Presence of the Demon creates fear so profound it approaches Majesty in effect. Flames of the Netherworld produces hellfire that ignores many supernatural resistances. Ahriman's Demesne calls a pocket realm of infernal horror that destroys everything within it.
+
+The strategic value before the exposure problem: Daimoinon provides capabilities that no other Discipline replicates — specifically the corruption and sin-detection powers that allow a Baali to systematically identify and exploit the hidden vulnerabilities of every target they encounter. In a game where information is the primary resource, an intelligence tool that reads moral corruption directly is extraordinary.
+
+**The exposure problem is not a minor caveat — it is the defining constraint.** A Baali who is identified is dead, from every direction simultaneously. Every strategic decision must account for maintaining absolute secrecy about the bloodline affiliation. Daimoinon at high levels produces physical manifestations (demonic features, supernatural stench) that are increasingly difficult to conceal.
+
+**Strategic use:** Sense the Sin as the primary intelligence tool, deployed covertly. The destructive powers (Flames, Demesne) as last-resort weapons when concealment has already failed.
 
 ---
 
@@ -206,7 +282,7 @@ The limitation: these advantages are greatest in the rural/wilderness domain the
 
 The soul removal at Tongue of the Asp and Heart of Darkness (removing and hiding one's own heart, making Final Death nearly impossible) is one of the most powerful survival mechanisms in the game. The intermediate levels provide fanged tongue attack and snake transformation. Setite-optimal, not broadly applicable.
 
-The heart removal deserves special mention: a vampire whose heart is hidden elsewhere and who knows where it is cannot be killed through normal staking, making them structurally unkillable through conventional assassination. This is an S-tier survivability tool for the specific clan with access.
+The heart removal deserves special mention: a vampire whose heart is hidden elsewhere cannot be killed through normal staking, making them structurally unkillable through conventional assassination. This is an S-tier survivability tool for the specific clan with access.
 
 ---
 
@@ -221,6 +297,89 @@ Darkness manipulation, shadow travel, the Abyss. Arms of the Abyss and Tenebrous
 Body and environment modification. The strategic value is primarily **territorial** (modifying the physical environment of your haven into a nightmare) and **disguise** (completely altering the appearance of yourself or assets). The flesh crafting of servants and ghouls into monstrous guardians is an underrated force multiplier for haven defense.
 
 The psychological impact of Vicissitude on enemies should not be underestimated: it is deeply destabilizing to encounter for the first time, and the Tzimisce who uses this as a calculated social weapon has an advantage in any negotiation that takes place in their haven.
+
+---
+
+### Thanatosis (Samedi / Harbingers of Skulls)
+
+**Information value:** Low
+**Social leverage:** Low
+**Survivability:** Medium (self-decay aesthetics provide some deterrence)
+**Breadth:** Narrow (decay and death effects; no social application)
+
+Thanatosis grants control over the "very steps of death and decay" — and crucially, it can **temporarily suspend a vampire's immortality**, causing them to suffer physical deterioration as if they were dying. At higher levels, Putrefaction and Withering inflict aggravated damage through biological decay without requiring physical confrontation.
+
+The strategic value is as a **covert assassination tool.** Causing physical deterioration in a target — disease-like symptoms that appear natural — is significantly more deniable than direct attack. A Samedi who engineers a slow Withering against an elder can create the appearance of a natural supernatural decline rather than a murder. This is among the most Masquerade-compatible lethal weapons available.
+
+At the highest levels, Thanatosis is said to grant some control over the Curse itself — temporarily stripping vampiric immortality from a target entirely, reducing them to rapid decay. The full extent of these powers remains poorly documented because Samedi do not share their secrets freely.
+
+**Strategic use:** Hags' Wrinkles (self-decay appearance) as a deterrence and disguise tool. Necrosis and Withering for covert lethal operations where direct confrontation would create witnesses. Avoid relying on it for overt combat.
+
+---
+
+### Spiritus (Ahrimanes)
+
+**Information value:** High in supernaturally-active environments
+**Social leverage:** Low
+**Survivability:** Medium
+**Breadth:** Narrow (requires spirit activity in the environment)
+
+Spiritus extends Animalism into the spirit world — the Ahrimanes' defining capability is that their surveillance and influence network operates in the metaphysical layer as well as the physical. Key powers include Aspect of the Beast (take on qualities of local spirits), Rouse the Spirit (awaken dormant spirits in an area), Command the Spirit (compel spirit cooperation), and Drain the Spirit (weaken enemy spirits).
+
+The strategic advantage over pure Animalism: **spirits observe spaces that animals cannot access.** A spirit bound to a building can report on every conversation within it indefinitely. A spirit network in a city's key political locations provides surveillance with no physical footprint at all — no rats to notice, no risk of a familiar being captured or killed.
+
+The limitation is environmental: Spiritus requires spirit activity to be useful. In areas near Lupine caerns, old battlefields, places of significant death or trauma, or in cities with active supernatural presences, Spiritus provides exceptional intelligence capability. In a spiritually quiet suburb, it is nearly useless.
+
+**Strategic use:** Rouse the Spirit in locations of strategic importance before you need the intelligence they can provide. Command the Spirit to establish permanent information assets. Aspect of the Beast to take on specific spiritual qualities (speed of a hawk spirit, perception of a wolf spirit) for targeted operations.
+
+---
+
+### Nihilistics (Nagaraja)
+
+**Information value:** Low (Entropy's Weakness reads physical vulnerabilities)
+**Social leverage:** None
+**Survivability:** Low (offensive only)
+**Breadth:** Narrow (Oblivion destruction; no social application)
+
+Nihilistics is the Nagaraja's mastery of Oblivion — the entropic void of the Underworld. Entropy's Weakness reveals the structural vulnerabilities of physical objects and creatures (a useful intelligence application — knowing exactly what will break an enemy or a lock is tactically valuable). Void Strike deals aggravated damage through contact with the Void. Obliterate destroys physical objects. Annihilate erases targets from existence entirely.
+
+The strategic limitation is severe: Nihilistics is purely destructive. It has no information capability beyond Entropy's Weakness, no social application, and no political leverage value. It is a precision elimination tool for a bloodline that is already operating in near-complete social isolation.
+
+**Strategic use:** Entropy's Weakness for targeted intelligence on structural vulnerabilities — applied to both people and physical locations. Void Strike as a fallback combat tool when the Nagaraja's isolation has made conventional political methods impossible. Obliterate for evidence disposal.
+
+---
+
+### Valeren (Salubri Antitribu)
+
+**Information value:** Medium (Sense Vitality, shared with Obeah)
+**Social leverage:** Low (combat-oriented)
+**Survivability:** High (Armor of Caine's Fury provides exceptional damage reduction)
+**Breadth:** Narrow (combat-focused)
+
+The warrior path of the Salubri. Where Obeah heals, Valeren damages — Burning Touch inflicts pain and discomfort on contact, Armor of Caine's Fury provides supernatural damage reduction, and Vengeance of Samiel at the highest level makes the Salubri antitribu a devastating martial presence.
+
+Like Obeah, Valeren manifests the third eye at level 2 — which means using Valeren above that level identifies the user as Salubri antitribu. Within the Sabbat, this is known and accepted; outside it, the third eye creates the same suspicion that follows the parent bloodline.
+
+The Salubri antitribu claim Valeren is the *true* original discipline of Saulot — that the healer Salubri perverted it into Obeah, and the warriors maintain the authentic tradition. The debate is irresolvable, which is part of the point.
+
+**Strategic use:** Sense Vitality (same as Obeah, level 1 — no third eye exposure) for baseline intelligence. Armor of Caine's Fury as a passive combat survival tool. Vengeance of Samiel held in reserve for the moment a pack confrontation requires a decisive individual martial contribution.
+
+---
+
+### Visceratika (Gargoyles)
+
+**Information value:** High in stone/earth environments
+**Social leverage:** Low
+**Survivability:** High (stone armor, camouflage)
+**Breadth:** Narrow (terrain-specific)
+
+All Gargoyles have a natural affinity for stone and earth, and Visceratika is the formal expression of this connection. Skin of the Chameleon allows the Gargoyle to blend perfectly into stone and earth surfaces, becoming effectively invisible in any masonry environment. Detect of the Impure senses supernatural presences within or upon stone — an intelligence capability in underground and castle environments that has no equivalent. Armor of Terra provides stone-hard physical protection. Eyes of Stone allows perception through stone walls and floors within range.
+
+The strategic niche is specific but decisive: **any setting involving underground structures, stone fortifications, or urban masonry environments** becomes an intelligence-rich, defensible home domain for the Gargoyle. Eyes of Stone alone can turn a stone building into a complete surveillance platform — the Gargoyle knows the position of every being in the structure at all times.
+
+**The political concern:** The Tremere originally designed Visceratika as a servitor tool. They maintain the position that Gargoyles with Visceratika are easier to re-enslave. Whether this is true or Tremere disinformation to discourage other vampires from learning the Discipline is unknown.
+
+**Strategic use:** Skin of the Chameleon for physical surveillance in stone environments. Eyes of Stone for building-level total awareness. Armor of Terra as a passive defensive enhancement that makes the Gargoyle significantly more expensive to assault in their chosen terrain.
 
 ---
 
@@ -254,30 +413,66 @@ Time manipulation. Theoretically the highest-ceiling Discipline in the game — 
 
 ---
 
-## Summary Table
+### Sanguinus (Blood Brothers)
 
-| Tier | Discipline | Primary Value |
-|------|-----------|---------------|
-| S | Dominate | Game state rewrite |
-| S | Auspex | Information supremacy |
-| A | Presence | Social control at scale |
-| A | Obfuscate | Invisible surveillance + escape |
-| A | Thaumaturgy | Adaptable unique capability |
-| B | Celerity | Combat survival / escape |
-| B | Fortitude | Passive survivability |
-| B | Animalism | Urban surveillance network |
-| B | Necromancy | Historical intelligence |
-| C | Potence | Physical force |
-| C | Dementation | Targeted disruption |
-| C | Protean | Territorial defense |
-| C | Serpentis | Near-unkillability |
-| C | Obtenebration | Environmental control |
-| C | Vicissitude | Territorial modification |
-| D | Chimerstry | Deception |
-| D | Quietus | Assassination |
-| D | Koldunic Sorcery | Domain magic |
-| D | Temporis | Time (theoretical only) |
+Shared body and consciousness within a Blood Brother circle. Allows circle members to loan limbs to each other, share physical traits, heal across the circle, and at the highest levels merge into a composite entity (Coagulated Entity). Within a functioning circle, Sanguinus provides collective combat capability, distributed surveillance (shared senses across all circle members), and combat redundancy (damage redistributed across the circle) that no individual Discipline matches.
+
+Outside a multi-Blood-Brother context, Sanguinus has zero utility. It is a Discipline that only exists in the context of the bloodline that needs it — without a circle, its powers are entirely inaccessible. D tier globally; the core strategic asset for Blood Brothers specifically.
 
 ---
 
-*Rankings evaluate strategic utility in the full game context — political, social, and physical scenarios combined. Pure combat rankings would significantly elevate Celerity, Potence, and Fortitude; pure social rankings would elevate Presence above Dominate due to its cross-generation effectiveness.*
+### Flight (Gargoyles)
+
+A unique physical capability rather than a conventional Discipline tree — Gargoyles have retractable wings and the ability to fly. This provides urban mobility (vertical movement through city environments), tactical escape capability from any ground-level containment, and surveillance positioning (the ability to observe locations from above without occupying them).
+
+The limitation is social: visible wings are not compatible with the Masquerade in most contexts. Flight is a D-tier Discipline not because flying isn't useful but because the circumstances in which it can be deployed without Masquerade consequences are narrow.
+
+---
+
+### Mortis (Cappadocians) †
+
+**Extinct.** The Cappadocian death magic, ancestor to both Thanatosis and Giovanni Necromancy. In its time, Mortis allowed the Cappadocians to study, manipulate, and embody death in ways that predated the split into Giovanni Necromancy and Samedi Thanatosis. Historical analysis only — no living practitioners remain.
+
+The strategic lesson of Mortis's extinction: the Cappadocians possessed extraordinary capability in their specific domain (death and the afterlife) and were nonetheless destroyed through a failure of political awareness. Capability advantage does not survive political catastrophe.
+
+---
+
+## Summary Table
+
+| Tier | Discipline | Primary Value | Bloodline |
+|------|-----------|---------------|-----------|
+| S | Dominate | Game state rewrite | Ventrue, Lasombra, others |
+| S | Auspex | Information supremacy | Toreador, Tremere, Malkavian, others |
+| A | Presence | Social control at scale | Toreador, Brujah, Ventrue, others |
+| A | Obfuscate | Invisible surveillance + escape | Nosferatu, Assamite, others |
+| A | Thaumaturgy | Adaptable unique capability | Tremere |
+| B | Celerity | Combat survival / escape | Brujah, Assamite, Toreador |
+| B | Fortitude | Passive survivability | Gangrel, Ventrue, others |
+| B | Animalism | Urban surveillance network | Gangrel, Nosferatu, Tzimisce |
+| B | Necromancy | Historical intelligence | Giovanni, Harbingers, Nagaraja, Samedi |
+| B | Obeah | Unique healing / Humanity restoration | Salubri |
+| B | Melpominee | Ranged area-effect social manipulation | Daughters of Cacophony |
+| B | Mytherceria | Information + psychological disruption | Kiasyd |
+| B | Daimoinon | Corruption detection + infernal force | Baali |
+| C | Potence | Physical force | Brujah, Nosferatu, Gangrel, others |
+| C | Dementation | Targeted disruption | Malkavian |
+| C | Protean | Territorial defense | Gangrel |
+| C | Serpentis | Near-unkillability | Setite |
+| C | Obtenebration | Environmental control | Lasombra |
+| C | Vicissitude | Territorial modification | Tzimisce |
+| C | Thanatosis | Covert decay / assassination | Samedi, Harbingers |
+| C | Spiritus | Spirit world surveillance | Ahrimanes |
+| C | Nihilistics | Oblivion destruction | Nagaraja |
+| C | Valeren | Martial combat | Salubri antitribu |
+| C | Visceratika | Stone environment mastery | Gargoyles |
+| D | Chimerstry | Deception | Ravnos |
+| D | Quietus | Assassination | Assamite |
+| D | Koldunic Sorcery | Domain magic | Tzimisce |
+| D | Temporis | Time (theoretical only) | True Brujah |
+| D | Sanguinus | Circle collective mechanics | Blood Brothers |
+| D | Flight | Aerial mobility | Gargoyles |
+| D | Mortis † | Extinct death magic | Cappadocians |
+
+---
+
+*Rankings evaluate strategic utility in the full game context — political, social, and physical scenarios combined. Pure combat rankings would significantly elevate Celerity, Potence, and Fortitude; pure social rankings would elevate Presence above Dominate due to its cross-generation effectiveness. Daimoinon's practical ranking assumes clandestine operation — if exposure is not a constraint, its raw power would place it at A tier.*
