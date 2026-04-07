@@ -48,7 +48,7 @@ He called Ray from the union hall payphone. The message was short: the visitor w
 
 Tuesday. Same night as [Danov](/npcs/alexander-danov/)'s print shop. The coincidence sealed it.
 
-The warehouse was cased but not breached. Someone had wiped a palm-sized circle in the grime on the west window and repositioned a pallet below it as a step. Looked in, saw the layout, left. Professional. Eddie was untouched on night shift, his granite layers untested. Both confirmed what Darius wanted confirmed: [Danov](/npcs/alexander-danov/) was verifying, not attacking.
+The warehouse was cased but not breached. Someone had wiped a palm-sized circle in the grime on the west window and repositioned a pallet below it as a step. Looked in, saw the layout, left. Professional. Eddie was untouched on night shift, his granite layers untested. Both confirmed what [Darius](/darius-cole/) wanted confirmed: [Danov](/npcs/alexander-danov/) was verifying, not attacking.
 
 He drove to [Modius](/npcs/modius/) at one in the morning. [Victor](/npcs/victor-salonika/) opened the door without surprise. The study smelled like old paper and furniture polish and the portrait of Gary's mills from 1920 looked down from the wall like a photograph of a body before the autopsy.
 

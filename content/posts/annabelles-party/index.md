@@ -41,9 +41,9 @@ Sire and childe saw each other across thirty feet and every Kindred felt it. [Sh
 
 [Annabelle](/npcs/annabelle-triabell/)'s jaw tightened. Her party was unraveling and she hadn't played a note.
 
-[Sharon](/npcs/sharon-payne/) left. Heels hitting marble. Cold perfume in a wake that passed eight feet from where Sable stood behind a column and she didn't look and she didn't stop and she was gone.
+[Sharon](/npcs/sharon-payne/) left. Heels hitting marble. Cold perfume in a wake that passed eight feet from where [Sable](/sable-price/) stood behind a column and she didn't look and she didn't stop and she was gone.
 
-Sable tried the hook with [Annabelle](/npcs/annabelle-triabell/) in the ninety seconds before the next disaster. It landed thin — one success against a woman with two hundred and seventy years of Subterfuge. "How generous," Annabelle said, and the compliment contained a ranking. But she gave the private number through Sir Henry and promised a conversation later in the week, and then the sculpture was unveiled.
+Sable tried the hook with [Annabelle](/npcs/annabelle-triabell/) in the ninety seconds before the next disaster. It landed thin — one success against a woman with two hundred and seventy years of Subterfuge. "How generous," [Annabelle](/npcs/annabelle-triabell/) said, and the compliment contained a ranking. But she gave the private number through [Sir Henry](/npcs/sir-henry-johnson/) and promised a conversation later in the week, and then the sculpture was unveiled.
 
 Cast iron. Gears and pistons and a centrifugal governor — a locomotive regulator mechanism, polished and mounted on mahogany, lit from below. Industrial hardware dressed as art. Annabelle's hand was still on the velvet when her eyes went flat.
 

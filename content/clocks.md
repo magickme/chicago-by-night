@@ -5,7 +5,7 @@ layout: "page"
 slug: "clocks"
 ---
 
-*Chicago pressure board. Updated: **1991-01-19 (Saturday, ~5:45 AM)**. Session state is authoritative for all clock levels.*
+*Chicago pressure board. Updated: **1991-01-20 (Sunday night, scene close ~5 AM)**. Session state is authoritative for all clock levels.*
 
 
 
@@ -17,7 +17,7 @@ slug: "clocks"
 | Cover Story Exposure (Chicago) | □□□□□□ | 0/6 | Warren Birch fiction meets Chicago Auspex. Darius 10th claiming 12th. |
 | Ashes to Ashes Progress (COMPLETE) | ■■■■■■ | 6/6 COMPLETE | D031: Lodin rescued from Hell's Pasture. Roarke destroyed (aged to dust). Cultists scattered. Adventure resolved. |
 | Blood Bond Web | ■□□□□□ | 1/6 | D031: Darius consumed Menele's blood (frenzy). Step 1/3. First active bond step from Chicago events. Every sip tracked. |
-| Sabbat Infiltration (LATENT) | □□□□□□ | 0/6 LATENT | Phillipe Rigaud and Wendy Wade embedded. Activates Act III. |
+| Sabbat Infiltration | ■□□□□□ | 1/6 ACTIVE | S036: Scout confirmed in CHA tunnels under Robert Taylor Homes. Mapping routes north toward Succubus Club. Sword-and-chalice marks. Bordruff tracking 6 weeks. Annabelle + Nosferatu aware. Rigaud/Wade still embedded separately. |
 | Anarch Tension | ■□□□□□ | 1/6 | S030: Damien staked Sheriff Belthazar. Coterie interacted with Anarch faction. |
 | Hunter Convergence (Chicago) | ■□□□□□ | 1/6 | S030: PCs encountered Standdown. Evidence destroyed but he lives with "body walked away." Shepard connected. |
 | Methuselah War (HIDDEN) | ■■□□□□ | 2/6 HIDDEN | D031: Darius blood-bonded Step 1 to Menele (frenzy over torpored body). Coterie now in Menele's camp — unknowingly. Menele likely orchestrated body recovery + vial frenzy from torpor. Helena's rival has agents. |

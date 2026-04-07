@@ -122,7 +122,7 @@ Twelve hours. A machine shop in East Chicago. Two vampires sitting on a concrete
 
 She closed her eyes. Not sleeping — the dead don't sleep. Resting in the way the dead rest, which is a stillness so complete that the building could mistake her for one of its machines.
 
-Twelve hours. And then the night would come back and there would be [Modius](/npcs/modius/) and [Shepard](/npcs/william-shepard/) and Webb and [Allicia](/npcs/allicia/) and Denise and [the Torch](/locations/the-torch/) and the pipeline and Chicago watching and the clock ticking toward something that Sable could feel approaching the way she could feel the sun through cinderblock — not visible yet, not named, but present.
+Twelve hours. And then the night would come back and there would be [Modius](/npcs/modius/) and [Shepard](/npcs/william-shepard/) and Webb and [Allicia](/npcs/allicia/) and Denise and [the Torch](/locations/the-torch/) and the pipeline and Chicago watching and the clock ticking toward something that [Sable](/sable-price/) could feel approaching the way she could feel the sun through cinderblock — not visible yet, not named, but present.
 
 She'd placed the girls. She'd fed the Prince his report. She'd fed herself. She'd survived the night.
 

@@ -10,15 +10,15 @@ menu:
       icon: "dots"
 ---
 
-*Chicago Chronicles. Act II: Ashes and Blood. Updated: **1991-01-19 (Saturday, ~5:45 AM)**.*
+*Chicago Chronicles. Act II: Ashes and Blood. Updated: **1991-01-20 (Sunday night, scene close ~5 AM)**.*
 
 
 
 ## Coterie Snapshot
 
-- 1991-01-19 (Saturday, ~5:45 AM) — Darius and Sable at Kaspar & Sons basement, South Pilsen (new shared haven). Annabelle warned about 3 Ballard property attacks. Ballard's counterattack in motion. Walt Conditioning 9/14, blood-bonded Step 1 to Darius. Greystone Fiduciary mapped. Wednesday Primogen session announced (Neally chairing). Critias +2, Gengis +1, Maldavis +1, Brennon +1, Falcon boon. Camera at Sherwin-Williams has Darius's face.
-- Scenes played: Darius 37, Sable 35, Tomás 2 (74 total + timeskip bluebook Aug-Nov + Dec timeskip). PCs met at Feb 2 Elysium. **COTERIE FORMED (S019, July 22).**
-- Scene-note inventory: Darius 35, Sable 35, Tomás 2 (72 total on disk; S034/S035 are joint scenes with D035/D036).
+- 1991-01-20 (Sunday night, scene close ~5 AM) — Sable investigated Robert Taylor Homes after spotting FBI canvassing. Found Sabbat scout's lair in CHA tunnels, made visual contact with scout. Confirmed Sabbat with Bordruff (Nosferatu, South Side). Reported to Annabelle; received Blood Bond warning (Lodin, within the week). Coop deployed to guard Denise's floor. Darius briefed at haven.
+- Scenes played: Darius 37, Sable 36, Tomás 2 (75 total + timeskip bluebook Aug-Nov + Dec timeskip). PCs met at Feb 2 Elysium. **COTERIE FORMED (S019, July 22).**
+- Scene-note inventory: Darius 35, Sable 36, Tomás 2 (73 total on disk; S034/S035 are joint scenes with D035/D036).
 - Sunset: 4:35 PM CST. Sunrise: 7:04 AM CST. Darkness: ~14.5 hours (mid-January).
 - Communications: Chicago protocol seeded. Tue/Fri 11 PM remains the default check-in window, using rotating nodes instead of a fixed haven line. If one node feels watched, move immediately to the next. Horace contact: The Cave, ask for Fred, "chess tournament."
 
@@ -42,10 +42,10 @@ menu:
 | Anarch Tension | 1/6 | S030: Damien staked Sheriff Belthazar. Coterie interacted with Anarch faction. |
 | Blood Bond Web | 1/6 | D031: Darius consumed Menele's blood (frenzy). Step 1/3. First active bond step from Chicago events. Every sip tracked. |
 | Hunter Convergence (Chicago) | 1/6 | S030: PCs encountered Standdown. Evidence destroyed but he lives with "body walked away." Shepard connected. |
+| Sabbat Infiltration | 1/6 ACTIVE | S036: Scout confirmed in CHA tunnels under Robert Taylor Homes. Mapping routes north toward Succubus Club. Sword-and-chalice marks. Bordruff tracking 6 weeks. Annabelle + Nosferatu aware. Rigaud/Wade still embedded separately. |
 | Chuc Luc's Chicago Operations | 0/6 | Pipeline expansion into Capone's territory. |
 | Cover Story Exposure (Chicago) | 0/6 | Warren Birch fiction meets Chicago Auspex. Darius 10th claiming 12th. |
 | Modius Leash (Sable) | 0/6 | CLOSED (S033). Scene alteration (Close Thread). Modius turned inward — Internal Audit consuming attention, leash dropped. Silence, not forgiveness. |
-| Sabbat Infiltration | 0/6 LATENT | Phillipe Rigaud and Wendy Wade embedded. Activates Act III. |
 | Succubus Club Heat | 0/6 | Club as focal point. Helena's basement. Every thread passes through. |
 
 ## Chicago Standing
@@ -67,6 +67,9 @@ menu:
 - Identify and avoid Sharon Payne's Chicago network
 - NEW: Investigate Greystone Fiduciary / brownstone for Maldavis
 - NEW: Prepare for Wednesday Primogen session
+- NEW: Investigate Sabbat tunnel scout / Wednesday Bordruff meeting
+- NEW: Counter Lodin Blood Bond (warned by Annabelle S036)
+- DIRECTION: Advance toward next Succubus Club published adventure; wrap loose threads first
 - NEW: Attend Thursday Critias + Brewery double-header
 - NEW: Secure Kaspar lease (Monday call to Midwest Realty Trust)
 
@@ -96,4 +99,4 @@ menu:
 | Allicia bond-breaking (remote) | 2x | ACTIVE. Erichtho evaluation done. Carna path. Months in Milwaukee needed. |
 | Ballard's counterattack | 2x | ADVANCING. Greystone Fiduciary mapped. Three properties targeted. Annabelle warned. Coterie holds intercepted intelligence. |
 | Lodin's return | 2x | ACTIVE. Behind closed doors since Primogen session. Neally chairing Wednesday. Anarchs reading weakness. |
-| Denise Price — the mother | 1x | ESCALATED. In Chicago (Robert Taylor Homes). Thirty miles south. |
+| Denise Price — the mother | 2x | CRITICAL S036. Sabbat scout feeding floor-by-floor west to east (714 Nov, 709 Jan) — 718 next in sequence. 2-6 week timeline. Coop deployed (guard + deadbolt). FBI canvassing same floor. Bordruff knows Sable has mortal connection there. |

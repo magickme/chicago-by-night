@@ -80,7 +80,7 @@ In 1820, they met again on the Kansas prairie. Menele fled to his friend, Chief 
 
 At Fort Dearborn, [Helena](/npcs/helena/) allied with the United States military. Menele with Black Hawk's warriors. The two Methuselahs met with all the pent-up fury of a whirlwind. The air turned red with the vast quantities of blood they used. Many Indians escaped the slaughter only because of a portentous blood-red tornado.
 
-Helena dug her claws deep into Menele's ribs. With a scream of agony that made the earth shake, Menele drove his skull into her forehead. Both were thrown to the ground. Menele's remaining braves made a last desperate charge to rescue him, but [Prias](/npcs/prias/) drove a burning stake deep into the vampire's neck before they could reach him.
+[Helena](/npcs/helena/) dug her claws deep into Menele's ribs. With a scream of agony that made the earth shake, Menele drove his skull into her forehead. Both were thrown to the ground. Menele's remaining braves made a last desperate charge to rescue him, but [Prias](/npcs/prias/) drove a burning stake deep into the vampire's neck before they could reach him.
 
 Both Methuselahs fell into torpor. [Prias](/npcs/prias/) took Helena to safety beneath the fort. At the cost of many lives, Menele's allies seized his body and escaped into the woods. Native American warriors have cared for the ancient since, tending his torpid body for over a century and a half.
 
@@ -142,4 +142,4 @@ Beckett, after nearly being Dominated by Helena in the [Succubus Club](/location
 
 **Nature:** Visionary. **Demeanor:** Architect.
 
-**Lineage:** Menele → Troile (3rd gen, Antediluvian) → Brujah (Clan Founder). Downward: Menele → Critias (5th) → Procet (6th) → Albertus Magnus (7th).
+**Lineage:** Menele → Troile (3rd gen, Antediluvian) → Brujah (Clan Founder). Downward: Menele → [Critias](/npcs/critias/) (5th) → Procet (6th) → Albertus Magnus (7th).

@@ -92,7 +92,7 @@ For the clan, he said, it would be a reckoning. Fifty-two years. Everyone knew. 
 
 "Including me."
 
-She deflected. Told him she was trying to understand clan politics, that her sire hadn't told her much, that Modius was his own favorite subject. The misdirection held — [Sir Henry](/npcs/sir-henry-johnson/) laughed, a real laugh, and what he saw was a sharp neonate navigating blind. He offered to introduce her to [Annabelle](/npcs/annabelle-triabell/). Wednesday. The Drake. Eight o'clock.
+She deflected. Told him she was trying to understand clan politics, that her sire hadn't told her much, that [Modius](/npcs/modius/) was his own favorite subject. The misdirection held — [Sir Henry](/npcs/sir-henry-johnson/) laughed, a real laugh, and what he saw was a sharp neonate navigating blind. He offered to introduce her to [Annabelle](/npcs/annabelle-triabell/). Wednesday. The Drake. Eight o'clock.
 
 "Wear something that makes a statement. She notices."
 

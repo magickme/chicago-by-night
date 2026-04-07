@@ -98,7 +98,7 @@ He told them what it was. A man put it here. A father. He pushed his boy through
 
 ---
 
-The Cutlass again. Miller Beach. [Darius](/darius-cole/) driving fast now, the .357 on the seat between them, the brooch in Sable's pocket, and [Michael](/npcs/michael/)'s words in the air like a frequency neither of them could tune out.
+The Cutlass again. Miller Beach. [Darius](/darius-cole/) driving fast now, the .357 on the seat between them, the brooch in [Sable](/sable-price/)'s pocket, and [Michael](/npcs/michael/)'s words in the air like a frequency neither of them could tune out.
 
 A spirit in a dead boy, hunting [Allicia](/npcs/allicia/), growing stronger, anchored by a bag of hair and dirt and blood somewhere in Gary. A grieving father who built a door and pushed his son through it. And somewhere between the cemetery and the lakefront, in the dead lots and abandoned factories of a city that had been dying since before either of them was born, a sixteen-year-old body was walking toward the woman who didn't speak, saying her name through a mouth that had forgotten what mouths were for.
 

@@ -58,7 +58,7 @@ The man was mumbling as he faded. Half-conscious, the way they always were in th
 
 "...everybody owes Sal. Sal owes the Italian. The Italian owes somebody nobody sees."
 
-Darius wiped his mouth with the back of his hand. The man's eyes fluttered closed.
+[Darius](/darius-cole/) wiped his mouth with the back of his hand. The man's eyes fluttered closed.
 
 *Sal.*
 

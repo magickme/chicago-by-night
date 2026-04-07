@@ -118,7 +118,7 @@ Not cruel. Just flat. The warmth from two hours ago gone from the voice like it 
 
 "You okay?" she asked at the door.
 
-Sable didn't answer. [Nina](/npcs/nina/) left. The lock clicked. The room was silent in the way that hotel rooms are silent when you are the only dead thing in them.
+[Sable](/sable-price/) didn't answer. [Nina](/npcs/nina/) left. The lock clicked. The room was silent in the way that hotel rooms are silent when you are the only dead thing in them.
 
 She checked the curtains a third time. Tucked the edges. Wedged a chair under the door handle. Turned off every light.
 

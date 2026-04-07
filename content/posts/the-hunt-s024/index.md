@@ -78,7 +78,7 @@ She opened her wrist. He crossed the three feet and drank. Fifteen seconds. The 
 
 "That's nice," [Sable](/sable-price/) said.
 
-It was nice. A nine-year-old singing in a gymnasium that smelled like floor wax while her father sat in a folding chair and believed every word. It was the kind of nice that existed in a world Sable could see from a great distance, the way you see a lit window from the far side of a parking lot in December. Close enough to describe. Too far to feel.
+It was nice. A nine-year-old singing in a gymnasium that smelled like floor wax while her father sat in a folding chair and believed every word. It was the kind of nice that existed in a world [Sable](/sable-price/) could see from a great distance, the way you see a lit window from the far side of a parking lot in December. Close enough to describe. Too far to feel.
 
 DeShawn gave his report in short declaratives. The van. Eleven-oh-eight to two-fifty. The man who got out and walked south on Seventeenth to Nineteenth and Adams and stood on the corner looking north up Adams for ten minutes, studying buildings with the patience of someone trained to study buildings. Brown oxfords. Church shoes. A thick dark book. Military gait.
 

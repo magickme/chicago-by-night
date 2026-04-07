@@ -66,7 +66,7 @@ The man turned. The face was younger than the voice promised. Mid-thirties, clea
 
 [Darius](/darius-cole/) knew before the reveal. The man admitted it with the nonchalance of a clerk removing a costume. He screened for the Prince. The real audience required a helicopter and a football field at dawn.
 
-Darius called [Modius](/npcs/modius/) from a payphone on Lake Shore Drive. The Prince of Gary said comply. He said the helicopter was theater. He didn't know the theater had no audience.
+[Darius](/darius-cole/) called [Modius](/npcs/modius/) from a payphone on Lake Shore Drive. The Prince of Gary said comply. He said the helicopter was theater. He didn't know the theater had no audience.
 
 ---
 

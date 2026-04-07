@@ -108,7 +108,7 @@ Quiet for a block.
 
 "I trust that he's afraid of the silence. Same as us."
 
-The Starlite was dark except for the office. Sable dropped [Darius](/darius-cole/) at the lot. Taillights on wet asphalt, heading north.
+The Starlite was dark except for the office. [Sable](/sable-price/) dropped [Darius](/darius-cole/) at the lot. Taillights on wet asphalt, heading north.
 
 Room 9. Deadbolt. The radiator clanked. The couple in Room 7 had moved on to silence, which was worse or better depending on how you measured.
 

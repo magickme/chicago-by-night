@@ -64,7 +64,7 @@ He found [Brennon](/npcs/brennon-thornhill/) in the back corridor twenty minutes
 
 [Brennon](/npcs/brennon-thornhill/) listened without expression. Then he reciprocated, because that was how the economy worked between professionals.
 
-[Lodin](/npcs/lodin/) had spoken with [Annabelle](/npcs/annabelle-triabell/) two nights ago. [Drake Hotel](/locations/lodins-haven/), eighth floor. Private meeting, no witnesses Brennon could confirm. [Portia](/npcs/portia/) had been asking about the Gary emissaries through three different intermediaries, each one more careful than the last, which meant she cared enough to hide the caring. And [Drummond](/npcs/edgar/) was on loan from [Annabelle](/npcs/annabelle-triabell/), not just [Ballard](/npcs/ballard/)'s man. Which reframed the notebook entirely.
+[Lodin](/npcs/lodin/) had spoken with [Annabelle](/npcs/annabelle-triabell/) two nights ago. [Drake Hotel](/locations/lodins-haven/), eighth floor. Private meeting, no witnesses [Brennon](/npcs/brennon-thornhill/) could confirm. [Portia](/npcs/portia/) had been asking about the Gary emissaries through three different intermediaries, each one more careful than the last, which meant she cared enough to hide the caring. And [Drummond](/npcs/edgar/) was on loan from [Annabelle](/npcs/annabelle-triabell/), not just [Ballard](/npcs/ballard/)'s man. Which reframed the notebook entirely.
 
 Brennon slid a black card across the desk. Private line. "If you learn something I should know."
 
@@ -122,7 +122,7 @@ The sentence arrived without inflection, without context, without the faintest t
 
 "Sleep," Tomás said, and meant it, and Walt's eyes shut and his breathing dropped and the room went silent except for the television static and the CTA bus running its ghost route three blocks south.
 
-On the kitchen counter, a sample case that had not been there when he entered. Three vials, labeled in Nicolai's precise hand. A note folded once: *For your project. Start with the middle one. --N.*
+On the kitchen counter, a sample case that had not been there when he entered. Three vials, labeled in [Nicolai](/npcs/nicolai/)'s precise hand. A note folded once: *For your project. Start with the middle one. --N.*
 
 The middle vial bore the court enforcement sigil. The Sheriff's blood.
 

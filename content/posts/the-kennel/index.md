@@ -136,7 +136,7 @@ Nine.
 
 [Sable](/sable-price/) offered her neck, and [Allicia](/npcs/allicia/) took it — slow, deliberate, two mouthfuls, the bond between them tightening from cord to cable. Then [Sable](/sable-price/) bit [Allicia](/npcs/allicia/)'s neck. Not because she was hungry. Because the symmetry demanded it. Because two Toreador in a room full of a dead man's paintings knew that the most beautiful thing in the world was not a painting but a circuit — blood moving between two bodies in a loop that was older than language and more honest than anything either of them would ever say.
 
-Allicia's blood tasted like old music. Like a chord held for fifty years in a dark room. Like the specific loneliness of a woman who had been owned so long she'd forgotten what her own name sounded like when someone said it with tenderness.
+[Allicia](/npcs/allicia/)'s blood tasted like old music. Like a chord held for fifty years in a dark room. Like the specific loneliness of a woman who had been owned so long she'd forgotten what her own name sounded like when someone said it with tenderness.
 
 They stayed. Tangled on the chaise, the lamp painting their shadows on the wall as a single shape. Outside, the temperature dropped and the moon rose thin over Lake Michigan, throwing silver on the ruins of a city that had no use for silver. Inside, two vampires held each other and didn't count the words.
 

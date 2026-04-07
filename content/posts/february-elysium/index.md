@@ -64,7 +64,7 @@ The door opened three inches. One green eye. The hallway check, quick and practi
 
 Her hand tightened on it. The green eye went wet, then hard, then somewhere [Sable](/sable-price/) couldn't follow.
 
-She looked at Sable. Nodded once. The door closed, quiet as a coffin lid.
+She looked at [Sable](/sable-price/). Nodded once. The door closed, quiet as a coffin lid.
 
 ---
 
@@ -116,7 +116,7 @@ These were not men. These were not marks. These were Greenland sharks circling i
 
 She bowed her head. "Thank you. It's a pleasure to make all of your acquaintance."
 
-Terse. Simple. The room filed it. Modius looked pleased. [Lucian](/npcs/lucian/)'s gaze moved past her. [Danov](/npcs/alexander-danov/) gave her three seconds and then moved on.
+Terse. Simple. The room filed it. [Modius](/npcs/modius/) looked pleased. [Lucian](/npcs/lucian/)'s gaze moved past her. [Danov](/npcs/alexander-danov/) gave her three seconds and then moved on.
 
 And [Darius](/darius-cole/), in his chair, registered the thing nobody else cared to notice: the performance that started and stopped. The woman who reached for a weapon and put it back.
 
@@ -162,7 +162,7 @@ Then the shift. "I'm told your sire was destroyed. Hunters." The word arrived fl
 
 And there it was. The mention of Warren Birch's destruction, the fictional sire, the load-bearing wall of the cover story. What moved through [Darius](/darius-cole/)'s blood wasn't grief. It was fear. Sharp, present, the specific terror of a man standing next to something that might see through the architecture he'd built his survival on.
 
-[Danov](/npcs/alexander-danov/) watched. Darius didn't know that behind those gray eyes, six hundred years of reading the dead had opened like a lens, and the light pouring off his blood told a story that contradicted the one coming out of his mouth. The aura burned too bright for a twelfth-generation nobody. The emotion was fear where grief should live.
+[Danov](/npcs/alexander-danov/) watched. [Darius](/darius-cole/) didn't know that behind those gray eyes, six hundred years of reading the dead had opened like a lens, and the light pouring off his blood told a story that contradicted the one coming out of his mouth. The aura burned too bright for a twelfth-generation nobody. The emotion was fear where grief should live.
 
 "Fear," [Danov](/npcs/alexander-danov/) said. The word placed between them like a stone on a go board. "The hunters who took your sire. You worry they're still looking."
 

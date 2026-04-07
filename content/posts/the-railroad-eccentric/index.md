@@ -27,7 +27,7 @@ The paper folded. The pen vanished.
 
 "You're the new one at [Nicolai](/npcs/nicolai/)'s house. The analyst."
 
-Tomas said: "Who are you?"
+[Tomas](/npcs/tomas/) said: "Who are you?"
 
 The old man looked at him the way a teacher looks at a student who answered correctly for the wrong reasons. "Someone who reads crosswords at bus stops." He adjusted the cap. "You walked past three people on this block who could tell you more about the war than CNN. The woman with the grocery cart has a son in the 1st Marine Division. The man in the doorway of the shoe repair lost his lease because his landlord is selling to a developer who doesn't exist yet. The kid at the payphone is calling a girl in Cicero who won't pick up." He paused. "You didn't look at any of them. You looked at me. That's training, not instinct."
 
@@ -85,11 +85,11 @@ Tomas lowered the sense. Filed it.
 
 He walked back to the chantry. Twenty minutes through empty streets. A police cruiser on State, the officer's face blue from the dash computer. A diner with its lights on and nobody inside except a cook scraping the grill. The smell of burned grease and coffee. He remembered what coffee tasted like and then stopped remembering.
 
-Nicolai was in the second-floor study. Door open. Nothing on the desk except a fountain pen and a sheet of paper with writing Tomas couldn't read from the doorway.
+[Nicolai](/npcs/nicolai/) was in the second-floor study. Door open. Nothing on the desk except a fountain pen and a sheet of paper with writing Tomas couldn't read from the doorway.
 
 "You've been out."
 
-Tomas sat in the straight-backed chair and delivered the report. The clean report. [Drummond](/npcs/edgar-drummond/), [Ballard](/npcs/ballard/), the ledger, the Primogen session, the emissaries vanishing, Ballard's counter-search, [Brennon](/npcs/brennon-thornhill/)'s lockdown. Every sentence load-bearing. Every fact sourced. The notebook stayed in his jacket pocket with the gun oil and the [Guadalupe](/npcs/guadalupe-droin/) santo and the name he didn't say.
+Tomas sat in the straight-backed chair and delivered the report. The clean report. [Drummond](/npcs/edgar-drummond/), [Ballard](/npcs/ballard/), the ledger, the Primogen session, the emissaries vanishing, [Ballard](/npcs/ballard/)'s counter-search, [Brennon](/npcs/brennon-thornhill/)'s lockdown. Every sentence load-bearing. Every fact sourced. The notebook stayed in his jacket pocket with the gun oil and the [Guadalupe](/npcs/guadalupe-droin/) santo and the name he didn't say.
 
 Nicolai listened without interrupting. He said Ballard had been summoned. He said the emissaries were now a priority collection target. He said Cole's generation claim needed independent verification.
 

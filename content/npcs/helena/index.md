@@ -62,7 +62,7 @@ When Helena fell into torpor at Fort Dearborn, [Prias](/npcs/prias/) stopped fee
 
 Helena and [Prias](/npcs/prias/) reached Carthage just as the Brujah were raising it to its greatest glory. At first they fought for Carthage. Then they saw who the winners would be. They fled to Rome and gave the Ventrue the intelligence they needed to destroy the city. In exchange, Helena received the fief of Pompeii.
 
-[Menele](/npcs/menele/) discovered the betrayal and swore vengeance. He tracked her to Pompeii and summoned a spirit of fire. The eruption buried the city. Helena survived through Prias's aid. They fled to Egypt.
+[Menele](/npcs/menele/) discovered the betrayal and swore vengeance. He tracked her to Pompeii and summoned a spirit of fire. The eruption buried the city. Helena survived through [Prias](/npcs/prias/)'s aid. They fled to Egypt.
 
 ## The Conquistadors
 
@@ -124,7 +124,7 @@ No Kindred in Chicago knows Maria is dead. All Toreador are very interested in w
 
 **Maria** — 5th gen childe. Slain upon Helena's awakening. No one knows she is dead.
 
-**Francois Villon** — 5th gen childe. Prince of Paris. Embraced 1240 during Helena's search for Menele through Europe. He learned strong rule and the necessity of strict order from his sire.
+**Francois Villon** — 5th gen childe. Prince of Paris. Embraced 1240 during Helena's search for [Menele](/npcs/menele/) through Europe. He learned strong rule and the necessity of strict order from his sire.
 
 **Marie Galbraith** — childe, left behind in Mexico during the conquest. Wooed by the sleeping entity beneath the pyramid.
 

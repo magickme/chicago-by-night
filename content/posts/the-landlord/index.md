@@ -76,7 +76,7 @@ He opened the door. Got out. The car rose on its springs. He stood on the gravel
 
 He walked into the dark. Not toward the road or the docks or any visible destination. He walked into the dark the way a man walks into his own house, and the dark took him, and the access road was empty.
 
-Darius put the car in gear. His hands were steady. In the rearview mirror, [Sable](/sable-price/)'s face was unreadable.
+[Darius](/darius-cole/) put the car in gear. His hands were steady. In the rearview mirror, [Sable](/sable-price/)'s face was unreadable.
 
 ---
 

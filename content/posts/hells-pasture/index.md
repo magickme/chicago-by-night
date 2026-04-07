@@ -126,7 +126,7 @@ He looked down at [Roarke](/npcs/roarke/) for a long time.
 
 An open palm, facing down. "**Look at me.**"
 
-[Roarke](/npcs/roarke/)'s head came up. Sixty years of conditioning. Their eyes locked. Four seconds. Roarke's face went slack, then empty, then peaceful. He exhaled once and folded sideways.
+[Roarke](/npcs/roarke/)'s head came up. Sixty years of conditioning. Their eyes locked. Four seconds. [Roarke](/npcs/roarke/)'s face went slack, then empty, then peaceful. He exhaled once and folded sideways.
 
 The aging began immediately. Subtle, then fast. Skin tightening. Hair going white. The suit hanging loose on a collapsing frame. By the time it stopped, there was nothing on the ground that looked like it had ever been a person.
 
@@ -140,7 +140,7 @@ They collected Scottie Cartwright from his log. He was hysterical — saw everyt
 
 "You drove out here following a tip. You saw a bonfire. People running. You fell asleep in the cold."
 
-Five successes on the Forgetful Mind. Granite. Scottie's face slackened, refocused, cleared. A man who drove out to the country and found nothing worth the gas. The notebook went into Darius's pocket.
+Five successes on the Forgetful Mind. Granite. Scottie's face slackened, refocused, cleared. A man who drove out to the country and found nothing worth the gas. The notebook went into [Darius](/darius-cole/)'s pocket.
 
 [Lodin](/npcs/lodin/) had watched the entire exchange. When they rejoined him, the Prince nodded once. "Efficient."
 
@@ -164,7 +164,7 @@ The [Drake Hotel](/locations/drake-hotel/). East side service entrance. Darius p
 
 "The pendant in my vault. I acquired it from someone who told me it was a key. He didn't say what it opened."
 
-The body went into the eighth-floor suite. Cedar closet, heavy doors. Lodin locked it himself.
+The body went into the eighth-floor suite. Cedar closet, heavy doors. [Lodin](/npcs/lodin/) locked it himself.
 
 "You rescued me. You brought me something I did not expect to see again. You have earned a conversation — but not tonight." He crossed to the telephone. "Return to your haven. Attend to your Sheriff problem. Feed. I will send word before dawn."
 
@@ -182,7 +182,7 @@ He pulled over near a shelter on Madison. Twenty minutes later the restriction w
 
 The Buick was where they'd left it. They recovered it without incident. The compound was dark. The fire had burned out. Nothing moved in the woods.
 
-At the Starlite, Sable sat on the bed and looked at the bathroom where the body had been twelve hours ago. The bathtub was empty. The fluorescent still buzzed.
+At the Starlite, [Sable](/sable-price/) sat on the bed and looked at the bathroom where the body had been twelve hours ago. The bathtub was empty. The fluorescent still buzzed.
 
 "He recognized the pendant," she said.
 

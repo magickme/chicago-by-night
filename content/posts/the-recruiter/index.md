@@ -68,7 +68,7 @@ The window was cracked. Smoker's habit. The fire escape ran right past it.
 
 The floorboard creaked.
 
-The driver turned. [Darius](/darius-cole/) was already there. Eye contact. The man's mouth opened and what came out of Darius was not a request.
+The driver turned. [Darius](/darius-cole/) was already there. Eye contact. The man's mouth opened and what came out of [Darius](/darius-cole/) was not a request.
 
 "You will not speak to [Ballard](/npcs/ballard/) about your memories. You will not return to Daley's. You will wait here until I come back."
 

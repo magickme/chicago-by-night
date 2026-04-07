@@ -44,7 +44,7 @@ Good judgment, [Roarke](/npcs/roarke/). Show him to the library.
 
 The library door closed. [Belthazar](/npcs/belthazar/)'s voice came through anyway -- shouting about permitting the Embrace, about severity, about precedent. [Lodin](/npcs/lodin/)'s silence was worse than any answer. Then the library door flew open and [Belthazar](/npcs/belthazar/) crossed the suite in four strides, coat flaring. Muttering: owes her something, he says. Phahhh. Owes her nothing.
 
-The front door slammed hard enough to rattle the liquor cabinet. [Lodin](/npcs/lodin/) called Roarke into the library and told him about London.
+The front door slammed hard enough to rattle the liquor cabinet. [Lodin](/npcs/lodin/) called [Roarke](/npcs/roarke/) into the library and told him about London.
 
 Tomorrow night. Chartered jet. Absolute secrecy. A manila envelope with logistics. The way [Lodin](/npcs/lodin/) said the word London -- low, deliberate, weighted -- made it sound like the instructions for a war.
 

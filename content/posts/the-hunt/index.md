@@ -76,7 +76,7 @@ They went back and forth on the notepad in the dark living room with the clock t
 
 *She offered because she believes the bond is an obscenity.*
 
-Sable named the truth neither of them wanted to hear: it was a long shot, it was months away at minimum, and they weren't positioned for it. [Allicia](/npcs/allicia/) nodded the way someone nods who has waited fifty-two years and can wait longer because waiting is the only thing she's ever been allowed to be good at.
+[Sable](/sable-price/) named the truth neither of them wanted to hear: it was a long shot, it was months away at minimum, and they weren't positioned for it. [Allicia](/npcs/allicia/) nodded the way someone nods who has waited fifty-two years and can wait longer because waiting is the only thing she's ever been allowed to be good at.
 
 *I am not asking you to save me tonight. I am asking you to know what I need so that when the moment comes you do not hesitate.*
 
@@ -90,4 +90,4 @@ Inside, she ran the Monday brief. [Spoon](/npcs/spoon-antoine/) back Sunday. DeS
 
 "Monday. Eleven sharp. Nobody's late."
 
-The ghouls nodded. The garage was quiet. Outside, the burned pages cooled in the can and the lake made its patient sound through the Gary night, and somewhere on the other side of the city Allicia was playing the piano for a room full of people who would never know what she'd written in the dark, or what it cost her to fold it up and hand it to someone and say *burn these* and mean *remember*.
+The ghouls nodded. The garage was quiet. Outside, the burned pages cooled in the can and the lake made its patient sound through the Gary night, and somewhere on the other side of the city [Allicia](/npcs/allicia/) was playing the piano for a room full of people who would never know what she'd written in the dark, or what it cost her to fold it up and hand it to someone and say *burn these* and mean *remember*.

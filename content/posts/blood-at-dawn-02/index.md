@@ -88,7 +88,7 @@ They drove to the Wasteland. The ore smelter where the roof had caved in. A ship
 
 The bag pulsed five times a second.
 
-Darius threw it. The leather hit the flames and the spirit screamed — not sound but vibration, traveling up his arm and into his chest, and for one second he felt what lived on the other side of the door: rage and hunger and the fury of something ancient being dragged backward through an opening it had spent three months prying wider.
+[Darius](/darius-cole/) threw it. The leather hit the flames and the spirit screamed — not sound but vibration, traveling up his arm and into his chest, and for one second he felt what lived on the other side of the door: rage and hunger and the fury of something ancient being dragged backward through an opening it had spent three months prying wider.
 
 The fire flared white. Both of them staggered. The light held for three seconds while the bag writhed and the stitching popped and from inside it came a long descending note, the sound of something falling a very long way down.
 

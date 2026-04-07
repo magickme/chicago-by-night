@@ -72,7 +72,7 @@ The man upstairs was [Michael Standdown](/npcs/michael-standdown/). Occult inves
 
 [Darius](/darius-cole/) rewrote his night. Three successes on Forgetful Mind — enough to replace the encounter with something plausible. The body woke up and walked away. [Standdown](/npcs/michael-standdown/) stood alone in his apartment and said "My God" to no one and the rewrite settled into his memory like silt into a riverbed, not granite but functional, the kind of false floor that holds weight until someone tests it.
 
-They loaded the body with the pallet jack. Park Avenue trunk. The suspension dropped. Sable drove south and the city at four in the morning was sodium orange and black ice and steam from every grate and the lake to the east was a void the color of nothing.
+They loaded the body with the pallet jack. Park Avenue trunk. The suspension dropped. [Sable](/sable-price/) drove south and the city at four in the morning was sodium orange and black ice and steam from every grate and the lake to the east was a void the color of nothing.
 
 The Starlite Motel was exactly what they'd paid for. Room 9. They put the body in the bathtub. The pendant rested against calcified flesh. The shower curtain closed.
 

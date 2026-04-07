@@ -76,7 +76,7 @@ She looked at [Sable](/sable-price/). The mask was cracked. Not broken. One faul
 
 "That's what he did. That's what he'll do to you if you let him pour."
 
-She stood. Walked to the door. Opened it and the main floor music flooded the booth and the red light shifted and Sable sat in the velvet dark with the razor in her pocket and the warning in her chest.
+She stood. Walked to the door. Opened it and the main floor music flooded the booth and the red light shifted and [Sable](/sable-price/) sat in the velvet dark with the razor in her pocket and the warning in her chest.
 
 [Allicia](/npcs/allicia/) paused in the doorway without turning around.
 
@@ -116,7 +116,7 @@ Sable sat on the floor beneath the photograph and looked at the pointe shoes and
 
 She would not drink.
 
-She would not drink because Allicia told her not to, and Allicia was the only person in Gary who had told Sable something true without wanting something back, and that made Allicia the most dangerous person in Sable's life, because people who give you things for free are the people you owe debts you can't calculate.
+She would not drink because [Allicia](/npcs/allicia/) told her not to, and Allicia was the only person in Gary who had told Sable something true without wanting something back, and that made Allicia the most dangerous person in Sable's life, because people who give you things for free are the people you owe debts you can't calculate.
 
 Dawn pressed against the windows. Sable lay on the hardwood floor. The pointe shoes turned on their ribbons. The photograph watched.
 

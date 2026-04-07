@@ -52,7 +52,7 @@ Conditioning didn't look like the movies. No spiraling eyes, no swinging watch. 
 
 [Darius](/darius-cole/) talked about Warren Birch. Not the fiction — the man. He built Birch in the air between them line by line, room by room. Birch's voice. Birch's manner. The handshake — firm, brief. The way Birch answered the phone. The way Birch sat in a meeting with an FBI agent and said *I'm sorry, I don't know what you're referring to* with the flatness of a man who had nothing to hide because he had never done anything worth hiding.
 
-Webb listened. His eyes didn't leave Darius's. He didn't blink for stretches that would have concerned a doctor. The quarterly reports sat untouched between them, the yellow stickies marking lines that would never be signed because the meeting they represented had never been real.
+Webb listened. His eyes didn't leave [Darius](/darius-cole/)'s. He didn't blink for stretches that would have concerned a doctor. The quarterly reports sat untouched between them, the yellow stickies marking lines that would never be signed because the meeting they represented had never been real.
 
 The first ten went in clean. The Dominate found the groove in Webb's psychology where obedience lived, the place that four years of deference had worn smooth, and the Conditioning settled into that groove like water into a channel. Warren Birch stopped being a name on a form and started being a shape with weight and dimension, something that had always been there and was only now being noticed.
 

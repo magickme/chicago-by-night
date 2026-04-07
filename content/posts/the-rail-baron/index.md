@@ -39,13 +39,13 @@ The predatory aura hit the room and Emmett's hand went to his gun and [Drummond]
 
 [Darius](/darius-cole/) took Emmett. One word, eye contact, the mortal folding like paper. Walked him out.
 
-[Sable](/sable-price/) sat on the edge of Drummond's desk. Close. Inside the radius of his fear.
+[Sable](/sable-price/) sat on the edge of [Drummond](/npcs/edgar/)'s desk. Close. Inside the radius of his fear.
 
 He was exactly what the Spirit's Touch had shown. A fat man in an engineer's cap. Appearance 1. The face of someone who had been told he was stupid his entire mortal life and then given eternity to prove them right. He looked at her and his expression cycled through shock, fury, fear, and something pathetic — the wounded indignation of a child whose bedroom had been invaded.
 
 She asked about the railroads.
 
-He talked for twelve minutes. The switching logic. The Twentieth Century Limited. The Lake Shore section. His hands came alive when he described the signal synchronization and the fear drained and the pride flooded in and Sable watched it happen and understood exactly where the crack was. Not the anger. Not the ego. The loneliness underneath both, so deep he didn't know it was there.
+He talked for twelve minutes. The switching logic. The Twentieth Century Limited. The Lake Shore section. His hands came alive when he described the signal synchronization and the fear drained and the pride flooded in and [Sable](/sable-price/) watched it happen and understood exactly where the crack was. Not the anger. Not the ego. The loneliness underneath both, so deep he didn't know it was there.
 
 Nobody visited. Nobody asked about the railroads. Nobody thought he was important.
 
@@ -79,7 +79,7 @@ The door closed. A ghoul walked them to the stairwell.
 
 Outside, the rain. The war on television. State Street at one in the morning, empty except for the sound of someone else's crisis being broadcast to a country that would forget it by spring.
 
-They sat in the Cutlass and didn't talk for a while. Darius started the engine. The heater kicked in. Miles Davis on the jazz station, muted trumpet, the kind of music that fills silence without replacing it.
+They sat in the Cutlass and didn't talk for a while. [Darius](/darius-cole/) started the engine. The heater kicked in. Miles Davis on the jazz station, muted trumpet, the kind of music that fills silence without replacing it.
 
 "Nobody knows it was us," Sable said.
 

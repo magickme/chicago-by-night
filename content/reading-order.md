@@ -233,6 +233,12 @@ Published scenes from **Chicago Chronicles** in chronological order.
 |---|---|---|---|
 | 73 | [An Unexpected Meeting](/posts/an-unexpected-meeting/) | Darius | Jan 18, 1991, 4:35 PM |
 
+### Chapter 9 — The Underground
+
+| # | Scene | PC | Date |
+|---|---|---|---|
+| 74 | [The Old Neighborhood](/posts/the-old-neighborhood/) | Sable | Jan 20, 1991, 4:35 PM |
+
 ---
 
 ## Other Chronicles

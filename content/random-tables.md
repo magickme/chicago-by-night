@@ -946,8 +946,8 @@ Use one headline at scene open to add mortal friction unrelated to the Jyhad. Th
 |Allicia bond-breaking (remote)|2x|ACTIVE. Erichtho evaluation done. Carna path. Months in Milwaukee needed.|
 |Ballard's counterattack|2x|ADVANCING. Greystone Fiduciary mapped. Three properties targeted. Annabelle warned. Coterie holds intercepted intelligence.|
 |Lodin's return|2x|ACTIVE. Behind closed doors since Primogen session. Neally chairing Wednesday. Anarchs reading weakness.|
-|Denise Price — the mother|1x|ESCALATED. In Chicago (Robert Taylor Homes). Thirty miles south.|
-|Ghoul management (remote)|1x|ACTIVE. DeShawn, Pete at Kendrick's. Coop on call. Spoon home. 3 BP/month. Distance = decay risk.|
+|Denise Price — the mother|2x|CRITICAL S036. Sabbat scout feeding floor-by-floor west to east (714 Nov, 709 Jan) — 718 next in sequence. 2-6 week timeline. Coop deployed (guard + deadbolt). FBI canvassing same floor. Bordruff knows Sable has mortal connection there.|
+|Ghoul management (remote)|1x|ACTIVE. DeShawn, Pete at Kendrick's. Coop DEPLOYED to Robert Taylor (S036). Spoon home. 3 BP/month. Distance = decay risk.|
 |Cover story under scrutiny|1x|OPEN. App 5 memorable. Critias engaged both PCs — profile raised.|
 |Anarch unrest|1x|ADVANCING. Gengis +1. Maldavis +1. Succession talk (Maldavis as candidate). South Side displacement.|
 |Hunter pressure|1x|ADVANCED. Standdown encountered + wiped. Shepard (FBI) connected. Dane may follow.|
@@ -957,8 +957,10 @@ Use one headline at scene open to add mortal friction unrelated to the Jyhad. Th
 |Tomás Navarro — Tremere contact|1x|Met S033. Operational potential. Analyst, not operator.|
 |Wednesday Primogen session|1x|NEW D037. Formal Ballard adjudication. Brennon offered to pass message to Neally for formal presentation.|
 |Thursday double-header|1x|NEW D037. Critias faculty club 9 PM (both PCs invited). Relationship building.|
-|Methuselah War|HIDDEN|Helena vs Menele. Coterie = unwitting Menele proxies. Portia at Succubus Club.|
-|Sabbat infiltration|LATENT|Activates Act III.|
+|Sabbat incursion (tunnel scout)|2x|NEW S036. Scout confirmed under South Side — Sabbat marks, mapping routes north to Succubus Club. Bordruff contact (Wed midnight, Church of Christ, 53rd). Khalid price pending for removal. Spirit's Touch: scout used Presence on victims (Toreador antitribu?). Brand on wrist, red-brown clay (not local), grave-soil scent.|
+|Bordruff / Nosferatu contact|1x|NEW S036. Nathaniel Bordruff, South Side Nosferatu (H0, plays Lodin/Khalid). Intel exchange. Wednesday meeting. Path to Khalid.|
+|Lodin Blood Bond warning|2x|NEW S036. Annabelle warned: Lodin summoning coterie within the week. Toast = blood bond. "Don't drink." Darius briefed.|
+|Methuselah War|HIDDEN|Helena vs Menele. Coterie = unwitting Menele proxies. Portia at Succubus Club. Tunnel routes north may connect to Club foundations.|
 
 ### Shared Characters
 
@@ -999,6 +1001,8 @@ Use one headline at scene open to add mortal friction unrelated to the Jyhad. Th
 |38|Raymond Falcon|
 |39|Craig Hessler|
 |40|Martin Hayward|
+|41|Nathaniel Bordruff|
+|42|Sabbat Scout (unnamed, Toreador antitribu?)|
 
 ## Live Story Oracles
 

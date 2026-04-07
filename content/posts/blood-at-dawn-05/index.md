@@ -50,7 +50,7 @@ Then [Modius](/npcs/modius/) looked at [Darius](/darius-cole/) and smiled. Not t
 
 ---
 
-[Darius](/darius-cole/) drove home. The west-side apartment was dark. Two guns in his coat, one from a man with five selves and one from a man with two names. The prince of a dying city had smiled at him and meant it, and the smile was worth more than the guns and the blood and the architecture combined, because in the Jyhad a prince's genuine respect was the rarest currency there was, and Darius had just earned his first real coin of it.
+[Darius](/darius-cole/) drove home. The west-side apartment was dark. Two guns in his coat, one from a man with five selves and one from a man with two names. The prince of a dying city had smiled at him and meant it, and the smile was worth more than the guns and the blood and the architecture combined, because in the Jyhad a prince's genuine respect was the rarest currency there was, and [Darius](/darius-cole/) had just earned his first real coin of it.
 
 He sat at the kitchen table. [Shepard](/npcs/william-shepard/)'s phone number from a dead detective's folder. [Shepard](/npcs/william-shepard/)'s business card from a broken musician's trumpet case. The Polaroid of the unknown man at Dock 7. Three pieces of a federal investigation that kept circling the same points: the docks, the boy, the alley, the mansion. The circles were getting smaller. Eventually they'd close.
 

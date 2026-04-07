@@ -92,7 +92,7 @@ He held her gaze a moment longer than necessary. Then he grunted and lifted a ha
 
 [Belthazar](/npcs/belthazar/) looked at [Sable](/sable-price/) the way a man looks at a parking meter.
 
-Ballard pushed back. The chair groaned under him. "As if you didn't already know where he is. Do not play your game past tomorrow night, Neonates."
+[Ballard](/npcs/ballard/) pushed back. The chair groaned under him. "As if you didn't already know where he is. Do not play your game past tomorrow night, Neonates."
 
 The dinner was over. The plates were still full. The wine was still in her stomach, wrong, heavy, a reminder that every part of her body was a machine performing functions it had forgotten the reasons for. Somewhere in the restaurant a mortal was laughing, and the sound was the loneliest thing she had heard since Gary.
 

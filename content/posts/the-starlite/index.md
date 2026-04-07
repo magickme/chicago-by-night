@@ -55,7 +55,7 @@ She listened. She asked the right questions.
 
 "Don't oversell. Concern, not accusation."
 
-"I know how to talk to Toreador, Darius."
+"I know how to talk to Toreador, [Darius](/darius-cole/)."
 
 They set the deadlines. [Sir Henry](/npcs/sir-henry-johnson/) at the salon. [Lodin](/npcs/lodin/) by Wednesday or they'd go to the Drake and not leave. The driver as insurance while the narrative did the real work.
 
