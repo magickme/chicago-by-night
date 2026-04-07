@@ -97,7 +97,7 @@ The answer he gives anyone who asks: "I just want to survive, sir."
 
 **Being forgotten.** He watched Gary forget his father. Watched the city forget the 30,000 men who built its steel. In the Jyhad, neonates who fail to matter are erased — not killed, just *forgotten*, which is worse.
 
-**[Chuc Luc](/npcs/chuc-luc/).** His sire is patient, brilliant, and completely willing to sacrifice him. The bumbling act is the most frightening thing Darius has ever seen — because it means Chuc Luc has been doing this for decades, fooling elders who should know better, and Darius is just the latest tool. The affection of a sire who sees you as a ledger entry is no affection at all.
+**[Chuc Luc](/npcs/chuc-luc/).** His sire is patient, brilliant, and completely willing to sacrifice him. The bumbling act is the most frightening thing Darius has ever seen — because it means [Chuc Luc](/npcs/chuc-luc/) has been doing this for decades, fooling elders who should know better, and Darius is just the latest tool. The affection of a sire who sees you as a ledger entry is no affection at all.
 
 ---
 

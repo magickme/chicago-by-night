@@ -70,7 +70,7 @@ The Polish bar on Michigan Avenue didn't have a name on the outside — just a B
 
 Inside was warm and loud and smelled like kielbasa and spilled beer. A television above the bar was showing Dick Clark's countdown from Times Square, the sound turned down so low that the crowd on screen appeared to be miming their enthusiasm. A dozen stevedores and former steelworkers were arranged along the bar and in the booths, drinking with the methodical focus of men who understood that this was the last hour of a bad year and the first hour of one that would probably be worse.
 
-Ray was at the bar. Red-faced, loud, waving a hand at the bartender for another round. Buying drinks he couldn't afford. Darius had known men like Ray his entire life — men whose generosity was a symptom of their terror, who spent money they didn't have because spending was the only language they knew for saying *I'm still here, I still matter, don't forget me.*
+Ray was at the bar. Red-faced, loud, waving a hand at the bartender for another round. Buying drinks he couldn't afford. [Darius](/darius-cole/) had known men like Ray his entire life — men whose generosity was a symptom of their terror, who spent money they didn't have because spending was the only language they knew for saying *I'm still here, I still matter, don't forget me.*
 
 Darius slid onto the stool beside him and put a folded twenty on the bar.
 

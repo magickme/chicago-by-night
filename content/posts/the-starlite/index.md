@@ -65,7 +65,7 @@ The line clicked. Dial tone.
 
 Midnight. North on the Dan Ryan. The city thinning out the way cities do when the temperature drops below freezing and the snow from last night is still packed into the gutters.
 
-The walkup was dark from the street. Second-floor window closed. The fire escape ladder was still down. Darius parked a block east and watched the building for ten minutes. No minder. No surveillance he could read.
+The walkup was dark from the street. Second-floor window closed. The fire escape ladder was still down. [Darius](/darius-cole/) parked a block east and watched the building for ten minutes. No minder. No surveillance he could read.
 
 He crossed. Climbed. The window was latched. It hadn't been latched three days ago.
 

@@ -82,7 +82,7 @@ At Fort Dearborn, [Helena](/npcs/helena/) allied with the United States military
 
 [Helena](/npcs/helena/) dug her claws deep into Menele's ribs. With a scream of agony that made the earth shake, Menele drove his skull into her forehead. Both were thrown to the ground. Menele's remaining braves made a last desperate charge to rescue him, but [Prias](/npcs/prias/) drove a burning stake deep into the vampire's neck before they could reach him.
 
-Both Methuselahs fell into torpor. [Prias](/npcs/prias/) took Helena to safety beneath the fort. At the cost of many lives, Menele's allies seized his body and escaped into the woods. Native American warriors have cared for the ancient since, tending his torpid body for over a century and a half.
+Both Methuselahs fell into torpor. [Prias](/npcs/prias/) took [Helena](/npcs/helena/) to safety beneath the fort. At the cost of many lives, Menele's allies seized his body and escaped into the woods. Native American warriors have cared for the ancient since, tending his torpid body for over a century and a half.
 
 ## The Sleeping War — Chicago
 

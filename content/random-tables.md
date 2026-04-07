@@ -952,14 +952,15 @@ Use one headline at scene open to add mortal friction unrelated to the Jyhad. Th
 |Anarch unrest|1x|ADVANCING. Gengis +1. Maldavis +1. Succession talk (Maldavis as candidate). South Side displacement.|
 |Hunter pressure|1x|ADVANCED. Standdown encountered + wiped. Shepard (FBI) connected. Dane may follow.|
 |Drummond's gratitude + railroad|1x|OPEN. Elder Ventrue owes Sable. Ledger maps Ballard's freight. Pipeline implications for Chuc Luc.|
-|Sir Henry alliance|1x|DEEPENED S034. Coaching Sable. Fully invested. +3 disposition. Sent Friday warning.|
+|Sir Henry alliance|1x|DEEPENED S037. Reciprocal trade completed (Gary for Drake). Coached Sable on Wednesday strategy: attend, weaponize clan weakness, don't drink. Advised re Sophia repair. +3.|
 |Tamoszius alliance|1x|NEW S034. 90yr Ballard-watcher. Info exchange deal. Independent Toreador intel channel.|
 |Tomás Navarro — Tremere contact|1x|Met S033. Operational potential. Analyst, not operator.|
-|Wednesday Primogen session|1x|NEW D037. Formal Ballard adjudication. Brennon offered to pass message to Neally for formal presentation.|
+|Wednesday Primogen session|1x|ADVANCING S037. Strategy: attend, be seen, be gracious. Weaponize Toreador entrancement as excuse not to drink toast. Neally chairing — authority questionable (Sir Henry Drake intel). Sophia incident may complicate Annabelle dynamic.|
 |Thursday double-header|1x|NEW D037. Critias faculty club 9 PM (both PCs invited). Relationship building.|
 |Sabbat incursion (tunnel scout)|2x|NEW S036. Scout confirmed under South Side — Sabbat marks, mapping routes north to Succubus Club. Bordruff contact (Wed midnight, Church of Christ, 53rd). Khalid price pending for removal. Spirit's Touch: scout used Presence on victims (Toreador antitribu?). Brand on wrist, red-brown clay (not local), grave-soil scent.|
 |Bordruff / Nosferatu contact|1x|NEW S036. Nathaniel Bordruff, South Side Nosferatu (H0, plays Lodin/Khalid). Intel exchange. Wednesday meeting. Path to Khalid.|
-|Lodin Blood Bond warning|2x|NEW S036. Annabelle warned: Lodin summoning coterie within the week. Toast = blood bond. "Don't drink." Darius briefed.|
+|Lodin Blood Bond warning|2x|ADVANCING S037. Sir Henry confirms: Lodin CAN'T chair (not won't). Mortal physician on Prince's floor. 2 unknown Kindred visitors (not Chicago). Neally's authority may be hollow. Strategy: attend Wednesday, weaponize Toreador clan weakness as excuse not to drink.|
+|Sophia Ayes — sire politics|1x|NEW S037. Insulted Sophia (Annabelle's childe) publicly at Succubus Club re: Stryker dance. Sophia left hostile (-1). Sir Henry advises: compliment her craft (not beauty) before Wednesday to repair Annabelle's perception. Risk: Annabelle sees Sable as someone who knows where to put the knife.|
 |Methuselah War|HIDDEN|Helena vs Menele. Coterie = unwitting Menele proxies. Portia at Succubus Club. Tunnel routes north may connect to Club foundations.|
 
 ### Shared Characters

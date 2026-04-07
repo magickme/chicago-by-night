@@ -58,7 +58,7 @@ Then he walked back to the Buick, and as he opened the driver's door his coat sw
 
 The first was a wooden stake in a belt holster, positioned for a cross-draw. Not a gun. A stake. [Dane](/npcs/sullivan-dane/) carried it the way [Darius](/darius-cole/) carried his pistol — always there, practiced angle, muscle memory in the draw. But [Dane](/npcs/sullivan-dane/)'s weapon was a tool, not a prop. [Dane](/npcs/sullivan-dane/) had used his. Six times that anyone knew about.
 
-The second thing was a key fob clipped to his belt loop. Rectangular. Orange plastic. Motel key. From fifty yards Darius couldn't read the name, but the shape and color were distinctive. There were three motels on the Borman Expressway corridor that used orange plastic fobs. Darius knew this because he had cased every motel within ten miles of Gary during his first week in the city. It was what you did. It was how the architecture started.
+The second thing was a key fob clipped to his belt loop. Rectangular. Orange plastic. Motel key. From fifty yards [Darius](/darius-cole/) couldn't read the name, but the shape and color were distinctive. There were three motels on the Borman Expressway corridor that used orange plastic fobs. Darius knew this because he had cased every motel within ten miles of Gary during his first week in the city. It was what you did. It was how the architecture started.
 
 [Dane](/npcs/sullivan-dane/) got back in the Buick. At 11:30 he started the engine and drove north.
 

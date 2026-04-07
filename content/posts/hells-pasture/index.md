@@ -154,7 +154,7 @@ The drive back. I-90. Sodium lights and long-haul trucks. [Lodin](/npcs/lodin/) 
 
 "And [Ballard](/npcs/ballard/). Who is acting as regent."
 
-Darius talked for twenty minutes. The whole ledger. The [Succubus Club](/locations/succubus-club/). The false Prince. [Ballard](/npcs/ballard/)'s dinner and his threats. The haven search and the twin pendants. [Standdown](/npcs/michael-standdown/)'s warehouse and the body that wasn't [Lodin](/npcs/lodin/). The vial. The frenzy. All of it.
+[Darius](/darius-cole/) talked for twenty minutes. The whole ledger. The [Succubus Club](/locations/succubus-club/). The false Prince. [Ballard](/npcs/ballard/)'s dinner and his threats. The haven search and the twin pendants. [Standdown](/npcs/michael-standdown/)'s warehouse and the body that wasn't [Lodin](/npcs/lodin/). The vial. The frenzy. All of it.
 
 [Lodin](/npcs/lodin/) listened without interrupting until the body.
 

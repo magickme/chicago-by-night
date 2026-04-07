@@ -44,7 +44,7 @@ He didn't use it.
 
 "I'm not with them. Move."
 
-[Gregory](/npcs/gregory-stephens/) moved. He ran past [Darius](/darius-cole/) close enough to touch, through the gap between containers, south toward the gate, and Darius heard the chain-link rattle and then he was gone.
+[Gregory](/npcs/gregory-stephens/) moved. He ran past [Darius](/darius-cole/) close enough to touch, through the gap between containers, south toward the gate, and [Darius](/darius-cole/) heard the chain-link rattle and then he was gone.
 
 ---
 

@@ -53,9 +53,9 @@ She told him what [Annabelle](/annabelle-triabell/) had said about his festival.
 
 The doubt detonated.
 
-"He told me about the festival," Drummond whispered. "He told me what she said. He said everyone was laughing."
+"He told me about the festival," [Drummond](/npcs/edgar/) whispered. "He told me what she said. He said everyone was laughing."
 
-"He sat right there." Pointing at the chair Sable hadn't taken. "He brought food. Real food. He told me my railroads were the most important thing in Chicago."
+"He sat right there." Pointing at the chair [Sable](/sable-price/) hadn't taken. "He brought food. Real food. He told me my railroads were the most important thing in Chicago."
 
 He couldn't finish.
 

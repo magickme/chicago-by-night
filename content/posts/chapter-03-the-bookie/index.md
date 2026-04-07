@@ -52,7 +52,7 @@ He was carrying something in his coat pocket. [Darius](/darius-cole/) could see 
 
 [Michael](/npcs/michael/) stopped walking. He didn't flinch. He didn't smile. He looked at [Darius](/darius-cole/) with eyes that were flat and still and not at all the eyes of the nervous, lurching boy that the court saw at [Modius](/npcs/modius/)'s gatherings.
 
-"You weren't testing," [Michael](/npcs/michael/) said. His voice was quiet and higher than Darius expected and completely steady. "You were *pushing.*"
+"You weren't testing," [Michael](/npcs/michael/) said. His voice was quiet and higher than [Darius](/darius-cole/) expected and completely steady. "You were *pushing.*"
 
 The Awe had bounced. The Malkavian mind — fractured, yes, but fractured the way a prism is fractured, breaking one light into many — had registered the Presence, identified it, and rejected it. [Michael](/npcs/michael/) knew exactly what Darius had just tried to do.
 
@@ -62,7 +62,7 @@ The laugh died in Darius's throat.
 
 They stood in the dark between the warehouse and the dispatch office, two Kindred in a domain that belonged to neither of them, and the conversation that followed was nothing like what Darius had planned.
 
-He tried the cover. [Michael](/npcs/michael/) didn't buy it. He tried the mutual-exposure angle — *we're both in [Lucian](/npcs/lucian/)'s backyard.* Michael acknowledged it with a silence that conceded nothing. He tried a false detail, mentioning money, and watched Michael's left hand twitch involuntarily toward the envelope before catching itself. Not money, then. Something else. Something Michael was protecting.
+He tried the cover. [Michael](/npcs/michael/) didn't buy it. He tried the mutual-exposure angle — *we're both in [Lucian](/npcs/lucian/)'s backyard.* [Michael](/npcs/michael/) acknowledged it with a silence that conceded nothing. He tried a false detail, mentioning money, and watched Michael's left hand twitch involuntarily toward the envelope before catching itself. Not money, then. Something else. Something Michael was protecting.
 
 "Why are you here, Birch?" Michael asked, and the use of the court name — Warren Birch, the orphan, the cover — told Darius that Michael had placed him, catalogued him, and was now deciding what to do with him.
 

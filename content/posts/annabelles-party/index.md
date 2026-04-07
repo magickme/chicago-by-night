@@ -43,9 +43,9 @@ Sire and childe saw each other across thirty feet and every Kindred felt it. [Sh
 
 [Sharon](/npcs/sharon-payne/) left. Heels hitting marble. Cold perfume in a wake that passed eight feet from where [Sable](/sable-price/) stood behind a column and she didn't look and she didn't stop and she was gone.
 
-Sable tried the hook with [Annabelle](/npcs/annabelle-triabell/) in the ninety seconds before the next disaster. It landed thin — one success against a woman with two hundred and seventy years of Subterfuge. "How generous," [Annabelle](/npcs/annabelle-triabell/) said, and the compliment contained a ranking. But she gave the private number through [Sir Henry](/npcs/sir-henry-johnson/) and promised a conversation later in the week, and then the sculpture was unveiled.
+[Sable](/sable-price/) tried the hook with [Annabelle](/npcs/annabelle-triabell/) in the ninety seconds before the next disaster. It landed thin — one success against a woman with two hundred and seventy years of Subterfuge. "How generous," [Annabelle](/npcs/annabelle-triabell/) said, and the compliment contained a ranking. But she gave the private number through [Sir Henry](/npcs/sir-henry-johnson/) and promised a conversation later in the week, and then the sculpture was unveiled.
 
-Cast iron. Gears and pistons and a centrifugal governor — a locomotive regulator mechanism, polished and mounted on mahogany, lit from below. Industrial hardware dressed as art. Annabelle's hand was still on the velvet when her eyes went flat.
+Cast iron. Gears and pistons and a centrifugal governor — a locomotive regulator mechanism, polished and mounted on mahogany, lit from below. Industrial hardware dressed as art. [Annabelle](/npcs/annabelle-triabell/)'s hand was still on the velvet when her eyes went flat.
 
 Someone near the back laughed once.
 
@@ -57,7 +57,7 @@ Then the lights over the small stage dimmed and [Sophia Ayes](/sophia-ayes/) ste
 
 Feeding as performance. The Kiss staged for an audience. Blood on lips and throat and the sound Sophia made was not pain and every mortal pretense in the room evaporated. Vampiric pornography. Annabelle's childe, in Annabelle's lounge, at Annabelle's party.
 
-The clan weakness hit every Toreador in the room simultaneously. Sable's body locked. Champagne flute frozen mid-air. Pupils blown. The beauty and the horror fused into one thing and the Beast and the aesthetic sense merged and she could not look away. Sir Henry's hand on her elbow, firm, not gentle — "Sable. Don't." — but she couldn't respond.
+The clan weakness hit every Toreador in the room simultaneously. Sable's body locked. Champagne flute frozen mid-air. Pupils blown. The beauty and the horror fused into one thing and the Beast and the aesthetic sense merged and she could not look away. [Sir Henry](/npcs/sir-henry-johnson/)'s hand on her elbow, firm, not gentle — "Sable. Don't." — but she couldn't respond.
 
 Annabelle stopped it. One word. Sophia pulled her mouth from Stryker's throat, blood on her lips, and smiled at her sire. The cruelest thing Sable had seen in Chicago.
 

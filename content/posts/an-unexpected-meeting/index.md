@@ -23,9 +23,9 @@ Craig talked the way men talk when the dam breaks — without direction, without
 
 Two hundred and twenty thousand dollars.
 
-Darius said *Name* and Craig's resistance dissolved like wet paper and the words came out flat and empty: Greystone Fiduciary. LaSalle Street. Kessler.
+[Darius](/darius-cole/) said *Name* and Craig's resistance dissolved like wet paper and the words came out flat and empty: Greystone Fiduciary. LaSalle Street. Kessler.
 
-The envelope was manila and thin and Craig held it on the bar between them like a confession. "I'm supposed to walk it to a drop at the Sherwin-Williams building. Mailbox in the lobby. Tonight before midnight." He'd carried three in six months. Each time the interest got deferred another thirty days. That was the deal. Carry paper, get time.
+The envelope was manila and thin and Craig held it on the bar between them like a confession. "I'm supposed to walk it to a drop at the Sherwin-[Williams](/npcs/williams/) building. Mailbox in the lobby. Tonight before midnight." He'd carried three in six months. Each time the interest got deferred another thirty days. That was the deal. Carry paper, get time.
 
 In the alley behind the Palmer House, in the steam from the kitchen vent, Darius tipped Craig Hessler's head to the side and the teeth went in and the melancholy hit his blood like a minor chord. Every sip was the second mortgage and the pawned watch and the wife and the Naperville property and the convention lanyard that might as well have been a noose. He counted two pints and pulled back and the arithmetic was better and the man slid down the wall breathing and alive and the taste stayed in Darius's mouth for hours.
 
@@ -43,7 +43,7 @@ She gave him the collector's name — Martin Hayward, attorney, eleventh floor �
 
 At [the Cave](/locations/the-cave/), Darius laid it out for [Sable](/sable-price/) across a table in [Horace Turnbull](/npcs/horace/)'s back room. The photocopy. The addresses. The courier network. The phrase that changed the shape of the night: *entrée comes Friday*.
 
-[Sable](/sable-price/) called [Annabelle](/npcs/annabelle-triabell/) from a payphone and said "a friend of a friend heard something at a real estate conference" and gave her three addresses. Annabelle didn't believe the sourcing. She acted on the intelligence anyway. At the [Succubus Club](/locations/succubus-club/), forty minutes later, her booth was empty.
+[Sable](/sable-price/) called [Annabelle](/npcs/annabelle-triabell/) from a payphone and said "a friend of a friend heard something at a real estate conference" and gave her three addresses. [Annabelle](/npcs/annabelle-triabell/) didn't believe the sourcing. She acted on the intelligence anyway. At the [Succubus Club](/locations/succubus-club/), forty minutes later, her booth was empty.
 
 Walt's walkup was dark. A Caprice at the hydrant had a clear windshield that said someone had been sitting with the heater running and then left in a hurry. The dome light had been removed. The glove box held a registration to Great Lakes Fleet Services, LLC, which meant nothing and was meant to mean nothing.
 
@@ -51,7 +51,7 @@ Inside, Walt Gryzinski was trying to hold onto his own mind. The legal pads were
 
 Forty minutes. The architecture of control built deeper into the foundation. Nine-fourteenths. Past the midpoint. Walt stood up twice during the session and sat back down without being told. Not because Darius commanded it. Because the building was becoming load-bearing.
 
-At the Succubus Club, [Critias](/npcs/critias/) came to him in the back corridor. The ancient Brujah walked around the corner and the predatory aura was geological — the weight of something that predated the language Darius thought in.
+At the [Succubus Club](/locations/succubus-club/), [Critias](/npcs/critias/) came to him in the back corridor. The ancient Brujah walked around the corner and the predatory aura was geological — the weight of something that predated the language Darius thought in.
 
 "The question I find myself asking is whether you did these things because you understood what they would set in motion, or because you didn't."
 
@@ -59,13 +59,13 @@ Darius gave him the honest answer. "I understood what we were doing to [Ballard]
 
 [Critias](/npcs/critias/)'s face moved. The left corner of his mouth. A millimeter. Possibly the first time in a decade.
 
-"You're not a simple man," Critias said. "But you'd like to be one, and that tension is more useful to you than you realize."
+"You're not a simple man," [Critias](/npcs/critias/) said. "But you'd like to be one, and that tension is more useful to you than you realize."
 
-In the Labyrinth, Darius and Sable found [Raymond Falcon](/npcs/raymond-falcon/) curled on the floor of a dead-end corridor with three skinheads kicking at him. The Malkavian's child personality — Susie, three years old, the one who surfaces when trauma cracks the wheel — had taken the driver's seat and couldn't let go. Darius crouched and said her name and the wheel turned and [Raymond](/npcs/raymond-falcon/) came back like a man surfacing from deep water. The skinheads didn't remember anything afterward. Falcon remembered all of it.
+In the Labyrinth, Darius and [Sable](/sable-price/) found [Raymond Falcon](/npcs/raymond-falcon/) curled on the floor of a dead-end corridor with three skinheads kicking at him. The Malkavian's child personality — Susie, three years old, the one who surfaces when trauma cracks the wheel — had taken the driver's seat and couldn't let go. Darius crouched and said her name and the wheel turned and [Raymond](/npcs/raymond-falcon/) came back like a man surfacing from deep water. The skinheads didn't remember anything afterward. [Falcon](/npcs/raymond-falcon/) remembered all of it.
 
 Deeper: [Gengis](/npcs/gengis/)'s voice through the brick. *"Your sire is wounded and the whole city can smell it."* [Brennon](/npcs/brennon-thornhill/)'s whisper, barely audible, relayed through Sable's sharpened hearing: *"The Prince's health requires discretion."* And then the word that sat in the corridor like a lit fuse: *[Maldavis](/npcs/maldavis/).*
 
-The city was holding its breath. [Lodin](/npcs/lodin/) behind closed doors. Ballard's counterattack landing through mortar and paperwork. The anarchs measuring the throne. And two neonates from Gary in the middle of all of it, building infrastructure out of payphone numbers and legal pads and photocopies pinned to basement walls.
+The city was holding its breath. [Lodin](/npcs/lodin/) behind closed doors. [Ballard](/npcs/ballard/)'s counterattack landing through mortar and paperwork. The anarchs measuring the throne. And two neonates from Gary in the middle of all of it, building infrastructure out of payphone numbers and legal pads and photocopies pinned to basement walls.
 
 They found the haven at three in the morning. Kaspar & Sons, South Pilsen. A shuttered printing shop with a basement that had no windows and a steel door and utilities running on a dead man's autopay. Thirty by forty feet of concrete and brick. The air smelled like ink solvent. The temperature was fifty-five degrees. It was not the Allerton.
 

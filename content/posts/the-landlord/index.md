@@ -82,7 +82,7 @@ He walked into the dark. Not toward the road or the docks or any visible destina
 
 [The Torch](/locations/the-torch/) at ten. [Sable](/sable-price/) out. The car lighter by the weight of one vampire and whatever she was carrying in the part of her expression that she didn't share.
 
-The haven. The phone. Webb picked up on the third ring and Darius could hear the television in the background, a game show, the sound of a life that was about to get simpler in ways that Marcus Webb would never understand.
+The haven. The phone. Webb picked up on the third ring and [Darius](/darius-cole/) could hear the television in the background, a game show, the sound of a life that was about to get simpler in ways that Marcus Webb would never understand.
 
 "Saturday. Noon. The address I gave you. Bring the quarterly reports and the partnership agreement."
 

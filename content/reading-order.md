@@ -239,6 +239,12 @@ Published scenes from **Chicago Chronicles** in chronological order.
 |---|---|---|---|
 | 74 | [The Old Neighborhood](/posts/the-old-neighborhood/) | Sable | Jan 20, 1991, 4:35 PM |
 
+### Chapter 10 — The Temperature
+
+| # | Scene | PC | Date |
+|---|---|---|---|
+| 75 | [The Assessment](/posts/the-assessment/) | Sable | Jan 21, 1991, 4:35 PM |
+
 ---
 
 ## Other Chronicles

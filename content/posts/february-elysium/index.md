@@ -108,7 +108,7 @@ Light tone. Heavy freight. Every Kindred in the room heard the leash check. [Dar
 
 "Some of you have not yet met our newest member of court. [Sable Price](/sable-price/), Toreador, recently of Chicago."
 
-The room turned. Sable stood near the windows. For half a second the old software booted up in her body, the geometry of seduction that had worked on a thousand men in a hundred rooms, the chin tilt and the shoulder angle and the weight shifting to one hip. It started in her body before her mind caught up.
+The room turned. [Sable](/sable-price/) stood near the windows. For half a second the old software booted up in her body, the geometry of seduction that had worked on a thousand men in a hundred rooms, the chin tilt and the shoulder angle and the weight shifting to one hip. It started in her body before her mind caught up.
 
 Then she saw them. Really saw them. [Lucian](/npcs/lucian/), who'd served under Caesar and didn't blink enough. [Danov](/npcs/alexander-danov/), whose ruined face had been reading the dead since before Gutenberg. [Claudette](/npcs/claudette-mallet/), calculating how fast she could take apart everything in the room. [Modius](/npcs/modius/), smiling his collector's smile.
 
@@ -136,7 +136,7 @@ The elder turned the phrase over. "King of the Docks. I haven't heard that one."
 
 He turned his gaze back to the room. Conversation concluded. [Darius](/darius-cole/) walked away with exactly what he'd given: acknowledgment, and the understanding that next time he'd need to bring something heavier than a greeting.
 
-Modius was easier and more dangerous. [Darius](/darius-cole/) paid his respects. The prince adjusted his collar, the intimate proprietary gesture of a man touching his property, and gave him a nothing errand. Art supplies from a dealer in Hammond. Fetch and carry.
+[Modius](/npcs/modius/) was easier and more dangerous. [Darius](/darius-cole/) paid his respects. The prince adjusted his collar, the intimate proprietary gesture of a man touching his property, and gave him a nothing errand. Art supplies from a dealer in Hammond. Fetch and carry.
 
 "Can I count on you?"
 
@@ -166,7 +166,7 @@ And there it was. The mention of Warren Birch's destruction, the fictional sire,
 
 "Fear," [Danov](/npcs/alexander-danov/) said. The word placed between them like a stone on a go board. "The hunters who took your sire. You worry they're still looking."
 
-An exit. A reading of the fear that fit the cover story, offered the way a man offers an umbrella without comment on the rain. Whether it was kindness or inventory, Darius couldn't tell.
+An exit. A reading of the fear that fit the cover story, offered the way a man offers an umbrella without comment on the rain. Whether it was kindness or inventory, [Darius](/darius-cole/) couldn't tell.
 
 "Gary is not safe. But then, nowhere is." The gray eyes held him one more second. "Be careful, Mr. Birch."
 

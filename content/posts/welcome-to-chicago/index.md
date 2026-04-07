@@ -80,4 +80,4 @@ The sun crested Lake Michigan as they ran. Sixty feet of open grass. The burn wa
 
 They made it inside. The door closed. The rotors changed pitch.
 
-Darius counted the exits from the bench. [Sable](/sable-price/) felt the vibration of the floor through her palms. The day pulled them under and they were gone.
+[Darius](/darius-cole/) counted the exits from the bench. [Sable](/sable-price/) felt the vibration of the floor through her palms. The day pulled them under and they were gone.

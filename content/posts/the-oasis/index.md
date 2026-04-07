@@ -82,7 +82,7 @@ She stood. Walked to the door. Opened it and the main floor music flooded the bo
 
 "The shoes are yours now. I don't dance anymore."
 
-Then she was gone, and the door closed, and Sable was alone in the back room of the club where she used to take off her clothes for money, and the only sound was the bass coming through the wall and the lamp humming and her own breathing, which she didn't need but couldn't stop, because some habits outlast the body that made them.
+Then she was gone, and the door closed, and [Sable](/sable-price/) was alone in the back room of the club where she used to take off her clothes for money, and the only sound was the bass coming through the wall and the lamp humming and her own breathing, which she didn't need but couldn't stop, because some habits outlast the body that made them.
 
 ---
 
@@ -116,7 +116,7 @@ Sable sat on the floor beneath the photograph and looked at the pointe shoes and
 
 She would not drink.
 
-She would not drink because [Allicia](/npcs/allicia/) told her not to, and Allicia was the only person in Gary who had told Sable something true without wanting something back, and that made Allicia the most dangerous person in Sable's life, because people who give you things for free are the people you owe debts you can't calculate.
+She would not drink because [Allicia](/npcs/allicia/) told her not to, and [Allicia](/npcs/allicia/) was the only person in Gary who had told Sable something true without wanting something back, and that made Allicia the most dangerous person in Sable's life, because people who give you things for free are the people you owe debts you can't calculate.
 
 Dawn pressed against the windows. Sable lay on the hardwood floor. The pointe shoes turned on their ribbons. The photograph watched.
 

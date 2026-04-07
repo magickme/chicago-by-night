@@ -64,7 +64,7 @@ The pale eyes held. Three seconds. Five. Then [Horace](/npcs/horace/) took his h
 
 [Darius](/darius-cole/) gave him two things. The FBI agent named [Shepard](/npcs/william-shepard/) who'd been asking questions at [the Torch](/locations/the-torch/) and the docks -- information that cost [Darius](/darius-cole/) nothing but made [Horace](/npcs/horace/) realize his own surveillance had overlapped with a federal investigation. And the hunter. True Faith. Methodical. Patient. Eleven months of data and a god who answered.
 
-[Horace](/npcs/horace/) went still when Darius said True Faith. The kind of still that meant the chess player had seen a piece on the board he'd missed for five months.
+[Horace](/npcs/horace/) went still when [Darius](/darius-cole/) said True Faith. The kind of still that meant the chess player had seen a piece on the board he'd missed for five months.
 
 "That is the kind of information that changes a report," [Horace](/npcs/horace/) said.
 
@@ -74,7 +74,7 @@ The pale eyes held. Three seconds. Five. Then [Horace](/npcs/horace/) took his h
 
 "A favor. One. No terms, no timeline. When I call, you hear me out."
 
-Horace produced a matchbook from his overcoat. White, with a black logo. A cave mouth. A phone number. "Ask for Fred. Tell him you're calling about the chess tournament."
+[Horace](/npcs/horace/) produced a matchbook from his overcoat. White, with a black logo. A cave mouth. A phone number. "Ask for Fred. Tell him you're calling about the chess tournament."
 
 They didn't shake hands. The predatory aura thickened in the space between them as Darius took the matchbook -- two dead men recognizing each other -- and then Horace turned back toward the residential blocks to the south and the overcoat disappeared into the dark between one step and the next. Obfuscate. Smooth as breathing. One moment a man, the next moment cold air and old leather fading on the wind.
 

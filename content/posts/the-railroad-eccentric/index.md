@@ -31,7 +31,7 @@ The paper folded. The pen vanished.
 
 The old man looked at him the way a teacher looks at a student who answered correctly for the wrong reasons. "Someone who reads crosswords at bus stops." He adjusted the cap. "You walked past three people on this block who could tell you more about the war than CNN. The woman with the grocery cart has a son in the 1st Marine Division. The man in the doorway of the shoe repair lost his lease because his landlord is selling to a developer who doesn't exist yet. The kid at the payphone is calling a girl in Cicero who won't pick up." He paused. "You didn't look at any of them. You looked at me. That's training, not instinct."
 
-The old man knew about [Nicolai](/npcs/nicolai/)'s labeled vials. He knew about Tomas's two visits to the [Succubus Club](/locations/succubus-club/). He knew about the second visit — the one where Tomas went looking for a Toreador who'd already left.
+The old man knew about [Nicolai](/npcs/nicolai/)'s labeled vials. He knew about [Tomas](/npcs/tomas/)'s two visits to the [Succubus Club](/locations/succubus-club/). He knew about the second visit — the one where Tomas went looking for a Toreador who'd already left.
 
 "That's not operational," the old man said. "That's personal. Personal is where the mistakes live."
 
@@ -91,7 +91,7 @@ He walked back to the chantry. Twenty minutes through empty streets. A police cr
 
 Tomas sat in the straight-backed chair and delivered the report. The clean report. [Drummond](/npcs/edgar-drummond/), [Ballard](/npcs/ballard/), the ledger, the Primogen session, the emissaries vanishing, [Ballard](/npcs/ballard/)'s counter-search, [Brennon](/npcs/brennon-thornhill/)'s lockdown. Every sentence load-bearing. Every fact sourced. The notebook stayed in his jacket pocket with the gun oil and the [Guadalupe](/npcs/guadalupe-droin/) santo and the name he didn't say.
 
-Nicolai listened without interrupting. He said Ballard had been summoned. He said the emissaries were now a priority collection target. He said Cole's generation claim needed independent verification.
+[Nicolai](/npcs/nicolai/) listened without interrupting. He said [Ballard](/npcs/ballard/) had been summoned. He said the emissaries were now a priority collection target. He said Cole's generation claim needed independent verification.
 
 "You've done well tonight. Get some rest."
 

@@ -46,7 +46,7 @@ He walked Dale out. The parking lot was empty. Snow fell through the floodlight'
 
 Dale stopped at the Ford, digging for keys, and [Darius](/darius-cole/) put a hand on his shoulder and Dale turned and the Presence washed over him like warm water and his eyes went soft and the last thing he said before the Kiss was "Thanks for listening, man."
 
-The blood came hot and thick with cheap beer and cortisol and the copper-ash taste Darius had learned to identify as desperation. The specific terroir of a man whose body had been running on adrenaline for weeks because the math didn't work and wouldn't work and the season was over and the truck was going and the kid was in Hammond and the check wasn't coming.
+The blood came hot and thick with cheap beer and cortisol and the copper-ash taste [Darius](/darius-cole/) had learned to identify as desperation. The specific terroir of a man whose body had been running on adrenaline for weeks because the math didn't work and wouldn't work and the season was over and the truck was going and the kid was in Hammond and the check wasn't coming.
 
 It was good. It was the only thing that was good.
 

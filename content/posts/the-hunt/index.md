@@ -80,7 +80,7 @@ They went back and forth on the notepad in the dark living room with the clock t
 
 *I am not asking you to save me tonight. I am asking you to know what I need so that when the moment comes you do not hesitate.*
 
-She folded the pages into Sable's hand and closed her fingers around them. *Burn these.* Then she touched Sable's wrist one more time -- two fingers on the pulse point where there was no pulse -- and walked out the door without looking back.
+She folded the pages into [Sable](/sable-price/)'s hand and closed her fingers around them. *Burn these.* Then she touched Sable's wrist one more time -- two fingers on the pulse point where there was no pulse -- and walked out the door without looking back.
 
 Sable drove to Kendrick's with the folded pages in her jacket pocket and the taste of Dale's blood still in her teeth and the knowledge of what [Allicia](/npcs/allicia/) needed sitting in her chest where the blood sat, warm and heavy and not enough.
 

@@ -25,6 +25,6 @@ As word of [Evelyn](/npcs/evelyn-stephens/)'s exploits filtered down to the comm
 
 [Evelyn](/npcs/evelyn-stephens/) realizes that [Pierre](/npcs/pierre-bellemare/) manipulated her. Indeed, she is convinced that her pack and perhaps all the Sabbat in the city are somehow corrupt. Unable to trust her own kind, [Evelyn](/npcs/evelyn-stephens/) has accepted two invitations to meet Camarilla vampires from Ottawa, hoping to find a way to lash out at [Pierre](/npcs/pierre-bellemare/). [Evelyn](/npcs/evelyn-stephens/) is still loyal to the Sabbat itself, but fears that she may be forced to join the Camarilla to escape [Bellemare](/npcs/pierre-bellemare/).
 
-**Image:** Evelyn wears a long black trench coat and shaves her head. Her chocolate-colored eyes glow in the moonlight.
+**Image:** [Evelyn](/npcs/evelyn-stephens/) wears a long black trench coat and shaves her head. Her chocolate-colored eyes glow in the moonlight.
 
 **Secrets:** Evelyn is aware that her pack is more than it appears and that Cranston of Ottawa has other sympathizers in Montreal. She has yet to discover who they are.

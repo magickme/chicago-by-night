@@ -10,15 +10,15 @@ menu:
       icon: "dots"
 ---
 
-*Chicago Chronicles. Act II: Ashes and Blood. Updated: **1991-01-20 (Sunday night, scene close ~5 AM)**.*
+*Chicago Chronicles. Act II: Ashes and Blood. Updated: **1991-01-21 (Monday night, scene close ~11 PM)**.*
 
 
 
 ## Coterie Snapshot
 
-- 1991-01-20 (Sunday night, scene close ~5 AM) — Sable investigated Robert Taylor Homes after spotting FBI canvassing. Found Sabbat scout's lair in CHA tunnels, made visual contact with scout. Confirmed Sabbat with Bordruff (Nosferatu, South Side). Reported to Annabelle; received Blood Bond warning (Lodin, within the week). Coop deployed to guard Denise's floor. Darius briefed at haven.
-- Scenes played: Darius 37, Sable 36, Tomás 2 (75 total + timeskip bluebook Aug-Nov + Dec timeskip). PCs met at Feb 2 Elysium. **COTERIE FORMED (S019, July 22).**
-- Scene-note inventory: Darius 35, Sable 36, Tomás 2 (73 total on disk; S034/S035 are joint scenes with D035/D036).
+- 1991-01-21 (Monday night, scene close ~11 PM) — Sable at Succubus Club. Sir Henry provided Drake intel: Lodin can't chair Wednesday (mortal physician + 2 unknown Kindred visitors). Sophia Ayes (Annabelle's childe) met and insulted — left hostile. Gary intel traded (safe). Wednesday strategy set: attend, weaponize clan weakness, don't drink.
+- Scenes played: Darius 37, Sable 37, Tomás 2 (76 total + timeskip bluebook Aug-Nov + Dec timeskip). PCs met at Feb 2 Elysium. **COTERIE FORMED (S019, July 22).**
+- Scene-note inventory: Darius 35, Sable 37, Tomás 2 (74 total on disk; S034/S035 are joint scenes with D035/D036).
 - Sunset: 4:35 PM CST. Sunrise: 7:04 AM CST. Darkness: ~14.5 hours (mid-January).
 - Communications: Chicago protocol seeded. Tue/Fri 11 PM remains the default check-in window, using rotating nodes instead of a fixed haven line. If one node feels watched, move immediately to the next. Horace contact: The Cave, ask for Fred, "chess tournament."
 

@@ -57,7 +57,7 @@ They surfaced at three-forty. The mansion dark. The willow screen. [Allicia](/np
 
 She didn't look back. Looking back would have meant stopping, and stopping would have meant choosing, and the choice was already made. It had been made on a winter night in January when a woman she'd never met walked into Elysium and didn't flinch from her gaze, and everything since then — the snow globe, the photograph, the five words and the sixth and the seventh — was just the choice arriving at its own speed.
 
-Sable stood on the shingle with lake water running down her body. Blood at seven. Dawn in two hours. The Park Avenue two blocks away.
+[Sable](/sable-price/) stood on the shingle with lake water running down her body. Blood at seven. Dawn in two hours. The Park Avenue two blocks away.
 
 She drove home. The Fifth Avenue studio. The letter on the counter. She picked it up and read it one more time. *Your mother called the salon on Cottage Grove.*
 

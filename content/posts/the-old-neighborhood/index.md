@@ -15,7 +15,7 @@ description: "MLK Day on the South Side. FBI sedans in the parking lot. Expensiv
 
 The Dan Ryan south of [Chinatown](/locations/chinatown/), rain hardening to sleet against the windshield. No moon — or a moon behind cloud so thick it might as well have been no moon. The city fell away north. Steel mills lit the horizon behind her like a distant war, the way they'd always lit it, the way they'd lit it when she was seven years old riding the bus south from downtown and her mother pointed and said, *that's Gary, and Gary is where things get made, and that's why it's ugly.* Denise knew things about beauty and ugliness that [Sable](/sable-price/) was still working out.
 
-The radio cut between Gulf War updates and a DJ who kept saying *historic* like the word meant something. Sable turned it off. The Cutlass ate the rain.
+The radio cut between Gulf War updates and a DJ who kept saying *historic* like the word meant something. [Sable](/sable-price/) turned it off. The Cutlass ate the rain.
 
 She saw the FBI sedans from two blocks out. Government plates, the particular plainness of cars that are trying not to look like anything. Two of them in the parking lot of the twenty-second tower, angled to watch the north entrance without appearing to. She pulled over on State and sat, and reached out with her senses the way a hand reaches for a lamp in the dark, and the building came in.
 
@@ -23,7 +23,7 @@ Seventh floor. Three flights up, through concrete and steel, two male voices wit
 
 She sat with it. Six women. The number had weight.
 
-714 was [Lorraine](/npcs/lorraine-matthews/). She'd known Lorraine in a distant way — a woman who had three kids and kept a begonia on the windowsill and came home from the currency exchange on Fridays with grocery bags that were never quite full enough. 709 was somebody's cousin. Two doors from her mother's apartment. Four doors from 718.
+714 was [Lorraine](/npcs/lorraine-matthews/). She'd known [Lorraine](/npcs/lorraine-matthews/) in a distant way — a woman who had three kids and kept a begonia on the windowsill and came home from the currency exchange on Fridays with grocery bags that were never quite full enough. 709 was somebody's cousin. Two doors from her mother's apartment. Four doors from 718.
 
 The north stairwell lock had been broken since 1982. The fluorescent on the second landing had burned out when Sable was fourteen and been reported six times to maintenance and replaced never. She went up in the dark by memory, one hand on the cinderblock wall that was cold even through the winter, and the cold was her cold now, a reflection, and the smell of the building came back to her: cleaning fluid and old cooking oil and the particular closeness of too many people in not enough space. A smell she had climbed out of with her face and her body and her mother's kitchen money, and here she was climbing back into it.
 
@@ -119,11 +119,11 @@ He said: New York, 1968. Three weeks of a scout working the tunnels under the Vi
 
 Sable told him what she'd found. The lair, the arrangement of it, the perfume at both apartments, the Disciplines she'd identified from the attack on Tanya Green — Presence, not Dominate. The willing victim who thought she was choosing. The brand. The clay on the boots.
 
-Bordruff filed each detail the way he'd filed ten thousand details before it — without visible reaction, the information going somewhere internal and cold.
+[Bordruff](/npcs/nathaniel-bordruff/) filed each detail the way he'd filed ten thousand details before it — without visible reaction, the information going somewhere internal and cold.
 
 He offered her a Wednesday meeting. After midnight, Church of Christ, 53rd Street. The price for removing the scout would come from above him. "Above" meant [Khalid](/npcs/khalid-al-rashid/).
 
-"Khalid has been watching this for six weeks," Sable said.
+"[Khalid](/npcs/khalid-al-rashid/) has been watching this for six weeks," Sable said.
 
 "Khalid watches a great many things for a great many weeks."
 
@@ -151,11 +151,11 @@ Sable let go of the badge.
 
 *The game found me. I didn't find the game.*
 
-She found a payphone three blocks from the freight tunnel entrance and called Annabelle's private number. The one that rang in the haven. Two rings, then: "Yes."
+She found a payphone three blocks from the freight tunnel entrance and called [Annabelle](/npcs/annabelle-triabell/)'s private number. The one that rang in the haven. Two rings, then: "Yes."
 
 She laid it out clean. A Sabbat scout working the Robert Taylor Homes. Six weeks of documented activity. Khalid's network knew and had not shared. The lair, the route, the endpoint. Wednesday meeting with Bordruff, price from Khalid.
 
-Annabelle's response was the sharp intake of information processing. Then: "A scout mapping routes to the Succubus Club." Pause. "And Khalid has known this for six weeks and told no one."
+Annabelle's response was the sharp intake of information processing. Then: "A scout mapping routes to the [Succubus Club](/locations/succubus-club/)." Pause. "And Khalid has known this for six weeks and told no one."
 
 "That's what Bordruff said."
 
@@ -165,7 +165,7 @@ Annabelle's response was the sharp intake of information processing. Then: "A sc
 
 The pause was shorter this time. Annabelle was already ahead of it.
 
-"Lodin is summoning the coterie. Within the week. A toast of gratitude — his appreciation for the assistance with the [Drummond](/npcs/edgar/) situation."
+"[Lodin](/npcs/lodin/) is summoning the coterie. Within the week. A toast of gratitude — his appreciation for the assistance with the [Drummond](/npcs/edgar/) situation."
 
 "Yes," Annabelle said. "He will."
 

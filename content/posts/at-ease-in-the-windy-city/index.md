@@ -48,4 +48,4 @@ The front door slammed hard enough to rattle the liquor cabinet. [Lodin](/npcs/l
 
 Tomorrow night. Chartered jet. Absolute secrecy. A manila envelope with logistics. The way [Lodin](/npcs/lodin/) said the word London -- low, deliberate, weighted -- made it sound like the instructions for a war.
 
-Roarke briefed the others. [Natasha](/npcs/natasha/) nodded. [Julian](/npcs/julian-curry/) approved. [Amber](/npcs/amber/) said wow. [Derek](/npcs/derek-gallen/) got back from O'Hare and grinned like it was Christmas.
+[Roarke](/npcs/roarke/) briefed the others. [Natasha](/npcs/natasha/) nodded. [Julian](/npcs/julian-curry/) approved. [Amber](/npcs/amber/) said wow. [Derek](/npcs/derek-gallen/) got back from O'Hare and grinned like it was Christmas.

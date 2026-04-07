@@ -98,7 +98,7 @@ Somewhere in Gary, a boy's body stopped walking. The knees buckled the wrong way
 
 ---
 
-The fire burned down. Darius's hands were shaking. The psychic contact had left a residue, the spirit's rage imprinted on his nervous system like a burn that doesn't blister but doesn't stop hurting.
+The fire burned down. [Darius](/darius-cole/)'s hands were shaking. The psychic contact had left a residue, the spirit's rage imprinted on his nervous system like a burn that doesn't blister but doesn't stop hurting.
 
 "You okay?"
 

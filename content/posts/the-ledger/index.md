@@ -52,7 +52,7 @@ The warehouse was cased but not breached. Someone had wiped a palm-sized circle 
 
 He drove to [Modius](/npcs/modius/) at one in the morning. [Victor](/npcs/victor-salonika/) opened the door without surprise. The study smelled like old paper and furniture polish and the portrait of Gary's mills from 1920 looked down from the wall like a photograph of a body before the autopsy.
 
-Darius gave the report the way a Ventrue gives a report. Three threats, described in order. The surveillance blind at Berth 8 with its Marlboro butts and binocular scuffs and weeks of patient watching. The thing on the water that moved too fast behind the Berth 3 hull. The Gangrel waymarker carved fresh into the rail spur tie.
+[Darius](/darius-cole/) gave the report the way a Ventrue gives a report. Three threats, described in order. The surveillance blind at Berth 8 with its Marlboro butts and binocular scuffs and weeks of patient watching. The thing on the water that moved too fast behind the Berth 3 hull. The Gangrel waymarker carved fresh into the rail spur tie.
 
 [Modius](/npcs/modius/) recognized the mark. Old tradition. Claimed ground, pass through, do not hunt. [Lucian](/npcs/lucian/) had used them decades ago and stopped when they reached their arrangement.
 

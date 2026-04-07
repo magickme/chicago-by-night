@@ -66,7 +66,7 @@ Helena and [Prias](/npcs/prias/) reached Carthage just as the Brujah were raisin
 
 ## The Conquistadors
 
-For 1,300 years, Helena and [Menele](/npcs/menele/) fought across Eurasia. In 1415, near Agincourt, Helena and Prias dealt [Menele](/npcs/menele/) a near-fatal blow. He escaped — faked his death and crossed the Atlantic.
+For 1,300 years, Helena and [Menele](/npcs/menele/) fought across Eurasia. In 1415, near Agincourt, Helena and [Prias](/npcs/prias/) dealt [Menele](/npcs/menele/) a near-fatal blow. He escaped — faked his death and crossed the Atlantic.
 
 When Helena's Auspex detected [Menele](/npcs/menele/) far across the sea, she moved the Spanish Empire to send explorers westward. She joined the expedition of Hernan Cortez, along with Prias and several female progeny she had made.
 

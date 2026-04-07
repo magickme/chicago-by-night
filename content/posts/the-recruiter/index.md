@@ -72,7 +72,7 @@ The driver turned. [Darius](/darius-cole/) was already there. Eye contact. The m
 
 "You will not speak to [Ballard](/npcs/ballard/) about your memories. You will not return to Daley's. You will wait here until I come back."
 
-Five successes. The driver's eyes went flat, receptive. The commands sank like stones into water -- straight down, no splash. Darius watched the resistance collapse and something clicked: [Neally](/npcs/neally-edwards/) at the [Field Museum](/locations/field-museum/), wearing a dead man's suit because the system needed a body in the chair. The Camarilla made people into instruments. Darius understood the pressure points because he'd watched it happen, and now he was doing it, and he was good at it.
+Five successes. The driver's eyes went flat, receptive. The commands sank like stones into water -- straight down, no splash. [Darius](/darius-cole/) watched the resistance collapse and something clicked: [Neally](/npcs/neally-edwards/) at the [Field Museum](/locations/field-museum/), wearing a dead man's suit because the system needed a body in the chair. The Camarilla made people into instruments. Darius understood the pressure points because he'd watched it happen, and now he was doing it, and he was good at it.
 
 He spent an hour in the apartment. Not the crude hammer of a Command but the patient work of making compliance feel like the man's own idea. Repetition. Eye contact. Short commands layered, each reinforcing the last. A foundation.
 

@@ -96,7 +96,7 @@ The apartment. The door. The lock. He sat on the edge of the bed in the dark and
 
 Marcus who pulled the filing. Marcus who didn't ask why. Marcus who noticed the voice was wrong and said nothing because loyalty is a discipline and Marcus practiced it the way [Darius](/darius-cole/) practiced Dominate, through repetition and faith and the understanding that some questions you don't ask because the answer would cost you something you weren't ready to lose.
 
-He could Condition him. Dominate 4 — weeks of contact, the slow rewriting of a man's priorities until obedience felt like love. Marcus would stop asking questions. Marcus would forget the voice was wrong. Marcus would do whatever Darius told him and never know the wanting wasn't his.
+He could Condition him. Dominate 4 — weeks of contact, the slow rewriting of a man's priorities until obedience felt like love. Marcus would stop asking questions. Marcus would forget the voice was wrong. Marcus would do whatever [Darius](/darius-cole/) told him and never know the wanting wasn't his.
 
 Or he could let the sire handle it. A phone call. A car accident. A mugging gone wrong on the South Side, because Chicago had enough of those that one more didn't make the papers.
 

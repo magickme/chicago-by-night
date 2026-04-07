@@ -52,7 +52,7 @@ Then the curse took her. The green eyes at close range, the gardenia, the lampli
 
 "Well," she said. "Now you see how I see you."
 
-[Allicia](/npcs/allicia/)'s hand found Sable's cheek where the warmth was. She traced the blush the way a painter traces a brushstroke she didn't make. And then she laughed. Small. Barely a sound. More breath than voice. But a laugh, and Sable was certain nobody in this house had heard [Allicia](/npcs/allicia/) laugh in decades.
+[Allicia](/npcs/allicia/)'s hand found [Sable](/sable-price/)'s cheek where the warmth was. She traced the blush the way a painter traces a brushstroke she didn't make. And then she laughed. Small. Barely a sound. More breath than voice. But a laugh, and Sable was certain nobody in this house had heard [Allicia](/npcs/allicia/) laugh in decades.
 
 She pressed her lips to Sable's forehead. Held up five fingers.
 

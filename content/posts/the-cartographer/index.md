@@ -90,7 +90,7 @@ Then gone. Not a departure. An erasure. The headstone where he'd leaned was just
 
 The wasteland south of the cemetery was Gary at its most reduced — blocks where the houses were gone and what remained was concrete pads and chain-link and darkness that felt geological, as if the light had never been here to begin with. But people lived in the gaps. They always lived in the gaps.
 
-Forty minutes of walking dark blocks before [Darius](/darius-cole/) found the right scent. A man on the steps of a half-standing duplex, bottle in a bag, work boots with no laces. Fortyish. The eviction notice taped inside the window, the shutoff tag on the meter, the repo sticker on the truck in the driveway. The arithmetic of a life failing in the specific way that Darius's palate recognized, the way a sommelier recognizes the vintage before the label.
+Forty minutes of walking dark blocks before [Darius](/darius-cole/) found the right scent. A man on the steps of a half-standing duplex, bottle in a bag, work boots with no laces. Fortyish. The eviction notice taped inside the window, the shutoff tag on the meter, the repo sticker on the truck in the driveway. The arithmetic of a life failing in the specific way that [Darius](/darius-cole/)'s palate recognized, the way a sommelier recognizes the vintage before the label.
 
 Valid target. Alone. Quiet block.
 

@@ -66,7 +66,7 @@ He found [Brennon](/npcs/brennon-thornhill/) in the back corridor twenty minutes
 
 [Lodin](/npcs/lodin/) had spoken with [Annabelle](/npcs/annabelle-triabell/) two nights ago. [Drake Hotel](/locations/lodins-haven/), eighth floor. Private meeting, no witnesses [Brennon](/npcs/brennon-thornhill/) could confirm. [Portia](/npcs/portia/) had been asking about the Gary emissaries through three different intermediaries, each one more careful than the last, which meant she cared enough to hide the caring. And [Drummond](/npcs/edgar/) was on loan from [Annabelle](/npcs/annabelle-triabell/), not just [Ballard](/npcs/ballard/)'s man. Which reframed the notebook entirely.
 
-Brennon slid a black card across the desk. Private line. "If you learn something I should know."
+[Brennon](/npcs/brennon-thornhill/) slid a black card across the desk. Private line. "If you learn something I should know."
 
 "Likewise."
 
@@ -126,7 +126,7 @@ On the kitchen counter, a sample case that had not been there when he entered. T
 
 The middle vial bore the court enforcement sigil. The Sheriff's blood.
 
-Nicolai had been here first. Or Nicolai's reach had been here first, which was the same thing.
+[Nicolai](/npcs/nicolai/) had been here first. Or Nicolai's reach had been here first, which was the same thing.
 
 ---
 

@@ -82,7 +82,7 @@ Webb nodded. The nod was a quarter-beat too fast. The speed of a man agreeing be
 
 He watched Webb's taillights disappear east toward the highway. Navy Buick Century, leased, Chicago plates. A mortal car carrying a man whose mind was setting like concrete around a name that wasn't his.
 
-Darius stood in the doorway. Eighty-two degrees and clear. The west side made its sounds. He locked the haven and walked.
+[Darius](/darius-cole/) stood in the doorway. Eighty-two degrees and clear. The west side made its sounds. He locked the haven and walked.
 
 ---
 
