@@ -77,6 +77,8 @@ params:
           url: "/disciplines/"
         - name: "Clan Tier Rankings"
           url: "/clan-tier-list/"
+        - name: "Sect Tier Tables"
+          url: "/sect-tier-tables/"
 
 outputs:
   home:
