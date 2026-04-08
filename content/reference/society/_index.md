@@ -17,7 +17,11 @@ Kindred exist within a complex web of political factions, social obligations, an
 | [Tal'Mahe'Ra](/reference/society/tal-mahera/) | Covert meta-Sect | Predates both Camarilla and Sabbat; embeds agents inside all Sects simultaneously |
 | [Inconnu](/reference/society/inconnu/) | Non-aligned | Ancient vampires withdrawn from the Jyhad; monitors rather than actors; Golconda connection |
 
-**Independent Clans** (Giovanni, Ravnos, Assamite, Followers of Set) acknowledge neither Sect as their governing structure, though they interact with both for practical reasons. See [Clans](/reference/character-creation/clans/) for clan-level politics.
+**[Independent Clans](/reference/society/independent-clans/)** (Giovanni, Ravnos, Assamites, Followers of Set) acknowledge neither Sect as their governing structure, though they interact with all factions transactionally.
+
+**[Laibon](/reference/society/laibon/)** — the vampiric peoples of sub-Saharan Africa, organized by Legacy rather than Clan, outside all Western Kindred political structures.
+
+**[External Factions](/reference/society/external-factions/)** — non-Cainite supernaturals: Kuei-jin, Lupines, Fae, and Mages.
 
 ## Social Mechanics
 
