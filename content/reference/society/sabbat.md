@@ -252,16 +252,22 @@ Whether any of this theology is literally true — whether Gehenna is coming, wh
 
 ## Domains
 
-The Sabbat controls the eastern seaboard of North America from roughly Boston to Miami, including most major cities in between. Key strongholds:
+The Sabbat controls the eastern seaboard of North America from roughly Boston to Miami, and holds dominant positions in key Central American and Caribbean cities. It has made significant inroads in post-Soviet Eastern Europe and presses continuously on Western European Camarilla domains.
 
 | City | Status | Notes |
 |------|--------|-------|
-| New York | Sabbat-controlled | Largest Sabbat domain in North America; multiple Cardinals' seat |
-| Washington, D.C. | Sabbat | Strategic importance; constant Camarilla pressure |
-| Detroit | Contested | Front-line city; heavy fighting |
-| Montreal | Sabbat | Major North American stronghold; Inquisition presence |
-| Mexico City | Sabbat | Largest Sabbat domain in the Western Hemisphere |
-| Miami | Sabbat | Gateway to the Caribbean and South American networks |
-| Pittsburgh | Camarilla-contested | Periodic Sabbat sieges |
+| New York | Sabbat | Largest Sabbat domain in North America; multiple Cardinals operate from here |
+| Washington, D.C. | Sabbat | Strategic value; persistent Camarilla counter-intelligence operations |
+| Miami | Sabbat | Caribbean and South American gateway; Archbishop controls significant mortal organized crime networks |
+| Montreal | Sabbat — contested | Major stronghold; the Ashes to Ashes scenario's domain; Inquisition presence; Camarilla never fully abandoned the city |
+| Mexico City | Sabbat | Largest single Sabbat domain; multiple Cardinals; the Regent's seat for North American operations |
+| Detroit | Contested | Sustained front-line city; Camarilla holds pockets, Sabbat holds the industrial east; Anarchs operate in the gaps |
+| Atlanta | Sabbat | Southeast anchor; rapid expansion after fall of Camarilla Prince |
+| Philadelphia | Sabbat | Taken from the Camarilla; ongoing guerrilla resistance from former domain Kindred |
+| Pittsburgh | Contested | Camarilla retains partial control; periodic Sabbat sieges |
+| Baltimore | Sabbat | Mid-Atlantic corridor anchor |
+| Bucharest | Sabbat | Eastern European foothold; Tzimisce elders maintain ancestral connections |
 
-The Camarilla controls Chicago, most of the Midwest, and most of Europe. The border between Sabbat and Camarilla territory is not a line on a map — it is a shifting front of raids, sieges, and assassination campaigns.
+The Camarilla holds Chicago, the American Midwest, and most of Western Europe. The border between Sabbat and Camarilla territory is not a line on a map — it is a shifting front of raids, sieges, and assassination campaigns with no stable boundary.
+
+*Territory holdings reflect **Beckett's Jyhad Diary** (White Wolf/Onyx Path, 2018; V5 metaplot era, approximately mid-2010s). Chronicle in-game date is 1990 — most of these holdings were contested or undecided at the chronicle's start.*

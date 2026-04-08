@@ -70,8 +70,35 @@ The Ashirra holds firm control over:
 - **Baghdad** — site of some of the oldest Ashirra scholarship; badly disrupted by the Mongol invasions; still significant
 - **Marrakech / Fez** — strong Lasombra-Ashirra presence; competing courts
 - **Karachi / Lahore** — eastern extension; Ravnos-complicated territory
+- **Tehran** — a court in transition; multiple Banu Haqim factions vie for influence in the wake of the 1979 revolution's effect on mortal power structures
 
 In cities with both Camarilla and Ashirra populations (particularly in Spain, Sicily, and the Balkans — the historical contact zones), negotiated boundaries exist. These are fragile and politically maintained.
+
+---
+
+## Key Figures
+
+**The Caliph of Kindred** — The title exists; its current holder does not publicize their identity. By the late 20th century, the role is held by a Banu Haqim elder of disputed Generation operating from an undisclosed court somewhere in the Arabian Peninsula. The position carries enormous symbolic weight and almost no direct executive power. Most Sultans govern without reference to it. When the Caliph speaks, they are heard.
+
+**The Sultan of Cairo** — Cairo's Ashirra court has been continuously occupied by a Banu Haqim Sultan since the 9th century CE. The current Sultan (by night, 1990) is an ancient of at least 7th Generation who has survived the Ottoman period, Napoleon's expedition, British colonialism, and the Nasser era by maintaining strict non-alignment with mortal political shifts while cultivating relationships with successive ruling dynasties. The court is a repository of Kindred scholarship going back over a thousand years.
+
+**The Emir of Baghdad** — The Baghdad court has never recovered fully from the Mongol devastation of 1258. The scholar-vampires who survived dispersed across the Ashirra's territories carrying textual knowledge that no longer exists in any mortal library. The current Emir holds the title more as a memorial function than a territorial one; Baghdad's Ashirra population is a fraction of its medieval peak.
+
+**The Banu Haqim Warrior Orders** — The Ashirra does not maintain a centralized military force. Enforcement falls to the Banu Haqim's warrior caste, who function within Ashirra courts as a combination of judicial executioners and territorial defenders. They are not mercenaries; they serve out of religious obligation. A warrant from an Ashirra Sultan backed by a *'Ulama* al-Dam ruling is sufficient authority to dispatch a warrior to deal with any problem from Masquerade violation to Sabbat incursion.
+
+**Fatima al-Faqadi** — A named Banu Haqim Alastor — one of the rare vampires who holds simultaneous standing within the Ashirra and the global Alastor bounty-hunter network that operates under Camarilla authorization. Fatima is an example of the dual role that senior Banu Haqim elders sometimes occupy: Ashirra religious enforcement and transnational Kindred law enforcement are not in conflict, from the Ashirra's perspective. The Camarilla views the arrangement with more ambivalence. Fatima operates in both spheres without apparent difficulty, which tells you something about the relative leverage.
+
+---
+
+## Factions
+
+The Ashirra is not monolithic. Three broad factions have defined its internal politics since at least the Ottoman period:
+
+**The Conservative Scholars** — centered in the old court cities (Cairo, Marrakech, what remains of Baghdad); theologically rigorous; hold that the Ashirra's strength comes from doctrinal consistency and that accommodating Western Kindred political frameworks dilutes both the theology and the political independence. The *'Ulama* al-Dam as a body leans conservative. They have been arguing against engagement with the Camarilla on Camarilla terms for three hundred years. They are not wrong.
+
+**The Pragmatic Diplomats** — strongest in Istanbul, Lahore, and the contact-zone courts of Spain and the Balkans; hold that the Ashirra must engage with the Camarilla and Sabbat on practical terms or risk being outmaneuvered in cities where both traditions overlap. They are not ideologically pro-Camarilla; they are tactically flexible. This faction has produced most of the Ashirra's successful territorial negotiations with Camarilla Princes. The conservatives regard them as at best naive, at worst compromised.
+
+**The Warrior Orders (Banu Haqim enforcement)** — not a political faction in the deliberative sense; they do not attend councils or lobby for position. Their influence operates through the enforcement arm: they decide which Sultans get protected and which rulings get executed. An Ashirra political outcome that the warrior orders find theologically unacceptable will not be implemented. This gives the Banu Haqim elders who lead the orders a form of veto that the court structure does not formally acknowledge but everyone understands.
 
 ---
 
@@ -96,3 +123,7 @@ Vampires interacting with Ashirra-controlled domains should note:
 - Diablerie carries a sentence of Final Death without appeal; the Banu Haqim scholars who serve as Ashirra justicars are very good at detecting it
 - A vampire presenting with a visible Path of Enlightenment other than Humanity may be evaluated; Path of Blood (Banu Haqim) is respected; explicitly predatory Paths are grounds for expulsion or destruction
 - Dominate cannot be used against a vampire of lower Generation; this is standard V20 — but note that Banu Haqim elders in Ashirra courts are often low-Generation and have been playing this game for over a millennium
+
+---
+
+*Territory holdings reflect **Beckett's Jyhad Diary** (White Wolf/Onyx Path, 2018). Chronicle in-game date: 1990.*

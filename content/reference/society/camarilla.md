@@ -497,15 +497,21 @@ A 5th Generation Methuselah functioning as a Sabbat Inquisitor who has turned he
 
 ## Territories
 
-The Camarilla controls most of Western Europe and the American Midwest and West Coast. Its eastern seaboard presence is contested — the Sabbat holds a corridor from Boston to Miami.
+The Camarilla controls most of Western Europe, much of North America west of the Appalachians, and the major cities of Canada and Australia. Its eastern seaboard presence is heavily contested — the Sabbat holds a corridor from roughly Boston to Miami.
 
 | City | Status | Notes |
 |------|--------|-------|
-| Chicago | Camarilla | Prince Lodin's domain; Anarch unrest; contested internally |
-| London | Camarilla | Ancient; Mithras in torpor beneath the city |
-| Vienna | Camarilla | Tremere Pyramid seat (Tremere chantry headquarters) |
-| Berlin | Camarilla | Recovered post-WWII; significant Sabbat pressure on eastern edge |
-| Los Angeles | Contested | Formal Anarch Free State; Camarilla influence fragmented |
-| San Francisco | Camarilla | West Coast anchor |
-| Toronto | Camarilla | Northern Great Lakes anchor |
-| Boston | Contested front | Northernmost Sabbat pressure point on eastern seaboard |
+| Chicago | Camarilla — unstable | Lodin destroyed; power vacuum; Anarchs, Tremere, and Ventrue factions competing for succession |
+| London | Camarilla | Mithras returned from torpor and is actively reasserting ancient claim; the Camarilla's hold is intact but complicated |
+| Vienna | Camarilla | Tremere Pyramid seat; Pyramid restructuring after V5 schism creates internal pressure |
+| Paris | Camarilla | One of the most stable European domains; the Toreador dominate social politics |
+| Berlin | Camarilla | Post-reunification recovery; eastern districts contested by resurgent Sabbat |
+| Prague | Camarilla | Central European anchor; Tzimisce pressure from the east |
+| Madrid | Camarilla/Anarch contested | Anarch Free State emerged from long struggle; Camarilla holds the formal court, Anarchs hold the streets |
+| Toronto | Camarilla | Northern Great Lakes anchor; politically quiet by North American standards |
+| San Francisco | Camarilla | West Coast anchor; ongoing Anarch pressure |
+| Los Angeles | Anarch-controlled | Formal Free State; Camarilla presence reduced to covert contacts |
+| Boston | Contested | Northernmost sustained Sabbat pressure on the eastern seaboard |
+| Sydney | Camarilla | Primary Antipodean domain |
+
+*Territory holdings reflect **Beckett's Jyhad Diary** (White Wolf/Onyx Path, 2018; V5 metaplot era, approximately mid-2010s). Chronicle in-game date is 1990 — holdings differ substantially from the chronicle setting, particularly Chicago.*
