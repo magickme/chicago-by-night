@@ -1,12 +1,26 @@
 ---
-title: "Tal'Mahe'Ra Character Creation"
-description: "True Black Hand character creation rules — restricted clans, required Backgrounds, Path requirements, and unique mechanics."
-weight: 95
+title: "Tal'Mahe'Ra"
+description: "The True Black Hand — a covert meta-Sect predating both Camarilla and Sabbat. Structure, character creation, and Paths of Scorched Heart and Self-Focus."
+weight: 55
 ---
 
-The Tal'Mahe'Ra (True Black Hand) is a covert meta-Sect that predates both the Camarilla and the Sabbat. Character creation follows standard V20 rules with the following modifications and restrictions.
+## Overview
 
----
+The Tal'Mahe'Ra (True Black Hand) is a covert meta-Sect that predates both the Camarilla and the Sabbat by centuries. Its members believe they are the true guardians of the Kindred race — a secret order operating behind every Sect simultaneously, maintaining sleeper agents in Camarilla Prince courts, Sabbat packs, and Anarch Free States.
+
+**Scope:** Global. Individual members may be embedded in any Sect. The Hand operates through networks of favors and blackmail, not direct force.
+
+**Theology:** The Hand is not unified by a single belief system. Members follow various Paths of Enlightenment. The common thread is the conviction that the Jyhad must be managed from the inside, and that the Antediluvians represent an existential threat to be countered — not worshipped and not ignored.
+
+**Hierarchy:**
+- **Neonates** — probationary, assigned a Mentor elder
+- **Ancillae** — rank-and-file operatives, often embedded in rival Sects
+- **Elders** — hold 3–5 Status dots; typically maintain influential positions in rival Sects as cover
+- **Seraphim** — the inner circle; some hold Prince, Archbishop, or Baron rank as long-term cover identities. Del'Roh's physical representatives.
+
+**Attitude toward other Sects:** Simultaneous infiltration. A Seraphim may have served as a Camarilla Prince for 80 years while filing reports to the Hand's inner council. The Tal'Mahe'Ra views the Camarilla and Sabbat as useful vehicles, not legitimate authorities.
+
+**Known operations base:** The Black Monastery in Kaymakli (underground city in Cappadocia, Turkey) — accessible only through Oblivion and specific Necromancy rites. Also called the Hollow Earth stronghold.
 
 ## Clan Availability
 

@@ -1,18 +1,22 @@
 ---
 title: "Society"
-description: "Kindred society — the Camarilla, Sabbat, Anarchs, blood bonds, and ghouls."
+description: "Kindred society — the five Sects (Camarilla, Sabbat, Anarchs, Tal'Mahe'Ra, Inconnu), social mechanics, prestation, and the Jyhad."
 weight: 40
 ---
 
 Kindred exist within a complex web of political factions, social obligations, and supernatural bonds. The three major Sects divide the vampiric world into competing power structures, each with its own theology, social organization, and relationship to the Masquerade.
 
-## The Three Sects
+## The Five Sects
 
-| Sect | Description | Core Clans |
-|------|-------------|------------|
-| [Camarilla](/reference/society/camarilla/) | The established order — maintains the Masquerade, governs through Elysium and Tradition | Ventrue, Toreador, Tremere, Brujah, Nosferatu, Malkavian, Gangrel |
-| [Sabbat](/reference/society/sabbat/) | Anti-Camarilla — rejects the Masquerade, promotes Cainite identity, theology of diablerie | Lasombra, Tzimisce + antitribu |
-| [Anarchs](/reference/society/anarchs/) | Decentralized movement — rejects both the Camarilla hierarchy and the Sabbat's violence | Mixed clans; many Brujah |
+| Sect | Alignment | Description |
+|------|-----------|-------------|
+| [Camarilla](/reference/society/camarilla/) | Establishment | Maintains the Masquerade; governs through Elysium, Traditions, and Primogen councils |
+| [Sabbat](/reference/society/sabbat/) | Anti-Camarilla | Rejects the Masquerade; embraces Cainite identity; theology of diablerie and pack loyalty |
+| [Anarchs](/reference/society/anarchs/) | Decentralized | Rejects both hierarchies; domain by merit; anti-elder politics |
+| [Tal'Mahe'Ra](/reference/society/tal-mahera/) | Covert meta-Sect | Predates both Camarilla and Sabbat; embeds agents inside all Sects simultaneously |
+| [Inconnu](/reference/society/inconnu/) | Non-aligned | Ancient vampires withdrawn from the Jyhad; monitors rather than actors; Golconda connection |
+
+**Independent Clans** (Giovanni, Ravnos, Assamite, Followers of Set) acknowledge neither Sect as their governing structure, though they interact with both for practical reasons. See [Clans](/reference/character-creation/clans/) for clan-level politics.
 
 ## Social Mechanics
 
