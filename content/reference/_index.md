@@ -1,6 +1,6 @@
 ---
-title: "V20 Reference"
-description: "Complete V20 rules reference — Kindred society, character creation, Disciplines, mechanics, and solo play tools."
+title: "V20 System Reference Document"
+description: "Complete V20 System Reference Document — Kindred society, character creation, Disciplines, mechanics, and solo play tools."
 weight: 1
 ---
 

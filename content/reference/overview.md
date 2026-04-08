@@ -72,7 +72,114 @@ The Mythic GME 2E oracle system used to run the game without a Storyteller: the 
 
 ---
 
-## Quick Rules Reference
+## Running the Game
+
+### The Basic Game Loop
+
+Every scene in V20 runs on the same cycle:
+
+1. **Establish the scene** — Where are we? Who is present? What is at stake? Set time of night, location, and any ambient pressure.
+2. **Declare intent** — The player states what their character is attempting. The Storyteller (or oracle, in solo play) frames any obstacles, opposition, or complications.
+3. **Determine if a roll is needed** — Not every action requires dice. Roll only when:
+   - The outcome is genuinely uncertain, **and**
+   - Failure has meaningful consequences
+4. **Assemble the dice pool** — Choose the appropriate **Attribute + Ability** combination. Common pools: Dexterity + Stealth (sneaking), Charisma + Persuasion (social), Dexterity + Firearms (shooting). Set difficulty (default 6).
+5. **Roll and count successes** — Each die at or above the difficulty is a success. One success completes most tasks. Extended actions require accumulated successes across multiple rolls.
+6. **Narrate the outcome** — Successes determine degree of success. Failure means the character did not achieve their intent. A botch (no successes + at least one 1 showing) means something goes wrong.
+7. **Advance the fiction** — What changed? Update blood pool, clocks, NPC dispositions, and Chaos Factor. Move to the next beat.
+
+---
+
+### When Not to Roll
+
+Rolls are for uncertainty with stakes. Do not call for a roll when:
+
+- The character has the relevant Attribute/Ability at a level that makes the task trivially achievable
+- Success or failure does not change what happens next
+- The character could not possibly succeed regardless of the roll
+- Failure would simply stall the scene with no dramatic payoff
+
+When in doubt, default to **dramatic necessity**: if rolling is more interesting than not rolling, roll.
+
+---
+
+### Determining Difficulty
+
+| Difficulty | Description |
+|------------|-------------|
+| 3 | Trivial — rarely rolled |
+| 4 | Easy |
+| 5 | Straightforward |
+| **6** | **Standard — the default** |
+| 7 | Challenging |
+| 8 | Difficult |
+| 9 | Very Difficult |
+| 10 | Near-impossible |
+
+Circumstances modify difficulty up or down. Environmental factors, equipment, and Discipline use all contribute. No pool may have its difficulty raised above 10 or lowered below 3.
+
+---
+
+### Action Types
+
+| Type | How it works |
+|------|-------------|
+| **Simple** | One roll resolves the action |
+| **Extended** | Accumulate a target number of successes across multiple rolls; each roll represents a time increment |
+| **Resisted** | Both parties roll; subtract the defender's successes from the attacker's; net successes determine outcome |
+| **Contested** | Both parties roll the same pool; most successes wins outright |
+
+---
+
+### The Scene Structure
+
+A well-formed scene has three parts:
+
+**Opening** — Establish location, time, NPCs present, and the immediate goal or threat. In solo play, the oracle determines scene setup via the Fate Chart and any Random Events.
+
+**Middle** — Player decisions meet obstacles. Dice resolve uncertain moments. NPC reactions are determined by disposition and oracle rolls where the Storyteller is absent. The scene builds toward a resolution point — a decision, a consequence, or an escape.
+
+**Close** — Tally what changed: blood spent, damage taken, relationships shifted, clocks advanced, new information learned. A scene that ends with nothing changed has failed its dramatic function. At minimum, one thing should be different at the end.
+
+---
+
+### The Night's Arc
+
+A single session typically covers one night of in-game time, structured as:
+
+- **Dusk** — Characters wake, spend 1 blood, assess immediate needs (hunting, messages, threats)
+- **First acts** — Two to three scenes pursuing the session's central pressure
+- **Complication** — An unexpected development, NPC reaction, or Random Event shifts the situation
+- **Resolution** — The night's main conflict reaches an outcome (resolved, escalated, or deferred)
+- **Dawn** — Characters seek haven; end-of-session bookkeeping: update blood pool, Humanity, threat clocks, NPC states
+
+**Blood pressure** is a constant background mechanic. Every scene costs time and potentially blood. Characters who delay hunting run the Self-Control penalty that comes with a depleted blood pool — making frenzy more likely exactly when the situation is most demanding.
+
+---
+
+### NPC Reactions
+
+NPCs have **dispositions** (friendly, neutral, cautious, hostile) that modify social dice pools and determine their default behavior. When the outcome of an NPC interaction is unclear:
+
+1. Assess disposition
+2. Identify the most likely response given their motivations
+3. If genuinely uncertain, use the Fate Chart (solo play) or Storyteller judgment
+4. Apply the mechanical result (social roll successes, Dominate compliance, etc.)
+
+Elders act from centuries of accumulated paranoia. Neonates act from ambition and insecurity. Mortals act from fear, desire, and self-interest. The Beast is always a factor for Kindred — any NPC vampire can frenzy if pushed.
+
+---
+
+### The Dual Axis
+
+Every session should register movement on **both** of V20's core axes:
+
+- **External power** — The PC's influence, resources, political position, and Discipline development. Winning fights, building alliances, securing havens, advancing agendas.
+- **Internal erosion** — Humanity loss, derangements, blood bonds, frenzy incidents. The cost of power. The slow drift from whatever the character was before the Embrace.
+
+A session that advances only the external axis plays like an action game. A session that grinds only the internal axis becomes oppressive. The game works when both move — when winning costs something real.
+
+---
 
 | Mechanic | Rule |
 |----------|------|
