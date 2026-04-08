@@ -75,18 +75,6 @@ For Humanity/Path/Willpower rolls: pool = rating only. No additional traits adde
 
 ## Health Levels
 
-| Health Level | Penalty | Movement |
-|--------------|---------|----------|
-| Bruised | — | Normal |
-| Hurt | −1 | Normal |
-| Injured | −1 | Half run speed |
-| Wounded | −2 | Walk only |
-| Mauled | −2 | Hobble 3 yd/turn |
-| Crippled | −5 | Crawl 1 yd/turn |
-| Incapacitated | — | None |
+Quick reference: −1 dice at Hurt/Injured, −2 at Wounded/Mauled, −5 at Crippled. Spend 1 WP to ignore wound penalties for 1 turn.
 
-Spend 1 WP to ignore wound penalties for 1 turn.
-
-**Vampire healing:** 1 BP = 1 Bashing or 1 Lethal (must rest, 1 per turn unless Generation allows more). Aggravated: 5 BP + full day rest = 1 agg healed. Additional agg same night: 5 BP + 1 WP each.
-
-Damage type precedence in boxes: mark Agg first, then Lethal, then Bashing.
+See [Health & Healing](/reference/v20/health/) for the full table, damage types, vampire healing costs, torpor, and environmental hazards.

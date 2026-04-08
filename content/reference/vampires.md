@@ -41,15 +41,9 @@ After the Embrace, the body stops changing. No heartbeat, no breath (unless the 
 
 ## Blood and Feeding
 
-Blood (vitae) is the engine of vampiric existence. A vampire wakes each night having spent one blood point on the process of regaining consciousness. Every physical enhancement, every Discipline activation, every wound healed costs additional blood. A vampire running low becomes increasingly desperate.
+Blood (vitae) is the engine of vampiric existence. A vampire wakes each night having spent one blood point on the process of regaining consciousness. Every physical enhancement, every Discipline activation, every wound healed costs additional blood. A vampire running low becomes increasingly desperate — and when the blood pool drops below half, frenzy resistance becomes harder at the exact moment pressure is highest.
 
-**Blood pool:** Each vampire can hold a maximum number of blood points determined by their Generation. A 10th-Generation vampire holds a maximum of 13. The lower the Generation, the larger the pool — and the more that can be spent per turn.
-
-**Feeding:** Vampires feed from humans (preferred), animals (less sustaining for some clans), or other vampires (possible but taboo). The Kiss — the act of feeding — produces involuntary ecstasy in the victim, making resistance extremely difficult. Most vampires feed without killing; regular kills attract mortal attention.
-
-**Self-Control:** A vampire with fewer than half their blood pool remaining loses one die from all Self-Control rolls, making frenzy more likely exactly when the situation is most demanding.
-
-See [Blood Economy](/reference/v20/blood-economy/) for the full mechanics.
+See [Blood Economy](/reference/v20/blood-economy/) for the full mechanics: nightly costs, spending, vessel yields, feeding procedure, and the Self-Control cap.
 
 ---
 
@@ -101,21 +95,17 @@ The mechanical resistance to frenzy is a **Self-Control** (or **Instinct**, for 
 
 ## The Masquerade
 
-The **Masquerade** is the policy — enforced by the Camarilla and observed by most vampires regardless of sect — of concealing vampiric existence from mortal awareness. Vampires are not known to the mortal world. This is not accidental. It is actively maintained through memory erasure, controlled feeding, political influence over media and law enforcement, and when necessary, the elimination of witnesses.
+The **Masquerade** is the policy of concealing vampiric existence from mortal awareness, enforced by the Camarilla and observed by most vampires regardless of sect. It exists because mortals vastly outnumber vampires — the 15th-century Inquisition came close to exterminating Kindred society, and the Camarilla was founded to prevent a repeat. Violating it is a capital offense in Camarilla-controlled domains.
 
-The Masquerade exists because mortals vastly outnumber vampires. The Inquisition of the 15th century came close to exterminating Kindred society. The Camarilla was founded explicitly to prevent a repeat.
-
-Violating the Masquerade — visible supernatural displays, leaving evidence of vampiric activity, letting mortals learn too much — is a capital offense in Camarilla-controlled domains.
+See [The Camarilla](/reference/society/camarilla/) for the First Tradition, enforcement mechanisms, and practical implications.
 
 ---
 
 ## Generation
 
-All vampires are descended from Caine, the first vampire. Each subsequent generation of the Embrace is one step further from that origin and one step weaker. A 4th-Generation vampire holds more blood, heals faster, and can dominate older vampires. A 13th-Generation neonate is near the limit of vampiric capability.
+All vampires are descended from Caine. Each subsequent Embrace is one step further from that origin and one step weaker in blood potency. Generation affects blood pool maximum, spending rate, trait caps, and Dominate/Presence ceilings.
 
-**Generation affects:** blood pool maximum, blood that can be spent per turn, trait maximums, and whether Dominate or Presence work against vampires of lower Generation.
-
-See [Generation](/reference/v20/generation/).
+See [Generation](/reference/v20/generation/) for the full chart and social implications.
 
 ---
 

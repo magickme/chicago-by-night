@@ -71,11 +71,9 @@ The Black Hand is led by four **Seraphim**. Individual Black Hand operatives are
 
 ## The Tal'Mahe'Ra (True Black Hand)
 
-The Tal'Mahe'Ra, or "Hand Without Sun," is an organization distinct from and predating the Sabbat's Black Hand. Ancient, secretive, and worshipping the Antediluvians in the Underworld city of Enoch, the Tal'Mahe'Ra has spent centuries infiltrating both the Sabbat and the Camarilla. Their symbol is a crescent moon against an eclipse — distinguished from the Sabbat Black Hand's plain crescent.
+A covert meta-Sect predating both Camarilla and Sabbat, with sleeper agents embedded across all factions. Distinct from the Sabbat's Black Hand — their symbol is a crescent-eclipse rather than a plain crescent — and in open covert war with it. Their presence in any Sabbat domain is a direct threat to the Black Hand's authority.
 
-**Key distinction:** The Sabbat Black Hand hates and fights the Antediluvians. The Tal'Mahe'Ra reveres them. Their goals occasionally align (controlling the Sabbat as a weapon) but are fundamentally opposed in theology.
-
-The Tal'Mahe'Ra are detectable by a crescent-eclipse tattoo — normally obscured by their own sorcery, but visible to agents granted the ability to see it by a sufficiently powerful patron. Their presence in any Sabbat domain is a threat to the Black Hand's authority; the two organizations are in open covert war.
+See [Tal'Mahe'Ra](/reference/society/minor-sects/tal-mahera/) for full detail: structure, theology, clan availability, character creation, and the Paths of Scorched Heart and Self-Focus.
 
 ---
 

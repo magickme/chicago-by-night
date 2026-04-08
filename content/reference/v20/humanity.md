@@ -4,17 +4,6 @@ description: "Humanity track, degeneration checks, the dual axis of VtM play, an
 weight: 55
 ---
 
-## The Dual Axis
-
-VtM play operates on two simultaneous tracks:
-
-- **External:** Power accumulation, domain, status, survival.
-- **Internal:** Humanity erosion, Beast encroachment, moral degeneration.
-
-Both are always in play. Scenes that produce external gains often cost internal stability.
-
----
-
 ## Humanity
 
 Humanity measures how much of the mortal self remains intact. Range: 0–10.

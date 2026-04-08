@@ -106,17 +106,16 @@ Status is the Camarilla's social currency. It is not wealth (though they often c
 
 ---
 
-## The Prestation System
+## Prestation
 
-Boons are the Camarilla's monetary equivalent. Every favor owed, every service rendered creates a debt that can be called in, traded, or leveraged. Boon categories:
+Boons are the Camarilla's political currency — every favor owed creates a debt that can be called in, traded, or leveraged. Boons are tracked publicly by Harpies and privately by everyone involved. A Kindred who reneges on boons loses status rapidly and may face Prince-level sanction.
 
-| Boon Type | Value | Description |
-|-----------|-------|-------------|
-| Trivial | Low | A minor favor; door opened, introduction made |
-| Minor | Low-Medium | Concrete assistance; time, information, small material support |
-| Major | Medium | Significant cost or risk to the creditor |
-| Boon | High | Substantial obligation — calls in large favors |
-| Life Boon | Very High | The creditor saved the debtor's life (or unlife) |
-| Blood Oath | Binding | Formal, magically reinforced oath — breaking one has serious consequences |
+See [Prestation & Boons](/reference/v20/prestation/) for the full system: boon types, calling debts, disputes, defaulting, and the Anarch alternative.
 
-Boons are tracked publicly by Harpies and privately by everyone involved. A Kindred who reneges on boons loses status rapidly and may face Prince-level sanction.
+---
+
+## Pages in This Section
+
+| Page | Contents |
+|------|----------|
+| [The Red List](red-list/) | Anathema, Alastors, blood hunt mechanics, Lextalionis, the 13 entries |

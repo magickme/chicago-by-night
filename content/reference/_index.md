@@ -8,7 +8,7 @@ This reference covers the full rules set for **Vampire: The Masquerade 20th Anni
 
 | Section | Contents |
 |---------|----------|
-| **Society** | Five Sects (Camarilla, Sabbat, Anarchs, Tal'Mahe'Ra, Inconnu), diablerie, prestation, the Red List, hunters |
+| **Society** | Five Sects (Camarilla, Sabbat, Anarchs, Tal'Mahe'Ra, Inconnu), diablerie, prestation, [Red List](/reference/society/camarilla/red-list/), hunters |
 | **Character Creation** | Five-step creation procedure, Clans, Bloodlines, Attributes, Abilities, Backgrounds, Merits & Flaws |
 | **Disciplines** | All 17 core Disciplines, Combination Disciplines, Sorcery Traditions, Dark Thaumaturgy |
 | **V20 Mechanics** | Core dice, blood economy, combat, health, frenzy, humanity, paths, derangements, ghouls, golconda |

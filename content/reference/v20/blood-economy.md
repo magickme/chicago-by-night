@@ -6,22 +6,9 @@ weight: 15
 
 ## Blood Pool by Generation
 
-| Generation | Max Trait | BP Max | BP / Turn |
-|------------|-----------|--------|-----------|
-| 3rd | 10 | 100 | 10 |
-| 4th | 9 | 50 | 8 |
-| 5th | 8 | 40 | 6 |
-| 6th | 7 | 30 | 5 |
-| 7th | 7 | 20 | 4 |
-| 8th | 6 | 15 | 3 |
-| 9th | 5 | 14 | 2 |
-| 10th | 5 | 13 | 1 |
-| 11th | 5 | 12 | 1 |
-| 12th | 5 | 11 | 1 |
-| 13th+ | 5 | 10 | 1 |
+Blood pool maximum and spending rate are set by Generation. See [Generation](/reference/v20/generation/) for the full chart. Quick reference: 10th Generation = BP Max 13, 1 BP/turn. Lower Generation = larger pool and higher spend rate.
 
-**Max Trait** applies to Attributes and Discipline ratings.
-**BP/Turn** governs healing, physical enhancement, and Discipline fuel per action.
+**Max Trait** applies to Attributes and Discipline ratings. **BP/Turn** governs healing, physical enhancement, and Discipline fuel per action.
 
 ## Nightly Cost
 
@@ -61,28 +48,7 @@ All uses of blood draw from the BP/Turn allotment (max 1 for 10th gen):
 
 ### Procedure
 
-1. **Determine method** — choose an appropriate dice pool based on the hunting approach (see [Hunting & Feeding](hunting/)).
-2. **Hunt roll** — dice pool by method, difficulty by area.
-
-| Area | Hunt Diff |
-|------|-----------|
-| Slum / Skid Row | 4 |
-| Lower class residential | 5 |
-| Downtown / commercial | 6 |
-| Warehouse / industrial | 6 |
-| Suburb / upscale | 7 |
-
-3. **Yield:**
-
-| Feeding depth | BP gained | Risk |
-|---------------|-----------|------|
-| Safe draw (20%) | 2 BP | No harm to vessel |
-| Hospital (50%) | 5 BP | Weakness, possible hospitalization |
-| Draining (100%) | 10 BP | Vessel dies |
-
-Average human = 10 BP total.
-
-4. **The Kiss** — mortal vessels experience ecstasy during feeding; they stop resisting. Lick wounds to seal them (no visible marks).
+See [Hunting & Feeding](hunting/) for the complete procedure: hunting methods, area difficulty table, feeding depth and yield, and the Kiss. Quick summary: average human = 10 BP; safe draw (20%) = 2 BP; lethal drain = 10 BP and kills the vessel.
 
 ### Ventrue Feeding Restriction
 
