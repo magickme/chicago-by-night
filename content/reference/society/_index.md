@@ -13,11 +13,11 @@ Kindred exist within a complex web of political factions, social obligations, an
 | [Camarilla](/reference/society/camarilla/) | Establishment | Maintains the Masquerade; governs through Elysium, Traditions, and Primogen councils |
 | [Sabbat](/reference/society/sabbat/) | Anti-Camarilla | Rejects the Masquerade; embraces Cainite identity; theology of diablerie and pack loyalty |
 | [Anarchs](/reference/society/anarchs/) | Decentralized | Rejects both hierarchies; domain by merit; anti-elder politics |
-| [Ashirra](/reference/society/others/ashirra/) | Islamic world | Dominant Kindred body of North Africa, Middle East, and Central Asia; neither Camarilla nor Sabbat |
+| [Ashirra](/reference/society/minor-sects/ashirra/) | Islamic world | Dominant Kindred body of North Africa, Middle East, and Central Asia; neither Camarilla nor Sabbat |
 
 **[Independent Clans](/reference/society/independent-clans/)** (Giovanni, Ravnos, Assamites, Followers of Set) acknowledge no Sect as their governing structure, though they interact with all factions transactionally.
 
-**[Others](/reference/society/others/)** — Tal'Mahe'Ra, Inconnu, Laibon, and non-Cainite external factions.
+**[Minor Sects](/reference/society/minor-sects/)** — Tal'Mahe'Ra, Inconnu, Laibon, and Ashirra.
 
 ## Social Mechanics
 

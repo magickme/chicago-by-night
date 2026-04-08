@@ -1,7 +1,7 @@
 ---
-title: "External Factions"
+title: "The Others"
 description: "Non-Cainite supernaturals in the World of Darkness — Kuei-jin, Lupines, Fae, and Mages. What vampires know, what they don't, and mechanical interaction rules."
-weight: 60
+weight: 95
 ---
 
 The World of Darkness contains supernatural beings besides vampires. Most Kindred know they exist. Very few understand them. A vampire who mistakes a Lupine for a manageable threat, or assumes a Mage can be Dominated like a mortal, is unlikely to repeat the error.
