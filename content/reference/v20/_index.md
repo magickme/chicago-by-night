@@ -32,6 +32,8 @@ Abbreviations used throughout: **Str** Strength, **Dex** Dexterity, **Sta** Stam
 | [Paths of Enlightenment](paths/) | All 11 Paths with Hierarchies of Sin; Golconda summary |
 | [Derangements](derangements/) | 14 derangements with mechanical descriptions |
 | [Social & Mental Systems](social/) | Social combat, Dominate/Presence resistance, blood bond, Delirium |
+| [Diablerie](diablerie/) | Consuming another vampire — Generation reduction, aura staining, Jyhad implications |
+| [Prestation & Boons](prestation/) | Boon economy — five boon types, calling debts, recording obligations |
 | [Ghouls](ghouls/) | Ghoul creation, Disciplines, Vinculum, Revenant families |
 | [Golconda](golconda/) | Prerequisites, the Suspire, mechanical benefits, losing the state |
 | [Thin-Blooded](thin-blooded/) | 14th–16th Generation mechanics, Dhampirs, Seer Merit, Blood Rot disease |

@@ -1,7 +1,7 @@
 ---
 title: "Prestation & Boons"
 description: "Kindred political currency — the five boon types, calling debts, recording obligations, and the Anarch alternative."
-weight: 70
+weight: 72
 ---
 
 Prestation is the formal system of favors and obligations that underlies Camarilla political life. Every city has a boon economy. Every Kindred participates whether they want to or not — refusing to participate is itself a political act, and not a safe one.

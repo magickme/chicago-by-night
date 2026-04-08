@@ -1,7 +1,7 @@
 ---
 title: "Diablerie"
 description: "Consuming another vampire's soul — Generation reduction, aura staining, and Jyhad."
-weight: 60
+weight: 68
 ---
 
 Diablerie — the Amaranth, the Cardinal Sin — is the act of draining another vampire completely and then consuming their very soul. It is the most forbidden act in Kindred society, the violation that generates a Blood Hunt more reliably than almost anything else. It is also the only reliable way to lower one's Generation.

@@ -48,7 +48,7 @@ For blood spending rules — nightly cost, healing, Attribute boosts, vessel yie
 
 ## Diablerie and Generation
 
-Diablerie is the only method of lowering Generation. See [Diablerie](/reference/society/diablerie/) for the complete mechanics. Key points:
+Diablerie is the only method of lowering Generation. See [Diablerie](/reference/v20/diablerie/) for the complete mechanics. Key points:
 
 - The victim must be of **lower Generation** (more potent blood) than the diablerist
 - Each successful diablerie lowers the diablerist's Generation by 1 (gaining the chart benefits)

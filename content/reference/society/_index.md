@@ -1,36 +1,32 @@
 ---
 title: "Society"
-description: "Kindred society — the five Sects (Camarilla, Sabbat, Anarchs, Tal'Mahe'Ra, Inconnu), social mechanics, prestation, and the Jyhad."
+description: "Kindred society — the Sects (Camarilla, Sabbat, Anarchs, Ashirra), social mechanics, and the Jyhad."
 weight: 10
 ---
 
-Kindred exist within a complex web of political factions, social obligations, and supernatural bonds. Five Sects divide the vampiric world — from the Camarilla's establishment order to the Sabbat's crusade, Anarch autonomy, the Tal'Mahe'Ra's covert manipulation, and the Inconnu's ancient withdrawal from the Jyhad entirely.
+Kindred exist within a complex web of political factions, social obligations, and supernatural bonds. The main Sects govern (or contest) the vampiric world — from the Camarilla's establishment order to the Sabbat's crusade, Anarch autonomy, and the Ashirra's Islamic world.
 
-## The Five Sects
+## The Main Sects
 
 | Sect | Alignment | Description |
 |------|-----------|-------------|
 | [Camarilla](/reference/society/camarilla/) | Establishment | Maintains the Masquerade; governs through Elysium, Traditions, and Primogen councils |
 | [Sabbat](/reference/society/sabbat/) | Anti-Camarilla | Rejects the Masquerade; embraces Cainite identity; theology of diablerie and pack loyalty |
 | [Anarchs](/reference/society/anarchs/) | Decentralized | Rejects both hierarchies; domain by merit; anti-elder politics |
-| [Ashirra](/reference/society/ashirra/) | Islamic world | Dominant Kindred body of North Africa, Middle East, and Central Asia; neither Camarilla nor Sabbat |
-| [Tal'Mahe'Ra](/reference/society/tal-mahera/) | Covert meta-Sect | Predates both Camarilla and Sabbat; embeds agents inside all Sects simultaneously |
-| [Inconnu](/reference/society/inconnu/) | Non-aligned | Ancient vampires withdrawn from the Jyhad; monitors rather than actors; Golconda connection |
+| [Ashirra](/reference/society/others/ashirra/) | Islamic world | Dominant Kindred body of North Africa, Middle East, and Central Asia; neither Camarilla nor Sabbat |
 
-**[Independent Clans](/reference/society/independent-clans/)** (Giovanni, Ravnos, Assamites, Followers of Set) acknowledge neither Sect as their governing structure, though they interact with all factions transactionally.
+**[Independent Clans](/reference/society/independent-clans/)** (Giovanni, Ravnos, Assamites, Followers of Set) acknowledge no Sect as their governing structure, though they interact with all factions transactionally.
 
-**[Laibon](/reference/society/laibon/)** — the vampiric peoples of sub-Saharan Africa, organized by Legacy rather than Clan, outside all Western Kindred political structures.
-
-**[External Factions](/reference/society/external-factions/)** — non-Cainite supernaturals: Kuei-jin, Lupines, Fae, and Mages.
+**[Others](/reference/society/others/)** — Tal'Mahe'Ra, Inconnu, Laibon, and non-Cainite external factions.
 
 ## Social Mechanics
 
 | Topic | See |
 |-------|-----|
 | Blood bonds and blood oaths | [Blood Bond](/reference/v20/blood-bond/) |
-| Ghouls, Vinculum, True Faith | [Ghouls & Blood Bonds](/reference/v20/ghouls/) |
-| Prestation — boon economy | [Prestation & Boons](/reference/society/prestation/) |
-| Diablerie and Generation | [Diablerie](/reference/society/diablerie/) |
+| Ghouls, Vinculum, True Faith | [Ghouls](/reference/v20/ghouls/) |
+| Prestation — boon economy | [Prestation & Boons](/reference/v20/prestation/) |
+| Diablerie and Generation | [Diablerie](/reference/v20/diablerie/) |
 | Red List — Anathema, Alastors, blood hunt mechanics | [Red List](/reference/society/red-list/) |
 | Hunters — organizations, Numina, True Faith | [Hunters](/reference/society/hunters/) |
 
