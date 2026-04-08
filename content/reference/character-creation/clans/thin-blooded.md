@@ -1,7 +1,7 @@
 ---
 title: "Thin-Blooded"
 description: "14th–16th Generation mechanics, Caitiff rules, Dhampirs, and the Blood Rot disease — expanded rules from Beckett's Jyhad Diary."
-weight: 85
+weight: 140
 ---
 
 The weakening of Caine's curse has produced a spectrum of vampires on the edges of what the condition can sustain. Three overlapping categories exist: **Caitiff** (Clanless), **thin-blooded** (vitae too dilute to fully function), and the emerging **16th Generation**. These are not the same thing — though Kindred rarely bother to distinguish.

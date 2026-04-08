@@ -43,7 +43,7 @@ The Jyhad is the covert eternal war waged between the Antediluvians — the Thir
 **Mechanically relevant implications:**
 - A vampire of low Generation may be an unwitting pawn of their Antediluvian without knowing it — blood bonds, Disciplines, and the conditioning of centuries
 - Elders may be manipulating PC coteries without direct contact; what appears to be coincidence may be orchestration
-- The thin-blooded (see [Thin-Blooded](/reference/v20/thin-blooded/)) are considered Gehenna portents by many factions — making them targets across all Sects
+- The thin-blooded (see [Thin-Blooded](/reference/character-creation/clans/thin-blooded/)) are considered Gehenna portents by many factions — making them targets across all Sects
 - Diablerie of an elder may pass along that elder's blood bond to a more ancient master, creating unwitting servitors several steps removed from the original source
 
 **The Antediluvians (known or suspected):**
