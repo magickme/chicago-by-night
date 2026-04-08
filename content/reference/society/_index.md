@@ -13,6 +13,7 @@ Kindred exist within a complex web of political factions, social obligations, an
 | [Camarilla](/reference/society/camarilla/) | Establishment | Maintains the Masquerade; governs through Elysium, Traditions, and Primogen councils |
 | [Sabbat](/reference/society/sabbat/) | Anti-Camarilla | Rejects the Masquerade; embraces Cainite identity; theology of diablerie and pack loyalty |
 | [Anarchs](/reference/society/anarchs/) | Decentralized | Rejects both hierarchies; domain by merit; anti-elder politics |
+| [Ashirra](/reference/society/ashirra/) | Islamic world | Dominant Kindred body of North Africa, Middle East, and Central Asia; neither Camarilla nor Sabbat |
 | [Tal'Mahe'Ra](/reference/society/tal-mahera/) | Covert meta-Sect | Predates both Camarilla and Sabbat; embeds agents inside all Sects simultaneously |
 | [Inconnu](/reference/society/inconnu/) | Non-aligned | Ancient vampires withdrawn from the Jyhad; monitors rather than actors; Golconda connection |
 

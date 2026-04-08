@@ -27,6 +27,8 @@ params:
           url: "/reference/"
         - name: "Overview"
           url: "/reference/overview/"
+        - name: "Vampires"
+          url: "/reference/vampires/"
         - name: "Society"
           url: "/reference/society/"
         - name: "Character Creation"
