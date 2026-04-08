@@ -66,6 +66,18 @@ Example curses: +3 difficulty to all Subterfuge rolls; cannot use blood for Stre
 
 Each dot above 5 adds 100 lbs capacity and 20 mph speed.
 
+### Gargoyle Subtypes
+
+Three distinct Gargoyle varieties were created by the Tremere, each with different Discipline sets and weaknesses:
+
+| Subtype | Disciplines | Weakness |
+|---------|------------|---------|
+| **Scout** | Auspex, Obfuscate, Flight | All wound penalties from injuries are doubled. Penalties fade upon sleeping to heal. |
+| **Sentinel** | Flight, Potence, Fortitude | If alone without a master, ally, or trusted companion, all dice pools are halved until someone to serve is found. |
+| **Warrior** | Flight, Fortitude, Protean | When frenzying, one chosen body part turns to stone. Rolls requiring the related Attribute automatically fail until the next evening. |
+
+**Gargoyle Ritual — Ward of the Winged Sepulcher (Level 3):** Prepare a small cube from a tombstone; inscribe with blood and an incantation; ingest. When sunlight strikes the Gargoyle's skin, their wings billow and wrap around themselves and one other person, blocking all sunlight damage. The ward inflicts 1 Aggravated on the caster (2 if protecting a second person) if they lack wings.
+
 ---
 
 ## Melpominee
@@ -101,6 +113,26 @@ Extend Phantom Speaker or Siren's Beckoning to multiple targets (up to Stamina +
 **Cost:** 1 blood point | **Pool:** Manipulation + Performance, difficulty = target's Stamina + Fortitude
 
 Each success: 1 health level of aggravated damage, **cannot be soaked**. Works on inanimate objects.
+
+### ●●●●● Mosh Pit
+**Cost:** 1 blood point | **Pool:** Manipulation + Performance (difficulty of choice)
+
+Target makes a frenzy resistance roll at the chosen difficulty. On failure, frenzy. Works on supernatural creatures as well as mortals.
+
+### ●●●●● Primal Scream
+**Pool:** As Mosh Pit
+
+As Mosh Pit, but induces Rötschreck instead of frenzy.
+
+### ●●●●● ●● Haunting Melody
+**Pool:** Manipulation + Performance (difficulty of choice)
+
+Choose a derangement. The melody lingers in the area for days equal to successes. Anyone in the area must roll Willpower (difficulty = Daughter's choice) or manifest the derangement. A botch makes the derangement permanent.
+
+### ●●●●● ●●● Calling Song
+**Pool:** Charisma + Performance, contested by target's current Willpower
+
+Implant a song in a target's mind. When activated, the song plays at the Daughter's location, drawing the target as if affected by Presence ●●●● Summon. Supernatural creatures resist with Willpower (difficulty 8). If the target resists successfully 3 times, the song loses its hold.
 
 ---
 
@@ -159,6 +191,22 @@ Create an invisible 3-yard barrier. Those outside cannot cross without winning a
 **Cost:** 2 blood points | **Pool:** Intelligence + Empathy (difficulty 8) | **Requires:** 10+ minutes of conversation
 
 Success cures one derangement. Cannot cure a Malkavian's core derangement (alleviates effects for the scene only). Botch: inflicts the derangement on the Salubri.
+
+### ●● Auguring the Sickness
+**Pool:** Perception + Medicine (difficulty 7)
+
+Hold hands above a patient. Each success reveals one fact about an illness (progression, symptoms, likely treatment path). The Salubri may then use Corpore Sano against diseases at difficulty equal to the disease's commonality (5 = common cold; 7 = herpes/chickenpox; 9 = Ebola/HIV).
+
+### ●●●● Ending the Watch
+**Cost:** 1 Willpower | **Pool:** Perception + Empathy (difficulty 7)
+
+Lay a hand over the heart of a dying mortal or one who genuinely wishes death. Allows a peaceful, painless death. Each success absorbs knowledge of the dying mortal's secrets and life minutiae (recall specific facts via Intelligence + Empathy, diff 5). The Salubri may consume the soul: each success on the original roll also heals 1 Lethal/Bashing health level. Botch on either roll: 1 Aggravated damage as the soul bursts free. Can hold a number of souls equal to the Generation Background rating.
+
+### The Third Eye
+
+When a Salubri (or Salubri antitribu) learns the second dot of Obeah or Valeren, a third eye opens permanently in the center of the forehead. It bleeds continuously. The eye opens wider when the Salubri is agitated or uses Auspex, Obeah, or Valeren. Concealment requires a Stamina + Stealth roll (diff 5) and lasts for one scene; using any of the above Disciplines reopens it automatically.
+
+Salubri following Humanity have human-looking eyes. Those on a Path develop inhuman ones.
 
 ---
 
@@ -223,6 +271,21 @@ For turns equal to half Temporis rating, gain extra full-dice-pool actions equal
 
 Step outside time for turns equal to successes. World is frozen. Can take any actions but no Disciplines. Attacks cannot be dodged by frozen targets. On re-entry: roll 1 die per turn spent outside (difficulty = Temporis rating); each success inflicts 1 aggravated.
 
+### ●●●●● ●●● Insight
+**Cost:** 1 Willpower | **Pool:** Wits + Alertness (difficulty 8)
+
+Briefly phase in and out of the timestream. Each success adds +1 die to the next action taken (the character shimmers briefly on return). Must be used the same turn as the following action.
+
+### ●●●●● ●●●● Temporal Understanding
+**Cost:** 1 Willpower | **Pool:** Wits + Alertness (difficulty 8)
+
+Each success generates 1 temporary Willpower point (usable this scene in addition to permanent WP). Temporary points disappear at scene end or when used. Multiple successes may be rolled and applied simultaneously.
+
+### ●●●●● ●●●●● Rewind
+**Cost:** 1 blood point | **Pool:** Stamina + Occult (difficulty 9)
+
+Rewind perception of a location to view the past: 1 success = 1 week; 2 = 1 month; 3 = 1 year; 4 = 1 century; 5 = 1 millennium. Viewing requires 1 hour per 10 years of review, then spend another blood point to continue. Can focus on a specific moment (Wits + Alertness, diff 5 + successes) or watch events scroll by.
+
 ---
 
 ## Thanatosis
@@ -253,6 +316,12 @@ Collapse into thick powder. Immune to fire and sunlight in this form. Dimly awar
 **Cost:** 2 blood points | **Pool:** Dexterity + Medicine, difficulty = target's Stamina + Fortitude
 
 Successes of lethal damage, plus Appearance and Attribute loss scaling to 5 successes (–2 Appearance, –1 Dexterity, –1 Strength). Lost Attributes return when damage heals.
+
+### ●●●●● ● Marrow Sucker
+
+Per 20 lbs / 9 kg of bone consumed (roughly one skeleton), gain 1 blood point. Place the bone near the mouth and suck — bones become a grey pulpy mass that is swallowed. Less satisfying than animal blood. Only Samedi with this power benefit from bone consumption.
+
+**Harbinger of Skulls Ritual — Generation of the Acheron Vortex (Level 2):** Under a new moon, mix Harbinger and Lasombra vitae into a body of water. Creates a vortex lasting 1 turn per blood point spilled. Stepping in transports the entrant to the Shadowlands. One person per active turn may follow. The reverse ritual (full moon) returns travellers, costing 2 BP from each person, and may deposit them in a different location.
 
 ---
 
@@ -320,6 +389,38 @@ Communicate with stone and read the psychic history impressed into it — events
 - **●●●** Wall of Magma — Raise a magma wall 10 feet high for 2 turns/success
 - **●●●●** Heat Wave — Desiccating blast; 5 lethal + target loses 5 blood points
 - **●●●●●** Volcanic Blast — Erupt lava from the ground at any point in line of sight
+
+### Way of the Spirit (Wits + Occult)
+
+Diffuse perception across the landscape. Duration: 1 consecutive scene/success. Can perceive through Obfuscate. If activated before sunrise, awareness extends through daylight (at +1 difficulty to other actions). Can target anything perceived with any other Koldunic path (if path rating ≤ Way of the Spirit rating).
+
+- **●** 50-foot radius awareness
+- **●●** 100-yard radius awareness
+- **●●●** Quarter-mile radius awareness
+- **●●●●** 1-mile radius awareness
+- **●●●●●** 5-mile radius awareness
+
+### Way of Sorrows (Intelligence + Occult)
+
+Invokes pre-Christian Slavic spirits of misfortune. Requires direct perception of the target (cannot be used at range via Way of the Spirit alone).
+
+- **●** Frustrations of Nestrecha — Target cannot spend Willpower. Duration 1 turn/success.
+- **●●** Insults of Krivda — Target must roll Self-Control to resist frenzy (difficulty 5 + successes, max 9).
+- **●●●** Weeping of Kruchina — Target overwhelmed by depression; cannot concentrate; vampires lose 1 BP/turn. Duration 1 turn/success.
+- **●●●●** Misfortune of Chernogolov — Target loses 2 automatic successes from every roll. Duration: number of consecutive rolls = successes.
+- **●●●●●** Starvation of Marena — 2 Bashing/success (soakable normally). Vampire targets also lose 1 BP/success.
+
+### Koldunic Rituals
+
+**Activation:** Intelligence + Occult, difficulty 3 + ritual level.
+
+| Level | Ritual | Effect |
+|-------|--------|--------|
+| 1 | **Reawakening the Dead Water** | Drop 1 BP into a natural water source, drink from it. Regain 1 spent Willpower (cannot exceed max). Once per night. |
+| 2 | **Invoke the Lesser Sign of Power** | 1 turn concentration + hand sign. Eyes glow. −2 difficulty on Intimidation/Leadership vs. mortals (eye contact required). Duration 1 hour/success. |
+| 3 | **Cowing the Servant** | Mix sheep brain + domain soil + 1 BP; servant eats. −1 difficulty on manipulation rolls toward that servant. Duration 1 week/success. |
+| 4 | **Ties That Bind** | Spill 4 BP on claimed earth and consume a handful. −1 difficulty on all Koldunic rolls for number of nights = successes. Once per week maximum. |
+| 5 | **The Inmost Tug** | Speak a word in a blood-bonded thrall's presence. The thrall feels a chosen emotion (lust, terror, devotion, rage) as if it were their own. Duration 1 scene/success. |
 
 ---
 

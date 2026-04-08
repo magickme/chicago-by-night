@@ -207,6 +207,91 @@ Combination Disciplines are unique powers that emerge from mastering multiple Di
 
 ---
 
+## Baali Combinations
+
+| Power | Prerequisites | XP | Effect |
+|-------|--------------|-----|--------|
+| **Command the Swarm** | Daimonion 2, Animalism 1 | 9 | Speak with vermin at range like Feral Whispers; spend 1 BP to send swarm to a location (range scales with Generation) as an extension of senses; can channel Daimonion through swarm for 1 additional BP |
+| **The Re-Embrace** | Daimonion 7 | — | Contested Manipulation + Occult (diff 8) vs. target's Willpower (diff 7); success converts another vampire's childe to Baali; results table scales from Final Death (0 success) to free Daimonion ● (5 successes) |
+
+---
+
+## Daughters of Cacophony Combinations
+
+| Power | Prerequisites | XP | Effect |
+|-------|--------------|-----|--------|
+| **Celebrity** | Obfuscate 3, Presence 2 | 15 | Appearance + Presence (diff 8); successes add dice to social interactions where fame helps; 1 scene |
+| **Silent Voice** | Melpominee 3, Obfuscate 3 | 18 | Melpominee powers work inaudibly/at frequencies above hearing; Auspex users who detect take 1 non-lethal wound per 2 successes |
+| **Tune Out** | Auspex 2, Melpominee 2 | 12 | Dull senses reflexively against sonic attacks and environmental distractions; cannot hear new unspecified sounds while active |
+
+---
+
+## Gargoyle Combinations
+
+| Power | Prerequisites | XP | Effect |
+|-------|--------------|-----|--------|
+| **The Shoulders of Atlas** | Flight 2, Potence 2 | 12 | Potence dots count as Flight dots for carrying capacity calculation |
+| **Falconer's Dive** | Flight 1, Visceratika 4 | 15 | Spend 1 WP; Dexterity + Athletics (diff 7); each success = −1 difficulty on next Brawl/Melee roll against a target below; must use next action or bonus lost |
+| **Carry the Mountain's Burden** | Visceratika 4, Fortitude 3 | 21 | Spend 1 WP to enhance Armor of Terra: double all soak bonuses; +2 extra soak vs aggravated/lethal, +4 vs bashing; ignore 2 wound penalties; fire damage quartered; touch Perception rolls at +4 difficulty |
+| **I Am the Keystone** | Fortitude 2, Potence 2, Visceratika 3 | 21 | Spend 1 WP to temporarily redistribute Fortitude/Potence dots (max by Generation); lasts until Incapacitated or sunrise; additional WP spend to revert early |
+
+---
+
+## Harbingers of Skulls Combinations
+
+| Power | Prerequisites | XP | Effect |
+|-------|--------------|-----|--------|
+| **Bloodied Hands** | Necromancy 1, Auspex 2 | 9 | Perception + Empathy (diff 7): touch a body and see the killer's face (1 succ), the body (2), cause of death (3), the victim's voice recounting their final moments (4), full life history (5) |
+| **Leer of Hades** | Necromancy 2, Serpentis 1 | 9 | Fix a vampire with Eyes of the Serpent before their death; if they die within a week, they reconstitute as a wraith next night in the necromancer's presence |
+| **Sutekh Fathers Anubis** | Necromancy 4, Serpentis 4 | 24 | 1 BP + 1 WP; 2-turn transformation into a rotting jackal form (~7 feet at shoulder); bite = Strength +2 Aggravated; double movement speed; −2 smell Perception difficulty; retain all Disciplines |
+
+---
+
+## Kiasyd Combinations
+
+| Power | Prerequisites | XP | Effect |
+|-------|--------------|-----|--------|
+| **Dreamstalker** | Dominate 2, Mytherceria 1 | 9 | Manipulation + Expression (diff = target's temp Willpower) to implant recurring dreams in a sleeping victim; dreams affect waking behavior (concentration penalties, fear responses); duration scales 1 turn → 1 month by successes |
+| **Sacrifice to Nightmare** | Mytherceria 4, Obtenebration 3 | 21 | Inscribe a Chanjelin Ward; seal a sacrifice inside; spend 2 BP to summon a tentacled nightmare from the Abyss (1 minute max). Four tentacles: Strength +1 Lethal via constriction. Mouth: Strength +2 Aggravated after successful grapple. Nightmare shares caster's health/resistances but damage to it doesn't affect the caster |
+
+---
+
+## Salubri Combinations
+
+| Power | Prerequisites | XP | Effect |
+|-------|--------------|-----|--------|
+| **Vital Fluids** | Obeah 3, Fortitude 3 | 18 | Passive; always active; blood spent healing Bashing/Lethal returns to blood pool at 1 BP/hour (applies to self-healing only, not Corpore Sano on others) |
+
+---
+
+## Samedi Combinations
+
+| Power | Prerequisites | XP | Effect |
+|-------|--------------|-----|--------|
+| **Switched at Death** | Thanatosis 1, Obfuscate 3 | 12 | Wits + Awareness (diff = observer's Willpower); appear as a specific dead body touched, duplicating all its damage states; actions out of place for the corpse trigger Courage rolls to maintain the illusion |
+| **Grisly Gris-Gris** | Fortitude 2, Thanatosis 2 | 12 | Break off a body piece; target ingests it; next Stamina soak roll adds lower of Fortitude or Thanatosis as bonus dice; target loses 1 Appearance/hour to 0, then vomits the gris-gris; can be expelled at will once active |
+| **Exquisite Corpse** | Fortitude 3, Obfuscate 3 | 18 | Cosmetic damage (gunshots, severed limbs) is hidden by illusion; health levels and penalties remain normal; after the first successful attack, target must make Willpower (diff 7) or be stunned; future attack rolls then at +2 difficulty |
+
+---
+
+## True Brujah Combinations
+
+| Power | Prerequisites | XP | Effect |
+|-------|--------------|-----|--------|
+| **Jackhammer Punch** | Potence 2, Temporis 2 | 12 | On a successful unarmed strike, spend 1 BP; add Temporis rating as additional Potence dots for that attack's damage calculation |
+| **Old Friend** | Presence 4, Temporis 4 | 24 | Physical contact; Manipulation + Empathy (diff = target's Willpower); implants a real-feeling shared memory from an alternate timeline; target believes the True Brujah is loyal and above reproach for duration (1 scene → 1 year by successes) |
+
+---
+
+## Nagaraja Combinations
+
+| Power | Prerequisites | XP | Effect |
+|-------|--------------|-----|--------|
+| **Unseen Spirit** | Vitreous Path 2, Obfuscate 2 | 8 | Stamina + Empathy (diff 6); invisible to living and undead; speaking, attacking, or drawing attention costs 1 success per action before the invisibility breaks |
+| **Soul Separation** | Vitreous Path 3, Auspex 4 | 21 | Manipulation + Empathy (diff 7) vs. target's Willpower (diff 6); on strong success, bite draws up to 10 BP and can devour the target's soul; results scale from +2 difficulty on next roll (1 success) to complete soul consumption and 10 BP (5+ successes) |
+
+---
+
 ## Elder Disciplines (Level 6+)
 
 Powers available only to Kindred who have elevated a Discipline beyond the mortal ceiling. Extremely rare in the modern nights; represent centuries of focused cultivation. XP costs vary and are determined by Storyteller.

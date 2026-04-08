@@ -150,6 +150,71 @@ Boil the blood inside a target's body. Each success deals 1 Aggravated damage �
 
 ---
 
+## Path of the Focused Mind
+
+*Heighten concentration and mental clarity to superhuman levels.*
+
+**Roll:** Standard Thaumaturgy activation.
+
+| Level | Power | Effect |
+|-------|-------|--------|
+| ● | Readiness | Each success adds 1 die to Wits-based rolls this turn, or removes 1 from initiative for tactical delay. Self only. |
+| ●● | Centering | Target unaffected by dice pool reductions (wound penalties, situational modifiers) for 1 turn/success. Also gains +2 dice to resist or break frenzy. Difficulty modifiers still apply. |
+| ●●● | One-Tracked Mind | Target cannot split dice pools; reduces declared action's difficulty by 1. Duration: 1 scene or 1 turn/success in combat. WP cost to change tactics. |
+| ●●●● | Dual Thought | Caster takes 2 mental actions in one turn without split-pool penalty. Cannot use twice consecutively. |
+| ●●●●● | Perfect Clarity | 1 scene or 1 turn + 1/success in combat. All action difficulties −2. Immunity to frenzy and Rötschreck. Presence, Dominate, and Dementation suffer +2 difficulty against user. |
+
+---
+
+## Path of the Levinbolt
+
+*Manipulation of electricity — shutting down devices, delivering lethal shock.*
+
+**Roll:** Standard Thaumaturgy activation.
+
+| Level | Power | Effect |
+|-------|-------|--------|
+| ● | Flicker | Shuts down electrical device in sight. Duration 10 min/success. Contact with live current deals 3–4 dice Lethal (soakable, diff 7). |
+| ●● | Spark | Touch attack. 4 dice Lethal (diff 7 to soak). Shorts electronics. |
+| ●●● | Illuminate | 8 dice Lethal (diff 8 to soak) on touch. OR power small electrical device for 1 turn/success. No effect on wood or raw metals. |
+| ●●●● | Thor's Fury | Perception + Science ranged attack (diff 6 + yards range, max 4 yards). 1 Lethal/success, diff 8 to soak. |
+| ●●●●● | Eye of the Storm | 1 WP. Caster immune to ranged attacks (metal weapons melt on first strike; wielder takes 1 Lethal). Touch causes 2 Aggravated (diff 8 to soak). Duration 1 turn + 1/success. Social/mental attacks pass through unimpeded. |
+
+---
+
+## Path of Spirit Manipulation
+
+*Communication with and command over disembodied spirits.*
+
+**Roll:** Standard Thaumaturgy activation.
+
+| Level | Power | Effect |
+|-------|-------|--------|
+| ● | Hermetic Sight | Perceive spirits overlaid on the material world. Duration 1 hour + 30 min/additional success. |
+| ●● | Astral Cant | Understand and communicate with any visible spirit. Duration 15 min + 15 min/success. |
+| ●●● | Voice of Command | Opposed Willpower (caster's Manipulation + Occult vs spirit's Willpower). 1 success = simple harmless command; 3 = moderate task; 5 = lengthy/dangerous task. Failure: +1 cumulative difficulty to further attempts. Botch: spirit immune for the night. |
+| ●●●● | Entrap Ephemera | Bind a spirit into a fetish. Opposed Willpower. Fetish level = successes above spirit's Willpower. Fetish adds bonus dice (equal to fetish level) to one specific skill. Activation: WP roll (diff = fetish level + 3). Max fetishes = permanent Willpower. |
+| ●●●●● | Duality | 15 min + 15 min/success. Caster exists simultaneously on physical and spirit planes; can move objects between them. +1 difficulty to all Perception rolls. Botch: trapped in spirit realm. |
+
+---
+
+## Sympathetic Magic
+
+Thaumaturgy targeting remote subjects uses **sympathetic connections** to reduce difficulty.
+
+**Connection strength (difficulty modifier):**
+
+| Link | Modifier |
+|------|---------|
+| Body parts — blood, hair, nails | −2 |
+| Prized personal possession | −1 |
+| Commonly used object | +0 |
+| Image or effigy | +1 |
+| Name alone | +2 |
+| Unknown target | Cannot target |
+
+---
+
 ## Thaumaturgy Rituals
 
 Rituals are slower versions of Thaumaturgy that require preparation time but can produce effects beyond what the active Paths allow. They are learned individually, not gained with dot progression.
@@ -157,6 +222,8 @@ Rituals are slower versions of Thaumaturgy that require preparation time but can
 **Casting:** The caster spends the listed time, succeeds at an extended Willpower roll (or Intelligence + Occult), and expends materials.
 
 ### Level 1 Rituals (1 turn to perform)
+
+**Blood into Water** — Transmute all spilled blood within 5 feet/success into water. Immediate, unsoakable.
 
 **Blood Mastery** — Force a mortal to re-swallow the vampire's blood if they try to spit it out; prevents accidental blood bond escape.
 
@@ -184,6 +251,10 @@ Rituals are slower versions of Thaumaturgy that require preparation time but can
 
 **Blood Walk** — Read the vampiric lineage of a target; trace their sire chain back up to 7 generations.
 
+**Eyes of Babel** — Caster plucks out and consumes their own eyes (horrific). Gain ability to understand any language spoken or written. Duration 1 week/success. Eyes regenerate normally.
+
+**Seal Egress** — Mystically seal every entrance to a room. Duration decades/success. Supernaturals may force entry with sufficient Willpower or Strength.
+
 **Donning the Mask of Shadows** — Apply Obfuscate-equivalent concealment to a location or object, not a person.
 
 **Encrypt Missive** — Write a message only a specific reader can decipher.
@@ -204,6 +275,8 @@ Rituals are slower versions of Thaumaturgy that require preparation time but can
 
 **A Servant's Wages** — Detect all Dominate, Presence, or blood bond effects currently active on a subject.
 
+**Amulet of Mnemosyne** — Preserve an object from the effects of time, use, and decay. Duration indefinite while ritual is active.
+
 **Incorporeal Passage** — Walk through a single solid object (one pass, not sustained).
 
 **Pavis of Foul Presence** — Reverse Presence effects against the caster for the night; any Presence used against the caster is reflected back at the sender.
@@ -217,6 +290,8 @@ Rituals are slower versions of Thaumaturgy that require preparation time but can
 ### Level 4 Rituals (1 hour to perform)
 
 **Bone of Lies** — Create a physical talisman; anyone holding it while trying to lie takes 1 Lethal per lie. Lasts 12 lies.
+
+**Court of Hallowed Truth** — Place a skull and crossed bones at each entrance (cost: 1 BP per entrance). No lie may be spoken within the room. Duration 1 week/success. Highly valued as a political ritual for meetings and negotiations.
 
 **Innocence of the Child's Heart** — The target's aura appears completely innocent to Aura Perception for one night.
 
@@ -235,3 +310,35 @@ Rituals are slower versions of Thaumaturgy that require preparation time but can
 **Enchant Talisman** — Create a permanent magical object requiring weeks of preparation and a permanent Willpower loss.
 
 **Paper Flesh** — A target becomes extremely vulnerable to fire (double damage) but immune to all other physical damage for one night.
+
+**Abandon the Fetters** — Break a blood bond. The excoriation process inflicts 3 unsoakable Aggravated damage on the caster; the final act costs both caster and subject 1 additional Aggravated. Subject loses 1 permanent Willpower. Cannot break the Vaulderie Vinculum or Transubstantiation bonds.
+
+**Cobra's Favor** — Caster's blood becomes toxic. Cost: 1 BP + herbal preparation + snake venom. Anything ingesting the caster's blood suffers 1 Aggravated per point consumed. Duration 1 week/success.
+
+**Nectar of the Bitter Rose** — Allows up to 6 vampires to share a single act of diablerie. Requires 1 hour of ritual to mystically separate the victim's soul aspects before Final Death. All participants may attempt to claim diablerie benefits.
+
+**Severed Hand** — Permanently prevent a severed body part from regenerating. Full-night ritual with alchemical treatment of the wound. Applicable to hands, eyes, fingers, tongues, and similar extremities.
+
+**Stone of the True Form** — Force target into their natural form (dispels Vicissitude, Protean shapes, etc.). Sustained contact with the stone required. Contested Stamina roll to maintain each turn. Shatter the stone to end the effect.
+
+---
+
+## Anarch Thaumaturgy Rituals
+
+Rituals developed by Anarch sorcerers, often cruder in method but cheaper in components. Available to any Tremere or blood sorcerer with access to the Anarch underground.
+
+### Level 1
+
+**Flatline** — Make a mortal appear dead — no pulse, no breath fog, indistinguishable from a corpse. Requires a small dead animal placed in the target's real home. Duration until the following morning. Once per month per target. Cannot affect supernaturals.
+
+### Level 2
+
+**Iron Body** — Fortify a vampire against environmental hazards. Spent shell casing soaked in 1 BP from the beneficiary. Target can soak fire and sunlight damage with normal Stamina (does not stack with Fortitude). Duration 1 hour/success.
+
+### Level 3
+
+**Hell's Calling** — Trigger Rötschreck in a remote target. Requires a sympathetic link (personal possession). Place the item in a rusty hubcap, douse in gasoline, meditate 30 minutes chanting while the item burns. Target must make a fear frenzy roll (difficulty varies by relationship to fire). Can resist with Willpower.
+
+### Level 4
+
+**Ward versus Vitae** — Draw a warding sigil in the caster's own vitae. Affects Kindred of lower Generation only. Any vampire crossing the ward takes 2 dice Lethal on first contact. Subsequent crossings require a Willpower roll (diff 7) or a WP spend to attempt.

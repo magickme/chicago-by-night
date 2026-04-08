@@ -57,3 +57,9 @@ The ten V20 bloodlines have unique Disciplines unavailable to the main clans. Se
 Non-Tremere blood magic systems developed independently by other lineages. Each is a separate Discipline with its own paths, rituals, and activation rules.
 
 See **[Sorcery Traditions](sorcery-traditions/)** for: **Akhu** (Egyptian divine magic — Followers of Set), **Dur-An-Ki** (Mesopotamian sorcery), **Sadhana** (Indian blood magic — Nagaraja/Ravnos), and **Wanga** (Afro-Caribbean tradition — faith-based, group rituals).
+
+## Dark Thaumaturgy
+
+Infernal blood magic granted through demonic pacts rather than developed through study. Practitioners are infernalists who have bargained away portions of their soul. Detection is possible through Auspex and True Faith.
+
+See **[Dark Thaumaturgy](dark-thaumaturgy/)** for the three paths: **Fires of the Inferno** (balefire requiring Fortitude to soak), **Path of Phobos** (fear induction through five escalating powers), and **Taking of the Spirit** (Willpower drain with graduated recovery rates).
