@@ -51,3 +51,9 @@ See **[Combination Disciplines](combination/)** for the full list organized by c
 ## Bloodline Disciplines
 
 The ten V20 bloodlines have unique Disciplines unavailable to the main clans. See **[Bloodline Disciplines](../character-creation/bloodlines/disciplines/)** for full coverage.
+
+## Sorcery Traditions
+
+Non-Tremere blood magic systems developed independently by other lineages. Each is a separate Discipline with its own paths, rituals, and activation rules.
+
+See **[Sorcery Traditions](sorcery-traditions/)** for: **Akhu** (Egyptian divine magic — Followers of Set), **Dur-An-Ki** (Mesopotamian sorcery), **Sadhana** (Indian blood magic — Nagaraja/Ravnos), and **Wanga** (Afro-Caribbean tradition — faith-based, group rituals).

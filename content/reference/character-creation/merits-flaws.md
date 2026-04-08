@@ -136,6 +136,24 @@ Unusually compelling voice. +2 dice to all Social rolls where voice is primary m
 ### Natural Leader (1 pt)
 Others follow instinctively. +1 die to Leadership rolls; Followers gain +1 die to morale-based rolls when following this character.
 
+### Peacemaker (2 pts)
+*Anarch-specific.* Reputation for honest mediation. −2 difficulty on all Social rolls aimed at keeping peace or mediating between factions, even across sect lines.
+
+### Prized Patch (2 pts)
+*Anarch-specific.* Member of a respected and feared Anarch gang. −2 difficulty on Manipulation rolls with other Anarchs (unless they have historical enmity with your specific gang).
+
+### Soapbox (3 pts)
+*Anarch-specific.* You operate a recognized publication, podcast, zine, or social media channel. −2 difficulty on Expression and Subterfuge rolls against Kindred who follow your platform.
+
+### Sugar Daddy (3 pts)
+*Anarch-specific.* Personal relationship with a high-ranking member of another sect. Invoking their name lowers Manipulation difficulty by 2 when dealing with that sect. They may expect reciprocal services.
+
+### Benevolent Domitor (3 pts)
+*Ghoul-specific.* Your domitor holds genuine affection for you and treats you with unusual care — not as a disposable asset. You will not be casually endangered. *Prerequisite: Domitor Background 1+.*
+
+### Groomed for Embrace (5 pts)
+*Ghoul-specific.* Your domitor intends to Embrace you and has begun treating you as an apprentice. Access to specialized training and elevated status among other ghouls. Drawbacks: jealous fellow ghouls, enemies of your intended sire may target you. *Benevolent Domitor (1 pt cost) included if also taken.*
+
 ### Prestigious Sire (1 pt)
 Sire has high Status in Kindred society. Character inherits reflected Status from sire's reputation.
 
@@ -148,6 +166,12 @@ A mortal who loves the character unconditionally. Once per session, regain 1 Wil
 
 ### Clan Enmity (2 pts)
 A specific clan bears your character particular ill will. Social rolls with members of that clan at +2 difficulty; they are more likely to act against you.
+
+### Expiration Date (2 pts)
+*Anarch-specific.* Wanted in several domains for minor crimes. On the verge of a bloodhunt announcement. All Social rolls to acquire help at +2 difficulty (except Intimidation).
+
+### Black Sheep (5 pts)
+*Anarch-specific.* You defected from a prestigious lineage associated with another sect. Your sire, grandsire, and broodmates view you as an embarrassment and actively attempt to bring you back or remove the stain. +2 difficulty on Social rolls with fellow Anarchs, who suspect you as a double agent. Combines Sire's Resentment and Hunted Like a Dog — cannot take those Flaws separately if this one is taken.
 
 ### Dark Secret (1 pt)
 Something in your past that would cost you Status if revealed. The Storyteller knows what it is.

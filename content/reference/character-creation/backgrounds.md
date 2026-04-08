@@ -181,3 +181,73 @@ Acknowledged standing within Kindred society. Status is specific to a sect; Cama
 | ●●●●● | Luminary; major regional figure; others seek your favor |
 
 Status can be stripped publicly; the gain that took decades to build can collapse in a single poor decision.
+
+---
+
+## Communal Haven (Group Background)
+
+A shared haven controlled by the coterie. Players divide points among three sub-traits:
+
+**Luxury** — Quality of appointments.
+
+| Dots | Quality |
+|------|---------|
+| ● | Sparse — salvaged furniture, minimal comfort |
+| ●● | Modest — basics of a functional modern space |
+| ●●● | Comfortable — amenities and relative ease |
+| ●●●● | Luxurious — distinctive and well-appointed |
+| ●●●●● | Opulent — extreme wealth or celebrity level |
+
+**Size** — Physical space available.
+
+| Dots | Size |
+|------|------|
+| ● | 1–2 rooms |
+| ●● | 3–4 rooms |
+| ●●● | 5–8 rooms / warehouse / church |
+| ●●●● | 9–15 rooms / mansion / tunnel network |
+| ●●●●● | 20+ rooms / sprawling estate / vast network |
+
+**Security** — Difficulty for intruders to breach.
+
+| Dots | Security |
+|------|---------|
+| ● | Cheap locks, minimal barriers |
+| ●● | Reinforced doors, barred windows, guard dog |
+| ●●● | Modern locks, electronic security, alarms and cameras |
+| ●●●● | Reinforced walls, sectionalized access, panic rooms |
+| ●●●●● | All previous features plus unique elements: isolated location, geographic barriers, occult protections |
+
+Each dot of Security adds +1 to the difficulty of penetration rolls or +1 to the number of successes required for access.
+
+**Note:** Communal Haven is distinct from Domain — the coterie's turf. A haven may sit within contested domain territory.
+
+---
+
+## Ghoul-Specific Backgrounds
+
+### Domitor
+
+Represents the power level and disposition of the vampire you serve.
+
+| Dots | Domitor |
+|------|---------|
+| ● | 11th–13th Generation; valued enough to access better resources |
+| ●● | 9th–10th Generation; domitor has passing fondness for you |
+| ●●● | 8th Generation; your input is occasionally tolerated |
+| ●●●● | 7th Generation; you are expected to perform, not advise |
+| ●●●●● | 5th–6th Generation; remarkably tolerated — the elder barely notices you |
+
+Higher dots mean more powerful access — but paradoxically less personal attention, not more.
+
+### Family Elder (Revenants only)
+
+Authority within your revenant family.
+
+| Dots | Role |
+|------|------|
+| ● | Big Sister/Brother — keep younger family members in line, run errands |
+| ●● | Aunt/Uncle — supervise sibling tier, lead small missions |
+| ●●● | Mother/Father — advise on family matters, shape futures |
+| ●●●● | Grandmother/Grandfather — oversee estate, manage other Elders |
+| ●●●●● | Matriarch/Patriarch — final authority on all family decisions |

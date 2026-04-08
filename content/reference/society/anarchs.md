@@ -49,3 +49,59 @@ Anarchs who want to operate in Camarilla domains typically navigate a tightrope:
 The Anarch movement is predominantly Brujah in composition and flavor. This is not coincidence — the Brujah have the most direct historical grievance (Carthage), the temperamental disposition toward rebellion, and the street-level networks that make Anarch infrastructure functional. Non-Brujah Anarchs sometimes find themselves in a movement that feels like a Brujah franchise.
 
 The Brujah elder/neonate split applies here too: many elder Brujah have accommodated the Camarilla, having learned over centuries that open rebellion is expensive. The Anarch fire tends to burn hottest in those recently Embraced.
+
+---
+
+## Domain Types
+
+Anarch domains do not follow a single model. The ten most common structures:
+
+| Type | Structure |
+|------|-----------|
+| **Free States** | Representative democracy (or the attempt at one). Signatories to the Status Perfectus often declare themselves Elysium — violence forbidden within domain borders. |
+| **Baronies** | One supreme ruler — unelected, though some Barons allow advisory votes. Small cadre of officials. Baron is often younger and can be pressured or replaced. |
+| **Dynasties** | Arise when a charismatic individual orchestrates a coup. Succession usually predetermined. |
+| **Communes** | The Tradition of Domain is abolished. Feeding rights are held in common. Governance by consensus or elected committees. May also be declared Elysium. |
+| **Frontier Territories** | Kindred are too widely scattered to organize. No formal social order; disputes settled individually. |
+| **Anocracies** | No central power — multiple rival gangs and cliques in ongoing conflict. Miserable for those outside the strongarm groups. |
+| **Islands** | Anarch domains surrounded by hostile sect territory. Must calculate against powerful neighbors; often become client states. |
+| **Squadrismo** | Nominal democracy but true power held by politically-motivated street enforcers in secret collusion with official authorities. |
+| **Fifth Columns** | Anarchs dwelling inside Camarilla or Sabbat domains. Spread doctrine through underground channels; plot eventual overthrow. |
+| **Cults** | Organized around a religious or philosophical ideal. Leadership varies — commune-style, high priest, council, or no codified order. |
+
+---
+
+## Status Perfectus
+
+The founding charter of the California Free States. Domains that sign it declare:
+
+1. Independence — free from allegiance to any other creature or organization
+2. Self-rule — no Prince, Primogen, or ruler except those freely chosen
+3. Solidarity — home offered to all Kindred of any generation or clan willing to dwell in peace
+4. Obligation — pledge to assist oppressed Kindred in their struggle for freedom
+5. Masquerade — responsibility to protect and defend the Masquerade
+6. Recognition — acknowledge the Status Perfectus as binding on all signatories
+
+Domains signing the Status Perfectus typically ban nonconsensual blood bonds. Discovery of forced bonding is grounds for swift, communal response.
+
+---
+
+## Anarch Prestation
+
+The Anarch alternative to the elder system of boons and debts:
+
+- **Immediate exchange preferred** — Debts completed on the spot feel like honest bargains, not obligation traps.
+- **Money accepted** — Accepting actual currency removes the mystified power dynamic of the elder boon economy.
+- **Consensual bonds** — First-stage partial bonds between willing participants are not forbidden and are sometimes used to solemnize close alliances or partnerships.
+- **Vaulderie** — The ritual method for breaking existing bonds. All participants add blood to a shared chalice and drink in turn. Destroys single-target bonds but creates weak Vinculi between participants. Required in many domains before accepting former Camarilla members. See [Ghouls & Blood Bonds](/reference/v20/ghouls/) for full mechanics.
+
+---
+
+## Progeny in Anarch Domains
+
+Siring is not unilateral. Common governance models:
+
+- **Mass vote or elected committee** — Domain approves or denies each Embrace request.
+- **Frankpledge compact** — Groups of 6–13 Kindred are formally bound together. Each is answerable for the others. Embracing requires two-thirds agreement within the compact; if a member commits a crime, the whole compact is responsible for bringing them in or faces collective punishment.
+
+New arrivals in most Anarch domains receive courtesy hospitality — freedom to feed at manageable levels — and are formally processed before any action is taken against them. Serious crimes go through an adversarial hearing before a neutral judge before Final Death can be pronounced.

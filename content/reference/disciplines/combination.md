@@ -204,3 +204,19 @@ Combination Disciplines are unique powers that emerge from mastering multiple Di
 | **Stonesight** | Auspex 1, Visceratika 1 | 3 | See through a 3×3-foot area of stone (up to 3 feet deep) as if it were glass |
 | **Suck It Up** | Animalism 1, Protean 2 | 9 | Touch spilled blood and draw it directly into your blood pool |
 | **Tenebrous Veil** | Obfuscate 1, Obtenebration 1 | 6 | While motionless in shadow, perfectly invisible to all senses |
+
+---
+
+## Elder Disciplines (Level 6+)
+
+Powers available only to Kindred who have elevated a Discipline beyond the mortal ceiling. Extremely rare in the modern nights; represent centuries of focused cultivation. XP costs vary and are determined by Storyteller.
+
+| Power | Prerequisite | Effect |
+|-------|-------------|--------|
+| **Alabastard** | Fortitude 6 | 1 BP to activate. Ignore all wound penalties for the scene. Storyteller may impose logical situational penalties (e.g., severed limb) but no dice pool reductions from Health chart. |
+| **Oathbreaker** | Vicissitude 8 | 1 BP + 1 WP per dose created. Each dose breaks one blood bond in the drinker; freedom lasts one month and one night. After breaking the bond, invoker may spend 10 WP in a single scene to substitute a false bond to themselves lasting 1 year. |
+| **Scourging the Instinct** | Presence 6 | Charisma + Leadership, diff 7. Willing followers embrace the Beast: 1 person / 2 / 6 / 20 / all in earshot per success. All affected make Self-Control rolls at diff 7; failure = frenzy. Frenzying Kindred may still spend WP to direct themselves. |
+| **Tireless Tread** | Celerity 6 | 1 BP per night. Travel at 50 mph for a minimum of 8 hours (minimum 400 miles). Any significant pause collapses the rhythm and the power fails entirely for that night. |
+| **Turnabout** | Protean 6 | 2 BP. On the turn after melding into earth, emerge from any spot within 50 feet — including behind or to either side of enemies. May also be used to move through up to 50 feet of earth underground without emerging. |
+| **Vengeance of the Martyr's Legacy (Impulse)** | Presence 7 | 1 WP. Every descendant of the invoker — childer, grandchilder, and further — makes a Self-Control roll (diff 8) regardless of location or state. Failure = immediate frenzy. |
+| **Vengeance of the Martyr's Legacy (Mandate)** | Presence 8 | 1 WP. Forces frenzy in all descendants automatically, no roll. Frenzying Kindred may spend WP to direct themselves normally. |
