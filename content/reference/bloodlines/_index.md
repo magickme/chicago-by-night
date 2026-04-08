@@ -36,13 +36,18 @@ Several bloodline Disciplines appear nowhere else in Kindred society:
 
 | Discipline | Bloodline | Summary |
 |-----------|-----------|---------|
+| [Assamite Sorcery](/reference/bloodlines/disciplines/#assamite-sorcery) | Assamites (Sorcerer/Vizier castes) | Blood magic paralleling Thaumaturgy; includes Awakening of the Steel path |
+| [Bardo](/reference/bloodlines/disciplines/#bardo) | Children of Osiris | Ascetic healer powers — Humanity restoration, sunlight tolerance, torpor ritual |
 | [Daimoinon](/reference/bloodlines/disciplines/#daimoinon) | Baali | Infernal powers — detecting sin, spreading fear, summoning dark forces |
 | [Flight](/reference/bloodlines/disciplines/#flight) | Gargoyles | Physical flight, with capacity scaling by dot |
 | [Koldunic Sorcery](/reference/bloodlines/disciplines/#koldunic-sorcery) | Tzimisce | Elemental earth magic (fire, water, wind, earth) |
 | [Melpominee](/reference/bloodlines/disciplines/#melpominee) | Daughters of Cacophony | Voice as weapon — emotional manipulation, deafness, soul-affecting song |
 | [Mytherceria](/reference/bloodlines/disciplines/#mytherceria) | Kiasyd | Fae-touched powers — lie detection, memory theft, mind-binding riddles |
 | [Obeah](/reference/bloodlines/disciplines/#obeah) | Salubri | Healing, pain relief, spiritual insight — the healer's Discipline |
+| [Ogham](/reference/bloodlines/disciplines/#ogham) | Lhiannan | Territorial blood magic — curse-runes, grove consecration, spirit-site tapping |
 | [Sanguinus](/reference/bloodlines/disciplines/#sanguinus) | Blood Brothers | Hive-mind communication and shared physical capability |
+| [Spiritus](/reference/bloodlines/disciplines/#spiritus) | Ahrimanes | Spirit communion — summoning spirit beasts, animal aspect emulation |
 | [Temporis](/reference/bloodlines/disciplines/#temporis) | True Brujah | Actual time manipulation — slowing, stopping, reversing time locally |
 | [Thanatosis](/reference/bloodlines/disciplines/#thanatosis) | Samedi | Decay, disease, and death — rotting flesh, plague, and dissolution |
+| [Valeren](/reference/bloodlines/disciplines/#valeren) | Salubri antitribu | Warrior variant of Obeah — pain infliction, phantom armor, auto-hit strike |
 | [Visceratika](/reference/bloodlines/disciplines/#visceratika) | Gargoyles | Stone-skin, sense through stone, and merger with rock surfaces |

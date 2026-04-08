@@ -1,6 +1,6 @@
 ---
 title: "Bloodline Disciplines"
-description: "Unique Disciplines exclusive to V20 bloodlines — Daimoinon, Flight, Melpominee, Mytherceria, Obeah, Sanguinus, Temporis, Thanatosis, and Visceratika."
+description: "Unique Disciplines exclusive to V20 bloodlines — Assamite Sorcery, Bardo, Daimoinon, Flight, Melpominee, Mytherceria, Obeah, Ogham, Sanguinus, Spiritus, Temporis, Thanatosis, Valeren, and Visceratika."
 weight: 20
 ---
 
@@ -320,3 +320,201 @@ Communicate with stone and read the psychic history impressed into it — events
 - **●●●** Wall of Magma — Raise a magma wall 10 feet high for 2 turns/success
 - **●●●●** Heat Wave — Desiccating blast; 5 lethal + target loses 5 blood points
 - **●●●●●** Volcanic Blast — Erupt lava from the ground at any point in line of sight
+
+---
+
+## Assamite Sorcery
+
+*Mechanically identical to Thaumaturgy but drawn from diverse traditions (Kali/Shiva rites, feng shui, Islamic alchemy). Not cross-compatible with Tremere Thaumaturgy. XP costs to learn foreign blood magic paths and rituals are increased by 50% (round up). Foreign paths require 1 extra blood point; foreign rituals take triple time and 1 extra success.*
+
+**Equivalent paths:** Path of Blood, Lure of Flames, Movement of the Mind, Path of Conjuring, Hands of Destruction. Equivalent rituals: Defense of the Sacred Haven, Wake with Evening's Freshness, Communicate with Kindred Sire, Deflection of Wooden Doom, and others.
+
+### Awakening of the Steel
+
+*A unique Assamite path. Requires Melee or Crafts ≥ path level. Most effective with swords and knives; other edged weapons at +1 difficulty.*
+
+### ● Confer with the Blade
+Read psychometric impressions from a weapon's history.
+
+| Successes | Result |
+|-----------|--------|
+| 1 | Physical data: length, weight, composition, damage type |
+| 2 | Historical overview: when/where forged, significant events |
+| 3 | Sorcerous understanding: supernatural enhancements and their origins |
+| 4 | Subliminal synthesis: comprehensive history; recognize any blood that stained the blade for 7 nights |
+| 5 | Total communion: deep link; Storyteller determines what the sword reveals |
+
+### ●● Grasp of the Mountain
+For the rest of the scene, automatic successes equal to rolled successes resist all disarm attempts. Cannot accidentally drop the blade. If disarmed, may call it back by invoking the power again (requires line of sight).
+
+### ●●● Pierce Steel's Skin
+**Duration:** Turns equal to successes
+Attacks against armored foes do not roll damage; instead roll dice equal to sword's damage bonus (difficulty 7) — each success reduces the armor's soak bonus by 1. Armor reduced to 0 is destroyed. Fortitude counts as Stamina, not armor. Against unarmored targets, attacks deal half damage.
+
+### ●●●● Razor's Shield
+**Duration:** Turns equal to successes
+May parry projectiles (one action per projectile; must see the shot). Roll Dex + Melee: thrown objects diff 6, arrows/bolts diff 7, bullets diff 9 (requires Heightened Senses). Each success subtracts 1 from the attacker's roll. Cannot parry non-solid attacks (flame, lightning, spat blood).
+
+### ●●●●● Strike at the True Flesh
+**Duration:** Until the first successful attack
+The sword inflicts only base lethal damage, ignoring all weapon enhancements. All target's supernatural defenses including Fortitude are negated — target soaks only with base Stamina. Body armor still protects. Potence and Celerity still apply to the attacker.
+
+---
+
+## Bardo
+
+*The Discipline of the Children of Osiris — mystical consciousness through strict asceticism. The Child's Humanity must equal or exceed their highest Bardo level; if Humanity drops below it, that level is lost and must be repurchased. Children of Osiris cannot follow any moral code other than Humanity.*
+
+### ● Restore Humanitas
+Recover a recently lost Humanity dot without XP.
+**Requirements:** Must be used within one week of the loss; no further Humanity lost since. Meditate for hours, spending all blood points. **Pool:** Conscience (difficulty = level of Humanity being regained). Success restores the dot. Also repairs a Conscience dot lost to a botched degeneration roll. Derangements gained from that loss fade within a week.
+
+### ●● Banishing Sign of Thoth
+**Cost:** 1 blood point | **Pool:** Dexterity + Occult (difficulty 7)
+"Dodge" any incoming mystical attack or Discipline by gesture. Successes subtract from the attacker's roll. Does not affect magically enhanced physical attacks (Potence-boosted punch still lands).
+
+### ●●● Gift of Apis
+*Passive.* Animal blood is fully nourishing. An animal's blood pool equals its health levels rather than the usual reduced value.
+
+### ●●●● Pillar of Osiris
+**Cost:** 1 Willpower | **Pool:** Willpower (diff 5 for remote/peaceful site; diff 9 for violent urban location)
+Creates an invisible conceptual Pillar at a location. Any vampire with at least one Bardo dot receives –3 difficulty to Discipline or mystical activity at the Pillar. Must visit at least once per month to maintain. For every week away from any Pillar, frenzy difficulties increase by 1.
+
+### ●●●●● Paradox
+**Cost:** 1 Willpower | **Pool:** Manipulation + Occult (difficulty = listener's current Willpower; use highest if multiple targets)
+Success immobilizes listener(s) for the scene. Striking them breaks the effect. Afterward the target suffers a permanent +1 difficulty to harm or act against the Child of Osiris.
+
+### ●●●●● ● Boon of Anubis
+**Cost:** 1 Willpower | **Pool:** Humanity
+If a protected mortal is Embraced, she sleeps a day and awakens unharmed. Duration: months equal to successes. Spend permanent Willpower dot for permanent protection. Does not protect against other forms of death. Degeneration difficulty increases by 3 when harming someone under this protection.
+
+### ●●●●● ●● Bring Forth the Dawn
+**Cost:** 1 blood point per vampire affected | **Pool:** Manipulation + Occult vs. target's Humanity/Path (both diff 7, contested)
+Net successes: affected vampires fall asleep for hours equal to net successes. Setites and similar bloodlines suffer –2 to their pool.
+
+### ●●●●● ●●● Mummification
+**Pool:** Willpower vs. target's Willpower (both diff 8, contested)
+Target must be physically immobilized and ritually bound. If the Child wins, target enters indefinite torpor. Target may attempt escape once per century (Willpower diff 9). Ghouls can also be mummified with no escape chance.
+
+### ●●●●● ●●●● Ra's Blessing
+**Cost:** 10 blood points | **Pool:** Humanity (difficulty 9)
+Each success grants one hour in sunlight as if mortal. Failure or botch prevents another attempt for a decade. During each sunlit hour, roll Humanity or a Virtue (diff 9) — success raises that trait by 1.
+
+---
+
+## Ogham
+
+*Blood magic of the Lhiannan bloodline, powered by their spirit-shard. Difficulty increases by 1 when more than 50 miles from home territory.*
+
+### ● Consecrate the Grove
+**Cost:** 1–3 blood points (10 ft diameter per point, doubling: 10, 20, 40 ft) | **Pool:** Charisma + Survival (diff 6)
+Enemies in the area suffer –2 to all dice pools and must roll Stamina + Athletics or take 3 bashing dice of damage from animated flora. Lasts one scene. Botch turns the plants against the Lhiannan.
+
+### ●● Crimson Woad
+**Cost:** 1 blood point + 1 scene to trace | **Pool:** Intelligence + Occult (difficulty 7)
+Each success: ignore 1 die of wound penalties; –1 difficulty to avoid frenzy/Rotschreck. Lasts one scene; ruined if the character takes 4+ health levels of damage. Successes may also be added as bonus damage dice to a single close-combat attack (one-time use per application).
+
+### ●●● Inscribe the Curse
+**Cost:** 3 blood points
+Writes an enemy's name in blood on the Lhiannan's body. Activates when the victim sees his name written there. Target may resist with Wits + Occult (diff 8). Curse expires when the glyph is erased or the Lhiannan takes 4+ health levels.
+
+| Location | Effect |
+|----------|--------|
+| Body (arms/legs/belly) | +2 Physical roll difficulty; +1 wound penalties; Cainites cannot use blood except 1/day to remain active |
+| Mind (forehead) | Must spend 1 WP to attempt any Knowledge roll or use any Discipline (except Celerity/Fortitude/Potence) |
+| Voice (throat) | Loses the power of speech; can only grunt or moan |
+| Soul (sternum/heart) | Frenzy difficulties +2; non-vampires must flee unless they pass Courage diff 8 |
+
+### ●●●● Moon and Sun
+**Cost:** 3 blood points per sigil + 15 minutes to trace
+
+**Sun emblem:** Roll Stamina (diff 8) when taking fire or sunlight damage. Success converts damage to lethal (soakable normally).
+
+**Moon emblem:** +1 difficulty on Self-Control/Instincts frenzy rolls. Bonus dice by moon phase:
+
+| Phase | Bonus |
+|-------|-------|
+| New Moon | +1 die to Dexterity and Stealth pools |
+| Crescent Moon | +1 die to Wits and Occult pools |
+| Half Moon | +1 die to Perception and Subterfuge pools |
+| Gibbous Moon | +1 die to Charisma and Expression pools |
+| Full Moon | +1 die to Strength and Brawl pools |
+
+### ●●●●● Drink Dry the Earth
+**Pool:** Perception + Occult (diff 8) to locate a site; then spend 1 scene + 1 blood point marking sigils
+Second Perception + Occult roll (diff 7): each success (max = site's power rating) grants 2 dice to add to any pools except frenzy/Rotschreck for the scene. Total uses limited to 10 × site's power rating; exceeding this destroys the site permanently.
+
+### ●●●●● ● Inscribe the Forgotten Names
+**Cost:** 3 blood points + 30 minutes undisturbed | **Pool:** Intelligence + Occult (difficulty 9; 8 if summoned before)
+Success summons a powerful creature (Methuselah-tier) before scene's end. The Lhiannan can communicate with it but has no control.
+
+---
+
+## Spiritus
+
+*The Discipline of the Ahrimanes, opening a spiritual connection between the undead and the living world.*
+
+### ● Aid from Spirits
+**Cost:** 1 blood point | **Pool:** Manipulation + Occult (difficulty 6)
+Rouses an object's spirit to improve its function. Successes become bonus dice for the next roll using that object. Unused bonuses fade at end of scene. Multiple uses don't stack.
+
+### ●● Summon Spirit Beasts
+**Cost:** 1 blood point | **Pool:** Charisma + Animal Ken (difficulty 7)
+Summons a corporeal animal spirit native to the area. The spirit follows simple telepathic commands and is slightly smarter than a normal animal.
+
+| Successes | Duration |
+|-----------|----------|
+| 1 | One turn |
+| 2 | Five turns |
+| 3 | One hour |
+| 4 | One night |
+| 5 | One week |
+
+### ●●● Aspect of the Beast
+**Cost:** 1 blood point | **Pool:** Manipulation + Occult (difficulty 7) | **Duration:** 1 turn per success
+Emulates aspects of local animal spirits. Example aspects:
+- **Chameleon's Colors** — –2 difficulty on Stealth hiding rolls
+- **Ears of the Hare** — –2 difficulty on hearing-based Perception rolls
+- **Falcon's Eye** — –3 difficulty on vision-based Perception rolls
+- **Ferocity of the Cougar** — –2 difficulty on Courage rolls
+- **Leapfrog** — Triple normal jumping height and distance
+- **Nose of the Hound** — Track by scent (Perception + Survival)
+- **Serpent's Venom** — Bite inflicts 2 health levels per turn until nullified
+- **Strength of the Bear** — +2 Strength
+- **Swiftness of the Stag** — Double running speed
+
+### ●●●● Engling Fury
+**Pool:** Manipulation + Intimidation (difficulty 8)
+Consumes ambient spirits to restore Willpower, destroying them. Each success restores 1 Willpower point.
+
+### ●●●●● The Wild Beast
+**Cost:** 2 blood points (no roll needed)
+Transform into a feline predator form. +3 Strength, +2 Dexterity, +2 Stamina. Appearance drops to 0, Manipulation reduced by 3. Fangs inflict +1 damage die; grow aggravated-damage claws. Darkvision; –2 difficulty on scent, hearing, and vision rolls. Lasts hours per night equal to Willpower rating.
+
+---
+
+## Valeren
+
+*The warrior Discipline of the Salubri antitribu. A third eye appears in the center of the forehead when the second level is mastered. Compare with Obeah (the healer line's version).*
+
+### ● Sense Vitality
+Identical to [Obeah's Sense Vitality](#-sense-vitality-1) — touch a target to read their health, blood pool, and diseases.
+
+### ●● Anesthetic Touch
+Identical to [Obeah's Anesthetic Touch](#--anesthetic-touch) — block pain or induce restful sleep.
+
+### ●●● Burning Touch
+**Cost:** 1+ blood points
+Hands bring searing pain as if burned with red-hot metal. Must touch the subject. Each blood point spent reduces the victim's dice pools by 2 while contact is maintained. No actual damage unless blood is spent.
+
+### ●●●● Armor of Caine's Fury
+**Cost:** 1 blood point | **Pool:** Stamina + Melee (difficulty 7) | **Duration:** One scene
+Each success (max 5) grants 1 point of armor protection vs. bashing and lethal. For every 2 successes, gain +1 die to resist Rotschreck from battle (not fire or sunlight).
+
+### ●●●●● Vengeance of Samiel
+**Cost:** 3 blood points
+The attack automatically hits. Cannot be dodged (can be blocked, parried, soaked). Strikes as if the Salubri succeeded with his entire Dexterity + Melee or Brawl pool. Only usable once per turn as the Salubri's sole action. Does not work with ranged weapons.
+
+### ●●●●● ● Blissful Agony
+**Cost:** 1 blood point | **Pool:** Willpower (difficulty 8) | **Duration:** One scene (extend with subsequent WP rolls, no extra blood)
+Must touch subject initially. At the vampire's option, may inflict 1 health level of lethal damage per blood point spent (requires maintained touch). Vampires and supernatural creatures can soak; mortals cannot. Damage to vampires vanishes at next sunset; mortals heal normally. To force frenzy: damage must exceed the subject's Willpower, then the subject rolls Willpower (difficulty 6) or frenzies.

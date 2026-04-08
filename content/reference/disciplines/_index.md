@@ -41,3 +41,13 @@ To resist Presence or Dominate: spend 1 Willpower per scene. Vampires three or m
 | Ravnos | Animalism, Chimerstry, Fortitude |
 | Followers of Set | Obfuscate, Presence, Serpentis |
 | Giovanni | Dominate, Necromancy, Potence |
+
+## Combination Disciplines
+
+Combination Disciplines blend two or more Disciplines into a new power unique to a clan or lineage. They require meeting all prerequisite Discipline levels and paying their own XP cost separately.
+
+See **[Combination Disciplines](combination/)** for the full list organized by clan.
+
+## Bloodline Disciplines
+
+The ten V20 bloodlines have unique Disciplines unavailable to the main clans. See **[Bloodline Disciplines](../bloodlines/disciplines/)** for full coverage.
