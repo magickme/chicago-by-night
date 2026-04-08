@@ -36,4 +36,4 @@ Abbreviations used throughout: **Str** Strength, **Dex** Dexterity, **Sta** Stam
 | [Prestation & Boons](prestation/) | Boon economy — five boon types, calling debts, recording obligations |
 | [Ghouls](ghouls/) | Ghoul creation, Disciplines, Vinculum, Revenant families |
 | [Golconda](golconda/) | Prerequisites, the Suspire, mechanical benefits, losing the state |
-| [Thin-Blooded](/reference/character-creation/clans/thin-blooded/) | 14th–16th Generation mechanics, Dhampirs, Seer Merit, Blood Rot disease |
+| [Thin-Blooded](/reference/character-creation/thin-blooded/) | 14th–16th Generation mechanics, Dhampirs, Seer Merit, Blood Rot disease |

@@ -64,7 +64,7 @@ The complete rules system. Follows V20's Systems and Drama chapter order:
 | [Derangements](/reference/v20/derangements/) | 14 derangements with mechanical effects |
 | [Ghouls](/reference/v20/ghouls/) | Ghoul creation, Disciplines, aging, Revenant families, True Faith |
 | [Golconda](/reference/v20/golconda/) | Prerequisites, the Suspire, mechanical benefits |
-| [Thin-Blooded](/reference/character-creation/clans/thin-blooded/) | 14th–16th Generation, Dhampirs, Seer Merit, Blood Rot |
+| [Thin-Blooded](/reference/character-creation/thin-blooded/) | 14th–16th Generation, Dhampirs, Seer Merit, Blood Rot |
 
 ### [Solo Engine](/reference/solo-engine/)
 
