@@ -21,7 +21,10 @@ Abbreviations used throughout: **Str** Strength, **Dex** Dexterity, **Sta** Stam
 | [Blood Economy](blood-economy/) | Nightly blood cost, spending blood, vessel yields, feeding, Self-Control cap |
 | [Generation](generation/) | Generation chart, blood pool maximums, trait caps, social standing, Dominate ceiling |
 | [Frenzy & Rotschreck](frenzy/) | Trigger tables, resistance, riding the wave, Wassail, hunger frenzy |
-| [Combat](combat/) | Full combat — initiative, maneuvers, weapons, armor, cover, special situations |
+| [Combat](combat/) | Three-stage combat system — initiative, attack, damage, multiple actions |
+| [Combat Maneuvers](combat/maneuvers/) | Close combat, defensive, and ranged maneuvers — full tables |
+| [Weapons & Armor](combat/weapons-armor/) | Melee/ranged weapon stats, cover, armor classes, targeting |
+| [Special Situations](combat/special-situations/) | Ambush, blind fighting, flanking, dazed, knockdown, immobilization |
 | [Health & Healing](health/) | Health levels, damage types, vampire healing, torpor, fire/sunlight tables |
 | [Hunting & Feeding](hunting/) | Hunting methods, area difficulties, vessel types, the Kiss, Herd background |
 | [Humanity & Degeneration](humanity/) | Hierarchy of Sin, degeneration rolls, Humanity loss and recovery |
