@@ -79,3 +79,5 @@ The Appearance 0 weakness reads as pure penalty, but Nosferatu who embrace their
 **Putrescent (4pt. Flaw)** — Your body rots rather than remaining preserved. All soak roll dice pools are reduced by 1. Sufficient damage may cause body parts to fall off (Stamina roll difficulty 6 to avoid; botch = aggravated damage). Lost parts can regrow, but the decay continues.
 
 **Contagious (5pt. Flaw)** — Your body is filled with noxious bacteria and fungi. Any mortal you touch or feed from must roll Stamina (difficulty 9) or fall ill with a debilitating fever. The illness persists weekly until they succeed; failure causes 1 point of Stamina loss per month until they reach 0 Stamina (death). Supernatural creatures can generally heal or resist this. Vampires are immune.
+
+**Incoherent (5pt. Flaw)** — Human speech is physically impossible for you — your mouth is too misshapen, or decades underground have stripped the habit. You understand language normally but cannot produce it. Telepathy (Auspex) functions normally; Animalism communication with animals is unimpaired. Verbal interaction with anyone using spoken language is closed to you.

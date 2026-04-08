@@ -31,3 +31,11 @@ The Ventrue organize themselves through bloodlines and lineages, tracking their 
 The Ventrue weakness shapes their hunting: they must identify and cultivate their specific prey type, maintain access to them, and cannot simply grab whoever is available. This creates elaborate feeding protocols — private clubs, personal networks, maintained relationships with specific communities.
 
 Politically, Ventrue are the patient players. They think in decades. The social slight they absorbed tonight may be repaid twenty years from now, compounded.
+
+## Merits & Flaws
+
+**Connoisseur (2pt. Merit; requires Auspex 2)** — Tasting another's blood (at the risk of blood bond) allows you to roll Perception + Empathy (difficulty 6 for mortals, 8 for Kindred). From mortal blood: learn Nature, Demeanor, Derangements, whether blood-bonded, and blood-borne diseases (one per success). From vampire blood: as above plus everything discernible with A Taste for Blood (V20 p. 213). You may taste blood outside your feeding restriction to use this power, but must spit it out immediately after.
+
+**Blessed by St. Gustav (4pt. Merit; Ventrue antitribu only)** — Through the ignobilis ritus Prayer to St. Gustav, your affinity for Presence has been replaced with an aptitude for Auspex. Auspex is now an in-clan Discipline for you. If you have already purchased Presence dots, those become out-of-clan and you must pay the experience point difference.
+
+**Uncommon Vitae Preference (2pt. Flaw)** — Your feeding restriction is even more rarified than the normal Ventrue limitation — e.g., "only Korean War veterans," "only federal judges," "only virgins over 40." All hunting rolls are at +2 difficulty (maximum difficulty 9).

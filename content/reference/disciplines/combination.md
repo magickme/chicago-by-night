@@ -28,10 +28,10 @@ Combination Disciplines are unique powers that emerge from mastering multiple Di
 
 | Power | Prerequisites | XP | Effect |
 |-------|--------------|-----|--------|
-| **Burning Wrath** | Celerity 2, Potence 2 | 18 | Brawl attacks augmented this scene inflict aggravated damage |
+| **Burning Wrath** | Celerity 3, Potence 3 | 18 | Costs 1 BP; lasts one scene; Brawl attacks augmented this scene inflict aggravated damage |
 | **Command the Wary Beast** | Animalism 2, Presence 3 | 15 | Hostile animals flee; enemy-controlled animals +3 difficulty to control; allied animals –2 |
-| **Esprit de Corps** | Potence 2, Presence 2 | 24 | Allies resist intimidation (+2 diff); grant up to 3 Potence dots to crowd-sized groups |
-| **Iron Heart** | Potence 2, Presence 3 | 18 | Passive: +2 diff on all supernatural manipulation against you; spend WP to extend to one ally |
+| **Esprit de Corps** | Potence 4, Presence 4 | 24 | Allies resist intimidation (+2 diff); grant up to 3 Potence dots to crowd-sized groups |
+| **Iron Heart** | Potence 3, Presence 3 | 18 | Passive: +2 diff on all supernatural manipulation against you; spend WP to extend to one ally |
 | **Leaps and Bounds** | Celerity 2, Potence 2 | 12 | Multiply all jumping distances by the lesser of Celerity or Potence |
 | **Pulse of Undeath** | Auspex 1, Potence 1 | 6 | Perceive which physical Disciplines a target has and their approximate level |
 | **Reluctant Performance Artist** | Dominate 2, Presence 3 | 18 | Mesmerized mortal performer; audience powerless to leave unless endangered |
@@ -162,6 +162,7 @@ Combination Disciplines are unique powers that emerge from mastering multiple Di
 | **Flaying Touch** | Potence 2, Vicissitude 2 | 12 | Tear skin from flesh; lethal damage soakable at diff 8; mortals bleed until treated |
 | **Soul Decoration** | Auspex 2, Obfuscate 3 | 21 | Needle/shock ritual paints a false aura for 1 night/success; falsifies diablerie, nature, condition |
 | **The False Drink** | Auspex 1, Vicissitude 4 | 18 | Divert blood to internal cavity instead of absorbing; avoid bond or Vinculum |
+| **Wound Sculpting** | Fortitude 3, Vicissitude 2 | 15 | Spend 1 BP and roll Wits + Medicine (diff 8); each success heals 1 lethal or bashing level with 1 minute of uninterrupted work per wound |
 
 ---
 

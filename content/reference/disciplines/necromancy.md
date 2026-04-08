@@ -134,3 +134,10 @@ Giovanni Necromancy includes rituals (parallel to Thaumaturgy Rituals) that must
 
 **Ritual Level 5:**
 - *The Tempesta* — The Giovanni's ultimate ritual weapon: raise an army of the dead from a cemetery or mass grave
+- *The Ferryman's Recall* — Embrace a subject who has already died. Requires the intact corpse, a fetter of the deceased, and (if the caster was not the original domitor) a blood point of the domitor's vitae. Subject must have been a ghoul before death. Process takes 8 hours minus 1 per success. Maximum post-death window depends on Embracer's Generation (13th gen: 12 hours; down to 6th gen: 2 weeks). All pre-death wounds scar permanently; the newly Embraced acquires the Mortuario Merit automatically.
+
+---
+
+## Expanded Rituals (V20 Lore of the Clans)
+
+**Death's Communion (Level 1)** — A Black Mass parody of Catholic communion. The caster (or a designated subject) gains +2 dice to all Necromancy rolls for one night per success on the casting roll. Takes one hour to complete. Caster suffers +1 difficulty if she is also the beneficiary.

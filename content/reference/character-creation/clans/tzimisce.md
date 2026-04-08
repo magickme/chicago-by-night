@@ -40,7 +40,11 @@ Vicissitude as expression of identity: Tzimisce who reshape others are making ar
 
 **Bioluminescence (1pt. Merit)** — Through Vicissitude or a biological quirk, you can grant yourself (via Malleable Visage) or others (via Fleshcraft) the ability to emit a controlled soft glow. Color and pattern can be varied with concentration. Requires at least Vicissitude ●.
 
-**Pain Tolerance (2pt. Merit)** — You shrug off pain through conditioned nerves or Vicissitude modification. You may use the first three levels of Vicissitude on yourself without the usual focus; these activations occur without conscious sculpting. Requires at least Vicissitude ●.
+**Pain Tolerance (2pt. Merit)** — You shrug off pain through conditioned nerves or Vicissitude modification. Wound penalties from injury are reduced or delayed; discuss the specific degree with the Storyteller.
+
+**Dracon's Temperament (3pt. Merit)** — Your psyche shifts fluidly through different Natures without losing your core identity. At the start of each story, choose one Personality Archetype to function as your Nature for that story. You regain Willpower according to the chosen Nature and may be affected by powers as per that Nature.
+
+**Haven Affinity (3pt. Merit)** — You are deeply bonded to the earth of your prime haven. Add 1 die to all dice pools when operating there. You can home in on it with Perception + Survival (difficulty 6, +1 per state/country of separation, +2 if halfway across the globe).
 
 **Revenant Disciplines (3pt. Merit)** — Your revenant family bloodline runs deeper than the Embrace. Select a revenant family at character creation (V20 pp. 503–506). You use that family's three Disciplines as your starting in-Clan set rather than the Tzimisce standard (Animalism, Auspex, Vicissitude). XP costs for those three Disciplines are in-Clan rates.
 
