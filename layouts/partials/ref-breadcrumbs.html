@@ -1,23 +1,24 @@
-{{/* Breadcrumbs for reference pages.
-     Outputs: Home / Reference [/ Section] [/ Page]
-     Skips Home and Reference when already at /reference/. */}}
+{{/* Breadcrumbs — handles up to 3 levels deep below /reference/.
+     Walks .Parent chain; stops at /reference/ and /. */}}
 {{ if ne .RelPermalink "/reference/" }}
 <nav class="ref-breadcrumbs" aria-label="Breadcrumb">
   <ol>
     <li><a href="/">Home</a></li>
     <li><a href="/reference/">Reference</a></li>
-    {{ if .IsSection }}
-      {{/* Section landing: Home / Reference / Section */}}
-      <li aria-current="page">{{ .Title }}</li>
-    {{ else }}
-      {{/* Regular page: Home / Reference / Section / Page */}}
-      {{ with .Parent }}
-        {{ if ne .RelPermalink "/reference/" }}
-          <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
-        {{ end }}
-      {{ end }}
-      <li aria-current="page">{{ .Title }}</li>
-    {{ end }}
+    {{ $p  := .Parent }}
+    {{ $gp := "" }}{{ with $p }}{{ if .Parent }}{{ $gp = .Parent }}{{ end }}{{ end }}
+    {{ $ggp := "" }}{{ with $gp }}{{ if .Parent }}{{ $ggp = .Parent }}{{ end }}{{ end }}
+    {{/* Output ancestors from outermost inward, skipping / and /reference/ */}}
+    {{ with $ggp }}{{ if and (ne .RelPermalink "/") (ne .RelPermalink "/reference/") }}
+      <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+    {{ end }}{{ end }}
+    {{ with $gp }}{{ if and (ne .RelPermalink "/") (ne .RelPermalink "/reference/") }}
+      <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+    {{ end }}{{ end }}
+    {{ with $p }}{{ if and (ne .RelPermalink "/") (ne .RelPermalink "/reference/") }}
+      <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+    {{ end }}{{ end }}
+    <li aria-current="page">{{ .Title }}</li>
   </ol>
 </nav>
 {{ end }}

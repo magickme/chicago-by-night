@@ -173,6 +173,56 @@
   font-weight: 500;
 }
 
+/* Level 2 sub-section (e.g. Clans, Combat) within a top-level section */
+.ref-nav-subsection {
+  list-style: none;
+}
+
+.ref-nav-sub-title {
+  display: block;
+  padding: 0.22rem 0.5rem;
+  margin: 0.35rem -0.25rem 0.1rem;
+  font-family: var(--ref-font-ui);
+  font-size: 0.78rem;
+  font-weight: 600;
+  letter-spacing: 0.05em;
+  color: rgba(201,209,217,0.55);
+  text-transform: uppercase;
+  border-radius: 4px;
+  transition: color 0.13s;
+}
+.ref-nav-sub-title:hover { color: rgba(201,209,217,0.85); }
+.ref-nav-sub-title.is-active { color: rgba(201,209,217,0.90); }
+
+/* Level 3 pages within a sub-section */
+.ref-nav-sub-items {
+  list-style: none;
+  margin: 0;
+  padding: 0 0 0.2rem 0.75rem;
+  border-left: 1px solid rgba(255,255,255,0.07);
+}
+
+.ref-nav-sub-items li a {
+  display: block;
+  padding: 0.18rem 0.4rem;
+  margin: 0 -0.25rem;
+  font-family: var(--ref-font-ui);
+  font-size: 0.81rem;
+  color: rgba(201,209,217,0.60);
+  border-radius: 4px;
+  transition: color 0.13s, background 0.13s;
+  line-height: 1.4;
+}
+.ref-nav-sub-items li a:hover {
+  color: var(--ref-active-text);
+  background: var(--ref-active-bg);
+}
+.ref-nav-sub-items li a.is-active {
+  color: var(--ref-active-text);
+  background: rgba(255,255,255,0.09);
+  font-weight: 500;
+}
+
 .ref-nav-footer {
   margin-top: auto;
   padding-top: 1.5rem;

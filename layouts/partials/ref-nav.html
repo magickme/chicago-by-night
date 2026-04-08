@@ -3,19 +3,22 @@
   <a href="/" class="ref-nav-back">← Chicago Chronicles</a>
   <a href="/reference/" class="ref-nav-brand">Reference</a>
 
-  {{/* Section tree */}}
+  {{/* Section tree — 3 levels: section → (pages + sub-sections) → sub-section pages */}}
   <nav aria-label="Reference sections">
     {{ $ref := .Site.GetPage "/reference" }}
     {{ if $ref }}
-      {{/* Root-level pages (Overview, etc.) before sections */}}
-      {{ range $ref.Pages.ByWeight }}
+
+      {{/* Level 0: root-level pages (Overview, etc.) */}}
+      {{ range $ref.RegularPages.ByWeight }}
         <a href="{{ .RelPermalink }}"
            class="ref-nav-root-page{{ if eq $.RelPermalink .RelPermalink }} is-active{{ end }}"
            {{- if eq $.RelPermalink .RelPermalink }} aria-current="page"{{ end }}>
           {{- .Title -}}
         </a>
       {{ end }}
-      {{ range $ref.Sections }}
+
+      {{/* Level 1: top-level sections (Society, Character Creation, Disciplines, V20, Solo Engine) */}}
+      {{ range $ref.Sections.ByWeight }}
         {{ $sectionActive := hasPrefix $.RelPermalink .RelPermalink }}
         <div class="ref-nav-group{{ if $sectionActive }} is-open{{ end }}">
           <a href="{{ .RelPermalink }}"
@@ -23,14 +26,44 @@
             {{- .Title -}}
           </a>
           <ul class="ref-nav-items">
-            {{ range .Pages }}
-              <li>
-                <a href="{{ .RelPermalink }}"
-                   {{- if eq $.RelPermalink .RelPermalink }} class="is-active" aria-current="page"{{ end }}>
-                  {{- .Title -}}
-                </a>
-              </li>
+
+            {{/* Level 2: pages and sub-sections, interleaved by weight */}}
+            {{ range .Pages.ByWeight }}
+              {{ if .IsSection }}
+
+                {{/* Level 2 sub-section (e.g. Clans, Bloodlines, Combat) */}}
+                {{ $subActive := hasPrefix $.RelPermalink .RelPermalink }}
+                <li class="ref-nav-subsection{{ if $subActive }} is-open{{ end }}">
+                  <a href="{{ .RelPermalink }}"
+                     class="ref-nav-sub-title{{ if $subActive }} is-active{{ end }}">
+                    {{- .Title -}}
+                  </a>
+                  {{/* Level 3: pages within sub-section */}}
+                  <ul class="ref-nav-sub-items">
+                    {{ range .RegularPages.ByWeight }}
+                      <li>
+                        <a href="{{ .RelPermalink }}"
+                           {{- if eq $.RelPermalink .RelPermalink }} class="is-active" aria-current="page"{{ end }}>
+                          {{- .Title -}}
+                        </a>
+                      </li>
+                    {{ end }}
+                  </ul>
+                </li>
+
+              {{ else }}
+
+                {{/* Level 2 regular page */}}
+                <li>
+                  <a href="{{ .RelPermalink }}"
+                     {{- if eq $.RelPermalink .RelPermalink }} class="is-active" aria-current="page"{{ end }}>
+                    {{- .Title -}}
+                  </a>
+                </li>
+
+              {{ end }}
             {{ end }}
+
           </ul>
         </div>
       {{ end }}
