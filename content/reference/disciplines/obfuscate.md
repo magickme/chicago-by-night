@@ -100,3 +100,24 @@ Successes determine complexity: 1 = only minor deception (appearing to listen wh
 The vampire appears to be standing slightly to one side of their actual location. This is harder to account for than full invisibility — the eye registers a target but the hit always lands where the target is not.
 
 While active, anyone attempting to hit or touch the vampire suffers a dice penalty equal to the caster's Obfuscate rating. After a few misses, the attacker may roll Perception + Awareness (difficulty = Obfuscate rating + 4, maximum 9) to notice the displacement; each success reduces the penalty by one. The attacker's Auspex rating also reduces the penalty, but the minimum penalty is always 1.
+
+### Scrawl (●●●●● ●)
+**Cost:** None | **Pool:** No roll required to write | **Duration:** Permanent
+
+*Malkavian elder power.*
+
+Write messages as apparent gibberish that only other Malkavians with this power can decode. No one outside the clan recognizes the hidden meaning. Writing to a specific clanmate requires the writer to know the target, their sire, or their progeny; otherwise any Malkavian with this power can read it.
+
+### Confusion of the Eye (●●●●● ●)
+**Cost:** 1 Willpower | **Pool:** Willpower roll, difficulty = target's current Willpower | **Duration:** Up to 24 hours
+
+*Followers of Set elder power.*
+
+Extend Mask of a Thousand Faces to one other person rather than to the caster. The victim perceives one specific person of the vampire's choosing as someone else entirely — a mortal janitor instead of the Archbishop, a feared rival as a trusted ally. The victim unconsciously rationalizes inconsistencies. If the "masked" person tries to prove their real identity, both make contested rolls (Charisma + Subterfuge vs Willpower, difficulty 7); the victim must win to be convinced.
+
+### Mental Maze (●●●●● •)
+**Cost:** 1 Willpower (for supernatural targets); 1 Willpower (for a single room) | **Pool:** Charisma + Intimidation vs target's current Willpower | **Duration:** Scene (or full day for very large areas)
+
+*Followers of Set elder power.*
+
+Remove the victim's sense of direction, binding them to an area of the vampire's choosing. The house folds back on itself; all exits loop back inside. Each success affects one additional victim. Normally used in a multi-room structure or an equivalently sized outside area. Applied to an entire city block or office tower: –1 difficulty, duration extends to a full day. Applied to a single room: costs an additional Willpower. Supernatural targets (vampires, werewolves, mages, ghouls) require an extra Willpower expenditure.

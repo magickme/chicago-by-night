@@ -77,6 +77,15 @@ Reflect the target's derangements back at them with amplified intensity. If the 
 
 Reshape a target's personality at the core level — alter their Nature archetype. The new Nature still reflects something latent in the target, but what drives them shifts fundamentally. This is not considered manipulation by most Malkavians — it's surgery. The target generally does not notice the change; they simply begin acting differently without understanding why.
 
+### Babble (●●●●● ●)
+**Cost:** None | **Pool:** Automatic | **Duration:** Sustained
+
+*Malkavian elder power. Can be taken as Dementation 6 or Auspex 6.*
+
+Link multiple minds into a shared telepathic conference. All linked participants communicate by speaking aloud — what they say is heard directly by all others in the link, at the actual ambient sound level of the speaker's location (a whisper in a library travels as a whisper; a shout on a dance floor travels as a shout to everyone in the link).
+
+The vampire may link a number of targets equal to their permanent Willpower. Malkavians may extend this to Willpower + Empathy if all subjects possess at least one derangement and do not resist. Malkavians with the Time Specialty may use Awareness instead of the default Telepathy skill.
+
 ### Speak with Malkav (●●●●● ●●)
 **Cost:** 2 Willpower | **Pool:** Manipulation + Occult, difficulty 8 | **Duration:** Scene
 

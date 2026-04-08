@@ -79,3 +79,20 @@ The vampire can spend Willpower to completely ignore wound penalties for one tur
 **Cost:** 1 Willpower | **Pool:** Stamina + Fortitude, difficulty 8 | **Duration:** Scene
 
 Extend Fortitude soak against fire and sunlight to soak the damage completely on a success — not just reduce it. Each success on the activation roll adds 2 additional soak dice against fire and sunlight only for the remainder of the scene.
+
+### Curse the Laurel (●●●●● ●)
+**Cost:** 1 Willpower | **Pool:** Stamina + Survival, difficulty 9 | **Duration:** Variable by successes (see table)
+
+*Ventrue elder power.*
+
+A Ventrue who has been successfully staked can slowly restructure her heart around the offending stake, causing it to cease paralyzing her.
+
+The number of successes determines how quickly the stake is neutralized. Each use of this power affects a single stake. A failed roll allows another attempt by spending another Willpower, but successes cannot be accumulated across rolls — only the roll with the most successes applies. On a botch, the vampire cannot attempt to neutralize this stake again.
+
+Once neutralized, the stake no longer paralyzes the vampire but remains lodged in the flesh. Removing it causes 2 Health Levels of aggravated damage.
+
+| Successes | Time until stake is neutralized |
+|-----------|--------------------------------|
+| 1 | One month |
+| 2 | One week |
+| 3 | Immediate |

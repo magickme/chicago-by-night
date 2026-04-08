@@ -94,6 +94,30 @@ If the silver cord is severed (attacked and damaged while projecting), the vampi
 
 ---
 
+## Elder Powers
+
+### Sibyl's Tongue (●●●●● ●)
+**Cost:** None | **Pool:** Wits + Investigation, difficulty 8 | **Duration:** Instant
+
+*Malkavian elder power.*
+
+Draw an answer from the gestalt-mind of the Malkavian clan — if any Malkavian anywhere knows something, the elder may be able to retrieve it.
+
+The vampire spends a turn focusing on the collective madness, then rolls. On success, each additional success adds clarity to the returned answer. If a Malkavian somewhere knows the answer, it comes back.
+
+**Failure:** The collective madness overwhelms the vampire. Two derangements (Storyteller's choice) immediately for the rest of the scene. **Botch:** One of those derangements becomes permanent (removable only through normal derangement-removal process, not the Malkavian clan weakness process). For particularly dangerous questions, the Storyteller may impose temporary derangements even on success.
+
+### Babble (●●●●● ●)
+**Cost:** None | **Pool:** Automatic | **Duration:** Sustained
+
+*Malkavian elder power. Can be taken as Auspex 6 or Dementation 6.*
+
+Link multiple minds into a shared telepathic conference. All linked participants communicate by speaking aloud — what they say is heard directly by all others in the link, at the actual ambient sound level of the speaker's location (a whisper in a library travels as a whisper; a shout on a dance floor travels as a shout to everyone in the link).
+
+The vampire may link a number of targets equal to their permanent Willpower. Malkavians may extend this to Willpower + Empathy if all subjects possess at least one derangement and do not resist. Malkavians with the Time Specialty may use Awareness instead of the default Telepathy skill.
+
+---
+
 ## Seeing the Unseen
 
 Auspex passively makes a vampire more likely to pierce supernatural concealment even when not actively looking. The Storyteller may secretly roll Perception + Auspex when a hidden or illusory threat is present.

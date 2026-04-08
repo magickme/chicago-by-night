@@ -90,3 +90,39 @@ Project a shadow duplicate of the vampire — an independent shadow-image that c
 **Cost:** 1 Willpower + 2 Blood Points | **Pool:** Manipulation + Occult vs target's Willpower | **Duration:** Until released
 
 Trap a target inside the Abyss. The target is physically removed from the material world — imprisoned in a pocket of darkness outside normal space. They cannot be located by any means while trapped. They experience only darkness and whatever the Abyss chooses to show them. The Lasombra can release the target at will. Time inside the Abyss is disorienting; targets emerge with significant derangements.
+
+### Shadow Perspective (●●●●● ●)
+**Cost:** 1 Blood Point per sense transferred | **Pool:** Automatic (Perception + Awareness difficulty 9 for unseen locations) | **Duration:** Sustained
+
+*Lasombra elder power.*
+
+Shift any or all of the vampire's senses from the shadow they are standing in to another shadow within line of sight. All five senses can be transferred independently. Shifting all senses makes it as if the vampire is standing in the remote shadow, but leaves their own body unaware of attacks against it.
+
+The vampire must be standing in shadow for the power to work, and there must be shadow at the destination. Attempting to shift perception to a known but unseen location requires a Perception + Awareness roll (difficulty 9); if there is no shadow there, the power fails but the blood is still spent. Only line-of-sight effects available from the remote location may be used while perceiving there.
+
+### Shadow Lair (●●●●● ●●)
+**Cost:** 1 Blood Point per hour | **Pool:** As Shadowstep (Dexterity + Occult for different-shadow exit) | **Duration:** Variable
+
+*Lasombra elder power.*
+
+An advancement of Shadowstep that allows the vampire to pause mid-step in the void between shadows for up to an hour per blood spent. While in the void, the vampire is completely cut off from the outside world and cannot perceive it. At the end of each hour, she may spend another blood point to remain or return. Returning to the entry point requires no roll; exiting to a different shadow uses the Shadowstep roll.
+
+Others may be brought into the void by keeping physical contact; if contact is broken, they are lost in shadow permanently. Passengers do not spend blood points.
+
+### Shadow Watchtower (●●●●● ●●●)
+**Cost:** 3 Blood Points | **Pool:** Automatic | **Duration:** Sustained (while in shadow)
+
+*Lasombra elder power.*
+
+An advanced form of Tenebrous Form. The vampire merges completely with the shadow she is standing in, dissolving visually into it. She cannot be detected as anything other than an indistinct corner shadow. While merged:
+- Takes no damage from any source except sunlight (still aggravated)
+- Can perceive everything in the area as if standing there normally
+- Can shift to any other connected shadow
+- If no shadow is available to maintain the merge or move to, she returns to physical form immediately
+
+### Immovable Object (●●●●● ●●)
+**Cost:** 1 Willpower | **Pool:** Automatic | **Duration:** Until the vampire moves or the surface is destroyed
+
+*Lasombra elder power.*
+
+While standing on solid ground, the vampire becomes literally immovable by force of will alone. No physical strength, telekinesis, or collision can shift her from her position. A truck hits her and she does not move (she still takes the damage). The only way to move her is to destroy the surface she is standing on — removing the ground leaves her standing at the bottom of a crater.

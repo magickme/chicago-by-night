@@ -115,3 +115,46 @@ Use any Dominate power on a familiar subject at any range — across the city, a
 **Cost:** 1 permanent Willpower | **Pool:** Manipulation + Leadership vs (4 + Generations of remove from target) | **Duration:** 1 decade per success
 
 Exert broad control over all vampiric descendants — not commands but inclinations, loyalties, tendencies. The effect unfolds over decades. Can be used while in torpor. The most ancient Methuselahs may hold entire bloodlines through this power without anyone in those bloodlines knowing why they feel compelled to act as they do.
+
+### Fealty (●●●●● ●)
+**Cost:** None | **Pool:** Charisma + Politics, difficulty = oath-giver's current Willpower | **Duration:** Variable by successes (see table)
+
+*Ventrue elder power.*
+
+Sanctify an oath or promise freely given — the oath-giver becomes incapable of breaking it without cost. This power does not function if the target was compelled to give the oath, but it works on oaths given under false pretenses.
+
+While the effect lasts, the oath-giver must spend 1 Willpower before each action that violates the promise, and suffers 1 Health Level of bashing damage during each scene they are conscious and not actively working to fulfill it. Once the promised action is completed, the duration ends.
+
+| Successes | Duration |
+|-----------|----------|
+| 1 | One day |
+| 2 | One week |
+| 3 | One month |
+| 4 | One year |
+| 5 | Ten years |
+
+### Implanted Opinion (●●●●● ●)
+**Cost:** None | **Pool:** Charisma + Leadership vs target's current Willpower | **Duration:** Permanent (very difficult to remove)
+
+*Lasombra elder power.*
+
+Instill a new belief, opinion, or personality trait the victim accepts as their own. They may be told they love modern art, hate their neighbors, have new political convictions, or have developed bigotry — or been cured of it. Unlike Conditioning, the vampire needs no ongoing contact and uses the subject as an agent without explaining their plans.
+
+The Storyteller may require additional successes depending on how contrary the new opinion is to the subject's original beliefs. Once instilled, the opinion is very resistant to removal — only prolonged exposure to an environment conducive to the old belief, combined with Willpower rolls, can erode it over time.
+
+### Memory Block (●●●●● ●)
+**Cost:** None | **Pool:** Wits + Subterfuge vs target's current Willpower | **Duration:** Variable by successes (see table)
+
+*Lasombra elder power.*
+
+A variant of The Forgetful Mind that prevents a dominated subject from revealing specific information without erasing it. The target unconsciously evades questions on the blocked subject, not even noticing they are doing so. Under direct pressure, they discover they cannot say or write the blocked information. The information remains intact and accessible to the vampire.
+
+Another vampire can unlock the memory with Dominate (Wits + Empathy roll). The subject may roll Willpower (difficulty = original vampire's Dominate rating) when directly asked about the blocked memory.
+
+| Successes | Duration |
+|-----------|----------|
+| 1 | One hour |
+| 2 | One day |
+| 3 | One week |
+| 4 | One month |
+| 5 | One year |

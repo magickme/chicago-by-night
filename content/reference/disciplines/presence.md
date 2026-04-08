@@ -96,3 +96,33 @@ The inverse of Spark of Rage — generate artificial camaraderie and solidarity 
 **Cost:** 1 Willpower | **Pool:** Charisma + Streetwise, difficulty 9 (lower for familiar cities) | **Duration:** Variable by successes
 
 Control the emotional climate of an entire city — the ambient mood of its mortal population. 1 success = 1 minute, 2 = 10 minutes, 3 = 1 hour, 4 = 1 day, 5 = 1 week. Can be used while in torpor. This is how old Methuselahs shape the cities above their sleep.
+
+### Star Magnetism (●●●●● ●)
+**Cost:** None | **Pool:** Automatic | **Duration:** Permanent (passive)
+
+*Toreador elder power.*
+
+The vampire's Presence carries over into recorded images — photographs, video (analog or digital), film, and even accurate paintings or drawings. The effect resembles Awe; anyone viewing an image of the vampire may spend a Willpower point to resist until the next time they see it. The vampire can consciously suppress this power, but it otherwise activates automatically whenever a camera or recording device turns toward them.
+
+### Temptation (●●●●● ●)
+**Cost:** None | **Pool:** Manipulation + Leadership vs target's Humanity or Path rating | **Duration:** Scene (or indefinite on strong success)
+
+*Followers of Set elder power.*
+
+The Setite tempts the victim into actions they would not ordinarily take — not necessarily sinful ones; the power works equally well to provoke unwanted generosity or uncharacteristic chastity. The vampire must talk to the victim for at least a minute and allude to the desired action. A simple success changes the victim's personality and goals for a scene. If successes exceed the target's Conscience or Conviction rating, the change lasts indefinitely (like a Derangement). At the time of learning, choose a variation: **Obsession** (overpowering lust for a substance or condition; frenzy check if denied before next sleep) or **True Will** (the victim acts on every passing desire or their Nature without restraint).
+
+### Phobia (●●●●● ●●)
+**Cost:** None | **Pool:** Manipulation + Intimidation vs (target's Courage + 3) | **Duration:** Scene (or indefinite on strong success)
+
+*Followers of Set elder power.*
+
+The Setite instills an irrational fear of a specific object, substance, person, or condition. The object of fear can be broad (cars) or specific (pink 1979 Fords), provided the victim can recognize and distinguish it. A single success = phobia that lasts one scene. Successes exceeding the target's Courage rating = phobia that lasts indefinitely, removable like a Derangement. Cannot be used to implant a fear of something the target cannot distinguish.
+
+### The Decaying Orbit (●●●●● ●●●)
+**Cost:** None | **Pool:** Extended Manipulation + Empathy vs target's Humanity or Path (net successes equal to target's Humanity/Path rating) | **Duration:** Permanent (cannot be ended by Willpower)
+
+*Followers of Set elder power.*
+
+The Setite breaks down the mental barrier between the target's Beast and their libido, linking pleasure and rage in a death spiral. The victim becomes addicted to sadism — anything pleasurable triggers a frenzy check; the frenzying vampire may seek pleasure in the midst of blood rage. The spiral is self-reinforcing and cannot be stopped by Willpower.
+
+**Removing the Corruption:** Only death of the responsible Setite, certain lost esoteric knowledge (Cult of Ra, Inconnu, writings of the Children of Osiris), or the Setite's voluntary removal can end it. A character with Humanity above 3 automatically loses 1 Humanity for applying this power.

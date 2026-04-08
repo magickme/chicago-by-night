@@ -76,11 +76,11 @@ Combination Disciplines are unique powers that emerge from mastering multiple Di
 
 | Power | Prerequisites | XP | Effect |
 |-------|--------------|-----|--------|
-| **Armor of the Abyss** | Obtenebration 2, Fortitude 2 | 18 | Shadow armor = Fortitude rating; no encumbrance; lasts 3 rounds/success |
-| **Empower Minion** | Dominate 2, Potence 2 | 18 | Grant Dominated thralls up to 3 Potence (costs 1 BP/dot/thrall) |
+| **Armor of the Abyss** | Obtenebration 3, Fortitude 3 | 18 | Shadow armor = Fortitude rating; no encumbrance; lasts 3 rounds/success |
+| **Empower Minion** | Dominate 3, Potence 3 | 18 | Grant Dominated thralls up to 3 Potence (costs 1 BP/dot/thrall) |
 | **Fear of the Dark** | Presence 1, Obtenebration 2 | 12 | Shadow Play shadows show frightening shapes; targets roll Courage 8 or flee |
 | **Mind Strike** | Dominate 2, Potence 2 | 12 | Eye contact + Willpower; successes + Potence = bashing damage, normal soak |
-| **Shadow Mark** | Dominate 2, Obtenebration 6 | 27 | Shadowstep to a Dominated minion (must be in shadow) at any distance |
+| **Shadow Mark** | Dominate 3, Obtenebration 6 | 27 | Shadowstep to a Dominated minion (must be in shadow) at any distance |
 | **Shroud of Absence** | Obfuscate 3, Obtenebration 3 | 18 | 10-foot area in line of sight that everyone ignores; Willpower 7 to perceive |
 
 ---
