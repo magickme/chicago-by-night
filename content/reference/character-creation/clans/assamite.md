@@ -43,3 +43,15 @@ The Assamites are divided into three castes, each with different functions:
 Assamite characters in Camarilla games carry the weight of the clan's reputation — every Kindred who knows what they are assumes they might be a contract killer. Managing that perception while building genuine political relationships is the core challenge.
 
 The blood addiction weakness means that feeding on other vampires, even accidentally, requires careful Willpower management. In cities where Kindred blood is available, this is a constant temptation.
+
+## Merits & Flaws
+
+**Sectarian Ally (1pt. Merit)** — You have a close contact in one of the Kindred sects (Camarilla, Sabbat, or Anarch). They can help you navigate their sect's politics, but may ask for favors in return.
+
+**Thousand Meter Killer (1pt. Merit)** — Proven member of the Thousand Meter Club. All sniper-rifle rolls are at −1 difficulty, and you double the normal range of sniper rifles.
+
+**Broken Antitribu (3pt. Flaw)** — You are an Assamite antitribu who still labors under the Tremere Curse. You cannot commit diablerie and can only partake of Kindred vitae already transubstantiated through the Vaulderie. All Social rolls against other Sabbat members are at +2 difficulty.
+
+**Multiple Curses (3pt. Flaw)** — In addition to the normal curse of your caste or sect, you suffer one additional Assamite clan curse. Most commonly applies to rare viziers or sorcerers in the Sabbat who carry the Baali Curse alongside their caste-specific curse.
+
+**Outcast (2pt. Flaw)** — You have rejected the ethos of the caste into which you were Embraced. Your sire and fellow caste members reject you. All Social rolls against members of your caste are at +2 difficulty.

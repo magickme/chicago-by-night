@@ -31,3 +31,11 @@ At high Humanity, this is a constant discipline test. At low Humanity, it is a w
 The Brujah frenzy weakness is not incidental — it's definitional. Playing a Brujah means constantly navigating between idealism and the Beast. A Brujah who never frenzies is playing it safe; a Brujah who frenzies constantly is a monster. The interesting space is the middle: when does controlled rage become something useful, and when does it become the very thing you're fighting against?
 
 The Ventrue-Brujah relationship is the central social friction in most Camarilla games. The Ventrue didn't just defeat the Brujah — they erased Carthage from history and then wrote the Brujah's history for them. The Brujah have not forgotten this.
+
+## Merits & Flaws
+
+**Fury's Focus (3pt. Merit; Prerequisite: Path of Entelechy)** — At the onset of frenzy, spend 1 Willpower and roll your Entelechy rating (difficulty = original frenzy resistance roll +1). Each success grants one turn of player-controlled action before full frenzy sets in. Additionally, degeneration roll difficulties for sins committed during that frenzy are reduced by the successes rolled, to a minimum difficulty of 4.
+
+**Dynamic Personality (5pt. Merit)** — Your charisma draws mortals naturally. After each story, you may purchase new dots in Allies, Contacts, Herd, and Retainers with experience points at the current rating cost (rather than the standard out-of-play cost).
+
+**Obvious Predator (2pt. Flaw)** — Your Brujah rage is always visible below the surface. Mortals instinctively find you menacing. All Social rolls against mortals except Intimidation are at +2 difficulty.

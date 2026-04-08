@@ -65,6 +65,24 @@ The Black Hand (Manus Nigrum) is the Sabbat's elite special operations force —
 
 Entry requires demonstrated exceptional capability and a separate oath. Black Hand resources are significant; their internal structure is opaque even to most Sabbat.
 
+The Black Hand is led by four **Seraphim**. Individual Black Hand operatives are organized into **kamut** — special operations covens sent on specific missions.
+
+---
+
+## The Tal'Mahe'Ra (True Black Hand)
+
+The Tal'Mahe'Ra, or "Hand Without Sun," is an organization distinct from and predating the Sabbat's Black Hand. Ancient, secretive, and worshipping the Antediluvians in the Underworld city of Enoch, the Tal'Mahe'Ra has spent centuries infiltrating both the Sabbat and the Camarilla. Their symbol is a crescent moon against an eclipse — distinguished from the Sabbat Black Hand's plain crescent.
+
+**Key distinction:** The Sabbat Black Hand hates and fights the Antediluvians. The Tal'Mahe'Ra reveres them. Their goals occasionally align (controlling the Sabbat as a weapon) but are fundamentally opposed in theology.
+
+The Tal'Mahe'Ra are detectable by a crescent-eclipse tattoo — normally obscured by their own sorcery, but visible to agents granted the ability to see it by a sufficiently powerful patron. Their presence in any Sabbat domain is a threat to the Black Hand's authority; the two organizations are in open covert war.
+
+---
+
+## The Sabbat Inquisition
+
+The Sabbat Inquisition hunts infernalists — vampires who have made pacts with demons — within the Sect. They operate with near-absolute authority to destroy vampires suspected of infernal ties, making them feared even among loyal Sabbat. The Inquisition and the Black Hand have historically clashed over jurisdiction.
+
 ---
 
 ## The Sword of Caine

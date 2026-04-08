@@ -82,3 +82,21 @@ Leave an Obfuscated space — a room, a vehicle interior, a small area — in a 
 **Cost:** 1 Willpower | **Pool:** Manipulation + Stealth vs target's Willpower | **Duration:** Permanent (until dispelled)
 
 Targeted removal of specific knowledge from a single observer's mind — they "forget" having seen the vampire at a specific time and place. Functions like a combination of Obfuscate and Dominate's Forgetful Mind, but cannot be detected or removed by Dominate (it's Obfuscate, not mind control).
+
+### Busy Doing Nothing (●●●●● ●)
+**Cost:** None | **Pool:** Manipulation + Performance, difficulty 7 | **Duration:** Scene
+
+*Nosferatu-specific elder power.*
+
+The vampire remains perfectly visible, but appears to be doing something innocuous while actually doing something else. Picking a lock appears as standing by the door. Engaged in a brawl, they appear to be a bystander. The false activity is exact — the vampire is where they appear to be, unlike Unseen Presence.
+
+Successes determine complexity: 1 = only minor deception (appearing to listen while actually listening at a different door); 5 = full combat is completely masked as bystander behavior.
+
+### Displacement (●●●●● ●)
+**Cost:** 1 Blood Point per scene | **Duration:** Scene
+
+*Nosferatu-specific elder power.*
+
+The vampire appears to be standing slightly to one side of their actual location. This is harder to account for than full invisibility — the eye registers a target but the hit always lands where the target is not.
+
+While active, anyone attempting to hit or touch the vampire suffers a dice penalty equal to the caster's Obfuscate rating. After a few misses, the attacker may roll Perception + Awareness (difficulty = Obfuscate rating + 4, maximum 9) to notice the displacement; each success reduces the penalty by one. The attacker's Auspex rating also reduces the penalty, but the minimum penalty is always 1.

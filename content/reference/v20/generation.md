@@ -108,13 +108,17 @@ Diablerie is the only method of lowering Generation. See [Diablerie](/reference/
 
 ## Thin-Blooded (14th–15th Generation)
 
-Some modern-era vampires of the 14th and 15th Generations have blood so dilute that its vampiric properties barely function.
+Some modern-era vampires of the 14th and 15th Generations have blood so dilute that its vampiric properties barely function. All 15th Generation vampires are thin-blooded; 14th Generation may be at Storyteller discretion.
 
 **Characteristics:**
 - Cannot reliably Embrace (Embrace attempts may simply kill the mortal, or create vessels without vampiric properties)
-- Can sometimes eat food and walk in moderate sunlight
-- Discipline learning is severely impaired
-- Some can sense Gehenna's approach and receive prophetic dreams
-- Often cannot create blood bonds or ghouls reliably
+- Can eat food and walk in moderate sunlight (sunlight inflicts lethal rather than aggravated damage)
+- Discipline learning is severely impaired — no Discipline above 2 dots
+- Some can sense Gehenna's approach and receive prophetic dreams (see Seer Merit)
+- Cannot create blood bonds or ghouls
+- A portion of their blood pool (4 points) is inaccessible for powers — it fuels nightly reanimation only
+- Rare cases can conceive mortal children called Dhampirs
 
 In V20's 1990s setting, 14th–15th Generation vampires are rare and poorly understood. They are a harbinger of something — whether Gehenna or simply the dilution of Caine's lineage is debated.
+
+For full rules including the 16th Generation Flaw, Seer Merit, Dhampir character creation, and the Blood Rot disease, see [Thin-Blooded](/reference/v20/thin-blooded/).

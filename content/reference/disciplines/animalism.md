@@ -69,3 +69,27 @@ Successes determine cleanness of transfer: 1 = random target, 2 = target must sp
 Failure: the vampire enters a doubled Frenzy (worse than normal).
 
 **Warning:** If the vampire leaves the target's presence before the transferred Frenzy ends, the vampire permanently loses their Beast. Without the Beast: cannot spend Willpower, cannot recover Willpower, grows lethargic and passive over time, slowly withering. Recovery requires finding someone to give the Beast back to — a rare, dangerous ritual.
+
+---
+
+## Elder Powers
+
+### Eye of the Szlachta (●●●●● ●)
+**Cost:** None | **Pool:** Use Subsume the Spirit system (V20 pp. 131–132)
+
+*Tzimisce elder power.*
+
+Many vampires can possess wild animals, but some Fiends can ride any ghoul that shares their blood. By locking eyes with her ghoul, the Fiend transfers her soul directly into the creature. Primarily used to calm a rampaging vozhd in a disposable vessel, or to fake death in a cleverly fleshcrafted ghoul.
+
+The mechanics of this power use the Subsume the Spirit system (V20 pp. 131–132) exactly, but the power only works on ghouls who carry the vampire's blood.
+
+### Flesh Bond (●●●●● ●●●●)
+**Cost:** 1 Blood Point per absorbed animal (smaller animals) | **Pool:** Stamina + Animal Ken, difficulty 7 | **Duration:** Sustained
+
+*Tzimisce elder power.*
+
+The vampire can physically merge her body with animals, becoming one flesh.
+
+**Smaller animals:** The vampire can absorb multiple small creatures into her body. Each absorbed creature costs 1 blood point per 5 points in the animal's blood pool (e.g., 20 rats at 1/4 blood pool each costs 1 blood point total). The vampire cannot feed to recover the spent blood until she releases the animals. At any time, she can ingest the absorbed creatures, acquiring their collective blood pool; the exsanguinated corpses are expelled from her body.
+
+**Larger animals:** The vampire cannot fully absorb large creatures but can physically merge her body into one with a successful Stamina + Animal Ken roll (difficulty 7) and 1 blood point. She can move with the animal (e.g., travel inside a bear during the day) but has no control over it unless Subsume the Spirit is also used. Auspex readers examining a merged character notice an unusual tinge in the aura.

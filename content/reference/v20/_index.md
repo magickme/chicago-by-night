@@ -29,3 +29,4 @@ Abbreviations used throughout: **Str** Strength, **Dex** Dexterity, **Sta** Stam
 | [Derangements](derangements/) | 14 derangements with mechanical descriptions |
 | [Social & Mental Systems](social/) | Social combat, Dominate/Presence resistance, blood bond, Delirium |
 | [Ghouls](ghouls/) | Ghoul creation, Disciplines, Vinculum, Revenant families |
+| [Thin-Blooded](thin-blooded/) | 14th–16th Generation mechanics, Dhampirs, Seer Merit, Blood Rot disease |

@@ -72,3 +72,14 @@ Create a crowd of animated illusion-figures — soldiers, rioters, a panicking c
 **Cost:** 1 Willpower | **Pool:** Manipulation + Subterfuge, difficulty 8 | **Duration:** Scene
 
 Create illusions that fool supernatural senses, not just mortal ones. A false aura visible to Auspex. A false blood resonance. A false spiritual presence. Even Auspex must actively contest this through the standard mechanic, and the difficulty is higher than for standard Chimerstry.
+
+### Subtle Spy (●●●●● ●)
+**Cost:** 2 Willpower | **Duration:** One night
+
+*Ravnos elder power.*
+
+Infuse a created illusion with a fragment of the caster's own consciousness, granting it limited independent intelligence. The illusion — whether a lamp, a person, or any other form — can witness events in the caster's absence and report back.
+
+If the illusion is an object, it senses anything perceptible from its location. If mobile (a person or animal), it behaves as per Apparition and can make small adjustments in response to circumstances — stepping around obstacles, answering simple questions.
+
+When the Ravnos dispels the illusion, the stored experiences return to her as firsthand memory. If the illusion is dispelled or disbelieved before the Ravnos reincorporates it, the intelligence — and any information it gathered — is lost entirely.

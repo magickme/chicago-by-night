@@ -89,6 +89,24 @@ Full Tzimisce architecture — the vozhd war-ghouls that can exceed human scale 
 
 ## Elder Powers
 
+### Ecstatic Agony (●●●●● ●)
+**Cost:** 2 Willpower | **Pool:** Automatic | **Duration:** Scene
+
+*Tzimisce elder power.*
+
+The Fiend transmutes pain into physical empowerment. After spending 2 Willpower, the vampire adds their current wound penalties as *bonus* dice to all non-reflexive physical actions and Discipline use for the scene. A vampire at Wounded (–1) gains +1 die; at Mauled (–2) gains +2 dice. As the character heals, the bonus diminishes accordingly.
+
+Incapacitated and Final Death are still applied normally. This power is a mark of the extreme Tzimisce relationship with pain as a transformative force.
+
+### Kraken's Kiss (●●●●● ●●)
+**Cost:** 1 Willpower | **Pool:** Stamina + Medicine, difficulty 8 | **Duration:** Scene
+
+*Tzimisce elder power.*
+
+The Fiend's face erupts into a mass of foot-long tentacles studded not with suckers but with rows of tiny fanged mouths. On success, the tentacles form without loss of other sensory abilities.
+
+The tentacle mass is used in melee (difficulty 5; Strength + 2 damage). A successful hit indicates a grapple. On the same turn as the initial grab, feeding begins: for each success on the attack roll, one additional blood point is drained per turn as dozens of mouths bite and drain. To break the grip, the victim must score three more successes than the vampire in an extended Strength contest.
+
 ### Save the Rack (●●●●● ●)
 **Cost:** 1 Willpower | **Pool:** Automatic | **Duration:** Permanent
 

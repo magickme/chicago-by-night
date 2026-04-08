@@ -35,3 +35,17 @@ The Toreador manage Elysium — the neutral spaces where Kindred politics are co
 The Toreador weakness is at its most interesting when the beauty that stops them is not convenient — a perfect violin solo in the middle of a fight, an extraordinary face on someone they're about to hurt. The Beast is never far: the intensity of aesthetic experience for the Toreador is the same neurological pathway as hunger and predatory response.
 
 Presence as an in-clan Discipline makes Toreador genuinely dangerous socially. Their ability to move through mortal and Kindred society with apparent ease is backed by real supernatural capability, not just practiced charm.
+
+## Merits & Flaws
+
+**Indelible (1 or 2pt. Merit)** — Body modifications (tattoos, piercings, hair changes, small implants) you acquire after the Embrace persist rather than reverting each night. Spend 1 Willpower point to return your body to its Embrace-state at will. At 1 point: cosmetic modifications only. At 2 points: also applies to utilitarian modifications (e.g., RFID implants that activate electronic devices).
+
+**Impressive Restraint (2pt. Merit)** — You are unusually resistant to the hunger-frenzy provoked by proximity to mortals. All Self-Control rolls to resist hunger are at −2 difficulty. Cannot be taken by characters on Paths requiring Instinct.
+
+**Master of the Masquerade (2pt. Merit)** — You never lapse into the eerie vampire stillness even when alone or concentrating. You always appear to breathe and move naturally. All Social rolls with mortals are at −1 difficulty. Does not grant the ability to eat food or benefit from Blush of Health — those require separate Merits.
+
+**Slowed Degeneration (5pt. Merit)** — Your Humanity is unusually resilient. Add 2 dice to all Conscience rolls. Only vampires following Humanity may take this Merit; it is permanently lost if you take up another Path of Enlightenment.
+
+**Tortured Artist (1pt. Flaw)** — Nothing you create is ever good enough. You are at +1 difficulty on Social rolls in which you are being praised, complimented, or treated with respect. Your work comes in irregular bursts driven by heartbreak and intensity.
+
+**Private Life (3pt. Flaw)** — You maintain a completely secret life unknown to other Kindred. If discovered, you face accusations of Masquerade breach (Camarilla), fraternizing with kine instead of embracing your vampiric superiority (Sabbat), or general suspicion about why you're hiding it.
