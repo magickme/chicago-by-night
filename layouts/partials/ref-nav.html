@@ -7,6 +7,14 @@
   <nav aria-label="Reference sections">
     {{ $ref := .Site.GetPage "/reference" }}
     {{ if $ref }}
+      {{/* Root-level pages (Overview, etc.) before sections */}}
+      {{ range $ref.Pages.ByWeight }}
+        <a href="{{ .RelPermalink }}"
+           class="ref-nav-root-page{{ if eq $.RelPermalink .RelPermalink }} is-active{{ end }}"
+           {{- if eq $.RelPermalink .RelPermalink }} aria-current="page"{{ end }}>
+          {{- .Title -}}
+        </a>
+      {{ end }}
       {{ range $ref.Sections }}
         {{ $sectionActive := hasPrefix $.RelPermalink .RelPermalink }}
         <div class="ref-nav-group{{ if $sectionActive }} is-open{{ end }}">

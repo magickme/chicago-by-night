@@ -103,6 +103,28 @@
 }
 .ref-nav-brand:hover { color: #ffffff; }
 
+/* Root-level pages (Overview, etc.) between brand and first section */
+.ref-nav-root-page {
+  display: block;
+  padding: 0.22rem 0.5rem;
+  margin: 0 -0.25rem 0.1rem;
+  font-family: var(--ref-font-ui);
+  font-size: 0.855rem;
+  color: rgba(201,209,217,0.70);
+  border-radius: 4px;
+  transition: color 0.13s, background 0.13s;
+  line-height: 1.45;
+}
+.ref-nav-root-page:hover {
+  color: var(--ref-active-text);
+  background: var(--ref-active-bg);
+}
+.ref-nav-root-page.is-active {
+  color: var(--ref-active-text);
+  background: rgba(255,255,255,0.09);
+  font-weight: 500;
+}
+
 /* Section group */
 .ref-nav-group {
   margin-bottom: 0.25rem;
