@@ -363,3 +363,60 @@ These Merits and Flaws apply to Caitiff (clanless vampires) and reflect the uniq
 **Ignorance (2pt. Flaw)** — The sire abandoned the character without instruction. The character starts with no knowledge of vampire abilities, customs, or politics and must learn from mistakes or find a mentor — who will most likely blood bond them. For most Princes, ignorance is no excuse for a Masquerade breach.
 
 **Bulimia (4pt. Flaw)** — The character hungers for blood but cannot retain it. Whenever they feed, roll Stamina (difficulty 8); failure means the blood is vomited out before absorption, spraying everywhere. Blood taken in frenzy is absorbed normally.
+
+---
+
+## Tal'Mahe'Ra Merits & Flaws
+
+Open to Tal'Mahe'Ra characters; available to other Sects at Storyteller discretion.
+
+### Physical Merits
+
+**Discerning Palate (4pt. Merit)** — With a single drop of blood, roll Perception + Awareness (difficulty 8):
+- *1 success:* relative potency/freshness; species (if previously tasted); Generation within 2 steps of own; under/over 100 years old; same Clan.
+- *2 successes:* contamination by disease/poison; Generation within 4 steps; age within 50 years (if under 300 years old); any Clan previously tasted.
+- *3+ successes:* specific contaminants; Generation within 6 steps; vintage within 25 years (if under 600); any Clan plus family line (if previously tasted).
+
+### Mental Merits
+
+**Grand Library (2, 4, 6, or 7pt. Merit)** — A collection of books, both common and rare. At 2, 4, or 6 pts: choose 3 Knowledge dots per 2 points. At 7 pts: 10 Knowledge dots. While working in the library, **−2 difficulty** to rolls involving those Knowledges.
+
+**Berserker (3pt. Merit)** — May willingly enter a berserker state for one scene. While berserking: ignore wound penalties; −3 difficulty to all combat rolls except dodges; cannot take complex actions other than combat, dodging, or running.
+
+### Social Merits
+
+**Arcane (1 to 5pt. Merit)** — An aura of forgetfulness. People who encounter the character have difficulty remembering them. Each dot subtracts 1 die from dice pools used to actively locate the character or recall her from memory. The character can suppress this effect at will. Does not function in combat. **Incompatible with any dots in Status or Fame** — those Backgrounds cause Arcane to cease functioning. *(Available to any Kindred; listed here as signature to Tal'Mahe'Ra infiltrators.)*
+
+**Entrepreneur (2pt. Merit)** — **−2 difficulty** on all rolls involving acquiring money through business dealings.
+
+**Paragon (7pt. Merit)** — Others find the character particularly compelling. Select one Background from: Allies, Contacts, Domain, Fame, Herd, Influence, Mentor, Resources, Retainers, or Status. Receive one free dot in that Background; maximum Trait score in that Background may exceed normal Generational limits by one.
+
+**Without a Trace (2pt. Merit)** — In the wilderness, the character leaves no tracks or scent. Normal tracking attempts automatically fail. Supernatural tracking attempts suffer **+2 difficulty**.
+
+**Psychic Leech (5pt. Merit)** — **Cost:** 1 Willpower. The character feeds on the Willpower of victims at a distance. The consumed Willpower becomes temporary blood points that dissipate by morning. These temporary BP: may be spent as normal BP; cannot be lost to damage or drain; do not affect hunger/frenzy rolls; cannot create or sustain blood bonds or ghouls. **Requirements:** The target must have at least one of the character's blood points in their system and must be in eye contact.
+
+### Social Flaws
+
+**Vulgar (1pt. Flaw)** — Tact is a foreign concept. Famous for being abrasive and unpleasant. **+1 difficulty** on Social rolls involving social graces or delicate situations.
+
+**Oathbreaker (4pt. Flaw)** — Broke a sworn fealty or binding contract, and everyone knows. **+3 difficulty** to Social rolls to establish trustworthiness; even coterie members may be suspicious.
+
+### Supernatural Merits
+
+**Apostate (2pt. Merit)** — The character was initiated into a Nergali Baali nest without Embrace. The initiate is completely drained by a Baali nest-master, who extracts a still-beating mortal heart, fills it with his blood, and buries it in a Well of Sacrifice. The initiate swims through remains to find and consume it.
+
+Result: replace one in-Clan Discipline with Daimoinon. Gain Baali Clan weakness on top of existing Clan weakness. Can still pass as a member of former Clan. Any childer the Apostate Embraces are indistinguishable from standard Baali. Such childer share only Baali Disciplines/weaknesses, not the sire's former Clan traits. The replaced Discipline's existing dots are retained but further advancement costs out-of-Clan rates. *Baali may not take this Merit.*
+
+### Supernatural Flaws
+
+**Kiss of Death (2pt. Flaw)** — If the character drains a mortal vessel completely and the heart stops, the corpse rises as a zombie (V20 p. 164 stats). These zombies are free-willed, hostile toward the character, and cannot be directed without necromantic or sorcerous means.
+
+**Devil's Mark (3pt. Flaw)** — A physical deformity marks the character with the taint of the demonic: bestial eyes, hooves, horns, colored/scaly skin, a sigil birthmark, parasitic infestation, claws, misshapen teeth, or ineffectual/additional limbs. Cannot be removed or improved (magic/Disciplines can hide it temporarily).
+
+Mechanical effects: **lower maximum rating in one Attribute by 1** (cost to raise that Attribute increases by 1; max 4 dots, cost = 1 + current × 4). If the mark is visible or known to a mortal: **−1 difficulty** on Intimidation; **+1 difficulty** on all other Social rolls.
+
+**Lord of the Night (3pt. Flaw)** — Lights dim in the character's presence; tiny flames extinguish; shadows move with surreal unlife. Impossible to pass as human in most situations. The shadow is a malicious entity with its own will — it lashes out at friends and enemies alike, tears at scenery, and snarls at passersby. These effects can be suppressed for one scene by spending 1 Willpower.
+
+**Vassal of the Clan (6pt. Flaw)** — By natural predisposition or curse, the character bears a permanent blood bond to vampires of lower Generation within their own Clan: 1-step bond to those 1 Generation lower; 2-step bond to those 2 Generations lower; full 3-step bond to those 3 or more Generations lower. These override any other blood bonds earned during play. In the Tal'Mahe'Ra, this can force allegiances to vampires of potentially heretical ideologies.
+
+**Methuselah's Thirst (7pt. Flaw)** — The character can no longer sustain on mortal blood. Must feed on vampiric vitae or other supernatural creatures with potent reserves (lupines, fairies, etc.).

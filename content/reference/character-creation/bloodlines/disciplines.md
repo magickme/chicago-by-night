@@ -422,6 +422,42 @@ Invokes pre-Christian Slavic spirits of misfortune. Requires direct perception o
 | 4 | **Ties That Bind** | Spill 4 BP on claimed earth and consume a handful. −1 difficulty on all Koldunic rolls for number of nights = successes. Once per week maximum. |
 | 5 | **The Inmost Tug** | Speak a word in a blood-bonded thrall's presence. The thrall feels a chosen emotion (lust, terror, devotion, rage) as if it were their own. Duration 1 scene/success. |
 
+### Secondary Kraina: Tal'Mahe'Ra
+
+These two secondary kraina are available only to Old Clan Tzimisce within the Tal'Mahe'Ra. **General rules:** 1 BP tribute + Attribute + Occult; difficulty = power level + 4 (−2 if within primary kraina's associated region). Each power's Attribute is listed below.
+
+**The Kraina of Enoch** is accessible to any Old Clan koldun initiated into the Tal'Mahe'Ra. Developed by koldun who claimed Enoch (the Underworld city) as territory. In the Underworld, koldun with this kraina always know Enoch's exact location within the Tempest.
+
+**Activation mechanics unique to Kraina of Enoch:** Each power requires a physical self-harm act to initiate (listed per power). Wounds incurred during activation are tallied *after* the duration ends; healing before the duration ends suspends the power. In the Underworld, blood costs are waived.
+
+| Level | Power | Attribute | Activation | Effect |
+|-------|-------|-----------|------------|--------|
+| ● | Shroud of Oblivion | Stamina | Shed skin (exposes flesh; lose 1 BP/turn when duration ends until healed) | Radius 5 ft/success, duration turns = successes. In mortal world: sunlight damage reduced to bashing. In Underworld: no sun damage. Everything within the radius appears in desaturated black-and-white. |
+| ●● | Spectral Cloak | Perception | Pull out own eyes and crush them | Radius 10 ft/success, duration turns = successes. Koldun invisible (Auspex resists per V20 p. 142). Others in radius: Willpower roll (difficulty = kraina rating + successes, max 9) or gain Deathsight Flaw and flee for successes turns. Koldun sees normally within radius but blind outside it. Eyes heal for 1 BP after duration. |
+| ●●● | Pond of Malevolent Dread | Stamina | Thrust hands into own abdomen (2 unsoakable lethal + ½ successes BP lost at end; BP cost waived in Underworld) | Radius 15 ft/success, duration turns = successes. All within radius: speed reduced to ¼; Willpower roll each turn (same difficulty formula as Spectral Cloak) or lose 1 permanent Willpower. |
+| ●●●● | Wrath of the Tempest | Strength | Spend 1 Willpower; open mouth to release a choir; storms gather (1 bashing/turn unsoakable while active; soakable in Underworld) | Radius 20 ft/success, duration turns = successes. Caster mindless and immobile. All within radius: Willpower roll (difficulty 8) each turn or enter Harrowing (V20 p. 291) for rest of scene + gain a derangement. |
+| ●●●●● | Hunger of the Void | Strength | Spend 1 Willpower; pull out own soul; sustain 2 aggravated (unsoakable) at power's end | Radius 25 ft/success, duration turns = successes. All within: dragged 10 ft/turn toward Nihil; speed halved per 5 ft closer. Consumed: Willpower roll (diff 9) or stripped of Virtues/Morality (permanent 0). Success = Harrowing + derangement. Consumed mortals enter permanent coma (soul obliterated). |
+
+**The Kraina of the Well** is reserved for Order of Moloch members (Old Clan and allied Molochim Baali). Requires constructing a personal Well of Sacrifice: 6 hours/night for 7 nights; 6 BP donated per night; extended Manipulation + Occult (difficulty 7), accumulating 25+ successes. Monthly maintenance: 6 BP + 3 successes on Manipulation + Occult. A destroyed Well removes all kraina access until rebuilt. Baali practitioners cannot learn other secondary kraina; their primary kraina is considered the Well.
+
+| Level | Power | Attribute | System |
+|-------|-------|-----------|--------|
+| ● | Call the Children | Wits | Extended scene invocation (Wits roll) drawing from Well. Summon demons proportional to kraina level. Required successes = difficulty level below. Unbound demons are expelled after turns = their difficulty level. Two+ koldun working together reduce difficulty by 1 per assistant (min 4). |
+| ●● | Heed the Hell-bound Heart | Automatic | Sip 1 BP from the Well. Add kraina rating to Awareness for detecting demonic influence. Lasts while that BP remains in system. |
+| ●●● | Aegis Alighieri | Charisma | Coat an amulet in 1 BP (soaked in Well for one full night prior). Add activation successes to difficulty of infernal supernatural attacks against the koldun; gain equal bonus dice to resist. Two+ koldun within 50 ft: +1 extra success to resistance, +1 difficulty to targeting for all (max 9). |
+| ●●●● | Heave the Host of Hell | Manipulation | Create a Well-link (blood bowl in earth + 1 BP). Chant and sprinkle blood on the target. Exorcise demonic influence: 1–2 successes for minor; 3 for moderate; 4+ for major. Infernalists resist: spend Willpower + roll Willpower (diff = koldun's permanent Willpower). Success banishes the demon. Cleansed infernalists don't regain their souls but all infernal marks are expelled permanently. |
+| ●●●●● | Reap the Well | Strength | Spend 1 Willpower; pool 1 BP in cupped hands. Six blood-hook chains lunge at target (max 100 ft). Ensnared demons break free at 1 chain/turn (Willpower roll, diff = koldun's Willpower). Each turn: demand True Name via Intelligence + Intimidation vs. target's Willpower. Success: demon reveals True Name. Koldun may then bind or dismiss. Bound demons: completely compliant, must stay within 100 ft, up to 6 simultaneous. Each additional bound demon reduces available chains and increases difficulty to torment free demons by 1. |
+
+**Demon summoning tiers (Kraina of the Well):**
+
+| Kraina Level | Successes Required | Type |
+|-------------|-------------------|------|
+| 1 | 5 | Fallen Tempter |
+| 2 | 6 | Fallen Tempter +30 freebie points |
+| 3 | 7 | Fallen Tempter +55 freebie points |
+| 4 | 8 | Earthbound Defiler |
+| 5 | 9 | Earthbound Defiler +30 freebie points |
+
 ---
 
 ## Assamite Sorcery

@@ -122,3 +122,47 @@ By calling upon hellish power, this path strips temporary Willpower from the vic
 | ●●● | 1 Willpower per day's rest |
 | ●●●● | 1 Willpower per week's rest |
 | ●●●●● | 1 Willpower per two weeks' rest |
+
+---
+
+## Blessings of the Great Dark Mother
+
+*A Thaumaturgy path of Bahari ashipu (sorcerers). Draws on Lilith's spirit-beast children — Serpent, Owl, Cat, and Dragon — to disrupt and sever infernal and demonic bonds. Used by the Order of Moloch against infernalists.*
+
+**Activation:** 1 Blood Point + Manipulation + Occult vs. target's current Willpower (unless otherwise noted).
+
+*Note: This path severs bonds and pacts, not blood bonds. It also cannot undo infernal pacts — only spiritual bonds.*
+
+### ● Cradlesong
+
+**Cost:** 1 Blood Point | **Pool:** Perception + Occult, difficulty = highest Willpower among targets in range
+
+Sing, speak, whistle, or play an incantation. All infernal pacts, spiritual pacts, voluntary and involuntary bonds (including blood bonds) become perceptible to the caster. Each ashipu perceives them differently — as threads of colored light, as music, as scent. Electronic amplification extends the effective range.
+
+---
+
+### ●● Kessep (Silver Serpent)
+**Cost:** 1 Blood Point | **Pool:** Manipulation + Occult vs. target's Willpower
+
+Invoke the argent serpent of purification. Severs one selected infernal or spiritual bond the target holds. Cannot sever blood bonds or undo infernal pacts with the Pentad. Success frees the enthralled spirit or demon — which may then take whatever action it chooses toward its former owner.
+
+---
+
+### ●●● Sotheq (Twilight Owl)
+**Cost:** 1 Blood Point | **Pool:** Manipulation + Occult vs. target's Willpower
+
+Invoke the twilight owl of silence. All infernal and spiritual bonds the target holds go silent — the target can no longer issue commands to bound spirits/demons or receive commands from entities that hold them. **4+ successes:** extends this silence to any vampire at the other end of a blood bond the target holds.
+
+---
+
+### ●●●● Allah (Night Cat)
+**Cost:** 1 Blood Point per spirit/demon | **Pool:** Manipulation + Occult vs. target's Willpower (rolled separately for each)
+
+Invoke the shadow-pelted cat. Assault all of the target's lesser servitor bonds simultaneously. Each success on a given roll frees that bound spirit or demon. **Failure on any roll:** the entity learns precisely who attempted to sever its leash.
+
+---
+
+### ●●●●● Memo (Ocean Dragon)
+**Cost:** 1 Blood Point | **Pool:** Perception + Occult vs. target's current Willpower
+
+Invoke the great dragon. Each success reveals detailed knowledge of the target's principal infernal pact — what compelled the bargain, the nature of the pact, any infernal investments or gifts. **Spectacular success:** reveals the True Name of the target's demonic patron; make a contested Manipulation + Occult roll against the demon's permanent Willpower. Ashipu success: severs the bond between infernalist and patron. Demon success: bond intact. Failure at any point in this sequence: the patron perceives the ashipu and learns substantial information about her.
