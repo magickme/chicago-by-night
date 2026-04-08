@@ -191,3 +191,201 @@ Components consumed during casting. Willpower vs. power level + 3. If Animalism 
 | ●●● | Marking the Prey | Focus all animal attention on a designated target. Scene or until escape. |
 | ●●●● | Guiding Spirit | Control animal emotional state. Eye/physical contact. Resist: Willpower (diff 7). Per success = one scene of control. |
 | ●●●●● | Mantle of the Beast | Assume one physical animal feature (claws, wings, shell). Claws: Str +1 Aggravated. Wings: Stamina + Athletics (diff 7) to glide 100 yards/success. Shell: +2 soak dice (can soak Aggravated). |
+
+---
+
+## Wanga Rituals
+
+### Level 2 — Craft Gris-Gris
+Fill a bag with herbs, mineral powders, finger bone of an infant, nine pinches of grave dirt, an item taken from the target, and 2 BP of caster's blood. Bury the bag within a few feet of the target's home or haven.
+
+**Effect:** Target suffers −1 to all dice pools from a constant throbbing headache. Against mortals: permanent unless the bag is found and removed. Against Kindred: lasts 1 night per success, ends early if bag is removed. In the hands of another wangateur with a higher Wanga rating, the bag functions as a sympathetic link to its creator equal to a point of the creator's blood.
+
+### Level 5 — Shackles of Blood
+Brew a potion using 3 BP of caster's blood, natural ingredients, and the heart of a recently deceased mortal of the opposite gender from the target. Stir for 3 hours, strain through unbleached cotton, feed the finished mixture to the target.
+
+**Effect:** Creates a temporary false blood bond lasting 1 night per success. If caster blood-bonds the target for real during that time, the bond functions normally. Potent trick: if the potion is fed to a mortal, any vampire who feeds from that mortal within the next 24 hours is affected as if he drank it directly — enabling a wangateur to gain power over a vampire who doesn't know she exists.
+
+---
+
+## Akhu Rituals (Setite Sorcery)
+
+### Level 3 — Scorpion Sending
+Craft a scorpion from wax incorporating material from the target's body. Write Set's name on the scorpion; recite the story of the poisoning of Horus (omitting the recovery). Leave in an area the target will pass through; the scorpion animates and attacks.
+
+**Effect:** Scorpion has normal stats for its size. Successful bite poisons the target: 1 Lethal damage every 15 minutes. Resist: Stamina roll (diff 7) once every 15 minutes; success ends the damage. Affects mortals and supernaturals alike. Small and difficult to notice (Perception + Alertness, diff 7).
+
+### Level 4 — Dismemberment of Osiris
+Ritually dismember the male leader or spokesperson of a target group/organization and remove/discard his phallus. (Female-led organizations cannot be targeted by this ritual.)
+
+**Effect:** Over the next 6 months, the group suffers an external organizational setback. Each success = roughly a 10% cumulative reduction in size and resources (Storyteller discretion).
+
+---
+
+## Dur-An-Ki Rituals
+
+### Level 1 — Horoscope
+Using Babylonian astrology, study the stars with knowledge of the target's birth name, birth location, birth date, and (for vampires) Embrace date.
+
+**Effect:** Each success reveals one secret about the target: Nature, primary aptitudes (Traits rated 3+), Flaws, or major life/unlife tragedies. Alternatively, use the horoscope in conjunction with an effigy for sympathetic magic — successes reduce the difficulty penalty imposed by weak connections (by up to the caster's Dur-An-Ki rating, minimum 0).
+
+### Level 2 — Infusion of Kalif
+Soak 20 oz of hashish in 1 BP over three nights (yields 1 oz of kalif per success). Quality increases by +1 per dot of Generation of the vampire whose blood was used (not necessarily the sorcerer). Place 1 oz in a hookah with ritually prepared rosewater; smoke for at least 30 minutes.
+
+**Effect:** Roll Stamina + Fortitude (diff 6, dice penalty equal to kalif quality). A number of successes greater than zero but equal to or less than the character's Dur-An-Ki rating induces the proper ecstatic state — for the rest of the scene, all Dur-An-Ki path and ritual rolls are at reduced difficulty equal to half the kalif quality. Fail or botch: pleasantly incapacitated but no mechanical benefit. Succeed too well (more successes than Dur-An-Ki rating): too sober; must smoke another half hour.
+
+### Level 3 — Bull of Heaven
+Caster simultaneously drinks from an animal while feeding it blood (1 BP for animals smaller than a human; 3 BP for larger animals up to bull size; cannot be used on larger animals).
+
+**Effect:** Animal immediately becomes a ghoul with 1 dot of Potence + 1 dot of either Fortitude or any non-sapience Discipline the ashipu possesses. For the remainder of the night, caster can reflexively direct the animal and see through its senses while retaining awareness of her own surroundings.
+
+### Level 4 — Directing Ahriman's Lance
+Fashion a sympathetic talisman small enough to swallow using the target's connection. Swallow it, wait 1 hour, then surgically remove it (minimum 2 unsoakable Lethal damage). Other sorcerers may assist.
+
+**Effect:** Until the next inauspicious night, any Kindred who holds the talisman has all rolls that bring them closer to killing the target benefit from a difficulty reduction equal to the ritual's successes. When used alongside a Horoscope, the talisman functions for a number of nights equal to the Horoscope's successes; otherwise it is limited to a single assassination attempt by the bearer. If Horoscope was not cast, only the specific assassin who extracted the talisman benefits.
+
+### Level 5 — Seeing With the Sky's Eyes
+Enter an ecstatic trance. Concentrate on an effigy of the target that incorporates at least a recent photograph (cannot be achieved from name alone).
+
+**Effect:** Each success allows the caster to ask one question about the target's current location and activities.
+
+---
+
+## Sadhana Rituals
+
+### Level 1 — Armor of Diamond Serenity
+Call upon Shiva to purge mortal passions and grant enlightenment.
+
+**Effect:** For the rest of the night, the sadhu is immune to frenzy of all types, reduces the difficulty of all Willpower rolls by −2, and treats her permanent Willpower as 2 higher when it serves as a target number. However, while active, the sadhu cannot spend blood to increase Physical Attributes.
+
+---
+
+## Koldunic Sorcery
+
+*Practiced almost exclusively by Old Clan Tzimisce. Draws upon primal elementalism and the spirit of the Carpathian land-entity Kupala. Koldun outside Eastern Europe suffer +1 difficulty on all Koldunic rolls.*
+
+**Activation roll:** Willpower, difficulty (3 + Path rating), 1 BP required. Ritual roll: Intelligence + Occult, difficulty (3 + ritual level).
+
+### The Way of the Spirit
+
+*The koldun diffuses perception across an increasingly large area, tracking intruders, feeding vessels, or chosen subjects. Also defeats Obfuscate within the area and allows targeting of distant subjects with other Koldunic paths.*
+
+**Duration:** Successes in scenes. If activated before sunrise, extends through daylight without negative effects (normal day penalties for other actions still apply).
+
+| Level | Radius |
+|-------|--------|
+| ● | 50 feet/20 meters |
+| ●● | 100 yards/meters |
+| ●●● | Quarter-mile/half-kilometer |
+| ●●●● | 1 mile/1.5 kilometers |
+| ●●●●● | 5 miles/8 kilometers |
+
+### The Way of Sorrows
+
+*Curses invoking pre-Christian Slavic deities. Cannot be used at range through sympathy; can target through Way of the Spirit or Scry. All require the koldun to perceive the target.*
+
+| Level | Power | Effect |
+|-------|-------|--------|
+| ● | Frustrations of Nestrecha | For 1 turn per success, target cannot spend Willpower for any purpose. |
+| ●● | Insults of Krivda | Koldun hurls an insult; target must immediately roll Self-Control (diff 5 + successes, max 9) to resist frenzy. |
+| ●●● | Weeping of Kruchina | 1 turn per success: target overwhelmed by crushing despair, cannot concentrate, weeps uncontrollably. Kindred lose 1 BP per turn as vitae streams from their eyes. |
+| ●●●● | Misfortune of Chernogolov | Target automatically loses 2 successes on every roll for a number of consecutive rolls equal to the successes. |
+| ●●●●● | Starvation of Marena | Each success inflicts 2 Bashing (soakable). Vampires additionally lose 1 BP per success. |
+
+### Koldunic Rituals
+
+**Reawakening the Dead Water (Level 1)** — Drop 1 BP into a pool of water; drink 1 BP worth from the same source. If successful (1+ success), koldun regains 1 spent Willpower point. Cannot exceed normal maximum. Once per night.
+
+**Invoke the Lesser Sign of Power (Level 2)** — Concentrate for 1 turn; make the Lesser Sign of Power with hands. If successful, koldun's eyes glow with authority. For 1 hour per success, all Intimidation and Leadership rolls against mortals gain −2 difficulty (requires eye contact).
+
+**Cowing the Servant (Level 3)** — Mix a sheep's brain with soil from the koldun's domain and 1 BP. Force the blood-bound servant (ghoul, revenant, or similar) to eat the mixture. For 1 week per success, difficulty of all rolls to manipulate that servant is reduced by −1.
+
+**Ties That Bind (Level 4)** — Spill 4 BP onto claimed earth, then ritually devour a handful of the blood-soaked soil. For 1 night per success, all Koldunic Sorcery roll difficulties are reduced by −1. Cannot be performed more than once per week.
+
+**The Inmost Tug (Level 5)** — By speaking a single word in the thrall's presence, the koldun can alter the emotional quality of any blood bond he holds. Normal love/devotion can be replaced with debased lust, terrified obedience, fraternal devotion, or any other emotional context. Duration: 1 scene per success.
+
+---
+
+## Dur-An-Ki Paths (Additional)
+
+### The Hunter's Winds
+
+*Developed by Assamite sorcerers. Augments stealth and presence-in-shadow. Key difference from Obfuscate: Auspex does not automatically pierce it — observers must roll normally without the automatic pierce.*
+
+**Activation:** Willpower roll, diff (3 + level). 1 BP.
+
+| Level | Power | Effect |
+|-------|-------|--------|
+| ● | Scent of Deception | Target leaves no detectable scent, or leaves a different person's scent. Failure: nothing. Botch: scent more identifiable. |
+| ●● | Chameleon's Skin | Target's skin and clothing adopt coloring/texture of surroundings. While stationary: +4 difficulty to Perception rolls to detect. While moving: negated. Reassert after stopping with Perception + Stealth (diff 6, or 9 if actively searched for). |
+| ●●● | Unassuming Pose | Target effortlessly blends into any crowd; observers automatically assume target belongs there. Cannot fool cameras or CCTV. |
+| ●●●● | Whiff of Kalif | Target generates an intoxicating aura. Anyone directly observing must roll Wits + Alertness (diff 7) or become intoxicated for successes-in-hours — incapable of any action beyond staring or giggling. Any direct threat immediately ends the effect. |
+| ●●●●● | Ghost Body | Cost: 3 BP. Target becomes invisible, inaudible, and intangible; moves freely through all barriers except wards. Cannot interact with wraiths/spirits. Cannot use Disciplines while intangible. Ends when target consciously attempts to affect the physical world. |
+
+---
+
+## Blood Sorcery: Foundational Principles
+
+*From Rites of the Blood Chapter 7 — applies to all blood magic systems.*
+
+**Principle of Blood:** Blood magic is completely dependent on Kindred vitae. Non-vampires cannot practice it in any form. Ghouls may learn the simplest paths/rituals after years of study. Every path power requires at least 1 BP.
+
+**Principle of Will:** Activation rolls for all blood magic path powers are Willpower rolls (difficulty = 3 + path rating). Belief in underlying religion is irrelevant — will and blood are sufficient. Botched rolls target the caster herself (psychological/physiological defects) rather than producing wild effects.
+
+**Principle of Knowledge:** Blood magic cannot be learned intuitively. Active study required. Primary path informs all other paths; no secondary path rating can exceed primary path rating until primary is at 5.
+
+**Principle of Identity:** Most path powers require the caster to direct her attention to herself or to someone/something within her field of view. Live TV broadcasts are insufficient. Some powers require physical contact.
+
+### Sympathetic Magic: Principle of Contagion
+
+Things once connected retain a link. For rituals targeting distant subjects:
+
+| Difficulty Modifier | Connection |
+|--------------------|------------|
+| −1 | 1 BP of target's blood, or severed body part (finger-sized or larger) |
+| +0 | Lock of hair, fingernail, other bodily fluid, or magical item created by target |
+| +1 | Prized personal possession |
+| +2 | Object owned and handled within a week; recent fingerprint; blood relative's vitae/body part |
+| +3 | Object handled by target at least once within the last week |
+| +4 | Recent photograph |
+| +5 | Target's name written on paper |
+
+No modifier combination can raise difficulty above 9 or below 4. If modifiers would push above 9, the ritual cannot function with that connection.
+
+### Sympathetic Magic: Principle of Sympathy
+
+"Like produces like." Craft an effigy representing the target (Intelligence + Crafts, diff 8). Each success reduces the Contagion difficulty penalty by 1 (maximum reduction = caster's highest blood magic path rating; cannot reduce below 0).
+
+### Sorcery Botch Effects by Tradition
+
+| Tradition | Botch Effect |
+|-----------|-------------|
+| Dur-An-Ki | Immediate Fugue Derangement for the rest of the night |
+| Koldunic Sorcery | All dice pools halved for the night (as if sleeping one night without native soil) |
+| New Age Sorcery | Paranoia Derangement — feels persecuted by shadowy conspiracy suppressing his "enlightenment" |
+| Old Skool Sorcery | Psychosomatic aversion to holy symbols; Rötschreck difficulty = 4 + Old Skool rating |
+| Punk Sorcery | Hysteria Derangement — rage, anarchic destruction of authority symbols |
+| Setite Sorcery (any school) | Intense photophobia; extremely bright light triggers Rötschreck (diff = 4 + Akhu rating) |
+| Spirit Thaumaturgy (any school) | Multiple Personality Derangement — dominant personality based on a relevant spirit |
+
+### Auspicious Elements by Tradition
+
+| Tradition | Auspicious Elements |
+|-----------|-------------------|
+| Akhu | Egyptian iconography, Set-aligned altars, contempt for Set-opposed gods, snakes |
+| Dur-An-Ki | Babylonian astrology, Near Eastern deity invocations, ecstatic activities, talismans, sanctified temple settings |
+| Koldunic Sorcery | Eastern European paganism, animal sacrifices, sacred green spaces, geographic connection to Eastern Europe |
+| Old Skool Sorcery | Ritual animal sacrifice, pagan deity invocations, ceremonial daggers, self-inflicted wounds, outdoor Neolithic settings |
+| Punk Sorcery | Staged violence, defiance of authority, immoral/transgressive acts, caster's unique vitae sigils |
+| Sadhana | Hindu/Shiva imagery, ceremonial fires, ritual cleansing, meditation, mortification of the flesh |
+| Tremere Thaumaturgy | Pentagrams, alchemical formulas, mercury/silver/gold, candles, blood ritual, invocatory incantations |
+| Wanga | Voudoun/Santeria/Candomblé imagery, bones/skulls/grave dirt |
+
+### Ritual Experience Costs (Optional Rule)
+
+| Caster Type | Same School | Foreign School |
+|-------------|-------------|----------------|
+| Tremere (loyal) / Necromancy in-Clan | Ritual level × 2 | Ritual level × 3 |
+| All others | Ritual level × 3 | Ritual level × 4 |
+
+Adapting a foreign ritual requires success total of ritual level × 10 (subtract total blood magic path dots, minimum half normal). Storyteller may require additional rolls (social, research, Contacts/Mentor rating) before approving XP purchase.
