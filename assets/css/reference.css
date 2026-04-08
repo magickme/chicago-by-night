@@ -14,7 +14,7 @@
   --ref-active-text:     #ffffff;
   --ref-body-bg:         #ffffff;
   --ref-body-text:       #0f172a;
-  --ref-muted:           #64748b;
+  --ref-muted:           #4a5568;
   --ref-border:          #e2e8f0;
   --ref-code-bg:         #f1f5f9;
   --ref-card-bg:         #f8fafc;
@@ -384,7 +384,8 @@
    Body text for reference doc pages.
    ============================================ */
 .ref-prose {
-  font-size: 0.965rem;
+  font-family: var(--ref-font-ui);
+  font-size: 1rem;
   line-height: 1.72;
   color: var(--ref-body-text);
 }

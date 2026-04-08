@@ -6,7 +6,7 @@
   <meta name="color-scheme" content="light dark">
   <script>
     (function() {
-      var t = localStorage.getItem('theme') || (window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light');
+      var t = localStorage.getItem('theme') || 'light';
       document.documentElement.setAttribute('data-theme', t);
     })();
   </script>
@@ -64,8 +64,7 @@
     (function() {
       var toggle = document.getElementById('theme-toggle');
       if (!toggle) return;
-      var theme = localStorage.getItem('theme') ||
-        (window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light');
+      var theme = localStorage.getItem('theme') || 'light';
       document.documentElement.setAttribute('data-theme', theme);
       toggle.textContent = theme === 'dark' ? 'Light mode' : 'Dark mode';
       toggle.addEventListener('click', function() {
