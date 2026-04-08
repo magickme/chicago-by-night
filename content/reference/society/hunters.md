@@ -399,3 +399,174 @@ True Faith can produce genuine miracles. These are rare — maximum once per sto
 **Unsettling Effect (1 or 3 points)** — Numina use is perceptible to observers (1 pt) or creates disturbing physical manifestations visible to anyone present (3 pts).
 
 **Psi Focus (3 or 5 points)** — Using Psychic Numina requires a specific gesture and spoken phrase (3 pts) or a physical focus object (5 pts) that must be held during activation. Powers fail without the focus.
+
+**Detached (4 points, Mental Merit)** — The hunter has cultivated emotional distance from the horror of what they do. Once per scene, when confronted with a fear-triggering stimulus that would require a Courage roll (not Rötschreck, which requires vampires), the hunter may spend 1 Willpower and forgo the roll entirely. This does not apply to supernatural fear effects.
+
+**Black and White (1 point, Mental Flaw)** — The hunter cannot tolerate moral ambiguity. Anytime a decision involves compromise — working with a lesser evil, allowing a vampire to escape to catch a larger target — the hunter must succeed at a Willpower roll (difficulty 6) to act against their absolute convictions. Failure means they pursue the morally clean option regardless of tactical consequence.
+
+**Combat Novice (2 points, Flaw)** — When the hunter first enters genuine physical combat in a scene (not sparring, not threats — actual violence), make a Willpower roll (difficulty 7). Failure: the hunter freezes or flees this turn and cannot take offensive actions. They may defend normally. This resets each scene; the hunter can overcome it within a scene once they have successfully acted.
+
+**Addicted to Vampire Blood (3 points, Flaw)** — The hunter has tasted Kindred vitae and cannot fully stop. Each week without access, make a Self-Control roll (difficulty 6); failure means the hunter actively seeks a vampire contact to feed from. The difficulty of this roll increases by 1 per additional week of deprivation (max 10). This creates obvious operational security risks and may result in ghoulification if the source is maintained.
+
+**Occult Library (2 or 4 points, Asset Merit)** — The hunter has access to a significant collection of occult reference material. At 2 points, reduce the difficulty of Investigation and Occult rolls related to identifying supernatural creatures, rituals, or artifacts by 1. At 4 points, the library also includes laboratory space — reduce difficulty on relevant Occult and Investigation extended rolls by 2, and the hunter may attempt research rolls that would otherwise require institutional access.
+
+**Science Laboratory (2 points, Asset Merit)** — The hunter has access to a working scientific laboratory (chemistry, biology, forensic analysis, or electronics — specify at creation). Reduce the difficulty of Investigation and Science rolls performed using that facility by 2. Reduce the difficulty of relevant adjacent rolls (Medicine for a biology lab, Technology for an electronics lab) by 1.
+
+**Pale Aura (2 points, Supernatural Merit)** — The hunter's aura reads as Kindred to casual supernatural examination. Standard Aura Perception reads the hunter as a vampire. Only a roll with 5 or more successes reveals mortal humanity beneath. This has no physical cause — the hunter simply registers wrongly.
+
+**Clear-Sighted (3 points, Supernatural Merit)** — The hunter has an innate resistance to illusion-based supernatural powers (Chimerstry, Obfuscate visual components, Dementation-induced hallucinations). When targeted by such powers, roll Perception + Alertness against a difficulty of the power's dot rating + 3. Success means the hunter perceives the effect for what it is, even if they cannot prevent it from affecting others present.
+
+**Poisonous Blood (5 points, Supernatural Merit)** — The hunter's blood is toxic to vampiric metabolism at a supernatural level beyond Toxic Blood. Any vampire who ingests the hunter's blood takes 1 level of bashing damage per blood point consumed, and must make a Stamina roll (difficulty 7) or spend the turn retching and lose that blood point without benefit. Stacking with Toxic Blood is not permitted — this replaces it.
+
+---
+
+## Combat Tactics Against Vampires
+
+Hunters operate at a fundamental disadvantage in direct combat. The tactical literature that circulates among experienced hunter cells addresses this asymmetry directly. These are not rules that neutralize vampires — they are methods for making the fight slightly less catastrophic.
+
+### Fire
+
+Fire is the cheapest, most available, and most psychologically effective weapon against vampires. Rötschreck is the mechanism. A vampire who fails a Rötschreck roll triggered by fire will flee, removing them from the fight entirely without requiring the hunter to survive a direct exchange.
+
+**Tactical use:** Long weapons (pole torches, fire extinguisher conversions, napalm dispensers) let a hunter threaten fire from beyond hand-to-hand range. A vampire who charges a hunter holding fire must either succeed at the Rötschreck check or spend Willpower to act through it. Burning objects in the environment (cars, furniture, buildings) creates ambient Rötschreck pressure that stacks with direct fire threats.
+
+**Limitations:** Fire is indiscriminate. It burns the location, alerts emergency services, and creates a crime scene. Hunters who use fire regularly in populated areas will exhaust their operational cover faster than their ability to regenerate it.
+
+### Sunlight
+
+Daytime attacks avoid almost every advantage a vampire possesses. Disciplines do not protect against sunlight. Generation does not help. The vampire is sleeping, has reduced dice pools for any waking resistance, and takes aggravated damage from exposure. This is not a combat situation — it is an execution.
+
+**Finding the haven:** The work is in locating where the vampire sleeps. Once that is established, the actual operation is straightforward. Hunters who fail to exploit daytime access in favor of nighttime confrontation are making a tactical mistake that cannot be justified.
+
+**Practical constraint:** Staking a sleeping vampire (to prevent escape) and then exposing them to sunlight is the cleanest solution available. See Staking below.
+
+### Silver and Holy Symbols
+
+Silver has no universal effect on vampires (it affects certain other supernatural creatures). Holy symbols work only against vampires when wielded by someone with genuine True Faith — the symbol has no power on its own.
+
+### Counter-Discipline Tactics
+
+Experienced hunters develop specific responses to supernatural powers:
+
+**Against Animalism (animal control):** Dogs and other animals are frequently used as vampire familiars or early-warning systems. High-pitched noise (dog whistles, ultrasonic emitters) disrupts canine-targeted Animalism. Separating a vampire from their animal network degrades their information gathering and early warning.
+
+**Against Auspex (heightened senses):** An Auspex-using vampire tracking by smell can be confused by strong competing scents (bleach, ammonia, rotting meat, perfume saturation). Auspex users with Psychic Projection can be hurt through their silver cord if the cell has any way to locate and attack the physical body. Overloading Auspex — extremely loud noise, brilliant lights — causes sensory disruption penalties on high-level Auspex users.
+
+**Against Dominate (mental control):** Avoid direct eye contact. Sunglasses, peripheral engagement, communicating by text or writing, operating from behind the subject — any technique that denies the required gaze contact disrupts Dominate's primary delivery mechanism. Hunters with Clear-Sighted or True Faith Level 3 are immune.
+
+**Against Obfuscate (invisibility):** Vampires under Obfuscate still displace physical material. Loose flour, sand, or dust scattered across a room will show tracks and footprints from a moving invisible form. Dogs and animals with strong scent can often detect Obfuscated vampires (their mundane senses bypass Obfuscate). Psychics with Aura Perception at Level 1 see auras — an Obfuscated vampire's aura may still be faintly visible. Hunters with Clear-Sighted can pierce Obfuscate.
+
+**Against Presence (emotional manipulation):** Presence works through emotional channels. Hunters who can recognize the unnatural pull of Presence can spend Willpower to resist. A cell standing physically together can remind each other of the manipulation, grounding resistance collectively. Presence cannot override pre-existing intense hatred — a hunter who genuinely loathes the vampire being interrogated is partially buffered.
+
+---
+
+## The Plan (Plan Dice System)
+
+Improvised attacks on vampires fail at high rates. Preparation is the hunter's primary force multiplier. The Plan Dice system converts pre-mission preparation into a concrete mechanical resource.
+
+### Building Plan Dice
+
+Before an operation, the cell works through preparation steps. Each completed step contributes to the Plan Dice pool. The final pool is the sum of all preparation steps divided by the number of hunters in the cell (round down, minimum 1).
+
+**Preparation Steps:**
+
+| Step | Description |
+|---|---|
+| Info | Establish what is known. Each relevant piece of solid intelligence counts as 1 step. Rumors and guesses do not count. |
+| Step by Step | Map out the operation sequence. For each phase of the plan that is specifically defined (entry, engagement, extraction), count 1 step. |
+| Assign Jobs | Each hunter has a specific defined role. Count 1 step when all roles are assigned and all hunters agree to them. |
+| Poke Holes | The cell deliberately identifies the weakest points in the plan. For each identified vulnerability and proposed contingency, count 1 step. |
+| Tool Up | The cell acquires the specific equipment needed for this operation. Count 1 step per resource category secured (weapons, medical, transport, communications, specialist gear). |
+| Affairs in Order | Each hunter makes personal preparations (updated will, checked-in with contacts, memorized extraction routes). Count 1 step when the full cell has completed this. |
+
+### Using Plan Dice
+
+During the operation, a hunter may spend Plan Dice from the pool to:
+
+- Add dice to a resistance roll (resisting a Discipline, avoiding detection, recovering from a botch)
+- Reduce the difficulty of a roll by 1 per die spent (minimum difficulty 4)
+- Retroactively establish that the cell anticipated a specific complication (Storyteller must judge this as plausible given the prep steps taken)
+
+Plan Dice are a shared pool — any hunter may spend from it, but each die spent is gone from the pool. The pool does not carry over between operations.
+
+**Unknown complications:** If the cell encounters something their preparation could not have anticipated (a power they have never seen, an extra vampire, a structural change to the location), the Storyteller may increase the difficulty of relevant rolls by 1 and deny the use of Plan Dice for that specific complication.
+
+---
+
+## Hunter Cell Formation
+
+### Ideal Size
+
+Three to six hunters. Smaller cells lack redundancy — one casualty breaks capability. Larger cells develop communication problems, divergent agendas, and infiltration risk. The cell is not an army; it is a precision instrument.
+
+### Ground Rules
+
+A cell that has not established operating procedures before its first operation will create them under pressure, which produces worse rules and worse outcomes. The following questions should be resolved before any mission:
+
+**Function:** What does this cell actually do? Observe-and-report only? Active operations? Intelligence aggregation? A cell without a defined function will drift toward whatever the most aggressive member wants.
+
+**Leadership:** Who makes final calls when consensus fails? This must be designated in advance. Leadership-by-committee fails at high-stakes moments.
+
+**Decision-making:** What requires full consensus vs. individual discretion? Escalating an operation to lethal force, bringing in a new member, burning a safehouse — these should have pre-agreed thresholds.
+
+**Labor division:** Who handles which functions? Intelligence, logistics, combat, medical, communications. Informal coverage of all functions is better than formal coverage of none.
+
+**Meeting places:** Two or three pre-arranged fallback locations. Primary, secondary, tertiary. If the primary is compromised, everyone knows where to go. These locations should not require communication to coordinate — if the cell has gone silent, everyone knows the sequence.
+
+**Alibi:** Every operation needs cover. What does each hunter tell their mortal contacts about their whereabouts? Consistent cover stories among all cell members. Gaps in alibi coverage become police problems become vampiric intelligence problems.
+
+**Compromise protocol:** If a hunter is taken or turned — what is the cell's response? Who makes the call? How long does the cell wait before assuming compromise? These decisions cannot be made while it is happening.
+
+### Cell Types
+
+**Observe-and-Report:** The cell gathers intelligence on vampiric activity and passes it to other cells or organizations. They do not engage directly. This maximizes operational security and cell survival. The limitation is that actionable intelligence they generate may be used in ways they cannot control.
+
+**Militarized:** The cell conducts direct operations against vampires. Higher casualty rate, higher impact. Requires physical capability, weapons access, and significant operational discipline to avoid exposure.
+
+**Networking:** The cell aggregates intelligence across multiple other hunter cells, coordinates non-overlapping operations, and identifies patterns larger than any single cell can perceive. They are force-multipliers for other cells. Their vulnerability is that their network map, if exposed, compromises everyone in it.
+
+---
+
+## Group Combat Tactics
+
+Individual hunters lose to vampires in direct combat almost universally. Group tactics shift the calculus enough to make certain operations viable.
+
+### Same Damn Spot
+
+Coordinate all cell members to target the same location on the vampire's body each turn. The first hit lands normally. Each subsequent hit by a different attacker targeting the same location on the same turn increases the effective soak difficulty by 1 per hit. Five hunters all landing blows in the same spot in the same turn forces a soak roll at difficulty +4 beyond the vampire's natural soak — which creates lethal outcomes even against high-Stamina targets.
+
+**Mechanical note:** The Storyteller tracks cumulative hits per location per turn. The difficulty bonus applies to the soak rolls for those hits after the first.
+
+**Limitation:** Requires coordinated targeting declarations before the turn. In chaos and close quarters, hunters who haven't trained together will not maintain target discipline.
+
+### Light 'em Up
+
+Use fire sources at reach weapon length to herd a vampire into a kill zone rather than attempting to burn them directly. A hunter with a lit torch, a chemical fire extinguisher converted to spray accelerant, or a fire-tipped lance creates a Rötschreck trigger at range.
+
+The vampire must either check for Rötschreck (difficulty 3 for a small flame, up to difficulty 9 for a serious fire source), spend Willpower to resist and act, or retreat. Multiple hunters with fire weapons create overlapping threat zones that force multiple Rötschreck checks in sequence. A vampire who spends Willpower to resist one check takes cumulative penalties on subsequent ones within the same scene.
+
+**Goal:** Force the vampire out of a controlled space, through a prepared area, into a position where the cell's most effective assets are waiting.
+
+### Staking
+
+A staked vampire is paralyzed but not destroyed. A stake through the heart is a restraint and a setup for what comes next — sunlight, decapitation, or relocation to a more controlled environment.
+
+**Placing the stake:**
+
+1. The hunter must grapple the vampire or pin them. Roll Strength + Athletics against the vampire's Strength + Brawl. The vampire may dodge rather than resist. The grapple succeeds if the hunter wins the opposed roll.
+2. Once grappled, the hunter must hold position while a second hunter places the stake. The holding hunter re-rolls Strength + Brawl each turn against the vampire's Strength to maintain the pin.
+3. The second hunter rolls Dexterity + Melee (difficulty 7, +1 for each turn the vampire has successfully resisted the grapple). Three successes are required to place the stake. The stake does normal weapon damage but must reach the heart — if the vampire has armor or supernatural protection, this factors into difficulty.
+
+A botch on the staking roll does not place the stake and may damage the hunter attempting it.
+
+**Once staked:** The vampire is conscious but paralyzed until the stake is removed. They can still perceive their surroundings, and any Discipline with a passive component or activated mental effect may still function — Storyteller discretion. They cannot take physical actions. Another vampire removing the stake is possible if the hunter does not control the environment.
+
+### Beast Baiting
+
+One hunter acts as visible bait, taking or displaying enough injury to trigger the vampire's predatory instincts. The Beast responds to blood, injury, and vulnerability; a hunter who exposes themselves convincingly forces a Self-Control roll from any vampire within visual range (difficulty 5 for minor display, up to 8 for an obviously mortal victim in distress).
+
+A vampire who fails the Self-Control roll enters frenzy and charges the bait, losing tactical awareness and the ability to use Disciplines requiring concentration. The remaining hunters attack from positions the vampire is no longer covering.
+
+**Mechanical note:** All hunters attacking a frenzied vampire reduce their attack difficulty by 2. The frenzied vampire cannot selectively use non-automatic Disciplines (Celerity and Potence still function; Dominate and Presence do not).
+
+**Cost:** The bait hunter is in genuine danger. A frenzied vampire in full attack mode will kill a mortal target in one or two turns without supernatural intervention. This tactic requires either the bait hunter having an extraction route or the cell being fast enough to incapacitate the vampire before it reaches the bait.

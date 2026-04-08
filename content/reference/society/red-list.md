@@ -307,6 +307,124 @@ A 5th Generation Methuselah functioning as a Sabbat Inquisitor who has turned he
 
 ---
 
+## Alastor Character Creation
+
+Alastors use standard vampire character creation (V20, Chapter Three). The following specifics apply to Alastor-focused play.
+
+### Concept
+
+Start with the circumstance of appointment: did the character kill an Anathema (automatic appointment) or was the character nominated by two Justicars (selective process)? The motivation for hunting — revenge, glory, Camarilla loyalty, venal opportunism — shapes the character's Natures, Demeanor, and long-term decisions.
+
+### Attributes
+
+Alastors skew toward high Mental (investigation and planning) or high Physical (combat and endurance). Most veteran Alastors have solid spread across all three categories because the hunt requires both.
+
+### Abilities
+
+Prioritize: Alertness, Stealth, Investigation, Streetwise (Talents/Skills). Knowledges: Occult, Politics, and whichever specialized discipline the Alastor is known for — Law, Medicine, or academic fields depending on investigative style. The Alastor supplement specifically flags that high-Generation Alastors are often tasked with tech-heavy intelligence work, so Computer and related Knowledges matter for that type.
+
+### Backgrounds
+
+The following Backgrounds are recommended or specifically noted as important:
+
+**Allies** — Critical. Mortal Allies for grunt work (surveillance, research, legwork) reduce pressure on Kindred. Mortals are expendable assets in ways that vampires are not, but working with them risks Masquerade exposure. Balance accordingly.
+
+**Alternate Identity** — Many Alastors maintain deep-cover identities in the Sabbat or Anarch Movement to pursue specific Anathema. A 3-dot Alternate Identity allows plausible infiltration of non-Camarilla domains for extended periods.
+
+**Armory** — Weapon caches matter for Alastors because they often operate far from stable supply lines. See Hunters Hunted II for full Armory dot descriptions; Alastors often invest here specifically.
+
+**Contacts** — The most consistently useful Background. Contacts in multiple cities, including mortal-level watchers paid or Conditioned to report on unusual activity, allow Alastors to maintain passive surveillance networks across domains. Even minor clues picked up by a network Contact can break a cold trail on an Anathema's movements.
+
+**Generation** — Lower Generation is preferred by the Justicars for combat-focused roles. Higher-Generation Alastors are steered toward specialist positions: research, auditing, interrogation, infiltration. A 12th-Generation Alastor who survives does so through specialization and support roles, not direct confrontation with 5th-Generation Methuselahs.
+
+**Mentor** — Many Alastors have a senior patron: a Red Alastor, an experienced Archon, or occasionally a Justicar. The Mentor Background represents access to this resource for advice, operational guidance, and political interference on the Alastor's behalf.
+
+**Retainers (Ghouls)** — Useful for the same reasons as Allies but more durable and discreet. The challenge is maintenance: Alastors who never stay in one city for more than a few months find ghoul upkeep difficult. Ghouls may be placed in fixed locations as stationary assets rather than traveling with the Alastor.
+
+**Status** — Many Alastors carry Status from their Archon background or from having earned a Trophy. This Status opens Prince cooperation when visiting domains on the hunt.
+
+### Disciplines
+
+Alastors do not receive any automatic Discipline access beyond their Clan norms, but they share techniques learned in the field. Three **combination Disciplines** have spread through Alastor networks and are known to some proportion of active Alastors:
+
+**Quick Sight (Auspex 1, Celerity 2)** — Cost: 1 BP. Duration: 1 scene. The Alastor can observe fast-moving objects (arrows, bullets, Celerity-enhanced movement) as if at normal speed. Roll Wits + Alertness to interpret details; difficulty depends on object speed (typically 6–7). Useful for tracking Celerity-using Anathema or countering ambush.  
+*XP cost to learn: 9.*
+
+**Iron Facade (Fortitude 1, Obfuscate 3)** — Roll Manipulation + Subterfuge, difficulty 6. Duration: 1 scene (or until Incapacitated). The Alastor appears unwounded regardless of actual health level, making it impossible for opponents to judge fighting capacity. Does not heal or reduce penalties; purely perceptual. Auspex exceeding the Alastor's Obfuscate sees through the facade.  
+*XP cost to learn: 10.*
+
+**Badger's Hide (Fortitude 1, Protean 4)** — Cost: 1 BP. Duration: 1 scene. Skin hardens into a durable hide. Piercing attacks (stabbing knives, impaling spears, crossbow bolts) have their damage halved after soak; any attack that penetrates deals a minimum of 1 health level regardless.  
+*XP cost to learn: 12.*
+
+**Lucinde's Revenge (Dominate 4, Fortitude 4)** — Generation-based protection against Presence: only Kindred of lower Generation than the user can affect them with Presence powers. A 9th-Generation Alastor is immune to Presence from 10th-Generation and above. Specifically counters the Anathema's social and emotional manipulation capabilities.  
+*XP cost to learn: 25.*
+
+---
+
+## Alastor Merits and Flaws
+
+### Merits
+
+**Trophy Allegiance (4 pt. Merit)** — The character has killed an Anathema and earned a Trophy from the Trophy Clan. Word has spread. Members of that Clan offer −2 difficulty on friendly Social rolls and occasional small favors (haven use, loaner vehicles, intelligence access). *Only available to Alastors who have killed an Anathema; not available by Justicar nomination alone.*
+
+Other V20 Merits particularly suited to Alastors (no mechanical changes): Bruiser, Daredevil, Coldly Logical, Concentration, Useful Knowledge, Code of Honor, Eidetic Memory, Iron Will, Open Road (if available in chronicle), Boon.
+
+### Flaws
+
+**Trophy Arrogance (4 pt. Flaw)** — The character has been abusing the Trophy Clan's generosity — demanding resources beyond what was promised, throwing the kill in the Clan's face, making excessive demands on local Kindred. The Clan's goodwill is exhausted. This Flaw represents the social cost of entitlement following a major kill. *Only available to Alastors who killed an Anathema; not available by nomination.*
+
+Other V20 Flaws particularly suited to Alastors: Addiction, Vengeful, Dark Secret, Enemy, Narc, Dark Fate.
+
+---
+
+## Alastor Investigation Mechanics
+
+The following mechanics govern how Alastors — and Archons — pursue investigations against Anathema and other Kindred criminals.
+
+### Gathering Evidence
+
+Alastors pursuing an Anathema rely on a multi-source intelligence chain. **Contacts** in multiple cities serve as passive watchers. A successful **Wits + Investigation** roll (difficulty 6–8 based on Anathema precautions) allows the Alastor to synthesize scattered reports into actionable location data.
+
+When building a case for a conclave or Justicar report, the Alastor must accumulate evidence supporting:
+- The Anathema's identity (confirmed, not assumed)
+- Current operational base or region
+- Recent Masquerade violations or Camarilla crimes
+- Associates, ghouls, and allies who could be leveraged
+
+Each category requires at least one Wits + Investigation or Intelligence + (relevant Knowledge) roll. Failure produces incomplete intelligence that may cause operational errors later.
+
+### Going Undercover
+
+Alastors with an Alternate Identity Background can embed in Sabbat packs or Anarch gangs to gather intelligence on Anathema with Sect affiliations. The cover requires active maintenance:
+
+- **Monthly Manipulation + Subterfuge** roll (difficulty = the Sect contact's Perception + Occult, maximum 9) to sustain the cover identity against suspicion.
+- If the Alastor is required to commit acts that violate Camarilla Traditions to maintain cover, the Justicars accept this under operational necessity doctrine — but only if there is a clear operational purpose.
+- Extended undercover assignments (months to years) require periodic contact with the Alastor's chain of command. Breaking contact for more than three months without reason triggers an internal inquiry.
+
+### Confirming Final Death
+
+Standard staking and burning is insufficient for several Anathema (particularly Valerius Maior, whose body-jumping abilities are suspected). Confirming Final Death requires:
+
+1. Physical destruction of the body (fire preferred; stake alone does not suffice)
+2. An Auspex-based scan of the site by an Alastor or Tremere assistant to verify no residual vampiric presence
+3. A written report filed with the presenting Justicars and the Trophy Clan
+
+Without all three steps, the Anathema is classified as "unconfirmed destroyed" and the Trophy is not awarded.
+
+### Bloodhunt Mechanics (Player Character Context)
+
+When a blood hunt is called against a target in the player characters' domain:
+
+- All vampires in the domain are **obligated** to participate or face the Prince's displeasure and potential Tradition violation charges.
+- Killing the hunted vampire during an active Bloodhunt is legal and generates no social penalty.
+- Evidence of participation (witnesses, the body) protects against accusations of sheltering the hunted.
+- The hunt can be called off only by the Prince who declared it. A Red List Bloodhunt cannot be called off by anyone.
+- Princes cannot call off or modify a Red List hunt at all; this is outside their jurisdiction.
+
+For player characters who are Alastors hunting an Anathema into a Prince's domain: the Alastor operates outside the Prince's authority and cannot be legally refused entry or assistance, but the Prince can make the experience difficult through non-cooperation, withheld information, and redirected Sheriffs.
+
+---
+
 ## Council of Scales
 
 An informal Camarilla group (drawn primarily from Brujah, Nosferatu, Tremere, and Ventrue) that studies Tradition law and quietly monitors the Red List nomination process. The Council meets quarterly. It has no formal authority but influences nominations, investigates Prince misconduct, and occasionally challenges Anathema listings it considers politically motivated (see: Germaine, #7). Its existence is known to senior Camarilla officials but is not widely publicized.
