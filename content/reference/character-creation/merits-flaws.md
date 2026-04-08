@@ -347,3 +347,19 @@ These Merits and Flaws are restricted to specific bloodlines unless noted otherw
 **The Largest Maw (2pt. Flaw)** — Shark-like rows of teeth make clear speech difficult. Speech comes out thick with spit; the character may accidentally bite their own teeth mid-sentence. +2 difficulty to all rolls where clear speech is required (speeches, delicate rituals, social performance).
 
 **Body Trail (4pt. Flaw)** — The character is consistently sloppy about cleaning up kills, or deliberately leaves signatures. For each person killed during a single story, reduce the difficulty of Survival checks to track the character by 1. This cumulative penalty resets at the beginning of a new story — assuming the character survives that long.
+
+---
+
+## Caitiff Merits & Flaws
+
+These Merits and Flaws apply to Caitiff (clanless vampires) and reflect the unique social and supernatural circumstances of vampires without clan identity.
+
+**Personal Masquerade (3pt. Merit)** — Through charm, manipulation, or luck, the character has convinced other vampires they belong to one of the clans. Social interactions with vampires ignorant of their true nature ignore the usual Caitiff status penalty. The ruse requires constant vigilance; discovery means swift and severe consequences. The higher the character climbs in Kindred politics, the more likely exposure becomes. Taking the Clan Weakness Flaw can actually support this Masquerade.
+
+**Clan Weakness (2pt. Flaw)** — Despite failing to develop the parent clan's other abilities, the character inherited their weakness. A canny Caitiff might turn this to advantage to better blend with the parent clan — some Nosferatu would never notice a Caitiff bearing their weakness, and might stand up for them against accusations.
+
+**Fangless (2pt. Flaw)** — The character never developed fangs, or lacked teeth before the Embrace. Feeding requires a knife or drinking from wounds inflicted by other means. The character has no natural way to inflict aggravated damage without Disciplines.
+
+**Ignorance (2pt. Flaw)** — The sire abandoned the character without instruction. The character starts with no knowledge of vampire abilities, customs, or politics and must learn from mistakes or find a mentor — who will most likely blood bond them. For most Princes, ignorance is no excuse for a Masquerade breach.
+
+**Bulimia (4pt. Flaw)** — The character hungers for blood but cannot retain it. Whenever they feed, roll Stamina (difficulty 8); failure means the blood is vomited out before absorption, spraying everywhere. Blood taken in frenzy is absorbed normally.
