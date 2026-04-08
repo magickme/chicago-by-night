@@ -1,7 +1,7 @@
 ---
 title: "Dominate"
 description: "Mind control through eye contact and verbal commands. In-Clan for Ventrue, Tremere, Lasombra, Giovanni."
-weight: 40
+weight: 60
 ---
 
 Dominate is the power of mental command — implanting orders, erasing memories, and conditioning behavior through eye contact and will. It is the Ventrue's defining social weapon and the Tremere's administrative backbone.

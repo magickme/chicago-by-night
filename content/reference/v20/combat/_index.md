@@ -1,7 +1,7 @@
 ---
 title: "Combat"
 description: "Complete V20 combat rules — initiative, attack, damage, multiple actions, and combat maneuvers."
-weight: 35
+weight: 30
 ---
 
 Each combat **turn is approximately 3 seconds** and has three stages. Initiative is declared before actions; damage resolves after.

@@ -1,7 +1,7 @@
 ---
 title: "Clans"
 description: "The 13 great vampire clans — bloodlines, disciplines, weaknesses, and culture."
-weight: 60
+weight: 5
 ---
 
 The thirteen great clans are the primary social and genealogical divisions of Kindred society. Clan membership is determined by the blood of one's sire — with exceptions, a childe inherits the clan of the vampire who Embraces them.

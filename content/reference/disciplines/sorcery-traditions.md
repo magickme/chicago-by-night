@@ -1,7 +1,7 @@
 ---
 title: "Sorcery Traditions"
 description: "Alternate Thaumaturgy systems — Akhu, Dur-An-Ki, Sadhana, and Wanga. Non-Tremere blood magic traditions with unique mechanics."
-weight: 160
+weight: 190
 ---
 
 Not all blood magic is Tremere Thaumaturgy. Several ancient sorcery traditions developed independently, each with its own cultural framework, activation mechanics, and unique paths. These systems function mechanically as Discipline trees — each tradition is a separate Discipline, learned and advanced independently from Thaumaturgy.

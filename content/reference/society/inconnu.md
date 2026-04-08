@@ -1,7 +1,7 @@
 ---
 title: "Inconnu"
 description: "The mysterious elder sect — ancient Kindred who have withdrawn from the Jyhad. Structure, Monitors, Golconda connection, and mechanical interaction rules."
-weight: 60
+weight: 50
 ---
 
 The Inconnu is neither a Sect in the political sense nor a faction in the Jyhad. It is a loose confederation of ancient vampires — most of them elders or ancients — who have withdrawn from Kindred politics entirely or are actively pursuing Golconda. They watch but do not govern. They intervene only when they must.

@@ -1,7 +1,7 @@
 ---
 title: "Abilities"
 description: "All Talents, Skills, and Knowledges. What each covers, default penalties, and specialties."
-weight: 20
+weight: 30
 ---
 
 Abilities represent learned or practiced capacities — training, education, and experience. They differ from Attributes (innate potential) in that characters can have 0 dots in an Ability.

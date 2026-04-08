@@ -1,7 +1,7 @@
 ---
 title: "Generation"
 description: "The blood's potency — Generation chart, blood pool maximums, and trait caps by Generation."
-weight: 25
+weight: 20
 ---
 
 Generation measures the dilution of Caine's original curse. The closer to the source, the more potent the blood — and the more powerful the vampire. Third Generation (Antediluvians) are theoretically 3 steps from Caine; most player characters are 10th–13th Generation.

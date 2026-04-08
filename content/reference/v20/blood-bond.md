@@ -1,7 +1,7 @@
 ---
 title: "Blood Bond"
 description: "The three-drink bond — formation, stages, mechanical effects, the Vinculum, and breaking free."
-weight: 15
+weight: 50
 ---
 
 The blood bond is the most powerful mechanism of control in the vampiric world. It is not metaphor. Three drinks of a vampire's vitae, taken on three separate nights, creates a psychic and spiritual enslavement so total that lovers, family, and self-preservation all become secondary to the regnant. The Camarilla uses it to control childer. Elders use it to control Princes. Princes use it to control everyone they can reach.

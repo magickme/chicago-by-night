@@ -1,7 +1,7 @@
 ---
 title: "Hunters"
 description: "Mortal vampire hunters — organizations, Numina mechanics, True Faith, and character creation."
-weight: 60
+weight: 90
 ---
 
 Hunters are mortals who know vampires exist and have chosen to do something about it. They are not superhumanly capable. They die easily, heal slowly, and operate with incomplete information. Their advantage is that vampires consistently underestimate them — and some of them carry powers that don't respond to Discipline-based defenses.

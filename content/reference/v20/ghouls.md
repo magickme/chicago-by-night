@@ -1,7 +1,7 @@
 ---
 title: "Ghouls & Blood Bonds"
 description: "Ghoul creation and maintenance, Discipline limits, withdrawal, Renfield Syndrome, blood bond stages, breaking bonds, and True Faith."
-weight: 70
+weight: 75
 ---
 
 ## Blood Bond

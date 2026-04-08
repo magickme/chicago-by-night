@@ -1,7 +1,7 @@
 ---
 title: "Frenzy & Rotschreck"
 description: "The Beast unleashed — frenzy triggers, resistance, riding the wave, and the Red Fear."
-weight: 30
+weight: 40
 ---
 
 Frenzy is the moment the Beast wins. The vampire surrenders rational control and becomes a creature of pure hunger, rage, or terror — feeding on whoever is closest, destroying the source of anger, or fleeing in blind panic from fire. It is the defining horror of the vampiric condition.

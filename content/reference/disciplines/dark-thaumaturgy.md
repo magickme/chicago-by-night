@@ -1,7 +1,7 @@
 ---
 title: "Dark Thaumaturgy"
 description: "Infernal blood magic — the three paths of damnation: Fires of the Inferno, Path of Phobos, and Taking of the Spirit."
-weight: 155
+weight: 200
 ---
 
 Dark Thaumaturgy is expressly infernal blood magic. Unlike Tremere Thaumaturgy, it is not a Discipline developed through study and blood refinement but a power granted through pacts with demonic entities. Practitioners are infernalists — vampires who have bargained away parts of their soul for power.

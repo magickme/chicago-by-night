@@ -1,7 +1,7 @@
 ---
 title: "Backgrounds"
 description: "All 14 V20 Backgrounds: what each represents and what each dot level provides."
-weight: 30
+weight: 40
 ---
 
 Backgrounds represent external resources and social capital — the things your character has access to rather than innate capacities. They are generally purchased at character creation and can change during play as circumstances change.

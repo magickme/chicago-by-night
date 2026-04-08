@@ -1,7 +1,7 @@
 ---
 title: "Archetypes"
 description: "Nature and Demeanor: what they are, how they differ, and all major archetype definitions with Willpower regain conditions."
-weight: 40
+weight: 10
 ---
 
 Every character has two archetypes: **Nature** (who you truly are) and **Demeanor** (the face you show the world). They may be identical or radically different. The gap between them is a character dimension — and often a vulnerability.

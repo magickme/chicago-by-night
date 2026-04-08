@@ -1,7 +1,7 @@
 ---
 title: "Social Feats"
 description: "Complete social mechanics: seduction protocol, interrogation, credibility, fast-talk, intimidation, oration, and Discipline interaction with social rolls."
-weight: 65
+weight: 70
 ---
 
 ## Credibility (Lying / Detecting)

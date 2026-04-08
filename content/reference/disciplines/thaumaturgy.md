@@ -1,7 +1,7 @@
 ---
 title: "Thaumaturgy"
 description: "Blood magic and hermetic sorcery. In-Clan for Tremere."
-weight: 155
+weight: 160
 ---
 
 Thaumaturgy is the Tremere's proprietary Discipline — not an innate supernatural gift like Celerity or Fortitude, but a structured magical system built by the clan's founder Tremere by cannibalizing the practices of multiple occult traditions. It is organized into Paths (active magical applications) and Rituals (slower-working ceremonial magic).

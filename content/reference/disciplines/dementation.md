@@ -1,7 +1,7 @@
 ---
 title: "Dementation"
 description: "Transmitting madness. In-Clan for Malkavian."
-weight: 35
+weight: 50
 ---
 
 Dementation does not create madness — it awakens what is already there. Every mind contains cracks, buried fears, suppressed trauma, and the raw material of breakdown. Dementation finds these seams and pries them open. What emerges is something that was always there, now given permission to surface.

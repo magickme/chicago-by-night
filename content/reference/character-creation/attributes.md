@@ -1,7 +1,7 @@
 ---
 title: "Attributes"
 description: "The nine core attributes across Physical, Social, and Mental categories. What each measures and how it's used."
-weight: 10
+weight: 20
 ---
 
 Attributes measure your character's innate capacities — what they're capable of before training or study. Every vampire has at least 1 dot in every attribute. Attributes are divided into three categories of three.

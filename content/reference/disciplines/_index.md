@@ -1,7 +1,7 @@
 ---
 title: "Disciplines"
 description: "All V20 Disciplines with complete dot-by-dot power descriptions, costs, dice pools, and durations."
-weight: 20
+weight: 30
 ---
 
 Disciplines are supernatural powers awakened by the vampiric condition. They develop through blood expenditure, instruction, and practice. Each dot represents a discrete power; higher-level powers require all lower levels as prerequisites.
@@ -18,7 +18,39 @@ Then the mechanical and narrative description.
 - Most powers cost 1 Blood Point and/or 1 Willpower Point to activate
 - Activation is instant unless noted as a sustained action
 - Discipline rolls typically use an Attribute + relevant Ability, opposed by the target's Willpower or a static difficulty
-- Botching a Discipline roll against a True Faith target may result in burnout (see [Ghouls & True Faith](../society/ghouls/))
+- Botching a Discipline roll against a True Faith target may result in burnout (see [Ghouls & True Faith](../v20/ghouls/))
+
+## Core Disciplines
+
+| Discipline | Clan | Notes |
+|------------|------|-------|
+| [Animalism](animalism/) | Gangrel, Nosferatu, Ravnos, Tzimisce | Beast communication and domination |
+| [Auspex](auspex/) | Malkavian, Toreador, Tremere, Tzimisce | Heightened senses, ESP, aura reading |
+| [Celerity](celerity/) | Assamite, Brujah, Toreador | Supernatural speed |
+| [Chimerstry](chimerstry/) | Ravnos | Illusions — from sensory tricks to solid constructs |
+| [Dementation](dementation/) | Malkavian | Madness induction; Malkavian Network access |
+| [Dominate](dominate/) | Giovanni, Lasombra, Tremere, Ventrue | Mind control and memory manipulation |
+| [Fortitude](fortitude/) | Gangrel, Ravnos, Ventrue | Supernatural resilience; only way to soak aggravated |
+| [Necromancy](necromancy/) | Giovanni | Control over the dead and the Underworld |
+| [Obfuscate](obfuscate/) | Assamite, Followers of Set, Malkavian, Nosferatu | Concealment and invisibility |
+| [Obtenebration](obtenebration/) | Lasombra | Shadow manipulation; entering the Abyss |
+| [Potence](potence/) | Brujah, Giovanni, Lasombra, Nosferatu | Supernatural strength |
+| [Presence](presence/) | Brujah, Followers of Set, Toreador, Ventrue | Emotional manipulation and command |
+| [Protean](protean/) | Gangrel | Shapeshifting — claws, mist, earth burial, animal form |
+| [Quietus](quietus/) | Assamite | Blood-based assassination; Assamite caste variants |
+| [Serpentis](serpentis/) | Followers of Set | Serpent transformation and corruption |
+| [Thaumaturgy](thaumaturgy/) | Tremere | Hermetic blood sorcery — paths and rituals |
+| [Vicissitude](vicissitude/) | Tzimisce | Flesh and bone reshaping |
+
+## Supplemental
+
+| Section | Contents |
+|---------|----------|
+| [Combination Disciplines](combination/) | 73 cross-clan combo powers; organized by clan |
+| [Sorcery Traditions](sorcery-traditions/) | Akhu, Dur-An-Ki, Sadhana, Wanga — non-Tremere blood sorcery |
+| [Dark Thaumaturgy](dark-thaumaturgy/) | Infernal blood magic — Fires of the Inferno, Path of Phobos, Taking of the Spirit |
+
+---
 
 ## Resistance
 

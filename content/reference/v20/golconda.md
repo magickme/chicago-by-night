@@ -1,7 +1,7 @@
 ---
 title: "Golconda"
 description: "Vampiric enlightenment — prerequisites, the Suspire, mechanical effects, and threats to the transcendent state."
-weight: 55
+weight: 80
 ---
 
 Golconda is not a place. It is not a Discipline. It is not a Path. It is the one outcome in vampiric existence that is neither destruction nor endless predation — a state of transcendence in which the Beast has been recognized, understood, and brought into harmony with the rational mind.

@@ -1,7 +1,7 @@
 ---
 title: "Blood Economy"
 description: "Blood pool by Generation, nightly waking cost, spending blood, feeding procedure, vessel yield, and Self-Control cap."
-weight: 20
+weight: 15
 ---
 
 ## Blood Pool by Generation

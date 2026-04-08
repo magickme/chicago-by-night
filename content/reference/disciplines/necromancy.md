@@ -1,7 +1,7 @@
 ---
 title: "Necromancy"
 description: "Control over death, ghosts, and corpses. In-Clan for Giovanni."
-weight: 75
+weight: 80
 ---
 
 Necromancy is both a Discipline and a magical tradition — a structured body of ritualized practice built over centuries by the Giovanni family. It operates across two domains: Sepulchre Path (interaction with the dead and their realm) and the Bone Path (manipulation of corpses), plus several supplementary Paths at elder levels.

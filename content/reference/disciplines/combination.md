@@ -1,7 +1,7 @@
 ---
 title: "Combination Disciplines"
 description: "Clan-specific powers developed by blending two or more Disciplines — prerequisites, XP costs, and mechanics for all major V20 clan combos."
-weight: 25
+weight: 180
 ---
 
 Combination Disciplines are unique powers that emerge from mastering multiple Disciplines simultaneously. They must be learned separately (costing XP as listed) and are **not** automatically gained when prerequisites are met.

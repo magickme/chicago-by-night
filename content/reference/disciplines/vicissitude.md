@@ -1,7 +1,7 @@
 ---
 title: "Vicissitude"
 description: "Flesh and bone sculpting. In-Clan for Tzimisce."
-weight: 160
+weight: 170
 ---
 
 Vicissitude is flesh made clay — the Tzimisce Discipline of reshaping living and dead matter. Bone, muscle, skin, and organ can be sculpted, rearranged, or completely restructured. The Tzimisce consider this an art form. Their work ranges from practical disguise to architectural horror to the creation of the war-ghouls called Szlachta.

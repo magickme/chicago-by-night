@@ -1,7 +1,7 @@
 ---
 title: "Chimerstry"
 description: "Illusion creation. In-Clan for Ravnos."
-weight: 25
+weight: 40
 ---
 
 Chimerstry creates illusions — phantom sensory experiences with no physical substance. Unlike Obfuscate (which clouds minds) or Dominate (which compels actions), Chimerstry manufactures false perceptions that the target's own senses then interpret as real. At high levels the illusions have enough apparent substance to cause actual harm through the mind-body link.

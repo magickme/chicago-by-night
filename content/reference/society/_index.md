@@ -1,7 +1,7 @@
 ---
 title: "Society"
 description: "Kindred society — the five Sects (Camarilla, Sabbat, Anarchs, Tal'Mahe'Ra, Inconnu), social mechanics, prestation, and the Jyhad."
-weight: 40
+weight: 10
 ---
 
 Kindred exist within a complex web of political factions, social obligations, and supernatural bonds. Five Sects divide the vampiric world — from the Camarilla's establishment order to the Sabbat's crusade, Anarch autonomy, the Tal'Mahe'Ra's covert manipulation, and the Inconnu's ancient withdrawal from the Jyhad entirely.

@@ -1,7 +1,7 @@
 ---
 title: "The Red List"
 description: "The Camarilla's 13 most-wanted — Anathema, Alastors, blood hunt mechanics, and Lextalionis."
-weight: 50
+weight: 80
 ---
 
 The Red List is the Camarilla's global most-wanted registry — a roster of no more than 13 Kindred (and rarely, mortals) declared enemies of the Sect. Every vampire on the list is permanently subject to a worldwide blood hunt. Each entry is called an **Anathema**.

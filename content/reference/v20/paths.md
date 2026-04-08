@@ -1,7 +1,7 @@
 ---
 title: "Paths of Enlightenment"
 description: "Inhuman moral codes that replace Humanity — all 11 canonical Paths with their Hierarchies of Sin."
-weight: 55
+weight: 60
 ---
 
 Paths of Enlightenment are moral frameworks for vampires who have abandoned Humanity and embraced their inhuman nature. Mechanically, they function identically to Humanity — each Path has a Hierarchy of Sins, and degeneration rolls occur when the vampire violates their Path. The difference is that these Hierarchies encode alien values entirely.

@@ -1,7 +1,7 @@
 ---
 title: "Fortitude"
 description: "Supernatural resilience and damage resistance. In-Clan for Ventrue, Gangrel, Ravnos."
-weight: 60
+weight: 70
 ---
 
 Fortitude grants supernatural endurance — the ability to shrug off damage that would destroy lesser beings. Unlike most Disciplines, Fortitude is always active once possessed; it requires no activation roll. The vampire simply soaks damage with their Fortitude rating added to their Stamina.

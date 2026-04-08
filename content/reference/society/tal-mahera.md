@@ -1,7 +1,7 @@
 ---
 title: "Tal'Mahe'Ra"
 description: "The True Black Hand — a covert meta-Sect predating both Camarilla and Sabbat. Structure, character creation, and Paths of Scorched Heart and Self-Focus."
-weight: 55
+weight: 40
 ---
 
 ## Overview

@@ -1,7 +1,7 @@
 ---
 title: "Character Creation"
 description: "The five-step V20 character creation procedure, freebie point costs, experience costs, and clan selection."
-weight: 5
+weight: 20
 ---
 
 Creating a vampire character in V20 follows five sequential steps. Dots allocated during creation represent what your character has developed since the Embrace; experience points represent growth during play.

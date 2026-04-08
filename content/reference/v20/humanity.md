@@ -1,7 +1,7 @@
 ---
 title: "Humanity & Degeneration"
 description: "Humanity track, degeneration checks, the dual axis of VtM play, and the Beast voice."
-weight: 50
+weight: 55
 ---
 
 ## The Dual Axis

@@ -1,7 +1,7 @@
 ---
 title: "Virtues"
 description: "The three Virtues — Conscience/Conviction, Self-Control/Instinct, Courage — and how they govern the Beast."
-weight: 15
+weight: 25
 ---
 
 Virtues are the vampire's psychological and spiritual capacities for resisting the Beast. They are rated from 1 to 5 and serve as dice pools for specific moral and emotional checks. Unlike Attributes and Abilities, Virtues cannot be boosted with blood.
