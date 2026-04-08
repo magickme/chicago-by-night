@@ -18,8 +18,9 @@ Kindred exist within a complex web of political factions, social obligations, an
 
 | Topic | See |
 |-------|-----|
-| Blood bonds and blood oaths | [Blood Bonds & Ghouls](/reference/v20/ghouls/) |
-| Prestation — boon economy | [Camarilla](/reference/society/camarilla/) |
+| Blood bonds and blood oaths | [Blood Bond](/reference/v20/blood-bond/) |
+| Ghouls, Vinculum, True Faith | [Ghouls & Blood Bonds](/reference/v20/ghouls/) |
+| Prestation — boon economy | [Prestation & Boons](/reference/society/prestation/) |
 | Diablerie and Generation | [Diablerie](/reference/society/diablerie/) |
 | Red List — Anathema, Alastors, blood hunt mechanics | [Red List](/reference/society/red-list/) |
 | Hunters — organizations, Numina, True Faith | [Hunters](/reference/society/hunters/) |

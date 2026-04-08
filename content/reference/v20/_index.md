@@ -25,7 +25,9 @@ Abbreviations used throughout: **Str** Strength, **Dex** Dexterity, **Sta** Stam
 | [Health & Healing](health/) | Health levels, damage types, vampire healing, torpor, fire/sunlight tables |
 | [Hunting & Feeding](hunting/) | Hunting methods, area difficulties, vessel types, the Kiss, Herd background |
 | [Humanity & Degeneration](humanity/) | Hierarchy of Sin, degeneration rolls, Humanity loss and recovery |
-| [Paths of Enlightenment](paths/) | All 11 Paths with Hierarchies of Sin; Golconda |
+| [Blood Bond](blood-bond/) | Three-drink bond — stages, mechanics, the Vinculum, breaking free |
+| [Golconda](golconda/) | Prerequisites, the Suspire, mechanical benefits, losing the state |
+| [Paths of Enlightenment](paths/) | All 11 Paths with Hierarchies of Sin; Golconda summary |
 | [Derangements](derangements/) | 14 derangements with mechanical descriptions |
 | [Social & Mental Systems](social/) | Social combat, Dominate/Presence resistance, blood bond, Delirium |
 | [Ghouls](ghouls/) | Ghoul creation, Disciplines, Vinculum, Revenant families |
