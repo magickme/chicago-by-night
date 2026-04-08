@@ -18,8 +18,8 @@ Abbreviations used throughout: **Str** Strength, **Dex** Dexterity, **Sta** Stam
 |------|----------|
 | [Core Dice & Systems](core-dice/) | Dice pool construction, difficulty, successes, extended/resisted/contested rolls, Willpower |
 | [Virtues](virtues/) | Conscience/Conviction, Self-Control/Instinct, Courage; Bearing modifier |
-| [Blood Economy](blood-economy/) | Blood pool, spending per turn, healing, feeding basics |
-| [Generation](generation/) | Full generation chart, blood pool maximums, trait caps, Thin-Blooded |
+| [Blood Economy](blood-economy/) | Nightly blood cost, spending blood, vessel yields, feeding, Self-Control cap |
+| [Generation](generation/) | Generation chart, blood pool maximums, trait caps, social standing, Dominate ceiling |
 | [Frenzy & Rotschreck](frenzy/) | Trigger tables, resistance, riding the wave, Wassail, hunger frenzy |
 | [Combat](combat/) | Full combat — initiative, maneuvers, weapons, armor, cover, special situations |
 | [Health & Healing](health/) | Health levels, damage types, vampire healing, torpor, fire/sunlight tables |

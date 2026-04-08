@@ -32,56 +32,7 @@ Generation is rarely chosen — it is inherited from the sire. The only reliable
 
 **Blood Points/Turn:** Maximum blood points that may be spent in a single combat turn. This limits how many Attribute boosts, Disciplines, and healing actions can occur simultaneously.
 
----
-
-## Blood Pool Mechanics
-
-### The Nightly Blood Tax
-Every vampire expends **1 blood point per night** upon awakening, regardless of activity. A vampire sealed in a box, staked, or otherwise unable to hunt still burns 1 blood point each night. When blood runs out, the vampire begins consuming body moisture: **1 health level per day**, ending in torpor by the seventh day.
-
-### What Blood Buys
-
-**Heal normal damage:** 1 blood point restores 1 health level of bashing or lethal damage. Requires rest (cannot heal in combat as a free action). Lower-Generation vampires can spend multiple blood points per turn, healing multiple levels simultaneously.
-
-**Boost Physical Attributes:** 1 blood point per Attribute raised per scene. Declare at the start of the turn. The Attribute may be raised to **1 above the character's generational maximum** permanently for the scene; above that ceiling, each extra dot lasts only **3 turns** after spending stops.
-
-**Hard cap:** No Attribute may exceed 10, regardless of Generation or blood expenditure.
-
-**Appear human:** Spend blood points equal to **(8 minus Humanity)** to flush skin, generate warmth, breathe visibly, simulate sexual function — for one scene. Vampires with Humanity 8+ do this automatically. Vampires on Paths of Enlightenment cannot do this at all.
-
-**Fuel Disciplines:** Many Disciplines require blood expenditure per activation.
-
-**Gift blood:** A vampire may open a vein and physically deliver blood to another Kindred. Relevant for healing, creating ghouls, and the blood bond.
-
----
-
-## Vessel Blood Pools
-
-| Vessel | Approximate Blood Pool |
-|--------|----------------------|
-| Vampire | 10+ (varies by Generation) |
-| Werewolf | 20 |
-| Average human | 10 |
-| Child | 5 |
-| Cow | 5 |
-| Dog | 2 |
-| Cat | 1 |
-| Bird | ½ |
-| Bat or rat | ¼ |
-
-**Taking blood from vessels:** A vampire draws up to **3 blood points per turn** from a vessel. Taking 20% of a mortal's blood (2 points) is relatively safe. 50% requires hospitalization. 100% kills them.
-
-**Animal blood:** Animal blood is nutritionally present but less concentrated than human blood. It satisfies the hunger mechanically but provides no emotional resonance and may leave vampires feeling hollow.
-
-**Elder vitae:** The blood of lower-Generation vampires may be worth **2+ blood points per actual point consumed** — the concentration is significantly higher.
-
----
-
-## The Blood Pool Limit on Virtues
-
-A player may never roll more dice for a **Self-Control/Instinct** roll than the character's **current blood pool**. A vampire with Self-Control 4 but only 2 blood points rolls only 2 dice for frenzy resistance.
-
-This creates a critical feedback loop: hungry vampires (low blood pool) have worse frenzy resistance exactly when they encounter blood and most need it.
+For blood spending rules — nightly cost, healing, Attribute boosts, vessel yields, and the Self-Control cap — see [Blood Economy](blood-economy/).
 
 ---
 

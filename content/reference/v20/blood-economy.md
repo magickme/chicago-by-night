@@ -37,6 +37,26 @@ All uses of blood draw from the BP/Turn allotment (max 1 for 10th gen):
 - **Appear human:** spend (8 − Humanity) BP for one scene. Free at Humanity 8+.
 - **Create/maintain a ghoul:** 1 BP/month minimum.
 
+## Vessel Blood Pools
+
+| Vessel | Approximate Blood Pool |
+|--------|----------------------|
+| Vampire | 10+ (varies by Generation) |
+| Werewolf | 20 |
+| Average human | 10 |
+| Child | 5 |
+| Cow | 5 |
+| Dog | 2 |
+| Cat | 1 |
+| Bird | ½ |
+| Bat or rat | ¼ |
+
+**Taking blood from vessels:** A vampire draws up to **3 blood points per turn** from a vessel. Taking 20% of a mortal's blood (2 points) is relatively safe. 50% requires hospitalization. 100% kills them.
+
+**Animal blood:** Animal blood satisfies the hunger mechanically but provides no emotional resonance.
+
+**Elder vitae:** The blood of lower-Generation vampires may be worth **2+ blood points per actual point consumed** — the concentration is significantly higher.
+
 ## Feeding
 
 ### Procedure
