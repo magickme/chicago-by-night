@@ -1,36 +1,12 @@
 ---
-title: "Ghouls & Blood Bonds"
-description: "Ghoul creation and maintenance, Discipline limits, withdrawal, Renfield Syndrome, blood bond stages, breaking bonds, and True Faith."
+title: "Ghouls"
+description: "Ghoul creation and maintenance, Discipline limits, aging, withdrawal, Renfield Syndrome, Revenant families, True Faith, and ghoul character creation."
 weight: 75
 ---
 
-## Blood Bond
+Blood bond mechanics — formation, stages, Vinculum ratings, breaking, and the Vaulderie — are covered in full at [Blood Bond](/reference/v20/blood-bond/).
 
-Three drinks of vampiric vitae from the same vampire, on three separate nights, creates a full blood bond.
-
-**Regnant** = the vampire whose blood binds. **Thrall** = the bound subject.
-
-| Stage | Requirements | Effects |
-|-------|-------------|---------|
-| **First drink** | 1 drink | Strong feelings toward regnant. Seeks them out. Dreams of them. No mechanical penalty. |
-| **Second drink** | 2nd drink, different night | WP roll to take actions directly harmful to regnant. Regnant's social rolls vs thrall at −1 difficulty. |
-| **Third drink** | 3rd drink, different night | Regnant is the most important person in the thrall's existence. Dominate works on thrall without eye contact (voice only). Thrall rolls at +2 diff to resist Dominate or mental control from regnant. Higher Generation cannot Dominate lower Generation — bond does not override this. |
-
-**Temporary resistance:** WP roll diff 8. Accumulate successes equal to the number of drinks taken. Then spend 1 WP. Duration: 1 scene (plotting) or 1 turn (attacking). Additional WP spends extend it.
-
-**Breaking the bond:** Avoid the regnant entirely for (12 − Willpower) months to reduce the bond 1 level. Reducing to zero = free. The regnant's Final Death shatters the bond instantly.
-
-**Resistance roll:** Willpower (diff 8). Accumulate successes equal to the number of drinks taken, plus any bonus successes equal to feedings in the past 12 months. Then spend 1 WP. Duration: 1 scene (planning/communication) or 1 turn (attacking). Additional WP spends extend it.
-
-### Vaulderie
-
-A ritual method for breaking blood bonds, developed by the Tzimisce and widely adopted by the Sabbat. All participants contribute blood to a communal vessel — the *chalice* — and drink in turn. This creates weak shared *Vinculi* between all participants but destroys any existing single-target bonds in the process.
-
-Anarchs use a variant form specifically to free recruits from Camarilla blood bonds. The ritual requires a willing practitioner with knowledge of the rite and willing participants. It cannot selectively break bonds without creating a Vinculum in return. Some domains employ the Vaulderie as formal punishment for certain crimes — the regnant is chosen by vote, cannot hold domain office, and cannot already be anyone else's regnant.
-
-A vampire cannot be fully bound to two different vampires simultaneously. A full third-stage bond wipes all lesser bonds.
-
-**Tremere exception:** Blood bond forms after only two drinks from the same Tremere source. The first drink counts as a second-stage bond; the second drink = fully bound. This is why Tremere are treated with extreme caution by other clans.
+**Ghoul-specific bond note:** Ghouls may not learn or use Disciplines until they have consumed vitae from the same vampire on three separate occasions (the Stage 3 bond threshold). The Tremere exception applies: two drinks from a Tremere source creates a full bond.
 
 ---
 
