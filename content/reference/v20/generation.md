@@ -72,4 +72,4 @@ Some modern-era vampires of the 14th and 15th Generations have blood so dilute t
 
 In V20's 1990s setting, 14th–15th Generation vampires are rare and poorly understood. They are a harbinger of something — whether Gehenna or simply the dilution of Caine's lineage is debated.
 
-For full rules including the 16th Generation Flaw, Seer Merit, Dhampir character creation, and the Blood Rot disease, see [Thin-Blooded](/reference/character-creation/thin-blooded/).
+For full rules including the 16th Generation Flaw, Seer Merit, Dhampir character creation, and the Blood Rot disease, see [Thin-Blooded](/reference/character-creation/bloodlines/thin-blooded/).
