@@ -41,7 +41,7 @@ All uses of blood draw from the BP/Turn allotment (max 1 for 10th gen):
 
 ### Procedure
 
-1. **Roll victim table** — mandatory. Roll d100 on the V5 Victims table, then d10 for Temperament. Never improvise a victim freehand.
+1. **Determine method** — choose an appropriate dice pool based on the hunting approach (see [Hunting & Feeding](hunting/)).
 2. **Hunt roll** — dice pool by method, difficulty by area.
 
 | Area | Hunt Diff |
@@ -66,7 +66,7 @@ Average human = 10 BP total.
 
 ### Ventrue Feeding Restriction
 
-Darius can only feed from mortals who **owe an unpayable debt**. Blood from any other source provides zero nourishment and is immediately vomited. Confirmed target must meet this criterion before the hunt roll is made.
+Each Ventrue may feed only from one specific narrow category of mortal, determined at character creation (permanent). Blood from any vessel outside this category provides zero nourishment and is immediately vomited. Vampiric blood is exempt.
 
 ### Intoxication
 
@@ -76,8 +76,4 @@ Every 2 BP drawn from a drunk or drugged mortal = approximately 1 drink or dose 
 
 **SC is capped by current BP.** If BP = 2, max SC dice on any Frenzy resistance roll = 2, regardless of permanent rating. This is one of the primary mechanical pressures created by blood loss.
 
-> Sable at BP 3, permanent SC 4 → max 3 SC dice until fed.
-
-## Blood Pool Tracking
-
-Current BP tracked in `session-state.md`. Displayed in the Scene Boot Packet and Tonight Brief for each session.
+> *Example: A vampire with Self-Control 4 but only 2 BP rolls only 2 dice for frenzy resistance.*

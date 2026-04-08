@@ -1,10 +1,10 @@
 ---
 title: "V20 Mechanics"
-description: "Vampire: The Masquerade 20th Anniversary Edition rules as implemented in Chicago Chronicles. Dice pools, blood, combat, Disciplines, and Humanity."
+description: "Vampire: The Masquerade 20th Anniversary Edition — core rules for dice, blood, combat, Disciplines, and Humanity."
 weight: 10
 ---
 
-All character mechanics run on V20 — the 2011 anniversary edition of Vampire: The Masquerade. This section documents the specific rules subsets used during Chicago Chronicles play, including campaign rulings that modify or clarify base V20 text.
+All character mechanics run on V20 — the 2011 anniversary edition of Vampire: The Masquerade.
 
 Ratings use a 1–5 scale: 1 = Poor, 2 = Average, 3 = Good, 4 = Exceptional, 5 = Superb.
 

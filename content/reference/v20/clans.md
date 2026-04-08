@@ -35,19 +35,6 @@ All seven founding clans belong to the Camarilla (1990 — Brujah and Gangrel ha
 
 ---
 
-## Clan Notes for Chicago Chronicles (1990)
+## Generation and Clan Disciplines
 
-**In the chronicle:**
-
-| Clan | Key NPCs |
-|------|---------|
-| Ventrue | Darius Cole (PC), Lodin (Prince), Modius (Gary Prince), Chuc Luc |
-| Toreador | Sable Price (PC), Annabelle, Michael Unther (deceased), Sir Henry Johnson |
-| Brujah | Damien, Gengis, Maldavis |
-| Malkavian | Alexi Germanov |
-| Nosferatu | Khalid |
-| Tremere | Helena (as Portia, posing as mortal), Carna (Milwaukee) |
-| Gangrel | Erichtho (three-city operative) |
-| Lasombra/Sabbat | Presence felt but not yet overt in Chicago (1990) |
-
-**Generation and clan disciplines interact:** a 10th-gen Ventrue can only spend 1 BP/turn, limiting Discipline use to 1 activation per action. A 5th-gen elder with Celerity can activate multiple times per round, burning blood at a rate lower-generation Kindred cannot match.
+Generation directly limits Discipline use. A 10th-gen vampire can only spend 1 BP/turn — limiting Discipline activations to 1 per action. A 5th-gen elder with Celerity can activate multiple times per round, burning blood at a rate lower-Generation Kindred cannot match.

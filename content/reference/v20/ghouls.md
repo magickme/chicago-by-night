@@ -100,10 +100,6 @@ A rare mortal trait with no connection to any specific religion. Without it, hol
 
 Aura Perception reveals a silver or gold halo around True Faith mortals; brightness corresponds to Faith rating.
 
-**Sullivan Dane is True Faith 5.** Proximity to him triggers Rotschreck risk even for experienced Kindred. Run the dedicated Dane hazard procedure from GAME-REFERENCE-EXTENDED rather than treating him as a standard NPC encounter.
-
 ### Discipline Burnout vs True Faith
 
-Campaign ruling: using Auspex on a True Faith bearer and botching results in burnout lasting (Faith rating) nights for that specific Discipline power. Other powers in the same Discipline function normally. The specific individual's aura or presence becomes permanently difficult — Beast flinch response.
-
-The same applies to Dominate and Presence used against True Faith 4+ targets.
+Botching a Discipline roll against a True Faith bearer results in burnout for that specific power lasting a number of nights equal to the target's Faith rating. Other powers in the same Discipline function normally during the burnout period. The same applies to Dominate and Presence used against True Faith 4+ targets.

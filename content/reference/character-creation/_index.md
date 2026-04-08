@@ -100,4 +100,4 @@ Merits and Flaws exchange freebie points for advantages and disadvantages (max 7
 | Danger | The character survived significant peril |
 | Wisdom | The character made a meaningful, costly choice |
 
-**Chicago Chronicles rates:** 3 XP per chapter automatic; bonus for genuine risk. Phantom XP (3 pts toward Humanity only) for genuine in-character moral confession to coterie-mate.
+Standard V20 awards: 1–5 XP per session based on the table above.

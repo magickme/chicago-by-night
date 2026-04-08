@@ -75,8 +75,6 @@ Seduction requires three sequential rolls. Extra successes on each step carry fo
 
 Each step's extra successes add +1 die to the next roll. Failing any step doesn't automatically end the attempt but eliminates the bonus dice chain.
 
-Sable's pools: Approach 8 (App 5 + Sub 3), Repartee 6 (Wits 3 + Sub 3), Intimacy 7 (Cha 4 + Emp 3).
-
 ---
 
 ## Performance (Artistic / Emotive)
@@ -91,9 +89,9 @@ Each success beyond the first makes the performance more memorable. Exceptional 
 
 Dominate and Presence rolls use their own listed pools — they do not add to or subtract from the underlying social roll.
 
-**NPC disposition** (the −5 to +5 track in session-state.md) sets the **Fate Chart odds** for questions like "does the NPC cooperate?" and "does the NPC believe this?" It does NOT change the difficulty of Discipline rolls. Discipline difficulty is always per the power description.
+**NPC disposition** (a −5 to +5 track) sets the **Fate Chart odds** for questions like "does the NPC cooperate?" and "does the NPC believe this?" It does NOT change the difficulty of Discipline rolls. Discipline difficulty is always per the power description.
 
-Solo social resolution: roll the PC's social pool vs the NPC's **Quick Score** as difficulty. Failure = the NPC gets what they want. The disposition track determines how far the NPC pushes back narratively — a +3 NPC who wins the roll might still comply reluctantly; a −3 NPC presses hard.
+Solo social resolution: roll the PC's social pool vs the NPC's effective difficulty (based on resistance and Quick Score). Failure = the NPC gets what they want. The disposition track determines how far the NPC pushes back narratively — a favorable NPC who wins the roll might still comply reluctantly; a hostile NPC presses hard.
 
 ---
 

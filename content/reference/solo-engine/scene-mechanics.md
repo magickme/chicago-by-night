@@ -102,7 +102,7 @@ Two tracking structures with 25 slots each (5 sections of 5):
 
 ### Story Oracle (d10)
 
-A custom 10-entry table maintained in `session-state.md`. Roll before any Trouble or Grace Burn to tie narrative events to current personal storylines. Entry 10 is always "(something new)." Remove resolved entries; fill empty slots from play or roll Reason Oracle.
+A custom 10-entry table tracking active personal storylines. Roll before any Trouble or Grace Burn to tie narrative events to current threads. Entry 10 is always "(something new)." Remove resolved entries; fill empty slots from play or roll Reason Oracle.
 
 ### Reason Oracle (d10)
 

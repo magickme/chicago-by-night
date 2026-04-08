@@ -51,7 +51,7 @@ Spend 1 WP before rolling = **1 automatic, uncancellable success** added to the 
 
 Declare total number of actions at the start of the turn. Find the **smallest pool** among all actions. Split that pool across all actions in proportion. Actions must be declared before any are rolled.
 
-> **Example:** Darius wants to fire his .357 (Dex 2 + Firearms 1 = pool 3) and also Dominate an NPC (Man 4 + Intimidation 2 = pool 6). Smallest pool = 3. Split as 2/1 or 1/2.
+> **Example:** A vampire wants to fire a pistol (Dex 2 + Firearms 1 = pool 3) and also Dominate a target (Man 4 + Intimidation 2 = pool 6). Smallest pool = 3. Split as 2/1 or 1/2.
 
 **Celerity extra actions** use full pool and cannot themselves be split.
 
@@ -68,10 +68,6 @@ Both parties roll. Net successes — subtract loser's from winner's. Winner's ne
 ## Retry Penalty
 
 +1 difficulty per retry on a failed action (Storyteller discretion when to apply). Represents running out of obvious approaches.
-
-## Opposed Social Resolution (Solo)
-
-In solo play: roll the PC's social pool vs the NPC's **Quick Score** as difficulty. Failure means the NPC gets what they want. See [NPCs](../../characters/npcs/) for Quick Score values. NPC disposition determines how far they push back *narratively* — it does not change Discipline roll difficulties.
 
 ## Maximum Trait Pool
 
