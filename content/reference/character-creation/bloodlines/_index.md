@@ -1,7 +1,7 @@
 ---
 title: "Bloodlines"
 description: "Minor vampire bloodlines — the 10 core bloodlines from V20 and their unique Disciplines."
-weight: 35
+weight: 70
 ---
 
 Bloodlines are offshoots of the thirteen great clans — lineages that diverged through diablerie, unusual Embrace, supernatural contamination, or deliberate magical creation. They are smaller than true clans, often rare to the point of near-extinction, and frequently regarded with suspicion or curiosity by the Camarilla.

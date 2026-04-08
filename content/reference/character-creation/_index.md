@@ -1,6 +1,6 @@
 ---
 title: "Character Creation"
-description: "The five-step V20 character creation procedure, freebie point costs, and finishing touches."
+description: "The five-step V20 character creation procedure, freebie point costs, experience costs, and clan selection."
 weight: 5
 ---
 
@@ -12,7 +12,7 @@ Creating a vampire character in V20 follows five sequential steps. Dots allocate
 
 Choose:
 - **Concept:** A one-line encapsulation of who this character is. Not what they do — who they are. ("Broken idealist," "ambitious debt collector," "artist whose hunger ate her compassion.")
-- **Clan:** Your vampiric lineage. Determines in-Clan Disciplines, weakness, and political affiliations. See [Clans](../clans/).
+- **Clan:** Your vampiric lineage. Determines in-Clan Disciplines, weakness, and political affiliations. See [Clans](clans/).
 - **Nature:** Your true, innermost personality archetype. Determines how you regain Willpower. See [Archetypes](archetypes/).
 - **Demeanor:** The face you show the world. May differ radically from Nature. Also an archetype.
 

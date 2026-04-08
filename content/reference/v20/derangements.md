@@ -1,7 +1,7 @@
 ---
 title: "Derangements"
 description: "Mental disorders acquired through trauma, botched Virtue rolls, and the vampiric condition."
-weight: 70
+weight: 60
 ---
 
 Derangements are psychological disorders created when the mind confronts intolerable feelings and attempts to cope with them through aberrant behavior. For vampires, they accumulate through the weight of centuries, the horror of what they are, and the specific traumas of Kindred existence.

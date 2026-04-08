@@ -1,7 +1,7 @@
 ---
 title: "Health, Damage & Healing"
 description: "Health levels, damage types, vampire healing, torpor, fire, sunlight, and environmental hazards."
-weight: 45
+weight: 40
 ---
 
 ## Health Levels

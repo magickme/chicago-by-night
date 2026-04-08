@@ -1,7 +1,7 @@
 ---
 title: "Clans"
 description: "All 13 Camarilla and independent clans: in-clan Disciplines, weakness, and chronicle relevance."
-weight: 60
+weight: 75
 ---
 
 All seven founding clans belong to the Camarilla (1990 — Brujah and Gangrel have not yet departed). Sabbat clans operate outside this framework.
@@ -16,7 +16,7 @@ All seven founding clans belong to the Camarilla (1990 — Brujah and Gangrel ha
 | **Gangrel** | Outlanders | Animalism, Fortitude, Protean | Gain one animal trait per Frenzy — eyes, ears, fur patch, claws, etc. After 5+ traits, Social rolls with non-Gangrel at +1 diff per trait over 4. Traits can be removed via XP. |
 | **Nosferatu** | Sewer Rats | Animalism, Obfuscate, Potence | Appearance 0, permanent. Cannot raise Appearance. All Social rolls relying on first impressions fail automatically unless Obfuscate is active. |
 | **Malkavian** | Lunatics | Auspex, Dementation, Obfuscate | Permanent, incurable derangement chosen at Embrace. Cannot be cured by any means — not WP, not therapy, not Thaumaturgy. The derangement shapes all behavior. |
-| **Tremere** | Warlocks | Auspex, Dominate, Thaumaturgy | Blood bond after only **two drinks** (first drink counts as the second stage). Second drink from the same Tremere = fully bound. Tremere enforce this within their own clan; it makes independent loyalty difficult to establish. |
+| **Tremere** | Warlocks | Auspex, Dominate, Thaumaturgy | A Tremere drinking another vampire's vitae reaches blood bond stage faster: the first drink counts as two stages. After only **two drinks**, the Tremere is fully bonded. This vulnerability to bonding makes them susceptible to elder control. |
 
 ## Independent Clans
 

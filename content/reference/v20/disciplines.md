@@ -1,7 +1,7 @@
 ---
 title: "Disciplines"
 description: "Active PC Disciplines: Dominate (Darius, 4 dots), Presence (Darius 1 / Sable 3), Auspex (Sable, 3 dots). Mechanics, costs, current status."
-weight: 40
+weight: 80
 ---
 
 ## Dominate (Darius, 4 dots)

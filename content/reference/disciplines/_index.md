@@ -50,4 +50,4 @@ See **[Combination Disciplines](combination/)** for the full list organized by c
 
 ## Bloodline Disciplines
 
-The ten V20 bloodlines have unique Disciplines unavailable to the main clans. See **[Bloodline Disciplines](../bloodlines/disciplines/)** for full coverage.
+The ten V20 bloodlines have unique Disciplines unavailable to the main clans. See **[Bloodline Disciplines](../character-creation/bloodlines/disciplines/)** for full coverage.

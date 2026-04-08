@@ -17,16 +17,15 @@ Abbreviations used throughout: **Str** Strength, **Dex** Dexterity, **Sta** Stam
 | Page | Contents |
 |------|----------|
 | [Core Dice & Systems](core-dice/) | Dice pool construction, difficulty, successes, extended/resisted/contested rolls, Willpower |
-| [Attributes & Abilities](../character-creation/) | Character creation, stats, Backgrounds, Merits & Flaws |
 | [Virtues](virtues/) | Conscience/Conviction, Self-Control/Instinct, Courage; Bearing modifier |
-| [Humanity & Degeneration](humanity/) | Hierarchy of Sin, degeneration rolls, Humanity loss and recovery |
-| [Paths of Enlightenment](paths/) | All 11 Paths with Hierarchies of Sin; Golconda |
+| [Blood Economy](blood-economy/) | Blood pool, spending per turn, healing, feeding basics |
+| [Generation](generation/) | Full generation chart, blood pool maximums, trait caps, Thin-Blooded |
 | [Frenzy & Rotschreck](frenzy/) | Trigger tables, resistance, riding the wave, Wassail, hunger frenzy |
-| [Derangements](derangements/) | 14 derangements with mechanical descriptions |
-| [Generation & Blood](generation/) | Full generation chart, blood economy, vessel table, Thin-Blooded |
+| [Combat](combat/) | Full combat — initiative, maneuvers, weapons, armor, cover, special situations |
 | [Health & Healing](health/) | Health levels, damage types, vampire healing, torpor, fire/sunlight tables |
 | [Hunting & Feeding](hunting/) | Hunting methods, area difficulties, vessel types, the Kiss, Herd background |
-| [Combat](combat/) | Basic combat sequence, pools, damage |
-| [Combat — Advanced](combat-advanced/) | Full maneuver tables, weapons charts, cover, armor, targeting |
+| [Humanity & Degeneration](humanity/) | Hierarchy of Sin, degeneration rolls, Humanity loss and recovery |
+| [Paths of Enlightenment](paths/) | All 11 Paths with Hierarchies of Sin; Golconda |
+| [Derangements](derangements/) | 14 derangements with mechanical descriptions |
 | [Social & Mental Systems](social/) | Social combat, Dominate/Presence resistance, blood bond, Delirium |
 | [Ghouls](ghouls/) | Ghoul creation, Disciplines, Vinculum, Revenant families |

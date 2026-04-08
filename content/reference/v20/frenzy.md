@@ -1,7 +1,7 @@
 ---
 title: "Frenzy & Rotschreck"
 description: "The Beast unleashed — frenzy triggers, resistance, riding the wave, and the Red Fear."
-weight: 25
+weight: 30
 ---
 
 Frenzy is the moment the Beast wins. The vampire surrenders rational control and becomes a creature of pure hunger, rage, or terror — feeding on whoever is closest, destroying the source of anger, or fleeing in blind panic from fire. It is the defining horror of the vampiric condition.
@@ -41,7 +41,7 @@ Roll **Self-Control** (or **Instinct** — see below) against the listed difficu
 
 **Willpower:** Spend 1 Willpower point to maintain control for **one turn** during frenzy. This does not end the frenzy, only suspends it for that turn.
 
-**Brujah weakness:** All frenzy difficulties are permanently +1 for Brujah.
+**Brujah weakness:** All frenzy difficulties are permanently +2 for Brujah. Brujah may never spend Willpower to avoid frenzy (though they may spend 1 Willpower to end an active frenzy).
 
 ---
 

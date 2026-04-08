@@ -1,7 +1,7 @@
 ---
 title: "Hunting & Feeding"
 description: "Finding prey, feeding mechanics, vessel types, the Kiss, and the Herd background."
-weight: 55
+weight: 45
 ---
 
 Every vampire must feed. This is not optional, not negotiable, and not reducible to a background process. Hunting is one of the most fundamental Kindred activities — and one of the most dangerous for the Masquerade.
