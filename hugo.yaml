@@ -97,6 +97,8 @@ params:
           url: "/clan-tier-list/"
         - name: "Sect Tier Tables"
           url: "/sect-tier-tables/"
+        - name: "Path Tier Rankings"
+          url: "/paths-tier-list/"
 
 outputs:
   home:
