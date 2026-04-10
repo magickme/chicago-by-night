@@ -90,7 +90,7 @@ The fire escape was iron, old enough that the bolts had pulled a quarter-inch fr
 
 He opened his senses before he opened the window. One heartbeat, slow, sixty beats per minute. Resting or sedated. Television static. And underneath both: the faint copper-and-salt trace of vitae that had been metabolized days ago. A ghoul whose supply had run out.
 
-He went through the window. Kitchen first. Mrs. Marsh in 3A had left tamales outside the door and the smell of masa and pork fat sat in the air like a memory of a world that still functioned. Dishes in the sink, three days old. A Beretta 92FS on the counter next to an empty coffee mug. The counter was clean except where it wasn't, and where it wasn't told you everything.
+He went through the window. Kitchen first. Mrs. [Marsh](/npcs/elena-marsh/) in 3A had left tamales outside the door and the smell of masa and pork fat sat in the air like a memory of a world that still functioned. Dishes in the sink, three days old. A Beretta 92FS on the counter next to an empty coffee mug. The counter was clean except where it wasn't, and where it wasn't told you everything.
 
 He moved through the kitchen to the front room.
 

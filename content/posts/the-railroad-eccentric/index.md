@@ -71,7 +71,7 @@ He left. The corridor was dark in both directions.
 
 ---
 
-The [Succubus Club](/locations/succubus-club/) was wrong when Tomas arrived. Different doorman. Tighter screen. He posted up across Dearborn and extended his hearing through the wall. The music was low. The crowd thin. Fragments came through like intercepts on a dirty frequency:
+The [Succubus Club](/locations/succubus-club/) was wrong when [Tomas](/npcs/tomas/) arrived. Different doorman. Tighter screen. He posted up across Dearborn and extended his hearing through the wall. The music was low. The crowd thin. Fragments came through like intercepts on a dirty frequency:
 
 "— gone before midnight, both of them —"
 

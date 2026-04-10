@@ -17,7 +17,7 @@ ShowToc: false
 </div>
 </div>
 
-Edward Scott was born in 1399 in Cornwall, the southwestern peninsula of England -- a place that had always stood slightly apart from the rest of the kingdom. Cornish tin mining was in decline, the Duchy's revenues shrinking, and the local gentry occupied a precarious middle ground between the English crown's demands and a population that still spoke its own language and nursed its own grievances. The Cornish would rebel three times in the next century. Scott grew up in that atmosphere of stubborn resistance.
+[Edward](/npcs/edward-williams/) Scott was born in 1399 in Cornwall, the southwestern peninsula of England -- a place that had always stood slightly apart from the rest of the kingdom. Cornish tin mining was in decline, the Duchy's revenues shrinking, and the local gentry occupied a precarious middle ground between the English crown's demands and a population that still spoke its own language and nursed its own grievances. The Cornish would rebel three times in the next century. Scott grew up in that atmosphere of stubborn resistance.
 
 He earned the nickname "the Black Prince of Cornwall" not for any racial identity but for his temperament. He fought everyone: his father, the local lord, the church, other squires. The original Black Prince -- Edward of Woodstock, Prince of Wales, dead since 1376 -- was remembered in Cornwall as a figure of martial ferocity. Scott's neighbors hung the name on him with more mockery than respect. He married young, fathered a son, and managed a small estate with the combative energy of a man who considered peace a personal insult.
 

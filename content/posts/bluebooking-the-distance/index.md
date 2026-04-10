@@ -28,7 +28,7 @@ She never asked about Chicago Heights. She never asked about the man without a n
 
 [Sable](/sable-price/) told him about [The Torch](/locations/the-torch/) and the dancers and [Victor](/npcs/victor-salonika/) behind the bar and the specific quality of light at two AM when the last set ends and the music stops and the building exhales its sweat and smoke into the Gary night. She described the club the way she described the weather: from inside it, as a native, as someone who understood that a strip club in a dying steel town was a church of last resort and the congregation came every night because they had nowhere else to pray.
 
-She never mentioned Robert Taylor. She never mentioned Kiki or Big Six or the fire escape at four in the morning. She never said the word *mother*.
+She never mentioned [Robert](/npcs/robert-klondike/) [Taylor](/npcs/helena-taylor/). She never mentioned Kiki or Big Six or the fire escape at four in the morning. She never said the word *mother*.
 
 He never mentioned Jerome dying on Broadway. Never mentioned [Father](/npcs/father-joaquin/) David or the books or the Sunday dinners that stopped when the Embrace killed everything warm in him. Never said the word *sire*.
 

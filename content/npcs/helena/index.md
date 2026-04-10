@@ -70,7 +70,7 @@ For 1,300 years, Helena and [Menele](/npcs/menele/) fought across Eurasia. In 14
 
 When Helena's Auspex detected [Menele](/npcs/menele/) far across the sea, she moved the Spanish Empire to send explorers westward. She joined the expedition of Hernan Cortez, along with [Prias](/npcs/prias/) and several female progeny she had made.
 
-In the Aztec capital, Helena encountered something beneath the great pyramid — a sleeping entity of such power that she fled upon sensing it. She left behind a childe, **Marie Galbraith**, and another follower, **Melinda**, who would eventually become Sabbat Cardinal of Mexico City. Both hate her. The rumors that Helena has been spotted in Mexico City continue.
+In the Aztec capital, Helena encountered something beneath the great pyramid — a sleeping entity of such power that she fled upon sensing it. She left behind a childe, **[Marie](/npcs/marie-drichet/) Galbraith**, and another follower, **Melinda**, who would eventually become Sabbat Cardinal of Mexico City. Both hate her. The rumors that Helena has been spotted in Mexico City continue.
 
 A mage named **Motolina** traveled with Helena during the conquest. He was Blood Bonded to her — addicted to her vitae and used as her "pet mage." The Bond eventually broke. Motolina reshaped himself into a female form that is the spitting image of Helena. He still lives in the Mexico City area. He hates her.
 
@@ -96,7 +96,7 @@ As Helena began to shrug off torpor, she telepathically contacted [Prias](/npcs/
 
 Helena clawed her way through the earth, sucking what little vitae she could from worms and maggots. Met at the top by Maria — her own childe, 5th generation, the most powerful Toreador in Chicago for decades. Helena promptly slew her. First feeding upon waking. No hesitation.
 
-She collapsed back into torpor for another month. When she came to her senses, Prias stood next to her. She entered the [Succubus Club](/locations/succubus-club/) for the first time.
+She collapsed back into torpor for another month. When she came to her senses, [Prias](/npcs/prias/) stood next to her. She entered the [Succubus Club](/locations/succubus-club/) for the first time.
 
 The haven beneath the club is defended in depth: [Kevin Jackson](/npcs/kevin-jackson/)'s gang members near the entrance (automatics, memory-wiped), a secret door requiring Perception + Alertness of 9, a ghoul scorpion named **Hecabe** fed on 4th-gen blood since Pompeii (grown to the size of a house cat, poison causes aggravated wounds to Kindred), a six-inch steel vault door, a decoy vial of drugged blood, a pressure-plate scythe trap, electrified crawlspace, and the well itself.
 

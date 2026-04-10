@@ -37,11 +37,11 @@ Walt.
 
 A Buick Regal on the east side of Wabash had been there the whole time. The driver was a Black woman with close-cropped natural hair and a leather jacket and the patience of someone who'd been watching Box 1109 long before [Darius](/darius-cole/) showed up. [Maldavis](/npcs/maldavis/). Caitiff. Eighth generation, though [Darius](/darius-cole/) wouldn't learn that until later. She'd been mapping [Ballard](/npcs/ballard/)'s courier drops for three months because three of her people had lost their havens to code violations that traced back to the same address on LaSalle Street.
 
-She gave him the collector's name — Martin Hayward, attorney, eleventh floor — and a payphone number written on the back of a Walgreens receipt. He gave her the name Greystone Fiduciary. Two people in the cold, watching the same machine from different angles, each deciding how far to trust the other.
+She gave him the collector's name — [Martin](/npcs/martin-drichet-aaron-carson/) Hayward, attorney, eleventh floor — and a payphone number written on the back of a Walgreens receipt. He gave her the name Greystone Fiduciary. Two people in the cold, watching the same machine from different angles, each deciding how far to trust the other.
 
 "Find out who Hayward meets in that brownstone," she said. "That's where the machine connects to whoever's driving it."
 
-At [the Cave](/locations/the-cave/), Darius laid it out for [Sable](/sable-price/) across a table in [Horace Turnbull](/npcs/horace/)'s back room. The photocopy. The addresses. The courier network. The phrase that changed the shape of the night: *entrée comes Friday*.
+At [the Cave](/locations/the-cave/), [Darius](/darius-cole/) laid it out for [Sable](/sable-price/) across a table in [Horace Turnbull](/npcs/horace/)'s back room. The photocopy. The addresses. The courier network. The phrase that changed the shape of the night: *entrée comes Friday*.
 
 [Sable](/sable-price/) called [Annabelle](/npcs/annabelle-triabell/) from a payphone and said "a friend of a friend heard something at a real estate conference" and gave her three addresses. [Annabelle](/npcs/annabelle-triabell/) didn't believe the sourcing. She acted on the intelligence anyway. At the [Succubus Club](/locations/succubus-club/), forty minutes later, her booth was empty.
 

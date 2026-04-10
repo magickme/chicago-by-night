@@ -55,11 +55,11 @@ Two Milwaukee visitors flanked [Sable](/sable-price/)'s sightline. The silver-ha
 
 Then the lights over the small stage dimmed and [Sophia Ayes](/sophia-ayes/) stepped onto the platform with Bret Stryker and the music started and what they did was not dancing.
 
-Feeding as performance. The Kiss staged for an audience. Blood on lips and throat and the sound Sophia made was not pain and every mortal pretense in the room evaporated. Vampiric pornography. [Annabelle](/npcs/annabelle-triabell/)'s childe, in [Annabelle](/npcs/annabelle-triabell/)'s lounge, at [Annabelle](/npcs/annabelle-triabell/)'s party.
+Feeding as performance. The Kiss staged for an audience. Blood on lips and throat and the sound [Sophia](/npcs/sophia-ayes/) made was not pain and every mortal pretense in the room evaporated. Vampiric pornography. [Annabelle](/npcs/annabelle-triabell/)'s childe, in [Annabelle](/npcs/annabelle-triabell/)'s lounge, at [Annabelle](/npcs/annabelle-triabell/)'s party.
 
 The clan weakness hit every Toreador in the room simultaneously. [Sable](/sable-price/)'s body locked. Champagne flute frozen mid-air. Pupils blown. The beauty and the horror fused into one thing and the Beast and the aesthetic sense merged and she could not look away. [Sir Henry](/npcs/sir-henry-johnson/)'s hand on her elbow, firm, not gentle — "[Sable](/sable-price/). Don't." — but she couldn't respond.
 
-Annabelle stopped it. One word. Sophia pulled her mouth from Stryker's throat, blood on her lips, and smiled at her sire. The cruelest thing Sable had seen in Chicago.
+[Annabelle](/npcs/annabelle-triabell/) stopped it. One word. Sophia pulled her mouth from Stryker's throat, blood on her lips, and smiled at her sire. The cruelest thing [Sable](/sable-price/) had seen in Chicago.
 
 The entrancement broke. Sable came back into her body all at once. Her hand was shaking.
 
@@ -79,7 +79,7 @@ She offered him the one thing nobody else in the room could provide: her hands o
 
 [Drummond](/npcs/edgar/)'s hands. Thick fingers, ink-stained, trembling with spite. The smell of machine oil and coal dust. The sound of trains underneath, vibrating through the floor. He was copying the notation backward, note by note, giggling. "Trains are beneath her. TRAINS are beneath HER." Over and over. And underneath that wound, the shadow of a conversation — a dinner, a voice that was warm and slid the insult into the fat man's ear like a coin into a slot. Someone had aimed him.
 
-Different hands. A woman. Staff uniform. She placed the folio at 6:15 PM. She'd been paid. She was thinking about rent.
+Different hands. A woman. [Staff](/npcs/mickey-contreras/) uniform. She placed the folio at 6:15 PM. She'd been paid. She was thinking about rent.
 
 Sable pulled her hand away. Forty seconds gone. She walked back to Tamoszius's empty table and told him what she'd seen. [Drummond](/npcs/edgar/). The railroad warehouse. Aimed by someone. The trail stopped at [Drummond](/npcs/edgar/)'s hands.
 

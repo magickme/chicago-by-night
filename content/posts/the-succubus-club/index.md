@@ -102,7 +102,7 @@ Up close he was younger than she'd thought. Dark hair cut military-short. Brown 
 
 "[Sable Price](/sable-price/)."
 
-"Tom Navarro."
+"Tom [Navarro](/npcs/elena-navarro/)."
 
 Two words. No clan, no city, no sire. She told him he had a positively magical aura and watched the analytical mask slip for a quarter-second before something colder replaced it. She turned on Awe and the Presence rolled out and hit nothing — worse than nothing, the force rebounding, her composure cracking for one visible second that on Appearance 5 was a spotlight malfunction. Two mortals at the nearest table glanced and looked away too fast.
 

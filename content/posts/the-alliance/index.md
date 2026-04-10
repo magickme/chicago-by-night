@@ -66,7 +66,7 @@ The lake. The lamp. The room held them the way a church holds a confession.
 
 Then a door closed downstairs. The careful, deliberate sound of a man moving through his own house. [Allicia](/npcs/allicia/) went rigid. Three seconds and the armor was back — the green silk, the walls, the silent fixture of [Modius](/npcs/modius/)'s court reassembled over the woman who'd laughed thirty seconds ago.
 
-She touched Sable's cheek one last time. Quick. The way you touch something you're about to lose.
+She touched [Sable](/sable-price/)'s cheek one last time. Quick. The way you touch something you're about to lose.
 
 "When will I see you again?"
 

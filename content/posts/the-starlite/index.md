@@ -101,7 +101,7 @@ Walt nodded. He didn't look rescued. He looked maintained.
 
 Two AM. Clark Street. A bar called Singe's with a dead letter in the neon sign. The kind of place that survived on regulars and Friday-night overflow from restaurants that wouldn't serve you after midnight.
 
-Darius sat at the bar and ordered a whiskey he wouldn't drink and let the room talk to him.
+[Darius](/darius-cole/) sat at the bar and ordered a whiskey he wouldn't drink and let the room talk to him.
 
 The man was at the far end. White, mid-thirties, sandy hair trimmed too clean for the neighborhood. Leather jacket that hung wrong — stiff at the hip, weighed down on the left side. Badge and gun. The jacket was a costume and he wore it the way a man wears a costume when he's forgotten which version of himself is the real one.
 

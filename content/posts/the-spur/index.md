@@ -140,7 +140,7 @@ Then the invitation. Cream cardstock. Wax seal. Every Kindred in Gary walking th
 
 "A loyalty test. But he's scared. Three calls in one night about foot traffic. A new driver for [Allicia](/npcs/allicia/). The representative in August. He's counting heads and taking names and hoping the number comes out the same."
 
-"Chicago thinks Gary is stable but fragile," Darius said. No names. No spur. Just the fact.
+"Chicago thinks Gary is stable but fragile," [Darius](/darius-cole/) said. No names. No spur. Just the fact.
 
 Silence on the line while [Sable](/sable-price/) processed it through the part of her mind that read social architecture the way he read logistics.
 

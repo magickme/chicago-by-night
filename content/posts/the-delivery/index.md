@@ -27,7 +27,7 @@ The blood came in hot and wrong. Copper underneath and then the chemical taste -
 
 Two pulls. He stopped. Licked the puncture closed. Rewrote the memory: dizzy spell, cold night, blacked out for a minute. The driver would wake up confused with a sore neck and no explanation for the lost time. He'd finish his deliveries. He'd make the car payment or he wouldn't.
 
-Darius got out. Shut the door quietly. The amphetamine tremor was in his hands and the wind off the lake didn't touch it.
+[Darius](/darius-cole/) got out. Shut the door quietly. The amphetamine tremor was in his hands and the wind off the lake didn't touch it.
 
 He was driving south on State when the engines cut through. Not cars --- bikes, four or five, exhaust notes staggered and angry, crossing the intersection in close formation. Leather. No helmets. One rider with a duffel strapped across his back that was too heavy and too carefully handled for clothes. The Predatory Aura hit at a block's distance. Gangrel. The Wolf Pack.
 

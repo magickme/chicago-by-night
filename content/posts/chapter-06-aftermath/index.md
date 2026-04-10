@@ -94,7 +94,7 @@ He drove east.
 
 "Okay, Birch."
 
-Two words. The same two words he'd said at the docks. The Malkavian receipt: *I acknowledge the transaction. The ledger is updated.* Not trust. Not warmth. Recognition. One caged thing acknowledging another, and the acknowledgment was enough, and it was all Darius was going to get tonight.
+Two words. The same two words he'd said at the docks. The Malkavian receipt: *I acknowledge the transaction. The ledger is updated.* Not trust. Not warmth. Recognition. One caged thing acknowledging another, and the acknowledgment was enough, and it was all [Darius](/darius-cole/) was going to get tonight.
 
 "You shouldn't stay."
 
@@ -112,7 +112,7 @@ Darius didn't mention Sal. Didn't ask about the docks. Didn't push anything at a
 
 "See you around, Ralph," Eddie said at the door.
 
-Darius grinned Ralph Rego's grin. "Count on it, big guy."
+Darius grinned Ralph Rego's grin. "[Count](/npcs/the-count/) on it, big guy."
 
 He drove home. The west-side apartment was dark. The check-cashing storefront was closed. He parked the Cutlass, locked the door, checked the blackout curtains, and sat at the kitchen table with [Gregory](/npcs/gregory-stephens/)'s folder spread in front of him and the Polaroid of the unknown man propped against the salt shaker.
 

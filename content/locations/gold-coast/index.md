@@ -27,7 +27,7 @@ ShowToc: false
 
 ## Physical Read
 
-- Brownstones on Astor Street and Burton Place, three and four stories, limestone facades darkened by a century of lake weather. Wrought iron fences. Private gardens visible through gates that don't open for strangers. The architecture says: we were here before you, and we will be here after.
+- Brownstones on [Astor](/npcs/lady-astor/) Street and Burton Place, three and four stories, limestone facades darkened by a century of lake weather. Wrought iron fences. Private gardens visible through gates that don't open for strangers. The architecture says: we were here before you, and we will be here after.
 - Lake Shore Drive condominiums north of Oak Street. Floor-to-ceiling glass, lake views, doormen in blazers who remember your name and your car. The lobbies smell like fresh flowers and money.
 - The commercial strip along Division Street marks the southern boundary. Bars and restaurants that charge sixteen dollars for a cocktail in 1991. Rush Street's neon bleeds north but stops at the invisible line where residential quiet begins.
 

@@ -18,7 +18,7 @@ Not literally — not yet, not from the door, not through the wall of cigarette 
 
 She was three steps inside [The Torch](/locations/the-torch/) when her body told her to leave.
 
-The hindbrain — the part that had kept her alive on State Street and in the Robert Taylor stairwells and in the back seats of cars she shouldn't have gotten into — fired before the conscious mind caught up. A shape in the booth near the runway. The geometry of a man who took up space the way certain men take up space, not with size but with gravity, the legs spread wide, one arm across the back of the seat, the bottle of Hennessy centered on the table like a small golden monument to his own presence. Grey leather jacket. Gold rope chain. Two soldiers flanking him in the booth, younger, harder, wearing their GD affiliation the way cops wear badges — visible, deliberate, a statement of jurisdiction.
+The hindbrain — the part that had kept her alive on State Street and in the [Robert](/npcs/robert-klondike/) [Taylor](/npcs/helena-taylor/) stairwells and in the back seats of cars she shouldn't have gotten into — fired before the conscious mind caught up. A shape in the booth near the runway. The geometry of a man who took up space the way certain men take up space, not with size but with gravity, the legs spread wide, one arm across the back of the seat, the bottle of Hennessy centered on the table like a small golden monument to his own presence. Grey leather jacket. Gold rope chain. Two soldiers flanking him in the booth, younger, harder, wearing their GD affiliation the way cops wear badges — visible, deliberate, a statement of jurisdiction.
 
 Marcus "Big Six" Tillman.
 
@@ -70,7 +70,7 @@ Outside. The cold. Curtis shivered and [Sable](/sable-price/) didn't and she wra
 
 They walked. Half a block. The streetlights thinned and the storefronts went dark and Gary opened up around them like a mouth with missing teeth.
 
-"You know what gets me?" Curtis said. He stopped walking. Looked up at the sky, which was the color of old rust because the mill fires at the lakefront burned all night, every night, and the light they threw was not light but a reminder that something that used to be alive was still burning. "It's not the job. Jobs come back. It's not even Karen leaving. People leave." He made a gesture with his hand. Fingers opening. Something released. "It's that I had this picture in my head. Since I was like nineteen. And I did everything right. Everything they told you to do. And the picture just... gone."
+"You know what gets me?" Curtis said. He stopped walking. Looked up at the sky, which was the color of old rust because the mill fires at the lakefront burned all night, every night, and the light they threw was not light but a reminder that something that used to be alive was still burning. "It's not the job. Jobs come back. It's not even [Karen](/npcs/karen-chartry/) leaving. People leave." He made a gesture with his hand. Fingers opening. Something released. "It's that I had this picture in my head. Since I was like nineteen. And I did everything right. Everything they told you to do. And the picture just... gone."
 
 "You're real easy to talk to. You know that?"
 

@@ -60,7 +60,7 @@ She told him about Halloran. Chicago money. A dead girl's name spoken in a bar w
 
 "Tuesday."
 
-The receiver went back on the hook and the dial tone leaked into the December air and Broadway was empty except for a cab and a man walking a dog that didn't want to be outside. Eleven-fourteen. The van would be on Seventeenth by now. DeShawn in the Olds on Sixteenth, watching with the patience she had taught him, which was really her own patience, which was really the patience of a woman who had survived the Robert Taylor Homes and the clubs and the VIP and the Embrace and fourteen months in a dying city by understanding one thing that most people never learn and Kindred forget first:
+The receiver went back on the hook and the dial tone leaked into the December air and Broadway was empty except for a cab and a man walking a dog that didn't want to be outside. Eleven-fourteen. The van would be on Seventeenth by now. DeShawn in the Olds on Sixteenth, watching with the patience she had taught him, which was really her own patience, which was really the patience of a woman who had survived the [Robert](/npcs/robert-klondike/) [Taylor](/npcs/helena-taylor/) Homes and the clubs and the VIP and the Embrace and fourteen months in a dying city by understanding one thing that most people never learn and Kindred forget first:
 
 The nights you don't spend anything are the nights that keep you alive.
 

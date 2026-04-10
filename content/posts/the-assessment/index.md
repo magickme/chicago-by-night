@@ -25,7 +25,7 @@ The woman sitting with him had a dancer's body — lean, held, the coiled stilln
 
 Kindred. The washed-out palette — colors present but muted, like watercolors left in the rain. And underneath: amber threaded with green. Assessment. Not hostile, not warm. The clinical attention of someone evaluating a painting she'd been told to buy.
 
-[Sir Henry](/npcs/sir-henry-johnson/) was already talking. He introduced the woman as Sophia, as though [Sable](/sable-price/) had met her, and Sable hadn't, but she knew the name. [Annabelle](/npcs/annabelle-triabell/)'s childe. The dancer. The one whose art the clan had looked at and called something other than art. Up close, the dancer held herself with a stillness that made sitting look choreographed.
+[Sir Henry](/npcs/sir-henry-johnson/) was already talking. He introduced the woman as [Sophia](/npcs/sophia-ayes/), as though [Sable](/sable-price/) had met her, and [Sable](/sable-price/) hadn't, but she knew the name. [Annabelle](/npcs/annabelle-triabell/)'s childe. The dancer. The one whose art the clan had looked at and called something other than art. Up close, the dancer held herself with a stillness that made sitting look choreographed.
 
 "Sir talks about you," Sophia said. Flat. Nothing given.
 
@@ -35,7 +35,7 @@ He laughed. Then the register dropped, and the performance found its purpose. He
 
 [Lodin](/npcs/lodin/) was not chairing Wednesday because [Lodin](/npcs/lodin/) could not. Three visitors admitted to the Prince's floor in ten days. Two were Kindred [Sir Henry](/npcs/sir-henry-johnson/) had never heard of. Not Chicago. Not anyone's people. The third was a physician. A mortal physician, on the Prince's floor, doing whatever mortal physicians do for bodies that have been dead for centuries.
 
-He let that land the way Sir Henry let things land: with his glass raised, his eyebrows at parade rest, and the absolute certainty that he was the most interesting person in any room that would have him.
+He let that land the way [Sir Henry](/npcs/sir-henry-johnson/) let things land: with his glass raised, his eyebrows at parade rest, and the absolute certainty that he was the most interesting person in any room that would have him.
 
 The implications were clean. [Neally](/npcs/neally-edwards/) was chairing with authority that might not exist. Any boon offered, any threat implied, any toast proposed — consider the source. Consider whether the hand holding the cup had the authority to fill it.
 

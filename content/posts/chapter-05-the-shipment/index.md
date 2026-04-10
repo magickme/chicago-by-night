@@ -62,7 +62,7 @@ He looked up. Eye contact.
 
 "You both woke bums up. It's OK now."
 
-The words went in through the eyes and settled into the brain like sediment dropping through water. The man's face changed — not relaxed, exactly, but reorganized. The confusion smoothed into a story that made sense. Bums. They'd chased off some bums. Tony tripped and knocked himself out. That was all. That was everything.
+The words went in through the eyes and settled into the brain like sediment dropping through water. The man's face changed — not relaxed, exactly, but reorganized. The confusion smoothed into a story that made sense. Bums. They'd chased off some bums. [Tony](/npcs/tony/) tripped and knocked himself out. That was all. That was everything.
 
 "Shit," the man said. He crouched and shook his partner's shoulder. "Tony. Tony, get up, man."
 
@@ -74,7 +74,7 @@ The container smelled like machine oil and something older. The work light ran o
 
 The crates were not machine parts. The first one was open and inside it, packed in cosmoline and factory plastic, eight assault rifles lay in a row like instruments in a case. Soviet military surplus. The kind of hardware that fell off the back of a collapsing superpower and ended up wherever someone was willing to pay. [Darius](/darius-cole/) counted eleven more crates. A clipboard on the wall listed three recipients — initials only, no names, no addresses. J.W. Four crates. C.A. Four crates. W. Three crates. Somebody was arming three groups out of Gary's docks, and the supply line ran from the Black Sea to Lake Michigan through a company that [Lucian](/npcs/lucian/) owned and a customs office he'd bought.
 
-But the rifles were not what Darius had come to find, and they were not what he found.
+But the rifles were not what [Darius](/darius-cole/) had come to find, and they were not what he found.
 
 The boxes were along the left wall. Four of them. Plywood, hand-built — someone had cut these with a table saw and driven the screws by hand, and the craftsmanship was careful, the corners tight, the ventilation holes drilled in even rows along both sides. Each box was six feet long. Two feet wide. Eighteen inches deep. The size and shape of a coffin, if coffins were built by carpenters who worked in shipping containers after midnight.
 

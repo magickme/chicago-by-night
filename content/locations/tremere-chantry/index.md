@@ -27,7 +27,7 @@ ShowToc: false
 
 ## Physical Read
 
-- Three-story brownstone on a tree-lined [Gold Coast](/locations/gold-coast/) block between Astor Street and the lake. Limestone facade, black iron fence, a garden that stays green too late into November. The neighbors assume old money. They are half right.
+- Three-story brownstone on a tree-lined [Gold Coast](/locations/gold-coast/) block between [Astor](/npcs/lady-astor/) Street and the lake. Limestone facade, black iron fence, a garden that stays green too late into November. The neighbors assume old money. They are half right.
 - Inside: hardwood floors, a library that smells of binding glue and something metallic, laboratories behind locked doors on the third floor. Every room temperature-controlled. Every threshold warded.
 - The basement is two levels deeper than the building permits show. The lower level has a stone floor older than the foundation above it.
 

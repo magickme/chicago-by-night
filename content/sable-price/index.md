@@ -23,7 +23,7 @@ image: cover.webp
 
 ## Who Is She
 
-Sable Ann Price is a twenty-one-year-old Black woman from the Robert Taylor Homes who has been dead for fourteen months and beautiful her entire life and has never once been seen.
+Sable Ann Price is a twenty-one-year-old Black woman from the [Robert](/npcs/robert-klondike/) [Taylor](/npcs/helena-taylor/) Homes who has been dead for fourteen months and beautiful her entire life and has never once been seen.
 
 In mortal terms she was an exotic dancer, a survivor, a girl from the projects who learned to convert her face into currency at an age when other girls were learning algebra. In Kindred terms she is a 9th-generation Toreador, the abandoned childe of a distracted painter locked in a sixty-year war with his ex-wife, Embraced in an act of romantic rage and left to figure out immortality alone.
 

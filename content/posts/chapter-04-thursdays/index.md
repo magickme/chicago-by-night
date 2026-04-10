@@ -86,7 +86,7 @@ The feeding that night was ugly in the way that necessary things are ugly when y
 
 Near the cemetery, after [Dane](/npcs/sullivan-dane/) left: a bar with no name and a Hamm's neon in the window. A man on the curb outside, drunk, on the payphone, telling someone he'd have the money in two weeks. Valid prey. The feeding restriction accepted him the way a lock accepts a key — the blood knew debt, knew desperation, knew the specific hormonal signature of a man who owed more than he would ever repay.
 
-Darius used Dominate to walk him into the alley. Took six points. Enough to hurt, not enough to kill. Cleaned the memory with Forgetful Mind. Left the man against the wall with a gap in his night he would fill with bourbon and bad luck.
+[Darius](/darius-cole/) used Dominate to walk him into the alley. Took six points. Enough to hurt, not enough to kill. Cleaned the memory with Forgetful Mind. Left the man against the wall with a gap in his night he would fill with bourbon and bad luck.
 
 Then he drove to Broadway and Fifth and fed twice more — split across a gambler and a stevedore, both valid, both cleaned, both left with headaches and nothing else. Methodical. Efficient. The way a machine feeds, not the way a person does.
 

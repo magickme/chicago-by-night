@@ -16,7 +16,7 @@ The mansion on Miller Beach sat at the end of a dead street the way a casket sit
 
 "He's in the drawing room."
 
-Nine o'clock. The hallway smelled like lemon polish and wet plaster. [Modius](/npcs/modius/)'s hell-paintings lined the walls, figures burning in landscapes that looked like Gary through a cracked windshield. [Sable](/sable-price/) walked through them the way she'd walked through the Robert Taylor Homes at fourteen: eyes forward, inventory running. Exits, sight lines, the particular weight of a building that knows it's dying and hasn't told anyone yet.
+Nine o'clock. The hallway smelled like lemon polish and wet plaster. [Modius](/npcs/modius/)'s hell-paintings lined the walls, figures burning in landscapes that looked like Gary through a cracked windshield. [Sable](/sable-price/) walked through them the way she'd walked through the [Robert](/npcs/robert-klondike/) [Taylor](/npcs/helena-taylor/) Homes at fourteen: eyes forward, inventory running. Exits, sight lines, the particular weight of a building that knows it's dying and hasn't told anyone yet.
 
 The drawing room. Piano lid closed. [Modius](/npcs/modius/) stood at the window in a charcoal suit that was expensive when Kennedy was president. He turned. The smile arrived on schedule.
 
@@ -200,13 +200,13 @@ The foyer. Coats and cold air. [Darius](/darius-cole/) timed the intersection at
 
 "Hey. I saw what happened there. Tension with [Allicia](/npcs/allicia/) already?"
 
-They were outside. Miller Beach in February, the lake breathing in the dark, the porch light throwing their shadows across the dead lawn. Sable's court voice dropped off her like a rented dress. What came up from underneath was South Side Chicago, the register she'd learned in the Robert Taylor Homes and refined at The Oasis and packed away every time she walked into a room full of white people who'd been dead longer than her family had been free.
+They were outside. Miller Beach in February, the lake breathing in the dark, the porch light throwing their shadows across the dead lawn. [Sable](/sable-price/)'s court voice dropped off her like a rented dress. What came up from underneath was South Side Chicago, the register she'd learned in the Robert Taylor Homes and refined at The Oasis and packed away every time she walked into a room full of white people who'd been dead longer than her family had been free.
 
 "Tell me about it. That white bitch cold."
 
 [Darius](/darius-cole/) heard the code-switch and felt something unlock in his chest. One frequency recognizing another across a room full of static. Two Black neonates walking away from a court full of white elders who'd been accumulating power since before emancipation, and the sidewalk was the first place all night where either of them could stop performing.
 
-"Yeah. Some of these 'people' never got the memo that slavery ended. Well I sure don't want to wind up running errands for them forever. What about you? Seems like Modius is getting a grip on you quick."
+"Yeah. Some of these 'people' never got the memo that slavery ended. Well I sure don't want to wind up running errands for them forever. What about you? Seems like [Modius](/npcs/modius/) is getting a grip on you quick."
 
 "Oh, a working girl loves a Sugar Daddy. Don't mean it's personal."
 

@@ -7,7 +7,7 @@ categories: ["Alien Hunger"]
 description: "Theresa Harper wakes up on a concrete floor in a burning building. She was a chemistry teacher yesterday."
 ---
 
-*Prestor's Lab, Denver*
+*[Prestor](/npcs/jacob-prestor/)'s Lab, Denver*
 *November 14, 1992 — 10:07 PM*
 
 ---
@@ -38,7 +38,7 @@ The fire was in the walls. I made myself look at the lab equipment instead of th
 
 The intake form was on a clipboard near the cold storage. My handwriting. My signature on a consent form that, reading it now, I would not have signed if I'd understood what I was consenting to. The column headings were in someone else's hand: *compound concentration, delivery vector, metabolic response, observed phenotype.* I was the observed phenotype.
 
-United National Bank of Denver. Post-It note on the inside of the cold storage door, next to a key hook that was empty. "Liverman" on a label on a box of slides. I spent thirty seconds I didn't have memorizing the room, then I went to find a way out.
+[United National Bank of Denver](/locations/united-national-bank-of-denver/). Post-It note on the inside of the cold storage door, next to a key hook that was empty. "[Liverman](/npcs/dr-roger-liverman/)" on a label on a box of slides. I spent thirty seconds I didn't have memorizing the room, then I went to find a way out.
 
 The trapdoor should have been near the furnace -- basement-beneath-a-basement logic, the logic of a serious installation. I went toward heat and found more of it than I'd planned. My right forearm hit something metal and I made a sound I haven't made since I broke my collarbone at twenty-two. The skin had a texture I recognized from burn cases. I filed that away too.
 
@@ -56,7 +56,7 @@ I drove for a while without any particular destination. The radio said something
 
 ---
 
-Duke was standing outside the Broadstreet like the night belonged to him personally. Short, broad, a quality of attention in the way he stood that made me think of people who have been in situations where inattention costs them. He looked at me and I looked at him and something passed between us that I don't have a word for yet, though I suspect I'm going to have to develop a vocabulary for a lot of things fairly quickly.
+[Duke](/npcs/duke/) was standing outside [the Broadstreet](/locations/the-broadstreet/) like the night belonged to him personally. Short, broad, a quality of attention in the way he stood that made me think of people who have been in situations where inattention costs them. He looked at me and I looked at him and something passed between us that I don't have a word for yet, though I suspect I'm going to have to develop a vocabulary for a lot of things fairly quickly.
 
 "You're new," he said.
 
@@ -88,7 +88,7 @@ No pulse.
 
 I sat back down. I put my hands flat on my knees and looked at the table.
 
-He kept talking. He said things about the city, about his role in it, about what it meant for me to move through Denver without causing incidents. He named Klondike and I filed it away for later. He said the serum might be retrievable. He said Prestor's research existed somewhere and that finding it was in both our interests.
+He kept talking. He said things about the city, about his role in it, about what it meant for me to move through Denver without causing incidents. He named [Klondike](/npcs/robert-klondike/) and I filed it away for later. He said the serum might be retrievable. He said Prestor's research existed somewhere and that finding it was in both our interests.
 
 I listened. The information got filed in the same cold place I'd been filing everything else since I woke up on that floor. I'd process it when I had the processing capacity. Right now that capacity was fully occupied with not doing anything irreversible.
 

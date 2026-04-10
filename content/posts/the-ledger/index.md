@@ -72,7 +72,7 @@ The sympathetic approach bounced off a wall of bourbon and grief. So [Darius](/d
 
 Two minutes of quiet conversation. Wojcik recited the lease structure of the Berth 8-9 access road with the flat precision of a man who'd walked past the same buildings every day for twenty years. The warehouse closest to Berth 7 wasn't port authority. It was leased through a private entity. Lakeshore Industrial Services. Chicago outfit. Registered agent in Cicero.
 
-Cicero. Cantone's territory. Darius had stolen a drug pipeline and never looked at the deed.
+Cicero. Cantone's territory. [Darius](/darius-cole/) had stolen a drug pipeline and never looked at the deed.
 
 He took Wojcik into the alley behind the bar and fed. Three blood points. The man's hands stopped shaking for the first time all night. The Kiss put a look on his face that was almost peaceful, almost human, almost like the expression of a man who had been carrying a weight that someone finally lifted. Darius held him against the cinder block and drank and tasted the bourbon and the cortisol and the particular copper note of a man whose fear had become the only steady thing left in his life.
 

@@ -66,7 +66,7 @@ He tried the cover. [Michael](/npcs/michael/) didn't buy it. He tried the mutual
 
 "Why are you here, Birch?" [Michael](/npcs/michael/) asked, and the use of the court name — Warren Birch, the orphan, the cover — told [Darius](/darius-cole/) that [Michael](/npcs/michael/) had placed him, catalogued him, and was now deciding what to do with him.
 
-Darius could feel the architecture of the conversation collapsing. Every angle he tried, Michael was already on the other side, waiting. The boy from the cemetery was faster than him. Not physically — mentally. The cracked mind saw around corners that Darius couldn't even see the walls of.
+[Darius](/darius-cole/) could feel the architecture of the conversation collapsing. Every angle he tried, [Michael](/npcs/michael/) was already on the other side, waiting. The boy from the cemetery was faster than him. Not physically — mentally. The cracked mind saw around corners that Darius couldn't even see the walls of.
 
 So he did the only thing left. He told the truth.
 

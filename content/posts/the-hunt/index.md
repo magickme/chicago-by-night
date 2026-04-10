@@ -34,7 +34,7 @@ She put her mouth on his neck in the shadow by the dumpster and he made the soun
 
 Five. She counted them. She always counted them.
 
-She pulled off and held him up by the shoulders while his knees remembered how to work. Licked the punctures. Buttoned the top button of his polo, the one with DALE on the pocket. Walked him to his pickup truck -- Ford Ranger, cracked toolbox, St. Christopher medal on the mirror -- and sat him behind the wheel and tilted the seat back.
+She pulled off and held him up by the shoulders while his knees remembered how to work. Licked the punctures. Buttoned the top button of his polo, the one with DALE on the pocket. Walked him to his pickup truck -- Ford Ranger, cracked toolbox, St. [Christopher](/npcs/christopher/) medal on the mirror -- and sat him behind the wheel and tilted the seat back.
 
 "You fell asleep," she said. "You had too many."
 

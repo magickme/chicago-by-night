@@ -22,7 +22,7 @@ SA [William Shepard](/npcs/william-shepard/). FBI. The phone number in [Darius](
 
 "Get the plate. See if he's alone. Don't let him see you."
 
-[Sable](/sable-price/) went low and fast across the scrub brush between the road and the beach, moving through the dark the way she'd learned to move through the Robert Taylor Homes when the building was full of men who listened for footsteps. She approached from the lake side, below the mirror line, and crouched behind the rear quarter panel with the sedan's passenger window cracked two inches and every sense dialed to maximum.
+[Sable](/sable-price/) went low and fast across the scrub brush between the road and the beach, moving through the dark the way she'd learned to move through the [Robert](/npcs/robert-klondike/) [Taylor](/npcs/helena-taylor/) Homes when the building was full of men who listened for footsteps. She approached from the lake side, below the mirror line, and crouched behind the rear quarter panel with the sedan's passenger window cracked two inches and every sense dialed to maximum.
 
 Alone. One heartbeat. Coffee on the passenger seat. A radio scanner cycling Gary PD frequencies. And on the dashboard, three photographs paper-clipped to an open notebook: the docks at Dock 7, a school portrait of a sixteen-year-old boy, and a Polaroid of an unknown man near the Dock 7 warehouse — the same photograph [Darius](/darius-cole/) kept in his kitchen cabinet. The notebook heading, in block capitals: WIERUS.
 

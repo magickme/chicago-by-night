@@ -116,7 +116,7 @@ Fifth Avenue. Two in the morning. The studio was cold.
 
 She would not drink.
 
-She would not drink because [Allicia](/npcs/allicia/) told her not to, and [Allicia](/npcs/allicia/) was the only person in Gary who had told [Sable](/sable-price/) something true without wanting something back, and that made [Allicia](/npcs/allicia/) the most dangerous person in Sable's life, because people who give you things for free are the people you owe debts you can't calculate.
+She would not drink because [Allicia](/npcs/allicia/) told her not to, and [Allicia](/npcs/allicia/) was the only person in Gary who had told [Sable](/sable-price/) something true without wanting something back, and that made [Allicia](/npcs/allicia/) the most dangerous person in [Sable](/sable-price/)'s life, because people who give you things for free are the people you owe debts you can't calculate.
 
 Dawn pressed against the windows. Sable lay on the hardwood floor. The pointe shoes turned on their ribbons. The photograph watched.
 

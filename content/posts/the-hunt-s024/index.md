@@ -110,7 +110,7 @@ At Reva's bar, the intel came in pieces: the well-dressed white woman who didn't
 
 [Sable](/sable-price/) or Ann. Her birth name. The name that was supposed to be buried under fourteen months of death and a hundred miles of highway between Chicago and Gary.
 
-Reva slid the napkin across the bar. A 312 number in ballpoint. Chicago. Someone in that area code knew Sable Ann Price well enough to send a woman in a wool coat to the east side of Gary, Indiana, to ask questions in a bar where nobody asks questions.
+Reva slid the napkin across the bar. A 312 number in ballpoint. Chicago. Someone in that area code knew [Sable](/sable-price/) Ann Price well enough to send a woman in a wool coat to the east side of Gary, Indiana, to ask questions in a bar where nobody asks questions.
 
 She folded the napkin once and put it in her coat pocket.
 
