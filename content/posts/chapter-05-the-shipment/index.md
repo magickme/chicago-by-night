@@ -70,7 +70,7 @@ The words went in through the eyes and settled into the brain like sediment drop
 
 ---
 
-The container smelled like machine oil and something older. The work light ran on a battery and cast hard shadows across a landscape of crates stenciled in a language Darius didn't read. Cyrillic. The shipping labels said Odessa in English underneath — Black Sea, Soviet Union, the empire that was falling apart on the evening news while Gary fell apart in the same way, quietly, from the inside, and nobody on television cared about either collapse.
+The container smelled like machine oil and something older. The work light ran on a battery and cast hard shadows across a landscape of crates stenciled in a language [Darius](/darius-cole/) didn't read. Cyrillic. The shipping labels said Odessa in English underneath — Black Sea, Soviet Union, the empire that was falling apart on the evening news while Gary fell apart in the same way, quietly, from the inside, and nobody on television cared about either collapse.
 
 The crates were not machine parts. The first one was open and inside it, packed in cosmoline and factory plastic, eight assault rifles lay in a row like instruments in a case. Soviet military surplus. The kind of hardware that fell off the back of a collapsing superpower and ended up wherever someone was willing to pay. Darius counted eleven more crates. A clipboard on the wall listed three recipients — initials only, no names, no addresses. J.W. Four crates. C.A. Four crates. W. Three crates. Somebody was arming three groups out of Gary's docks, and the supply line ran from the Black Sea to Lake Michigan through a company that [Lucian](/npcs/lucian/) owned and a customs office he'd bought.
 

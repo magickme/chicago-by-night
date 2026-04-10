@@ -80,7 +80,7 @@ Ray flinched at the cold that came off [Darius](/darius-cole/)'s body — they a
 
 "Birch! Hey — hey, happy New Year, man. Sit down. You want a Schlitz? Eddie, get this man a Schlitz."
 
-Darius didn't want a Schlitz. Darius wanted what was behind Ray's eyes, which he could read the way a jeweler reads a setting: wife gone since October, kid stopped calling, crew drinking near him but not with him. The debts were the symptom. The loneliness was the disease. [Ray Pulaski](/npcs/ray-pulaski/) didn't need money. [Ray Pulaski](/npcs/ray-pulaski/) needed someone to need him.
+[Darius](/darius-cole/) didn't want a Schlitz. Darius wanted what was behind Ray's eyes, which he could read the way a jeweler reads a setting: wife gone since October, kid stopped calling, crew drinking near him but not with him. The debts were the symptom. The loneliness was the disease. [Ray Pulaski](/npcs/ray-pulaski/) didn't need money. [Ray Pulaski](/npcs/ray-pulaski/) needed someone to need him.
 
 Darius listened for eleven minutes. He knew because he counted. Ray talked about the holidays, about shift cuts in January, about the weather, about the Steelers. Darius nodded and didn't drink the Schlitz and waited for the seam in the conversation — the place where the casual became the vulnerable, where the talking-to-talk became the talking-because-you-can't-stop.
 

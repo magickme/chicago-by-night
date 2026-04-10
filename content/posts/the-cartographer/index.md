@@ -102,7 +102,7 @@ Dark sedan. Newer model. Illinois plates. Parked facing the access road behind G
 
 Cantone's people. Had to be.
 
-And [Danov](/npcs/alexander-danov/) had known. The Nosferatu hadn't told Darius about the sedan — he'd told him to feed in the place where the sedan was parked. The difference between giving a man information and teaching him to find it himself, which was the difference between a transaction and an education, and [Danov](/npcs/alexander-danov/) had chosen the education because he was building something longer than paper.
+And [Danov](/npcs/alexander-danov/) had known. The Nosferatu hadn't told [Darius](/darius-cole/) about the sedan — he'd told him to feed in the place where the sedan was parked. The difference between giving a man information and teaching him to find it himself, which was the difference between a transaction and an education, and [Danov](/npcs/alexander-danov/) had chosen the education because he was building something longer than paper.
 
 Darius stood in the dark and ran the board. The warehouse was compromised. [Chuc Luc](/npcs/chuc-luc/)'s shipment next week. Eddie as the hinge. The twenty-four sacks as the evidence. Cantone's escalation ladder — surveillance, then approach Eddie, then a crew, then report up to the capo, then soldiers. Darius needed to interrupt the ladder before it left Gary.
 

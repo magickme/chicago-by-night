@@ -106,7 +106,7 @@ Not a question. The woman on the other end took notes. Pen on paper, clinical, f
 
 The line died. [Sable](/sable-price/) stood in the dark with the dial tone humming against her ear and the water main crew coughing three blocks away. A window. Twenty-five days to build a room inside a room at a party where the host sees everything.
 
-At Reva's bar, the intel came in pieces: the well-dressed white woman who didn't order a drink. Forties. Wool coat. Dark sedan. She asked Danny about a pretty young Black woman, new in town, might go by Sable. Or Ann.
+At Reva's bar, the intel came in pieces: the well-dressed white woman who didn't order a drink. Forties. Wool coat. Dark sedan. She asked Danny about a pretty young Black woman, new in town, might go by [Sable](/sable-price/). Or Ann.
 
 Sable or Ann. Her birth name. The name that was supposed to be buried under fourteen months of death and a hundred miles of highway between Chicago and Gary.
 

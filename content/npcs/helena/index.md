@@ -84,7 +84,7 @@ After the climactic battle in Spain and a century of searching, Helena discovere
 
 Helena allied with the United States military. [Menele](/npcs/menele/) with Chief Black Hawk. The air turned red with the vast quantities of blood they used. Helena dug her claws into [Menele](/npcs/menele/)'s ribs. [Menele](/npcs/menele/) drove his skull into her forehead. Both were thrown to the ground. [Prias](/npcs/prias/) drove a burning stake into [Menele](/npcs/menele/)'s neck.
 
-Both Methuselahs fell into torpor. Prias carried Helena to a place of safety under the fort — deep in the dark earth at the bottom of a well, which he bricked up.
+Both Methuselahs fell into torpor. [Prias](/npcs/prias/) carried Helena to a place of safety under the fort — deep in the dark earth at the bottom of a well, which he bricked up.
 
 ## The Sleeping War — Chicago
 

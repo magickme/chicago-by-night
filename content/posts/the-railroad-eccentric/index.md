@@ -45,7 +45,7 @@ The pen came out again. Uncap. Cap.
 
 The room was forty feet below [Scott](/npcs/sir-edward-scott/) Street. Ten by twelve, poured concrete, a wooden table and a chair and a cot with a wool blanket folded on it. A bare bulb on a pull-chain. Someone had left a glass of water on the table that hadn't gathered dust.
 
-Tomas broke the black wax seal with his thumbnail. The smell was cold vitae with something heavy underneath — sediment, the old man had said. The deeper the generation, the heavier the weight.
+[Tomas](/npcs/tomas/) broke the black wax seal with his thumbnail. The smell was cold vitae with something heavy underneath — sediment, the old man had said. The deeper the generation, the heavier the weight.
 
 He touched the blood to his tongue and the room disappeared.
 

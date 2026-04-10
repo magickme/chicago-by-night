@@ -90,7 +90,7 @@ He dialed from memory. Three rings. Four. The click of a handset lifted and then
 
 He gave him everything. Pipeline operational. Eddie granite. Federal crackdown covering the waterfront. Cantone closed, RICO, paper trail dead. Identity federal-grade, proxy conditioned, FBI found what they were supposed to find. [Modius](/npcs/modius/) satisfied, dock feeding rights, waterfront mission completed.
 
-The silence after the report was the silence of a man recalculating. Darius could hear the kitchen ventilation hum on the Argyle Street end of the line. Someone cooking pho at eight on a Tuesday night.
+The silence after the report was the silence of a man recalculating. [Darius](/darius-cole/) could hear the kitchen ventilation hum on the Argyle Street end of the line. Someone cooking pho at eight on a Tuesday night.
 
 "Continue," [Chuc Luc](/npcs/chuc-luc/) said.
 

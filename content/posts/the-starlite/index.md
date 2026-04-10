@@ -85,7 +85,7 @@ Dark hair. Latino. Thirties. Neat. Not a cop but that kind of clean. He'd said o
 
 The profile landed against the description [Sable](/sable-price/) had given him three hours ago on the payphone. Tremere. New to Chicago. Intelligence background. The kind of mind that takes things apart to see the wiring. [Tomas](/npcs/tomas/).
 
-The operation wasn't compromised. It was transparent. Someone had read his work, identified his method, confirmed his blood, and walked out with the complete picture. The Tremere were already running collection on the same target. Darius was three days behind a player he hadn't known was at the table.
+The operation wasn't compromised. It was transparent. Someone had read his work, identified his method, confirmed his blood, and walked out with the complete picture. The Tremere were already running collection on the same target. [Darius](/darius-cole/) was three days behind a player he hadn't known was at the table.
 
 He sat in the kitchen chair and did the Conditioning anyway. Eye contact. Short commands. Repetition. *You trust me. You come to me first. You answer what I ask.* The grooves kept catching on something — the legal pad, the window latch, the shape of a man he'd never met standing in this room reading his work. One success in an hour. Five-fourteenths. The foundation setting slow.
 

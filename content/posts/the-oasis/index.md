@@ -112,7 +112,7 @@ Fifth Avenue. Two in the morning. The studio was cold.
 
 [Allicia](/npcs/allicia/) was Blood Bound. Since 1941. Three drinks and the question of love becomes unanswerable. The Oasis taught [Sable](/sable-price/) what that looked like from the outside: the regulars who came back every night, not because the drinks were good or the girls were beautiful but because the building had become the shape of their loneliness and they couldn't imagine fitting anywhere else. The Blood Bond was The Oasis with fangs. The cage was always the same shape. The bars just changed material.
 
-[Modius](/npcs/modius/) would offer. [Allicia](/npcs/allicia/) said so. Whatever he calls it. A toast at court. A private drink in the drawing room. The intimacy of shared blood, which in Kindred culture was sex and communion and contract all at once, and Sable had been performing all three since she was seventeen and had never once let any of them be real.
+[Modius](/npcs/modius/) would offer. [Allicia](/npcs/allicia/) said so. Whatever he calls it. A toast at court. A private drink in the drawing room. The intimacy of shared blood, which in Kindred culture was sex and communion and contract all at once, and [Sable](/sable-price/) had been performing all three since she was seventeen and had never once let any of them be real.
 
 She would not drink.
 

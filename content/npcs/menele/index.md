@@ -92,7 +92,7 @@ The war continued through proxies. [Helena](/npcs/helena/)'s forces centered aro
 
 ### The [Maldavis](/npcs/maldavis/) Sacrifice (Council Wars, 1983-1987)
 
-[Maldavis](/npcs/maldavis/) led a Brujah uprising against [Lodin](/npcs/lodin/). Menele sacrificed her — allowed her to fail — in order to make [Helena](/npcs/helena/) believe she had taken control of [Annabelle Triabell](/npcs/annabelle-triabell/). Helena could not believe Menele would sacrifice such a powerful tool for any reason. The gambit worked.
+[Maldavis](/npcs/maldavis/) led a Brujah uprising against [Lodin](/npcs/lodin/). Menele sacrificed her — allowed her to fail — in order to make [Helena](/npcs/helena/) believe she had taken control of [Annabelle Triabell](/npcs/annabelle-triabell/). [Helena](/npcs/helena/) could not believe Menele would sacrifice such a powerful tool for any reason. The gambit worked.
 
 During this period, his sleep was plagued with questions. As he traced the entire history of his Jyhad, a gnawing doubt welled up: *Were his actions his own? Did someone manipulate him as he manipulated others? Some even older and more powerful Vampire?* The thought assailed him and rode his dreams.
 

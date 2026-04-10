@@ -184,9 +184,9 @@ Two Toreador women at a piano bench. The most natural composition in the world. 
 
 She shook her head. Once. Small.
 
-Her hand moved to the bench between them. Her pinky finger touched Sable's for one second. One. Then it withdrew.
+Her hand moved to the bench between them. Her pinky finger touched [Sable](/sable-price/)'s for one second. One. Then it withdrew.
 
-[Allicia](/npcs/allicia/) stood. Smoothed her dress. Walked to her position three paces behind Modius's armchair, where she'd stood for decades. The yellow lace shawl caught the lamplight.
+[Allicia](/npcs/allicia/) stood. Smoothed her dress. Walked to her position three paces behind [Modius](/npcs/modius/)'s armchair, where she'd stood for decades. The yellow lace shawl caught the lamplight.
 
 Sable sat alone on the bench. Five seconds. Then she stood and smoothed her own dress and found the windows again, and if anyone in the room was watching they saw a young Toreador's failed attempt at clan bonding. Harmless. Forgettable. Not the pinky on the bench. Not the snow globe upstairs.
 
@@ -224,7 +224,7 @@ She wrote a number on the back of a matchbook from her jacket. The studio line, 
 
 "Don't call before sundown. Obviously."
 
-She walked to her car. The cold took the space where she'd been standing and Darius was alone on a dead street in Miller Beach with a matchbook and a phone number and something he hadn't had five minutes ago.
+She walked to her car. The cold took the space where she'd been standing and [Darius](/darius-cole/) was alone on a dead street in Miller Beach with a matchbook and a phone number and something he hadn't had five minutes ago.
 
 He drove home. The west-side apartment was dark. He sat at the kitchen table and looked at the matchbook and thought about the woman who wrote it and whether she was running a game on him the same way he was running a game on her, and whether it mattered, and whether the answer to that question was the most dangerous thing that had happened all night. More dangerous than [Danov](/npcs/alexander-danov/)'s gray eyes and Modius's collar adjustment and [Lucian](/npcs/lucian/)'s ancient indifference.
 

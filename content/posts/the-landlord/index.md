@@ -104,7 +104,7 @@ The wasteland at eleven. South Gary, past the cemetery, into the blocks where th
 
 He found her on a bus bench at the corner of a street that didn't have a sign anymore. CNA scrubs, white shoes gone gray, a name badge clipped to the pocket that said REGIONAL MEDICAL CENTER and a first name he didn't read. She was crying. Not the performative kind. The kind where the body has decided to do it regardless of what the mind wants, the shoulders shaking in a rhythm that was its own clock. An eviction summons on the bench beside her, the court date two weeks out, the landlord's name in bold type at the top.
 
-Valid target. Financial distress. The palate confirmed it before the eyes finished cataloguing -- the taste in the air around her, the specific chemistry of cortisol and fear and the hormonal signature of a woman whose systems were failing in the order that Darius's blood recognized as vintage.
+Valid target. Financial distress. The palate confirmed it before the eyes finished cataloguing -- the taste in the air around her, the specific chemistry of cortisol and fear and the hormonal signature of a woman whose systems were failing in the order that [Darius](/darius-cole/)'s blood recognized as vintage.
 
 Two words. She stood. Walked to the shadow behind the bench where the broken streetlight made a pocket of dark. He fed. Three blood points. Clean, controlled, the minimum professional take. She sat back down. The crying had stopped. She'd sleep soon, and in the morning the lightheadedness would be a skipped meal and the evening would be a gap she'd fill with exhaustion.
 

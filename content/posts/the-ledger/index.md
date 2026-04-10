@@ -66,7 +66,7 @@ Hennessey's was a cinder-block bar at the north end of the waterfront. Four cars
 
 He read the room the way a bookie reads a racing form. The bartender with his tax lien behind the register. The union men at the end of the bar who weren't working anymore. The nurse with her Methodist badge and her second-job exhaustion. And the man at the bar with steel-gray hair and shaking hands and a jacket with the name patch ripped off, who smelled like Jim Beam and foreclosure.
 
-[Thomas](/npcs/thomas-gerhieren/) Wojcik. Fired dock supervisor. Fourteen thousand dollars in back taxes on a storage building he couldn't keep and couldn't sell. The lien notice was folded in his jacket pocket, Lake County letterhead visible, and Darius's blood recognized the debt the way a Ventrue's blood always did. The restriction hummed. This man qualified.
+[Thomas](/npcs/thomas-gerhieren/) Wojcik. Fired dock supervisor. Fourteen thousand dollars in back taxes on a storage building he couldn't keep and couldn't sell. The lien notice was folded in his jacket pocket, Lake County letterhead visible, and [Darius](/darius-cole/)'s blood recognized the debt the way a Ventrue's blood always did. The restriction hummed. This man qualified.
 
 The sympathetic approach bounced off a wall of bourbon and grief. So Darius caught his eyes and pointed at the envelope and said one word, and four seconds later the man's hand moved before his brain caught up and the lien notice was on the bar between them.
 

@@ -86,7 +86,7 @@ She folded the pages into [Sable](/sable-price/)'s hand and closed her fingers a
 
 She burned the pages in an empty Quaker State can behind the garage. The pen-light paper curled and the words went -- *the bond*, *every night*, *a tourniquet* -- and the smoke smelled like nothing because there was nothing on those pages anyone would ever read again.
 
-Inside, she ran the Monday brief. [Spoon](/npcs/spoon-antoine/) back Sunday. DeShawn overwatch. Coop on call. Sable on foot. Watching first.
+Inside, she ran the Monday brief. [Spoon](/npcs/spoon-antoine/) back Sunday. DeShawn overwatch. Coop on call. [Sable](/sable-price/) on foot. Watching first.
 
 "Monday. Eleven sharp. Nobody's late."
 

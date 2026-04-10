@@ -194,4 +194,4 @@ At the Starlite, [Sable](/sable-price/) sat on the bed and looked at the bathroo
 
 She pulled the covers up. Outside, the Dan Ryan hummed its constant two-note chord of freight trucks and distance. The Prince of Chicago was in a hotel room with a locked closet and a telephone and three hundred years of debts to collect.
 
-Darius sat in the dark and waited for the phone to ring.
+[Darius](/darius-cole/) sat in the dark and waited for the phone to ring.

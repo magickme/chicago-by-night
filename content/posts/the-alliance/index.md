@@ -58,7 +58,7 @@ She pressed her lips to [Sable](/sable-price/)'s forehead. Held up five fingers.
 
 "Five."
 
-Counting. Every word she'd spoken to Sable. Keeping a record of the first honest thing in her existence since 1938.
+Counting. Every word she'd spoken to [Sable](/sable-price/). Keeping a record of the first honest thing in her existence since 1938.
 
 Sable slid to the floor. Kissed her knee. "Shh. Five is enough for now."
 

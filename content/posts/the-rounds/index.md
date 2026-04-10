@@ -76,7 +76,7 @@ Reva hadn't told her anything. Good woman. Smart enough to know that questions a
 
 And at twelve-forty in the morning, on Seventeenth Street, the van was there.
 
-White Econoline. Parked facing south. One figure in the driver's seat. Sable approached from the south through the alley grid, staying in the shadow of the boarded duplex, and opened her senses and read what her blood could read -- the notebook (dome light on and off in short disciplined bursts), the reading glasses on a chain, the thermos on the dashboard, the thick dark book on the passenger seat. White male, fifties or sixties. Not forties. Patient. Trained.
+White Econoline. Parked facing south. One figure in the driver's seat. [Sable](/sable-price/) approached from the south through the alley grid, staying in the shadow of the boarded duplex, and opened her senses and read what her blood could read -- the notebook (dome light on and off in short disciplined bursts), the reading glasses on a chain, the thermos on the dashboard, the thick dark book on the passenger seat. White male, fifties or sixties. Not forties. Patient. Trained.
 
 She opened the second sight. The one that reads the colors of the living and the dead and the things between them. She looked at the man in the white van and the light hit her like a hand across the face.
 

@@ -35,7 +35,7 @@ The letter. He read it at the Sherwin-[Williams](/npcs/williams/) building, hunc
 
 Walt.
 
-A Buick Regal on the east side of Wabash had been there the whole time. The driver was a Black woman with close-cropped natural hair and a leather jacket and the patience of someone who'd been watching Box 1109 long before Darius showed up. [Maldavis](/npcs/maldavis/). Caitiff. Eighth generation, though Darius wouldn't learn that until later. She'd been mapping [Ballard](/npcs/ballard/)'s courier drops for three months because three of her people had lost their havens to code violations that traced back to the same address on LaSalle Street.
+A Buick Regal on the east side of Wabash had been there the whole time. The driver was a Black woman with close-cropped natural hair and a leather jacket and the patience of someone who'd been watching Box 1109 long before [Darius](/darius-cole/) showed up. [Maldavis](/npcs/maldavis/). Caitiff. Eighth generation, though Darius wouldn't learn that until later. She'd been mapping [Ballard](/npcs/ballard/)'s courier drops for three months because three of her people had lost their havens to code violations that traced back to the same address on LaSalle Street.
 
 She gave him the collector's name — Martin Hayward, attorney, eleventh floor — and a payphone number written on the back of a Walgreens receipt. He gave her the name Greystone Fiduciary. Two people in the cold, watching the same machine from different angles, each deciding how far to trust the other.
 

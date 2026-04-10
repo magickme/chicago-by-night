@@ -67,7 +67,7 @@ Dark-haired. Sharp-featured in the way a sculpture is sharp-featured — everyth
 
 The brand was on the left wrist. Keloid tissue, raised, deliberate — not an accident. Someone had put that mark there on purpose.
 
-Sable's Beast sat up.
+[Sable](/sable-price/)'s Beast sat up.
 
 The woman's predatory aura was wrong in a way that took a moment to identify. Camarilla Kindred wore their Beasts the way well-trained soldiers wore their weapons — present, controlled, dangerous in a legible way. This woman's Beast was not behind glass. It sat in her eyes and watched Sable the way a cat watches something that might be food, and the watching was patient, totally patient, with the patience of something that has been patient for longer than Sable had been alive.
 
@@ -153,11 +153,11 @@ Sable let go of the badge.
 
 She found a payphone three blocks from the freight tunnel entrance and called [Annabelle](/npcs/annabelle-triabell/)'s private number. The one that rang in the haven. Two rings, then: "Yes."
 
-She laid it out clean. A Sabbat scout working the Robert Taylor Homes. Six weeks of documented activity. Khalid's network knew and had not shared. The lair, the route, the endpoint. Wednesday meeting with [Bordruff](/npcs/nathaniel-bordruff/), price from Khalid.
+She laid it out clean. A Sabbat scout working the Robert Taylor Homes. Six weeks of documented activity. [Khalid](/npcs/khalid-al-rashid/)'s network knew and had not shared. The lair, the route, the endpoint. Wednesday meeting with [Bordruff](/npcs/nathaniel-bordruff/), price from Khalid.
 
 [Annabelle](/npcs/annabelle-triabell/)'s response was the sharp intake of information processing. Then: "A scout mapping routes to the [Succubus Club](/locations/succubus-club/)." Pause. "And Khalid has known this for six weeks and told no one."
 
-"That's what Bordruff said."
+"That's what [Bordruff](/npcs/nathaniel-bordruff/) said."
 
 "That's a problem of a different kind than the Sabbat." A beat. "Thank you for this. I'll need to think about how it's used."
 
@@ -167,7 +167,7 @@ The pause was shorter this time. [Annabelle](/npcs/annabelle-triabell/) was alre
 
 "[Lodin](/npcs/lodin/) is summoning the coterie. Within the week. A toast of gratitude — his appreciation for the assistance with the [Drummond](/npcs/edgar/) situation."
 
-"Yes," Annabelle said. "He will."
+"Yes," [Annabelle](/npcs/annabelle-triabell/) said. "He will."
 
 "And the wine."
 

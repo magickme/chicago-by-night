@@ -76,7 +76,7 @@ He drove east.
 
 [Telton Cemetery](/locations/telton-cemetery/) at a quarter past one in the morning was the kind of place that made Gary's living neighborhoods look optimistic. The gates were chained but the chain was theater — loose enough to squeeze through, the same way it had been the last time [Darius](/darius-cole/) came. Past the Civil War markers, through the section where the headstones leaned at angles that suggested the ground itself was tired of holding the dead upright, toward the maintenance shed at the back where a single candle burned in the window.
 
-[Michael](/npcs/michael/) was sitting on a headstone outside the shed. Facing the direction Darius was coming from. Not surprised. The Malkavian had felt him approaching or seen it or known it the way the cracked ones knew things, through the fractures in their minds where something else looked through.
+[Michael](/npcs/michael/) was sitting on a headstone outside the shed. Facing the direction [Darius](/darius-cole/) was coming from. Not surprised. The Malkavian had felt him approaching or seen it or known it the way the cracked ones knew things, through the fractures in their minds where something else looked through.
 
 "You brought something."
 

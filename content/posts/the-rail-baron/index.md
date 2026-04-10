@@ -69,7 +69,7 @@ He opened a drawer and pulled out a leather-bound ledger — old, heavy, decades
 
 "This is yours, Mr. [Drummond](/npcs/edgar/). You walk in with your own evidence."
 
-They drove north in the rain. Drummond in the back seat, enormous, silent, the ledger in his lap. CNN on every frequency. The [Succubus Club](/locations/succubus-club/) still lit. The emergency Primogen session still running on the third floor.
+They drove north in the rain. [Drummond](/npcs/edgar/) in the back seat, enormous, silent, the ledger in his lap. CNN on every frequency. The [Succubus Club](/locations/succubus-club/) still lit. The emergency Primogen session still running on the third floor.
 
 He walked inside under his own power. Up the stairs. Through the door. The room — [Lodin](/npcs/lodin/), [Annabelle](/npcs/annabelle-triabell/), [Critias](/critias/), [Nicolai](/nicolai/) — turned toward the doorway and saw a Ventrue elder with a ledger and two neonates behind him and [Lodin](/npcs/lodin/)'s eyes landed on [Darius](/darius-cole/) and something crossed the Prince's face that was not surprise.
 
@@ -85,6 +85,6 @@ They sat in the Cutlass and didn't talk for a while. [Darius](/darius-cole/) sta
 
 "Keep it that way."
 
-He pulled onto Wacker Drive. The river was black underneath. The city ran on rails and the rails ran on a fat man's loneliness and nobody had ever asked him about it and Sable had and the asking was the knife and the knife had opened something that couldn't be closed.
+He pulled onto Wacker Drive. The river was black underneath. The city ran on rails and the rails ran on a fat man's loneliness and nobody had ever asked him about it and [Sable](/sable-price/) had and the asking was the knife and the knife had opened something that couldn't be closed.
 
 Room 9. The radiator clanked. The ice machine cycled. Baghdad burned on every screen in America and in the private lounge of the [Succubus Club](/locations/succubus-club/) the dead were eating their own and the two Gary neonates who had served the meal were already ghosts in the stairwell, already gone, already nowhere anyone would think to look.

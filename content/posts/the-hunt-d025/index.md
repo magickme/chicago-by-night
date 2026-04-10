@@ -70,7 +70,7 @@ Footprints. Work boots, size ten or eleven, deep heel strike. They came from the
 
 Then nothing. No return path. No divergence. Boot, gravel, boot, gravel, gone.
 
-He crouched where the prints ended. The blind spot was architectural. Three surfaces meeting at an angle that created a null space in the light geometry. Someone had chosen this corner the way Darius chose his: by reading the environment and using what was already there. The wind came off the lake and tasted like iron and snow.
+He crouched where the prints ended. The blind spot was architectural. Three surfaces meeting at an angle that created a null space in the light geometry. Someone had chosen this corner the way [Darius](/darius-cole/) chose his: by reading the environment and using what was already there. The wind came off the lake and tasted like iron and snow.
 
 He filed it and drove west.
 

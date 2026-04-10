@@ -72,7 +72,7 @@ The mirror was exact and it was not comforting.
 
 ---
 
-The plates came back two days later, tucked inside a VHS case — *The Untouchables*, which [Marlene](/npcs/marlene-voss/) either chose for irony or because it was the first tape she grabbed — at the pawnshop counter. Darius read the napkin standing between a broken saxophone and a stack of car stereos.
+The plates came back two days later, tucked inside a VHS case — *The Untouchables*, which [Marlene](/npcs/marlene-voss/) either chose for irony or because it was the first tape she grabbed — at the pawnshop counter. [Darius](/darius-cole/) read the napkin standing between a broken saxophone and a stack of car stereos.
 
 Rental agency in Indianapolis. Corporate card. Gideon Ministries, Inc.
 

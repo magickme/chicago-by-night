@@ -138,7 +138,7 @@ The Sheriff was [Thomas](/npcs/thomas-gerhieren/) S. Ewell. Eighth generation. T
 
 The bonds came next. [Lodin](/npcs/lodin/)'s leash was the first thing the ritual found, because it was the loudest: Step 3, full, decades old, baked into the blood like calcium into bone. The Sheriff had belonged to the Prince the way a tool belongs to the hand that uses it.
 
-Then the second thread. Fainter. Recent. Step 1, less than a year old, fragile enough to break with distance or time. A woman's face surfaced from the ritual data. Toreador. Someone Tomás didn't recognize. Features he would need to cross-reference against the chantry's files, against Brennon's camera feeds, against the gallery of faces he'd catalogued at the [Succubus Club](/locations/succubus-club/).
+Then the second thread. Fainter. Recent. Step 1, less than a year old, fragile enough to break with distance or time. A woman's face surfaced from the ritual data. Toreador. Someone Tomás didn't recognize. Features he would need to cross-reference against the chantry's files, against [Brennon](/npcs/brennon-thornhill/)'s camera feeds, against the gallery of faces he'd catalogued at the [Succubus Club](/locations/succubus-club/).
 
 Someone was bonding the Prince's enforcer without the Prince knowing.
 

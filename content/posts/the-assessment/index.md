@@ -21,7 +21,7 @@ And [Sir Henry](/npcs/sir-henry-johnson/) in his usual spot near the mezzanine r
 
 The woman sitting with him had a dancer's body — lean, held, the coiled stillness of someone who knew where every muscle began and ended and had spent ten thousand hours confirming it. Dark hair pulled back tight. No jewelry. The face (and this was the thing [Sable](/sable-price/) noticed and filed and would later wish she hadn't noticed at all) was beautiful the way something purpose-built is beautiful: because it has never pretended to be anything else. She wore a black sweater and no expression.
 
-Sable sat down. Arranged her coat. Let [Sir Henry](/npcs/sir-henry-johnson/) take her hand (furnace-hot, the feeding so recent she could smell the copper under his cologne, Self-Control 1 in all things including circulation) and in the half-second between courtesies she looked at the woman's aura the way you look at a clock while someone else is talking. A flicker of attention dressed as a survey of the room.
+[Sable](/sable-price/) sat down. Arranged her coat. Let [Sir Henry](/npcs/sir-henry-johnson/) take her hand (furnace-hot, the feeding so recent she could smell the copper under his cologne, Self-Control 1 in all things including circulation) and in the half-second between courtesies she looked at the woman's aura the way you look at a clock while someone else is talking. A flicker of attention dressed as a survey of the room.
 
 Kindred. The washed-out palette — colors present but muted, like watercolors left in the rain. And underneath: amber threaded with green. Assessment. Not hostile, not warm. The clinical attention of someone evaluating a painting she'd been told to buy.
 
@@ -31,7 +31,7 @@ Kindred. The washed-out palette — colors present but muted, like watercolors l
 
 "Sir talks about everyone, my dear, that's his entire function."
 
-He laughed. Then the register dropped, and the performance found its purpose. He leaned forward and the Auspex eyes — bright and steady beneath the flush and the bonhomie, the one part of Sir Henry that was always working — settled on Sable.
+He laughed. Then the register dropped, and the performance found its purpose. He leaned forward and the Auspex eyes — bright and steady beneath the flush and the bonhomie, the one part of [Sir Henry](/npcs/sir-henry-johnson/) that was always working — settled on Sable.
 
 [Lodin](/npcs/lodin/) was not chairing Wednesday because [Lodin](/npcs/lodin/) could not. Three visitors admitted to the Prince's floor in ten days. Two were Kindred Sir Henry had never heard of. Not Chicago. Not anyone's people. The third was a physician. A mortal physician, on the Prince's floor, doing whatever mortal physicians do for bodies that have been dead for centuries.
 
@@ -63,7 +63,7 @@ Sir Henry watched her go. Turned back to Sable with the naked delight of a man w
 
 "Magnificent," he said. "[Annabelle](/npcs/annabelle-triabell/)'s going to hear about that by tomorrow evening and she is going to be absolutely furious with you."
 
-Then the delight resolved into counsel, because Sir Henry never stayed in one register long enough to trust it. The insult didn't touch Sophia. It touched [Annabelle](/npcs/annabelle-triabell/). It reminded a room that the sire had made a mistake, and Sable — who was rapidly becoming the sire's new investment — had known exactly where that mistake lived and had pressed on it with her thumb. Annabelle would not discard an asset over a social cut. But she would remember that the asset had teeth, and she would wonder about the direction they pointed.
+Then the delight resolved into counsel, because Sir Henry never stayed in one register long enough to trust it. The insult didn't touch Sophia. It touched [Annabelle](/npcs/annabelle-triabell/). It reminded a room that the sire had made a mistake, and Sable — who was rapidly becoming the sire's new investment — had known exactly where that mistake lived and had pressed on it with her thumb. [Annabelle](/npcs/annabelle-triabell/) would not discard an asset over a social cut. But she would remember that the asset had teeth, and she would wonder about the direction they pointed.
 
 "Find a way to compliment her craft before Wednesday," Sir Henry said. "Not her beauty. Her discipline. Annabelle will hear about that too."
 

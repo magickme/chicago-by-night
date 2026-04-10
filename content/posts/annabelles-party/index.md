@@ -55,9 +55,9 @@ Two Milwaukee visitors flanked [Sable](/sable-price/)'s sightline. The silver-ha
 
 Then the lights over the small stage dimmed and [Sophia Ayes](/sophia-ayes/) stepped onto the platform with Bret Stryker and the music started and what they did was not dancing.
 
-Feeding as performance. The Kiss staged for an audience. Blood on lips and throat and the sound Sophia made was not pain and every mortal pretense in the room evaporated. Vampiric pornography. [Annabelle](/npcs/annabelle-triabell/)'s childe, in Annabelle's lounge, at Annabelle's party.
+Feeding as performance. The Kiss staged for an audience. Blood on lips and throat and the sound Sophia made was not pain and every mortal pretense in the room evaporated. Vampiric pornography. [Annabelle](/npcs/annabelle-triabell/)'s childe, in [Annabelle](/npcs/annabelle-triabell/)'s lounge, at Annabelle's party.
 
-The clan weakness hit every Toreador in the room simultaneously. Sable's body locked. Champagne flute frozen mid-air. Pupils blown. The beauty and the horror fused into one thing and the Beast and the aesthetic sense merged and she could not look away. [Sir Henry](/npcs/sir-henry-johnson/)'s hand on her elbow, firm, not gentle — "Sable. Don't." — but she couldn't respond.
+The clan weakness hit every Toreador in the room simultaneously. [Sable](/sable-price/)'s body locked. Champagne flute frozen mid-air. Pupils blown. The beauty and the horror fused into one thing and the Beast and the aesthetic sense merged and she could not look away. [Sir Henry](/npcs/sir-henry-johnson/)'s hand on her elbow, firm, not gentle — "Sable. Don't." — but she couldn't respond.
 
 Annabelle stopped it. One word. Sophia pulled her mouth from Stryker's throat, blood on her lips, and smiled at her sire. The cruelest thing Sable had seen in Chicago.
 
