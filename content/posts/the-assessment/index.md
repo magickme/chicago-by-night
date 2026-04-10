@@ -19,13 +19,13 @@ The [Succubus Club](/locations/succubus-club/) on a Monday was architecture inst
 
 And [Sir Henry](/npcs/sir-henry-johnson/) in his usual spot near the mezzanine rail, holding court for an audience that had shrunk to one.
 
-The woman sitting with him had a dancer's body — lean, held, the coiled stillness of someone who knew where every muscle began and ended and had spent ten thousand hours confirming it. Dark hair pulled back tight. No jewelry. The face (and this was the thing Sable noticed and filed and would later wish she hadn't noticed at all) was beautiful the way something purpose-built is beautiful: because it has never pretended to be anything else. She wore a black sweater and no expression.
+The woman sitting with him had a dancer's body — lean, held, the coiled stillness of someone who knew where every muscle began and ended and had spent ten thousand hours confirming it. Dark hair pulled back tight. No jewelry. The face (and this was the thing [Sable](/sable-price/) noticed and filed and would later wish she hadn't noticed at all) was beautiful the way something purpose-built is beautiful: because it has never pretended to be anything else. She wore a black sweater and no expression.
 
 Sable sat down. Arranged her coat. Let [Sir Henry](/npcs/sir-henry-johnson/) take her hand (furnace-hot, the feeding so recent she could smell the copper under his cologne, Self-Control 1 in all things including circulation) and in the half-second between courtesies she looked at the woman's aura the way you look at a clock while someone else is talking. A flicker of attention dressed as a survey of the room.
 
 Kindred. The washed-out palette — colors present but muted, like watercolors left in the rain. And underneath: amber threaded with green. Assessment. Not hostile, not warm. The clinical attention of someone evaluating a painting she'd been told to buy.
 
-Sir Henry was already talking. He introduced the woman as Sophia, as though Sable had met her, and Sable hadn't, but she knew the name. [Annabelle](/npcs/annabelle-triabell/)'s childe. The dancer. The one whose art the clan had looked at and called something other than art. Up close, the dancer held herself with a stillness that made sitting look choreographed.
+[Sir Henry](/npcs/sir-henry-johnson/) was already talking. He introduced the woman as Sophia, as though Sable had met her, and Sable hadn't, but she knew the name. [Annabelle](/npcs/annabelle-triabell/)'s childe. The dancer. The one whose art the clan had looked at and called something other than art. Up close, the dancer held herself with a stillness that made sitting look choreographed.
 
 "Sir talks about you," Sophia said. Flat. Nothing given.
 
@@ -63,7 +63,7 @@ Sir Henry watched her go. Turned back to Sable with the naked delight of a man w
 
 "Magnificent," he said. "[Annabelle](/npcs/annabelle-triabell/)'s going to hear about that by tomorrow evening and she is going to be absolutely furious with you."
 
-Then the delight resolved into counsel, because Sir Henry never stayed in one register long enough to trust it. The insult didn't touch Sophia. It touched Annabelle. It reminded a room that the sire had made a mistake, and Sable — who was rapidly becoming the sire's new investment — had known exactly where that mistake lived and had pressed on it with her thumb. Annabelle would not discard an asset over a social cut. But she would remember that the asset had teeth, and she would wonder about the direction they pointed.
+Then the delight resolved into counsel, because Sir Henry never stayed in one register long enough to trust it. The insult didn't touch Sophia. It touched [Annabelle](/npcs/annabelle-triabell/). It reminded a room that the sire had made a mistake, and Sable — who was rapidly becoming the sire's new investment — had known exactly where that mistake lived and had pressed on it with her thumb. Annabelle would not discard an asset over a social cut. But she would remember that the asset had teeth, and she would wonder about the direction they pointed.
 
 "Find a way to compliment her craft before Wednesday," Sir Henry said. "Not her beauty. Her discipline. Annabelle will hear about that too."
 

@@ -54,7 +54,7 @@ Then the curse took her. The green eyes at close range, the gardenia, the lampli
 
 [Allicia](/npcs/allicia/)'s hand found [Sable](/sable-price/)'s cheek where the warmth was. She traced the blush the way a painter traces a brushstroke she didn't make. And then she laughed. Small. Barely a sound. More breath than voice. But a laugh, and [Sable](/sable-price/) was certain nobody in this house had heard [Allicia](/npcs/allicia/) laugh in decades.
 
-She pressed her lips to Sable's forehead. Held up five fingers.
+She pressed her lips to [Sable](/sable-price/)'s forehead. Held up five fingers.
 
 "Five."
 

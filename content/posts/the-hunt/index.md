@@ -82,7 +82,7 @@ They went back and forth on the notepad in the dark living room with the clock t
 
 She folded the pages into [Sable](/sable-price/)'s hand and closed her fingers around them. *Burn these.* Then she touched [Sable](/sable-price/)'s wrist one more time -- two fingers on the pulse point where there was no pulse -- and walked out the door without looking back.
 
-Sable drove to Kendrick's with the folded pages in her jacket pocket and the taste of Dale's blood still in her teeth and the knowledge of what [Allicia](/npcs/allicia/) needed sitting in her chest where the blood sat, warm and heavy and not enough.
+[Sable](/sable-price/) drove to Kendrick's with the folded pages in her jacket pocket and the taste of Dale's blood still in her teeth and the knowledge of what [Allicia](/npcs/allicia/) needed sitting in her chest where the blood sat, warm and heavy and not enough.
 
 She burned the pages in an empty Quaker State can behind the garage. The pen-light paper curled and the words went -- *the bond*, *every night*, *a tourniquet* -- and the smoke smelled like nothing because there was nothing on those pages anyone would ever read again.
 

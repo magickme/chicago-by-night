@@ -35,7 +35,7 @@ The old man knew about [Nicolai](/npcs/nicolai/)'s labeled vials. He knew about 
 
 "That's not operational," the old man said. "That's personal. Personal is where the mistakes live."
 
-Tomas said something about the Pyramid. About the Power that stood behind and beside him. The old man made a sound like a radiator settling and said he'd watched the Tremere sign at Thorns. Five hundred years ago. English field. Wet wool and old blood. He said the other clans didn't trust mages who'd stolen the Blood but they needed what the Pyramid could do. He said the Pyramid's blind spot was the size of Lake Michigan: it believed its own filing system.
+[Tomas](/npcs/tomas/) said something about the Pyramid. About the Power that stood behind and beside him. The old man made a sound like a radiator settling and said he'd watched the Tremere sign at Thorns. Five hundred years ago. English field. Wet wool and old blood. He said the other clans didn't trust mages who'd stolen the Blood but they needed what the Pyramid could do. He said the Pyramid's blind spot was the size of Lake Michigan: it believed its own filing system.
 
 The pen came out again. Uncap. Cap.
 

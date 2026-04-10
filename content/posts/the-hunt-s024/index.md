@@ -104,7 +104,7 @@ Not a question. The woman on the other end took notes. Pen on paper, clinical, f
 
 "The price is for the girl to hear, not you."
 
-The line died. Sable stood in the dark with the dial tone humming against her ear and the water main crew coughing three blocks away. A window. Twenty-five days to build a room inside a room at a party where the host sees everything.
+The line died. [Sable](/sable-price/) stood in the dark with the dial tone humming against her ear and the water main crew coughing three blocks away. A window. Twenty-five days to build a room inside a room at a party where the host sees everything.
 
 At Reva's bar, the intel came in pieces: the well-dressed white woman who didn't order a drink. Forties. Wool coat. Dark sedan. She asked Danny about a pretty young Black woman, new in town, might go by Sable. Or Ann.
 

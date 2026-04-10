@@ -146,7 +146,7 @@ She drove [Allicia](/npcs/allicia/) back to the mansion at three. Two blocks out
 
 The front door opened and closed.
 
-[Sable](/sable-price/) drove to Kendrick's with the window down and the night air cooling on her skin and the taste of Allicia's blood fading on her tongue like a note held until it stopped being sound and became memory.
+[Sable](/sable-price/) drove to Kendrick's with the window down and the night air cooling on her skin and the taste of [Allicia](/npcs/allicia/)'s blood fading on her tongue like a note held until it stopped being sound and became memory.
 
 DeShawn was awake. Pete was sleeping. The Buick was parked on Adams, two doors down. The roll-up door was chained.
 

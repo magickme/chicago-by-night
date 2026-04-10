@@ -60,7 +60,7 @@ He drove to [Modius](/npcs/modius/) at one in the morning. [Victor](/npcs/victor
 
 He ordered [Darius](/darius-cole/) to continue. Watch for more markers. Identify the water presence. Do not approach [Lucian](/npcs/lucian/). That last part was not a suggestion.
 
-Darius drove north along the dock road at two in the morning with the report delivered and the Prince's order in his pocket and one more task to complete before dawn. He needed blood.
+[Darius](/darius-cole/) drove north along the dock road at two in the morning with the report delivered and the Prince's order in his pocket and one more task to complete before dawn. He needed blood.
 
 Hennessey's was a cinder-block bar at the north end of the waterfront. Four cars. Ceiling fan. A Budweiser sign that hummed with the conviction of the last honest light in the building.
 

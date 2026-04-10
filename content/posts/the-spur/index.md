@@ -78,7 +78,7 @@ The pale eyes held. Three seconds. Five. Then [Horace](/npcs/horace/) took his h
 
 They didn't shake hands. The predatory aura thickened in the space between them as [Darius](/darius-cole/) took the matchbook -- two dead men recognizing each other -- and then [Horace](/npcs/horace/) turned back toward the residential blocks to the south and the overcoat disappeared into the dark between one step and the next. Obfuscate. Smooth as breathing. One moment a man, the next moment cold air and old leather fading on the wind.
 
-Darius stood alone at the spur with the matchbook in his left hand and the .357 at his waist and the Gangrel waymarker catching the moonlight on the switching post. He stood there for a full minute before walking back to the Cutlass.
+[Darius](/darius-cole/) stood alone at the spur with the matchbook in his left hand and the .357 at his waist and the Gangrel waymarker catching the moonlight on the switching post. He stood there for a full minute before walking back to the Cutlass.
 
 The haven. Eight o'clock. The phone on the nightstand.
 

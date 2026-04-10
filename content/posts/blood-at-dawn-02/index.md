@@ -118,4 +118,4 @@ They had operated as a unit. No agreement, no discussion, no handshake. [Darius]
 
 "Tomorrow night."
 
-The fire went to embers. They drove home in separate directions for the first time all night. Darius to the west side. [Sable](/sable-price/) to Fifth Avenue. Dawn pressing against the edges of the sky. The matchbook with her number wasn't on his dashboard anymore. He didn't need it. He had it memorized, the way you memorize the number of someone you're going to call again, and again, and again, because the distance between you has finally become a direction instead of a wall.
+The fire went to embers. They drove home in separate directions for the first time all night. [Darius](/darius-cole/) to the west side. [Sable](/sable-price/) to Fifth Avenue. Dawn pressing against the edges of the sky. The matchbook with her number wasn't on his dashboard anymore. He didn't need it. He had it memorized, the way you memorize the number of someone you're going to call again, and again, and again, because the distance between you has finally become a direction instead of a wall.

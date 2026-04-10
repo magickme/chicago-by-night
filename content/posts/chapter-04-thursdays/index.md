@@ -62,7 +62,7 @@ The second thing was a key fob clipped to his belt loop. Rectangular. Orange pla
 
 [Dane](/npcs/sullivan-dane/) got back in the Buick. At 11:30 he started the engine and drove north.
 
-Darius stood at the bus shelter for another five minutes after the taillights disappeared, watching the empty street, feeling the cold he couldn't feel, thinking about the stake.
+[Darius](/darius-cole/) stood at the bus shelter for another five minutes after the taillights disappeared, watching the empty street, feeling the cold he couldn't feel, thinking about the stake.
 
 *I carry a gun. Never fired it at a person. Prop, not a tool.*
 

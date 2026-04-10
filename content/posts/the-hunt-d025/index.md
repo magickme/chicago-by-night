@@ -58,7 +58,7 @@ Dale slid down the Ford's door panel and sat in the slush with his head back and
 
 "You're alright. Just the cold."
 
-Dale nodded. The gratitude was still in his eyes. The memory of the conversation, which Darius had left intact because it cost nothing and because somewhere under the architecture there was still a man who remembered what it felt like to be listened to and have it mean something.
+Dale nodded. The gratitude was still in his eyes. The memory of the conversation, which [Darius](/darius-cole/) had left intact because it cost nothing and because somewhere under the architecture there was still a man who remembered what it felt like to be listened to and have it mean something.
 
 He sat in the Cutlass with the engine running and the blood working through him like current through a wire, restoring what four days of rationing had eroded, and the thing in the basement settled back to its corner, and [Darius Cole](/darius-cole/) was a person again. The kind of person who fed on a man's desperation and called it necessity. The kind of person who bought a stranger four beers so he could drink him in a parking lot. Humanity seven. Load-bearing number.
 

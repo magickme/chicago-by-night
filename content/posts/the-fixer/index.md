@@ -32,13 +32,13 @@ He told the truth. Rent. Eight hundred a month. The building was an investment, 
 
 [Juggler](/npcs/juggler/) believed him. Or believed him enough. The territory settled in three sentences: [Darius](/darius-cole/) collected the check, [Juggler](/npcs/juggler/) ran the night, and the FBI was a shared problem because [Shepard](/npcs/william-shepard/)'s file didn't distinguish between mortal infrastructure and Kindred operations.
 
-They talked about [Shepard](/npcs/william-shepard/). Three options: make [the Torch](/locations/the-torch/) boring, have Warren Birch meet the FBI in person, or put a thumb on the federal scale. [Juggler](/npcs/juggler/) didn't like the third option and Darius didn't like the first two, and somewhere in the space between their objections the real plan emerged.
+They talked about [Shepard](/npcs/william-shepard/). Three options: make [the Torch](/locations/the-torch/) boring, have Warren Birch meet the FBI in person, or put a thumb on the federal scale. [Juggler](/npcs/juggler/) didn't like the third option and [Darius](/darius-cole/) didn't like the first two, and somewhere in the space between their objections the real plan emerged.
 
 "What if I Dominate somebody into taking Birch's place?"
 
 [Juggler](/npcs/juggler/) went quiet. The fixer's brain engaged — not hot, not reactive, the analytical machinery that the Brujah kept hidden behind their reputation for fire. "A proxy," he said. "You take some mortal, rewrite his head, make him believe he IS Birch." He called it a Ventrue answer. He didn't say it with admiration. He said it the way a carpenter says *steel* — acknowledging that it holds the weight while preferring the wood.
 
-The problem was paper. A proxy needed ID. Federal-grade. A driver's license, a social security number, a backstory that survived a background check. Juggler pointed Darius to [Danov](/npcs/alexander-danov/) — the Nosferatu, the information broker, the man who was never where you thought he was and always where you didn't want him. [Danov](/npcs/alexander-danov/) ran a forger out of a print shop in the Hive. Sixty-forty against federal scrutiny. Good enough to buy time. Maybe good enough to close the file.
+The problem was paper. A proxy needed ID. Federal-grade. A driver's license, a social security number, a backstory that survived a background check. [Juggler](/npcs/juggler/) pointed Darius to [Danov](/npcs/alexander-danov/) — the Nosferatu, the information broker, the man who was never where you thought he was and always where you didn't want him. [Danov](/npcs/alexander-danov/) ran a forger out of a print shop in the Hive. Sixty-forty against federal scrutiny. Good enough to buy time. Maybe good enough to close the file.
 
 Juggler offered to make the introduction. Darius said yes. They shook hands — not a prince's handshake but a working man's, the grip of two people who'd found the line between their territories and decided it was a shared wall rather than a fence.
 

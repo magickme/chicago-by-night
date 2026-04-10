@@ -76,7 +76,7 @@ Ray was at the bar. Red-faced, loud, waving a hand at the bartender for another 
 
 "My round, big guy. No use drinking alone on New Year's Eve."
 
-Ray flinched at the cold that came off Darius's body — they always did, the mortals, a little shiver they couldn't explain, the hindbrain registering something the forebrain refused to name — and then his face opened up like a door nobody had knocked on in months.
+Ray flinched at the cold that came off [Darius](/darius-cole/)'s body — they always did, the mortals, a little shiver they couldn't explain, the hindbrain registering something the forebrain refused to name — and then his face opened up like a door nobody had knocked on in months.
 
 "Birch! Hey — hey, happy New Year, man. Sit down. You want a Schlitz? Eddie, get this man a Schlitz."
 

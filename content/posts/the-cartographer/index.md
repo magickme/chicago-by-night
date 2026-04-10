@@ -98,7 +98,7 @@ Two words. The man stood. Walked to the side of the duplex. Stood still. [Darius
 
 On the walk back to the Cutlass, three blocks north, cutting through a lot behind a collapsed gas station — the car.
 
-Dark sedan. Newer model. Illinois plates. Parked facing the access road behind Gary Exports. Engine off, window cracked two inches, a cigarette cherry glowing inside like a small orange eye. Someone was watching the warehouse. At twelve-thirty on a Wednesday night, someone from Chicago was sitting in the dark watching the building where Darius kept a Dominated dock worker and twenty-four sacks of someone else's narcotics.
+Dark sedan. Newer model. Illinois plates. Parked facing the access road behind Gary Exports. Engine off, window cracked two inches, a cigarette cherry glowing inside like a small orange eye. Someone was watching the warehouse. At twelve-thirty on a Wednesday night, someone from Chicago was sitting in the dark watching the building where [Darius](/darius-cole/) kept a Dominated dock worker and twenty-four sacks of someone else's narcotics.
 
 Cantone's people. Had to be.
 

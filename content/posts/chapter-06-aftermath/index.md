@@ -74,7 +74,7 @@ He drove east.
 
 ---
 
-[Telton Cemetery](/locations/telton-cemetery/) at a quarter past one in the morning was the kind of place that made Gary's living neighborhoods look optimistic. The gates were chained but the chain was theater — loose enough to squeeze through, the same way it had been the last time Darius came. Past the Civil War markers, through the section where the headstones leaned at angles that suggested the ground itself was tired of holding the dead upright, toward the maintenance shed at the back where a single candle burned in the window.
+[Telton Cemetery](/locations/telton-cemetery/) at a quarter past one in the morning was the kind of place that made Gary's living neighborhoods look optimistic. The gates were chained but the chain was theater — loose enough to squeeze through, the same way it had been the last time [Darius](/darius-cole/) came. Past the Civil War markers, through the section where the headstones leaned at angles that suggested the ground itself was tired of holding the dead upright, toward the maintenance shed at the back where a single candle burned in the window.
 
 [Michael](/npcs/michael/) was sitting on a headstone outside the shed. Facing the direction Darius was coming from. Not surprised. The Malkavian had felt him approaching or seen it or known it the way the cracked ones knew things, through the fractures in their minds where something else looked through.
 
@@ -114,7 +114,7 @@ Darius didn't mention Sal. Didn't ask about the docks. Didn't push anything at a
 
 Darius grinned Ralph Rego's grin. "Count on it, big guy."
 
-He drove home. The west-side apartment was dark. The check-cashing storefront was closed. He parked the Cutlass, locked the door, checked the blackout curtains, and sat at the kitchen table with Gregory's folder spread in front of him and the Polaroid of the unknown man propped against the salt shaker.
+He drove home. The west-side apartment was dark. The check-cashing storefront was closed. He parked the Cutlass, locked the door, checked the blackout curtains, and sat at the kitchen table with [Gregory](/npcs/gregory-stephens/)'s folder spread in front of him and the Polaroid of the unknown man propped against the salt shaker.
 
 White. Older. Heavy coat. Standing near Dock 7 with the ease of ownership. Not a stevedore. Not a cop. Something else. Someone who belonged at the docks the way [Lucian](/npcs/lucian/) belonged at the docks — because the docks belonged to him.
 

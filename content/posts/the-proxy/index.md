@@ -92,7 +92,7 @@ He found the man on the steps of a duplex with a FINAL NOTICE taped to the front
 
 Valid target. The palate confirmed it before the eyes finished — cortisol, fear, the hormonal signature of a man whose systems were failing in the order that [Darius](/darius-cole/)'s blood recognized as vintage.
 
-Two words. The man stood. Walked to the side of the duplex. Darius fed. Two points. The minimum professional take. The man sat back down and finished the tallboy and the gap in his evening would fill itself with exhaustion by morning.
+Two words. The man stood. Walked to the side of the duplex. [Darius](/darius-cole/) fed. Two points. The minimum professional take. The man sat back down and finished the tallboy and the gap in his evening would fill itself with exhaustion by morning.
 
 Ten-thirteenths. The night opened up.
 

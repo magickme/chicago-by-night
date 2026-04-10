@@ -100,7 +100,7 @@ Ray had delivered. Church disposal was resolved.
 
 ---
 
-The wasteland at eleven. South Gary, past the cemetery, into the blocks where the houses thinned and the lots opened up and the streetlights were suggestions rather than commitments. Darius walked. Four blocks. Six. The blood was low and the night was warm and the city made the sounds it made when nobody was maintaining the illusion that it was still a city -- dogs, distant traffic on the highway, a screen door banging in wind that came off the lake carrying the smell of treated water and industrial sediment.
+The wasteland at eleven. South Gary, past the cemetery, into the blocks where the houses thinned and the lots opened up and the streetlights were suggestions rather than commitments. [Darius](/darius-cole/) walked. Four blocks. Six. The blood was low and the night was warm and the city made the sounds it made when nobody was maintaining the illusion that it was still a city -- dogs, distant traffic on the highway, a screen door banging in wind that came off the lake carrying the smell of treated water and industrial sediment.
 
 He found her on a bus bench at the corner of a street that didn't have a sign anymore. CNA scrubs, white shoes gone gray, a name badge clipped to the pocket that said REGIONAL MEDICAL CENTER and a first name he didn't read. She was crying. Not the performative kind. The kind where the body has decided to do it regardless of what the mind wants, the shoulders shaking in a rhythm that was its own clock. An eviction summons on the bench beside her, the court date two weeks out, the landlord's name in bold type at the top.
 

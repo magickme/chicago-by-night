@@ -27,7 +27,7 @@ Two hundred and twenty thousand dollars.
 
 The envelope was manila and thin and Craig held it on the bar between them like a confession. "I'm supposed to walk it to a drop at the Sherwin-[Williams](/npcs/williams/) building. Mailbox in the lobby. Tonight before midnight." He'd carried three in six months. Each time the interest got deferred another thirty days. That was the deal. Carry paper, get time.
 
-In the alley behind the Palmer House, in the steam from the kitchen vent, [Darius](/darius-cole/) tipped Craig Hessler's head to the side and the teeth went in and the melancholy hit his blood like a minor chord. Every sip was the second mortgage and the pawned watch and the wife and the Naperville property and the convention lanyard that might as well have been a noose. He counted two pints and pulled back and the arithmetic was better and the man slid down the wall breathing and alive and the taste stayed in Darius's mouth for hours.
+In the alley behind the Palmer House, in the steam from the kitchen vent, [Darius](/darius-cole/) tipped Craig Hessler's head to the side and the teeth went in and the melancholy hit his blood like a minor chord. Every sip was the second mortgage and the pawned watch and the wife and the Naperville property and the convention lanyard that might as well have been a noose. He counted two pints and pulled back and the arithmetic was better and the man slid down the wall breathing and alive and the taste stayed in [Darius](/darius-cole/)'s mouth for hours.
 
 He rewrote the last five minutes and Craig walked away with a headache he'd blame on the Dewar's.
 

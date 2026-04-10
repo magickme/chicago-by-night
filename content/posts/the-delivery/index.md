@@ -19,7 +19,7 @@ The delivery driver was parked on a side street off Wabash with his dome light o
 
 The side street was dark. No foot traffic. The moon threw blue-white light between the buildings and the wind covered everything.
 
-Darius got the passenger door open. The dome light caught his face. The driver's head came up and his mouth opened and then Darius was across the bench seat with his hand on the man's collar and his weight pinning the right arm against the steering wheel. The elbow caught him across the jaw. No damage. The clipboard hit the footwell and the Cutlass rocked on its shocks.
+[Darius](/darius-cole/) got the passenger door open. The dome light caught his face. The driver's head came up and his mouth opened and then Darius was across the bench seat with his hand on the man's collar and his weight pinning the right arm against the steering wheel. The elbow caught him across the jaw. No damage. The clipboard hit the footwell and the Cutlass rocked on its shocks.
 
 The bite was clean. One puncture, the Kiss flooding the man's nervous system before the second syllable of whatever he'd been trying to say. His body went slack. Hands dropped. Head tipped back. A sound in his throat that had nothing to do with pain.
 
@@ -41,7 +41,7 @@ The Owl was a narrow bar on Blue Island Avenue with a tin ceiling and dead air. 
 
 Darius didn't sit down. "Caught the Wolf Pack headed to Soldier Field, carrying dynamite. Thought you should know."
 
-The room changed. Gengis was already standing. He sent his people --- "Mookie's place, south side of the park, get him out, take the records" --- and they were gone before the door finished swinging. Cold air flooded in. The jukebox played to an empty room.
+The room changed. [Gengis](/npcs/gengis/) was already standing. He sent his people --- "Mookie's place, south side of the park, get him out, take the records" --- and they were gone before the door finished swinging. Cold air flooded in. The jukebox played to an empty room.
 
 "You didn't answer my question," Gengis said.
 

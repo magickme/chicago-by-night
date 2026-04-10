@@ -66,7 +66,7 @@ The words went in through the eyes and settled into the brain like sediment drop
 
 "Shit," the man said. He crouched and shook his partner's shoulder. "Tony. Tony, get up, man."
 
-Darius was already gone. But not toward the gate. Toward the containers. Toward the open mouth.
+[Darius](/darius-cole/) was already gone. But not toward the gate. Toward the containers. Toward the open mouth.
 
 ---
 

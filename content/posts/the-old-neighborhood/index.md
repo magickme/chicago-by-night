@@ -35,7 +35,7 @@ Television. The Gulf War on CNN — she caught [Peter](/npcs/peter/) Arnett's vo
 
 *She's home.*
 
-Sable stood outside her mother's door and did not knock.
+[Sable](/sable-price/) stood outside her mother's door and did not knock.
 
 She swept the floor with her senses instead. Reached into 714 and 709 through the walls — not to see anything, just to smell, to take the chemical record that nobody had known to scrub. And there it was. Jasmine and amber, an expensive perfume, the kind that cost more than any resident of this floor had spent on themselves in a year. The same bottle at both doors. The same hands had touched both thresholds, the same body had stood in these hallways, and whoever they were, they wore the kind of fragrance that announces arrival like a change in weather.
 
@@ -131,7 +131,7 @@ He offered her a Wednesday meeting. After midnight, Church of Christ, 53rd Stree
 
 "No."
 
-She held that. The information hoarding of elders. The way intelligence became a resource to be dispensed strategically rather than shared in service of the city they ostensibly governed. Six women taken from a four-block radius, and the Nosferatu sewer network knew, and Khalid knew, and nobody had said a word to [Annabelle](/npcs/annabelle-triabell/) or [Lodin](/npcs/lodin/) or the FBI agents who were now canvassing a seventh floor that was a symptom of the thing nobody had named aloud.
+She held that. The information hoarding of elders. The way intelligence became a resource to be dispensed strategically rather than shared in service of the city they ostensibly governed. Six women taken from a four-block radius, and the Nosferatu sewer network knew, and [Khalid](/npcs/khalid-al-rashid/) knew, and nobody had said a word to [Annabelle](/npcs/annabelle-triabell/) or [Lodin](/npcs/lodin/) or the FBI agents who were now canvassing a seventh floor that was a symptom of the thing nobody had named aloud.
 
 She said she'd be there Wednesday. [Bordruff](/npcs/nathaniel-bordruff/) nodded and did not say goodbye and was simply not present anymore.
 
@@ -153,7 +153,7 @@ Sable let go of the badge.
 
 She found a payphone three blocks from the freight tunnel entrance and called [Annabelle](/npcs/annabelle-triabell/)'s private number. The one that rang in the haven. Two rings, then: "Yes."
 
-She laid it out clean. A Sabbat scout working the Robert Taylor Homes. Six weeks of documented activity. Khalid's network knew and had not shared. The lair, the route, the endpoint. Wednesday meeting with Bordruff, price from Khalid.
+She laid it out clean. A Sabbat scout working the Robert Taylor Homes. Six weeks of documented activity. Khalid's network knew and had not shared. The lair, the route, the endpoint. Wednesday meeting with [Bordruff](/npcs/nathaniel-bordruff/), price from Khalid.
 
 [Annabelle](/npcs/annabelle-triabell/)'s response was the sharp intake of information processing. Then: "A scout mapping routes to the [Succubus Club](/locations/succubus-club/)." Pause. "And Khalid has known this for six weeks and told no one."
 
@@ -163,7 +163,7 @@ She laid it out clean. A Sabbat scout working the Robert Taylor Homes. Six weeks
 
 "There's something else."
 
-The pause was shorter this time. Annabelle was already ahead of it.
+The pause was shorter this time. [Annabelle](/npcs/annabelle-triabell/) was already ahead of it.
 
 "[Lodin](/npcs/lodin/) is summoning the coterie. Within the week. A toast of gratitude — his appreciation for the assistance with the [Drummond](/npcs/edgar/) situation."
 

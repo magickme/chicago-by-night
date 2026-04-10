@@ -176,7 +176,7 @@ The audience was over.
 
 The Cutlass was lighter without the body. The trunk was empty except for the bedspread and the faint residual wrongness of something that had been in there too long.
 
-Michigan Avenue. Friday night. Cabs and bar traffic and people who had never been inside a cedar closet on the eighth floor of the Drake Hotel. People who owed debts they could never repay — hundreds of them, right outside the window, and Darius hadn't eaten in four nights.
+Michigan Avenue. Friday night. Cabs and bar traffic and people who had never been inside a cedar closet on the eighth floor of the Drake Hotel. People who owed debts they could never repay — hundreds of them, right outside the window, and [Darius](/darius-cole/) hadn't eaten in four nights.
 
 He pulled over near a shelter on Madison. Twenty minutes later the restriction was satisfied and the blood was in him and he was back on the road and the taste of the ancient vial was still underneath everything else like a frequency he couldn't unhear.
 

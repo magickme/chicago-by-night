@@ -67,7 +67,7 @@ He opened a drawer and pulled out a leather-bound ledger — old, heavy, decades
 
 [Sable](/sable-price/) picked it up. Felt the weight of it. Set it back in his hands.
 
-"This is yours, Mr. Drummond. You walk in with your own evidence."
+"This is yours, Mr. [Drummond](/npcs/edgar/). You walk in with your own evidence."
 
 They drove north in the rain. Drummond in the back seat, enormous, silent, the ledger in his lap. CNN on every frequency. The [Succubus Club](/locations/succubus-club/) still lit. The emergency Primogen session still running on the third floor.
 
@@ -81,7 +81,7 @@ Outside, the rain. The war on television. State Street at one in the morning, em
 
 They sat in the Cutlass and didn't talk for a while. [Darius](/darius-cole/) started the engine. The heater kicked in. Miles Davis on the jazz station, muted trumpet, the kind of music that fills silence without replacing it.
 
-"Nobody knows it was us," Sable said.
+"Nobody knows it was us," [Sable](/sable-price/) said.
 
 "Keep it that way."
 

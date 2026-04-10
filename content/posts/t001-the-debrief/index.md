@@ -76,7 +76,7 @@ Tomás was turning to leave when [Brennon](/npcs/brennon-thornhill/) said, "Grac
 
 [Drummond](/npcs/edgar/) was double-reporting. To [Annabelle](/npcs/annabelle-triabell/), who'd placed him, and to someone whose priorities required tracking all four Primogens simultaneously.
 
-Tomás filed the image. Brennon watched him file it. Neither said the name neither needed to say.
+Tomás filed the image. [Brennon](/npcs/brennon-thornhill/) watched him file it. Neither said the name neither needed to say.
 
 ---
 

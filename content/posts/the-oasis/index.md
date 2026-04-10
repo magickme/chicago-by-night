@@ -110,7 +110,7 @@ Fifth Avenue. Two in the morning. The studio was cold.
 
 [Sable](/sable-price/) sat on the floor beneath the photograph and looked at the pointe shoes and thought about what [Allicia](/npcs/allicia/) had told her and what she'd told [Modius](/npcs/modius/) and the distance between those two things, which was the distance between what she knew and what she'd sold, which was the distance between the woman she was becoming and the woman she was supposed to be.
 
-[Allicia](/npcs/allicia/) was Blood Bound. Since 1941. Three drinks and the question of love becomes unanswerable. The Oasis taught Sable what that looked like from the outside: the regulars who came back every night, not because the drinks were good or the girls were beautiful but because the building had become the shape of their loneliness and they couldn't imagine fitting anywhere else. The Blood Bond was The Oasis with fangs. The cage was always the same shape. The bars just changed material.
+[Allicia](/npcs/allicia/) was Blood Bound. Since 1941. Three drinks and the question of love becomes unanswerable. The Oasis taught [Sable](/sable-price/) what that looked like from the outside: the regulars who came back every night, not because the drinks were good or the girls were beautiful but because the building had become the shape of their loneliness and they couldn't imagine fitting anywhere else. The Blood Bond was The Oasis with fangs. The cage was always the same shape. The bars just changed material.
 
 [Modius](/npcs/modius/) would offer. [Allicia](/npcs/allicia/) said so. Whatever he calls it. A toast at court. A private drink in the drawing room. The intimacy of shared blood, which in Kindred culture was sex and communion and contract all at once, and Sable had been performing all three since she was seventeen and had never once let any of them be real.
 
@@ -120,6 +120,6 @@ She would not drink because [Allicia](/npcs/allicia/) told her not to, and [Alli
 
 Dawn pressed against the windows. Sable lay on the hardwood floor. The pointe shoes turned on their ribbons. The photograph watched.
 
-Somewhere in Miller Beach, Allicia was sitting at a piano she didn't play, in a mansion she couldn't leave, bound to a man she couldn't stop loving because the blood wouldn't let her, and she had driven to the South Side of Chicago to sit in a strip club and tell a stranger the truth, and the truth was the only thing in fifty years that was entirely her own, and she had given it away.
+Somewhere in Miller Beach, [Allicia](/npcs/allicia/) was sitting at a piano she didn't play, in a mansion she couldn't leave, bound to a man she couldn't stop loving because the blood wouldn't let her, and she had driven to the South Side of Chicago to sit in a strip club and tell a stranger the truth, and the truth was the only thing in fifty years that was entirely her own, and she had given it away.
 
 Sable closed her eyes and thought about the woman on the barre in the photograph and the woman in the doorway of the back room and whether they were the same person or whether one had killed the other, and whether the killing was [Modius](/npcs/modius/)'s fault or the blood's or just the long slow mathematics of being beautiful and owned in a world that could not tell the difference between the two.

@@ -68,7 +68,7 @@ They both knew what came after certainty in [Modius](/npcs/modius/)'s vocabulary
 
 *My answer is you,* [Allicia](/npcs/allicia/) said. Said it to the keys, not to [Sable](/sable-price/), but the rose thread in her aura flared when she said it and there was no performance in that.
 
-Sable nodded. One gesture, one syllable of motion, and left before the visit became long enough to note.
+[Sable](/sable-price/) nodded. One gesture, one syllable of motion, and left before the visit became long enough to note.
 
 Reva Watts, at the east side bar, gave her three things over a conversation that cost nothing but patience and the appearance of interest. A new Gary PD task force. [The Torch](/locations/the-torch/)'s declining foot traffic. And a well-dressed white woman from Chicago who'd come asking about a pretty young Black woman, new in town.
 

@@ -180,7 +180,7 @@ He walked back to his chair. The conversation was over. The information was not.
 
 Two Toreador women at a piano bench. The most natural composition in the world. Nobody would question it.
 
-[Allicia](/npcs/allicia/)'s hands contracted in her lap. The knuckles whitened for half a second. She looked at Sable. She looked at Modius across the room. She looked back.
+[Allicia](/npcs/allicia/)'s hands contracted in her lap. The knuckles whitened for half a second. She looked at [Sable](/sable-price/). She looked at [Modius](/npcs/modius/) across the room. She looked back.
 
 She shook her head. Once. Small.
 
@@ -204,7 +204,7 @@ They were outside. Miller Beach in February, the lake breathing in the dark, the
 
 "Tell me about it. That white bitch cold."
 
-Darius heard the code-switch and felt something unlock in his chest. One frequency recognizing another across a room full of static. Two Black neonates walking away from a court full of white elders who'd been accumulating power since before emancipation, and the sidewalk was the first place all night where either of them could stop performing.
+[Darius](/darius-cole/) heard the code-switch and felt something unlock in his chest. One frequency recognizing another across a room full of static. Two Black neonates walking away from a court full of white elders who'd been accumulating power since before emancipation, and the sidewalk was the first place all night where either of them could stop performing.
 
 "Yeah. Some of these 'people' never got the memo that slavery ended. Well I sure don't want to wind up running errands for them forever. What about you? Seems like Modius is getting a grip on you quick."
 

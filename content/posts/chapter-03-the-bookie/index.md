@@ -56,13 +56,13 @@ He was carrying something in his coat pocket. [Darius](/darius-cole/) could see 
 
 The Awe had bounced. The Malkavian mind — fractured, yes, but fractured the way a prism is fractured, breaking one light into many — had registered the Presence, identified it, and rejected it. [Michael](/npcs/michael/) knew exactly what [Darius](/darius-cole/) had just tried to do.
 
-The laugh died in Darius's throat.
+The laugh died in [Darius](/darius-cole/)'s throat.
 
 ---
 
 They stood in the dark between the warehouse and the dispatch office, two Kindred in a domain that belonged to neither of them, and the conversation that followed was nothing like what Darius had planned.
 
-He tried the cover. [Michael](/npcs/michael/) didn't buy it. He tried the mutual-exposure angle — *we're both in [Lucian](/npcs/lucian/)'s backyard.* [Michael](/npcs/michael/) acknowledged it with a silence that conceded nothing. He tried a false detail, mentioning money, and watched [Michael](/npcs/michael/)'s left hand twitch involuntarily toward the envelope before catching itself. Not money, then. Something else. Something Michael was protecting.
+He tried the cover. [Michael](/npcs/michael/) didn't buy it. He tried the mutual-exposure angle — *we're both in [Lucian](/npcs/lucian/)'s backyard.* [Michael](/npcs/michael/) acknowledged it with a silence that conceded nothing. He tried a false detail, mentioning money, and watched [Michael](/npcs/michael/)'s left hand twitch involuntarily toward the envelope before catching itself. Not money, then. Something else. Something [Michael](/npcs/michael/) was protecting.
 
 "Why are you here, Birch?" Michael asked, and the use of the court name — Warren Birch, the orphan, the cover — told Darius that Michael had placed him, catalogued him, and was now deciding what to do with him.
 

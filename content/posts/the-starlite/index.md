@@ -79,7 +79,7 @@ Walt was on the couch. Not sitting the way [Darius](/darius-cole/) had left him 
 
 "Someone came," Walt said. His voice was dry, cracked at the edges. "Through the window. Like you."
 
-Darius stood very still and listened.
+[Darius](/darius-cole/) stood very still and listened.
 
 Dark hair. Latino. Thirties. Neat. Not a cop but that kind of clean. He'd said one word — *still* — and Walt couldn't move. He'd examined the bite mark on Walt's neck like he was reading something printed there. He'd searched the apartment, found the legal pad, read all three pages. Put things back, but not exactly where they were. One question: *Who owns you?* Walt answered the truth. The Sheriff. Then the man said *sleep* and Walt slept and when he woke the window was latched and the apartment was empty.
 
