@@ -7,6 +7,15 @@ slug: "relationships-live"
 
 *Generated from `session-state.md` and `Boon Ledger.md`. This is the drift-resistant operational map; the handcrafted public map remains archival/curated.*
 
+## The Hidden War
+
+| Methuselah | Influence |
+|---|---|
+| **Helena** | 50% |
+| **Menele** | 50% |
+
+{{< progress_bar helena=50 menele=50 >}}
+
 ## Obligations
 
 ```mermaid

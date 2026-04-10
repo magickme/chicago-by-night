@@ -60,7 +60,7 @@ She pressed her lips to [Sable](/sable-price/)'s forehead. Held up five fingers.
 
 Counting. Every word she'd spoken to [Sable](/sable-price/). Keeping a record of the first honest thing in her existence since 1938.
 
-Sable slid to the floor. Kissed her knee. "Shh. Five is enough for now."
+[Sable](/sable-price/) slid to the floor. Kissed her knee. "Shh. Five is enough for now."
 
 The lake. The lamp. The room held them the way a church holds a confession.
 

@@ -68,7 +68,7 @@ He read the room the way a bookie reads a racing form. The bartender with his ta
 
 [Thomas](/npcs/thomas-gerhieren/) Wojcik. Fired dock supervisor. Fourteen thousand dollars in back taxes on a storage building he couldn't keep and couldn't sell. The lien notice was folded in his jacket pocket, Lake County letterhead visible, and [Darius](/darius-cole/)'s blood recognized the debt the way a Ventrue's blood always did. The restriction hummed. This man qualified.
 
-The sympathetic approach bounced off a wall of bourbon and grief. So Darius caught his eyes and pointed at the envelope and said one word, and four seconds later the man's hand moved before his brain caught up and the lien notice was on the bar between them.
+The sympathetic approach bounced off a wall of bourbon and grief. So [Darius](/darius-cole/) caught his eyes and pointed at the envelope and said one word, and four seconds later the man's hand moved before his brain caught up and the lien notice was on the bar between them.
 
 Two minutes of quiet conversation. Wojcik recited the lease structure of the Berth 8-9 access road with the flat precision of a man who'd walked past the same buildings every day for twenty years. The warehouse closest to Berth 7 wasn't port authority. It was leased through a private entity. Lakeshore Industrial Services. Chicago outfit. Registered agent in Cicero.
 

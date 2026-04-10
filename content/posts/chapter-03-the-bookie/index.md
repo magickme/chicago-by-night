@@ -64,7 +64,7 @@ They stood in the dark between the warehouse and the dispatch office, two Kindre
 
 He tried the cover. [Michael](/npcs/michael/) didn't buy it. He tried the mutual-exposure angle — *we're both in [Lucian](/npcs/lucian/)'s backyard.* [Michael](/npcs/michael/) acknowledged it with a silence that conceded nothing. He tried a false detail, mentioning money, and watched [Michael](/npcs/michael/)'s left hand twitch involuntarily toward the envelope before catching itself. Not money, then. Something else. Something [Michael](/npcs/michael/) was protecting.
 
-"Why are you here, Birch?" [Michael](/npcs/michael/) asked, and the use of the court name — Warren Birch, the orphan, the cover — told Darius that Michael had placed him, catalogued him, and was now deciding what to do with him.
+"Why are you here, Birch?" [Michael](/npcs/michael/) asked, and the use of the court name — Warren Birch, the orphan, the cover — told [Darius](/darius-cole/) that [Michael](/npcs/michael/) had placed him, catalogued him, and was now deciding what to do with him.
 
 Darius could feel the architecture of the conversation collapsing. Every angle he tried, Michael was already on the other side, waiting. The boy from the cemetery was faster than him. Not physically — mentally. The cracked mind saw around corners that Darius couldn't even see the walls of.
 

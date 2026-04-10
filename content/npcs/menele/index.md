@@ -98,7 +98,7 @@ During this period, his sleep was plagued with questions. As he traced the entir
 
 ### The [Saul Osiecki](/npcs/saul-osiecki/) Gambit
 
-Through correspondence between [Saul Osiecki](/npcs/saul-osiecki/) and Dr. Phillips (a close ally of [Critias](/npcs/critias/)), Menele learned of the biologist's work on a strain of mononucleosis virus designed to kill vampires. He manipulated events to direct this biological weapon toward the [Succubus Club](/locations/succubus-club/) — Helena's base.
+Through correspondence between [Saul Osiecki](/npcs/saul-osiecki/) and Dr. Phillips (a close ally of [Critias](/npcs/critias/)), Menele learned of the biologist's work on a strain of mononucleosis virus designed to kill vampires. He manipulated events to direct this biological weapon toward the [Succubus Club](/locations/succubus-club/) — [Helena](/npcs/helena/)'s base.
 
 ### [The Heart](/locations/the-heart/) of Osiris (Coptic Jar)
 

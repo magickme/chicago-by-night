@@ -88,7 +88,7 @@ The man turned a page in his notebook.
 
 He hadn't seen her. He hadn't needed to see her. Whatever he was, whatever that white was, it didn't require awareness to function. It just was, the way a bonfire is, the way gravity is, the way the thing that happens inside a church when someone believes hard enough is.
 
-Sable walked back to the Buick in the dark. Three blocks. Her hands were shaking and she put them in her pockets and that didn't help because the shaking wasn't in her hands.
+[Sable](/sable-price/) walked back to the Buick in the dark. Three blocks. Her hands were shaking and she put them in her pockets and that didn't help because the shaking wasn't in her hands.
 
 She drove back to Kendrick's. Parked. Locked the door. Sat on the cot in the cinderblock dark and thought about the man in the van and the color that had no name and the thing inside her that had recognized it before she did and told her to run.
 

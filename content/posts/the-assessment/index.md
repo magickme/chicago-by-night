@@ -25,7 +25,7 @@ The woman sitting with him had a dancer's body — lean, held, the coiled stilln
 
 Kindred. The washed-out palette — colors present but muted, like watercolors left in the rain. And underneath: amber threaded with green. Assessment. Not hostile, not warm. The clinical attention of someone evaluating a painting she'd been told to buy.
 
-[Sir Henry](/npcs/sir-henry-johnson/) was already talking. He introduced the woman as Sophia, as though Sable had met her, and Sable hadn't, but she knew the name. [Annabelle](/npcs/annabelle-triabell/)'s childe. The dancer. The one whose art the clan had looked at and called something other than art. Up close, the dancer held herself with a stillness that made sitting look choreographed.
+[Sir Henry](/npcs/sir-henry-johnson/) was already talking. He introduced the woman as Sophia, as though [Sable](/sable-price/) had met her, and Sable hadn't, but she knew the name. [Annabelle](/npcs/annabelle-triabell/)'s childe. The dancer. The one whose art the clan had looked at and called something other than art. Up close, the dancer held herself with a stillness that made sitting look choreographed.
 
 "Sir talks about you," Sophia said. Flat. Nothing given.
 
@@ -33,7 +33,7 @@ Kindred. The washed-out palette — colors present but muted, like watercolors l
 
 He laughed. Then the register dropped, and the performance found its purpose. He leaned forward and the Auspex eyes — bright and steady beneath the flush and the bonhomie, the one part of [Sir Henry](/npcs/sir-henry-johnson/) that was always working — settled on Sable.
 
-[Lodin](/npcs/lodin/) was not chairing Wednesday because [Lodin](/npcs/lodin/) could not. Three visitors admitted to the Prince's floor in ten days. Two were Kindred Sir Henry had never heard of. Not Chicago. Not anyone's people. The third was a physician. A mortal physician, on the Prince's floor, doing whatever mortal physicians do for bodies that have been dead for centuries.
+[Lodin](/npcs/lodin/) was not chairing Wednesday because [Lodin](/npcs/lodin/) could not. Three visitors admitted to the Prince's floor in ten days. Two were Kindred [Sir Henry](/npcs/sir-henry-johnson/) had never heard of. Not Chicago. Not anyone's people. The third was a physician. A mortal physician, on the Prince's floor, doing whatever mortal physicians do for bodies that have been dead for centuries.
 
 He let that land the way Sir Henry let things land: with his glass raised, his eyebrows at parade rest, and the absolute certainty that he was the most interesting person in any room that would have him.
 
@@ -65,7 +65,7 @@ Sir Henry watched her go. Turned back to Sable with the naked delight of a man w
 
 Then the delight resolved into counsel, because Sir Henry never stayed in one register long enough to trust it. The insult didn't touch Sophia. It touched [Annabelle](/npcs/annabelle-triabell/). It reminded a room that the sire had made a mistake, and Sable — who was rapidly becoming the sire's new investment — had known exactly where that mistake lived and had pressed on it with her thumb. [Annabelle](/npcs/annabelle-triabell/) would not discard an asset over a social cut. But she would remember that the asset had teeth, and she would wonder about the direction they pointed.
 
-"Find a way to compliment her craft before Wednesday," Sir Henry said. "Not her beauty. Her discipline. Annabelle will hear about that too."
+"Find a way to compliment her craft before Wednesday," Sir Henry said. "Not her beauty. Her discipline. [Annabelle](/npcs/annabelle-triabell/) will hear about that too."
 
 Sable gave him Gary in return. Not the whole of it — not [Allicia](/npcs/allicia/), not the pipeline, not the things with price tags too large for a Monday night. The shape of it. [Modius](/npcs/modius/) turning inward, the court thinning, the mansion still standing with the audience getting smaller. The mortal city eating itself. Enough about the docks to suggest activity. Enough about [Juggler](/npcs/juggler/) to make Sir Henry laugh. Enough about [Danov](/npcs/alexander-danov/) to make him go quiet.
 

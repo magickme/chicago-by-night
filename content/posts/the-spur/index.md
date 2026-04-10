@@ -110,7 +110,7 @@ Silence. Long enough to count the radiator's clicks.
 
 The line went dead.
 
-Darius set the phone in its cradle. The matchbook from The [Cave](/npcs/hank-cave/) sat on the nightstand six inches from the receiver. A line to Chicago that his sire had specifically forbidden. Every time he touched it he'd be betraying the man who'd just given him the longest leash of his life.
+[Darius](/darius-cole/) set the phone in its cradle. The matchbook from The [Cave](/npcs/hank-cave/) sat on the nightstand six inches from the receiver. A line to Chicago that his sire had specifically forbidden. Every time he touched it he'd be betraying the man who'd just given him the longest leash of his life.
 
 He left it where it was. Three hours until [Sable](/sable-price/)'s call.
 

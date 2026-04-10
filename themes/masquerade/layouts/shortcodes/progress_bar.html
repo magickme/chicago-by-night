@@ -1,0 +1,47 @@
+<div class="jyhad-tug-of-war">
+    <div class="bar-container">
+        <div class="bar helena" style="width: {{ .Get "helena" }}%;">
+            <span>Helena {{ .Get "helena" }}%</span>
+        </div>
+        <div class="bar menele" style="width: {{ .Get "menele" }}%;">
+            <span>Menele {{ .Get "menele" }}%</span>
+        </div>
+    </div>
+</div>
+
+<style>
+.jyhad-tug-of-war {
+    margin: 20px 0;
+    font-family: 'Cinzel', serif;
+    font-size: 0.8rem;
+}
+.bar-container {
+    display: flex;
+    height: 30px;
+    background: #222;
+    border: 1px solid #444;
+    overflow: hidden;
+    position: relative;
+}
+.bar {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: width 0.5s ease;
+    overflow: hidden;
+    white-space: nowrap;
+}
+.helena {
+    background: linear-gradient(90deg, #4a0000, #8b0000);
+    color: #eee;
+    text-shadow: 1px 1px 2px #000;
+}
+.menele {
+    background: linear-gradient(90deg, #00004a, #00008b);
+    color: #eee;
+    text-shadow: 1px 1px 2px #000;
+}
+.bar span {
+    padding: 0 10px;
+}
+</style>

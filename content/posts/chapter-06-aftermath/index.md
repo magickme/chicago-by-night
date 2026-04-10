@@ -80,7 +80,7 @@ He drove east.
 
 "You brought something."
 
-Darius walked the last twenty feet and held out the bag. Not dropping it, not setting it down between them like an offering to a saint. Holding it out. One man to another.
+[Darius](/darius-cole/) walked the last twenty feet and held out the bag. Not dropping it, not setting it down between them like an offering to a saint. Holding it out. One man to another.
 
 "I owed you this. For the docks. For pushing."
 

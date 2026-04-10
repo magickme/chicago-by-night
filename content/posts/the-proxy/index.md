@@ -100,7 +100,7 @@ Ten-thirteenths. The night opened up.
 
 The docks at eleven-thirty. Berth 7. Creosote, lake water, diesel. The cranes silhouetted like mechanical insects. Loading bay lit, Eddie's truck in the lot.
 
-Eddie Fells was in the receiving office doing a crossword puzzle and drinking coffee from a thermos and listening to WJOB play country at a volume that suggested a man who had stopped pretending anyone noticed what he did. Fifty-three years old. Forty thousand in the hole to Cicero. The pipeline now belonged to [Darius](/darius-cole/). Eddie now belonged to Darius. And the man who had created both of those conditions — Sal Cantone, outfit caporegime — was going to send people to ask questions that Eddie could not be allowed to answer truthfully.
+Eddie Fells was in the receiving office doing a crossword puzzle and drinking coffee from a thermos and listening to WJOB play country at a volume that suggested a man who had stopped pretending anyone noticed what he did. Fifty-three years old. Forty thousand in the hole to Cicero. The pipeline now belonged to [Darius](/darius-cole/). Eddie now belonged to [Darius](/darius-cole/). And the man who had created both of those conditions — Sal Cantone, outfit caporegime — was going to send people to ask questions that Eddie could not be allowed to answer truthfully.
 
 Darius sat across from him. The fluorescent light buzzed. The crossword was half-finished. Seven across: REMORSE. Six letters. Eddie hadn't filled it in.
 

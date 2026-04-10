@@ -92,7 +92,7 @@ Even in torpor, Helena used Auspex and Dominate to fight. She controlled soldier
 
 ## The [Succubus Club](/locations/succubus-club/)
 
-As Helena began to shrug off torpor, she telepathically contacted Prias. He found [Brennon Thornhill](/npcs/brennon-thornhill/) — a rich drug dealer — and used Domination to convince him to open a nightclub directly above her resting place. May 23, 1982: the [Succubus Club](/locations/succubus-club/) opened. Construction workers who excavated the earth above Helena were Dominated by Maria, then killed.
+As Helena began to shrug off torpor, she telepathically contacted [Prias](/npcs/prias/). He found [Brennon Thornhill](/npcs/brennon-thornhill/) — a rich drug dealer — and used Domination to convince him to open a nightclub directly above her resting place. May 23, 1982: the [Succubus Club](/locations/succubus-club/) opened. Construction workers who excavated the earth above Helena were Dominated by Maria, then killed.
 
 Helena clawed her way through the earth, sucking what little vitae she could from worms and maggots. Met at the top by Maria — her own childe, 5th generation, the most powerful Toreador in Chicago for decades. Helena promptly slew her. First feeding upon waking. No hesitation.
 

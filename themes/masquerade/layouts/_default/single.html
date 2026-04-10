@@ -1,5 +1,5 @@
 {{ define "main" }}
-<article class="reference" aria-label="{{ .Title }}">
+<article class="reference {{ with .Params.heat_level }}heat-{{ . }}{{ end }} {{ with .Params.pc }}pc-{{ . | lower }}{{ end }} {{ with .Params.setting }}setting-{{ . | lower }}{{ end }} {{ if .Params.numbness_active }}numbness-active{{ end }}" aria-label="{{ .Title }}">
   <header>
     <h1>{{ .Title }}</h1>
     {{ with .Description }}

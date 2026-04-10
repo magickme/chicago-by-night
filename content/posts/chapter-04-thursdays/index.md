@@ -78,7 +78,7 @@ Rental agency in Indianapolis. Corporate card. Gideon Ministries, Inc.
 
 A church. The Inquisition didn't stamp its name on its mail. It used churches, nonprofits, ministerial associations — the bureaucratic camouflage of organized faith. Gideon Ministries was a shell, and inside the shell was a man with a stake and a notebook and the patience to sit in a frozen car counting a Malkavian's footprints.
 
-Darius put the napkin in his pocket and bought a clock radio from [Marlene](/npcs/marlene-voss/) for twelve dollars because she expected him to buy something and the transaction was the relationship and the relationship was the network and the network was the architecture.
+[Darius](/darius-cole/) put the napkin in his pocket and bought a clock radio from [Marlene](/npcs/marlene-voss/) for twelve dollars because she expected him to buy something and the transaction was the relationship and the relationship was the network and the network was the architecture.
 
 ---
 

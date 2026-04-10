@@ -188,11 +188,11 @@ Her hand moved to the bench between them. Her pinky finger touched [Sable](/sabl
 
 [Allicia](/npcs/allicia/) stood. Smoothed her dress. Walked to her position three paces behind [Modius](/npcs/modius/)'s armchair, where she'd stood for decades. The yellow lace shawl caught the lamplight.
 
-Sable sat alone on the bench. Five seconds. Then she stood and smoothed her own dress and found the windows again, and if anyone in the room was watching they saw a young Toreador's failed attempt at clan bonding. Harmless. Forgettable. Not the pinky on the bench. Not the snow globe upstairs.
+[Sable](/sable-price/) sat alone on the bench. Five seconds. Then she stood and smoothed her own dress and found the windows again, and if anyone in the room was watching they saw a young Toreador's failed attempt at clan bonding. Harmless. Forgettable. Not the pinky on the bench. Not the snow globe upstairs.
 
 ---
 
-Court ended the way court ends. [Lucian](/npcs/lucian/) rose and the room's center of gravity shifted. [Claudette](/npcs/claudette-mallet/) followed without a word between them. [Danov](/npcs/alexander-danov/) was gone before anyone noticed his chair was empty. Modius in his armchair making final pronouncements to an audience of two neonates and a ghoul.
+Court ended the way court ends. [Lucian](/npcs/lucian/) rose and the room's center of gravity shifted. [Claudette](/npcs/claudette-mallet/) followed without a word between them. [Danov](/npcs/alexander-danov/) was gone before anyone noticed his chair was empty. [Modius](/npcs/modius/) in his armchair making final pronouncements to an audience of two neonates and a ghoul.
 
 "Next month. First Friday. I expect you all."
 

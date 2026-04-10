@@ -36,6 +36,8 @@
   {{/* CSS */}}
   {{ $style := resources.Get "css/main.css" | minify | fingerprint }}
   <link rel="stylesheet" href="{{ $style.RelPermalink }}">
+  {{ $decay := resources.Get "css/decay.css" | minify | fingerprint }}
+  <link rel="stylesheet" href="{{ $decay.RelPermalink }}">
 
   {{/* Mermaid — only loaded on pages that contain mermaid code blocks */}}
   {{ if and .IsPage (findRE "language-mermaid" .Content) }}

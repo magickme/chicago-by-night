@@ -1,0 +1,31 @@
+/* Decay Filter: Visual representation of urban decay and Masquerade pressure.
+   Applied to blog posts based on the 'heat_level' or 'scale' frontmatter. */
+
+.heat-high {
+    filter: grayscale(0.2) contrast(1.1) brightness(0.9);
+}
+
+.heat-critical {
+    filter: grayscale(0.4) contrast(1.3) sepia(0.1);
+    background-color: #0f0f0f !important;
+}
+
+.heat-critical p {
+    color: #d1d1d1;
+    text-shadow: 1px 1px 1px rgba(0,0,0,0.5);
+}
+
+/* Subtle "rust" texture for Gary scenes */
+.setting-gary {
+    border-left: 4px solid #8b4513;
+}
+
+/* "Ozone" highlights for high-pressure Chicago scenes */
+.setting-chicago.heat-high {
+    border-left: 4px solid #4682b4;
+}
+
+.numbness-active {
+    letter-spacing: 0.02em;
+    font-family: 'Courier New', Courier, monospace; /* Flat affect / typewritten feel */
+}

@@ -91,7 +91,7 @@ He sat in the kitchen chair and did the Conditioning anyway. Eye contact. Short 
 
 When it was done, he bit his own wrist and held it over Walt's mouth. One mouthful. The vitae hit the ghoul's system and color returned to the man's cheeks, the tremor in his hands smoothing out. The bond was forming. Step 1. Walt's loyalty shifting from a staked Sheriff to the man sitting in front of him.
 
-Darius folded the legal pad into his coat. Three pages of Wacker Drive memories that the Tremere had already read but that didn't need to be sitting on a kitchen counter for the next visitor.
+[Darius](/darius-cole/) folded the legal pad into his coat. Three pages of Wacker Drive memories that the Tremere had already read but that didn't need to be sitting on a kitchen counter for the next visitor.
 
 "Stay here. Eat what's in the kitchen. Don't open the door."
 

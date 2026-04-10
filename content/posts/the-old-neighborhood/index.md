@@ -69,7 +69,7 @@ The brand was on the left wrist. Keloid tissue, raised, deliberate — not an ac
 
 [Sable](/sable-price/)'s Beast sat up.
 
-The woman's predatory aura was wrong in a way that took a moment to identify. Camarilla Kindred wore their Beasts the way well-trained soldiers wore their weapons — present, controlled, dangerous in a legible way. This woman's Beast was not behind glass. It sat in her eyes and watched Sable the way a cat watches something that might be food, and the watching was patient, totally patient, with the patience of something that has been patient for longer than Sable had been alive.
+The woman's predatory aura was wrong in a way that took a moment to identify. Camarilla Kindred wore their Beasts the way well-trained soldiers wore their weapons — present, controlled, dangerous in a legible way. This woman's Beast was not behind glass. It sat in her eyes and watched [Sable](/sable-price/) the way a cat watches something that might be food, and the watching was patient, totally patient, with the patience of something that has been patient for longer than Sable had been alive.
 
 "Wrong tunnel," the woman said. Her voice was flat. Stripped. The voice of someone who had long since stopped performing for audiences.
 
@@ -153,7 +153,7 @@ Sable let go of the badge.
 
 She found a payphone three blocks from the freight tunnel entrance and called [Annabelle](/npcs/annabelle-triabell/)'s private number. The one that rang in the haven. Two rings, then: "Yes."
 
-She laid it out clean. A Sabbat scout working the Robert Taylor Homes. Six weeks of documented activity. [Khalid](/npcs/khalid-al-rashid/)'s network knew and had not shared. The lair, the route, the endpoint. Wednesday meeting with [Bordruff](/npcs/nathaniel-bordruff/), price from Khalid.
+She laid it out clean. A Sabbat scout working the Robert Taylor Homes. Six weeks of documented activity. [Khalid](/npcs/khalid-al-rashid/)'s network knew and had not shared. The lair, the route, the endpoint. Wednesday meeting with [Bordruff](/npcs/nathaniel-bordruff/), price from [Khalid](/npcs/khalid-al-rashid/).
 
 [Annabelle](/npcs/annabelle-triabell/)'s response was the sharp intake of information processing. Then: "A scout mapping routes to the [Succubus Club](/locations/succubus-club/)." Pause. "And Khalid has known this for six weeks and told no one."
 
@@ -195,7 +195,7 @@ Kaspar & Sons. The side door with the sticky lock. [Darius](/darius-cole/) was a
 
 She sat across from him and told him about the toast.
 
-He was quiet for a moment. Then: "Annabelle told you this."
+He was quiet for a moment. Then: "[Annabelle](/npcs/annabelle-triabell/) told you this."
 
 "Yes."
 

@@ -150,7 +150,7 @@ The front door opened and closed.
 
 DeShawn was awake. Pete was sleeping. The Buick was parked on Adams, two doors down. The roll-up door was chained.
 
-She lay on the couch. Two ghouls breathing. The smell of old motor oil and new blood. She closed her eyes and the last thing she thought was that she had tasted [Allicia](/npcs/allicia/)'s blood and Allicia had tasted hers and the circuit was closed and the current was running and the current felt like something she'd been looking for since a fire escape on State Street at four in the morning when she was eighteen and the city was spread out below her and she wanted to be seen.
+She lay on the couch. Two ghouls breathing. The smell of old motor oil and new blood. She closed her eyes and the last thing she thought was that she had tasted [Allicia](/npcs/allicia/)'s blood and [Allicia](/npcs/allicia/) had tasted hers and the circuit was closed and the current was running and the current felt like something she'd been looking for since a fire escape on State Street at four in the morning when she was eighteen and the city was spread out below her and she wanted to be seen.
 
 She'd been seen.
 

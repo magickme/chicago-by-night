@@ -59,7 +59,7 @@ Toreador. Female. Step 2.
 
 Not Step 1. The sample in [Nicolai](/npcs/nicolai/)'s basement had read Step 1 a week ago. This sample — independent provenance, collected differently, from the same source — read Step 2. The delta was one step in seven days. Someone had been feeding blood to a staked vampire who could not swallow, could not spit, could not turn his head. Gravity and patience. The oldest technology in the world.
 
-Tomas wrote the bond map in his notebook. He stared at it. The pen didn't move again until he wrote the word at the bottom of the page: *programming.*
+[Tomas](/npcs/tomas/) wrote the bond map in his notebook. He stared at it. The pen didn't move again until he wrote the word at the bottom of the page: *programming.*
 
 The old man was still in the chair by the door. He hadn't moved. He produced a photograph — black and white, telephoto, 1951 date stamp. A woman descending brownstone steps. Dark hair pinned back. A face that read mid-thirties under the grain but had the bone structure of something that stopped aging before the camera was invented.
 

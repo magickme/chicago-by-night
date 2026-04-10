@@ -23,7 +23,7 @@ The side street was dark. No foot traffic. The moon threw blue-white light betwe
 
 The bite was clean. One puncture, the Kiss flooding the man's nervous system before the second syllable of whatever he'd been trying to say. His body went slack. Hands dropped. Head tipped back. A sound in his throat that had nothing to do with pain.
 
-The blood came in hot and wrong. Copper underneath and then the chemical taste --- bitter, synthetic, riding a heartbeat that didn't match the slack body. Amphetamines. White crosses or bennies, something to bridge the gap between the warehouse shift and the delivery shift. The buzz hit Darius's dead system like a current and his hands tightened on the man's jacket before he caught himself.
+The blood came in hot and wrong. Copper underneath and then the chemical taste --- bitter, synthetic, riding a heartbeat that didn't match the slack body. Amphetamines. White crosses or bennies, something to bridge the gap between the warehouse shift and the delivery shift. The buzz hit [Darius](/darius-cole/)'s dead system like a current and his hands tightened on the man's jacket before he caught himself.
 
 Two pulls. He stopped. Licked the puncture closed. Rewrote the memory: dizzy spell, cold night, blacked out for a minute. The driver would wake up confused with a sore neck and no explanation for the lost time. He'd finish his deliveries. He'd make the car payment or he wouldn't.
 
@@ -49,7 +49,7 @@ The Palmer House. Four nights ago. The Anarchs had their own eyes on [Ballard](/
 
 "I was just walking past."
 
-Gengis pulled on his jacket. "I don't know what you're doing in Chicago, Cole. I don't know what you were doing at the Palmer House. I don't care, tonight." He stepped past. "You just bought something, though. Whether you meant to or not."
+[Gengis](/npcs/gengis/) pulled on his jacket. "I don't know what you're doing in Chicago, Cole. I don't know what you were doing at the Palmer House. I don't care, tonight." He stepped past. "You just bought something, though. Whether you meant to or not."
 
 He didn't name the currency. He walked out.
 
