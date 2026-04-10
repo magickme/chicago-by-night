@@ -93,6 +93,8 @@ params:
           url: "/clan-strategy/"
         - name: "Hierarchy of Assets"
           url: "/hierarchy-of-assets/"
+        - name: "The Zero-Day Build"
+          url: "/zero-day-build/"
         - name: "Discipline Rankings"
           url: "/disciplines/"
         - name: "Clan Tier Rankings"
