@@ -19,7 +19,7 @@ ShowToc: false
 
 ## Function in Play
 
-The center of Kindred political life in New Orleans. Any formal Kindred gathering of consequence happens here. Violations of Elysium in Jackson Square are taken more seriously than violations anywhere else in the city.
+The center of Kindred political life in New Orleans. Any formal Kindred gathering of consequence happens here. Violations of Elysium in [Jackson](/npcs/kevin-jackson/) Square are taken more seriously than violations anywhere else in the city.
 
 ## Physical Read
 
@@ -27,4 +27,4 @@ The Square itself is open at night — musicians and street performers by day, K
 
 ## Who Controls It
 
-Marcel controls the Elysium designation. The Gangrel Justicar Xaviar uses it for his triannual Conclaves — which Marcel allows because the Conclave cover legitimizes the Camarilla presence in the city.
+[Marcel](/npcs/marcel-guilbeau/) controls the Elysium designation. The Gangrel Justicar Xaviar uses it for his triannual Conclaves — which Marcel allows because the Conclave cover legitimizes the Camarilla presence in the city.

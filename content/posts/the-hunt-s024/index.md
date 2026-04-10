@@ -120,7 +120,7 @@ The November message played through the payphone's earpiece at 12:40 AM. Her mot
 
 No address. No investigator. No police. Just a woman standing next to a telephone that her daughter was never going to answer, in a kitchen where the light was always on and the door was never locked and the phone number was always the same because some things refuse to change even when everything around them has.
 
-Sable hung up.
+[Sable](/sable-price/) hung up.
 
 At 1:10 AM, from the Buick, two blocks south, engine off, heater dead, she watched the white Econoline on Seventeenth Street. The dome light pulsing in short bursts. The figure inside, writing. At 1:45 the man got out and walked south and stopped at the corner of Nineteenth and Adams and looked north with the patience of something that didn't need to hurry because it already knew what it was looking for.
 

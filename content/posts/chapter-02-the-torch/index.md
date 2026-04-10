@@ -74,7 +74,7 @@ They walked. Half a block. The streetlights thinned and the storefronts went dar
 
 "You're real easy to talk to. You know that?"
 
-He turned to face her. Under the dead streetlight with the rust-colored sky behind him, his expression was the thing [Sable](/sable-price/) knew best — better than music, better than her mother's kitchen, better than the geography of the Robert Taylor Homes. The look of a man who has opened himself to a beautiful woman and has no idea what he just let in.
+He turned to face her. Under the dead streetlight with the rust-colored sky behind him, his expression was the thing [Sable](/sable-price/) knew best — better than music, better than her mother's kitchen, better than the geography of the [Robert](/npcs/robert-klondike/) [Taylor](/npcs/helena-taylor/) Homes. The look of a man who has opened himself to a beautiful woman and has no idea what he just let in.
 
 She leaned in. Her lips found the side of his neck where the pulse ran closest to the surface, and Curtis made a sound that wasn't quite anything — not pain, not pleasure, not the word he'd been about to say — and his knees went soft and she held him up with one hand on his chest and took what she needed, which was so little, just a mouthful, just enough, just one point of blood that tasted like bourbon and laundry detergent and the particular compound of cortisol and serotonin that a human body produces when it is simultaneously grieving and being held.
 

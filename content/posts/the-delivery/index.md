@@ -31,7 +31,7 @@ Two pulls. He stopped. Licked the puncture closed. Rewrote the memory: dizzy spe
 
 He was driving south on State when the engines cut through. Not cars --- bikes, four or five, exhaust notes staggered and angry, crossing the intersection in close formation. Leather. No helmets. One rider with a duffel strapped across his back that was too heavy and too carefully handled for clothes. The Predatory Aura hit at a block's distance. Gangrel. The Wolf Pack.
 
-They were heading toward the stadium with something that smelled like chemistry under the exhaust. Darius watched them pass and kept driving north.
+They were heading toward the stadium with something that smelled like chemistry under the exhaust. [Darius](/darius-cole/) watched them pass and kept driving north.
 
 He told [Sable](/sable-price/) at the kitchen table. She smoked and listened and then sat forward and said what he was already thinking --- that the [Gengis](/tags/gengis) play bought more than it cost, and that whoever pointed [Tyrus](/npcs/tyrus/) at a Brujah target the night before the Primogen session was either stupid or working an angle nobody at that table had considered.
 

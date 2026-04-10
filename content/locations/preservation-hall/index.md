@@ -25,4 +25,4 @@ The older, more intimate Elysium compared to [Jackson](/npcs/kevin-jackson/) Squ
 
 ## Physical Read
 
-A narrow building on St. Peter — almost no interior decoration beyond the instruments and the musicians. Wood floors, bad sight lines from the door, heat in summer that the undead register differently than the living. The audience stands or sits on low benches. Cover charge at the door for mortals; Kindred know the alternate entrance.
+A narrow building on St. [Peter](/npcs/peter/) — almost no interior decoration beyond the instruments and the musicians. Wood floors, bad sight lines from the door, heat in summer that the undead register differently than the living. The audience stands or sits on low benches. Cover charge at the door for mortals; Kindred know the alternate entrance.

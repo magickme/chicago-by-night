@@ -27,4 +27,4 @@ Towering colonial mansions with spacious lawns — a conscious rejection of [the
 
 ## Who Controls It
 
-Informally dominated by the Ventrue establishment — [Karen Chartry](/npcs/karen-chartry/)'s three-story house is here, as is the Tremere chantry house [Sebastian](/npcs/sebastian-walcott/) maintains. Morgaine's haven is here. [Marcel](/npcs/marcel-guilbeau/)'s mansion is presumably nearby.
+Informally dominated by the Ventrue establishment — [Karen Chartry](/npcs/karen-chartry/)'s three-story house is here, as is the Tremere chantry house [Sebastian](/npcs/sebastian-walcott/) maintains. [Morgaine](/npcs/morgaine/)'s haven is here. [Marcel](/npcs/marcel-guilbeau/)'s mansion is presumably nearby.

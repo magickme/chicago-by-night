@@ -104,7 +104,7 @@ Eddie Fells was in the receiving office doing a crossword puzzle and drinking co
 
 [Darius](/darius-cole/) sat across from him. The fluorescent light buzzed. The crossword was half-finished. Seven across: REMORSE. Six letters. Eddie hadn't filled it in.
 
-Eye contact. The Dominate opened and this time there was no resistance because there was nothing left to resist with. Eddie had been hollowed out weeks ago, the man's will a structure that Darius had already gutted and reframed and now only needed to refurnish.
+Eye contact. The Dominate opened and this time there was no resistance because there was nothing left to resist with. Eddie had been hollowed out weeks ago, the man's will a structure that [Darius](/darius-cole/) had already gutted and reframed and now only needed to refurnish.
 
 The Forgetful Mind went in like surgery. Five successes. Six weeks of warehouse operations — the sacks, the schedule, the panel van, the cash envelopes, the product moving from dock to truck — all of it dissolved and reconstituted as dead time. Empty shifts. Quiet nights. A warehouse that had been vacant since the FBI started sniffing around the waterfront, which was true about everything except the part that mattered.
 

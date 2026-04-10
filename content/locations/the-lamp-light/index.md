@@ -27,4 +27,4 @@ A small Bourbon Street strip club, nothing from outside to distinguish it. Insid
 
 ## Who Controls It
 
-Morgaine owns and manages it. She lives in [the Garden District](/locations/the-garden-district/) but uses this as her primary public presence.
+[Morgaine](/npcs/morgaine/) owns and manages it. She lives in [the Garden District](/locations/the-garden-district/) but uses this as her primary public presence.

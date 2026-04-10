@@ -200,7 +200,7 @@ The foyer. Coats and cold air. [Darius](/darius-cole/) timed the intersection at
 
 "Hey. I saw what happened there. Tension with [Allicia](/npcs/allicia/) already?"
 
-They were outside. Miller Beach in February, the lake breathing in the dark, the porch light throwing their shadows across the dead lawn. [Sable](/sable-price/)'s court voice dropped off her like a rented dress. What came up from underneath was South Side Chicago, the register she'd learned in the Robert Taylor Homes and refined at The Oasis and packed away every time she walked into a room full of white people who'd been dead longer than her family had been free.
+They were outside. Miller Beach in February, the lake breathing in the dark, the porch light throwing their shadows across the dead lawn. [Sable](/sable-price/)'s court voice dropped off her like a rented dress. What came up from underneath was South Side Chicago, the register she'd learned in the [Robert](/npcs/robert-klondike/) [Taylor](/npcs/helena-taylor/) Homes and refined at The Oasis and packed away every time she walked into a room full of white people who'd been dead longer than her family had been free.
 
 "Tell me about it. That white bitch cold."
 
@@ -212,7 +212,7 @@ They were outside. Miller Beach in February, the lake breathing in the dark, the
 
 The deflection dressed as honesty. The street phrasing. The woman who'd been in transactional arrangements before and could describe them without flinching. She gave him exactly one inch for the inch he'd given her.
 
-He thought about [Chuc Luc](/npcs/chuc-luc/)'s cellar and the Polaroid in his kitchen cabinet and the six-hundred-year-old Nosferatu who'd just read his blood like a ledger. He thought about the errand to Hammond and the pipeline and the game he was playing inside the game Modius thought he was playing.
+He thought about [Chuc Luc](/npcs/chuc-luc/)'s cellar and the Polaroid in his kitchen cabinet and the six-hundred-year-old Nosferatu who'd just read his blood like a ledger. He thought about the errand to Hammond and the pipeline and the game he was playing inside the game [Modius](/npcs/modius/) thought he was playing.
 
 Then he looked at the woman beside him on the sidewalk, the only other person in Gary who understood what it cost to smile in that room.
 

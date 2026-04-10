@@ -27,4 +27,4 @@ A once-popular resort on Lake Pontchartrain, now visibly run-down. The exterior 
 
 ## Who Controls It
 
-Manon, through the hotel owner (a Retainer to the Setite leadership). An "unknown benefactor" saved the hotel from closing — this benefactor is the Setite network.
+[Manon](/npcs/manon/), through the hotel owner (a Retainer to the Setite leadership). An "unknown benefactor" saved the hotel from closing — this benefactor is the Setite network.

@@ -33,7 +33,7 @@ ShowToc: false
 
 ## Geographic Placement
 
-- **Address:** Bounded roughly by North Avenue (north), Oak Street/Division Street (south), Lake Shore Drive (east), and Clark Street/Dearborn (west). The core runs along Astor Street, State Parkway, and the lakefront blocks.
+- **Address:** Bounded roughly by North Avenue (north), Oak Street/Division Street (south), Lake Shore Drive (east), and Clark Street/Dearborn (west). The core runs along [Astor](/npcs/lady-astor/) Street, State Parkway, and the lakefront blocks.
 - **Neighborhood:** Gold Coast / Near North Side. The wealthiest residential district in Chicago. Original Astor Street mansions date to the 1880s. The neighborhood survived the 1871 fire and has been accumulating money ever since.
 - **Proximity:** Immediately north of the Magnificent Mile. Lincoln Park begins at North Avenue. Old Town is west across Clark Street. The [Tremere Chantry](/locations/tremere-chantry/) sits on Astor Street within the district. The [Succubus Club](/locations/succubus-club/) is ten blocks south.
 - **Transit:** CTA Red Line at Clark/Division. Lake Shore Drive runs the eastern edge with exits at North Avenue and Oak Street. Cab traffic is constant on Division and State. Parking is private garage or valet.

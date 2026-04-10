@@ -81,7 +81,7 @@ The [Succubus Club](/locations/succubus-club/) was wrong when [Tomas](/npcs/toma
 
 The Gary emissaries had evacuated before the retaliation cycle started. [Cole](/darius-cole/) and the Toreador woman delivered their bomb and left before it detonated. Nobody at the Club knew where they'd gone. [Ballard](/npcs/ballard/)'s people didn't know either. [Brennon](/npcs/brennon-thornhill/) had locked down.
 
-Tomas lowered the sense. Filed it.
+[Tomas](/npcs/tomas/) lowered the sense. Filed it.
 
 He walked back to the chantry. Twenty minutes through empty streets. A police cruiser on State, the officer's face blue from the dash computer. A diner with its lights on and nobody inside except a cook scraping the grill. The smell of burned grease and coffee. He remembered what coffee tasted like and then stopped remembering.
 

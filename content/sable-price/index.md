@@ -35,7 +35,7 @@ She cannot make anyone love her. She can only make them want to. The distance be
 
 ## Before
 
-Born October 2, 1968, in the Robert Taylor Homes, Chicago. The projects. Twenty-eight sixteen-story towers stretching along State Street like a concrete spine, 27,000 people stacked in 4,400 units, 95% Black, median income below the poverty line. Her mother, Denise Price, was a hairdresser who worked out of the kitchen and named her daughter Sable because sable was the most expensive fur she'd ever touched, once, in a department store on Michigan Avenue, before the security guard told her to move along.
+Born October 2, 1968, in the [Robert](/npcs/robert-klondike/) [Taylor](/npcs/helena-taylor/) Homes, Chicago. The projects. Twenty-eight sixteen-story towers stretching along State Street like a concrete spine, 27,000 people stacked in 4,400 units, 95% Black, median income below the poverty line. Her mother, Denise Price, was a hairdresser who worked out of the kitchen and named her daughter Sable because sable was the most expensive fur she'd ever touched, once, in a department store on Michigan Avenue, before the security guard told her to move along.
 
 She was beautiful early. That was the problem. At twelve she had the body of a seventeen-year-old and the face of something a painter would have put on a church ceiling if painters still painted church ceilings. By fourteen she understood exactly what the attention was and had two options: be afraid of it or use it. She chose to use it. Not out of courage. Out of arithmetic. Beauty was the only capital she had, and the South Side was not a place that let you sit on capital without investing it.
 

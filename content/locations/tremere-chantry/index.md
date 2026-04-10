@@ -33,7 +33,7 @@ ShowToc: false
 
 ## Geographic Placement
 
-- **Address:** Astor Street between Schiller and Burton, [Gold Coast](/locations/gold-coast/). The brownstone sits among consulates and historic mansions. Nothing about the exterior announces what it is.
+- **Address:** [Astor](/npcs/lady-astor/) Street between Schiller and Burton, [Gold Coast](/locations/gold-coast/). The brownstone sits among consulates and historic mansions. Nothing about the exterior announces what it is.
 - **Neighborhood:** [Gold Coast](/locations/gold-coast/) / Near North. Old-money residential. Quiet streets, gas lamps, lakefront proximity. The wealth here is the kind that doesn't need to advertise.
 - **Proximity:** Eight blocks north of the [Succubus Club](/locations/succubus-club/). Lake Shore Drive is two blocks east. Lincoln Park begins at North Avenue. The Magnificent Mile's commercial corridor is four blocks south on Michigan Avenue.
 - **Transit:** CTA Red Line to Clark/Division, then walk north. Street parking. No cab traffic on the residential blocks after midnight.

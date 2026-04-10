@@ -48,7 +48,7 @@ The parking lot was November. I'd forgotten about November.
 
 ---
 
-I called 911 from a payphone a block away because my purse was still in Prestor's lab. I told them there was a fire, two injured civilians, and I gave my name because the operator asked and I am someone who answers questions when asked them.
+I called 911 from a payphone a block away because my purse was still in [Prestor](/npcs/jacob-prestor/)'s lab. I told them there was a fire, two injured civilians, and I gave my name because the operator asked and I am someone who answers questions when asked them.
 
 I hung up and drove away before the sirens arrived.
 
@@ -68,7 +68,7 @@ I went inside with him because I had nowhere else to go, and because the alterna
 
 ---
 
-[Edward](/npcs/sir-edward-scott/) [Williams](/npcs/williams/) had the kind of face that people with that kind of face learn to use. Composed. Attentive. The face of someone who has been having conversations in rooms like this for a long time. He listened to everything I told him about the lab without looking away from me once. The intake form. The bank name. The Liverman slides. The missing key.
+[Edward](/npcs/sir-edward-scott/) [Williams](/npcs/williams/) had the kind of face that people with that kind of face learn to use. Composed. Attentive. The face of someone who has been having conversations in rooms like this for a long time. He listened to everything I told him about the lab without looking away from me once. The intake form. The bank name. The [Liverman](/npcs/dr-roger-liverman/) slides. The missing key.
 
 I'd run an empathy read on him the way I sometimes read a room full of parents at a school board meeting: looking for the angle, the performance, the thing they actually want. I found something I hadn't expected, which was that he seemed to mean what he was saying.
 

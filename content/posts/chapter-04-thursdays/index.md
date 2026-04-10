@@ -90,7 +90,7 @@ Near the cemetery, after [Dane](/npcs/sullivan-dane/) left: a bar with no name a
 
 Then he drove to Broadway and Fifth and fed twice more — split across a gambler and a stevedore, both valid, both cleaned, both left with headaches and nothing else. Methodical. Efficient. The way a machine feeds, not the way a person does.
 
-Full. The Beast retreated to its corner and went quiet, and Darius sat in the Cutlass outside his apartment with the engine off and the paper bag still on the back seat — candles, blanket, Merlot, all of it untouched — and thought about [Sullivan Dane](/npcs/sullivan-dane/).
+Full. The Beast retreated to its corner and went quiet, and [Darius](/darius-cole/) sat in the Cutlass outside his apartment with the engine off and the paper bag still on the back seat — candles, blanket, Merlot, all of it untouched — and thought about [Sullivan Dane](/npcs/sullivan-dane/).
 
 The hunter was alone. No Inquisition backup, no partner, no institutional support beyond a rental car and a church credit card. He was building his case the way Darius built his networks: one data point at a time, alone, in the cold, with patience as his primary weapon.
 

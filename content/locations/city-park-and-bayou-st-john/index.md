@@ -19,7 +19,7 @@ ShowToc: false
 
 ## Function in Play
 
-The largest park in New Orleans (1,500 acres) and its primary natural-water feature in one contested zone. Roxy maintains a haven in or near the park — she was Embraced here and considers it hers. Lupines use the bayou as a corridor to their deeper bayou territory; the park itself is disputed. Any Kindred entering after dark risks both Lupine encounter and the unpredictability of the park's own shadows.
+The largest park in New Orleans (1,500 acres) and its primary natural-water feature in one contested zone. [Roxy](/npcs/roxy/) maintains a haven in or near the park — she was Embraced here and considers it hers. Lupines use the bayou as a corridor to their deeper bayou territory; the park itself is disputed. Any Kindred entering after dark risks both Lupine encounter and the unpredictability of the park's own shadows.
 
 ## Physical Read
 

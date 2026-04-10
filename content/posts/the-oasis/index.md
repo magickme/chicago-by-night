@@ -118,7 +118,7 @@ She would not drink.
 
 She would not drink because [Allicia](/npcs/allicia/) told her not to, and [Allicia](/npcs/allicia/) was the only person in Gary who had told [Sable](/sable-price/) something true without wanting something back, and that made [Allicia](/npcs/allicia/) the most dangerous person in [Sable](/sable-price/)'s life, because people who give you things for free are the people you owe debts you can't calculate.
 
-Dawn pressed against the windows. Sable lay on the hardwood floor. The pointe shoes turned on their ribbons. The photograph watched.
+Dawn pressed against the windows. [Sable](/sable-price/) lay on the hardwood floor. The pointe shoes turned on their ribbons. The photograph watched.
 
 Somewhere in Miller Beach, [Allicia](/npcs/allicia/) was sitting at a piano she didn't play, in a mansion she couldn't leave, bound to a man she couldn't stop loving because the blood wouldn't let her, and she had driven to the South Side of Chicago to sit in a strip club and tell a stranger the truth, and the truth was the only thing in fifty years that was entirely her own, and she had given it away.
 

@@ -74,7 +74,7 @@ Two minutes of quiet conversation. Wojcik recited the lease structure of the Ber
 
 Cicero. Cantone's territory. [Darius](/darius-cole/) had stolen a drug pipeline and never looked at the deed.
 
-He took Wojcik into the alley behind the bar and fed. Three blood points. The man's hands stopped shaking for the first time all night. The Kiss put a look on his face that was almost peaceful, almost human, almost like the expression of a man who had been carrying a weight that someone finally lifted. Darius held him against the cinder block and drank and tasted the bourbon and the cortisol and the particular copper note of a man whose fear had become the only steady thing left in his life.
+He took Wojcik into the alley behind the bar and fed. Three blood points. The man's hands stopped shaking for the first time all night. The Kiss put a look on his face that was almost peaceful, almost human, almost like the expression of a man who had been carrying a weight that someone finally lifted. [Darius](/darius-cole/) held him against the cinder block and drank and tasted the bourbon and the cortisol and the particular copper note of a man whose fear had become the only steady thing left in his life.
 
 He cleaned the memory. Wojcik would wake against the wall and think he'd passed out drunk. Nothing else.
 

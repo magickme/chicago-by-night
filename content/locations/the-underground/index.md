@@ -22,7 +22,7 @@ ShowToc: false
 ## Function in Play
 
 - London's Underground railway system — plus the Victorian sewer network, forgotten basements, abandoned Tube stations, and WWII-era shelters — forms the Nosferatu domain.
-- Richard de Worde is the acknowledged master of this network, though "the Underprince" (an unnamed Nosferatu power broker) controls the political aspects.
+- [Richard de Worde](/npcs/richard-de-worde/) is the acknowledged master of this network, though "the Underprince" (an unnamed Nosferatu power broker) controls the political aspects.
 - [Harold Tanner](/npcs/harold-tanner/) ("Holborn Harry") serves as archivist and information broker from somewhere in the network.
 - In 1969, several stations have been closed or rebuilt, creating new hidden spaces.
 - The Post Office Railway (Mail Rail) running beneath central London provides additional secret transit.

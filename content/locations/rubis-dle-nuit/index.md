@@ -19,7 +19,7 @@ ShowToc: false
 
 ## Function in Play
 
-Marcel's true haven — not the mansion in the city, which is the political face. When Marcel retreats here for several nights, he is consulting Jereaux. This is where the real decisions get made, and where threats to Marcel get handled permanently.
+[Marcel](/npcs/marcel-guilbeau/)'s true haven — not the mansion in the city, which is the political face. When Marcel retreats here for several nights, he is consulting Jereaux. This is where the real decisions get made, and where threats to Marcel get handled permanently.
 
 ## Physical Read
 
@@ -27,4 +27,4 @@ An antebellum plantation home on high land west of the city. Well-maintained —
 
 ## Who Controls It
 
-The Guilbeau family estate. Marcel holds legal title through a trust structure; Jereaux manages the actual property.
+The [Guilbeau](/npcs/jereaux-guilbeau/) family estate. Marcel holds legal title through a trust structure; Jereaux manages the actual property.

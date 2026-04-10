@@ -110,7 +110,7 @@ No Kindred in Chicago knows Maria is dead. All Toreador are very interested in w
 
 **[Lodin](/npcs/lodin/)** — puppet-Prince of Chicago. Does her bidding without realizing it.
 
-**Prias** — her ghoul-lover for three millennia. All attributes at 5. Melee 7. He possesses the Carthaginian silver sword. He operates independently, cultivating allies. He has killed a number of Chicago's Kindred on both sides of the Jyhad. He still has some of their blood in storage.
+**[Prias](/npcs/prias/)** — her ghoul-lover for three millennia. All attributes at 5. Melee 7. He possesses the Carthaginian silver sword. He operates independently, cultivating allies. He has killed a number of Chicago's Kindred on both sides of the Jyhad. He still has some of their blood in storage.
 
 **[Tyler](/npcs/tyler/) / Patricia** — born 1352, Embraced 1381 by Robin Leeland (7th gen Brujah). 6th generation after diablerizing a Ventrue Elder in Spain — the event that triggered the Anarch Revolt. Helena sensed her in Cartagena and "immediately recognized her potential as an assassin of Vampires." Thirty years of manipulation, then Blood Bond. Called to Chicago in the early 1900s. Receives orders through telepathy. Ordered to stay away from the [Succubus Club](/locations/succubus-club/) so no one recognizes her. During the Council Wars, [Tyler](/npcs/tyler/) slew a 6th-generation descendant of [Critias](/npcs/critias/) who refused to end his support of [Maldavis](/npcs/maldavis/).
 
@@ -126,7 +126,7 @@ No Kindred in Chicago knows Maria is dead. All Toreador are very interested in w
 
 **Francois Villon** — 5th gen childe. Prince of Paris. Embraced 1240 during Helena's search for [Menele](/npcs/menele/) through Europe. He learned strong rule and the necessity of strict order from his sire.
 
-**Marie Galbraith** — childe, left behind in Mexico during the conquest. Wooed by the sleeping entity beneath the pyramid.
+**[Marie](/npcs/marie-drichet/) Galbraith** — childe, left behind in Mexico during the conquest. Wooed by the sleeping entity beneath the pyramid.
 
 **Melinda** — Sabbat Cardinal of Mexico City. Came with Helena and the Conquistadors. Abandoned. Joined the Sabbat to break the Blood Bond. Now serves the entity beneath the pyramid.
 

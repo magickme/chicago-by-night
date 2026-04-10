@@ -98,7 +98,7 @@ Two words. The same two words he'd said at the docks. The Malkavian receipt: *I 
 
 "You shouldn't stay."
 
-Darius didn't stay. He walked back through the leaning headstones and squeezed through the chain and got in the Cutlass and sat for a moment in the dark. The gift had landed. He could feel it. The relationship had moved from negative to zero, from debt to neutral, from the Malkavian who'd caught him lying to the Malkavian who'd accepted his apology. In the Jyhad it was everything.
+[Darius](/darius-cole/) didn't stay. He walked back through the leaning headstones and squeezed through the chain and got in the Cutlass and sat for a moment in the dark. The gift had landed. He could feel it. The relationship had moved from negative to zero, from debt to neutral, from the Malkavian who'd caught him lying to the Malkavian who'd accepted his apology. In the Jyhad it was everything.
 
 ---
 

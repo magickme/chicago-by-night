@@ -21,7 +21,7 @@ ShowToc: false
 
 ## Function in Play
 
-- Anne Bowesley's domain since the Cromwell era — over 300 years.
+- [Anne Bowesley](/npcs/anne-bowesley/)'s domain since the Cromwell era — over 300 years.
 - She built Parliament into England's ruling institution and controls it as her personal instrument.
 - Her haven is beneath St. [Stephen](/npcs/stephen-lenoir/)'s Tower (Big Ben).
 - The mortal world sees the Mother of Parliaments; Kindred know it as Anne's fortress.

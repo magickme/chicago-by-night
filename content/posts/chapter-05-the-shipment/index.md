@@ -64,7 +64,7 @@ He looked up. Eye contact.
 
 The words went in through the eyes and settled into the brain like sediment dropping through water. The man's face changed — not relaxed, exactly, but reorganized. The confusion smoothed into a story that made sense. Bums. They'd chased off some bums. [Tony](/npcs/tony/) tripped and knocked himself out. That was all. That was everything.
 
-"Shit," the man said. He crouched and shook his partner's shoulder. "Tony. Tony, get up, man."
+"Shit," the man said. He crouched and shook his partner's shoulder. "[Tony](/npcs/tony/). Tony, get up, man."
 
 [Darius](/darius-cole/) was already gone. But not toward the gate. Toward the containers. Toward the open mouth.
 
@@ -80,7 +80,7 @@ The boxes were along the left wall. Four of them. Plywood, hand-built — someon
 
 Three of them were room temperature. The fourth was warm.
 
-Darius put his eye to a ventilation hole. The smell came first — earth, deep earth, the kind of soil that has never seen a plow or a foundation, soil that has been itself for centuries, undisturbed, the slow black accumulation of everything that has ever fallen and rotted and been pressed into the dark. Not Gary's sandy fill. Not American dirt at all. Old-world loam, packed tight around a shape that the work light couldn't quite reach.
+[Darius](/darius-cole/) put his eye to a ventilation hole. The smell came first — earth, deep earth, the kind of soil that has never seen a plow or a foundation, soil that has been itself for centuries, undisturbed, the slow black accumulation of everything that has ever fallen and rotted and been pressed into the dark. Not Gary's sandy fill. Not American dirt at all. Old-world loam, packed tight around a shape that the work light couldn't quite reach.
 
 A hand. Pale. The fingers were long and the nails were wrong — too thick, too curved, yellowed like old ivory. A hand that had stopped aging a long time ago and had been still for long enough that the earth had formed around it the way water forms around a stone.
 

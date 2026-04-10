@@ -19,7 +19,7 @@ ShowToc: false
 
 ## Function in Play
 
-Marcel's showpiece. An abandoned riverboat he had refurbished into a luxury nightclub staffed by his best servants — music, performance, gambling, feeding arrangements. Entry by invitation only. No business is conducted here overtly, but the invitations serve as political statements, the guest list is a status map, and Marcel uses the Delta Night to cement obligations.
+[Marcel](/npcs/marcel-guilbeau/)'s showpiece. An abandoned riverboat he had refurbished into a luxury nightclub staffed by his best servants — music, performance, gambling, feeding arrangements. Entry by invitation only. No business is conducted here overtly, but the invitations serve as political statements, the guest list is a status map, and Marcel uses the Delta Night to cement obligations.
 
 ## Physical Read
 

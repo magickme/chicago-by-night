@@ -112,7 +112,7 @@ A Coptic jar containing [the Heart](/locations/the-heart/) of Osiris surfaced in
 
 **[Inyanga](/npcs/inyanga/)** (6th gen) — fell under Menele's control shortly after arriving in Chicago. Extended Domination, not Blood Bond. Through her, Menele commands the entire Gangrel clan. If word comes from [Inyanga](/npcs/inyanga/), every Gangrel mobilizes. Her Laibon immigration operation through [Lucian](/npcs/lucian/)'s docks in Gary moves bodies and resources through Menele's corridor. She is not actually Gangrel — she is Laibon, operating under Kindred cover.
 
-**[Annabelle Triabell](/npcs/annabelle-triabell/)** (6th gen) — the deepest play. Menele's double agent inside [Helena](/npcs/helena/)'s camp. Helena believes she controls [Annabelle](/npcs/annabelle-triabell/) through Domination. Through [Annabelle](/npcs/annabelle-triabell/), Menele has a window into everything Helena's network does.
+**[Annabelle Triabell](/npcs/annabelle-triabell/)** (6th gen) — the deepest play. Menele's double agent inside [Helena](/npcs/helena/)'s camp. [Helena](/npcs/helena/) believes she controls [Annabelle](/npcs/annabelle-triabell/) through Domination. Through [Annabelle](/npcs/annabelle-triabell/), Menele has a window into everything Helena's network does.
 
 **[Khalid](/npcs/khalid-al-rashid/)** (Nosferatu Primogen) — initially independent. Each Methuselah assumed the other controlled him. In the V20 era, [Critias](/npcs/critias/) claims: "Despite his claims, [Khalid](/npcs/khalid-al-rashid/) is as much a creature of Menele's now as I once was."
 

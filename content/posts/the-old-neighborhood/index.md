@@ -77,7 +77,7 @@ She was gone between one step and the next.
 
 Not Obfuscate. Something that didn't require a Discipline name. A decision, and then absence.
 
-Sable stood in the maintenance bay with the cycling fluorescent and the empty space and the clay on the floor where the boots had been. Counted to ten. Counted to ten again. The trail went cold. Not cold — gone. Whatever this thing was, it knew how to stop being traceable.
+[Sable](/sable-price/) stood in the maintenance bay with the cycling fluorescent and the empty space and the clay on the floor where the boots had been. Counted to ten. Counted to ten again. The trail went cold. Not cold — gone. Whatever this thing was, it knew how to stop being traceable.
 
 She went back.
 
@@ -105,7 +105,7 @@ He was awake — he was always awake at this hour, one of the qualities she'd co
 
 She went back underground.
 
-The freight tunnels beneath Michigan Avenue smelled like the 1890s — brick and tallow and the particular mineral cold of below-grade construction from an era when the city was still deciding what it was going to be. She moved through them for twenty minutes, going north toward the Loop, and then she stopped in a junction and said, into the dark: "I know you've been tracking me since Robert Taylor. I've been tracking whatever you are since the maintenance bay. We should stop wasting each other's time."
+The freight tunnels beneath Michigan Avenue smelled like the 1890s — brick and tallow and the particular mineral cold of below-grade construction from an era when the city was still deciding what it was going to be. She moved through them for twenty minutes, going north toward the Loop, and then she stopped in a junction and said, into the dark: "I know you've been tracking me since [Robert](/npcs/robert-klondike/) [Taylor](/npcs/helena-taylor/). I've been tracking whatever you are since the maintenance bay. We should stop wasting each other's time."
 
 The dark rearranged itself.
 

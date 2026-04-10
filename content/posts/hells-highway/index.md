@@ -272,7 +272,7 @@ I stepped forward. "Karamemti," I said. Quietly. Just the name.
 
 He froze.
 
-"Lord of Rot." Another step. "Who Dissolves--"
+"[Lord](/npcs/lord-cassius/) of Rot." Another step. "Who Dissolves--"
 
 "*STOP.*"
 

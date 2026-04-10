@@ -19,7 +19,7 @@ ShowToc: false
 
 ## Function in Play
 
-The most dangerous area of New Orleans at night, and the most information-rich. Newcomers waiting for Marcel's decision on their residence. Kindred denied entry who stay anyway. Setite smuggling operations. The public commodity warehouses (explicitly Setite-adjacent — most Camarilla avoid them). [Martin](/npcs/martin-drichet-aaron-carson/)'s (Nosferatu) warehouse haven is here.
+The most dangerous area of New Orleans at night, and the most information-rich. Newcomers waiting for [Marcel](/npcs/marcel-guilbeau/)'s decision on their residence. Kindred denied entry who stay anyway. Setite smuggling operations. The public commodity warehouses (explicitly Setite-adjacent — most Camarilla avoid them). [Martin](/npcs/martin-drichet-aaron-carson/)'s (Nosferatu) warehouse haven is here.
 
 ## Physical Read
 
@@ -32,4 +32,4 @@ At night the docks are never empty — cargo ships, barge traffic from New York 
 - **Marcel's Ventrue:** Own many of the private docks.
 - **Setites:** Several docks fronted by mortal operations, run Kindred trafficking.
 - **Refugee Kindred:** Crowd the edges, waiting for status decisions.
-- **Martin (Nosferatu):** Maintains his haven in a warehouse near the Inner Harbor Navigation Canal.
+- **[Martin](/npcs/martin-drichet-aaron-carson/) (Nosferatu):** Maintains his haven in a warehouse near the Inner Harbor Navigation Canal.

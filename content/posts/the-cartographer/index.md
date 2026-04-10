@@ -106,7 +106,7 @@ And [Danov](/npcs/alexander-danov/) had known. The Nosferatu hadn't told [Darius
 
 [Darius](/darius-cole/) stood in the dark and ran the board. The warehouse was compromised. [Chuc Luc](/npcs/chuc-luc/)'s shipment next week. Eddie as the hinge. The twenty-four sacks as the evidence. Cantone's escalation ladder — surveillance, then approach Eddie, then a crew, then report up to the capo, then soldiers. [Darius](/darius-cole/) needed to interrupt the ladder before it left Gary.
 
-He walked to the sedan. One occupant. Mid-twenties, Bears cap, heavy jaw, the physique of a man who loaded trucks for a living and supplemented with gym time he no longer needed. The hand was somewhere below the dash — a piece in the console or in his lap. Darius knocked on the window.
+He walked to the sedan. One occupant. Mid-twenties, Bears cap, heavy jaw, the physique of a man who loaded trucks for a living and supplemented with gym time he no longer needed. The hand was somewhere below the dash — a piece in the console or in his lap. [Darius](/darius-cole/) knocked on the window.
 
 The window cracked. The face came up. The eyes found Darius and the hand moved toward metal.
 

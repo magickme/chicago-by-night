@@ -27,11 +27,11 @@ Kindred. The washed-out palette — colors present but muted, like watercolors l
 
 [Sir Henry](/npcs/sir-henry-johnson/) was already talking. He introduced the woman as [Sophia](/npcs/sophia-ayes/), as though [Sable](/sable-price/) had met her, and [Sable](/sable-price/) hadn't, but she knew the name. [Annabelle](/npcs/annabelle-triabell/)'s childe. The dancer. The one whose art the clan had looked at and called something other than art. Up close, the dancer held herself with a stillness that made sitting look choreographed.
 
-"Sir talks about you," Sophia said. Flat. Nothing given.
+"Sir talks about you," [Sophia](/npcs/sophia-ayes/) said. Flat. Nothing given.
 
 "Sir talks about everyone, my dear, that's his entire function."
 
-He laughed. Then the register dropped, and the performance found its purpose. He leaned forward and the Auspex eyes — bright and steady beneath the flush and the bonhomie, the one part of [Sir Henry](/npcs/sir-henry-johnson/) that was always working — settled on Sable.
+He laughed. Then the register dropped, and the performance found its purpose. He leaned forward and the Auspex eyes — bright and steady beneath the flush and the bonhomie, the one part of [Sir Henry](/npcs/sir-henry-johnson/) that was always working — settled on [Sable](/sable-price/).
 
 [Lodin](/npcs/lodin/) was not chairing Wednesday because [Lodin](/npcs/lodin/) could not. Three visitors admitted to the Prince's floor in ten days. Two were Kindred [Sir Henry](/npcs/sir-henry-johnson/) had never heard of. Not Chicago. Not anyone's people. The third was a physician. A mortal physician, on the Prince's floor, doing whatever mortal physicians do for bodies that have been dead for centuries.
 
@@ -45,7 +45,7 @@ He read it perfectly. He always read it perfectly.
 
 What followed was the strategy. Attend Wednesday. Be seen. Be gracious. And when the toast came — because the toast would come, they both knew it, the word sat between them like a knife on a clean tablecloth — have an unimpeachable reason not to drink. A recent feeding. A Toreador sensitivity. Something catching the eye at precisely the right moment. The clan weakness weaponized.
 
-"Use it," Sir Henry said.
+"Use it," [Sir Henry](/npcs/sir-henry-johnson/) said.
 
 And then Sable made her mistake.
 

@@ -84,7 +84,7 @@ Surface disruption. His suppliers spooked, his drop points watched, the physical
 
 Ray's apartment smelled like instant coffee and cigarettes and a radiator that only heated the kitchen. Ray stood by the counter because Ray always stood when [Darius](/darius-cole/) was in the room. [Darius](/darius-cole/) sat on the couch and said, "The man who gave you the message. Tell me again. Everything."
 
-Ray talked for twenty minutes and Darius didn't interrupt. The visitor who appeared without arriving. Average height, shorter maybe. A hitch in his walk, something wrong with his weight distribution. Oversized army surplus coat. White, forties. The speech that changed channels. The nonsense first. *The corner knows his name.* And then the clear signal underneath: *Tell [Darius Cole](/darius-cole/) I'm not his enemy. I want to meet him directly. Tuesday. At the spur.*
+Ray talked for twenty minutes and [Darius](/darius-cole/) didn't interrupt. The visitor who appeared without arriving. Average height, shorter maybe. A hitch in his walk, something wrong with his weight distribution. Oversized army surplus coat. White, forties. The speech that changed channels. The nonsense first. *The corner knows his name.* And then the clear signal underneath: *Tell [Darius Cole](/darius-cole/) I'm not his enemy. I want to meet him directly. Tuesday. At the spur.*
 
 His mortal name. Not clan designation, not generation, not Kindred title. *[Darius Cole](/darius-cole/).* The way a person would say it.
 

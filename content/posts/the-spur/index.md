@@ -158,7 +158,7 @@ She let the boundary stand. Payphone protocol. The coterie's discipline holding 
 
 "Friday call."
 
-"Friday call. And Darius?"
+"Friday call. And [Darius](/darius-cole/)?"
 
 "Yeah."
 

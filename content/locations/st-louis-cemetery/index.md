@@ -25,4 +25,4 @@ The most accessible refuge for Kindred arriving in New Orleans without permanent
 
 Cities within the city. Dense ranks of whitewashed stone rectangular monuments, society tombs rising above the surrounding walls, no consistent path layout. St. Louis I is the oldest — mid-1700s tombs, shells-and-grass aisles, very little vegetation. [Marie](/npcs/marie-drichet/) Laveau's tomb is here, marked with X's and littered with pennies. St. Louis II is similar, slightly newer.
 
-St. Louis III is near Bayou St. John — most Kindred avoid it because of proximity to the bayou (Lupine territory) and the main police precinct just to its west.
+St. Louis III is near Bayou St. [John](/npcs/john-wierus/) — most Kindred avoid it because of proximity to the bayou (Lupine territory) and the main police precinct just to its west.

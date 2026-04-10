@@ -19,7 +19,7 @@ ShowToc: false
 
 ## Function in Play
 
-Dutch's unofficial territorial anchor in the Warehouse District. The Brujah use it as a meeting ground, feeding location, and de facto clan hall — the opposite of the Toreador's Storyville or the Malkavians' [Preservation Hall](/locations/preservation-hall/) in social register.
+[Dutch](/npcs/dutch/)'s unofficial territorial anchor in the Warehouse District. The Brujah use it as a meeting ground, feeding location, and de facto clan hall — the opposite of the Toreador's Storyville or the Malkavians' [Preservation Hall](/locations/preservation-hall/) in social register.
 
 The internal Brujah tension plays out here more than anywhere: Dutch as principled idealist, [Jake Almerson](/npcs/jake-almerson/) as pragmatic saboteur, and the rank-and-file Brujah who have more practical concerns than the Carthage question. The club is loud enough that conversations at adjacent tables don't carry.
 

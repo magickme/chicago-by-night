@@ -66,7 +66,7 @@ He tried the cover. [Michael](/npcs/michael/) didn't buy it. He tried the mutual
 
 "Why are you here, Birch?" [Michael](/npcs/michael/) asked, and the use of the court name — Warren Birch, the orphan, the cover — told [Darius](/darius-cole/) that [Michael](/npcs/michael/) had placed him, catalogued him, and was now deciding what to do with him.
 
-[Darius](/darius-cole/) could feel the architecture of the conversation collapsing. Every angle he tried, [Michael](/npcs/michael/) was already on the other side, waiting. The boy from the cemetery was faster than him. Not physically — mentally. The cracked mind saw around corners that Darius couldn't even see the walls of.
+[Darius](/darius-cole/) could feel the architecture of the conversation collapsing. Every angle he tried, [Michael](/npcs/michael/) was already on the other side, waiting. The boy from the cemetery was faster than him. Not physically — mentally. The cracked mind saw around corners that [Darius](/darius-cole/) couldn't even see the walls of.
 
 So he did the only thing left. He told the truth.
 
@@ -74,7 +74,7 @@ So he did the only thing left. He told the truth.
 
 Six words. The Ventrue feeding restriction, laid bare. *I can only feed on the desperate, and the desperate live on the waterfront, and if I can't come here I starve.* It was the most vulnerable thing Darius had said to another Kindred since the Embrace. A Kindred who knew where you had to feed knew how to kill you without lifting a hand.
 
-Michael's eyes changed. The flatness softened into something that wasn't trust and wasn't warmth but was, maybe, recognition. The look of one caged thing acknowledging another.
+[Michael](/npcs/michael/)'s eyes changed. The flatness softened into something that wasn't trust and wasn't warmth but was, maybe, recognition. The look of one caged thing acknowledging another.
 
 He pulled his coat tighter around the envelope.
 

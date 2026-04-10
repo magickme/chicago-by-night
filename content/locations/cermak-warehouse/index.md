@@ -27,7 +27,7 @@ ShowToc: false
 
 40,000 square feet. Brick exterior, heavy timber framing, concrete slab floor. Columns every thirty feet. The building is what it was: a working freight warehouse that nobody works in anymore. The bones are good. The smell is old cardboard, machine oil, and the particular coldness of large spaces that stopped being heated two winters ago.
 
-- **Loading dock (south):** Three rolling steel bays. One converted to vehicle entrance — big enough for the Cutlass and Sable's car with room for a second vehicle. The other two padlocked from inside with secondary chains.
+- **Loading dock (south):** Three rolling steel bays. One converted to vehicle entrance — big enough for the Cutlass and [Sable](/sable-price/)'s car with room for a second vehicle. The other two padlocked from inside with secondary chains.
 - **Personnel entrance (east side):** Steel fire door, commercial deadbolt upgraded to a Medeco. No exterior handle that turns without a key.
 - **Mezzanine office (northeast corner):** Steel-railed walkway, stairs, windows overlooking the floor on three sides. This is where they live.
 - **Main floor:** 40,000 square feet of open space with whatever the previous tenant left behind — an abandoned forklift, a scatter of wooden pallets, the ghost of a sorting line. What Sable has done to it makes it feel smaller in the way a good room should.

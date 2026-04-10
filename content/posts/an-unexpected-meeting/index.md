@@ -47,7 +47,7 @@ At [the Cave](/locations/the-cave/), [Darius](/darius-cole/) laid it out for [Sa
 
 Walt's walkup was dark. A Caprice at the hydrant had a clear windshield that said someone had been sitting with the heater running and then left in a hurry. The dome light had been removed. The glove box held a registration to Great Lakes Fleet Services, LLC, which meant nothing and was meant to mean nothing.
 
-Inside, Walt Gryzinski was trying to hold onto his own mind. The legal pads were covered in handwriting that started neat and dissolved. *Tuesday: went to the store. Came home. Can't remember if I ate.* The diary of a man trying to prove he still existed. Darius sat across from him and said *Look at me, Walt* and the blood bond made sure he looked.
+Inside, Walt Gryzinski was trying to hold onto his own mind. The legal pads were covered in handwriting that started neat and dissolved. *Tuesday: went to the store. Came home. Can't remember if I ate.* The diary of a man trying to prove he still existed. [Darius](/darius-cole/) sat across from him and said *Look at me, Walt* and the blood bond made sure he looked.
 
 Forty minutes. The architecture of control built deeper into the foundation. Nine-fourteenths. Past the midpoint. Walt stood up twice during the session and sat back down without being told. Not because Darius commanded it. Because the building was becoming load-bearing.
 
