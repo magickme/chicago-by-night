@@ -78,7 +78,7 @@ He took Wojcik into the alley behind the bar and fed. Three blood points. The ma
 
 He cleaned the memory. Wojcik would wake against the wall and think he'd passed out drunk. Nothing else.
 
-On the way back to the Cutlass, Darius stopped at his warehouse and looked above the side entrance for the first time. A small metal plate bolted to the cinder block under grime and cobweb:
+On the way back to the Cutlass, [Darius](/darius-cole/) stopped at his warehouse and looked above the side entrance for the first time. A small metal plate bolted to the cinder block under grime and cobweb:
 
 LAKESHORE INDUSTRIAL SERVICES LLC. UNIT 4 -- BERTH 7 ACCESS. PROPERTY MGMT: DEVECCHIO & ASSOC., CICERO IL.
 

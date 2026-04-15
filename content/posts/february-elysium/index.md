@@ -220,7 +220,7 @@ Then he looked at the woman beside him on the sidewalk, the only other person in
 
 She laughed. The real one. Not the Toreador performance, not the VIP booth laugh, but the sound that came up from the same place the South Side voice came from. The place underneath all the other places.
 
-She wrote a number on the back of a matchbook from her jacket. The studio line, the one Modius already knew about. Insurance, not vulnerability.
+She wrote a number on the back of a matchbook from her jacket. The studio line, the one [Modius](/npcs/modius/) already knew about. Insurance, not vulnerability.
 
 "Don't call before sundown. Obviously."
 

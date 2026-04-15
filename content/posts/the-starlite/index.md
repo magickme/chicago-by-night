@@ -109,7 +109,7 @@ The bartender brought change from a twenty without being asked. The man peeled o
 
 It was in the posture. The quiet arithmetic of a man running numbers that wouldn't add up. Twelve thousand dollars of department money skimmed from controlled buys over eight months because a divorce judgment came in higher than his salary could cover. The audit was coming in February and every day the gap got wider by the cost of living in a city that didn't care whether he drowned.
 
-[Darius](/darius-cole/) followed him to the hallway. The predatory aura hit at close range and the cop's step faltered. The back door opened onto an alley. The cop leaned against the brick and reached for a cigarette and Darius was already there, close, eye contact, and the man stopped reaching.
+[Darius](/darius-cole/) followed him to the hallway. The predatory aura hit at close range and the cop's step faltered. The back door opened onto an alley. The cop leaned against the brick and reached for a cigarette and [Darius](/darius-cole/) was already there, close, eye contact, and the man stopped reaching.
 
 The blood tasted like want. The specific, material craving of a man who owed something he couldn't return and whose life had already collapsed and was only still standing because nobody had leaned on it yet. Two points. Safe. Darius pulled back and licked the wound closed and the cop slid down the wall to a sitting position, eyes glazed, the dreamy post-Kiss stillness that would clear in a few minutes.
 

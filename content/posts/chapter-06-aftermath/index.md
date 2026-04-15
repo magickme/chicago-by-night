@@ -108,7 +108,7 @@ Ralph Rego walked in at two in the morning and ordered a Schlitz and bought a ro
 
 Eddie Kowalski, stevedore, three kids, behind on everything. Pete Tran, stevedore, no kids, behind on different things. Both of them regulars at Kiefer's, both of them in Sal's book, both of them the kind of men who'd remember a friendly face that bought them a beer on a Wednesday night and didn't ask for anything in return.
 
-Darius didn't mention Sal. Didn't ask about the docks. Didn't push anything at all. He was furniture. A check-cashing guy from the west side who liked cheap beer and easy company. The kind of man you forgot about and then recognized and then, after the third or fourth time, thought you'd known forever.
+[Darius](/darius-cole/) didn't mention Sal. Didn't ask about the docks. Didn't push anything at all. He was furniture. A check-cashing guy from the west side who liked cheap beer and easy company. The kind of man you forgot about and then recognized and then, after the third or fourth time, thought you'd known forever.
 
 "See you around, Ralph," Eddie said at the door.
 

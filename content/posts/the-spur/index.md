@@ -166,4 +166,4 @@ She let the boundary stand. Payphone protocol. The coterie's discipline holding 
 
 The line clicked. He set the phone down. The matchbook and the .357 and the invitation on the counter, cream cardstock, wax seal, twenty-seven days. The radiator clicked. The television murmured. Gary froze in silence outside the window, block by block, the way it had been freezing for ten years.
 
-Darius sat in the dark and did nothing. Sometimes the smart move was to sit still and let the architecture hold.
+[Darius](/darius-cole/) sat in the dark and did nothing. Sometimes the smart move was to sit still and let the architecture hold.

@@ -72,7 +72,7 @@ So he did the only thing left. He told the truth.
 
 "I need the docks to survive. Not to take over — to eat."
 
-Six words. The Ventrue feeding restriction, laid bare. *I can only feed on the desperate, and the desperate live on the waterfront, and if I can't come here I starve.* It was the most vulnerable thing Darius had said to another Kindred since the Embrace. A Kindred who knew where you had to feed knew how to kill you without lifting a hand.
+Six words. The Ventrue feeding restriction, laid bare. *I can only feed on the desperate, and the desperate live on the waterfront, and if I can't come here I starve.* It was the most vulnerable thing [Darius](/darius-cole/) had said to another Kindred since the Embrace. A Kindred who knew where you had to feed knew how to kill you without lifting a hand.
 
 [Michael](/npcs/michael/)'s eyes changed. The flatness softened into something that wasn't trust and wasn't warmth but was, maybe, recognition. The look of one caged thing acknowledging another.
 
@@ -88,7 +88,7 @@ Then he was through and gone, swallowed by the dark between the docks and the ce
 
 ---
 
-Darius stood in the cold for a long time after Michael left. Then he turned and walked into the dispatch office.
+Darius stood in the cold for a long time after [Michael](/npcs/michael/) left. Then he turned and walked into the dispatch office.
 
 Sal Petrocelli was a small man in a big chair. Late forties. Thinning hair combed over nothing, a polyester shirt that had been white several washes ago, a gold chain that belonged to 1979. He was eating a meatball sub over a racing form and his desk was a spread of carbon-copy betting slips, a rotary phone, an ashtray with three Marlboro butts, and a coffee mug that said WORLD'S GREATEST GRANDPA.
 

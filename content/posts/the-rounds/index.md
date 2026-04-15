@@ -30,7 +30,7 @@ The flagger was alone at the barricade's dead end. Fifties. County parka under t
 
 The approach was social because social was the only thing left. At three blood the Beast wanted teeth, wanted throat, wanted speed and silence and the alley behind the laundromat where nobody would find the body for hours. [Sable](/sable-price/) gave it a handshake instead. Touched the woman's arm -- thank you, which way to Fifteenth? -- and the fingers closed and she pulled her behind the sawhorse and into the dark and it happened the way it always happened, mouth to neck, the gasp, the softening, the warmth flooding back through both of them like a debt being settled.
 
-Choleric blood. Marie's anger tasted like an engine running hot -- burned and immediate, someone else's overtime wrapped around someone else's grievance, and underneath it the copper of a woman who'd given forty-eight years to a city that couldn't keep its own water mains from splitting.
+Choleric blood. [Marie](/npcs/marie-drichet/)'s anger tasted like an engine running hot -- burned and immediate, someone else's overtime wrapped around someone else's grievance, and underneath it the copper of a woman who'd given forty-eight years to a city that couldn't keep its own water mains from splitting.
 
 Four points. She counted. She stopped.
 

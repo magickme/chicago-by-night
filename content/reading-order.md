@@ -251,6 +251,12 @@ Published scenes from **Chicago Chronicles** in chronological order.
 |---|---|---|---|
 | 76 | [The Delivery](/posts/the-delivery/) | Darius | Jan 22, 1991, 4:35 PM |
 
+### Chapter 13 — The Session
+
+| # | Scene | PC | Date |
+|---|---|---|---|
+| 77 | [The Session](/posts/the-session/) | Darius | Jan 23, 1991, 4:35 PM |
+
 ---
 
 ## Other Chronicles

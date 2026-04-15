@@ -85,7 +85,7 @@ The Gary emissaries had evacuated before the retaliation cycle started. [Cole](/
 
 He walked back to the chantry. Twenty minutes through empty streets. A police cruiser on State, the officer's face blue from the dash computer. A diner with its lights on and nobody inside except a cook scraping the grill. The smell of burned grease and coffee. He remembered what coffee tasted like and then stopped remembering.
 
-[Nicolai](/npcs/nicolai/) was in the second-floor study. Door open. Nothing on the desk except a fountain pen and a sheet of paper with writing Tomas couldn't read from the doorway.
+[Nicolai](/npcs/nicolai/) was in the second-floor study. Door open. Nothing on the desk except a fountain pen and a sheet of paper with writing [Tomas](/npcs/tomas/) couldn't read from the doorway.
 
 "You've been out."
 

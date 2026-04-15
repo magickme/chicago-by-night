@@ -35,7 +35,7 @@ They were heading toward the stadium with something that smelled like chemistry 
 
 He told [Sable](/sable-price/) at the kitchen table. She smoked and listened and then sat forward and said what he was already thinking --- that the [Gengis](/tags/gengis) play bought more than it cost, and that whoever pointed [Tyrus](/npcs/tyrus/) at a Brujah target the night before the Primogen session was either stupid or working an angle nobody at that table had considered.
 
-The Owl was a narrow bar on Blue Island Avenue with a tin ceiling and dead air. [Gengis](/npcs/gengis/) was in the back booth with two of his people. The Predatory Aura filled the room like a low-frequency hum and three sets of eyes tracked Darius from the door.
+The Owl was a narrow bar on Blue Island Avenue with a tin ceiling and dead air. [Gengis](/npcs/gengis/) was in the back booth with two of his people. The Predatory Aura filled the room like a low-frequency hum and three sets of eyes tracked [Darius](/darius-cole/) from the door.
 
 "Ventrue. Long way from the Palmer House."
 

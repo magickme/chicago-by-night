@@ -130,7 +130,7 @@ The man returned to the van. The dome light resumed.
 
 She drove back to the studio at 2:55 to check on the girl. Nisha was awake. Dressed. She had washed the bowl and folded the towel and folded the afghan and stood in the studio with the posture of a person calculating a debt she couldn't name.
 
-Sable drove her home. Eighteenth Street. The aunt's duplex with the chain-link fence and the porch light that worked. Nisha paused at the car door.
+[Sable](/sable-price/) drove her home. Eighteenth Street. The aunt's duplex with the chain-link fence and the porch light that worked. Nisha paused at the car door.
 
 "What's your name?"
 

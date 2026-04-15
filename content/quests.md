@@ -5,7 +5,7 @@ layout: "page"
 slug: "quests"
 ---
 
-*Chicago Chronicles. Act II: Ashes and Blood. Updated: **1991-01-22 (Tuesday night, scene close ~1 AM Wed)**.*
+*Chicago Chronicles. Act II: Ashes and Blood. Updated: **1991-01-23 (Wednesday night, scene close ~1 AM Thu)**.*
 
 
 

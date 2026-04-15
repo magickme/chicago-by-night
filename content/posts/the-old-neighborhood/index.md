@@ -87,7 +87,7 @@ She stood in the hallway for a long time, not long enough. The television said s
 
 *She is four doors away from a Sabbat scout's feeding route. The next apartment in the sequence.*
 
-Sable did not knock.
+[Sable](/sable-price/) did not knock.
 
 At the payphone on State Street — the one with the cracked handset and the phone book that someone had removed all the pages from — she made eleven seconds of anonymous call and gave Agent Walt two things: the sub-basement access point and the junction. She did not explain what they would find or what had made the lair or how the scent at two apartments connected to a woman with clay boots in a CTA maintenance bay. She gave them the coordinates and hung up before Walt could respond. Eleven seconds was not enough to trace. It was enough to aim.
 
@@ -153,7 +153,7 @@ Sable let go of the badge.
 
 She found a payphone three blocks from the freight tunnel entrance and called [Annabelle](/npcs/annabelle-triabell/)'s private number. The one that rang in the haven. Two rings, then: "Yes."
 
-She laid it out clean. A Sabbat scout working the Robert Taylor Homes. Six weeks of documented activity. [Khalid](/npcs/khalid-al-rashid/)'s network knew and had not shared. The lair, the route, the endpoint. Wednesday meeting with [Bordruff](/npcs/nathaniel-bordruff/), price from [Khalid](/npcs/khalid-al-rashid/).
+She laid it out clean. A Sabbat scout working the [Robert](/npcs/robert-klondike/) [Taylor](/npcs/helena-taylor/) Homes. Six weeks of documented activity. [Khalid](/npcs/khalid-al-rashid/)'s network knew and had not shared. The lair, the route, the endpoint. Wednesday meeting with [Bordruff](/npcs/nathaniel-bordruff/), price from [Khalid](/npcs/khalid-al-rashid/).
 
 [Annabelle](/npcs/annabelle-triabell/)'s response was the sharp intake of information processing. Then: "A scout mapping routes to the [Succubus Club](/locations/succubus-club/)." Pause. "And [Khalid](/npcs/khalid-al-rashid/) has known this for six weeks and told no one."
 

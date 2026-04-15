@@ -24,7 +24,7 @@ ShowToc: false
 - [Anne Bowesley](/npcs/anne-bowesley/)'s domain since the Cromwell era — over 300 years.
 - She built Parliament into England's ruling institution and controls it as her personal instrument.
 - Her haven is beneath St. [Stephen](/npcs/stephen-lenoir/)'s Tower (Big Ben).
-- The mortal world sees the Mother of Parliaments; Kindred know it as Anne's fortress.
+- The mortal world sees the Mother of Parliaments; Kindred know it as [Anne](/npcs/anne-bowesley/)'s fortress.
 - In 1969, Anne's mortal pawn is climbing the political ladder that will lead to 10 Downing Street in 1979.
 
 ## Physical Read

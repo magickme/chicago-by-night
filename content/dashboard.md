@@ -10,14 +10,14 @@ menu:
       icon: "dots"
 ---
 
-*Chicago Chronicles. Act II: Ashes and Blood. Updated: **1991-01-22 (Tuesday night, scene close ~1 AM Wed)**.*
+*Chicago Chronicles. Act II: Ashes and Blood. Updated: **1991-01-23 (Wednesday night, scene close ~1 AM Thu)**.*
 
 
 
 ## Coterie Snapshot
 
-- 1991-01-22 (Tuesday night, scene close ~1 AM Wed) — Darius fed (delivery driver, Loop), warned Gengis of Wolf Pack unauthorized dynamite run on Brujah safehouse near Soldier Field. Surveilled Maldavis brownstone on Indiana Ave: confirmed Hayward place, municipal car (alderman placard), second-floor watcher. Surveillance compromised (Trouble Burn). Shared intel with Sable at haven.
-- Scenes played: Darius 37, Sable 37, Tomás 2 (76 total + timeskip bluebook Aug-Nov + Dec timeskip). PCs met at Feb 2 Elysium. **COTERIE FORMED (S019, July 22).**
+- 1991-01-23 (Wednesday night, scene close ~1 AM Thu) — Darius worked the Succubus Club during Primogen session. Built intel network: Brennon (dead drop, PI photo), Gengis (Wolf Pack outcome, Inyanga hinge), Horace (Primogen results, Tyrus play). Gifted dead drop intel to Annabelle → private line earned. Fed from 3 blood dolls (full). Lucian channel failed. Primogen: Ballard reprimanded (3-2-1), censure failed, Inyanga abstained.
+- Scenes played: Darius 38, Sable 37, Tomás 2 (77 total + timeskip bluebook Aug-Nov + Dec timeskip). PCs met at Feb 2 Elysium. **COTERIE FORMED (S019, July 22).**
 - Scene-note inventory: Darius 35, Sable 37, Tomás 2 (74 total on disk; S034/S035 are joint scenes with D035/D036).
 - Sunset: 4:35 PM CST. Sunrise: 7:04 AM CST. Darkness: ~14.5 hours (mid-January).
 - Communications: Chicago protocol seeded. Tue/Fri 11 PM remains the default check-in window, using rotating nodes instead of a fixed haven line. If one node feels watched, move immediately to the next. Horace contact: The Cave, ask for Fred, "chess tournament."
@@ -32,8 +32,8 @@ menu:
 | Torch/Rack Heat | 5/6 | Stabilized. Webb proxy. Dormant while PCs away. |
 | Ballard's Case | 4/6 | D037: Counterattack in motion. Greystone Fiduciary = mortal finance network (LaSalle). Three Annabelle properties targeted (Lake Shore lien, Armitage gallery lease, South Michigan subpoena). Courier network mapped. "Entrée comes Friday." Caitiff cleared off South Side through code enforcement. Coterie intercepted letter — Ballard unaware. |
 | Modius Internal Audit | 4/6 | Blood-taste bomb. Allicia. Offscreen while PCs in Chicago. |
+| Primogen Power Plays | 4/6 | D039: Wednesday session held. Ballard reprimanded 3-2-1 (Annabelle/Critias/Khalid vs Tyler/Neally, Inyanga abstained). Factions hardened. Inyanga = hinge vote. |
 | Docks Heat | 3/6 | Pipeline on autopilot. Eddie granite. |
-| Primogen Power Plays | 3/6 | D037: Wednesday session announced — formal Ballard adjudication. Neally chairing, not Lodin. Anarchs floating succession talk with Maldavis as candidate. Factions hardening. |
 | Lodin's Grip | 2/6 | S035: Prince presided over emergency Primogen session. Police mobilized around railyards. Drummond delivered. Authority reasserted through institutions. |
 | Masquerade Heat (Chicago) | 2/6 | D031: 36 cultists witnessed supernatural events at Hell's Pasture (Roarke aging, vampire feeding, Dread Gaze). Scottie wiped (granite). Compound burning. Low-credibility witnesses but high numbers. |
 | Methuselah War | 2/6 HIDDEN | D031: Darius blood-bonded Step 1 to Menele (frenzy over torpored body). Coterie now in Menele's camp — unknowingly. Menele likely orchestrated body recovery + vial frenzy from torpor. Helena's rival has agents. |
@@ -43,14 +43,14 @@ menu:
 | Blood Bond Web | 1/6 | D031: Darius consumed Menele's blood (frenzy). Step 1/3. First active bond step from Chicago events. Every sip tracked. |
 | Hunter Convergence (Chicago) | 1/6 | S030: PCs encountered Standdown. Evidence destroyed but he lives with "body walked away." Shepard connected. |
 | Sabbat Infiltration | 1/6 ACTIVE | S036: Scout confirmed in CHA tunnels under Robert Taylor Homes. Mapping routes north toward Succubus Club. Sword-and-chalice marks. Bordruff tracking 6 weeks. Annabelle + Nosferatu aware. Rigaud/Wade still embedded separately. |
+| Succubus Club Heat | 1/6 | D039: Dead drop discovered inside Club (Tuesday couriers, back four-top). Annabelle informed. Ballard operations inside her social territory. |
 | Chuc Luc's Chicago Operations | 0/6 | Pipeline expansion into Capone's territory. |
 | Cover Story Exposure (Chicago) | 0/6 | Warren Birch fiction meets Chicago Auspex. Darius 10th claiming 12th. |
 | Modius Leash (Sable) | 0/6 | CLOSED (S033). Scene alteration (Close Thread). Modius turned inward — Internal Audit consuming attention, leash dropped. Silence, not forgiveness. |
-| Succubus Club Heat | 0/6 | Club as focal point. Helena's basement. Every thread passes through. |
 
 ## Chicago Standing
 
-- Court 2/5 (Recognized): Critias +2 (faculty club invitation). Brennon +1 (office line). Annabelle +3 (property warning). Wednesday session = next formal step.
+- Court 2/5 (Recognized): Critias +2 (faculty club). Brennon +2 (dead drop exchange). Annabelle +1 (private line, dead drop gift). Primogen session Wed Jan 23: Ballard reprimanded 3-2-1. Inyanga abstained.
 - Society 2/5 (Established): Succubus Club explored including Labyrinth. Brennon met. Falcon boon. Sir Henry +3. Toreador social infrastructure mapped.
 - Underworld 0/5 (Unknown): No standing yet with Capone, Chuc Luc's Chicago operators, or the city's criminal brokers
 - Street 1/5 (Emerging): Gengis +1 (Brewery confirmed Thursdays). Maldavis +1 (shared intel, task accepted). Anarch channel open.

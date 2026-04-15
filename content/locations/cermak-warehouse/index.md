@@ -30,7 +30,7 @@ ShowToc: false
 - **Loading dock (south):** Three rolling steel bays. One converted to vehicle entrance — big enough for the Cutlass and [Sable](/sable-price/)'s car with room for a second vehicle. The other two padlocked from inside with secondary chains.
 - **Personnel entrance (east side):** Steel fire door, commercial deadbolt upgraded to a Medeco. No exterior handle that turns without a key.
 - **Mezzanine office (northeast corner):** Steel-railed walkway, stairs, windows overlooking the floor on three sides. This is where they live.
-- **Main floor:** 40,000 square feet of open space with whatever the previous tenant left behind — an abandoned forklift, a scatter of wooden pallets, the ghost of a sorting line. What Sable has done to it makes it feel smaller in the way a good room should.
+- **Main floor:** 40,000 square feet of open space with whatever the previous tenant left behind — an abandoned forklift, a scatter of wooden pallets, the ghost of a sorting line. What [Sable](/sable-price/) has done to it makes it feel smaller in the way a good room should.
 - **Freight elevator shaft (northwest):** Non-functional. Gate locked. Shaft used for emergency cache.
 - **Roof hatch (mezzanine level):** Accessible from the mezzanine, leads to a flat tar-and-gravel roof. Fire escape on the north side descends to the alley behind the scrap yard.
 - **Windows:** None at ground level. Two frosted transoms near the roofline on the north face — industrial glass, permanently opaque. Both covered with heavy canvas drops from inside, secured with industrial cargo clips. Light-tight.

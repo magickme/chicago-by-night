@@ -19,7 +19,7 @@ ShowToc: false
 
 ## Function in Play
 
-[Marcel](/npcs/marcel-guilbeau/)'s gallery fronting [Josua Cambridge](/npcs/josua-cambridge/)'s portrait work. The portraits were meant as a showcase — hyper-realistic renderings of New Orleans Kindred that Marcel could use as social currency with visiting vampires. Instead they became a hunting guide. [Lanee Andrin](/npcs/lanee-andrin/) used portraits exhibited here to identify and track Kindred. Two vampires are dead because of this gallery.
+[Marcel](/npcs/marcel-guilbeau/)'s gallery fronting [Josua Cambridge](/npcs/josua-cambridge/)'s portrait work. The portraits were meant as a showcase — hyper-realistic renderings of New Orleans Kindred that [Marcel](/npcs/marcel-guilbeau/) could use as social currency with visiting vampires. Instead they became a hunting guide. [Lanee Andrin](/npcs/lanee-andrin/) used portraits exhibited here to identify and track Kindred. Two vampires are dead because of this gallery.
 
 The gallery is currently active. The portraits are still on display. Marcel has not closed it — doing so would acknowledge the breach. This is pride operating against survival instinct.
 

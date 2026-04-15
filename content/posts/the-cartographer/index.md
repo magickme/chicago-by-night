@@ -108,7 +108,7 @@ And [Danov](/npcs/alexander-danov/) had known. The Nosferatu hadn't told [Darius
 
 He walked to the sedan. One occupant. Mid-twenties, Bears cap, heavy jaw, the physique of a man who loaded trucks for a living and supplemented with gym time he no longer needed. The hand was somewhere below the dash — a piece in the console or in his lap. [Darius](/darius-cole/) knocked on the window.
 
-The window cracked. The face came up. The eyes found Darius and the hand moved toward metal.
+The window cracked. The face came up. The eyes found [Darius](/darius-cole/) and the hand moved toward metal.
 
 "The fuck you want?"
 

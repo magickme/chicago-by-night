@@ -96,7 +96,7 @@ Ray's face changed. Something surfaced through the fog the visitor had left. "Ol
 
 And the last thing. The detail buried deepest, pulled out by a question asked the right way at the right time by a man who knew what questions were for: "He said, 'Tell him the machine he built is bigger than the blueprint.'"
 
-Darius stood at the kitchen window and looked at the parking lot and the snow and the sodium lights and ran the inventory. Not from inside the brief this time. From above it.
+[Darius](/darius-cole/) stood at the kitchen window and looked at the parking lot and the snow and the sodium lights and ran the inventory. Not from inside the brief this time. From above it.
 
 [The Torch](/locations/the-torch/). His building. The pipeline. Berth 7, the warehouse, Eddie Fells Dominated into granite, the customs gap sealed, Cantone dead from RICO. Webb with his federal-grade paper and his conditioned loyalty. The coterie. [Sable](/sable-price/)'s east side running parallel. [Allicia](/npcs/allicia/) blood-bound and the line of sight into [Modius](/npcs/modius/) that came with her. [Danov](/npcs/alexander-danov/)'s paper. [Juggler](/npcs/juggler/)'s pragmatism. [Lucian](/npcs/lucian/)'s feeding rights. The informants and the ghouls and the contacts who didn't know what they were part of.
 

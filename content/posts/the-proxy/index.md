@@ -114,7 +114,7 @@ The Mesmerize went on top. The behavioral script. When Cantone's people came ask
 
 Three successes. Good enough for casual pressure. Not enough for violence. If Cantone sent soldiers who leaned hard, the script might crack. But the foundation wouldn't. Even if the behavioral layer broke, Eddie's memories were granite — he couldn't give up what he didn't have.
 
-Darius left him doing his crossword. Seven across was still blank.
+[Darius](/darius-cole/) left him doing his crossword. Seven across was still blank.
 
 ---
 

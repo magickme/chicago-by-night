@@ -27,4 +27,4 @@ The Square itself is open at night — musicians and street performers by day, K
 
 ## Who Controls It
 
-[Marcel](/npcs/marcel-guilbeau/) controls the Elysium designation. The Gangrel Justicar Xaviar uses it for his triannual Conclaves — which Marcel allows because the Conclave cover legitimizes the Camarilla presence in the city.
+[Marcel](/npcs/marcel-guilbeau/) controls the Elysium designation. The Gangrel Justicar Xaviar uses it for his triannual Conclaves — which [Marcel](/npcs/marcel-guilbeau/) allows because the Conclave cover legitimizes the Camarilla presence in the city.

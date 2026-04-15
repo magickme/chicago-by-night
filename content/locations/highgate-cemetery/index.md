@@ -23,7 +23,7 @@ ShowToc: false
 
 - [Juliet Parr](/npcs/juliet-parr/)'s principal haven is near Highgate Cemetery. The cemetery is also Malkavian gathering territory.
 - In 1969, the Highgate Vampire panic is about to erupt — newspaper stories about strange sightings will proliferate in 1969-1970, leading to amateur "vampire hunters" trespassing nightly.
-- This is a Masquerade crisis in slow motion. Juliet Parr must contain it while maintaining her own operations.
+- This is a Masquerade crisis in slow motion. [Juliet Parr](/npcs/juliet-parr/) must contain it while maintaining her own operations.
 - The irony: the "Highgate Vampire" may not be a Kindred at all — but the media frenzy threatens to expose those who ARE there.
 
 ## Physical Read

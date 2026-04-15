@@ -86,7 +86,7 @@ Ray flinched at the cold that came off [Darius](/darius-cole/)'s body — they a
 
 When it came, he was ready.
 
-"Well you know me, Ray," Darius said. "I like to keep my roosters full. Not too full, not enough to not stay mean. But enough to not get stupid. What if I cut your guys a few Christmas checks? Maybe make things a little less tight?"
+"Well you know me, Ray," [Darius](/darius-cole/) said. "I like to keep my roosters full. Not too full, not enough to not stay mean. But enough to not get stupid. What if I cut your guys a few Christmas checks? Maybe make things a little less tight?"
 
 Ray leaned in. The seam had opened and now Darius was inside it, in the warm dark space where desperate men keep the things they don't tell anyone.
 

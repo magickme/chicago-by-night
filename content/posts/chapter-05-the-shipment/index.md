@@ -64,7 +64,7 @@ He looked up. Eye contact.
 
 The words went in through the eyes and settled into the brain like sediment dropping through water. The man's face changed — not relaxed, exactly, but reorganized. The confusion smoothed into a story that made sense. Bums. They'd chased off some bums. [Tony](/npcs/tony/) tripped and knocked himself out. That was all. That was everything.
 
-"Shit," the man said. He crouched and shook his partner's shoulder. "[Tony](/npcs/tony/). Tony, get up, man."
+"Shit," the man said. He crouched and shook his partner's shoulder. "[Tony](/npcs/tony/). [Tony](/npcs/tony/), get up, man."
 
 [Darius](/darius-cole/) was already gone. But not toward the gate. Toward the containers. Toward the open mouth.
 
@@ -84,7 +84,7 @@ Three of them were room temperature. The fourth was warm.
 
 A hand. Pale. The fingers were long and the nails were wrong — too thick, too curved, yellowed like old ivory. A hand that had stopped aging a long time ago and had been still for long enough that the earth had formed around it the way water forms around a stone.
 
-And a ring. Gold, heavy, carved with a crest that Darius couldn't fully make out from this angle. He shifted, pressed his cheek against the plywood, and the work light caught the face of the signet for one frame. A dragon. Coiled around a shield. Old Eastern European heraldry — the kind of device that hadn't been struck since before the modern map of Europe existed.
+And a ring. Gold, heavy, carved with a crest that [Darius](/darius-cole/) couldn't fully make out from this angle. He shifted, pressed his cheek against the plywood, and the work light caught the face of the signet for one frame. A dragon. Coiled around a shield. Old Eastern European heraldry — the kind of device that hadn't been struck since before the modern map of Europe existed.
 
 A Gangrel elder. Melded into ancestral earth. Being shipped through Gary Exports Co. like cargo, through the St. Lawrence Seaway, from Odessa to Lake Michigan, bypassing Chicago, bypassing the Camarilla, bypassing every structure and protocol and prince that existed between the Black Sea and the Rust Belt.
 

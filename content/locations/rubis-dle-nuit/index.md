@@ -19,7 +19,7 @@ ShowToc: false
 
 ## Function in Play
 
-[Marcel](/npcs/marcel-guilbeau/)'s true haven — not the mansion in the city, which is the political face. When Marcel retreats here for several nights, he is consulting Jereaux. This is where the real decisions get made, and where threats to Marcel get handled permanently.
+[Marcel](/npcs/marcel-guilbeau/)'s true haven — not the mansion in the city, which is the political face. When [Marcel](/npcs/marcel-guilbeau/) retreats here for several nights, he is consulting [Jereaux](/npcs/jereaux-guilbeau/). This is where the real decisions get made, and where threats to Marcel get handled permanently.
 
 ## Physical Read
 

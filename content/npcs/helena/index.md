@@ -134,4 +134,4 @@ No Kindred in Chicago knows Maria is dead. All Toreador are very interested in w
 
 **Nature:** Plotter. **Demeanor:** Bon Vivant.
 
-**Lineage:** Helena → Minos (3rd gen, destroyed via Amaranth) → unknown Toreador Antediluvian. Downward: Helena → Maria (5th, destroyed) → [Annabelle](/npcs/annabelle-triabell/) (6th) → [Sharon](/npcs/sharon-payne/)/[Michael](/npcs/michael/) [Payne](/npcs/sharon-payne/) (8th/9th). Helena → Francois Villon (5th, Prince of Paris). Helena → Marie Galbraith (5th, Mexico).
+**Lineage:** Helena → Minos (3rd gen, destroyed via Amaranth) → unknown Toreador Antediluvian. Downward: Helena → Maria (5th, destroyed) → [Annabelle](/npcs/annabelle-triabell/) (6th) → [Sharon](/npcs/sharon-payne/)/[Michael](/npcs/michael/) [Payne](/npcs/sharon-payne/) (8th/9th). Helena → Francois Villon (5th, Prince of Paris). Helena → [Marie](/npcs/marie-drichet/) Galbraith (5th, Mexico).

@@ -19,7 +19,7 @@ ShowToc: false
 
 Born in Louisiana, Confederate cavalry veteran, Embraced by Ventrue elder Lothar Constantine after the Civil War — along with his brother [Jereaux](/npcs/jereaux-guilbeau/), who arranged Constantine's death shortly after. The brothers came to New Orleans; [Jereaux](/npcs/jereaux-guilbeau/) positioned Marcel as Doran's spy and political protégé.
 
-When Prince Doran was murdered (most believe in the 1950s), Marcel moved immediately, using the spy network and blackmail material to secure the princedom. Many suspect Marcel ordered the killing; many more suspect Jereaux. The Gangrel [Roxy](/npcs/roxy/) has spent decades trying to prove it.
+When Prince Doran was murdered (most believe in the 1950s), Marcel moved immediately, using the spy network and blackmail material to secure the princedom. Many suspect Marcel ordered the killing; many more suspect [Jereaux](/npcs/jereaux-guilbeau/). The Gangrel [Roxy](/npcs/roxy/) has spent decades trying to prove it.
 
 Marcel runs an open city, welcoming refugees, but the policy has limits — and limits create power. Everyone who owes their presence in the city owes Marcel.
 

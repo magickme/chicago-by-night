@@ -63,7 +63,7 @@ The clan weakness hit every Toreador in the room simultaneously. [Sable](/sable-
 
 The entrancement broke. [Sable](/sable-price/) came back into her body all at once. Her hand was shaking.
 
-She spent the next twenty minutes watching [Annabelle](/npcs/annabelle-triabell/) recover. Three successes on an empathy read gave her the map: Annabelle needed witnesses who remembered her response, not the disasters. She wanted Sophia punished through social censure, not destruction. She loved the piano — her hands drifted to it between conversations the way another woman might reach for a lover's hand. She hated being managed. The tell was in the left hand: open meant warm, closed meant anger, and twice while talking to [Lucina](/npcs/lucina/) both hands closed while her face stayed laughing.
+She spent the next twenty minutes watching [Annabelle](/npcs/annabelle-triabell/) recover. Three successes on an empathy read gave her the map: [Annabelle](/npcs/annabelle-triabell/) needed witnesses who remembered her response, not the disasters. She wanted [Sophia](/npcs/sophia-ayes/) punished through social censure, not destruction. She loved the piano — her hands drifted to it between conversations the way another woman might reach for a lover's hand. She hated being managed. The tell was in the left hand: open meant warm, closed meant anger, and twice while talking to [Lucina](/npcs/lucina/) both hands closed while her face stayed laughing.
 
 Then Annabelle played the piano and the first four bars came out backwards.
 
@@ -73,7 +73,7 @@ Nevohteeb. Beethoven reversed. The sheet music tampered. Annabelle stopped, read
 
 Tamoszius — an older Toreador who had sat alone and bored at a corner table all night — leaned back in his chair. He'd been waiting for it.
 
-Sable found him after the unveiling. Sat without asking. He gave her the theory: four coordinated events, [Drummond](/edgar-drummond/) absent, [Ballard](/ballard/) nowhere near the building. "The music was personal. Whoever reversed that score told her they know where she lives."
+[Sable](/sable-price/) found him after the unveiling. Sat without asking. He gave her the theory: four coordinated events, [Drummond](/edgar-drummond/) absent, [Ballard](/ballard/) nowhere near the building. "The music was personal. Whoever reversed that score told her they know where she lives."
 
 She offered him the one thing nobody else in the room could provide: her hands on the sheet music and sixty seconds of his distraction. He walked toward Annabelle with a question about a Modigliani and every eye in the room turned with him. Sable crossed to the piano and touched the page and the room disappeared.
 

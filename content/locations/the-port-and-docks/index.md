@@ -29,7 +29,7 @@ At night the docks are never empty — cargo ships, barge traffic from New York 
 
 ## Who Controls It
 
-- **Marcel's Ventrue:** Own many of the private docks.
+- **[Marcel](/npcs/marcel-guilbeau/)'s Ventrue:** Own many of the private docks.
 - **Setites:** Several docks fronted by mortal operations, run Kindred trafficking.
 - **Refugee Kindred:** Crowd the edges, waiting for status decisions.
 - **[Martin](/npcs/martin-drichet-aaron-carson/) (Nosferatu):** Maintains his haven in a warehouse near the Inner Harbor Navigation Canal.

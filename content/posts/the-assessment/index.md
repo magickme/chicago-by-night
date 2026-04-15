@@ -39,7 +39,7 @@ He let that land the way [Sir Henry](/npcs/sir-henry-johnson/) let things land: 
 
 The implications were clean. [Neally](/npcs/neally-edwards/) was chairing with authority that might not exist. Any boon offered, any threat implied, any toast proposed — consider the source. Consider whether the hand holding the cup had the authority to fill it.
 
-Sable tilted her head. Showed her collarbones. Raised one eyebrow and gave him nothing else.
+[Sable](/sable-price/) tilted her head. Showed her collarbones. Raised one eyebrow and gave him nothing else.
 
 He read it perfectly. He always read it perfectly.
 
@@ -49,7 +49,7 @@ What followed was the strategy. Attend Wednesday. Be seen. Be gracious. And when
 
 And then Sable made her mistake.
 
-It came out of the warmth of the advice, or the momentum of the evening, or the particular Toreador reflex that says *I am in a room with people who speak my language* and lets the claws extend before the brain catches up. She looked at Sophia and said something about a performance with Bret Stryker that she should not have said, in a tone that turned compliment into autopsy, with a postscript about dry cleaning that was funny in the way a blade is funny when it's someone else's skin.
+It came out of the warmth of the advice, or the momentum of the evening, or the particular Toreador reflex that says *I am in a room with people who speak my language* and lets the claws extend before the brain catches up. She looked at [Sophia](/npcs/sophia-ayes/) and said something about a performance with Bret Stryker that she should not have said, in a tone that turned compliment into autopsy, with a postscript about dry cleaning that was funny in the way a blade is funny when it's someone else's skin.
 
 The booth went still.
 
@@ -57,7 +57,7 @@ Sophia's body locked and released in a sequence so controlled it looked voluntar
 
 "Bret covered the dry cleaning," she said. "He owed me."
 
-She left. The movement was fluid and final. Not a storm. A departure that made staying look like the weaker choice. At the edge of the booth she looked back at Sir Henry and said, "Tell your friend she's everything you advertised."
+She left. The movement was fluid and final. Not a storm. A departure that made staying look like the weaker choice. At the edge of the booth she looked back at [Sir Henry](/npcs/sir-henry-johnson/) and said, "Tell your friend she's everything you advertised."
 
 Sir Henry watched her go. Turned back to Sable with the naked delight of a man who had just witnessed art — not Sophia's, and not quite Sable's, but the collision itself.
 

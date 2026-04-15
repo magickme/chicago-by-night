@@ -24,7 +24,7 @@ The protests filled the screen. Students. Mothers with photographs. A priest wit
 
 The intercom buzzed. Herman. A package. Very large.
 
-[Roarke](/npcs/roarke/) took [Derek](/npcs/derek-gallen/) downstairs. The lobby was marble and brass and a delivery driver named [Harold](/npcs/harold-tanner/) who wanted to go home. The crate was seven feet long and three feet wide and shaped like exactly what it was shaped like. Two addresses on the label -- billing to the suite, delivery to a warehouse at O'Hare. Wrong destination. [Harold](/npcs/harold-tanner/) wanted a signature. Harold wanted his pot roast.
+[Roarke](/npcs/roarke/) took [Derek](/npcs/derek-gallen/) downstairs. The lobby was marble and brass and a delivery driver named [Harold](/npcs/harold-tanner/) who wanted to go home. The crate was seven feet long and three feet wide and shaped like exactly what it was shaped like. Two addresses on the label -- billing to the suite, delivery to a warehouse at O'Hare. Wrong destination. [Harold](/npcs/harold-tanner/) wanted a signature. [Harold](/npcs/harold-tanner/) wanted his pot roast.
 
 [Roarke](/npcs/roarke/) signed. Sent [Derek](/npcs/derek-gallen/) to O'Hare with the crate and the Cutlass and instructions to keep his mouth shut. Then thirty-two floors of Mantovani back to the suite, where everything was the same as he'd left it except the light outside had gone grey and the lake wind had picked up.
 
