@@ -112,4 +112,4 @@ He drove home on a route he'd never taken. New streets, new turns, random patter
 
 The Cutlass pulled into the alley behind the haven and the engine ticked in the cold and the snow started again. Small dry flakes that collected in the cracks of everything broken, which in Gary was everything. Tomorrow was Tuesday. The call to [Chuc Luc](/npcs/chuc-luc/) was not a report. It was a negotiation.
 
-And the stranger on the rail spur who knew his name and smelled like old leather and spoke in riddles that assembled themselves into truth, that meeting was not what Darius thought it was. He didn't know that yet. He'd know it tomorrow.
+And the stranger on the rail spur who knew his name and smelled like old leather and spoke in riddles that assembled themselves into truth, that meeting was not what [Darius](/darius-cole/) thought it was. He didn't know that yet. He'd know it tomorrow.

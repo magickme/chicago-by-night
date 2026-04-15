@@ -88,7 +88,7 @@ No pulse.
 
 I sat back down. I put my hands flat on my knees and looked at the table.
 
-He kept talking. He said things about the city, about his role in it, about what it meant for me to move through Denver without causing incidents. He named [Klondike](/npcs/robert-klondike/) and I filed it away for later. He said the serum might be retrievable. He said Prestor's research existed somewhere and that finding it was in both our interests.
+He kept talking. He said things about the city, about his role in it, about what it meant for me to move through Denver without causing incidents. He named [Klondike](/npcs/robert-klondike/) and I filed it away for later. He said the serum might be retrievable. He said [Prestor](/npcs/jacob-prestor/)'s research existed somewhere and that finding it was in both our interests.
 
 I listened. The information got filed in the same cold place I'd been filing everything else since I woke up on that floor. I'd process it when I had the processing capacity. Right now that capacity was fully occupied with not doing anything irreversible.
 

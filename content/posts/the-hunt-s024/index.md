@@ -134,7 +134,7 @@ She drove back to the studio at 2:55 to check on the girl. Nisha was awake. Dres
 
 "What's your name?"
 
-"Sable."
+"[Sable](/sable-price/)."
 
 "Thank you, Sable."
 

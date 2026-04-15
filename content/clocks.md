@@ -5,7 +5,7 @@ layout: "page"
 slug: "clocks"
 ---
 
-*Chicago pressure board. Updated: **1991-01-23 (Wednesday night, scene close ~1 AM Thu)**. Session state is authoritative for all clock levels.*
+*Chicago pressure board. Updated: **1991-01-24 (Thursday, both PCs asleep after Wednesday night play). Sable ran the South Side circuit: fed (Claudine Watts, Marie), brokered Bordruff deal (Khalid removes tunnel scout, one question owed), obtained 6-week tunnel map, repaired Sophia Ayes disposition. Darius: Primogen session intel network, Annabelle private line earned. Both sleeping through Thursday**. Session state is authoritative for all clock levels.*
 
 
 

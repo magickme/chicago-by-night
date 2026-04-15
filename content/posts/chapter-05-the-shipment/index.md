@@ -90,9 +90,9 @@ A Gangrel elder. Melded into ancestral earth. Being shipped through Gary Exports
 
 [Lucian](/npcs/lucian/) wasn't running a smuggling operation. He was running an underground railroad. The guns were a side business — currency, payment, the grease that kept the machine turning. The real cargo was the boxes. Ancient Kindred, traveling in their native earth, arriving in the New World through a back door that nobody was watching because nobody thought Gary, Indiana, was worth watching.
 
-Darius pulled back from the ventilation hole. His hands were shaking. Vampires don't shake. He was shaking.
+[Darius](/darius-cole/) pulled back from the ventilation hole. His hands were shaking. Vampires don't shake. He was shaking.
 
-From behind the warehouse, voices. Tony was awake and unhappy about it.
+From behind the warehouse, voices. [Tony](/npcs/tony/) was awake and unhappy about it.
 
 ---
 

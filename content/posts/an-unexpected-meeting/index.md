@@ -51,7 +51,7 @@ Inside, Walt Gryzinski was trying to hold onto his own mind. The legal pads were
 
 Forty minutes. The architecture of control built deeper into the foundation. Nine-fourteenths. Past the midpoint. Walt stood up twice during the session and sat back down without being told. Not because [Darius](/darius-cole/) commanded it. Because the building was becoming load-bearing.
 
-At the [Succubus Club](/locations/succubus-club/), [Critias](/npcs/critias/) came to him in the back corridor. The ancient Brujah walked around the corner and the predatory aura was geological — the weight of something that predated the language Darius thought in.
+At the [Succubus Club](/locations/succubus-club/), [Critias](/npcs/critias/) came to him in the back corridor. The ancient Brujah walked around the corner and the predatory aura was geological — the weight of something that predated the language [Darius](/darius-cole/) thought in.
 
 "The question I find myself asking is whether you did these things because you understood what they would set in motion, or because you didn't."
 

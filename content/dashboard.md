@@ -10,15 +10,15 @@ menu:
       icon: "dots"
 ---
 
-*Chicago Chronicles. Act II: Ashes and Blood. Updated: **1991-01-23 (Wednesday night, scene close ~1 AM Thu)**.*
+*Chicago Chronicles. Act II: Ashes and Blood. Updated: **1991-01-24 (Thursday, both PCs asleep after Wednesday night play). Sable ran the South Side circuit: fed (Claudine Watts, Marie), brokered Bordruff deal (Khalid removes tunnel scout, one question owed), obtained 6-week tunnel map, repaired Sophia Ayes disposition. Darius: Primogen session intel network, Annabelle private line earned. Both sleeping through Thursday**.*
 
 
 
 ## Coterie Snapshot
 
-- 1991-01-23 (Wednesday night, scene close ~1 AM Thu) — Darius worked the Succubus Club during Primogen session. Built intel network: Brennon (dead drop, PI photo), Gengis (Wolf Pack outcome, Inyanga hinge), Horace (Primogen results, Tyrus play). Gifted dead drop intel to Annabelle → private line earned. Fed from 3 blood dolls (full). Lucian channel failed. Primogen: Ballard reprimanded (3-2-1), censure failed, Inyanga abstained.
-- Scenes played: Darius 38, Sable 37, Tomás 2 (77 total + timeskip bluebook Aug-Nov + Dec timeskip). PCs met at Feb 2 Elysium. **COTERIE FORMED (S019, July 22).**
-- Scene-note inventory: Darius 35, Sable 37, Tomás 2 (74 total on disk; S034/S035 are joint scenes with D035/D036).
+- 1991-01-24 (Thursday, both PCs asleep after Wednesday night play). Sable ran the South Side circuit: fed (Claudine Watts, Marie), brokered Bordruff deal (Khalid removes tunnel scout, one question owed), obtained 6-week tunnel map, repaired Sophia Ayes disposition. Darius: Primogen session intel network, Annabelle private line earned. Both sleeping through Thursday — wake at sunset for Critias faculty club 9 PM + Brewery double-header.
+- Scenes played: Darius 38, Sable 38, Tomás 2 (78 total + timeskip bluebook Aug-Nov + Dec timeskip). PCs met at Feb 2 Elysium. **COTERIE FORMED (S019, July 22).**
+- Scene-note inventory: Darius 35, Sable 38, Tomás 2 (75 total on disk; S034/S035 are joint scenes with D035/D036).
 - Sunset: 4:35 PM CST. Sunrise: 7:04 AM CST. Darkness: ~14.5 hours (mid-January).
 - Communications: Chicago protocol seeded. Tue/Fri 11 PM remains the default check-in window, using rotating nodes instead of a fixed haven line. If one node feels watched, move immediately to the next. Horace contact: The Cave, ask for Fred, "chess tournament."
 
@@ -99,4 +99,4 @@ menu:
 | Allicia bond-breaking (remote) | 2x | ACTIVE. Erichtho evaluation done. Carna path. Months in Milwaukee needed. |
 | Ballard's counterattack | 2x | ADVANCING. Greystone Fiduciary mapped. Three properties targeted. Annabelle warned. Coterie holds intercepted intelligence. |
 | Lodin's return | 2x | ACTIVE. Behind closed doors since Primogen session. Neally chairing Wednesday. Anarchs reading weakness. |
-| Denise Price — the mother | 2x | CRITICAL S036. Sabbat scout feeding floor-by-floor west to east (714 Nov, 709 Jan) — 718 next in sequence. 2-6 week timeline. Coop deployed (guard + deadbolt). FBI canvassing same floor. Bordruff knows Sable has mortal connection there. |
+| Denise Price — the mother | 2x | ADVANCING S038. Bordruff deal closed — Khalid's team will remove tunnel scout before reaching 718. Timeline TBD (Bordruff's call). Coop still deployed. FBI canvassing ongoing. Clock should tick 2/6 when removal confirmed. |

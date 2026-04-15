@@ -111,7 +111,7 @@ It was in the posture. The quiet arithmetic of a man running numbers that wouldn
 
 [Darius](/darius-cole/) followed him to the hallway. The predatory aura hit at close range and the cop's step faltered. The back door opened onto an alley. The cop leaned against the brick and reached for a cigarette and [Darius](/darius-cole/) was already there, close, eye contact, and the man stopped reaching.
 
-The blood tasted like want. The specific, material craving of a man who owed something he couldn't return and whose life had already collapsed and was only still standing because nobody had leaned on it yet. Two points. Safe. Darius pulled back and licked the wound closed and the cop slid down the wall to a sitting position, eyes glazed, the dreamy post-Kiss stillness that would clear in a few minutes.
+The blood tasted like want. The specific, material craving of a man who owed something he couldn't return and whose life had already collapsed and was only still standing because nobody had leaned on it yet. Two points. Safe. [Darius](/darius-cole/) pulled back and licked the wound closed and the cop slid down the wall to a sitting position, eyes glazed, the dreamy post-Kiss stillness that would clear in a few minutes.
 
 He tried again twenty minutes later. North Side street, a woman on a bench outside a closed laundromat — Bulls jersey, manic phase, talking to the street about a lease agreement and a dog and someone named [Derek](/npcs/derek-gallen/). He watched her from the Cutlass and looked for the debt.
 

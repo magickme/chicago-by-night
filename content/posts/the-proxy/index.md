@@ -128,7 +128,7 @@ Then the Prince of Gary.
 
 "Your Grace. The [Lucian](/npcs/lucian/) matter is resolved."
 
-He gave [Modius](/npcs/modius/) the first two layers. Cooperative terms on the waterfront. Feeding rights established. A financial arrangement — two thousand a month, out of Darius's own resources, first of August.
+He gave [Modius](/npcs/modius/) the first two layers. Cooperative terms on the waterfront. Feeding rights established. A financial arrangement — two thousand a month, out of [Darius](/darius-cole/)'s own resources, first of August.
 
 "You're paying this yourself."
 

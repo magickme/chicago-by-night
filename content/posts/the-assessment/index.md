@@ -47,19 +47,19 @@ What followed was the strategy. Attend Wednesday. Be seen. Be gracious. And when
 
 "Use it," [Sir Henry](/npcs/sir-henry-johnson/) said.
 
-And then Sable made her mistake.
+And then [Sable](/sable-price/) made her mistake.
 
 It came out of the warmth of the advice, or the momentum of the evening, or the particular Toreador reflex that says *I am in a room with people who speak my language* and lets the claws extend before the brain catches up. She looked at [Sophia](/npcs/sophia-ayes/) and said something about a performance with Bret Stryker that she should not have said, in a tone that turned compliment into autopsy, with a postscript about dry cleaning that was funny in the way a blade is funny when it's someone else's skin.
 
 The booth went still.
 
-Sophia's body locked and released in a sequence so controlled it looked voluntary. The jaw worked — once, twice — the single thing the dancer's discipline couldn't hold. The flat eyes found Sable's and what was behind them was not assessment anymore. It was the banked patience of someone who had been humiliated by better and survived it and did not intend to be humiliated by worse.
+[Sophia](/npcs/sophia-ayes/)'s body locked and released in a sequence so controlled it looked voluntary. The jaw worked — once, twice — the single thing the dancer's discipline couldn't hold. The flat eyes found Sable's and what was behind them was not assessment anymore. It was the banked patience of someone who had been humiliated by better and survived it and did not intend to be humiliated by worse.
 
 "Bret covered the dry cleaning," she said. "He owed me."
 
 She left. The movement was fluid and final. Not a storm. A departure that made staying look like the weaker choice. At the edge of the booth she looked back at [Sir Henry](/npcs/sir-henry-johnson/) and said, "Tell your friend she's everything you advertised."
 
-Sir Henry watched her go. Turned back to Sable with the naked delight of a man who had just witnessed art — not Sophia's, and not quite Sable's, but the collision itself.
+[Sir Henry](/npcs/sir-henry-johnson/) watched her go. Turned back to Sable with the naked delight of a man who had just witnessed art — not Sophia's, and not quite Sable's, but the collision itself.
 
 "Magnificent," he said. "[Annabelle](/npcs/annabelle-triabell/)'s going to hear about that by tomorrow evening and she is going to be absolutely furious with you."
 

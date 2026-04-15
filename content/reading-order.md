@@ -251,11 +251,17 @@ Published scenes from **Chicago Chronicles** in chronological order.
 |---|---|---|---|
 | 76 | [The Delivery](/posts/the-delivery/) | Darius | Jan 22, 1991, 4:35 PM |
 
+### Chapter 12 — The Night's Work
+
+| # | Scene | PC | Date |
+|---|---|---|---|
+| 77 | [The Night's Work](/posts/the-nights-work/) | Sable | Jan 23, 1991, 4:35 PM |
+
 ### Chapter 13 — The Session
 
 | # | Scene | PC | Date |
 |---|---|---|---|
-| 77 | [The Session](/posts/the-session/) | Darius | Jan 23, 1991, 4:35 PM |
+| 78 | [The Session](/posts/the-session/) | Darius | Jan 23, 1991, 4:35 PM |
 
 ---
 

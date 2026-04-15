@@ -226,7 +226,7 @@ She wrote a number on the back of a matchbook from her jacket. The studio line, 
 
 She walked to her car. The cold took the space where she'd been standing and [Darius](/darius-cole/) was alone on a dead street in Miller Beach with a matchbook and a phone number and something he hadn't had five minutes ago.
 
-He drove home. The west-side apartment was dark. He sat at the kitchen table and looked at the matchbook and thought about the woman who wrote it and whether she was running a game on him the same way he was running a game on her, and whether it mattered, and whether the answer to that question was the most dangerous thing that had happened all night. More dangerous than [Danov](/npcs/alexander-danov/)'s gray eyes and Modius's collar adjustment and [Lucian](/npcs/lucian/)'s ancient indifference.
+He drove home. The west-side apartment was dark. He sat at the kitchen table and looked at the matchbook and thought about the woman who wrote it and whether she was running a game on him the same way he was running a game on her, and whether it mattered, and whether the answer to that question was the most dangerous thing that had happened all night. More dangerous than [Danov](/npcs/alexander-danov/)'s gray eyes and [Modius](/npcs/modius/)'s collar adjustment and [Lucian](/npcs/lucian/)'s ancient indifference.
 
 The matchbook sat on the table next to the Polaroid of the unknown man at Dock 7. Two mysteries. One of them might solve the other. Neither of them would solve itself.
 

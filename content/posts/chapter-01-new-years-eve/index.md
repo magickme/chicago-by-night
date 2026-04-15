@@ -88,7 +88,7 @@ When it came, he was ready.
 
 "Well you know me, Ray," [Darius](/darius-cole/) said. "I like to keep my roosters full. Not too full, not enough to not stay mean. But enough to not get stupid. What if I cut your guys a few Christmas checks? Maybe make things a little less tight?"
 
-Ray leaned in. The seam had opened and now Darius was inside it, in the warm dark space where desperate men keep the things they don't tell anyone.
+Ray leaned in. The seam had opened and now [Darius](/darius-cole/) was inside it, in the warm dark space where desperate men keep the things they don't tell anyone.
 
 "Christmas checks? Man, you don't even know. Half the guys are into Sal for—" He stopped. Glanced sideways. Lowered his voice to the register that meant *this is real, this is the thing under the thing.* "There's a guy, Sal Petrocelli. Runs book out of the dispatch office — football, horses, numbers, whatever. Most of the crew owes him. I owe him."
 

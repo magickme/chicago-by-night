@@ -65,7 +65,7 @@ The entrancement broke. [Sable](/sable-price/) came back into her body all at on
 
 She spent the next twenty minutes watching [Annabelle](/npcs/annabelle-triabell/) recover. Three successes on an empathy read gave her the map: [Annabelle](/npcs/annabelle-triabell/) needed witnesses who remembered her response, not the disasters. She wanted [Sophia](/npcs/sophia-ayes/) punished through social censure, not destruction. She loved the piano — her hands drifted to it between conversations the way another woman might reach for a lover's hand. She hated being managed. The tell was in the left hand: open meant warm, closed meant anger, and twice while talking to [Lucina](/npcs/lucina/) both hands closed while her face stayed laughing.
 
-Then Annabelle played the piano and the first four bars came out backwards.
+Then [Annabelle](/npcs/annabelle-triabell/) played the piano and the first four bars came out backwards.
 
 Nevohteeb. Beethoven reversed. The sheet music tampered. Annabelle stopped, read the notation, and turned to face the room with her face porcelain-smooth and her left hand white at the knuckles.
 
@@ -75,7 +75,7 @@ Tamoszius — an older Toreador who had sat alone and bored at a corner table al
 
 [Sable](/sable-price/) found him after the unveiling. Sat without asking. He gave her the theory: four coordinated events, [Drummond](/edgar-drummond/) absent, [Ballard](/ballard/) nowhere near the building. "The music was personal. Whoever reversed that score told her they know where she lives."
 
-She offered him the one thing nobody else in the room could provide: her hands on the sheet music and sixty seconds of his distraction. He walked toward Annabelle with a question about a Modigliani and every eye in the room turned with him. Sable crossed to the piano and touched the page and the room disappeared.
+She offered him the one thing nobody else in the room could provide: her hands on the sheet music and sixty seconds of his distraction. He walked toward Annabelle with a question about a Modigliani and every eye in the room turned with him. [Sable](/sable-price/) crossed to the piano and touched the page and the room disappeared.
 
 [Drummond](/npcs/edgar/)'s hands. Thick fingers, ink-stained, trembling with spite. The smell of machine oil and coal dust. The sound of trains underneath, vibrating through the floor. He was copying the notation backward, note by note, giggling. "Trains are beneath her. TRAINS are beneath HER." Over and over. And underneath that wound, the shadow of a conversation — a dinner, a voice that was warm and slid the insult into the fat man's ear like a coin into a slot. Someone had aimed him.
 

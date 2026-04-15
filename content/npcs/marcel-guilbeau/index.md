@@ -23,6 +23,6 @@ When Prince Doran was murdered (most believe in the 1950s), Marcel moved immedia
 
 Marcel runs an open city, welcoming refugees, but the policy has limits — and limits create power. Everyone who owes their presence in the city owes Marcel.
 
-**The brother:** Marcel almost never speaks Jereaux's name. He makes decisions after spending nights at the plantation. Jereaux is his enforcer, his confessor, and the one thing that could destroy him if it ever became public that the murder of Doran was the brothers' coup.
+**The brother:** Marcel almost never speaks [Jereaux](/npcs/jereaux-guilbeau/)'s name. He makes decisions after spending nights at the plantation. Jereaux is his enforcer, his confessor, and the one thing that could destroy him if it ever became public that the murder of Doran was the brothers' coup.
 
 **Feeds only on young men.** Attractive ones. This is not a secret among the Kindred.

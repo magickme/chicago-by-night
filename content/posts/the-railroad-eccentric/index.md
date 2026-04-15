@@ -89,7 +89,7 @@ He walked back to the chantry. Twenty minutes through empty streets. A police cr
 
 "You've been out."
 
-Tomas sat in the straight-backed chair and delivered the report. The clean report. [Drummond](/npcs/edgar-drummond/), [Ballard](/npcs/ballard/), the ledger, the Primogen session, the emissaries vanishing, [Ballard](/npcs/ballard/)'s counter-search, [Brennon](/npcs/brennon-thornhill/)'s lockdown. Every sentence load-bearing. Every fact sourced. The notebook stayed in his jacket pocket with the gun oil and the [Guadalupe](/npcs/guadalupe-droin/) santo and the name he didn't say.
+[Tomas](/npcs/tomas/) sat in the straight-backed chair and delivered the report. The clean report. [Drummond](/npcs/edgar-drummond/), [Ballard](/npcs/ballard/), the ledger, the Primogen session, the emissaries vanishing, [Ballard](/npcs/ballard/)'s counter-search, [Brennon](/npcs/brennon-thornhill/)'s lockdown. Every sentence load-bearing. Every fact sourced. The notebook stayed in his jacket pocket with the gun oil and the [Guadalupe](/npcs/guadalupe-droin/) santo and the name he didn't say.
 
 [Nicolai](/npcs/nicolai/) listened without interrupting. He said [Ballard](/npcs/ballard/) had been summoned. He said the emissaries were now a priority collection target. He said Cole's generation claim needed independent verification.
 

@@ -86,6 +86,6 @@ Six months. He'd walked past it every night for six months.
 
 He drove home at three in the morning with ten blood points and the name of the company whose building he'd stolen and the knowledge that Cantone's suits were tracing their own paper back to a warehouse someone else was using. The coterie call was tomorrow night. [Sable](/sable-price/) had a skip tracer who could pull incorporation documents from the county recorder. Saturday morning, maybe, the ownership chain would come clear.
 
-Darius sat on the edge of the bed and wrote everything down. The Obfuscate visitor. The surveillance blind. The water. The waymarker. Lakeshore Industrial Services. DeVecchio and Associates. The plate on the wall he'd never looked up to read.
+[Darius](/darius-cole/) sat on the edge of the bed and wrote everything down. The Obfuscate visitor. The surveillance blind. The water. The waymarker. Lakeshore Industrial Services. DeVecchio and Associates. The plate on the wall he'd never looked up to read.
 
 Every ledger has a page you haven't turned yet. The question is whether you find it before someone else reads it to you.

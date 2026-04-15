@@ -13,13 +13,13 @@ description: "The Primogen meets upstairs. Darius works the floor. Every convers
 
 ---
 
-The Succubus Club ran on a different current on Primogen nights. The music was the same industrial grind from the speakers. The mortals on the dance floor still moved under lights that bruised their skin blue and violet. But the Kindred population had shifted. The elders were elsewhere, and what was left on the main floor was everyone who mattered enough to wait.
+The [Succubus Club](/locations/succubus-club/) ran on a different current on Primogen nights. The music was the same industrial grind from the speakers. The mortals on the dance floor still moved under lights that bruised their skin blue and violet. But the Kindred population had shifted. The elders were elsewhere, and what was left on the main floor was everyone who mattered enough to wait.
 
 [Darius](/darius-cole/) parked the Cutlass on Rush Street. Walked in at quarter to ten. [Brennon](/brennon-thornhill/)'s mortal doorman knew his face by now and waved him through without the card.
 
-He read the room from the entrance to the bar. [Brennon Thornhill](/npcs/brennon-thornhill/) behind the rail, polishing glasses with the focus of a man who'd done this for decades and still found satisfaction in clean crystal. Two bouncers at the service stairs — the session was upstairs, behind a door Darius had no invitation to open.
+He read the room from the entrance to the bar. [Brennon Thornhill](/npcs/brennon-thornhill/) behind the rail, polishing glasses with the focus of a man who'd done this for decades and still found satisfaction in clean crystal. Two bouncers at the service stairs — the session was upstairs, behind a door [Darius](/darius-cole/) had no invitation to open.
 
-[Sable](/sable-price/) at a table against the east wall. [Sir Henry](/sir-henry-johnson/) across from her, leaning in, mouth moving in that careful way that meant instruction. Sable was composed. She'd chosen the seat farthest from the dance floor. From the mortals and their pulse.
+[Sable](/sable-price/) at a table against the east wall. [Sir Henry](/sir-henry-johnson/) across from her, leaning in, mouth moving in that careful way that meant instruction. [Sable](/sable-price/) was composed. She'd chosen the seat farthest from the dance floor. From the mortals and their pulse.
 
 [Gengis](/gengis/) at the far end of the bar. Flask of mortal blood on the counter, open, because it offended people. He watched the room the way Darius watched it — cataloguing, filing, reading the colors nobody else could see.
 
@@ -31,7 +31,7 @@ Darius took a stool at the bar. Ordered red wine he wouldn't drink.
 
 ---
 
-"Mr. Cole." Brennon set the glass down. "Quiet Wednesday for you."
+"Mr. Cole." [Brennon](/npcs/brennon-thornhill/) set the glass down. "Quiet Wednesday for you."
 
 "Busy one upstairs."
 
@@ -93,7 +93,7 @@ The smile dropped. "My ghouls got there twenty minutes before the fireworks. Moo
 
 "Your people want accountability. [Inyanga](/npcs/inyanga/) can't deliver it."
 
-"Inyanga can't control the Pack. Everybody knows. [Anthius](/npcs/anthius/) runs his crew out of whatever truck stop they're parked at this week. She goes to council, votes on policy, and the Gangrel ignore her." He set the flask down. "She's weak. A weak Gangrel Primogen is better than whatever [Lodin](/lodin/) picks to replace her. What we want is the Wolf Pack leashed — and if Inyanga can't do it, we want someone to do it for her in a way that puts us in the room when debts get paid."
+"[Inyanga](/npcs/inyanga/) can't control the Pack. Everybody knows. [Anthius](/npcs/anthius/) runs his crew out of whatever truck stop they're parked at this week. She goes to council, votes on policy, and the Gangrel ignore her." He set the flask down. "She's weak. A weak Gangrel Primogen is better than whatever [Lodin](/lodin/) picks to replace her. What we want is the Wolf Pack leashed — and if Inyanga can't do it, we want someone to do it for her in a way that puts us in the room when debts get paid."
 
 ---
 
@@ -109,7 +109,7 @@ He crossed the floor to Sable and [Sir Henry](/npcs/sir-henry-johnson/). Shared 
 
 "[Bordruff](/npcs/nathaniel-bordruff/) at midnight," she said. "Church of Christ, 53rd. I'll be back by one."
 
-She left through the front entrance. Sir Henry watched her go.
+She left through the front entrance. [Sir Henry](/npcs/sir-henry-johnson/) watched her go.
 
 ---
 
@@ -135,11 +135,11 @@ He adjusted the coffee cup. Some private calibration.
 
 "Censure requires four. [Annabelle](/npcs/annabelle-triabell/), [Critias](/critias/), [Khalid](/khalid-al-rashid/) — that's three. The fourth depends on whether Inyanga trades her vote for cover on the Pack situation. If she does, [Ballard](/npcs/ballard/) walks tonight with a reprimand."
 
-Darius processed this. Inyanga's vote was the hinge. The Wolf Pack problem and the Ballard problem were the same lever.
+Darius processed this. Inyanga's vote was the hinge. The Wolf Pack problem and the [Ballard](/npcs/ballard/) problem were the same lever.
 
-"You already knew the pieces," Horace said. "Now. You came to me on a Wednesday night, which means you have something you think I want, or you want something you think I have."
+"You already knew the pieces," [Horace](/npcs/horace/) said. "Now. You came to me on a Wednesday night, which means you have something you think I want, or you want something you think I have."
 
-Darius kept his voice flat. "I'm not calling in the favor from December. But you mentioned Inyanga's vote. And you mentioned [Tyrus](/npcs/tyrus/)'s people making noise. Seems like someone who could pick up a phone and talk to Tyrus — old friend, maybe a betting partner — could solve both problems before the session ends."
+Darius kept his voice flat. "I'm not calling in the favor from December. But you mentioned Inyanga's vote. And you mentioned [Tyrus](/npcs/tyrus/)'s people making noise. Seems like someone who could pick up a phone and talk to [Tyrus](/npcs/tyrus/) — old friend, maybe a betting partner — could solve both problems before the session ends."
 
 He watched Horace's face. Saw everything. The micro-dilation when he said Tyrus. The jaw tightening — the Plotter appetite engaging, the move too elegant to resist. And underneath both, the cold contraction. Horace calculating exits. The paranoia that ran every scenario through a single filter.
 
@@ -177,7 +177,7 @@ Walked back toward the Club.
 
 ---
 
-At 11:38, the service door opened. [Belthazar](/belthazar/) came down first — jaw set, moving toward the entrance without looking at anyone. Then [Neally](/neally-edwards/), straightening his tie, scanning the room. Annabelle next, descending without hurry. [Critias](/npcs/critias/) last. Reading glasses in hand, journal under his arm. He glanced at Darius. One nod.
+At 11:38, the service door opened. [Belthazar](/belthazar/) came down first — jaw set, moving toward the entrance without looking at anyone. Then [Neally](/neally-edwards/), straightening his tie, scanning the room. [Annabelle](/npcs/annabelle-triabell/) next, descending without hurry. [Critias](/npcs/critias/) last. Reading glasses in hand, journal under his arm. He glanced at Darius. One nod.
 
 Annabelle reached the table. Didn't sit. Stood with one hand on the back of Sable's empty chair.
 
@@ -251,7 +251,7 @@ In the back hallway. A room with a couch and a lamp with no shade. She pulled he
 
 He took two mouthfuls and stopped. Copper and adrenaline, then the specific flavor the Ventrue palate reads as insolvency. Unpaid rent. The temp agency. The roommate who left with half the furniture. It pooled on his tongue and he swallowed and the Beast purred.
 
-Rachel brought Lina and Cass. Lina was tall, Filipino, Doc Martens worn smooth at the heel, fresh marks on her wrist. Cass was shorter, freckled under powder, auburn roots showing, a backpack with a sleeping bag bungeed to the outside. Both carried the weight. Lina in her shoulders. Cass in the way she stood near the exit.
+[Rachel](/npcs/rachel/) brought Lina and Cass. Lina was tall, Filipino, Doc Martens worn smooth at the heel, fresh marks on her wrist. Cass was shorter, freckled under powder, auburn roots showing, a backpack with a sleeping bag bungeed to the outside. Both carried the weight. Lina in her shoulders. Cass in the way she stood near the exit.
 
 They qualified.
 
@@ -261,6 +261,6 @@ He left two hundred in mixed bills under the ashtray. Straightened his collar. W
 
 Full. The blood hummed in his veins, thirteen out of thirteen, warm and stolen and exactly what he was built to take.
 
-He drove the Cutlass south toward Pilsen. The city threw its orange sodium light across the windshield and the heater blew dust. A productive Wednesday. The Primogen had spoken and Ballard had walked and the censure had failed and none of it mattered yet because the lever was still in motion — Horace calling Tyrus, Annabelle hunting a courier, Critias waiting for Thursday. The board had more pieces on it than it had this morning and Darius had placed half of them and nobody upstairs knew his name yet.
+He drove the Cutlass south toward Pilsen. The city threw its orange sodium light across the windshield and the heater blew dust. A productive Wednesday. The Primogen had spoken and Ballard had walked and the censure had failed and none of it mattered yet because the lever was still in motion — Horace calling Tyrus, Annabelle hunting a courier, [Critias](/npcs/critias/) waiting for Thursday. The board had more pieces on it than it had this morning and Darius had placed half of them and nobody upstairs knew his name yet.
 
 He parked in the alley behind Kaspar & Sons. Killed the engine. Sat in the dark for a minute, tasting the last of Rachel's blood on the back of his teeth, and waited for Sable to come home.

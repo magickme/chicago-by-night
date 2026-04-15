@@ -112,7 +112,7 @@ Eddie Kowalski, stevedore, three kids, behind on everything. Pete Tran, stevedor
 
 "See you around, Ralph," Eddie said at the door.
 
-Darius grinned Ralph Rego's grin. "[Count](/npcs/the-count/) on it, big guy."
+[Darius](/darius-cole/) grinned Ralph Rego's grin. "[Count](/npcs/the-count/) on it, big guy."
 
 He drove home. The west-side apartment was dark. The check-cashing storefront was closed. He parked the Cutlass, locked the door, checked the blackout curtains, and sat at the kitchen table with [Gregory](/npcs/gregory-stephens/)'s folder spread in front of him and the Polaroid of the unknown man propped against the salt shaker.
 

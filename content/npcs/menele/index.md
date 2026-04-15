@@ -116,7 +116,7 @@ A Coptic jar containing [the Heart](/locations/the-heart/) of Osiris surfaced in
 
 **[Khalid](/npcs/khalid-al-rashid/)** (Nosferatu Primogen) — initially independent. Each Methuselah assumed the other controlled him. In the V20 era, [Critias](/npcs/critias/) claims: "Despite his claims, [Khalid](/npcs/khalid-al-rashid/) is as much a creature of Menele's now as I once was."
 
-**[Ublo-Satha](/npcs/ublo-satha/)** — sleeper agent inside the Tremere. A Gargoyle conditioned by Menele before her transformation — the dormant commands survived the process. Her dual loyalty is unknown to the Tremere hierarchy. She watches [Nicolai](/npcs/nicolai/) (Helena's controlled Tremere Regent) from within the Chantry.
+**[Ublo-Satha](/npcs/ublo-satha/)** — sleeper agent inside the Tremere. A Gargoyle conditioned by Menele before her transformation — the dormant commands survived the process. Her dual loyalty is unknown to the Tremere hierarchy. She watches [Nicolai](/npcs/nicolai/) ([Helena](/npcs/helena/)'s controlled Tremere Regent) from within the Chantry.
 
 **[Annabelle](/npcs/annabelle-triabell/) → [Modius](/npcs/modius/)** — [Annabelle](/npcs/annabelle-triabell/) sired the Prince of Gary. Gary is not exile. Gary is a staging ground.
 

@@ -88,7 +88,7 @@ Then he was through and gone, swallowed by the dark between the docks and the ce
 
 ---
 
-Darius stood in the cold for a long time after [Michael](/npcs/michael/) left. Then he turned and walked into the dispatch office.
+[Darius](/darius-cole/) stood in the cold for a long time after [Michael](/npcs/michael/) left. Then he turned and walked into the dispatch office.
 
 Sal Petrocelli was a small man in a big chair. Late forties. Thinning hair combed over nothing, a polyester shirt that had been white several washes ago, a gold chain that belonged to 1979. He was eating a meatball sub over a racing form and his desk was a spread of carbon-copy betting slips, a rotary phone, an ashtray with three Marlboro butts, and a coffee mug that said WORLD'S GREATEST GRANDPA.
 
@@ -120,7 +120,7 @@ He left. The dispatch office light stayed on behind him. The Cutlass was where h
 
 Driving back to the west side, Darius ran the numbers the way he always did — not the money, but the human calculus, the invisible ledger of who owed what to whom and what it would take to shift the balance.
 
-Michael: saw Darius at the docks, resisted his Presence, rejected his cover story, responded only to raw honesty. Has business with Sal that involves an envelope and happens on a schedule. Won't come to the table yet, but left a door open — *you shouldn't come on Thursdays* — which was either a warning or an invitation, and with Malkavians it was always both.
+[Michael](/npcs/michael/): saw Darius at the docks, resisted his Presence, rejected his cover story, responded only to raw honesty. Has business with Sal that involves an envelope and happens on a schedule. Won't come to the table yet, but left a door open — *you shouldn't come on Thursdays* — which was either a warning or an invitation, and with Malkavians it was always both.
 
 Sal: a closed system. Impervious to charm, impervious to cash, impervious to everything except repetition. The kind of man who needed to see your face in the same place at the same time four or five times before he'd acknowledge you were real. Darius would have to become furniture before he could become a customer.
 

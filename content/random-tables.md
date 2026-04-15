@@ -946,7 +946,7 @@ Use one headline at scene open to add mortal friction unrelated to the Jyhad. Th
 |Allicia bond-breaking (remote)|2x|ACTIVE. Erichtho evaluation done. Carna path. Months in Milwaukee needed.|
 |Ballard's counterattack|2x|ADVANCING. Greystone Fiduciary mapped. Three properties targeted. Annabelle warned. Coterie holds intercepted intelligence.|
 |Lodin's return|2x|ACTIVE. Behind closed doors since Primogen session. Neally chairing Wednesday. Anarchs reading weakness.|
-|Denise Price — the mother|2x|CRITICAL S036. Sabbat scout feeding floor-by-floor west to east (714 Nov, 709 Jan) — 718 next in sequence. 2-6 week timeline. Coop deployed (guard + deadbolt). FBI canvassing same floor. Bordruff knows Sable has mortal connection there.|
+|Denise Price — the mother|2x|ADVANCING S038. Bordruff deal closed — Khalid's team will remove tunnel scout before reaching 718. Timeline TBD (Bordruff's call). Coop still deployed. FBI canvassing ongoing. Clock should tick 2/6 when removal confirmed.|
 |Ghoul management (remote)|1x|ACTIVE. DeShawn, Pete at Kendrick's. Coop DEPLOYED to Robert Taylor (S036). Spoon home. 3 BP/month. Distance = decay risk.|
 |Cover story under scrutiny|1x|OPEN. App 5 memorable. Critias engaged both PCs — profile raised.|
 |Anarch unrest|1x|ADVANCING. Gengis +1. Maldavis +1. Succession talk (Maldavis as candidate). South Side displacement.|
@@ -955,12 +955,13 @@ Use one headline at scene open to add mortal friction unrelated to the Jyhad. Th
 |Sir Henry alliance|1x|DEEPENED S037. Reciprocal trade completed (Gary for Drake). Coached Sable on Wednesday strategy: attend, weaponize clan weakness, don't drink. Advised re Sophia repair. +3.|
 |Tamoszius alliance|1x|NEW S034. 90yr Ballard-watcher. Info exchange deal. Independent Toreador intel channel.|
 |Tomás Navarro — Tremere contact|1x|Met S033. Operational potential. Analyst, not operator.|
-|Wednesday Primogen session|1x|ADVANCING S037. Strategy: attend, be seen, be gracious. Weaponize Toreador entrancement as excuse not to drink toast. Neally chairing — authority questionable (Sir Henry Drake intel). Sophia incident may complicate Annabelle dynamic.|
-|Thursday double-header|1x|NEW D037. Critias faculty club 9 PM (both PCs invited). Relationship building.|
-|Sabbat incursion (tunnel scout)|2x|NEW S036. Scout confirmed under South Side — Sabbat marks, mapping routes north to Succubus Club. Bordruff contact (Wed midnight, Church of Christ, 53rd). Khalid price pending for removal. Spirit's Touch: scout used Presence on victims (Toreador antitribu?). Brand on wrist, red-brown clay (not local), grave-soil scent.|
-|Bordruff / Nosferatu contact|1x|NEW S036. Nathaniel Bordruff, South Side Nosferatu (H0, plays Lodin/Khalid). Intel exchange. Wednesday meeting. Path to Khalid.|
-|Lodin Blood Bond warning|2x|ADVANCING S037. Sir Henry confirms: Lodin CAN'T chair (not won't). Mortal physician on Prince's floor. 2 unknown Kindred visitors (not Chicago). Neally's authority may be hollow. Strategy: attend Wednesday, weaponize Toreador clan weakness as excuse not to drink.|
-|Sophia Ayes — sire politics|1x|NEW S037. Insulted Sophia (Annabelle's childe) publicly at Succubus Club re: Stryker dance. Sophia left hostile (-1). Sir Henry advises: compliment her craft (not beauty) before Wednesday to repair Annabelle's perception. Risk: Annabelle sees Sable as someone who knows where to put the knife.|
+|Wednesday Primogen session|1x|RESOLVED S038/D039. Session held Jan 23. Ballard reprimanded 3-2-1, censure failed. Inyanga abstained. Sable not present (neonate, no obligation). Darius ran the intel play.|
+|Thursday double-header|1x|IMMINENT. Critias faculty club 9 PM tonight (Jan 24). Brewery after 10. Both PCs.|
+|Sabbat incursion (tunnel scout)|2x|ADVANCING S038. Bordruff deal closed. Khalid's people will remove scout. Route map obtained: entry via decommissioned boiler tunnel (south end), cache at junction 3, speculative north route toward South Loop. Scout is Toreador antitribu or similar — Presence-user, brand on wrist, non-local clay.|
+|Bordruff / Nosferatu contact|1x|ESTABLISHED S038. Deal closed. Scout removal in progress. One open question owed to Bordruff within calendar year (off-books, unwitnessed). Bordruff -1 — transactional, sees Sable's access as potentially temporary.|
+|Lodin Blood Bond warning|2x|MONITORING. Session held, Neally chaired (as expected — authority hollow). Bond demand did not materialize at this session. Watch for direct encounter with Lodin when he recovers.|
+|Sophia Ayes — sire politics|1x|ADVANCING S038. Apology delivered at Succubus Club: craft-focused, genuine. Sophia: 0 (from -1). "Don't make me a project." Follow-through needed to solidify.|
+|Claudine Watts — mortal contact|1x|NEW S038. Bass player, Lula's 47th St, Wed/Sat. Fed 3 BP in alley. Gave real haven number. Expects to meet again. South Side touchstone.|
 |Methuselah War|HIDDEN|Helena vs Menele. Coterie = unwitting Menele proxies. Portia at Succubus Club. Tunnel routes north may connect to Club foundations.|
 
 ### Shared Characters
@@ -998,6 +999,8 @@ Use one headline at scene open to add mortal friction unrelated to the Jyhad. Th
 |34|Lucina (Milwaukee)|
 |35|Sophia Ayes|
 |36|Anonymous Elder / "Bus Stop" (Khalid in persona, unknown to Tomás)|
+|37|Claudine Watts (mortal — bass player, Lula's 47th, South Side)|
+|38|Nathaniel Bordruff|
 |37|Brennon Thornhill|
 |38|Raymond Falcon|
 |39|Craig Hessler|

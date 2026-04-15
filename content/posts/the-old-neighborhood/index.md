@@ -117,7 +117,7 @@ He had been tracking the scout for six weeks. She moved floor to floor, west to 
 
 He said: New York, 1968. Three weeks of a scout working the tunnels under the Village. Then one night a pack of eleven walked out of the Hudson Street freight entrance and took a Tremere chantry in six hours. Nobody had seen it coming, or nobody had said they saw it coming, which was the same thing in Chicago.
 
-Sable told him what she'd found. The lair, the arrangement of it, the perfume at both apartments, the Disciplines she'd identified from the attack on Tanya Green — Presence, not Dominate. The willing victim who thought she was choosing. The brand. The clay on the boots.
+[Sable](/sable-price/) told him what she'd found. The lair, the arrangement of it, the perfume at both apartments, the Disciplines she'd identified from the attack on Tanya Green — Presence, not Dominate. The willing victim who thought she was choosing. The brand. The clay on the boots.
 
 [Bordruff](/npcs/nathaniel-bordruff/) filed each detail the way he'd filed ten thousand details before it — without visible reaction, the information going somewhere internal and cold.
 

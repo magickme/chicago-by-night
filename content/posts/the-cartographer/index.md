@@ -112,7 +112,7 @@ The window cracked. The face came up. The eyes found [Darius](/darius-cole/) and
 
 "The fuck you want?"
 
-The eyes. Open. Looking. That was all Darius needed.
+The eyes. Open. Looking. That was all [Darius](/darius-cole/) needed.
 
 The piciotto's hand stopped. His eyes went flat. The jaw slackened under the Bears cap and the cigarette dropped from his lips onto his jacket and he didn't flinch because the man behind the eyes wasn't home anymore.
 

@@ -39,7 +39,7 @@ The Owl was a narrow bar on Blue Island Avenue with a tin ceiling and dead air. 
 
 "Ventrue. Long way from the Palmer House."
 
-Darius didn't sit down. "Caught the Wolf Pack headed to Soldier Field, carrying dynamite. Thought you should know."
+[Darius](/darius-cole/) didn't sit down. "Caught the Wolf Pack headed to Soldier Field, carrying dynamite. Thought you should know."
 
 The room changed. [Gengis](/npcs/gengis/) was already standing. He sent his people --- "Mookie's place, south side of the park, get him out, take the records" --- and they were gone before the door finished swinging. Cold air flooded in. The jukebox played to an empty room.
 

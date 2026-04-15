@@ -94,7 +94,7 @@ Full. The Beast retreated to its corner and went quiet, and [Darius](/darius-col
 
 The hunter was alone. No Inquisition backup, no partner, no institutional support beyond a rental car and a church credit card. He was building his case the way [Darius](/darius-cole/) built his networks: one data point at a time, alone, in the cold, with patience as his primary weapon.
 
-They were the same kind of animal. That was the thing Darius couldn't stop thinking about. Strip away the stake and the gun, the faith and the blood, the scars and the hunger, and what you had was two men in Gary, Indiana, who understood that the way you won was by being the most patient. By watching. By counting intervals. By building the architecture before anyone else knew there was a building going up.
+They were the same kind of animal. That was the thing [Darius](/darius-cole/) couldn't stop thinking about. Strip away the stake and the gun, the faith and the blood, the scars and the hunger, and what you had was two men in Gary, Indiana, who understood that the way you won was by being the most patient. By watching. By counting intervals. By building the architecture before anyone else knew there was a building going up.
 
 The difference was that one of them was alive and one of them was dead, and the dead one was sitting in a parking lot at two in the morning with a bag of gifts for a Malkavian and a napkin in his pocket that said *Gideon Ministries, Inc.*, and the alive one was somewhere in a motel room on the Borman Expressway, sharpening a wooden stake with the calm focus of a man who believed absolutely in what he was doing.
 
