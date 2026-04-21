@@ -118,7 +118,7 @@ He drove home. The west-side apartment was dark. The check-cashing storefront wa
 
 White. Older. Heavy coat. Standing near Dock 7 with the ease of ownership. Not a stevedore. Not a cop. Something else. Someone who belonged at the docks the way [Lucian](/npcs/lucian/) belonged at the docks — because the docks belonged to him.
 
-Darius studied the face until the dawn pressed against the curtains and the weight came down and the blood pulled him toward sleep. He put the Polaroid in the folder and the folder in the bottom drawer of the kitchen cabinet, beneath a stack of fake tax returns for a check-cashing business that had never cashed a check.
+[Darius](/darius-cole/) studied the face until the dawn pressed against the curtains and the weight came down and the blood pulled him toward sleep. He put the Polaroid in the folder and the folder in the bottom drawer of the kitchen cabinet, beneath a stack of fake tax returns for a check-cashing business that had never cashed a check.
 
 Two clocks zeroed. One relationship repaired. Two new faces in the pipeline. And a photograph of a man nobody could identify, taken by a detective who would never remember taking it, in a folder that now belonged to the only person in Gary who understood what all the pieces meant.
 

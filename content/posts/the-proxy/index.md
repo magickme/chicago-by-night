@@ -144,7 +144,7 @@ The line went dead. Princes didn't say goodbye.
 
 The haven at one. Door bolted. Blackout material checked. The manila folder was still on the table where Webb had left it. The quarterly reports. The partnership agreement with its yellow stickies marking lines where Warren Birch's name would go, signed by a hand that was learning to write the name without thinking about it.
 
-Darius sat at the table. The diagram was behind his eyes — the four assets, the connections, the new additions. Three-fourteenths of Webb's will. Five successes of Eddie's memory. A Prince's approval in a tone that said *you are becoming useful*, which was the most dangerous thing a neonate could become in a city where useful people got used.
+[Darius](/darius-cole/) sat at the table. The diagram was behind his eyes — the four assets, the connections, the new additions. Three-fourteenths of Webb's will. Five successes of Eddie's memory. A Prince's approval in a tone that said *you are becoming useful*, which was the most dangerous thing a neonate could become in a city where useful people got used.
 
 He looked at the folder. The folder didn't look back. It sat there with the blankness of a document that didn't know it was evidence of something worse than the sacks in the warehouse or the forty thousand that had bought Eddie Fells — those were transactions, and this was construction, and Darius was building a person the way he built systems, from the inside out, the will as rebar, the identity as concrete, the name as facade.
 

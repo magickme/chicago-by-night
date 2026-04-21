@@ -263,6 +263,12 @@ Published scenes from **Chicago Chronicles** in chronological order.
 |---|---|---|---|
 | 78 | [The Session](/posts/the-session/) | Darius | Jan 23, 1991, 4:35 PM |
 
+### Chapter 14 — The Faculty Club
+
+| # | Scene | PC | Date |
+|---|---|---|---|
+| 79 | [The Faculty Club](/posts/the-faculty-club/) | Darius | Jan 25, 1991, 9:00 PM |
+
 ---
 
 ## Other Chronicles

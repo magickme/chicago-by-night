@@ -55,7 +55,7 @@ At the [Succubus Club](/locations/succubus-club/), [Critias](/npcs/critias/) cam
 
 "The question I find myself asking is whether you did these things because you understood what they would set in motion, or because you didn't."
 
-Darius gave him the honest answer. "I understood what we were doing to [Ballard](/npcs/ballard/). I didn't understand what it would do to everything else." And then the deflection, because a street broker from Gary knows when to stop being interesting: "Frankly, I just want a haven and some cleared hunting grounds and an A-OK to stay in Chicago so I don't have to spend one more day listening to [Modius](/npcs/modius/) drone on about art in Nantes in 1832."
+[Darius](/darius-cole/) gave him the honest answer. "I understood what we were doing to [Ballard](/npcs/ballard/). I didn't understand what it would do to everything else." And then the deflection, because a street broker from Gary knows when to stop being interesting: "Frankly, I just want a haven and some cleared hunting grounds and an A-OK to stay in Chicago so I don't have to spend one more day listening to [Modius](/npcs/modius/) drone on about art in Nantes in 1832."
 
 [Critias](/npcs/critias/)'s face moved. The left corner of his mouth. A millimeter. Possibly the first time in a decade.
 

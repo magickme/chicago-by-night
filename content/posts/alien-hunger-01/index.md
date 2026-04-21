@@ -96,4 +96,4 @@ Outside the windows, somewhere past the city, the sky was starting to think abou
 
 I slept in a room in [Edward](/npcs/sir-edward-scott/) [Williams](/npcs/williams/)' house because there was no longer any version of the night where I drove home and went to bed.
 
-In the morning -- if that's still the word for when I wake up, which is a question I'm choosing not to answer yet -- I would find out what a United National Bank safety deposit box contained and whether "[Liverman](/npcs/dr-roger-liverman/)" was a name that knew what [Jacob](/npcs/jacob-the-glitch/) Prestor had done to me.
+In the morning -- if that's still the word for when I wake up, which is a question I'm choosing not to answer yet -- I would find out what a United National Bank safety deposit box contained and whether "[Liverman](/npcs/dr-roger-liverman/)" was a name that knew what [Jacob](/npcs/jacob-the-glitch/) [Prestor](/npcs/jacob-prestor/) had done to me.

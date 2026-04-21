@@ -21,4 +21,4 @@ DeSoto Embraced [Miguel](/npcs/mickey-contreras/) -- then a small-time bandit in
 
 **Image:** A strapping 6'4" tall, [Miguel](/npcs/mickey-contreras/) is a dynamic figure. His cropped black hair tops a wide face. He has a quick smile and predatory eyes. He almost always dresses casually.
 
-**Secrets:** Miguel suspects "DeSoto" (actually [Sangris](/npcs/sangris/) in DeSoto's body) of harboring dark secrets. The Navigators oppose conspiracies in the Sabbat, including those of the Inquisition. They currently support Archbishop [Valez](/npcs/carolina-valez/), mostly out of distrust of the Black Hand and the Shepherds.
+**Secrets:** [Miguel](/npcs/mickey-contreras/) suspects "DeSoto" (actually [Sangris](/npcs/sangris/) in DeSoto's body) of harboring dark secrets. The Navigators oppose conspiracies in the Sabbat, including those of the Inquisition. They currently support Archbishop [Valez](/npcs/carolina-valez/), mostly out of distrust of the Black Hand and the Shepherds.

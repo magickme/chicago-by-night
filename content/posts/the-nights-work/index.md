@@ -25,7 +25,7 @@ She had been alive thirty-one years and dead one, and she was hungry.
 
 Her name was [Claudine](/npcs/claudine-watts/). She played bass, had done for twelve years, and her guitar player had criticized her tempo in front of the room tonight, which was its own kind of violence.
 
-Sable listened. Not because the Beast told her to — the Beast told her other things, warmer things, things about the pulse jumping in the hollow below Claudine's jaw — but because Claudine was the kind of woman who needed to be listened to and hadn't been, not tonight, and listening cost nothing and the night was cold and they were both standing in it.
+[Sable](/sable-price/) listened. Not because the Beast told her to — the Beast told her other things, warmer things, things about the pulse jumping in the hollow below Claudine's jaw — but because Claudine was the kind of woman who needed to be listened to and hadn't been, not tonight, and listening cost nothing and the night was cold and they were both standing in it.
 
 The alley behind Lula's smelled like old lettuce and frozen brick. Claudine's hand came up slow to the side of Sable's face and Claudine said *I don't do this* with the absolute sincerity of someone who was about to do exactly this, and Sable leaned in and the Kiss was bourbon-warm and the blood came in three long pulls before Sable stopped herself.
 
@@ -71,7 +71,7 @@ She said yes and meant the word and didn't let herself calculate what he'd do wi
 
 On 39th Street a woman named [Marie](/npcs/marie-drichet/) was pushing a city broom down the curb under a streetlight and had a photograph safety-pinned inside the breast pocket of her coveralls — a school portrait, the edge of it visible, a child's face looking straight at the camera with the expression children wore when they'd been told to smile and had decided on something better than a smile.
 
-Marie called her honey when she stopped to give directions, which nobody did anymore, honey as reflex, as automatic grace from a woman who'd been giving it out her whole life in return for nothing much. Sable stood close and took two pulls and stopped and licked it closed and held Marie upright while the dizziness passed and watched her walk back to the truck at the intersection.
+[Marie](/npcs/marie-drichet/) called her honey when she stopped to give directions, which nobody did anymore, honey as reflex, as automatic grace from a woman who'd been giving it out her whole life in return for nothing much. Sable stood close and took two pulls and stopped and licked it closed and held Marie upright while the dizziness passed and watched her walk back to the truck at the intersection.
 
 Two pulls. The photograph in the breast pocket. Marie would finish her shift and go home to whoever was in that picture and she would never think about the woman on 39th Street and Sable would never see her again and it was fine, it was clean, it was the night's work.
 
@@ -89,13 +89,13 @@ The [Succubus Club](/locations/succubus-club/) at 1:15 AM was past the social pe
 
 "I couldn't look away." The truth. "Whoever called it titillation was looking at the wrong thing."
 
-Sophia turned her rocks glass a quarter-turn. Said: *we're not friends, what do you want, don't make me a project.* Said it flat and without decoration, which was how she said everything, the syntax of a woman who'd long since stopped softening the thing she meant to say. It wasn't forgiveness. It was the removal of a debt Sable had been carrying since Monday, replaced with something cooler and more workable: a peer who'd been told the truth and chosen to wait.
+[Sophia](/npcs/sophia-ayes/) turned her rocks glass a quarter-turn. Said: *we're not friends, what do you want, don't make me a project.* Said it flat and without decoration, which was how she said everything, the syntax of a woman who'd long since stopped softening the thing she meant to say. It wasn't forgiveness. It was the removal of a debt Sable had been carrying since Monday, replaced with something cooler and more workable: a peer who'd been told the truth and chosen to wait.
 
 Sable left her alone.
 
 ---
 
-The basement at [Kaspar](/locations/kaspar-and-sons/) was dark and her footsteps on the concrete were the only sound. She unfolded Bordruff's map on the cot and looked at the red ink and the cramped notations and the pencil line going north, and after a while she called up to [Darius](/darius-cole/) and gave him the shape of it — the deal, the terms, the one question owed, the route.
+The basement at [Kaspar](/locations/kaspar-and-sons/) was dark and her footsteps on the concrete were the only sound. She unfolded [Bordruff](/npcs/nathaniel-bordruff/)'s map on the cot and looked at the red ink and the cramped notations and the pencil line going north, and after a while she called up to [Darius](/darius-cole/) and gave him the shape of it — the deal, the terms, the one question owed, the route.
 
 Then she lay down and spent the five points on the damage she'd been carrying since before Bordruff, before Claudine, before the whole circuit of the night, and let the blood do what blood did, and the dark came in and took her.
 

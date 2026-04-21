@@ -98,7 +98,7 @@ They were the same kind of animal. That was the thing [Darius](/darius-cole/) co
 
 The difference was that one of them was alive and one of them was dead, and the dead one was sitting in a parking lot at two in the morning with a bag of gifts for a Malkavian and a napkin in his pocket that said *Gideon Ministries, Inc.*, and the alive one was somewhere in a motel room on the Borman Expressway, sharpening a wooden stake with the calm focus of a man who believed absolutely in what he was doing.
 
-Darius took the paper bag inside. He'd deliver it another night. Not Thursday.
+[Darius](/darius-cole/) took the paper bag inside. He'd deliver it another night. Not Thursday.
 
 He locked the door. Checked the curtains. Sat at the kitchen table with the napkin and his Field Notes notebook and wrote down everything — the Buick, the plates, the mirror checks, the footprint tracking, the stake, the fob, Gideon Ministries — and when he was done he had two pages of operational intelligence on the most dangerous mortal in Gary, Indiana.
 

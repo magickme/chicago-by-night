@@ -123,7 +123,7 @@ He said: New York, 1968. Three weeks of a scout working the tunnels under the Vi
 
 He offered her a Wednesday meeting. After midnight, Church of Christ, 53rd Street. The price for removing the scout would come from above him. "Above" meant [Khalid](/npcs/khalid-al-rashid/).
 
-"[Khalid](/npcs/khalid-al-rashid/) has been watching this for six weeks," Sable said.
+"[Khalid](/npcs/khalid-al-rashid/) has been watching this for six weeks," [Sable](/sable-price/) said.
 
 "[Khalid](/npcs/khalid-al-rashid/) watches a great many things for a great many weeks."
 

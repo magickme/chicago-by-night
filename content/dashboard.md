@@ -10,13 +10,13 @@ menu:
       icon: "dots"
 ---
 
-*Chicago Chronicles. Act II: Ashes and Blood. Updated: **1991-01-24 (Thursday, both PCs asleep after Wednesday night play). Sable ran the South Side circuit: fed (Claudine Watts, Marie), brokered Bordruff deal (Khalid removes tunnel scout, one question owed), obtained 6-week tunnel map, repaired Sophia Ayes disposition. Darius: Primogen session intel network, Annabelle private line earned. Both sleeping through Thursday**.*
+*Chicago Chronicles. Act II: Ashes and Blood. Updated: **1991-01-25 (Friday, both PCs active). Darius: Critias faculty club 9 PM**.*
 
 
 
 ## Coterie Snapshot
 
-- 1991-01-24 (Thursday, both PCs asleep after Wednesday night play). Sable ran the South Side circuit: fed (Claudine Watts, Marie), brokered Bordruff deal (Khalid removes tunnel scout, one question owed), obtained 6-week tunnel map, repaired Sophia Ayes disposition. Darius: Primogen session intel network, Annabelle private line earned. Both sleeping through Thursday — wake at sunset for Critias faculty club 9 PM + Brewery double-header.
+- 1991-01-25 (Friday, both PCs active). Darius: Critias faculty club 9 PM — Socratic dialogue (Thucydides), Critias Disp +3, Inyanga thread identified, Player of Pawns pre-activation. Note from Annabelle mid-meeting: Ballard's counterattack landed tonight on all three properties simultaneously. Darius confirmed via payphone. Coterie check-in 11 PM.
 - Scenes played: Darius 38, Sable 38, Tomás 2 (78 total + timeskip bluebook Aug-Nov + Dec timeskip). PCs met at Feb 2 Elysium. **COTERIE FORMED (S019, July 22).**
 - Scene-note inventory: Darius 35, Sable 38, Tomás 2 (75 total on disk; S034/S035 are joint scenes with D035/D036).
 - Sunset: 4:35 PM CST. Sunrise: 7:04 AM CST. Darkness: ~14.5 hours (mid-January).
@@ -28,9 +28,9 @@ menu:
 |---|---|---|
 | Allicia Alliance | 6/6 | COMPLETE. Erichtho evaluation done. Carna path active. Allicia in Gary. |
 | Ashes to Ashes Progress | 6/6 COMPLETE | D031: Lodin rescued from Hell's Pasture. Roarke destroyed (aged to dust). Cultists scattered. Adventure resolved. |
+| Ballard's Case | 5/6 | D037: Counterattack in motion. D040: All three Annabelle properties hit simultaneously Friday night Jan 25 (Lake Shore lien, Armitage gallery lease, South Michigan subpoena). Annabelle confirmed via payphone — engaged. Ballard's financial instruments are executing. |
 | Dane Identifies Darius | 5/6 | Active hunt. Saw BbF attendees, got plates. In Gary or following. |
 | Torch/Rack Heat | 5/6 | Stabilized. Webb proxy. Dormant while PCs away. |
-| Ballard's Case | 4/6 | D037: Counterattack in motion. Greystone Fiduciary = mortal finance network (LaSalle). Three Annabelle properties targeted (Lake Shore lien, Armitage gallery lease, South Michigan subpoena). Courier network mapped. "Entrée comes Friday." Caitiff cleared off South Side through code enforcement. Coterie intercepted letter — Ballard unaware. |
 | Modius Internal Audit | 4/6 | Blood-taste bomb. Allicia. Offscreen while PCs in Chicago. |
 | Primogen Power Plays | 4/6 | D039: Wednesday session held. Ballard reprimanded 3-2-1 (Annabelle/Critias/Khalid vs Tyler/Neally, Inyanga abstained). Factions hardened. Inyanga = hinge vote. |
 | Docks Heat | 3/6 | Pipeline on autopilot. Eddie granite. |
@@ -81,7 +81,7 @@ menu:
 |---|---|
 | Cover story under scrutiny (2x) | OPEN. Warren Birch built for Gary. Chicago has 100 Kindred with Auspex. Critias engaged D037 — saw past Conformist mask, invited to faculty club. Cover intact but profile raised. |
 | Chuc Luc's pipeline (2x) | OPEN. Sire operates from Chinatown. Capone's territory. Conflict of interest. Greystone maps overlap with pipeline interests. |
-| Chicago court politics (2x) | ADVANCING. Wednesday Primogen session tomorrow (Neally chairing). Critias +2, Gengis +2, Brennon +1. Wolf Pack unauthorized action night before session — political wildcard. Anarchs floating Maldavis for succession. |
+| Chicago court politics (2x) | ADVANCING. Primogen session complete (D039). Critias +3 (D040 faculty club). Gengis +2, Brennon +1. Inyanga thread live — her abstention is cover, not position; her vote available to whoever solves the Wolf Pack problem. Ballard's Case 5/6. |
 | Blood Bond steps (2x) | ACTIVE. Darius Step 1 Menele (D031 frenzy). Lodin forced bond pending. Allicia carryover. |
 | Anarch unrest | ADVANCING. Gengis +2 (Wolf Pack intel D038 — informal debt). Wolf Pack launched unauthorized dynamite run on Brujah safehouse night before Primogen session. Gengis sent ghouls to evacuate "Mookie's place." Outcome unknown. Brewery Thursdays after 10. Succession talk active. |
 | Ballard's counterattack (2x) | ADVANCING. Greystone Fiduciary = mortal finance network (LaSalle). Letter intercepted: 3 Annabelle properties targeted. Courier network mapped (Craig Hessler → Hayward → brownstone). "Entrée comes Friday." Annabelle warned by Sable. Camera at Sherwin-Williams has Darius's face. Forgetful Mind on Craig thin (1 succ). |

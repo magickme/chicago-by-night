@@ -92,7 +92,7 @@ Then he was through and gone, swallowed by the dark between the docks and the ce
 
 Sal Petrocelli was a small man in a big chair. Late forties. Thinning hair combed over nothing, a polyester shirt that had been white several washes ago, a gold chain that belonged to 1979. He was eating a meatball sub over a racing form and his desk was a spread of carbon-copy betting slips, a rotary phone, an ashtray with three Marlboro butts, and a coffee mug that said WORLD'S GREATEST GRANDPA.
 
-Darius read him in the time it took to cross the threshold. Five steps from door to desk, and in those five steps he saw everything. Sal Petrocelli was a man who had found his groove two decades ago and built walls around it. He wasn't afraid. He wasn't greedy. He wasn't ambitious. He was *comfortable*, and comfort was his religion, and any stranger who walked through that door after dark was an infidel until proven otherwise.
+[Darius](/darius-cole/) read him in the time it took to cross the threshold. Five steps from door to desk, and in those five steps he saw everything. Sal Petrocelli was a man who had found his groove two decades ago and built walls around it. He wasn't afraid. He wasn't greedy. He wasn't ambitious. He was *comfortable*, and comfort was his religion, and any stranger who walked through that door after dark was an infidel until proven otherwise.
 
 *Don't dazzle him. Don't offer him a better deal. Be the path of least resistance.*
 
@@ -126,7 +126,7 @@ Sal: a closed system. Impervious to charm, impervious to cash, impervious to eve
 
 The pipeline was stalling. [Chuc Luc](/npcs/chuc-luc/)'s instructions had sounded simple in the restaurant cellar — *get close to the docks, find out how the money moves* — but the docks were a machine with interlocking parts, and every part had its own resistance, its own inertia, its own reason for saying no to strangers.
 
-He'd read them perfectly tonight. Michael, Sal — he'd seen exactly who they were, what they feared, what they needed. The reads were flawless. The execution was not. Knowing a man's thumbscrew and being able to reach it were two different things, and tonight the distance between the knowing and the reaching had felt like miles.
+He'd read them perfectly tonight. [Michael](/npcs/michael/), Sal — he'd seen exactly who they were, what they feared, what they needed. The reads were flawless. The execution was not. Knowing a man's thumbscrew and being able to reach it were two different things, and tonight the distance between the knowing and the reaching had felt like miles.
 
 Darius parked in front of his apartment. The check-cashing storefront was dark. The street was empty. Somewhere a dog barked at nothing.
 

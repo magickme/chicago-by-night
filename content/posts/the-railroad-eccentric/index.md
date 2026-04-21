@@ -95,7 +95,7 @@ He walked back to the chantry. Twenty minutes through empty streets. A police cr
 
 "You've done well tonight. Get some rest."
 
-Tomas walked down the hall to his room. Closed the door. Sat on the cot in the dark.
+[Tomas](/npcs/tomas/) walked down the hall to his room. Closed the door. Sat on the cot in the dark.
 
 Three secrets now. The Toreador woman he couldn't stop looking for. The blood ritual he performed for a stranger in a room under the street. The stranger himself — whoever he was, whatever he wanted, sitting in a chair with a newspaper on his lap and five hundred years of memory behind his eyes.
 

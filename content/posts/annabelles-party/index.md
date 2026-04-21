@@ -67,7 +67,7 @@ She spent the next twenty minutes watching [Annabelle](/npcs/annabelle-triabell/
 
 Then [Annabelle](/npcs/annabelle-triabell/) played the piano and the first four bars came out backwards.
 
-Nevohteeb. Beethoven reversed. The sheet music tampered. Annabelle stopped, read the notation, and turned to face the room with her face porcelain-smooth and her left hand white at the knuckles.
+Nevohteeb. Beethoven reversed. The sheet music tampered. [Annabelle](/npcs/annabelle-triabell/) stopped, read the notation, and turned to face the room with her face porcelain-smooth and her left hand white at the knuckles.
 
 "It appears someone has gone to considerable trouble this evening."
 
@@ -81,7 +81,7 @@ She offered him the one thing nobody else in the room could provide: her hands o
 
 Different hands. A woman. [Staff](/npcs/mickey-contreras/) uniform. She placed the folio at 6:15 PM. She'd been paid. She was thinking about rent.
 
-Sable pulled her hand away. Forty seconds gone. She walked back to Tamoszius's empty table and told him what she'd seen. [Drummond](/npcs/edgar/). The railroad warehouse. Aimed by someone. The trail stopped at [Drummond](/npcs/edgar/)'s hands.
+[Sable](/sable-price/) pulled her hand away. Forty seconds gone. She walked back to Tamoszius's empty table and told him what she'd seen. [Drummond](/npcs/edgar/). The railroad warehouse. Aimed by someone. The trail stopped at [Drummond](/npcs/edgar/)'s hands.
 
 "That's the beauty of the man," Tamoszius said. "He never needs a Discipline when a compliment and a steak will do the job."
 

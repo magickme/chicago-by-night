@@ -96,7 +96,7 @@ He took a drink. When he put the glass down his hand was not entirely steady.
 
 "Thing is, Sal ain't independent. He answers to somebody in Chicago Heights. Italian money. They front Sal, Sal fronts the guys, the guys pay back with interest or they work off the vig doing side jobs — moving containers off-manifest, losing paperwork, that kind of thing."
 
-Ray looked at Darius. The look was half-shrewd and half-drowning.
+Ray looked at [Darius](/darius-cole/). The look was half-shrewd and half-drowning.
 
 "You serious about spreading some money around? Because if you could buy out a few of those markers from Sal... those guys would owe *you* instead. And Sal wouldn't care as long as he gets his cut upstream."
 

@@ -29,5 +29,5 @@ ShowToc: false
 
 ## Physical Read
 
-- The Palace of Westminster needs no description. What matters is what's underneath: reinforced chambers beneath Big Ben, accessible through maintenance tunnels, where Anne maintains a spartan but impregnable haven.
+- The Palace of Westminster needs no description. What matters is what's underneath: reinforced chambers beneath Big Ben, accessible through maintenance tunnels, where [Anne](/npcs/anne-bowesley/) maintains a spartan but impregnable haven.
 - The sound of the great bell marks every hour of her eternal rule.

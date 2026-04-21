@@ -136,7 +136,7 @@ She drove back to the studio at 2:55 to check on the girl. Nisha was awake. Dres
 
 "[Sable](/sable-price/)."
 
-"Thank you, Sable."
+"Thank you, [Sable](/sable-price/)."
 
 "Go inside."
 

@@ -123,6 +123,6 @@ He put the Cutlass in gear and drove back to the Starlite.
 
 Room 9. The radiator clanked. The ice machine cycled. Three moving parts and five days until Wednesday: [Sable](/sable-price/) and [Sir Henry](/npcs/sir-henry-johnson/) at the salon, the driver on the North Side, and the Drake Hotel where a Prince sat in silence with a debt he hadn't acknowledged.
 
-The legal pad sat in his coat pocket. The Tremere had already read it. The counter-op had a third player. And the woman on the bench was still talking to the street and nobody was listening and she owed nothing to anyone and that was the worst debt of all and Darius didn't know why he was thinking about her.
+The legal pad sat in his coat pocket. The Tremere had already read it. The counter-op had a third player. And the woman on the bench was still talking to the street and nobody was listening and she owed nothing to anyone and that was the worst debt of all and [Darius](/darius-cole/) didn't know why he was thinking about her.
 
 He closed his eyes. The radiator clanked.

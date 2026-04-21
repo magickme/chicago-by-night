@@ -27,4 +27,4 @@ An antebellum plantation home on high land west of the city. Well-maintained —
 
 ## Who Controls It
 
-The [Guilbeau](/npcs/jereaux-guilbeau/) family estate. Marcel holds legal title through a trust structure; [Jereaux](/npcs/jereaux-guilbeau/) manages the actual property.
+The [Guilbeau](/npcs/jereaux-guilbeau/) family estate. [Marcel](/npcs/marcel-guilbeau/) holds legal title through a trust structure; [Jereaux](/npcs/jereaux-guilbeau/) manages the actual property.

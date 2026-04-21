@@ -17,7 +17,7 @@ ShowToc: false
 </div>
 </div>
 
-Manages the city's resident list, domains, and Court logistics for [Anne Bowesley](/npcs/anne-bowesley/). [Anne](/npcs/anne-bowesley/)'s three favorite mortal agents report through Scarlett. Nothing reaches [Anne](/npcs/anne-bowesley/) that Scarlett hasn't vetted first, and nothing leaves Anne's court that Scarlett doesn't track.
+Manages the city's resident list, domains, and Court logistics for [Anne Bowesley](/npcs/anne-bowesley/). [Anne](/npcs/anne-bowesley/)'s three favorite mortal agents report through Scarlett. Nothing reaches [Anne](/npcs/anne-bowesley/) that Scarlett hasn't vetted first, and nothing leaves [Anne](/npcs/anne-bowesley/)'s court that Scarlett doesn't track.
 
 The position makes her one of the most informed Kindred in London and one of the most exposed. She knows where every door is because she holds every key.
 

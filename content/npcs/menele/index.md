@@ -138,7 +138,7 @@ As Menele traced the entire history of his Jyhad, a gnawing question arose: *Wer
 
 The thought assailed him and rode his dreams. He plays to ensure his own control, doing everything in his power to prove that he still has free will. The manipulator fears he is being manipulated. The puppet-master suspects he is a puppet.
 
-Beckett, after nearly being Dominated by Helena in the [Succubus Club](/locations/succubus-club/): *"The power required to manipulate three ancient Cainites, not to mention a score of lesser creatures, would be staggering."*
+Beckett, after nearly being Dominated by [Helena](/npcs/helena/) in the [Succubus Club](/locations/succubus-club/): *"The power required to manipulate three ancient Cainites, not to mention a score of lesser creatures, would be staggering."*
 
 **Nature:** Visionary. **Demeanor:** Architect.
 

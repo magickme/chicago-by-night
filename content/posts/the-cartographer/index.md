@@ -116,7 +116,7 @@ The eyes. Open. Looking. That was all [Darius](/darius-cole/) needed.
 
 The piciotto's hand stopped. His eyes went flat. The jaw slackened under the Bears cap and the cigarette dropped from his lips onto his jacket and he didn't flinch because the man behind the eyes wasn't home anymore.
 
-Darius didn't erase the evening. He rebuilt it from the foundation. The piciotto drove to Gary at nine. Parked. Watched the warehouse for three hours. Saw nothing. No lights, no movement, no vehicles. The loading door stayed shut. The access road stayed empty. A dog crossed the road at eleven. At twelve-thirty he got bored, started the engine, and drove south to tell Cantone that the Gary location was cold.
+[Darius](/darius-cole/) didn't erase the evening. He rebuilt it from the foundation. The piciotto drove to Gary at nine. Parked. Watched the warehouse for three hours. Saw nothing. No lights, no movement, no vehicles. The loading door stayed shut. The access road stayed empty. A dog crossed the road at eleven. At twelve-thirty he got bored, started the engine, and drove south to tell Cantone that the Gary location was cold.
 
 The piciotto blinked. Started the engine. Pulled away south toward the highway. Taillights shrinking, then gone.
 
