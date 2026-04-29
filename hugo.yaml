@@ -65,6 +65,10 @@ params:
           url: "/nefer-hotep/"
         - name: "Alien Hunger"
           url: "/alien-hunger/"
+    - heading: "Other Games"
+      items:
+        - name: "Wraith: The Oblivion"
+          url: "/wraith-game-theory/"
     - heading: "Reference"
       items:
         - name: "Threat Clocks"
