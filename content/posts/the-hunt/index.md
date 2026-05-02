@@ -3,7 +3,7 @@ title: "The Hunt — Saturday, 28 July 1990, 8:19 PM"
 date: 1990-07-28T20:19:00
 lastmod: 2026-03-27
 tags: ["forged-in-steel", "sable", "vtm", "gary"]
-categories: ["Chapter 9 — The Hunt"]
+categories: ["Chapter 8 — The Operational"]
 description: "Four nights without blood and the east side of Gary looks like a different city. She finds what she needs in a three-person bar. She finds what she wasn't looking for in a house by the lake."
 ---
 

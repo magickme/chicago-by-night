@@ -3,7 +3,7 @@ title: "The Delivery — Tuesday, 22 January 1991, 4:35 PM"
 date: 1991-01-22T16:35:00
 lastmod: 2026-04-07
 tags: ["ashes-and-blood", "darius", "vtm", "chicago"]
-categories: ["Chapter 11 — The Delivery"]
+categories: ["Chapter 7 — The Machine"]
 description: "A delivery driver on a side street off Wabash. Motorcycles heading south with something that isn't clothes. An Anarch in a back booth who already knows where Darius has been."
 ---
 

@@ -3,7 +3,7 @@ title: "The Knight Moves — Tuesday, January 29, 1991, 5:01 PM"
 date: 1991-01-29T17:01:00
 lastmod: 2026-05-01
 tags: ["ashes-and-blood", "sable", "vtm", "chicago"]
-categories: ["Chapter 18 — The Knight Moves"]
+categories: ["Chapter 8 — Player of Pawns"]
 description: "Annabelle sends Sable to turn a frightened witness in a hotel bar on North Michigan. The witness talks. The drive home has two extra passengers. A Brujah elder in a nightclub corridor names the board she's been standing on for weeks."
 ---
 

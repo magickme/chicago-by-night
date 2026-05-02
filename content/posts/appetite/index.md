@@ -3,7 +3,7 @@ title: "Appetite — Sunday, 6 January 1991, 4:28 PM"
 date: 1991-01-06T16:28:00
 lastmod: 2026-04-02
 tags: ["ashes-and-blood", "sable", "vtm", "chicago"]
-categories: ["Chapter 4 — King's Game"]
+categories: ["Chapter 4 — Clean Hands"]
 description: "Three feeds for sport. A phone call to a prince who thinks he owns her. A woman kicked out at dawn. The distance between wanting to be human and being human is where she lives now."
 ---
 

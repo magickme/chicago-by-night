@@ -3,7 +3,7 @@ title: "The Succubus Club — Thursday, 10 January 1991, 4:28 PM"
 date: 1991-01-10T16:28:00
 lastmod: 2026-04-03
 tags: ["ashes-and-blood", "sable", "vtm", "chicago"]
-categories: ["Chapter 5 — Clean Hands"]
+categories: ["Chapter 4 — Clean Hands"]
 description: "A cabbie saving for a visa. A Tremere who can read every room he enters but can't talk to a bartender. An elder who watched for fifty-two years and did nothing. Sable feeds, meditates in the snow, and walks into a club full of people keeping score."
 ---
 

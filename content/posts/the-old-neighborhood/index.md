@@ -3,7 +3,7 @@ title: "The Old Neighborhood — Sunday, 20 January 1991, 4:35 PM"
 date: 1991-01-20T16:35:00
 lastmod: 2026-04-06
 tags: ["ashes-and-blood", "sable", "vtm", "chicago"]
-categories: ["Chapter 9 — The Underground"]
+categories: ["Chapter 6 — The Underground"]
 description: "MLK Day on the South Side. FBI sedans in the parking lot. Expensive perfume where it doesn't belong. And underneath the projects, something that moves like it owns the dark."
 ---
 

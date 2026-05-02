@@ -3,7 +3,7 @@ title: "New Year's Eve — Sunday, 31 December 1989, 11:47 PM"
 date: 1989-12-31T23:47:00
 lastmod: 2026-03-17
 tags: ["chapter", "darius", "vtm", "forged-in-steel", "gary"]
-categories: ["Chapter 1 — Gary Sandbox"]
+categories: ["Chapter 1 — New Year's Eve"]
 description: "The last night of the decade. Darius works the docks, feeds on Broadway, and finds a name."
 ---
 

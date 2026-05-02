@@ -3,7 +3,7 @@ title: "The Starlite — Friday, 11 January 1991, 4:28 PM"
 date: 1991-01-11T16:28:00
 lastmod: 2026-04-04
 tags: ["ashes-and-blood", "darius", "vtm", "chicago"]
-categories: ["Chapter 5 — Clean Hands"]
+categories: ["Chapter 4 — Clean Hands"]
 description: "A motel room on the South Side. A radiator that clanks every forty seconds. Darius maps an enemy's operation from a straight-backed chair and discovers someone else has been reading his work."
 ---
 

@@ -3,7 +3,7 @@ title: "Annabelle's Party — Wednesday, 16 January 1991, 4:35 PM"
 date: 1991-01-16T16:35:00
 lastmod: 2026-04-04
 tags: ["ashes-and-blood", "sable", "darius", "vtm", "chicago"]
-categories: ["Chapter 6 — Annabelle's Party"]
+categories: ["Chapter 5 — Annabelle's Party"]
 description: "The Toreador Primogen's party. Thirty Kindred, candlelight on brick, four disasters waiting to detonate, and Sable walking in with someone else's secrets in her pocket."
 ---
 

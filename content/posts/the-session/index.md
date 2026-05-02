@@ -3,7 +3,7 @@ title: "The Session — Wednesday, 23 January 1991, 4:35 PM"
 date: 1991-01-23T16:35:00
 lastmod: 2026-04-14
 tags: ["ashes-and-blood", "darius", "vtm", "chicago"]
-categories: ["Chapter 13 — The Session"]
+categories: ["Chapter 7 — The Machine"]
 description: "The Primogen meets upstairs. Darius works the floor. Every conversation is a trade, every silence a position, and the only door that matters is the one he can't open."
 ---
 

@@ -3,7 +3,7 @@ title: "The Mezzanine — Saturday, January 26, 1991, 4:55 PM"
 date: 1991-01-26T16:55:00
 lastmod: 2026-05-01
 tags: ["ashes-and-blood", "darius", "sable", "vtm", "chicago"]
-categories: ["Chapter 15 — The Mezzanine"]
+categories: ["Chapter 7 — The Machine"]
 description: "A mescaline-tripping Ventrue on a balcony railing, and a stranger playing chess with all his teeth showing. The Succubus Club on a Saturday night gives the coterie a boon, a name, and a landlord problem."
 ---
 

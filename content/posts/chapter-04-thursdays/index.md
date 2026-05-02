@@ -3,7 +3,7 @@ title: "Thursdays — Thursday, 11 January 1990, 9:30 PM"
 date: 1990-01-11T21:30:00
 lastmod: 2026-03-17
 tags: ["chapter", "darius", "vtm", "forged-in-steel", "gary"]
-categories: ["Chapter 1 — Gary Sandbox"]
+categories: ["Chapter 1 — New Year's Eve"]
 description: "Darius drives to Telton Cemetery with a gift for a man who isn't home and finds a hunter instead."
 ---
 

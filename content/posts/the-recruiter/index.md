@@ -3,7 +3,7 @@ title: "The Recruiter — Tuesday, 8 January 1991, 4:28 PM"
 date: 1991-01-08T16:28:00
 lastmod: 2026-04-03
 tags: ["ashes-and-blood", "darius", "vtm", "chicago"]
-categories: ["Chapter 5 — Clean Hands"]
+categories: ["Chapter 4 — Clean Hands"]
 description: "A Brujah with a flask of blood and too-sharp eyes gives Darius everything he needs to know about Ballard's frame job. The price is a conversation. The driver's apartment is a fire escape away."
 ---
 

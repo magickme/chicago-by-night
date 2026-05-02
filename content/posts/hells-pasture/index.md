@@ -3,7 +3,7 @@ title: "Hell's Pasture — Friday, 4 January 1991, 4:28 PM"
 date: 1991-01-04T16:28:00
 lastmod: 2026-04-01
 tags: ["ashes-to-ashes", "darius", "sable", "vtm", "ashes-and-blood", "chicago"]
-categories: ["Chapter 3 — Ashes to Ashes, Pt. 2"]
+categories: ["Chapter 3 — Hell's Pasture"]
 description: "A warm vial. A botched hunt. A burning tunnel. The Prince of Chicago wakes up on a dead man's blood and the dead man ages to dust on an amphitheater floor. The investigation ends. The debts begin."
 ---
 

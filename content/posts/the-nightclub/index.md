@@ -3,7 +3,7 @@ title: "The Nightclub — Wednesday, 9 January 1991, 4:28 PM"
 date: 1991-01-09T16:28:00
 lastmod: 2026-04-03
 tags: ["ashes-and-blood", "darius", "sable", "vtm", "chicago"]
-categories: ["Chapter 5 — Clean Hands"]
+categories: ["Chapter 4 — Clean Hands"]
 description: "Darius hunts the club floor while Sable works the phones and the room. Modius gets flattery and a deadline. Sir Henry gets the truth. Everyone gets what they need except Lodin, who gets silence."
 ---
 

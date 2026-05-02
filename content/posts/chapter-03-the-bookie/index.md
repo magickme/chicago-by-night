@@ -3,7 +3,7 @@ title: "The Bookie — Friday, 5 January 1990, 10:15 PM"
 date: 1990-01-05T22:15:00
 lastmod: 2026-03-17
 tags: ["chapter", "darius", "vtm", "forged-in-steel", "gary"]
-categories: ["Chapter 1 — Gary Sandbox"]
+categories: ["Chapter 1 — New Year's Eve"]
 description: "Darius comes to meet the bookie. The Malkavian is already there."
 ---
 

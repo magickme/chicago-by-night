@@ -3,7 +3,7 @@ title: "Fundamental Differences — Wednesday, January 30, 1991, 4:35 PM"
 date: 1991-01-30T16:35:00
 lastmod: 2026-05-01
 tags: ["ashes-and-blood", "darius", "sable", "vtm", "chicago"]
-categories: ["Chapter 20 — Fundamental Differences"]
+categories: ["Chapter 9 — Fundamental Differences"]
 description: "A preacher walks into a nightclub full of predators. The predators flinch first."
 ---
 

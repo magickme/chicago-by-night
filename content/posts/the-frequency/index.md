@@ -3,7 +3,7 @@ title: "The Frequency — Friday, 7 December 1990, 4:25 PM"
 date: 1990-12-07T16:25:00
 lastmod: 2026-03-29
 tags: ["forged-in-steel", "sable", "vtm", "gary"]
-categories: ["Chapter 11 — The Frequency"]
+categories: ["Chapter 9 — December"]
 description: "Five consecutive nights the white van has been on Seventeenth Street. A skip tracer on Ridge Road has a name from a 312 number. Three hours of nothing in a cinderblock room. A payphone call at eleven with the only person in Gary who knows what she is. And a signal system for a party twenty-four days away where everything depends on fifteen minutes of privacy."
 ---
 

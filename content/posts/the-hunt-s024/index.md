@@ -3,7 +3,7 @@ title: "The Pickup — Thursday, 6 December 1990, 4:25 PM"
 date: 1990-12-06T16:25:00
 lastmod: 2026-03-28
 tags: ["forged-in-steel", "sable", "vtm", "gary"]
-categories: ["Chapter 10 — December"]
+categories: ["Chapter 9 — December"]
 description: "A seventeen-year-old pickpocket in a parking lot. A can of soup and a hot bath. Four points of blood that the girl will never know she paid. A phone call to Milwaukee that opens a window. A napkin with a Chicago number and a name that should be buried. And on Seventeenth Street, the man in the white van is walking closer."
 ---
 

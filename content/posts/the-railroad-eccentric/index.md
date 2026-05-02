@@ -3,7 +3,7 @@ title: "The Railroad Eccentric — Thursday, 17 January 1991, 4:35 PM"
 date: 1991-01-17T16:35:01
 lastmod: 2026-04-05
 tags: ["ashes-and-blood", "tomas", "vtm", "chicago"]
-categories: ["Chapter 7 — The Owl"]
+categories: ["Chapter 6 — The Underground"]
 description: "A Tremere intelligence analyst walking south on Clark gets stopped by a crossword clue, an old man who shouldn't be there, and a question about blood that sits outside every chain of command he belongs to."
 ---
 

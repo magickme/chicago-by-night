@@ -3,7 +3,7 @@ title: "Baptism by Fire — Monday, 31 December 1990, 9:00 PM"
 date: 1990-12-31T21:00:00
 lastmod: 2026-03-30
 tags: ["forged-in-steel", "darius", "sable", "vtm", "gary"]
-categories: ["Chapter 12 — Baptism by Fire"]
+categories: ["Chapter 10 — Baptism by Fire"]
 description: "New Year's Eve. Every Kindred in Gary under one roof. Annabelle Triabell arrives in white. Modius performs outrage and chooses compliance. The coterie leaves for Chicago carrying a sealed letter and the knowledge that the bond can break."
 ---
 

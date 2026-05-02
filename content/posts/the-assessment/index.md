@@ -3,7 +3,7 @@ title: "The Assessment — Monday, 21 January 1991, 4:35 PM"
 date: 1991-01-21T16:35:00
 lastmod: 2026-04-06
 tags: ["ashes-and-blood", "sable", "vtm", "chicago"]
-categories: ["Chapter 10 — The Temperature"]
+categories: ["Chapter 6 — The Underground"]
 description: "A quiet Monday at the Succubus Club. Sir Henry has been making inquiries at the Drake. Annabelle's childe has been making assessments of her own."
 ---
 

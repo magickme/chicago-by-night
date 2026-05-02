@@ -18,7 +18,7 @@ Published scenes from **Chicago Chronicles** in chronological order.
 
 *Gary, Indiana. 1990. Darius Cole (Ventrue 10th) and Sable Price (Toreador 9th) navigate the dying city's seven Kindred, one broken Prince, and the machine underneath it all.*
 
-### Chapter 1
+### Chapter 1 — New Year's Eve
 
 *Dec 31, 1989, 11:47 PM through Jun 19, 1990, 9:00 PM.*
 
@@ -112,17 +112,12 @@ Published scenes from **Chicago Chronicles** in chronological order.
 
 ### Chapter 8 — The Operational
 
-*Jul 25, 1990, 8:19 PM through Jul 26, 1990, 8:19 PM.*
+*Jul 25, 1990, 8:19 PM through Jul 28, 1990, 8:19 PM.*
 
 | # | Scene | PC | Date |
 |---|---|---|---|
 | 41 | [The Hunger](/posts/the-hunger/) | Darius | Jul 25, 1990, 8:19 PM |
 | 42 | [The Ledger](/posts/the-ledger/) | Darius | Jul 26, 1990, 8:19 PM |
-
-### Chapter 9 — The Hunt
-
-| # | Scene | PC | Date |
-|---|---|---|---|
 | 43 | [The Hunt](/posts/the-hunt/) | Sable | Jul 28, 1990, 8:19 PM |
 
 ### Interlude — The Long Game
@@ -131,9 +126,9 @@ Published scenes from **Chicago Chronicles** in chronological order.
 |---|---|---|---|
 | 44 | [The Long Game](/posts/the-long-game/) | Darius + Sable | Dec 1, 1990, 4:25 PM |
 
-### Chapter 10 — December
+### Chapter 9 — December
 
-*Dec 2, 1990, 4:25 PM through Dec 6, 1990, 4:25 PM.*
+*Dec 2, 1990, 4:25 PM through Dec 7, 1990, 4:25 PM.*
 
 | # | Scene | PC | Date |
 |---|---|---|---|
@@ -142,14 +137,9 @@ Published scenes from **Chicago Chronicles** in chronological order.
 | 47 | [The Spur](/posts/the-spur/) | Darius | Dec 4, 1990, 4:25 PM |
 | 48 | [The Rounds](/posts/the-rounds/) | Sable | Dec 5, 1990, 4:25 PM |
 | 49 | [The Pickup](/posts/the-hunt-s024/) | Sable | Dec 6, 1990, 4:25 PM |
-
-### Chapter 11 — The Frequency
-
-| # | Scene | PC | Date |
-|---|---|---|---|
 | 50 | [The Frequency](/posts/the-frequency/) | Sable | Dec 7, 1990, 4:25 PM |
 
-### Chapter 12 — Baptism by Fire
+### Chapter 10 — Baptism by Fire
 
 *Dec 18, 1990 through Dec 31, 1990, 9:00 PM.*
 
@@ -177,42 +167,37 @@ Published scenes from **Chicago Chronicles** in chronological order.
 
 ### Chapter 2 — Pawns in the Game
 
-*Jan 3, 1991 through Jan 3, 1991, 5:00 AM.*
+*London, 1969.*
 
 | # | Scene | PC | Date |
 |---|---|---|---|
-| 57 | [At Ease In The Windy City](/posts/at-ease-in-the-windy-city/) | Chronicle | Jan 3, 1991 |
-| 58 | [The Trip](/posts/the-trip/) | Chronicle | Jan 3, 1991, 1:00 AM |
-| 59 | [Settling In](/posts/settling-in/) | Chronicle | Jan 3, 1991, 2:00 AM |
-| 60 | [Pawns In The Game](/posts/pawns-in-the-game/) | Chronicle | Jan 3, 1991, 3:00 AM |
-| 61 | [The Auction](/posts/the-auction/) | Chronicle | Jan 3, 1991, 4:00 AM |
-| 62 | [Fools Errand](/posts/fools-errand/) | Chronicle | Jan 3, 1991, 5:00 AM |
+| 57 | [At Ease In The Windy City](/posts/at-ease-in-the-windy-city/) | Roarke | Jan 3, 1991 |
+| 58 | [The Trip](/posts/the-trip/) | Roarke | Jan 3, 1991, 1:00 AM |
+| 59 | [Settling In](/posts/settling-in/) | Roarke | Jan 3, 1991, 2:00 AM |
+| 60 | [Pawns In The Game](/posts/pawns-in-the-game/) | Roarke | Jan 3, 1991, 3:00 AM |
+| 61 | [The Auction](/posts/the-auction/) | Roarke | Jan 3, 1991, 4:00 AM |
+| 62 | [Fools Errand](/posts/fools-errand/) | Roarke | Jan 3, 1991, 5:00 AM |
 
-### Chapter 3 — Ashes to Ashes
+### Chapter 3 — Hell's Pasture
 
 | # | Scene | PC | Date |
 |---|---|---|---|
 | 63 | [Hell's Pasture](/posts/hells-pasture/) | Darius + Sable | Jan 4, 1991, 4:28 PM |
 
-### Chapter 4 — King's Game
+### Chapter 4 — Clean Hands
+
+*Jan 6, 1991, 4:28 PM through Jan 11, 1991, 4:28 PM.*
 
 | # | Scene | PC | Date |
 |---|---|---|---|
 | 64 | [Appetite](/posts/appetite/) | Sable | Jan 6, 1991, 4:28 PM |
-
-### Chapter 5 — Clean Hands
-
-*Jan 8, 1991, 4:28 PM through Jan 11, 1991, 4:28 PM.*
-
-| # | Scene | PC | Date |
-|---|---|---|---|
 | 65 | [The Recruiter](/posts/the-recruiter/) | Darius | Jan 8, 1991, 4:28 PM |
 | 66 | [The Nightclub](/posts/the-nightclub/) | Darius + Sable | Jan 9, 1991, 4:28 PM |
 | 67 | [The Succubus Club](/posts/the-succubus-club/) | Sable | Jan 10, 1991, 4:28 PM |
-| 68 | [T001 The Debrief](/posts/t001-the-debrief/) | Chronicle | Jan 10, 1991, 4:28 PM |
+| 68 | [The Apprentice](/posts/the-apprentice/) | Tomas | Jan 10, 1991, 4:28 PM |
 | 69 | [The Starlite](/posts/the-starlite/) | Darius | Jan 11, 1991, 4:28 PM |
 
-### Chapter 6 — Annabelle's Party
+### Chapter 5 — Annabelle's Party
 
 *Jan 16, 1991, 4:35 PM through Jan 17, 1991.*
 
@@ -221,91 +206,47 @@ Published scenes from **Chicago Chronicles** in chronological order.
 | 70 | [Annabelles Party](/posts/annabelles-party/) | Darius + Sable | Jan 16, 1991, 4:35 PM |
 | 71 | [The Rail Baron](/posts/the-rail-baron/) | Darius + Sable | Jan 17, 1991 |
 
-### Chapter 7 — The Owl
+### Chapter 6 — The Underground
+
+*Jan 17, 1991, 4:35 PM through Jan 21, 1991, 4:35 PM.*
 
 | # | Scene | PC | Date |
 |---|---|---|---|
-| 72 | [The Railroad Eccentric](/posts/the-railroad-eccentric/) | Chronicle | Jan 17, 1991, 4:35 PM |
-
-### Chapter 8 — The Labyrinth
-
-| # | Scene | PC | Date |
-|---|---|---|---|
+| 72 | [The Railroad Eccentric](/posts/the-railroad-eccentric/) | Tomas | Jan 17, 1991, 4:35 PM |
 | 73 | [An Unexpected Meeting](/posts/an-unexpected-meeting/) | Darius | Jan 18, 1991, 4:35 PM |
-
-### Chapter 9 — The Underground
-
-| # | Scene | PC | Date |
-|---|---|---|---|
 | 74 | [The Old Neighborhood](/posts/the-old-neighborhood/) | Sable | Jan 20, 1991, 4:35 PM |
-
-### Chapter 10 — The Temperature
-
-| # | Scene | PC | Date |
-|---|---|---|---|
 | 75 | [The Assessment](/posts/the-assessment/) | Sable | Jan 21, 1991, 4:35 PM |
 
-### Chapter 11 — The Delivery
+### Chapter 7 — The Machine
+
+*Jan 22, 1991, 4:35 PM through Jan 28, 1991, 4:58 PM.*
 
 | # | Scene | PC | Date |
 |---|---|---|---|
 | 76 | [The Delivery](/posts/the-delivery/) | Darius | Jan 22, 1991, 4:35 PM |
-
-### Chapter 12 — The Night's Work
-
-| # | Scene | PC | Date |
-|---|---|---|---|
 | 77 | [The Night's Work](/posts/the-nights-work/) | Sable | Jan 23, 1991, 4:35 PM |
-
-### Chapter 13 — The Session
-
-| # | Scene | PC | Date |
-|---|---|---|---|
 | 78 | [The Session](/posts/the-session/) | Darius | Jan 23, 1991, 4:35 PM |
-
-### Chapter 14 — The Faculty Club
-
-| # | Scene | PC | Date |
-|---|---|---|---|
 | 79 | [The Faculty Club](/posts/the-faculty-club/) | Darius | Jan 25, 1991, 9:00 PM |
-
-### Chapter 15 — The Mezzanine
-
-| # | Scene | PC | Date |
-|---|---|---|---|
 | 80 | [The Mezzanine](/posts/the-mezzanine/) | Darius + Sable | Jan 26, 1991, 4:55 PM |
-
-### Chapter 16 — Another Move
-
-| # | Scene | PC | Date |
-|---|---|---|---|
 | 81 | [Another Move](/posts/another-move/) | Sable | Jan 28, 1991, 4:58 PM |
 
-### Chapter 17 — The Vampire Shaman
+### Chapter 8 — Player of Pawns
+
+*Jan 29, 1991.*
 
 | # | Scene | PC | Date |
 |---|---|---|---|
 | 82 | [The Vampire Shaman](/posts/the-vampire-shaman/) | Darius | Jan 29, 1991, 5:00 PM |
-
-### Chapter 18 — The Knight Moves
-
-| # | Scene | PC | Date |
-|---|---|---|---|
 | 83 | [The Knight Moves](/posts/the-knight-moves/) | Sable | Jan 29, 1991, 5:01 PM |
-
-### Chapter 19 — The Wrath of Dimitri
-
-| # | Scene | PC | Date |
-|---|---|---|---|
 | 84 | [The Wrath of Dimitri](/posts/the-wrath-of-dimitri/) | Darius | Jan 29, 1991, 5:01 PM |
 
-### Chapter 20 — Fundamental Differences
+### Chapter 9 — Fundamental Differences
 
 | # | Scene | PC | Date |
 |---|---|---|---|
 | 85 | [Fundamental Differences](/posts/fundamental-differences/) | Darius + Sable | Jan 30, 1991, 4:35 PM |
 
-### Chapter 21 — The Prince's Court
+### Chapter 10 — The Prince's Court
 
 | # | Scene | PC | Date |
 |---|---|---|---|
@@ -322,4 +263,3 @@ Published scenes from **Chicago Chronicles** in chronological order.
 ### Hell's Highway
 
 - [Hell's Highway](/posts/hells-highway/) — Aug 15, 1987, 10:00 PM
-

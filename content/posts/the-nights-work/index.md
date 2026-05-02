@@ -3,7 +3,7 @@ title: "The Night's Work — Wednesday, 23 January 1991, 4:35 PM"
 date: 1991-01-23T16:35:00
 lastmod: 2026-04-15
 tags: ["ashes-and-blood", "sable", "vtm", "chicago"]
-categories: ["Chapter 12 — The Night's Work"]
+categories: ["Chapter 7 — The Machine"]
 description: "A bass player outside a jazz bar. A Nosferatu in a church basement with a map of everything underground. The night moves through a feeding, a deal, an apology, and a debt settled — all before Thursday."
 ---
 

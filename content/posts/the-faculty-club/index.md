@@ -3,7 +3,7 @@ title: "The Faculty Club — Friday, January 25, 1991"
 date: 1991-01-25T21:00:00
 lastmod: 2026-04-21
 tags: ["ashes-and-blood", "darius", "vtm", "chicago"]
-categories: ["Chapter 14 — The Faculty Club"]
+categories: ["Chapter 7 — The Machine"]
 description: "Darius meets Critias at the Quadrangle Club for a Socratic dialogue about Thucydides. The conversation goes somewhere neither of them planned."
 ---
 

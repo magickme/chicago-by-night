@@ -3,7 +3,7 @@ title: "The Prince's Court — Thursday, January 31, 1991, 5:02 PM"
 date: 1991-01-31T17:02:00
 lastmod: 2026-05-01
 tags: ["ashes-and-blood", "darius", "sable", "tomas", "vtm", "chicago"]
-categories: ["Chapter 21 — The Prince's Court"]
+categories: ["Chapter 10 — The Prince's Court"]
 description: "Lodin resurfaces. The coterie is summoned to the Drake. Three neonates stand before a table of elders, receive a domain, and afterward, in a basement in Pilsen, choose each other."
 ---
 

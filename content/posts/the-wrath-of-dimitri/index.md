@@ -3,7 +3,7 @@ title: "The Wrath of Dimitri — Tuesday, January 29, 1991, 5:01 PM"
 date: 1991-01-29T17:01:00
 lastmod: 2026-05-01
 tags: ["ashes-and-blood", "darius", "vtm", "chicago"]
-categories: ["Chapter 19 — The Wrath of Dimitri"]
+categories: ["Chapter 8 — Player of Pawns"]
 description: "Annabelle lays out four options. Darius picks the one that costs him nothing except being in the room when six hundred years of patience runs out."
 ---
 

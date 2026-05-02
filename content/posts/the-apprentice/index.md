@@ -1,9 +1,10 @@
 ---
-title: "The Debrief — Thursday, 10 January 1991, 4:28 PM"
+title: "The Apprentice — Thursday, 10 January 1991, 4:28 PM"
+slug: "the-apprentice"
 date: 1991-01-10T16:28:01
-lastmod: 2026-04-03
+lastmod: 2026-05-01
 tags: ["ashes-and-blood", "tomas", "vtm", "chicago"]
-categories: ["Chapter 5 — Clean Hands"]
+categories: ["Chapter 4 — Clean Hands"]
 description: "A Tremere apprentice reports to a seven-hundred-year-old child, goes back to the club for a woman who already left, and spends the rest of the night doing what intelligence professionals do: mapping the machine that owns him."
 ---
 

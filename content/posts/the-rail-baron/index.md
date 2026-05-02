@@ -3,7 +3,7 @@ title: "The Rail Baron — Wednesday, 16 January 1991, 11:30 PM"
 date: 1991-01-17T00:00:00
 lastmod: 2026-04-04
 tags: ["ashes-and-blood", "sable", "darius", "vtm", "chicago"]
-categories: ["Chapter 6 — Annabelle's Party"]
+categories: ["Chapter 5 — Annabelle's Party"]
 description: "A warehouse in the marshalling yards south of Union Station. A fat man with a model railroad and a grudge he thought was his own. Two neonates who know the difference."
 ---
 

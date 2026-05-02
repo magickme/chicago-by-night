@@ -3,7 +3,7 @@ title: "Aftermath — Wednesday, 17 January 1990, 10:00 PM"
 date: 1990-01-17T22:00:00
 lastmod: 2026-03-19
 tags: ["chapter", "darius", "vtm", "forged-in-steel", "gary"]
-categories: ["Chapter 1 — Gary Sandbox"]
+categories: ["Chapter 1 — New Year's Eve"]
 description: "A detective with a notebook. A word in a parking lot. A painter who accepts gifts but not trust. A bar where nobody asks questions."
 ---
 

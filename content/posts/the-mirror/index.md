@@ -3,7 +3,7 @@ title: "The Mirror — Friday, 12 January 1990, 10:00 PM"
 date: 1990-01-12T22:00:00
 lastmod: 2026-03-19
 tags: ["chapter", "sable", "vtm", "forged-in-steel", "gary"]
-categories: ["Chapter 1 — Gary Sandbox"]
+categories: ["Chapter 1 — New Year's Eve"]
 description: "A full tank of blood. A note from a dancer. A prince who wants a spy. A ghost in a black Lincoln."
 ---
 

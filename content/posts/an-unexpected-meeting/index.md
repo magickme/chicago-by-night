@@ -3,7 +3,7 @@ title: "An Unexpected Meeting — Friday, 18 January 1991, 4:35 PM"
 date: 1991-01-18T16:35:00
 lastmod: 2026-04-06
 tags: ["ashes-and-blood", "darius", "vtm", "chicago"]
-categories: ["Chapter 8 — The Labyrinth"]
+categories: ["Chapter 6 — The Underground"]
 description: "A conventioneer at the Palmer House. An envelope in a mailbox. A Caitiff in a Buick. And underneath the Succubus Club, the city's real architecture."
 ---
 
