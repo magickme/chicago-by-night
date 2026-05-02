@@ -101,6 +101,6 @@ Three secrets now. The Toreador woman he couldn't stop looking for. The blood ri
 
 The notebook was under his pillow. The bond map was on one page. [Portia](/npcs/portia/)'s name was on another. The gap between what he'd told [Nicolai](/npcs/nicolai/) and what he knew was the shape of the thing he was becoming, and the thing he was becoming wasn't an analyst anymore.
 
-Mickey Contreras had called him El Buho. The Owl. Sits in the dark, sees everything, speaks only to deliver the verdict. Mickey meant it as a warning. Tomas had taken it as a compliment. He was starting to understand which one Mickey was right about.
+Mickey Contreras had called him El Buho. The Owl. Sits in the dark, sees everything, speaks only to deliver the verdict. Mickey meant it as a warning. [Tomas](/npcs/tomas/) had taken it as a compliment. He was starting to understand which one Mickey was right about.
 
 He closed his eyes and waited for dawn to make the decision for him.

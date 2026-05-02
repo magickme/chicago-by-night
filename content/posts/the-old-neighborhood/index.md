@@ -147,7 +147,7 @@ Then the Kiss.
 
 From the inside, from the receiving end, it felt like being completely and finally seen by someone whose entire attention was warmth. Not pain. Not violation. The surrender felt earned, felt chosen, felt like the most real thing that had happened to Tanya Green in years. That was the worse thing. Not that she'd been killed. That she'd died thinking it was love.
 
-Sable let go of the badge.
+[Sable](/sable-price/) let go of the badge.
 
 *The game found me. I didn't find the game.*
 

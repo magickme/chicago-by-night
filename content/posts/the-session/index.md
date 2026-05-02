@@ -23,7 +23,7 @@ He read the room from the entrance to the bar. [Brennon Thornhill](/npcs/brennon
 
 [Gengis](/gengis/) at the far end of the bar. Flask of mortal blood on the counter, open, because it offended people. He watched the room the way [Darius](/darius-cole/) watched it — cataloguing, filing, reading the colors nobody else could see.
 
-On the mezzanine balcony, a woman Darius had seen twice and never spoken to. Dark hair, olive skin, an expression that could have been boredom or something much older. [Portia](/portia/).
+On the mezzanine balcony, a woman [Darius](/darius-cole/) had seen twice and never spoken to. Dark hair, olive skin, an expression that could have been boredom or something much older. [Portia](/portia/).
 
 Near the DJ booth, a wrongness in the air. A patch where the club lighting bent and kept going.
 
@@ -43,7 +43,7 @@ Darius turned the glass once. "I appreciate what this place does. Neutral ground
 
 "Most people lead with the ask. I'd rather lead with value."
 
-Brennon set the glass on the rail and gave Darius the full weight of his attention.
+[Brennon](/npcs/brennon-thornhill/) set the glass on the rail and gave Darius the full weight of his attention.
 
 "There's a property on Indiana Avenue," Darius said. "Brownstone. Connects to a shell called Greystone Fiduciary Trust. That trust holds paper on at least three properties belonging to someone whose name comes up a lot in this building."
 
@@ -105,7 +105,7 @@ The smell faded over thirty seconds. The wrongness moved three feet closer to th
 
 ---
 
-He crossed the floor to [Sable](/sable-price/) and [Sir Henry](/npcs/sir-henry-johnson/). Shared the dead drop, the PI photo, the Wolf Pack outcome. Sable's hands stayed flat on the table while she listened. Three nights hungry and holding.
+He crossed the floor to [Sable](/sable-price/) and [Sir Henry](/npcs/sir-henry-johnson/). Shared the dead drop, the PI photo, the Wolf Pack outcome. [Sable](/sable-price/)'s hands stayed flat on the table while she listened. Three nights hungry and holding.
 
 "[Bordruff](/npcs/nathaniel-bordruff/) at midnight," she said. "Church of Christ, 53rd. I'll be back by one."
 
@@ -129,7 +129,7 @@ Three minutes. [Horace Turnbull](/horace-turnbull/) came through the back hallwa
 
 Darius didn't confirm. Sat with his hands on the table and waited.
 
-"You're getting better at that. Last time we spoke you gave me three pieces of information before I gave you one." [Horace](/npcs/horace/) pushed the coffee to the side. "Here's what I'll tell you because it costs me nothing. The session has six agenda items and they'll get through four. The bombing is item two. Inyanga will promise to handle the Wolf Pack and nobody will believe her. [Ballard](/ballard/)'s hearing is item four. [Drummond](/npcs/edgar/)'s testimony is on the table. [Annabelle](/annabelle-triabell/) has three Primogen votes to censure."
+"You're getting better at that. Last time we spoke you gave me three pieces of information before I gave you one." [Horace](/npcs/horace/) pushed the coffee to the side. "Here's what I'll tell you because it costs me nothing. The session has six agenda items and they'll get through four. The bombing is item two. [Inyanga](/npcs/inyanga/) will promise to handle the Wolf Pack and nobody will believe her. [Ballard](/ballard/)'s hearing is item four. [Drummond](/npcs/edgar/)'s testimony is on the table. [Annabelle](/annabelle-triabell/) has three Primogen votes to censure."
 
 He adjusted the coffee cup. Some private calibration.
 
@@ -141,11 +141,11 @@ Darius processed this. Inyanga's vote was the hinge. The Wolf Pack problem and t
 
 Darius kept his voice flat. "I'm not calling in the favor from December. But you mentioned Inyanga's vote. And you mentioned [Tyrus](/npcs/tyrus/)'s people making noise. Seems like someone who could pick up a phone and talk to [Tyrus](/npcs/tyrus/) — old friend, maybe a betting partner — could solve both problems before the session ends."
 
-He watched [Horace](/npcs/horace/)'s face. Saw everything. The micro-dilation when he said [Tyrus](/npcs/tyrus/). The jaw tightening — the Plotter appetite engaging, the move too elegant to resist. And underneath both, the cold contraction. Horace calculating exits. The paranoia that ran every scenario through a single filter.
+He watched [Horace](/npcs/horace/)'s face. Saw everything. The micro-dilation when he said [Tyrus](/npcs/tyrus/). The jaw tightening — the Plotter appetite engaging, the move too elegant to resist. And underneath both, the cold contraction. [Horace](/npcs/horace/) calculating exits. The paranoia that ran every scenario through a single filter.
 
 Three seconds. Horace picked up the coffee cup. Drank from it — actually drank, which meant he'd stopped performing.
 
-"I haven't talked to Tyrus in months. Owe him forty dollars from a football bet. Might be a good night to settle up."
+"I haven't talked to [Tyrus](/npcs/tyrus/) in months. Owe him forty dollars from a football bet. Might be a good night to settle up."
 
 "If something useful comes of a private conversation between old friends, I don't expect it to carry fingerprints."
 
@@ -193,7 +193,7 @@ She looked at him. Shoes to collar in a single sweep. "Mr. Cole. The Ventrue. Yo
 
 She pulled out Sable's chair and sat. The table became her audience. [Sir Henry](/npcs/sir-henry-johnson/) adjusted without being asked.
 
-She spoke to Sir Henry but pitched her voice to include Darius. The vote, the abstention, the reprimand. Ballard's proxy authority intact. Inyanga staring at the table for forty-five minutes while [Neally](/npcs/neally-edwards/) ran out the clock.
+She spoke to [Sir Henry](/npcs/sir-henry-johnson/) but pitched her voice to include Darius. The vote, the abstention, the reprimand. [Ballard](/npcs/ballard/)'s proxy authority intact. Inyanga staring at the table for forty-five minutes while [Neally](/npcs/neally-edwards/) ran out the clock.
 
 "The reprimand means nothing. Ballard keeps [Lodin](/npcs/lodin/)'s proxy authority. He will use it to accelerate his counterattack. I needed that censure. What I got was theater."
 
@@ -201,7 +201,7 @@ She let the silence hold. Then her eyes came back to Darius. "Do you have anythi
 
 "There's a table in the back of this club. Four-top by the column. Tuesday evenings, a courier comes in through the front, leaves an envelope, walks out. Different courier each time. The envelope is gone within minutes."
 
-Annabelle's hand stopped on the pearl at her throat.
+[Annabelle](/npcs/annabelle-triabell/)'s hand stopped on the pearl at her throat.
 
 "The last drop was yesterday. The night before tonight's session."
 

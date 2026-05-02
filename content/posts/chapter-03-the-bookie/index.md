@@ -96,7 +96,7 @@ Sal Petrocelli was a small man in a big chair. Late forties. Thinning hair combe
 
 *Don't dazzle him. Don't offer him a better deal. Be the path of least resistance.*
 
-Darius knew the play. He had the read. He opened his mouth and what came out was exactly right — the cadence, the vocabulary, the slightly rough energy of a check-cashing guy from the west side who maybe drank a little too much and watched a little too much football and just wanted to lay a friendly bet.
+[Darius](/darius-cole/) knew the play. He had the read. He opened his mouth and what came out was exactly right — the cadence, the vocabulary, the slightly rough energy of a check-cashing guy from the west side who maybe drank a little too much and watched a little too much football and just wanted to lay a friendly bet.
 
 It didn't work.
 

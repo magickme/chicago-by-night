@@ -120,7 +120,7 @@ The piciotto's hand stopped. His eyes went flat. The jaw slackened under the Bea
 
 The piciotto blinked. Started the engine. Pulled away south toward the highway. Taillights shrinking, then gone.
 
-Darius stood in the lot and listened to the silence the sedan left behind. A dog barked somewhere. The warehouse sat in the dark, holding its product and its secrets and the ghost of an operation that three different organizations thought they owned.
+[Darius](/darius-cole/) stood in the lot and listened to the silence the sedan left behind. A dog barked somewhere. The warehouse sat in the dark, holding its product and its secrets and the ghost of an operation that three different organizations thought they owned.
 
 He walked back to the Cutlass. Started the engine. Drove north through the dead blocks where the streetlights quit and the buildings gave way to lots gave way to the faint edge of inhabited Gary, and the city passed by in the shapes it always made at one in the morning.
 

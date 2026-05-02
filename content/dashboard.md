@@ -10,15 +10,15 @@ menu:
       icon: "dots"
 ---
 
-*Chicago Chronicles. Act II: Ashes and Blood. Updated: **1991-01-25 (Friday, both PCs active). Darius: Critias faculty club 9 PM**.*
+*Chicago Chronicles. Act II: Ashes and Blood. Updated: **1991-01-31 (Thursday). Current snapshot: Joint scene D047/S046 "The Prince's Court" closed late evening Jan 31 ~23:30. Campaign start: NYE 1989. Act II (Ashes and Blood): January 1991+. Baptism by Fire: NYE 1990.**.*
 
 
 
 ## Coterie Snapshot
 
-- 1991-01-25 (Friday, both PCs active). Darius: Critias faculty club 9 PM — Socratic dialogue (Thucydides), Critias Disp +3, Inyanga thread identified, Player of Pawns pre-activation. Note from Annabelle mid-meeting: Ballard's counterattack landed tonight on all three properties simultaneously. Darius confirmed via payphone. Coterie check-in 11 PM.
-- Scenes played: Darius 38, Sable 38, Tomás 2 (78 total + timeskip bluebook Aug-Nov + Dec timeskip). PCs met at Feb 2 Elysium. **COTERIE FORMED (S019, July 22).**
-- Scene-note inventory: Darius 35, Sable 38, Tomás 2 (75 total on disk; S034/S035 are joint scenes with D035/D036).
+- 1991-01-31 (Thursday). Current snapshot: Joint scene D047/S046 "The Prince's Court" closed late evening Jan 31 ~23:30. Campaign start: NYE 1989. Act II (Ashes and Blood): January 1991+. Baptism by Fire: NYE 1990.
+- Scenes played: Darius 43, Sable 46, Tomás 4 (93 total + timeskip bluebook Aug-Nov + Dec timeskip). PCs met at Feb 2 Elysium. **COTERIE FORMED (S019, July 22).** **FORMAL COTERIE PACT (D047/S046).**
+- Scene-note inventory: Darius 38, Sable 40 queued, Tomás 3 (81 total; S034/S035 are joint scenes with D035/D036; D041 is joint with Sable; S042/D043 joint; D046/S045 joint; _transcripts queued for publish).
 - Sunset: 4:35 PM CST. Sunrise: 7:04 AM CST. Darkness: ~14.5 hours (mid-January).
 - Communications: Chicago protocol seeded. Tue/Fri 11 PM remains the default check-in window, using rotating nodes instead of a fixed haven line. If one node feels watched, move immediately to the next. Horace contact: The Cave, ask for Fred, "chess tournament."
 
@@ -32,25 +32,25 @@ menu:
 | Dane Identifies Darius | 5/6 | Active hunt. Saw BbF attendees, got plates. In Gary or following. |
 | Torch/Rack Heat | 5/6 | Stabilized. Webb proxy. Dormant while PCs away. |
 | Modius Internal Audit | 4/6 | Blood-taste bomb. Allicia. Offscreen while PCs in Chicago. |
-| Primogen Power Plays | 4/6 | D039: Wednesday session held. Ballard reprimanded 3-2-1 (Annabelle/Critias/Khalid vs Tyler/Neally, Inyanga abstained). Factions hardened. Inyanga = hinge vote. |
+| Primogen Power Plays | 4/6 | D039: Wednesday session held. Ballard reprimanded 3-2-1 (Annabelle/Critias/Khalid vs Tyler/Neally, Inyanga abstained). Factions hardened. Inyanga = hinge vote. D047: Lodin resurfaced, reasserted formal authority, assigned coterie as direct instruments. Factions recalibrating. |
 | Docks Heat | 3/6 | Pipeline on autopilot. Eddie granite. |
-| Lodin's Grip | 2/6 | S035: Prince presided over emergency Primogen session. Police mobilized around railyards. Drummond delivered. Authority reasserted through institutions. |
+| Lodin's Grip | 3/6 | S035: Prince presided over emergency Primogen session. Police mobilized around railyards. Drummond delivered. Authority reasserted through institutions. D047/S046: Lodin resurfaced (formal Primogen address), assigned coterie as direct operational eyes/ears for Prince, granted domain authority to coterie, publicly reasserted lineage control. Clock advances 2→3/6: Prince reinserting direct control. |
 | Masquerade Heat (Chicago) | 2/6 | D031: 36 cultists witnessed supernatural events at Hell's Pasture (Roarke aging, vampire feeding, Dread Gaze). Scottie wiped (granite). Compound burning. Low-credibility witnesses but high numbers. |
-| Methuselah War | 2/6 HIDDEN | D031: Darius blood-bonded Step 1 to Menele (frenzy over torpored body). Coterie now in Menele's camp — unknowingly. Menele likely orchestrated body recovery + vial frenzy from torpor. Helena's rival has agents. |
+| Methuselah War | 2/6 HIDDEN | D031: Darius blood-bonded Step 1 to Menele (frenzy over torpored body). Coterie now in Menele's camp — unknowingly. Menele likely orchestrated body recovery + vial frenzy from torpor. Helena's rival has agents. D047: Lodin's formal recognition of Darius may complicate Menele's use of him as proxy. |
 | Modius Leash (Darius) | 2/6 | Emissary mission = continued obligation at distance. |
 | Sharon's Vendetta | 2/6 | Proxy Halloran → Warwick → law firm. Sharon is IN CHICAGO. |
 | Anarch Tension | 1/6 | S030: Damien staked Sheriff Belthazar. Coterie interacted with Anarch faction. |
-| Blood Bond Web | 1/6 | D031: Darius consumed Menele's blood (frenzy). Step 1/3. First active bond step from Chicago events. Every sip tracked. |
+| Blood Bond Web | 1/6 | D031: Darius consumed Menele's blood (frenzy). Step 1/3. First active bond step from Chicago events. Every sip tracked. D047: Toast deferred to Act III (Lodin awaiting formal moment; canonical forced bond pending). |
+| Chuc Luc's Chicago Operations | 1/6 NEW | D047/S046: Lodin publicly claimed lineage. Chuc Luc has not heard from Darius in 26 days. Capone household will react to Lodin's public assertion of dominion over Darius. New clock: Chuc Luc's Reckoning (1/6). Darius caught between sire's autonomy conditions (#2: no Chicago Kindred contact) and Lodin's direct authority. |
 | Hunter Convergence (Chicago) | 1/6 | S030: PCs encountered Standdown. Evidence destroyed but he lives with "body walked away." Shepard connected. |
 | Sabbat Infiltration | 1/6 ACTIVE | S036: Scout confirmed in CHA tunnels under Robert Taylor Homes. Mapping routes north toward Succubus Club. Sword-and-chalice marks. Bordruff tracking 6 weeks. Annabelle + Nosferatu aware. Rigaud/Wade still embedded separately. |
 | Succubus Club Heat | 1/6 | D039: Dead drop discovered inside Club (Tuesday couriers, back four-top). Annabelle informed. Ballard operations inside her social territory. |
-| Chuc Luc's Chicago Operations | 0/6 | Pipeline expansion into Capone's territory. |
-| Cover Story Exposure (Chicago) | 0/6 | Warren Birch fiction meets Chicago Auspex. Darius 10th claiming 12th. |
+| Cover Story Exposure (Chicago) | 0/6 RETIRED | Warren Birch fiction made irrelevant. D047/S046: Lodin publicly named Darius's lineage (Capone→Chuc Luc→Darius, 10th gen arithmetic). Cover no longer relevant in Chicago. Clock retired — true identity is now registered with Prince. |
 | Modius Leash (Sable) | 0/6 | CLOSED (S033). Scene alteration (Close Thread). Modius turned inward — Internal Audit consuming attention, leash dropped. Silence, not forgiveness. |
 
 ## Chicago Standing
 
-- Court 2/5 (Recognized): Critias +2 (faculty club). Brennon +2 (dead drop exchange). Annabelle +1 (private line, dead drop gift). Primogen session Wed Jan 23: Ballard reprimanded 3-2-1. Inyanga abstained.
+- Court 2/5 (Recognized): Critias +3 (faculty club + D045). Brennon +3 (Fundamental Differences, promised formal advocacy). Annabelle +1 (private line, dead drop gift). Primogen session Wed Jan 23: Ballard reprimanded 3-2-1. Inyanga abstained.
 - Society 2/5 (Established): Succubus Club explored including Labyrinth. Brennon met. Falcon boon. Sir Henry +3. Toreador social infrastructure mapped.
 - Underworld 0/5 (Unknown): No standing yet with Capone, Chuc Luc's Chicago operators, or the city's criminal brokers
 - Street 1/5 (Emerging): Gengis +1 (Brewery confirmed Thursdays). Maldavis +1 (shared intel, task accepted). Anarch channel open.
@@ -69,7 +69,7 @@ menu:
 - NEW: Prepare for Wednesday Primogen session
 - NEW: Investigate Sabbat tunnel scout / Wednesday Bordruff meeting
 - NEW: Counter Lodin Blood Bond (warned by Annabelle S036)
-- DIRECTION: Advance toward next Succubus Club published adventure; wrap loose threads first
+- DIRECTION: Next scene = Lodin's formal return + coterie presentation to Prince. Caps Act II. Seeds Act III (Blood Bond adventure).
 - NEW: Attend Thursday Critias + Brewery double-header
 - NEW: Secure Kaspar lease (Monday call to Midwest Realty Trust)
 
@@ -93,10 +93,10 @@ menu:
 | Thread | Weight | Status |
 |---|---|---|
 | Payne family threat | 3x | ESCALATED. Sharon IN CHICAGO (proxy: Halloran → Warwick → law firm). Michael absent — in Gary or Chicago? Blood bonded to Sharon. Mutual feud but mutual vengeance. |
-| Annabelle's patronage | 2x | DEEPENED D037. Warned Annabelle about 3 Ballard property attacks. Annabelle owes Sable significantly (+3). Brennon contact established (+1). Major Grace consumed. |
-| Succubus Club politics | 2x | ADVANCING. Labyrinth explored. Brennon met. Critias engaged. Club rhythms mapped. |
+| Annabelle's patronage | 2x | DEEPENED D037. Warned Annabelle about 3 Ballard property attacks. Annabelle owes Sable significantly (+3). Brennon contact established (+1). S044: Delivered Drummond intel (Lakeshore Meridian Partners, Judge Metz). Annabelle received before 11 PM. |
+| Succubus Club politics | 2x | ADVANCING. Labyrinth explored. Brennon met. Critias engaged. Club rhythms mapped. S042: Sophia restored to +3 (intimacy after dressing room feed). S044: Critias +3 (Game briefing, faculty club invite Thu). |
 | Blood Bond steps | 2x | ACTIVE. Darius Step 1 Menele. Lodin forced bond pending. Allicia carryover. |
 | Allicia bond-breaking (remote) | 2x | ACTIVE. Erichtho evaluation done. Carna path. Months in Milwaukee needed. |
-| Ballard's counterattack | 2x | ADVANCING. Greystone Fiduciary mapped. Three properties targeted. Annabelle warned. Coterie holds intercepted intelligence. |
+| Ballard's counterattack | 2x | CLOSED. S044 COMPLETE. Sable turned Drummond. Lakeshore Meridian Partners intel delivered to Annabelle before 11 PM. Ballard's Case clock 5/6 → 6/6 CLOSED. Ballard's counterattack threat neutralized (objective achieved). |
 | Lodin's return | 2x | ACTIVE. Behind closed doors since Primogen session. Neally chairing Wednesday. Anarchs reading weakness. |
 | Denise Price — the mother | 2x | ADVANCING S038. Bordruff deal closed — Khalid's team will remove tunnel scout before reaching 718. Timeline TBD (Bordruff's call). Coop still deployed. FBI canvassing ongoing. Clock should tick 2/6 when removal confirmed. |

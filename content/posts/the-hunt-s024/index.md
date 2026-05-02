@@ -140,7 +140,7 @@ She drove back to the studio at 2:55 to check on the girl. Nisha was awake. Dres
 
 "Go inside."
 
-The porch light went off. The Buick idled at the curb, exhaust rising white in the moonlight, and then Sable drove back to Kendrick's and parked and locked the bay door and sat on the cot in the cinderblock dark with the propane heater clicking and the smell of motor oil and cold metal and the quiet that fills a room when every debt has been paid except the ones that matter.
+The porch light went off. The Buick idled at the curb, exhaust rising white in the moonlight, and then [Sable](/sable-price/) drove back to Kendrick's and parked and locked the bay door and sat on the cot in the cinderblock dark with the propane heater clicking and the smell of motor oil and cold metal and the quiet that fills a room when every debt has been paid except the ones that matter.
 
 The answering machine at the studio was still blinking. She could feel it from here. Not with eyes. With the part of her that kept an inventory of every call unanswered and every name spoken to strangers and every mother standing in a kitchen on the South Side, waiting for a phone to ring.
 

@@ -122,4 +122,4 @@ White. Older. Heavy coat. Standing near Dock 7 with the ease of ownership. Not a
 
 Two clocks zeroed. One relationship repaired. Two new faces in the pipeline. And a photograph of a man nobody could identify, taken by a detective who would never remember taking it, in a folder that now belonged to the only person in Gary who understood what all the pieces meant.
 
-Darius closed his eyes. The apartment was cold. The city was quiet. Somewhere in a Crown Vic on the east side, [Gregory Stephens](/npcs/gregory-stephens/) was driving home from a bar, thinking about nothing, and the nothing felt like relief, and he would never know why.
+[Darius](/darius-cole/) closed his eyes. The apartment was cold. The city was quiet. Somewhere in a Crown Vic on the east side, [Gregory Stephens](/npcs/gregory-stephens/) was driving home from a bar, thinking about nothing, and the nothing felt like relief, and he would never know why.

@@ -146,7 +146,7 @@ The haven at one. Door bolted. Blackout material checked. The manila folder was 
 
 [Darius](/darius-cole/) sat at the table. The diagram was behind his eyes — the four assets, the connections, the new additions. Three-fourteenths of Webb's will. Five successes of Eddie's memory. A Prince's approval in a tone that said *you are becoming useful*, which was the most dangerous thing a neonate could become in a city where useful people got used.
 
-He looked at the folder. The folder didn't look back. It sat there with the blankness of a document that didn't know it was evidence of something worse than the sacks in the warehouse or the forty thousand that had bought Eddie Fells — those were transactions, and this was construction, and Darius was building a person the way he built systems, from the inside out, the will as rebar, the identity as concrete, the name as facade.
+He looked at the folder. The folder didn't look back. It sat there with the blankness of a document that didn't know it was evidence of something worse than the sacks in the warehouse or the forty thousand that had bought Eddie Fells — those were transactions, and this was construction, and [Darius](/darius-cole/) was building a person the way he built systems, from the inside out, the will as rebar, the identity as concrete, the name as facade.
 
 At Humanity seven, the assessment was a filing cabinet. You opened it, placed the thought inside, closed it. The drawer labeled NECESSARY was the largest. The drawer labeled REGRET was the smallest. The ratio between them was the ratio of [Darius Cole](/darius-cole/)'s remaining conscience, and the ratio was shifting, and the shift was so gradual that it felt like stability.
 

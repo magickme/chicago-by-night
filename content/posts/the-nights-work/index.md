@@ -27,7 +27,7 @@ Her name was [Claudine](/npcs/claudine-watts/). She played bass, had done for tw
 
 [Sable](/sable-price/) listened. Not because the Beast told her to — the Beast told her other things, warmer things, things about the pulse jumping in the hollow below Claudine's jaw — but because Claudine was the kind of woman who needed to be listened to and hadn't been, not tonight, and listening cost nothing and the night was cold and they were both standing in it.
 
-The alley behind Lula's smelled like old lettuce and frozen brick. Claudine's hand came up slow to the side of Sable's face and Claudine said *I don't do this* with the absolute sincerity of someone who was about to do exactly this, and Sable leaned in and the Kiss was bourbon-warm and the blood came in three long pulls before Sable stopped herself.
+The alley behind Lula's smelled like old lettuce and frozen brick. Claudine's hand came up slow to the side of [Sable](/sable-price/)'s face and Claudine said *I don't do this* with the absolute sincerity of someone who was about to do exactly this, and Sable leaned in and the Kiss was bourbon-warm and the blood came in three long pulls before Sable stopped herself.
 
 Four was the number she could justify. The Pusher had laid it out with the patient thoroughness of a friend who wanted credit: *four was still safe, four was survival, four was for [Bordruff](/npcs/nathaniel-bordruff/) and the church basement and whatever happened at midnight when a man who hated every vampire he'd ever met decided whether the trade was worth it*. Sable counted to three and stopped.
 
@@ -71,7 +71,7 @@ She said yes and meant the word and didn't let herself calculate what he'd do wi
 
 On 39th Street a woman named [Marie](/npcs/marie-drichet/) was pushing a city broom down the curb under a streetlight and had a photograph safety-pinned inside the breast pocket of her coveralls — a school portrait, the edge of it visible, a child's face looking straight at the camera with the expression children wore when they'd been told to smile and had decided on something better than a smile.
 
-[Marie](/npcs/marie-drichet/) called her honey when she stopped to give directions, which nobody did anymore, honey as reflex, as automatic grace from a woman who'd been giving it out her whole life in return for nothing much. Sable stood close and took two pulls and stopped and licked it closed and held Marie upright while the dizziness passed and watched her walk back to the truck at the intersection.
+[Marie](/npcs/marie-drichet/) called her honey when she stopped to give directions, which nobody did anymore, honey as reflex, as automatic grace from a woman who'd been giving it out her whole life in return for nothing much. Sable stood close and took two pulls and stopped and licked it closed and held [Marie](/npcs/marie-drichet/) upright while the dizziness passed and watched her walk back to the truck at the intersection.
 
 Two pulls. The photograph in the breast pocket. Marie would finish her shift and go home to whoever was in that picture and she would never think about the woman on 39th Street and Sable would never see her again and it was fine, it was clean, it was the night's work.
 
@@ -97,7 +97,7 @@ Sable left her alone.
 
 The basement at [Kaspar](/locations/kaspar-and-sons/) was dark and her footsteps on the concrete were the only sound. She unfolded [Bordruff](/npcs/nathaniel-bordruff/)'s map on the cot and looked at the red ink and the cramped notations and the pencil line going north, and after a while she called up to [Darius](/darius-cole/) and gave him the shape of it — the deal, the terms, the one question owed, the route.
 
-Then she lay down and spent the five points on the damage she'd been carrying since before Bordruff, before Claudine, before the whole circuit of the night, and let the blood do what blood did, and the dark came in and took her.
+Then she lay down and spent the five points on the damage she'd been carrying since before [Bordruff](/npcs/nathaniel-bordruff/), before Claudine, before the whole circuit of the night, and let the blood do what blood did, and the dark came in and took her.
 
 Thursday. [Critias](/npcs/critias/) at nine. [The Brewery](/locations/the-brewery/) after ten.
 

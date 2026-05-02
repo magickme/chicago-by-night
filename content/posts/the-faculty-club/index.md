@@ -7,7 +7,7 @@ categories: ["Chapter 14 — The Faculty Club"]
 description: "Darius meets Critias at the Quadrangle Club for a Socratic dialogue about Thucydides. The conversation goes somewhere neither of them planned."
 ---
 
-*Quadrangle Club, [Hyde Park](/locations/hyde-park/) / Hyde Park payphone*
+*Quadrangle Club, [Hyde Park](/locations/hyde-park/) / [Hyde Park](/locations/hyde-park/) payphone*
 
 *Chicago, Illinois*
 
@@ -17,7 +17,7 @@ The Quadrangle Club had been built to look like a private men's club in a city w
 
 [Darius](/darius-cole/) had been here twice before, sitting in on a friend of a friend's faculty event at forty dollars a plate. He remembered the way the waiters moved: deliberate, invisible between stops. The building knew how to hide people from each other.
 
-The maître d' showed him to a room at the back. Critias was already seated, coffee in front of him, a book open that he closed when Darius came in. He did not stand.
+The maître d' showed him to a room at the back. [Critias](/npcs/critias/) was already seated, coffee in front of him, a book open that he closed when [Darius](/darius-cole/) came in. He did not stand.
 
 "You're early," he said, which meant Darius had arrived on time.
 
@@ -91,7 +91,7 @@ Critias had not looked at the note. He was looking at the book on the table — 
 
 "The [Inyanga](/npcs/inyanga/) situation," he said. "Your read of the abstention was correct, from what I understand of Wednesday's proceedings. The Wolf Pack problem is structural — it will not resolve through negotiation because [Tyrus](/npcs/tyrus/) needs the conflict more than he needs its resolution. The vote that matters is not this week's. It is the one that follows it." He looked up. "What did you make of it?"
 
-Darius told him: the abstention was cover, not position. Inyanga abstained because the bombing gave her an excuse that cost her nothing. She wanted to preserve her vote for a moment when using it would gain her something. The Wolf Pack would solve itself or not — she was watching whether anyone in the room understood that, and neither faction had shown they did.
+Darius told him: the abstention was cover, not position. [Inyanga](/npcs/inyanga/) abstained because the bombing gave her an excuse that cost her nothing. She wanted to preserve her vote for a moment when using it would gain her something. The Wolf Pack would solve itself or not — she was watching whether anyone in the room understood that, and neither faction had shown they did.
 
 Critias listened to the end.
 
@@ -115,7 +115,7 @@ The nearest payphone was a block west on East 58th, in the Regenstein Library lo
 
 ---
 
-Annabelle picked up on the second ring.
+[Annabelle](/npcs/annabelle-triabell/) picked up on the second ring.
 
 He kept it brief. She was more brief. The counterattack had landed — [Ballard](/npcs/ballard/)'s instruments had moved against all three properties simultaneously, inside the same hour. She was already engaged.
 
@@ -127,7 +127,7 @@ Then he found the next payphone and called the coterie node.
 
 [Sable](/sable-price/) answered on the fourth ring.
 
-They kept it under eight minutes. What he'd learned at the faculty club, minus Critias. The note, what Annabelle had confirmed. Whatever Sable had from her end of the night.
+They kept it under eight minutes. What he'd learned at the faculty club, minus Critias. The note, what Annabelle had confirmed. Whatever [Sable](/sable-price/) had from her end of the night.
 
 Tomorrow night they would know more.
 

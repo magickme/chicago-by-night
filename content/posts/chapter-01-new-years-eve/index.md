@@ -108,7 +108,7 @@ Then he drove home.
 
 ---
 
-The haven was a ground-floor apartment on the west side — blackout curtains, steel door, a phone line [Chuc Luc](/npcs/chuc-luc/) had set up and Darius suspected [Chuc Luc](/npcs/chuc-luc/) could tap whenever he wanted. He sat at the kitchen table with his notepad and a cup of coffee he wouldn't drink and wrote down everything.
+The haven was a ground-floor apartment on the west side — blackout curtains, steel door, a phone line [Chuc Luc](/npcs/chuc-luc/) had set up and [Darius](/darius-cole/) suspected [Chuc Luc](/npcs/chuc-luc/) could tap whenever he wanted. He sat at the kitchen table with his notepad and a cup of coffee he wouldn't drink and wrote down everything.
 
 January 14. Dock 7. Three unmarked containers, initials L.C. Two gates — south service gate the best entry. Guard shack manned on normal nights, unmanned on holidays. Camera on the main gate, fogged lens, dead cable. Sal Petrocelli, bookie, dispatch office, fronted by Chicago Heights. Stevedores in debt — leverage available for purchase.
 

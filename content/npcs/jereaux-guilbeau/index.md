@@ -19,6 +19,6 @@ ShowToc: false
 
 Same Embrace event as [Marcel](/npcs/marcel-guilbeau/) — both Embraced by Lothar Constantine after the Civil War. Jereaux Embraced first; he engineered [Marcel](/npcs/marcel-guilbeau/)'s Embrace, then engineered Constantine's "departure." He spent years building [Marcel](/npcs/marcel-guilbeau/)'s position, then vanished from public Kindred life the moment [Marcel](/npcs/marcel-guilbeau/) was crowned.
 
-He is the reason [Marcel](/npcs/marcel-guilbeau/)'s spy network functions so well — [Lawrence Meeks](/npcs/lawrence-meeks/) was Jereaux's connection, and Jereaux arranged [Martin](/npcs/martin-drichet-aaron-carson/)'s appointment as network head. The network serves Marcel politically but serves Jereaux strategically.
+He is the reason [Marcel](/npcs/marcel-guilbeau/)'s spy network functions so well — [Lawrence Meeks](/npcs/lawrence-meeks/) was Jereaux's connection, and Jereaux arranged [Martin](/npcs/martin-drichet-aaron-carson/)'s appointment as network head. The network serves [Marcel](/npcs/marcel-guilbeau/) politically but serves Jereaux strategically.
 
 He lives on the plantation. He reads. He waits. When Marcel sends word, people disappear.

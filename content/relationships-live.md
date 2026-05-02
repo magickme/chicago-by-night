@@ -52,7 +52,7 @@ graph TD
 
 ## Chicago Standing
 
-- Court 2/5 (Recognized): Critias +2 (faculty club). Brennon +2 (dead drop exchange). Annabelle +1 (private line, dead drop gift). Primogen session Wed Jan 23: Ballard reprimanded 3-2-1. Inyanga abstained.
+- Court 2/5 (Recognized): Critias +3 (faculty club + D045). Brennon +3 (Fundamental Differences, promised formal advocacy). Annabelle +1 (private line, dead drop gift). Primogen session Wed Jan 23: Ballard reprimanded 3-2-1. Inyanga abstained.
 - Society 2/5 (Established): Succubus Club explored including Labyrinth. Brennon met. Falcon boon. Sir Henry +3. Toreador social infrastructure mapped.
 - Underworld 0/5 (Unknown): No standing yet with Capone, Chuc Luc's Chicago operators, or the city's criminal brokers
 - Street 1/5 (Emerging): Gengis +1 (Brewery confirmed Thursdays). Maldavis +1 (shared intel, task accepted). Anarch channel open.

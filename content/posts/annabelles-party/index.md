@@ -75,7 +75,7 @@ Tamoszius — an older Toreador who had sat alone and bored at a corner table al
 
 [Sable](/sable-price/) found him after the unveiling. Sat without asking. He gave her the theory: four coordinated events, [Drummond](/edgar-drummond/) absent, [Ballard](/ballard/) nowhere near the building. "The music was personal. Whoever reversed that score told her they know where she lives."
 
-She offered him the one thing nobody else in the room could provide: her hands on the sheet music and sixty seconds of his distraction. He walked toward Annabelle with a question about a Modigliani and every eye in the room turned with him. [Sable](/sable-price/) crossed to the piano and touched the page and the room disappeared.
+She offered him the one thing nobody else in the room could provide: her hands on the sheet music and sixty seconds of his distraction. He walked toward [Annabelle](/npcs/annabelle-triabell/) with a question about a Modigliani and every eye in the room turned with him. [Sable](/sable-price/) crossed to the piano and touched the page and the room disappeared.
 
 [Drummond](/npcs/edgar/)'s hands. Thick fingers, ink-stained, trembling with spite. The smell of machine oil and coal dust. The sound of trains underneath, vibrating through the floor. He was copying the notation backward, note by note, giggling. "Trains are beneath her. TRAINS are beneath HER." Over and over. And underneath that wound, the shadow of a conversation — a dinner, a voice that was warm and slid the insult into the fat man's ear like a coin into a slot. Someone had aimed him.
 
@@ -89,7 +89,7 @@ He gave her his card. She gave him her word. The deal stood.
 
 She found Annabelle in the dressing room behind the stage. Led with the evidence and let the elder connect the dots herself — a railroad warehouse, a man laughing while he wrote, an insult someone made sure he heard. Annabelle reached the conclusion with the speed of a woman who had been building toward it all evening. "That idiot. Someone who was at that dinner."
 
-She gave Sable a second number. Handwritten on the back of a card. "This rings in my haven. Use it once. Use it well."
+She gave [Sable](/sable-price/) a second number. Handwritten on the back of a card. "This rings in my haven. Use it once. Use it well."
 
 And then: "Welcome to Chicago, Sable."
 

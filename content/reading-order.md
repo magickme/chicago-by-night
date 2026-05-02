@@ -269,6 +269,48 @@ Published scenes from **Chicago Chronicles** in chronological order.
 |---|---|---|---|
 | 79 | [The Faculty Club](/posts/the-faculty-club/) | Darius | Jan 25, 1991, 9:00 PM |
 
+### Chapter 19 — The Mezzanine
+
+| # | Scene | PC | Date |
+|---|---|---|---|
+| 80 | [The Mezzanine](/posts/the-mezzanine/) | Darius + Sable | Jan 26, 1991, 4:55 PM |
+
+### Chapter 15 — Another Move
+
+| # | Scene | PC | Date |
+|---|---|---|---|
+| 81 | [Another Move](/posts/another-move/) | Sable | Jan 28, 1991, 4:58 PM |
+
+### Chapter 16 — The Vampire Shaman
+
+| # | Scene | PC | Date |
+|---|---|---|---|
+| 82 | [The Vampire Shaman](/posts/the-vampire-shaman/) | Darius | Jan 29, 1991, 5:00 PM |
+
+### Chapter 17 — The Knight Moves
+
+| # | Scene | PC | Date |
+|---|---|---|---|
+| 83 | [The Knight Moves](/posts/the-knight-moves/) | Sable | Jan 29, 1991, 5:01 PM |
+
+### Chapter 18 — The Wrath of Dimitri
+
+| # | Scene | PC | Date |
+|---|---|---|---|
+| 84 | [The Wrath of Dimitri](/posts/the-wrath-of-dimitri/) | Darius | Jan 29, 1991, 5:01 PM |
+
+### Chapter 20 — Fundamental Differences
+
+| # | Scene | PC | Date |
+|---|---|---|---|
+| 85 | [Fundamental Differences](/posts/fundamental-differences/) | Darius + Sable | Jan 30, 1991, 4:35 PM |
+
+### Chapter 21 — -- The Prince's Court
+
+| # | Scene | PC | Date |
+|---|---|---|---|
+| 86 | [The Prince's Court -- Thursday, January 31, 1991, 5:02 PM](/posts/the-princes-court/) | Darius + Sable | Jan 31, 1991, 5:02 PM |
+
 ---
 
 ## Other Chronicles

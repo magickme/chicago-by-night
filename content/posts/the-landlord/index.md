@@ -132,7 +132,7 @@ Vulnerable points. Eddie was a single point of failure -- one man between the wa
 
 The advantage pulsed. The diagram held.
 
-Not the throne. The building the throne sits in. Warren Birch was the keystone because Birch was the name on the infrastructure -- the name on the lease, the name on the phone, the name the FBI would find when they looked and the name Cantone's people would find when they looked and the name that existed precisely so that [Darius Cole](/darius-cole/) didn't have to exist anywhere that names were written down. Birch was a building. Darius was the landlord who owned the building and never appeared in the records.
+Not the throne. The building the throne sits in. Warren Birch was the keystone because Birch was the name on the infrastructure -- the name on the lease, the name on the phone, the name the FBI would find when they looked and the name Cantone's people would find when they looked and the name that existed precisely so that [Darius Cole](/darius-cole/) didn't have to exist anywhere that names were written down. Birch was a building. [Darius](/darius-cole/) was the landlord who owned the building and never appeared in the records.
 
 He sat with the diagram until three-thirty. The advantage faded somewhere around two, the clarity dropping back to normal like a tuning fork losing its ring. But the diagram stayed. The model stayed. The landlord model.
 
