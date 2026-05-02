@@ -23,7 +23,8 @@
     </a>
   </section>
 
-  {{ $posts := where .Site.RegularPages "Type" "posts" }}
+  {{ $allPosts := where .Site.RegularPages "Type" "posts" }}
+  {{ $posts := where $allPosts ".Params.tags" "intersect" (slice "vtm") }}
   {{ with index $posts 0 }}
   <section class="latest-scene" aria-label="Latest scene">
     <h2>Latest Scene</h2>
