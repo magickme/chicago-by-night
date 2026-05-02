@@ -3,7 +3,7 @@ title: "Another Move — Monday, January 28, 1991, 4:58 PM"
 date: 1991-01-28T16:58:00
 lastmod: 2026-05-01
 tags: ["ashes-and-blood", "sable", "vtm", "chicago"]
-categories: ["Chapter 15 — Another Move"]
+categories: ["Chapter 16 — Another Move"]
 description: "Sophia Ayes calls with a warning and an invitation. At the Succubus Club, a compliment about nail polish opens a door that neither woman expected. Outside, a red convertible and a small Finnish man with a handlebar mustache remind Sable that she is being watched by things older than the city."
 ---
 

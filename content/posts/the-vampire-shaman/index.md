@@ -3,7 +3,7 @@ title: "The Vampire Shaman — Tuesday, January 29, 1991, 5:00 PM"
 date: 1991-01-29T17:00:00
 lastmod: 2026-05-01
 tags: ["ashes-and-blood", "darius", "vtm", "chicago"]
-categories: ["Chapter 16 — The Vampire Shaman"]
+categories: ["Chapter 17 — The Vampire Shaman"]
 description: "A staged ambush, a shaman who hears nightingales, and a vault full of captives. Darius puts a bullet in the right head and gives Bordruff the wrong answer."
 ---
 
