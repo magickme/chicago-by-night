@@ -1,5 +1,5 @@
 ---
-title: "Staff Sergeant Miguel "Mickey" Contreras"
+title: 'Staff Sergeant Miguel "Mickey" Contreras'
 image: cover.webp
 hidemeta: true
 ShowToc: false

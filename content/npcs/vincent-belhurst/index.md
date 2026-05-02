@@ -1,5 +1,5 @@
 ---
-title: "Vincent "Vince" Belhurst"
+title: 'Vincent "Vince" Belhurst'
 image: cover.webp
 hidemeta: true
 ShowToc: false
