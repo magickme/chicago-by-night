@@ -5,7 +5,7 @@ layout: "page"
 slug: "quests"
 ---
 
-*Chicago Chronicles. Act II: Ashes and Blood. Updated: **1991-02-05 (Tuesday). Current snapshot: Scene D052 "The Assignment" (Tomás solo) closed evening Feb 5 ~19:00. Campaign start: NYE 1989. Act II (Ashes and Blood): January 1991+. Baptism by Fire: NYE 1990.**.*
+*Chicago Chronicles. Act II: Ashes and Blood. Updated: **1991-02-06 (Wednesday). Current snapshot: Scene D053 "The Hunters" (joint scene, Darius/Sable/Tomás primary) closed evening Feb 6 ~22:00. Campaign start: NYE 1989. Act II (Ashes and Blood): January 1991+. Baptism by Fire: NYE 1990.**.*
 
 
 

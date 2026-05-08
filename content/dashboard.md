@@ -10,13 +10,13 @@ menu:
       icon: "dots"
 ---
 
-*Chicago Chronicles. Act II: Ashes and Blood. Updated: **1991-02-05 (Tuesday). Current snapshot: Scene D052 "The Assignment" (Tomás solo) closed evening Feb 5 ~19:00. Campaign start: NYE 1989. Act II (Ashes and Blood): January 1991+. Baptism by Fire: NYE 1990.**.*
+*Chicago Chronicles. Act II: Ashes and Blood. Updated: **1991-02-06 (Wednesday). Current snapshot: Scene D053 "The Hunters" (joint scene, Darius/Sable/Tomás primary) closed evening Feb 6 ~22:00. Campaign start: NYE 1989. Act II (Ashes and Blood): January 1991+. Baptism by Fire: NYE 1990.**.*
 
 
 
 ## Coterie Snapshot
 
-- 1991-02-05 (Tuesday). Current snapshot: Scene D052 "The Assignment" (Tomás solo) closed evening Feb 5 ~19:00. Campaign start: NYE 1989. Act II (Ashes and Blood): January 1991+. Baptism by Fire: NYE 1990.
+- 1991-02-06 (Wednesday). Current snapshot: Scene D053 "The Hunters" (joint scene, Darius/Sable/Tomás primary) closed evening Feb 6 ~22:00. Campaign start: NYE 1989. Act II (Ashes and Blood): January 1991+. Baptism by Fire: NYE 1990.
 - Scenes played: Darius 43, Sable 46, Tomás 6 (95 total + timeskip bluebook Aug-Nov + Dec timeskip). PCs met at Feb 2 Elysium. **COTERIE FORMED (S019, July 22).** **FORMAL COTERIE PACT (D047/S046).**
 - Scene-note inventory: Darius 38, Sable 40 queued, Tomás 5 (83 total; S034/S035 are joint scenes with D035/D036; D041 is joint with Sable; S042/D043 joint; D046/S045 joint; D048 Tomás solo; D052 Tomás solo; _transcripts queued for publish).
 - Sunset: 4:35 PM CST. Sunrise: 7:03 AM CST. Darkness: ~14.5 hours (early February).

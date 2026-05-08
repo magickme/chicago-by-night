@@ -258,11 +258,11 @@ Published scenes from **Chicago Chronicles** in chronological order.
 
 | # | Scene | PC | Date |
 |---|---|---|---|
-| 87 | [First Night Standing](/posts/first-night-standing/) | Tomás | Feb 1, 1991, 5:05 PM |
-| 88 | [The Debrief](/posts/the-debrief-d049/) | Tomás | Feb 1, 1991, 5:05 PM |
-| 89 | [The Survey](/posts/the-survey/) | Tomás | Feb 3, 1991, 5:07 PM |
+| 87 | [First Night Standing](/posts/first-night-standing/) | Chronicle | Feb 1, 1991, 5:05 PM |
+| 88 | [The Debrief](/posts/the-debrief-d049/) | Chronicle | Feb 1, 1991, 5:05 PM |
+| 89 | [The Survey](/posts/the-survey/) | Chronicle | Feb 3, 1991, 5:07 PM |
 | 90 | [The Sire's Territory](/posts/the-sires-territory/) | Darius | Feb 4, 1991, 5:09 PM |
-| 91 | [The Assignment](/posts/the-assignment/) | Tomás | Feb 5, 1991, 5:08 PM |
+| 91 | [The Assignment](/posts/the-assignment/) | Chronicle | Feb 5, 1991, 5:08 PM |
 
 ---
 
