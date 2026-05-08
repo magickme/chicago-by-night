@@ -15,7 +15,7 @@ description: "Forty feet below the Loop, a Tremere apprentice and a seven-hundre
 
 The camel-hair overcoat was on the stand when [Tomas](/tomas-navarro/) came downstairs at five-fifteen. Heavy, cut long, the kind of coat a man buys when he's decided his appearance is a closing argument. The ebony walking stick leaned against the umbrella stand beside it. Silver cap catching the hall light.
 
-He had not spoken directly to Abraham [DuSable](/npcs/abraham-dusable/) in his three weeks at the [Astor](/npcs/lady-astor/) Street chantry. He'd seen him. Crossing the second-floor landing with a book under his arm, reading glasses on a chain around his neck. Standing in the kitchen doorway watching Mrs. [Marsh](/npcs/elena-marsh/) set out the Tuesday tamales, saying nothing, then turning away. Once, at 2 AM, coming up from the sub-basement with chalk dust on his fingers and the smell of something burnt clinging to his collar.
+He had not spoken directly to Abraham [DuSable](/npcs/abraham-dusable/) in his three weeks at the Astor Street chantry. He'd seen him. Crossing the second-floor landing with a book under his arm, reading glasses on a chain around his neck. Standing in the kitchen doorway watching Mrs. Marsh set out the Tuesday tamales, saying nothing, then turning away. Once, at 2 AM, coming up from the sub-basement with chalk dust on his fingers and the smell of something burnt clinging to his collar.
 
 [Nicolai](/npcs/nicolai/)'s orders had been specific. Sunday, after sunset. [DuSable](/npcs/abraham-dusable/) will lead the survey. You will assist.
 
@@ -23,11 +23,11 @@ The study door was open. Candlelight from inside. Three candles on the desk betw
 
 He looked up.
 
-The predatory aura hit first. Not aggression. Something settled, old, like standing too close to a transformer box. The air tasted of copper and old paper and something underneath both that the back of [Tomas](/npcs/tomas/)'s brain registered as *large.*
+The predatory aura hit first. Not aggression. Something settled, old, like standing too close to a transformer box. The air tasted of copper and old paper and something underneath both that the back of Tomas's brain registered as *large.*
 
 DuSable removed his glasses. Folded them. Set them on the desk with the precision of a man placing evidence into the record.
 
-"Mr. [Navarro](/npcs/elena-navarro/)." The voice was soft. Courtroom soft -- the kind designed to make the jury lean forward. "Close the door."
+"Mr. Navarro." The voice was soft. Courtroom soft -- the kind designed to make the jury lean forward. "Close the door."
 
 Tomas closed it. Turned. Inclined his head. Not a nod but a bow, shallow, from the neck. The way you acknowledged a superior officer when reporting for duty.
 
@@ -365,7 +365,7 @@ Tomas pulled out the other folding chair.
 
 "I have intelligence. One item. Street intelligence, unrelated to chantry operations."
 
-He laid it out: the man on the bench, the vitae traces, the folio, the note. *H -- 2 AM Tuesday. Sherwin building, 4th floor. Bring the Armitage paperwork. Tell no one. -- L.* The retainer walking to a law firm. [Ballard](/npcs/ballard/), Anderson & Baitman.
+He laid it out: the man on the bench, the vitae traces, the folio, the note. *H -- 2 AM Tuesday. Sherwin building, 4th floor. Bring the Armitage paperwork. Tell no one. -- L.* The retainer walking to a law firm. Ballard, Anderson & Baitman.
 
 "I don't have context for any of it. You've been in Chicago longer. Does that name mean something?"
 
@@ -379,11 +379,11 @@ He tapped ARMITAGE.
 
 He looked at Tomas.
 
-"If we hand this to [Annabelle](/npcs/annabelle-triabell/) directly, we've spent the leverage. If we sit on it and watch the meeting, we know what both sides are doing before either side knows we're watching."
+"If we hand this to [Annabelle](/npcs/annabelle/) directly, we've spent the leverage. If we sit on it and watch the meeting, we know what both sides are doing before either side knows we're watching."
 
 "Tuesday. You and me. I want to be inside that building by midnight."
 
-They found the Sherwin in the Yellow Pages. Sherwin-[Williams](/npcs/williams/) Building, 120 N. LaSalle Street. Heart of the Loop. Thirty-seven stories. Mixed commercial tenancy. Tuesday at 2 AM, the building would be empty.
+They found the Sherwin in the Yellow Pages. Sherwin-Williams Building, 120 N. LaSalle Street. Heart of the Loop. Thirty-seven stories. Mixed commercial tenancy. Tuesday at 2 AM, the building would be empty.
 
 Sable came down the stairs while they were at the table. Winter coat, scarf. She read the room in two seconds and sat down. Darius briefed her in four sentences.
 
