@@ -279,7 +279,7 @@ They moved into the western branch. Twenty meters in, the scratching stopped. Th
 
 And beneath it, in the same scratched hand, four words in French.
 
-*Partie gagnee. Allez-vous-en.*
+*Partie gagnée. Allez-vous-en.*
 
 Game won. Get out.
 
