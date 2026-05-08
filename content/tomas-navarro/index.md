@@ -13,7 +13,7 @@ image: cover.webp
 <dt>Full Name</dt><dd>Tomás Alejandro Navarro</dd>
 <dt>Clan</dt><dd>Tremere</dd>
 <dt>Generation</dt><dd>10th</dd>
-<dt>Sire</dt><dd>Lord Cassius</dd>
+<dt>Sire</dt><dd>Unknown (Pyramid committee decision)</dd>
 <dt>Haven</dt><dd>Astor Street Chantry, Chicago</dd>
 <dt>Nature / Demeanor</dt><dd>Judge / Loner</dd>
 <dt>Role</dt><dd>Intelligence Analyst / Apprentice</dd>
@@ -41,9 +41,9 @@ He saw the pattern nobody wanted him to see: the shadow supply chain of Iran-Con
 
 ## The Embrace
 
-Lord Cassius, operating through the Virginia intelligence corridor, had been watching. The Tremere weren't just recruiting an intelligence professional; they were recruiting a man who had already proven he could see the machine and choose not to break it.
+The Tremere had been watching. They weren't just recruiting an intelligence professional; they were recruiting a man who had already proven he could see the machine and choose not to break it.
 
-The Embrace happened in late 1988 in a facility in the Virginia countryside. Tomás woke hungry in a way Spanish has a better word for than English. *Hambre* isn't just hunger; it's the hunger that eats the person who feels it.
+The Embrace happened in late 1988 in a facility beneath the Octagon House in Washington, DC. Tomás woke hungry in a way Spanish has a better word for than English. *Hambre* isn't just hunger; it's the hunger that eats the person who feels it. He never saw who performed the ritual. The Pyramid told him it was a committee decision, and he accepted it without question — the way he'd accepted every institutional answer before it.
 
 He took the Oath and the Transubstantiation at the Octagon House in Washington, DC. The Bond settled like a second skeleton — invisible, load-bearing. The Pyramid had him.
 

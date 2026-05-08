@@ -1239,6 +1239,58 @@ ShowToc: false
 
 ---
 
+## Interlude S — The Sword of Caine
+
+*Montreal, November 1992. Les Fossoyeurs — a Sabbat intelligence cell assembled by Vykos's network — navigate the succession crisis as forward operatives for the war that follows.*
+
+<div class="character-grid">
+
+<div class="character-card">
+
+### [Les Fossoyeurs](/les-fossoyeurs/)
+**The Gravediggers** — Sabbat pack, Montreal. Five specialists assembled for a mandate none of them fully understands.
+
+</div>
+
+<div class="character-card">
+
+### [Calvi](/calvi/)
+**Lasombra / Ductus** — The Neapolitan who ran a Camorra territory's finances before the debt economy revealed itself as a shadow of something older. He does not give orders. He describes problems.
+
+</div>
+
+<div class="character-card">
+
+### [Constanzo](/constanzo/)
+**Serpent of the Light / Pack Priest** — Palo Mayombe practitioner who serves the Enkisi before the Sabbat. Her nganga predates the Sword of Caine. The spirits she channels do not answer to sect loyalty.
+
+</div>
+
+<div class="character-card">
+
+### [Homolka](/homolka/)
+**Toreador antitribu / Social Operative** — The beautiful thing that wants to watch you break. Retains Humanity as camouflage, not conviction. The pack's mortal-world interface.
+
+</div>
+
+<div class="character-card">
+
+### [Puente](/puente/)
+**Tzimisce / Territorial Sovereign** — Holds Chinatown as a voivode holds domain. The flesh is hers. It has always been hers. Her sovereignty owes nothing to any hierarchy.
+
+</div>
+
+<div class="character-card">
+
+### [Dirlewanger](/dirlewanger/)
+**Ventrue antitribu / Heavy Weapons** — Forty-seven years undead. Institutional memory. Predictability is its own kind of power.
+
+</div>
+
+</div>
+
+---
+
 ## Montreal, Quebec
 
 *Sabbat stronghold. The Archbishop rules from a luxury mall. Enemy territory.*

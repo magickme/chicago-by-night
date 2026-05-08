@@ -40,7 +40,7 @@ The power is absolute and the cost is everything else. Every name he carries dis
 
 In the late summer of 1992, Bacchus — an ancient Mummy who goes by many names and none of them his real one — arrived at a motel in New Mexico in a black Thunderbird and told Nefer-Hotep they were going to a party. They were not going to a party. They were going to stop a demon named Karamemti from building a literal highway from the physical world to Tuat — Egyptian Hell — using the compressed anguish of I-40 murder victims as asphalt.
 
-Nefer-Hotep lost his memories of love at a demon's tollbooth, drove through the spirit world on a road paved with human suffering, and defeated the [Lord](/npcs/lord-cassius/) of Rot in a naming contest by bluffing with an empty hand and a steady voice.
+Nefer-Hotep lost his memories of love at a demon's tollbooth, drove through the spirit world on a road paved with human suffering, and defeated the Lord of Rot in a naming contest by bluffing with an empty hand and a steady voice.
 
 He won. He lost everything that mattered.
 

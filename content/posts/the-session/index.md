@@ -27,7 +27,7 @@ On the mezzanine balcony, a woman [Darius](/darius-cole/) had seen twice and nev
 
 Near the DJ booth, a wrongness in the air. A patch where the club lighting bent and kept going.
 
-Darius took a stool at the bar. Ordered red wine he wouldn't drink.
+[Darius](/darius-cole/) took a stool at the bar. Ordered red wine he wouldn't drink.
 
 ---
 
@@ -47,7 +47,7 @@ Darius turned the glass once. "I appreciate what this place does. Neutral ground
 
 "There's a property on Indiana Avenue," Darius said. "Brownstone. Connects to a shell called Greystone Fiduciary Trust. That trust holds paper on at least three properties belonging to someone whose name comes up a lot in this building."
 
-Brennon's hands were still. The smile didn't change but something behind it recalibrated.
+[Brennon](/npcs/brennon-thornhill/)'s hands were still. The smile didn't change but something behind it recalibrated.
 
 "Three targets. And you learned this how?"
 
@@ -133,7 +133,7 @@ Darius didn't confirm. Sat with his hands on the table and waited.
 
 He adjusted the coffee cup. Some private calibration.
 
-"Censure requires four. [Annabelle](/npcs/annabelle-triabell/), [Critias](/critias/), [Khalid](/khalid-al-rashid/) — that's three. The fourth depends on whether Inyanga trades her vote for cover on the Pack situation. If she does, [Ballard](/npcs/ballard/) walks tonight with a reprimand."
+"Censure requires four. [Annabelle](/npcs/annabelle-triabell/), [Critias](/critias/), [Khalid](/khalid-al-rashid/) — that's three. The fourth depends on whether [Inyanga](/npcs/inyanga/) trades her vote for cover on the Pack situation. If she does, [Ballard](/npcs/ballard/) walks tonight with a reprimand."
 
 Darius processed this. Inyanga's vote was the hinge. The Wolf Pack problem and the [Ballard](/npcs/ballard/) problem were the same lever.
 
@@ -143,7 +143,7 @@ Darius kept his voice flat. "I'm not calling in the favor from December. But you
 
 He watched [Horace](/npcs/horace/)'s face. Saw everything. The micro-dilation when he said [Tyrus](/npcs/tyrus/). The jaw tightening — the Plotter appetite engaging, the move too elegant to resist. And underneath both, the cold contraction. [Horace](/npcs/horace/) calculating exits. The paranoia that ran every scenario through a single filter.
 
-Three seconds. Horace picked up the coffee cup. Drank from it — actually drank, which meant he'd stopped performing.
+Three seconds. [Horace](/npcs/horace/) picked up the coffee cup. Drank from it — actually drank, which meant he'd stopped performing.
 
 "I haven't talked to [Tyrus](/npcs/tyrus/) in months. Owe him forty dollars from a football bet. Might be a good night to settle up."
 
@@ -179,7 +179,7 @@ Walked back toward the Club.
 
 At 11:38, the service door opened. [Belthazar](/belthazar/) came down first — jaw set, moving toward the entrance without looking at anyone. Then [Neally](/neally-edwards/), straightening his tie, scanning the room. [Annabelle](/npcs/annabelle-triabell/) next, descending without hurry. [Critias](/npcs/critias/) last. Reading glasses in hand, journal under his arm. He glanced at Darius. One nod.
 
-[Annabelle](/npcs/annabelle-triabell/) reached the table. Didn't sit. Stood with one hand on the back of Sable's empty chair.
+[Annabelle](/npcs/annabelle-triabell/) reached the table. Didn't sit. Stood with one hand on the back of [Sable](/sable-price/)'s empty chair.
 
 "Three to two. With an abstention." Her voice was flat and precise. "[Ballard](/npcs/ballard/) received a formal reprimand."
 
@@ -195,7 +195,7 @@ She pulled out Sable's chair and sat. The table became her audience. [Sir Henry]
 
 She spoke to [Sir Henry](/npcs/sir-henry-johnson/) but pitched her voice to include Darius. The vote, the abstention, the reprimand. [Ballard](/npcs/ballard/)'s proxy authority intact. Inyanga staring at the table for forty-five minutes while [Neally](/npcs/neally-edwards/) ran out the clock.
 
-"The reprimand means nothing. Ballard keeps [Lodin](/npcs/lodin/)'s proxy authority. He will use it to accelerate his counterattack. I needed that censure. What I got was theater."
+"The reprimand means nothing. [Ballard](/npcs/ballard/) keeps [Lodin](/npcs/lodin/)'s proxy authority. He will use it to accelerate his counterattack. I needed that censure. What I got was theater."
 
 She let the silence hold. Then her eyes came back to Darius. "Do you have anything useful, Mr. Cole? Or are you here to be decorative?"
 
@@ -261,6 +261,6 @@ He left two hundred in mixed bills under the ashtray. Straightened his collar. W
 
 Full. The blood hummed in his veins, thirteen out of thirteen, warm and stolen and exactly what he was built to take.
 
-He drove the Cutlass south toward Pilsen. The city threw its orange sodium light across the windshield and the heater blew dust. A productive Wednesday. The Primogen had spoken and Ballard had walked and the censure had failed and none of it mattered yet because the lever was still in motion — Horace calling Tyrus, Annabelle hunting a courier, [Critias](/npcs/critias/) waiting for Thursday. The board had more pieces on it than it had this morning and Darius had placed half of them and nobody upstairs knew his name yet.
+He drove the Cutlass south toward Pilsen. The city threw its orange sodium light across the windshield and the heater blew dust. A productive Wednesday. The Primogen had spoken and Ballard had walked and the censure had failed and none of it mattered yet because the lever was still in motion — Horace calling [Tyrus](/npcs/tyrus/), [Annabelle](/npcs/annabelle-triabell/) hunting a courier, [Critias](/npcs/critias/) waiting for Thursday. The board had more pieces on it than it had this morning and Darius had placed half of them and nobody upstairs knew his name yet.
 
 He parked in the alley behind Kaspar & Sons. Killed the engine. Sat in the dark for a minute, tasting the last of [Rachel](/npcs/rachel/)'s blood on the back of his teeth, and waited for Sable to come home.

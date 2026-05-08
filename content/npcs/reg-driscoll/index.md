@@ -10,7 +10,7 @@ ShowToc: false
 <div class="character-stats">
 <dl>
 <dt>Clan</dt><dd>Samedi</dd>
-<dt>Role</dt><dd>Prison Smuggling [Lord](/npcs/lord-cassius/)</dd>
+<dt>Role</dt><dd>Prison Smuggling Lord</dd>
 <dt>City</dt><dd>Kingston</dd>
 </dl>
 </div>

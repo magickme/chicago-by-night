@@ -173,7 +173,7 @@ The pause was shorter this time. [Annabelle](/npcs/annabelle-triabell/) was alre
 
 "The wine will be his own blood." She said it without inflection, the way you state the price of bread. "It's how he does it. He won't announce it. He'll pour, he'll speak warmly about loyalty and the city's future, and he'll hand you a cup and watch to see who drinks without asking what's in it. A Toreador who is useful to me, bound to [Lodin](/npcs/lodin/), is no longer useful to me."
 
-Sable held the receiver. Sleet on the phone booth glass. The Dan Ryan visible two blocks east, headlights in both directions.
+[Sable](/sable-price/) held the receiver. Sleet on the phone booth glass. The Dan Ryan visible two blocks east, headlights in both directions.
 
 "What do I do when the cup comes around?"
 

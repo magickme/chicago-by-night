@@ -99,7 +99,7 @@ Two words. He let them carry what they needed to carry.
 
 "[Chuc Luc](/npcs/chuc-luc/). Childe of [Capone](/npcs/capone/)."
 
-The room shifted. [Ballard](/npcs/ballard/)'s head turned. [Annabelle](/npcs/annabelle-triabell/)'s glass stopped moving. [Nicolai](/npcs/nicolai/)'s eyes registered something behind the twelve-year-old mask. Capone was [Lodin](/npcs/lodin/)'s childe. Chuc Luc was Capone's. The neonate from Gary who had pulled the Prince of Chicago out of the ground was [Lodin](/npcs/lodin/)'s own blood, four steps removed. In the Ventrue clan, four steps was close enough to count.
+The room shifted. [Ballard](/npcs/ballard/)'s head turned. [Annabelle](/npcs/annabelle-triabell/)'s glass stopped moving. [Nicolai](/npcs/nicolai/)'s eyes registered something behind the twelve-year-old mask. [Capone](/npcs/capone/) was [Lodin](/npcs/lodin/)'s childe. [Chuc Luc](/npcs/chuc-luc/) was Capone's. The neonate from Gary who had pulled the Prince of Chicago out of the ground was [Lodin](/npcs/lodin/)'s own blood, four steps removed. In the Ventrue clan, four steps was close enough to count.
 
 [Lodin](/npcs/lodin/)'s face did something new. Not warmth. Recognition. The predator examining something that shared its genetics.
 
@@ -109,7 +109,7 @@ He turned to [Sable](/sable-price/).
 
 "[Sable Price](/sable-price/), my Prince. Clan Toreador. My sire is [Michael](/npcs/michael/) [Payne](/npcs/sharon-payne/)."
 
-[Lodin](/npcs/lodin/)'s eyes moved to [Annabelle](/npcs/annabelle-triabell/), who returned his gaze without expression. "Payne's," he said. Not a question. He filed it.
+[Lodin](/npcs/lodin/)'s eyes moved to [Annabelle](/npcs/annabelle-triabell/), who returned his gaze without expression. "[Payne](/npcs/sharon-payne/)'s," he said. Not a question. He filed it.
 
 His attention moved to [Tomas](/tomas-navarro/). "And the Tremere."
 
@@ -129,7 +129,7 @@ His attention moved to [Tomas](/tomas-navarro/). "And the Tremere."
 
 [Lodin](/npcs/lodin/) stepped around [Neally](/npcs/neally-edwards/)'s chair. He stopped six feet from [Darius](/darius-cole/). The space between them held a pressure that had nothing to do with Presence, because [Lodin](/npcs/lodin/) at this distance did not need Presence. He was seven centuries of accumulated authority standing on an eighth-floor carpet, and the carpet was his carpet, and the building was his building, and the city outside the windows was his city.
 
-"You were sent by Modius," [Lodin](/npcs/lodin/) said. "Carrying his letter. His seal. His instructions to present yourselves and request acknowledgment. And then you pulled me out of the ground."
+"You were sent by [Modius](/npcs/modius/)," [Lodin](/npcs/lodin/) said. "Carrying his letter. His seal. His instructions to present yourselves and request acknowledgment. And then you pulled me out of the ground."
 
 He said it flat. A balance sheet. Debit, credit. The rescue was a fact. Its meaning was what he was about to assign to it.
 
@@ -173,7 +173,7 @@ He let the question sit inside the room for the duration of a breath that nobody
 
 [Lodin](/npcs/lodin/) nodded once. The nod was a signature on a contract that had been drawn up before [Darius](/darius-cole/) entered the room.
 
-"Let the record reflect that Darius Cole, tenth generation, childe of Chuc Luc, is acknowledged directly under the Prince's authority. His sire's claims are suspended pending review with Capone's household."
+"Let the record reflect that [Darius Cole](/darius-cole/), tenth generation, childe of Chuc Luc, is acknowledged directly under the Prince's authority. His sire's claims are suspended pending review with Capone's household."
 
 [Ballard](/npcs/ballard/) produced a leather notebook from inside his overcoat. His pen moved too fast. He was angry about something, and the pen was absorbing it.
 
@@ -181,15 +181,15 @@ He let the question sit inside the room for the duration of a breath that nobody
 
 "Miss Price. Your position is different. You are Toreador. Your sire is Chicago Kindred, though he resides elsewhere." His eyes moved to [Annabelle](/npcs/annabelle-triabell/). "Primogen [Triabell](/npcs/annabelle-triabell/). Does the Toreador acknowledge this childe?"
 
-[Annabelle](/npcs/annabelle-triabell/) set her glass down. The motion was deliberate. She was being asked to claim or disclaim [Sable](/sable-price/) in front of the Prince, and either answer had consequences. Claiming [Sable](/sable-price/) meant taking responsibility for Michael Payne's unsanctioned Embrace. Disclaiming her meant losing an asset she had spent three weeks cultivating.
+[Annabelle](/npcs/annabelle-triabell/) set her glass down. The motion was deliberate. She was being asked to claim or disclaim [Sable](/sable-price/) in front of the Prince, and either answer had consequences. Claiming [Sable](/sable-price/) meant taking responsibility for [Michael](/npcs/michael/) Payne's unsanctioned Embrace. Disclaiming her meant losing an asset she had spent three weeks cultivating.
 
-"Sable Price has conducted herself with grace in a city that tests it," [Annabelle](/npcs/annabelle-triabell/) said. Every word measured. "Michael's judgment in siring is his own affair. The result stands before you. I acknowledge her as Toreador of Chicago."
+"[Sable Price](/sable-price/) has conducted herself with grace in a city that tests it," [Annabelle](/npcs/annabelle-triabell/) said. Every word measured. "Michael's judgment in siring is his own affair. The result stands before you. I acknowledge her as Toreador of Chicago."
 
-"Then Miss Price is acknowledged under the Second Tradition, with Primogen Triabell as her clan guarantor."
+"Then Miss Price is acknowledged under the Second Tradition, with Primogen [Triabell](/npcs/annabelle-triabell/) as her clan guarantor."
 
 [Lodin](/npcs/lodin/) turned to [Tomas](/tomas-navarro/).
 
-"Mr. Navarro. The Tremere manage their own." He glanced at [Nicolai](/npcs/nicolai/). "Your apprentice is acknowledged as a resident of Chicago through the Chantry's standing arrangement with my office. His status within your hierarchy is your concern."
+"Mr. [Navarro](/npcs/elena-navarro/). The Tremere manage their own." He glanced at [Nicolai](/npcs/nicolai/). "Your apprentice is acknowledged as a resident of Chicago through the Chantry's standing arrangement with my office. His status within your hierarchy is your concern."
 
 [Nicolai](/npcs/nicolai/) nodded. One precise dip of the chin.
 
@@ -283,7 +283,7 @@ He paused. "Then DIA. Washington desk. Time in-country. El Salvador. Honduras. S
 
 He did not elaborate.
 
-"The Tremere found me in Washington. A man named [Cassius](/npcs/lord-cassius/). He said I had aptitude. What he meant was I had the right kind of mind for blood magic and the right kind of institutional loyalty to keep my mouth shut about it." His jaw tightened. "Embraced eleven months ago. Transferred to [Nicolai](/npcs/nicolai/)'s chantry two weeks before you met me at the [Succubus Club](/locations/succubus-club/)."
+"The Tremere found me in Washington. I was told I had aptitude. What they meant was I had the right kind of mind for blood magic and the right kind of institutional loyalty to keep my mouth shut about it." His jaw tightened. "Embraced eleven months ago. Transferred to [Nicolai](/npcs/nicolai/)'s chantry two weeks before you met me at the [Succubus Club](/locations/succubus-club/)."
 
 He looked at [Darius](/darius-cole/) directly. "[Lodin](/npcs/lodin/) doesn't trust [Nicolai](/npcs/nicolai/). He trusts [Nicolai](/npcs/nicolai/)'s competence and he trusts [Nicolai](/npcs/nicolai/)'s self-interest, but he does not trust what happens inside that chantry when the doors are closed. Putting me with you gives him a window into the Pyramid that [Nicolai](/npcs/nicolai/) can't control."
 

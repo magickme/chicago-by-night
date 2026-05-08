@@ -13,7 +13,7 @@ description: "Annabelle lays out four options. Darius picks the one that costs h
 
 ---
 
-The Succubus Club ran warm on Tuesday nights. Half the usual crowd, mostly regulars who knew the upstairs was quieter midweek and came for it. Twenty-five degrees outside. Trace snow against the Wabash Avenue windows, the kind that made the street lights look bruised but never accumulated.
+The [Succubus Club](/locations/succubus-club/) ran warm on Tuesday nights. Half the usual crowd, mostly regulars who knew the upstairs was quieter midweek and came for it. Twenty-five degrees outside. Trace snow against the Wabash Avenue windows, the kind that made the street lights look bruised but never accumulated.
 
 [Annabelle](/npcs/annabelle-triabell/) was already seated in the private booth when [Darius](/darius-cole/) arrived. White wine in front of her, untouched. Pearls. The particular stillness of a woman who had been calculating something before he walked in and would resume calculating something after he left.
 

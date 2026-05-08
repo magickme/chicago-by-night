@@ -19,11 +19,11 @@ The Quadrangle Club had been built to look like a private men's club in a city w
 
 The maître d' showed him to a room at the back. [Critias](/npcs/critias/) was already seated, coffee in front of him, a book open that he closed when [Darius](/darius-cole/) came in. He did not stand.
 
-"You're early," he said, which meant Darius had arrived on time.
+"You're early," he said, which meant [Darius](/darius-cole/) had arrived on time.
 
 "I had the books for six days. I didn't want to leave them in the car."
 
-Critias looked at him. The three Thucydides volumes went on the table beside Darius's setting. The oldest one — the Crawley translation, 1876, library tape crumbling at the spine — Critias picked up with both hands and turned to the table of contents. He put it back.
+[Critias](/npcs/critias/) looked at him. The three Thucydides volumes went on the table beside Darius's setting. The oldest one — the Crawley translation, 1876, library tape crumbling at the spine — Critias picked up with both hands and turned to the table of contents. He put it back.
 
 "The Crawley," he said. "The Jowett is smoother. The Crawley is more honest."
 
@@ -127,7 +127,7 @@ Then he found the next payphone and called the coterie node.
 
 [Sable](/sable-price/) answered on the fourth ring.
 
-They kept it under eight minutes. What he'd learned at the faculty club, minus Critias. The note, what Annabelle had confirmed. Whatever [Sable](/sable-price/) had from her end of the night.
+They kept it under eight minutes. What he'd learned at the faculty club, minus Critias. The note, what [Annabelle](/npcs/annabelle-triabell/) had confirmed. Whatever [Sable](/sable-price/) had from her end of the night.
 
 Tomorrow night they would know more.
 

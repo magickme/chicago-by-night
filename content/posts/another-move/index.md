@@ -21,9 +21,9 @@ The phone rang at 6:40 PM and [Sable](/sable-price/) knew before she picked up t
 
 [Sophia](/npcs/sophia-ayes/)'s voice. Not warm, not cold. The register of someone who had been deciding for two days whether to make this call and had finally stopped deciding.
 
-"I also heard Lorraine nearly went over the railing. And that you pulled her back." A pause. Not theater. The sound of a woman editing her next sentence in real time. "Lorraine told [Annabelle](/npcs/annabelle-triabell/). Annabelle told three people before midnight. I don't know if you understand how fast that moves."
+"I also heard [Lorraine](/npcs/lorraine-matthews/) nearly went over the railing. And that you pulled her back." A pause. Not theater. The sound of a woman editing her next sentence in real time. "Lorraine told [Annabelle](/npcs/annabelle-triabell/). [Annabelle](/npcs/annabelle-triabell/) told three people before midnight. I don't know if you understand how fast that moves."
 
-She wasn't congratulating her. She was measuring. How much did Sable know. How much had she intended. Whether it was calculation or reflex and which one was worse.
+She wasn't congratulating her. She was measuring. How much did [Sable](/sable-price/) know. How much had she intended. Whether it was calculation or reflex and which one was worse.
 
 "I'm going to the Club tonight. If you're going, don't make it obvious."
 
@@ -37,7 +37,7 @@ She hung up before Sable could answer.
 
 "[Sophia Ayes](/npcs/sophia-ayes/)," he said.
 
-He set the paper down. "If Annabelle is already talking about Saturday, Sophia knows her position just moved. She's telling you because she wants you to know she noticed. And because she wants to be in the room when the next thing happens."
+He set the paper down. "If Annabelle is already talking about Saturday, [Sophia](/npcs/sophia-ayes/) knows her position just moved. She's telling you because she wants you to know she noticed. And because she wants to be in the room when the next thing happens."
 
 He picked the paper back up.
 
@@ -137,11 +137,11 @@ Claudine's hand came up one more time, cupped Sable's jaw, and let go.
 
 The Club was thinner when Sable came back upstairs. 11:30 PM. Sleep of Reason had finished their set. The crowd cycling toward whatever came next.
 
-Darius was at a corner table with a glass of water he hadn't touched. He'd been watching the balcony for ninety minutes and his face said he'd learned nothing he was ready to share.
+[Darius](/darius-cole/) was at a corner table with a glass of water he hadn't touched. He'd been watching the balcony for ninety minutes and his face said he'd learned nothing he was ready to share.
 
 "He left an hour ago," he said. "[Critias](/npcs/critias/) hasn't moved."
 
-The white-haired stranger's chair was empty. The chessboard on the balcony still arranged in whatever configuration Critias was studying or mourning or both. The man who'd watched Sable on Erie Street the night before, who'd stood on the far corner with his ear-to-ear grin and tilted his head like a piece being acknowledged across a board — gone. Into the city.
+The white-haired stranger's chair was empty. The chessboard on the balcony still arranged in whatever configuration [Critias](/npcs/critias/) was studying or mourning or both. The man who'd watched Sable on Erie Street the night before, who'd stood on the far corner with his ear-to-ear grin and tilted his head like a piece being acknowledged across a board — gone. Into the city.
 
 "We should go," Darius said. "Separately."
 

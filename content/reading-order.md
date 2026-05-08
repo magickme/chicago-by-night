@@ -18,7 +18,7 @@ Published scenes from **Chicago Chronicles** in chronological order.
 
 *Gary, Indiana. 1990. Darius Cole (Ventrue 10th) and Sable Price (Toreador 9th) navigate the dying city's seven Kindred, one broken Prince, and the machine underneath it all.*
 
-### Chapter 1 — New Year's Eve
+### Chapter 1
 
 *Dec 31, 1989, 11:47 PM through Jun 19, 1990, 9:00 PM.*
 
@@ -167,16 +167,16 @@ Published scenes from **Chicago Chronicles** in chronological order.
 
 ### Chapter 2 — Pawns in the Game
 
-*London, 1969.*
+*Jan 3, 1991 through Jan 3, 1991, 5:00 AM.*
 
 | # | Scene | PC | Date |
 |---|---|---|---|
-| 57 | [At Ease In The Windy City](/posts/at-ease-in-the-windy-city/) | Roarke | Jan 3, 1991 |
-| 58 | [The Trip](/posts/the-trip/) | Roarke | Jan 3, 1991, 1:00 AM |
-| 59 | [Settling In](/posts/settling-in/) | Roarke | Jan 3, 1991, 2:00 AM |
-| 60 | [Pawns In The Game](/posts/pawns-in-the-game/) | Roarke | Jan 3, 1991, 3:00 AM |
-| 61 | [The Auction](/posts/the-auction/) | Roarke | Jan 3, 1991, 4:00 AM |
-| 62 | [Fools Errand](/posts/fools-errand/) | Roarke | Jan 3, 1991, 5:00 AM |
+| 57 | [At Ease In The Windy City](/posts/at-ease-in-the-windy-city/) | Chronicle | Jan 3, 1991 |
+| 58 | [The Trip](/posts/the-trip/) | Chronicle | Jan 3, 1991, 1:00 AM |
+| 59 | [Settling In](/posts/settling-in/) | Chronicle | Jan 3, 1991, 2:00 AM |
+| 60 | [Pawns In The Game](/posts/pawns-in-the-game/) | Chronicle | Jan 3, 1991, 3:00 AM |
+| 61 | [The Auction](/posts/the-auction/) | Chronicle | Jan 3, 1991, 4:00 AM |
+| 62 | [Fools Errand](/posts/fools-errand/) | Chronicle | Jan 3, 1991, 5:00 AM |
 
 ### Chapter 3 — Hell's Pasture
 
@@ -194,7 +194,7 @@ Published scenes from **Chicago Chronicles** in chronological order.
 | 65 | [The Recruiter](/posts/the-recruiter/) | Darius | Jan 8, 1991, 4:28 PM |
 | 66 | [The Nightclub](/posts/the-nightclub/) | Darius + Sable | Jan 9, 1991, 4:28 PM |
 | 67 | [The Succubus Club](/posts/the-succubus-club/) | Sable | Jan 10, 1991, 4:28 PM |
-| 68 | [The Apprentice](/posts/the-apprentice/) | Tomas | Jan 10, 1991, 4:28 PM |
+| 68 | [The Apprentice](/posts/the-apprentice/) | Chronicle | Jan 10, 1991, 4:28 PM |
 | 69 | [The Starlite](/posts/the-starlite/) | Darius | Jan 11, 1991, 4:28 PM |
 
 ### Chapter 5 — Annabelle's Party
@@ -212,7 +212,7 @@ Published scenes from **Chicago Chronicles** in chronological order.
 
 | # | Scene | PC | Date |
 |---|---|---|---|
-| 72 | [The Railroad Eccentric](/posts/the-railroad-eccentric/) | Tomas | Jan 17, 1991, 4:35 PM |
+| 72 | [The Railroad Eccentric](/posts/the-railroad-eccentric/) | Chronicle | Jan 17, 1991, 4:35 PM |
 | 73 | [An Unexpected Meeting](/posts/an-unexpected-meeting/) | Darius | Jan 18, 1991, 4:35 PM |
 | 74 | [The Old Neighborhood](/posts/the-old-neighborhood/) | Sable | Jan 20, 1991, 4:35 PM |
 | 75 | [The Assessment](/posts/the-assessment/) | Sable | Jan 21, 1991, 4:35 PM |
@@ -232,7 +232,7 @@ Published scenes from **Chicago Chronicles** in chronological order.
 
 ### Chapter 8 — Player of Pawns
 
-*Jan 29, 1991.*
+*Jan 29, 1991, 5:00 PM through Jan 29, 1991, 5:01 PM.*
 
 | # | Scene | PC | Date |
 |---|---|---|---|
@@ -250,7 +250,19 @@ Published scenes from **Chicago Chronicles** in chronological order.
 
 | # | Scene | PC | Date |
 |---|---|---|---|
-| 86 | [The Prince's Court](/posts/the-princes-court/) | Darius + Sable + Tomas | Jan 31, 1991, 5:02 PM |
+| 86 | [The Prince's Court](/posts/the-princes-court/) | Darius + Sable | Jan 31, 1991, 5:02 PM |
+
+### Chapter 11 — Act III Opening
+
+*Feb 1, 1991, 5:05 PM through Feb 5, 1991, 5:08 PM.*
+
+| # | Scene | PC | Date |
+|---|---|---|---|
+| 87 | [First Night Standing](/posts/first-night-standing/) | Tomás | Feb 1, 1991, 5:05 PM |
+| 88 | [The Debrief](/posts/the-debrief-d049/) | Tomás | Feb 1, 1991, 5:05 PM |
+| 89 | [The Survey](/posts/the-survey/) | Tomás | Feb 3, 1991, 5:07 PM |
+| 90 | [The Sire's Territory](/posts/the-sires-territory/) | Darius | Feb 4, 1991, 5:09 PM |
+| 91 | [The Assignment](/posts/the-assignment/) | Tomás | Feb 5, 1991, 5:08 PM |
 
 ---
 
@@ -263,3 +275,4 @@ Published scenes from **Chicago Chronicles** in chronological order.
 ### Hell's Highway
 
 - [Hell's Highway](/posts/hells-highway/) — Aug 15, 1987, 10:00 PM
+

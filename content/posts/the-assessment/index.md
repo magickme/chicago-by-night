@@ -59,7 +59,7 @@ The booth went still.
 
 She left. The movement was fluid and final. Not a storm. A departure that made staying look like the weaker choice. At the edge of the booth she looked back at [Sir Henry](/npcs/sir-henry-johnson/) and said, "Tell your friend she's everything you advertised."
 
-[Sir Henry](/npcs/sir-henry-johnson/) watched her go. Turned back to [Sable](/sable-price/) with the naked delight of a man who had just witnessed art — not [Sophia](/npcs/sophia-ayes/)'s, and not quite Sable's, but the collision itself.
+[Sir Henry](/npcs/sir-henry-johnson/) watched her go. Turned back to [Sable](/sable-price/) with the naked delight of a man who had just witnessed art — not [Sophia](/npcs/sophia-ayes/)'s, and not quite [Sable](/sable-price/)'s, but the collision itself.
 
 "Magnificent," he said. "[Annabelle](/npcs/annabelle-triabell/)'s going to hear about that by tomorrow evening and she is going to be absolutely furious with you."
 
@@ -67,7 +67,7 @@ Then the delight resolved into counsel, because [Sir Henry](/npcs/sir-henry-john
 
 "Find a way to compliment her craft before Wednesday," [Sir Henry](/npcs/sir-henry-johnson/) said. "Not her beauty. Her discipline. [Annabelle](/npcs/annabelle-triabell/) will hear about that too."
 
-Sable gave him Gary in return. Not the whole of it — not [Allicia](/npcs/allicia/), not the pipeline, not the things with price tags too large for a Monday night. The shape of it. [Modius](/npcs/modius/) turning inward, the court thinning, the mansion still standing with the audience getting smaller. The mortal city eating itself. Enough about the docks to suggest activity. Enough about [Juggler](/npcs/juggler/) to make Sir Henry laugh. Enough about [Danov](/npcs/alexander-danov/) to make him go quiet.
+Sable gave him Gary in return. Not the whole of it — not [Allicia](/npcs/allicia/), not the pipeline, not the things with price tags too large for a Monday night. The shape of it. [Modius](/npcs/modius/) turning inward, the court thinning, the mansion still standing with the audience getting smaller. The mortal city eating itself. Enough about the docks to suggest activity. Enough about [Juggler](/npcs/juggler/) to make [Sir Henry](/npcs/sir-henry-johnson/) laugh. Enough about [Danov](/npcs/alexander-danov/) to make him go quiet.
 
 He knew there was more. A hundred and thirty years and Auspex 4 and the difference between a first payment and a final one. He accepted what he was given with the grace of a man who understood credit.
 

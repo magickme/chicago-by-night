@@ -20,7 +20,7 @@ The penthouse smelled like carpet cleaner and rage. [Brennon](/npcs/brennon-thor
 
 [Darius](/darius-cole/) had gotten the short version on the stairs from [Sir](/npcs/sir-henry-johnson/). A preacher from Gary (Episcopal, not the Baptists from the buses) had crossed the rope line, found [Brennon](/npcs/brennon-thornhill/) on the main floor, and put a palm flat against his sternum. And [Brennon](/npcs/brennon-thornhill/) had left. Not backed away, not excused himself. Left. An 8th-generation Ventrue with three hundred years of social engineering behind him, chased out of his own club by a mortal's open hand.
 
-True Faith. Darius had read about it in [Modius](/npcs/modius/)'s library, a single paragraph in a volume on Inquisition-era tactics that [Modius](/npcs/modius/) kept shelved between editions of Vasari. The prose had been clinical and the clinical tone had not helped, because the clinical tone was the sound of something that terrified the author.
+True Faith. [Darius](/darius-cole/) had read about it in [Modius](/npcs/modius/)'s library, a single paragraph in a volume on Inquisition-era tactics that [Modius](/npcs/modius/) kept shelved between editions of Vasari. The prose had been clinical and the clinical tone had not helped, because the clinical tone was the sound of something that terrified the author.
 
 "How about a scandal," Darius said. "The kid. [Neon](/npcs/neon/). We have him go out and tell the congregation their pastor touched him."
 
@@ -58,7 +58,7 @@ Darius looked at [Portia](/npcs/portia/). She had not moved since he entered. He
 
 "The buses are from Gary. The protestors are from Gary. This has his fingerprints."
 
-"I'm aware," [Brennon](/npcs/brennon-thornhill/) said. "And I want to discuss it. After Coleman is handled."
+"I'm aware," [Brennon](/npcs/brennon-thornhill/) said. "And I want to discuss it. After [Coleman](/npcs/rev-terrence-coleman/) is handled."
 
 Darius stood. "I'll handle it my way."
 

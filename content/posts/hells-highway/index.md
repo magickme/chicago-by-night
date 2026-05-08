@@ -246,7 +246,7 @@ I had nothing left in reserve. No willpower. No scholar's distance. Just one nam
 
 The spirit world ignited. Golden light poured upward from beneath my feet as though the sun itself were rising through the floor of Hell. Apophis screamed below hearing and recoiled. Faces trapped in the burning tar surfaced one final time, mouths open not in agony but in relief, before the light dissolved them upward.
 
-Karamemti flinched. The [Lord](/npcs/lord-cassius/) of Rot *flinched*.
+Karamemti flinched. The Lord of Rot *flinched*.
 
 I named Set -- the necessary evil, the god who stands on Ra's war barge and spears the serpent every night. Karamemti's own patron, wielded against him.
 
@@ -272,7 +272,7 @@ I stepped forward. "Karamemti," I said. Quietly. Just the name.
 
 He froze.
 
-"[Lord](/npcs/lord-cassius/) of Rot." Another step. "Who Dissolves--"
+"Lord of Rot." Another step. "Who Dissolves--"
 
 "*STOP.*"
 

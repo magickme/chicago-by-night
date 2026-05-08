@@ -22,7 +22,7 @@ Three of them around the corner, college age, one with a bottle, one with a bat.
 
 The victim caught his eye through the blood. One look, then away. A real victim calls out.
 
-"Tell me exactly what you're doing here," Darius said to the lead teen. Eye contact. The command went out and found nothing. The kid's gaze passed through him, flat, uncomprehending. Not resistance. Absence. Darius felt the familiar grip close on empty air.
+"Tell me exactly what you're doing here," [Darius](/darius-cole/) said to the lead teen. Eye contact. The command went out and found nothing. The kid's gaze passed through him, flat, uncomprehending. Not resistance. Absence. Darius felt the familiar grip close on empty air.
 
 The kid blinked. Looked at the others. "He said someone was coming. Little guy was right."
 
@@ -104,7 +104,7 @@ The unmarked door opened. Rolf filled the frame. Flashlight. Eye contact.
 
 "Tell me exactly what's going on here," Darius said, and this time the command found purchase. Rolf's eyes went flat, compliant, the resistance dissolving like sugar in hot water.
 
-Rolf talked. Three prisoners in the vault. Two Kindred, one mortal lawyer. The Game, as he called it, operated on a principle Darius recognized from intelligence briefings: capture, contain, release angry. The vault made captives furious at [Critias](/npcs/critias/), because Critias was the one who should have prevented it and hadn't. Dimitri's destabilization method. It had worked before, in other cities.
+Rolf talked. Three prisoners in the vault. Two Kindred, one mortal lawyer. The Game, as he called it, operated on a principle Darius recognized from intelligence briefings: capture, contain, release angry. The vault made captives furious at [Critias](/npcs/critias/), because [Critias](/npcs/critias/) was the one who should have prevented it and hadn't. Dimitri's destabilization method. It had worked before, in other cities.
 
 "The stone," Rolf said, flat and obedient. "Top desk drawer. Office. She's bound in it."
 
@@ -146,13 +146,13 @@ Darius shoved him hard. Rolf stumbled backward into the vault door frame. They m
 
 [Annabelle](/npcs/annabelle-triabell/)'s sedan idled at the curb. Window down. "My car. Follow me."
 
-Keaton at the Buick door: "I need a ride."
+[Keaton](/npcs/gordon-keaton/) at the Buick door: "I need a ride."
 
 "Always happy to make a new friend. Friend." Darius unlocked the door. "Get in."
 
 ---
 
-Annabelle's Gold Coast haven was old money dressed in restraint. Parquet floors, good light, nothing on the walls that needed explanation. She gave them the debrief standing, one hand on the back of a chair she never sat in.
+[Annabelle](/npcs/annabelle-triabell/)'s [Gold Coast](/locations/gold-coast/) haven was old money dressed in restraint. Parquet floors, good light, nothing on the walls that needed explanation. She gave them the debrief standing, one hand on the back of a chair she never sat in.
 
 The coterie had not known about the Game. That was confirmed and filed. The stone needed permanent storage, somewhere Dimitri could not reach. Wednesday, eight PM, pre-session meeting. Feed before coming.
 
@@ -164,7 +164,7 @@ They hunted. Darius found a dealer on the West Side, phlegmatic, negligible resi
 
 Darius offered the boon. A contact name for [Brennon](/npcs/brennon-thornhill/)'s network, someone who could reach [Tomas Navarro](/tomas-navarro/), the Warlock at the Chantry. Keaton made the call, ran a thin cover story, and came back with a number on a cocktail napkin. Chicago exchange. Near North.
 
-"Brennon didn't ask twice."
+"[Brennon](/npcs/brennon-thornhill/) didn't ask twice."
 
 ---
 
@@ -192,7 +192,7 @@ O'Shanter's at three in the morning. Wood paneling, Guinness tap, the particular
 
 "Are we clear here?"
 
-Tomas did not look around. He had already looked. "Walkman with foam earbuds on the bartender. Nearest occupied seat is eleven feet. We're clear."
+[Tomas](/npcs/tomas/) did not look around. He had already looked. "Walkman with foam earbuds on the bartender. Nearest occupied seat is eleven feet. We're clear."
 
 Darius told him. The shaman. Rolf. The Hag in the corner. The stone, cold and too heavy, sitting in his coat pocket.
 
@@ -214,7 +214,7 @@ Darius told him what he had done.
 
 ---
 
-Crown Victoria, South Side, 3:50 AM. The Church of Christ was dark except for a single light in a basement window. Bordruff was already outside, in the shadow of the doorway. The face was ruin. Collapsed topography, no feature where you expected one. He looked at the coat pocket first. Then Tomas. Then Darius.
+Crown Victoria, South Side, 3:50 AM. The Church of Christ was dark except for a single light in a basement window. [Bordruff](/npcs/nathaniel-bordruff/) was already outside, in the shadow of the doorway. The face was ruin. Collapsed topography, no feature where you expected one. He looked at the coat pocket first. Then Tomas. Then Darius.
 
 "You owe me a question. And now you want something else."
 

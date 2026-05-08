@@ -5,7 +5,7 @@ layout: "page"
 slug: "quests"
 ---
 
-*Chicago Chronicles. Act II: Ashes and Blood. Updated: **1991-01-31 (Thursday). Current snapshot: Joint scene D047/S046 "The Prince's Court" closed late evening Jan 31 ~23:30. Campaign start: NYE 1989. Act II (Ashes and Blood): January 1991+. Baptism by Fire: NYE 1990.**.*
+*Chicago Chronicles. Act II: Ashes and Blood. Updated: **1991-02-05 (Tuesday). Current snapshot: Scene D052 "The Assignment" (Tomás solo) closed evening Feb 5 ~19:00. Campaign start: NYE 1989. Act II (Ashes and Blood): January 1991+. Baptism by Fire: NYE 1990.**.*
 
 
 
@@ -21,9 +21,9 @@ slug: "quests"
 | Ballard's counterattack (2x) | ADVANCING. Greystone Fiduciary = mortal finance network (LaSalle). Letter intercepted: 3 Annabelle properties targeted. Courier network mapped (Craig Hessler → Hayward → brownstone). "Entrée comes Friday." Annabelle warned by Sable. Camera at Sherwin-Williams has Darius's face. Forgetful Mind on Craig thin (1 succ). |
 | Railroad leverage | OPEN. Drummond's ledger maps unauthorized freight. Pipeline implications for Chuc Luc. |
 | Lodin's return (2x) | ACTIVE. Behind closed doors since Primogen session. Damaged. Neally chairing Wednesday. Anarchs reading weakness. Blood bond demand pending. |
-| Hunter pressure | OPEN. Dane 5/6 (active hunt, may follow to Chicago). Shepard (FBI, dormant). Society of Leopold (Chicago chapter). |
+| Hunter pressure | ADVANCING D053. Dane 5/6 (active hunt). Society of Leopold Chicago cell FULLY MAPPED: Sayles (field), Tomba (field/forgery), Fr. Emil Koenig (Loyola researcher), Margaret Weil (Archdiocese logistics). 3 national distro points: Chicago/Herdon, New Orleans/Cavanaugh, Boston/Newbury bookshop. Dane classified "independent-friendly" — still sends reports to DC, receives quarterly field bulletins. Oct 1990 report: Dane IDed Modius + Allicia only (no neonates). Jan 1991 bulletin: Gary = "low priority." Next bulletin April 1991. Both field operatives Mesmerized + Forgetful Mind'd + post-hypnotic suggestion: prioritize Dane recall/tribunal. Tomba committed verbally to "handling" Dane personally. Herdon Entranced (Sable, 5 succ, expires Feb 12) — Conditioning planned (0/14 successes). Shepard (FBI, dormant). Leopold HQ: DC near Catholic University. Georgetown = consecrated ground, permanent Society presence. Lanee Andrin (New Orleans, Dane-trained, hunts via Josua Cambridge portraits) = Dane network. Society has IDed 3 Chicago Kindred by description only (North Side nightclub woman, Civic Opera man, Hyde Park university — likely Annabelle/unknown/Critias). |
 | The Methuselah War | HIDDEN but ACTIVE. Helena vs Menele. Darius bonded Step 1. Three Jyhad pieces (Darius, Lodin, Critias). |
-| Sabbat infiltration | LATENT. Rigaud and Wade embedded. Activates Act III. |
+| Sabbat infiltration | ADVANCING D053. Rigaud and Wade embedded (deep cover, careful). SEPARATE ELEMENT: Bach's rogue Sabbat motorcycle pack operating openly — killed Michael (Malkavian 8th, Gary) in Pilsen domain, Serpent of the Light ritual trophy. Pack of 4-5, Creole-speaking woman leading. Bach's pack = advance dressing for Blood Bond (WW2101). Rigaud will be furious at premature exposure risk. Two-track Sabbat threat: careful infiltrators (Rigaud/Wade) vs. reckless pack (Bach). Coterie reported to Neally + Nicolai. Michael's death connects Gary (Dane hunt pushed him out) to Chicago (Bach's kill zone). |
 | Damien and Neon | Anarch allies (strained). Rescued coterie. Debt owed. Belthazar staked on Wacker — when unstaked, hunt. |
 | Tremere breach | OPEN. Tomás found Walt's walkup Jan 10. Counter-op transparent to Tremere. |
 | Lodin's siring ban | OPEN. 18 years, no new Embraces. Lodin broke his own rule. |
@@ -40,6 +40,8 @@ slug: "quests"
 | Fundamental Differences (Coleman + Brennon) | NEW D046. Published adventure (Succubus Club 1E). COMPLETE in one session. Coleman escorted to Gary on charter bus. True Faith resisted Dominate. Sable vomit vitae scare succeeded. Brennon redirected anger from Coleman to Modius (Pervis Ramsley evidence: paid agitator, matching Modius). Brennon promised to advocate formal status with Lodin. Disposition +2 → +3. Darius owes Brennon promissory debrief (Modius operations). Pervis Ramsley (mortal, Gary) driven home — new contact. No Masquerade breach. Coleman = future ally thread (Golconda catalyst, Gary intel). |
 | Chuc Luc's reckonings | NEW D047. Lodin suspended Chuc Luc's claims on Darius, asserting Prince's dominion. Chuc Luc has not heard from Darius in 26 days. Capone household will react. Darius caught between sire's autonomy conditions (#2) and formal Prince authority. Tension escalating. |
 | Lodin's direct authority | NEW D047. Darius acknowledged as Prince's blood (public lineage). Granted domain authority. Assigned as direct operational instrument. Changed standing from fugitive emissary to registered asset. Brings formal protection and visibility. Complicates Menele bond (subconscious) vs. Prince's direct command. |
+| Kuei-jin in the tunnels | NEW D051. Japanese Devil-Tiger (Ghost-Flame Shintai 5 minimum — Goblin Lantern) detected as wrongness in South Loop alley while Darius fed (Feb 4, ~11:45 PM, Wabash near Congress). Darius has no Auspex — perceived only as unresolvable wrongness. Kuei-jin was mapping or transiting the tunnel network. NOT reported to Chuc Luc yet. Intelligence to deliver next meeting. Sable's Spirit's Touch in that alley = first concrete data available. Full sideplot: vampire/Chicago by Night/Overview/Sideplots/Chinatown-Sideplot.md |
+| The Dragon Below Chinatown | SEEDED D051. Jade Demon (Lo Pan) — ancient Nephandi barabbi, Arete 8+, operates beneath Old Chinatown from a Node at tunnel nexus. Controls Wing Kong tong. Has unnamed Tremere ally. Chuc Luc does not know. Tunnel network (coterie D050 discovery) extends toward Node. Kuei-jin may know. Kim Vachon (Euthanatos infiltrator) wants Jade Demon dead — patient wildcard. Full sideplot: vampire/Chicago by Night/Overview/Sideplots/Chinatown-Sideplot.md |
 
 ## Sable
 
@@ -56,7 +58,7 @@ slug: "quests"
 | Ghoul management (remote) | 1x | ACTIVE. DeShawn, Pete at Kendrick's. Coop DEPLOYED to Robert Taylor (S036). Spoon home. 3 BP/month. Distance = decay risk. |
 | Cover story under scrutiny | 1x | OPEN. App 5 memorable. Critias engaged both PCs — profile raised. |
 | Anarch unrest | 1x | ADVANCING. Gengis +1. Maldavis +1. Succession talk (Maldavis as candidate). South Side displacement. |
-| Hunter pressure | 1x | ADVANCED. Standdown encountered + wiped. Shepard (FBI) connected. Dane may follow. |
+| Hunter pressure | 1x | ADVANCING D053. Standdown encountered + wiped. Shepard (FBI, dormant). Society of Leopold Chicago cell fully mapped + neutralized (Sayles/Tomba Dominated, Herdon Entranced). Dane pipeline exposed: "independent-friendly," quarterly bulletins, Oct 1990 Gary report. Post-hypnotic suggestion planted: recall/tribunal Dane. Sable framed Dane as liability to his own organization. |
 | Drummond's gratitude + railroad | 1x | OPEN. Elder Ventrue owes Sable. Ledger maps Ballard's freight. Pipeline implications for Chuc Luc. |
 | Sir Henry alliance | 1x | DEEPENED S037. Reciprocal trade completed (Gary for Drake). Coached Sable on Wednesday strategy. Advised re Sophia repair. S044: Escorted Sable unprompted, walked her through Rack, named Dimitri, arranged exit. Disp +1 → +2. |
 | Tamoszius alliance | 1x | NEW S034. 90yr Ballard-watcher. Info exchange deal. Independent Toreador intel channel. |
@@ -64,7 +66,7 @@ slug: "quests"
 | Gengis Thursday meeting | 1x | CONFIRMED D041. Weekly Thursday meeting in Labyrinth. Double game with Brennon. Gengis +2 from D038 Wolf Pack intel. |
 | Critias faculty club Thursday | 1x | STANDING D040 + ESCALATED S044. Critias faculty club 9 PM Thursday Jan 31 (Darius attended D040, Critias +2→+3). Sable invited S044. Brewery after 10. Both PCs able to attend. D045: Sable did not attend (Player of Pawns complete, Dimitri destroyed). |
 | Player of Pawns — Scene 5 complete | 2x | COMPLETE D045. Critias briefing S044 on the Game structure loaded Scene 5. Sable context: Darva + Paulov hunting her, Dimitri orchestrating. OUTCOME: Dimitri destroyed via diablerie (Critias intervened, held frenzy). Rolf/Paulov/Darva ordered out of Chicago. Sable profile raised but mission succeeded. Scale: controlled. Major Boon owed by Critias (not called in). Adventure closed. |
-| Sabbat incursion (tunnel scout) | 2x | ADVANCING S038. Bordruff deal closed. Khalid's people will remove scout. Route map obtained: entry via decommissioned boiler tunnel (south end), cache at junction 3, speculative north route toward South Loop. Scout is Toreador antitribu or similar — Presence-user, brand on wrist, non-local clay. |
+| Sabbat incursion (tunnel scout + pack) | 2x | ADVANCING D053. Bordruff deal: scout removal in progress. Route map obtained. SECOND ELEMENT: Bach's rogue Sabbat pack operating above ground — killed Michael (Gary Malkavian) in coterie's Pilsen domain, Serpent of the Light ritual trophy. Pack of 4-5, Creole-speaking woman. Reported to Neally + Nicolai. Two-track threat: underground scout + above-ground pack. Advance dressing for Blood Bond adventure. |
 | Bordruff / Nosferatu contact | 1x | ESTABLISHED S038. Deal closed. Scout removal in progress. One open question owed to Bordruff within calendar year (off-books, unwitnessed). Bordruff -1 — transactional, sees Sable's access as potentially temporary. |
 | Methuselah War | HIDDEN | Helena vs Menele. Coterie = unwitting Menele proxies. Portia at Succubus Club. Tunnel routes north may connect to Club foundations. S044: Game revealed — Sable now aware of broader chess game around her. D046/S045: Sable supported Darius's Brennon play. No new Methuselah intel. Thread carries. |
 | Fundamental Differences (Coleman + Brennon) | NEW D046/S045 | Published adventure (Succubus Club 1E). Joint scene with Darius. COMPLETE in one session. Outcome: Coleman to Gary (not killed). Brennon disposition +2 → +3 (both PCs). Sable vomit vitae approach succeeded (Dex boost 1 BP cost). Masquerade clean. Thread closed. Brennon now commited to formal status advocacy with Lodin. |
@@ -75,7 +77,7 @@ slug: "quests"
 - ~~Deliver Modius's letter to Lodin (or his regent)~~ DONE
 - Present themselves formally per Lodin's demand (Brennon offered to pass message to Neally — Wednesday session opportunity)
 - Survive Chicago's Kindred politics
-- ~~Establish haven and communication infrastructure~~ Kaspar haven operational. Comm nodes mapped.
+- ~~Establish haven and communication infrastructure~~ Kaspar haven operational. Shared haven = face-to-face comms.
 - ~~Find the Succubus Club and Sir Henry Johnson~~ DONE. Club mapped including Labyrinth.
 - Maintain Gary operations remotely
 - Advance Allicia bond-breaking (Carna coordination from Chicago)

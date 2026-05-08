@@ -39,7 +39,7 @@ She crossed to the center of the room. The record paused between tracks, and in 
 
 ---
 
-[Sable](/sable-price/) took the glass Sir Henry offered (cold, untouched, she would carry it the rest of the evening and set it down somewhere without having brought it to her lips, which was the specific Kindred pantomime of sociability that she had learned to perform without thinking about and which she thought about now, briefly, the absurdity of it, a room full of predators holding stemware) and moved to where she could see the room and the window both.
+[Sable](/sable-price/) took the glass [Sir Henry](/npcs/sir-henry-johnson/) offered (cold, untouched, she would carry it the rest of the evening and set it down somewhere without having brought it to her lips, which was the specific Kindred pantomime of sociability that she had learned to perform without thinking about and which she thought about now, briefly, the absurdity of it, a room full of predators holding stemware) and moved to where she could see the room and the window both.
 
 The read came in three seconds. [Sophia's](/npcs/sophia-ayes/) turned back was performance — she was listening to every word. The two unknown Toreador were [Annabelle's](/npcs/annabelle-triabell/). Sir Henry had placed himself between [Sable](/sable-price/) and the elevator without seeming to have done so on purpose.
 
@@ -49,7 +49,7 @@ The read came in three seconds. [Sophia's](/npcs/sophia-ayes/) turned back was p
 
 She let herself think before she said the rest of it. The room needed to see her think — this was the part she had learned from [Annabelle](/npcs/annabelle-triabell/) without [Annabelle](/npcs/annabelle-triabell/) ever teaching it, the part where the answer matters less than the visible act of arriving at it.
 
-"[Drummond](/npcs/edgar-drummond/) is exposed. Ballard knows that. He was in court today instead of making calls, which means whoever he's waiting for isn't available yet." A beat. "Someone with standing to intervene. Someone who can shift the litigation onto ground where your lawyers haven't set up."
+"[Drummond](/npcs/edgar-drummond/) is exposed. [Ballard](/npcs/ballard/) knows that. He was in court today instead of making calls, which means whoever he's waiting for isn't available yet." A beat. "Someone with standing to intervene. Someone who can shift the litigation onto ground where your lawyers haven't set up."
 
 She looked at [Annabelle](/npcs/annabelle-triabell/). "Who does he have on the bench."
 
@@ -81,7 +81,7 @@ She looked at [Sable](/sable-price/) with the particular attention of someone we
 
 ---
 
-She drove the long way. Astor to Burton, Burton west to Clark, Clark south to Division, east on Elm, through the alley behind the [Newberry](/npcs/jason-newberry/) Library, out on Walton heading the wrong direction, north on Michigan from a side street. Twelve minutes for a four-minute drive.
+She drove the long way. [Astor](/npcs/lady-astor/) to Burton, Burton west to Clark, Clark south to Division, east on Elm, through the alley behind the [Newberry](/npcs/jason-newberry/) Library, out on Walton heading the wrong direction, north on Michigan from a side street. Twelve minutes for a four-minute drive.
 
 The Magnificent Mile was nearly empty — Tuesday night, State of the Union on every television in America. Department-store windows lit for an audience that had gone home to watch the war turn real. No foot traffic. No cabs. Just the cold trench of the avenue with nothing in it to absorb a car that didn't want to be followed.
 

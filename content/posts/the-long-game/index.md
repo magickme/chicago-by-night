@@ -56,7 +56,7 @@ Thirteen months of data. Church records and missing-persons reports and bar clos
 
 [Dane](/npcs/sullivan-dane/) didn't need proof. Proof was for courtrooms. He needed confirmation, and he knew how to get it from creatures who couldn't stand in front of what he carried.
 
-He left a pamphlet under the windshield wiper of the Cutlass. Romans 6:23. *The wages of sin is death; but the gift of God is eternal life through Jesus Christ our [Lord](/npcs/lord-cassius/).* Small card stock, the kind churches leave in laundromat windows. [Dane](/npcs/sullivan-dane/) sat in a rented car on the next block and watched the apartment with a patience that was older than patience, that came from a place in him where the waiting and the faith were the same thing.
+He left a pamphlet under the windshield wiper of the Cutlass. Romans 6:23. *The wages of sin is death; but the gift of God is eternal life through Jesus Christ our Lord.* Small card stock, the kind churches leave in laundromat windows. [Dane](/npcs/sullivan-dane/) sat in a rented car on the next block and watched the apartment with a patience that was older than patience, that came from a place in him where the waiting and the faith were the same thing.
 
 [Darius](/darius-cole/) found it at sundown. Read it. Tossed it in the trash. Drove to the docks.
 

@@ -124,4 +124,4 @@ Outside, Gary entered the new decade the way it had left the old one: quietly, e
 
 But underneath — underneath the rust and the silence and the frozen lake — something was moving. A wheel had begun to turn. And as long as every wheel turned in the right direction, everybody would make money.
 
-Darius slept. The blood settled in him like an answer to a question nobody had asked yet.
+[Darius](/darius-cole/) slept. The blood settled in him like an answer to a question nobody had asked yet.

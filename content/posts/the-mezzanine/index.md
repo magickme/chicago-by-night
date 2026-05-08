@@ -22,13 +22,13 @@ He fed fast. Two pulls. Left a twenty in the jacket pocket because the alternati
 
 They met at the service stairs. [Sable](/sable-price/)'s mouth was warm, her color high. [Darius](/darius-cole/)'s face had not changed.
 
-"There's a Ventrue in the east corridor," Sable said. "Feeding on a woman holding peyote buttons."
+"There's a Ventrue in the east corridor," [Sable](/sable-price/) said. "Feeding on a woman holding peyote buttons."
 
 He followed her. Through the crowd, past a couple tangled against a wall, through a service door marked STAFF ONLY in paint that was peeling off. The east corridor was narrower, lit by a single bare bulb, and at the end of it a woman was standing over a mortal slumped in a folding chair. The mortal's hand was open, three brown buttons in the palm. The Ventrue straightened and tilted her head fifteen degrees, an involuntary motion, a dog hearing a frequency, and then walked past them without acknowledgment. Not toward the exits. Deeper. Toward the freight elevator.
 
 "Follow her," Sable said.
 
-Darius took the service stairs. Four flights, concrete, paint chipped to the rebar. Quiet above the third floor. The VIP lounge was dark except for the city light through the observation windows, and [Lorraine](/npcs/lorraine-matthews/) was standing at the glass with both palms pressed flat, watching the dance floor four stories below as if the crowd were an organism and she were trying to find its heartbeat.
+[Darius](/darius-cole/) took the service stairs. Four flights, concrete, paint chipped to the rebar. Quiet above the third floor. The VIP lounge was dark except for the city light through the observation windows, and [Lorraine](/npcs/lorraine-matthews/) was standing at the glass with both palms pressed flat, watching the dance floor four stories below as if the crowd were an organism and she were trying to find its heartbeat.
 
 Then she opened the sliding door and stepped onto the observation deck.
 

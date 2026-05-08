@@ -57,7 +57,7 @@ The drive south to Indiana Avenue took [Darius](/darius-cole/) through 35th and 
 
 The brownstone on Indiana Avenue was dark except for one second-floor window. A Crown Victoria with municipal plates and an alderman's parking placard on the dash sat across the street. Fresh tire tracks cut through the alley --- wide wheelbase, recent. And the shade on the second floor moved a half-inch, showing a sliver of light, and fell back. Somebody was watching the street.
 
-Darius tried the neighbor woman taking out her trash. The Presence slid off him --- the blood-smell static in his head fouling the signal --- and he was left with the Ventrue toolkit stripped to its base components: voice, posture, a pretext about a cousin's address.
+[Darius](/darius-cole/) tried the neighbor woman taking out her trash. The Presence slid off him --- the blood-smell static in his head fouling the signal --- and he was left with the Ventrue toolkit stripped to its base components: voice, posture, a pretext about a cousin's address.
 
 "That's the Hayward place. He's not there much. People come and go at that place. Cars at all hours. I mind my own business." She went inside. Dead bolt. Chain.
 
