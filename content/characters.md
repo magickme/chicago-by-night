@@ -42,6 +42,65 @@ ShowToc: false
 
 ---
 
+## Interlude S — The Sword of Caine
+
+*Montreal, November 1992. [Les Fossoyeurs](/les-fossoyeurs/) — a Sabbat intelligence cell assembled by Vykos's network — navigate the succession crisis as forward operatives for the war that follows.*
+
+<div class="character-grid">
+<div class="character-card">
+<a href="/calvi/">
+<img src="/images/calvi-portrait.webp" alt="Calvi" loading="lazy">
+<div class="character-info">
+<strong>Calvi</strong>
+<span class="lineage">Lasombra, 11th generation</span>
+<p>Neapolitan financier who ran a Camorra territory's books before the debt economy revealed itself as a shadow of something older. Ductus. He does not give orders. He describes problems.</p>
+</div>
+</a>
+</div>
+<div class="character-card">
+<a href="/constanzo/">
+<img src="/images/constanzo-portrait.webp" alt="Constanzo" loading="lazy">
+<div class="character-info">
+<strong>Constanzo</strong>
+<span class="lineage">Serpent of the Light, 10th generation</span>
+<p>Palo Mayombe practitioner who serves the Enkisi before the Sabbat. Pack Priest. Her nganga predates the Sword of Caine. The spirits she channels do not answer to sect loyalty.</p>
+</div>
+</a>
+</div>
+<div class="character-card">
+<a href="/homolka/">
+<img src="/images/homolka-portrait.webp" alt="Homolka" loading="lazy">
+<div class="character-info">
+<strong>Homolka</strong>
+<span class="lineage">Toreador antitribu, 11th generation</span>
+<p>The beautiful thing that wants to watch you break. Social operative. Retains Humanity as camouflage, not conviction. The pack's mortal-world interface.</p>
+</div>
+</a>
+</div>
+<div class="character-card">
+<a href="/puente/">
+<img src="/images/puente-portrait.webp" alt="Puente" loading="lazy">
+<div class="character-info">
+<strong>Puente</strong>
+<span class="lineage">Tzimisce, 10th generation</span>
+<p>Holds Chinatown as a voivode holds domain. Territorial sovereign. The flesh is hers. It has always been hers. Her sovereignty owes nothing to any hierarchy.</p>
+</div>
+</a>
+</div>
+<div class="character-card">
+<a href="/dirlewanger/">
+<img src="/images/dirlewanger-portrait.webp" alt="Dirlewanger" loading="lazy">
+<div class="character-info">
+<strong>Dirlewanger</strong>
+<span class="lineage">Ventrue antitribu, 9th generation</span>
+<p>Forty-seven years undead. Heavy weapons and institutional memory. He will do what he says he will do. Predictability is its own kind of power.</p>
+</div>
+</a>
+</div>
+</div>
+
+---
+
 ## Gary, Indiana
 
 *Dying steel town. Seven Kindred, one broken Prince, and the machine underneath.*
@@ -1235,58 +1294,6 @@ ShowToc: false
 </div>
 </a>
 </div>
-</div>
-
----
-
-## Interlude S — The Sword of Caine
-
-*Montreal, November 1992. Les Fossoyeurs — a Sabbat intelligence cell assembled by Vykos's network — navigate the succession crisis as forward operatives for the war that follows.*
-
-<div class="character-grid">
-
-<div class="character-card">
-
-### [Les Fossoyeurs](/les-fossoyeurs/)
-**The Gravediggers** — Sabbat pack, Montreal. Five specialists assembled for a mandate none of them fully understands.
-
-</div>
-
-<div class="character-card">
-
-### [Calvi](/calvi/)
-**Lasombra / Ductus** — The Neapolitan who ran a Camorra territory's finances before the debt economy revealed itself as a shadow of something older. He does not give orders. He describes problems.
-
-</div>
-
-<div class="character-card">
-
-### [Constanzo](/constanzo/)
-**Serpent of the Light / Pack Priest** — Palo Mayombe practitioner who serves the Enkisi before the Sabbat. Her nganga predates the Sword of Caine. The spirits she channels do not answer to sect loyalty.
-
-</div>
-
-<div class="character-card">
-
-### [Homolka](/homolka/)
-**Toreador antitribu / Social Operative** — The beautiful thing that wants to watch you break. Retains Humanity as camouflage, not conviction. The pack's mortal-world interface.
-
-</div>
-
-<div class="character-card">
-
-### [Puente](/puente/)
-**Tzimisce / Territorial Sovereign** — Holds Chinatown as a voivode holds domain. The flesh is hers. It has always been hers. Her sovereignty owes nothing to any hierarchy.
-
-</div>
-
-<div class="character-card">
-
-### [Dirlewanger](/dirlewanger/)
-**Ventrue antitribu / Heavy Weapons** — Forty-seven years undead. Institutional memory. Predictability is its own kind of power.
-
-</div>
-
 </div>
 
 ---

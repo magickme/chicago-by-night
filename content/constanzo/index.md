@@ -3,9 +3,11 @@ title: "Constanzo"
 url: "/constanzo/"
 hidemeta: true
 description: "Constanzo. Serpent of the Light. Montreal. Chicago Chronicles, Interlude S: The Sword of Caine."
+image: cover.webp
 ---
 
 <div class="character-profile">
+<img src="cover.webp" alt="Constanzo" class="character-portrait" loading="lazy">
 <div class="character-stats">
 <dl>
 <dt>Full Name</dt><dd>Constanzo (born Yelena Constanzo)</dd>

@@ -3,9 +3,11 @@ title: "Dirlewanger"
 url: "/dirlewanger/"
 hidemeta: true
 description: "Dirlewanger. Ventrue antitribu. Montreal. Chicago Chronicles, Interlude S: The Sword of Caine."
+image: cover.webp
 ---
 
 <div class="character-profile">
+<img src="cover.webp" alt="Dirlewanger" class="character-portrait" loading="lazy">
 <div class="character-stats">
 <dl>
 <dt>Full Name</dt><dd>Dirlewanger (born Werner Dirlewanger)</dd>

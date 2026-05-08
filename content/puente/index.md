@@ -3,9 +3,11 @@ title: "Puente"
 url: "/puente/"
 hidemeta: true
 description: "Puente. Tzimisce. Montreal. Chicago Chronicles, Interlude S: The Sword of Caine."
+image: cover.webp
 ---
 
 <div class="character-profile">
+<img src="cover.webp" alt="Puente" class="character-portrait" loading="lazy">
 <div class="character-stats">
 <dl>
 <dt>Full Name</dt><dd>Puente (born Lucia Elena Puente)</dd>

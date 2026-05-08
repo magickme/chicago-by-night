@@ -3,9 +3,11 @@ title: "Homolka"
 url: "/homolka/"
 hidemeta: true
 description: "Homolka. Toreador antitribu. Montreal. Chicago Chronicles, Interlude S: The Sword of Caine."
+image: cover.webp
 ---
 
 <div class="character-profile">
+<img src="cover.webp" alt="Homolka" class="character-portrait" loading="lazy">
 <div class="character-stats">
 <dl>
 <dt>Full Name</dt><dd>Homolka (born Katrina Homolka)</dd>

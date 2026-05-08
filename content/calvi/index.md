@@ -3,9 +3,11 @@ title: "Calvi"
 url: "/calvi/"
 hidemeta: true
 description: "Calvi. Lasombra. Montreal. Chicago Chronicles, Interlude S: The Sword of Caine."
+image: cover.webp
 ---
 
 <div class="character-profile">
+<img src="cover.webp" alt="Calvi" class="character-portrait" loading="lazy">
 <div class="character-stats">
 <dl>
 <dt>Full Name</dt><dd>Calvi (born Roberto Calvi)</dd>
