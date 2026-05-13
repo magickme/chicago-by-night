@@ -44,7 +44,7 @@ Flattery with a blade in it. [Brennon](/npcs/brennon-thornhill/)'s mouth did som
 
 "To having enough." The correction was gentle and precise. He set his glass on the bar rail. Two untouched glasses between them.
 
-"Your friends made an impression Thursday night. The Ventrue — [Lodin](/npcs/lodin/) doesn't hand out domain to people he trusts. He hands it to people he wants to watch." [Brennon](/npcs/brennon-thornhill/) adjusted a cufflink. Silver, monogrammed. "And you —" He studied [Tomas](/tomas-navarro/). "[Nicolai](/npcs/nicolai/)'s people don't usually come here without Nicolai's permission. Did you get it, or are you hoping he doesn't find out?"
+"Your friends made an impression Thursday night. The Ventrue — [Lodin](/npcs/lodin/) doesn't hand out domain to people he trusts. He hands it to people he wants to watch." [Brennon](/npcs/brennon-thornhill/) adjusted a cufflink. Silver, monogrammed. "And you —" He studied [Tomas](/tomas-navarro/). "[Nicolai](/npcs/nicolai/)'s people don't usually come here without [Nicolai](/npcs/nicolai/)'s permission. Did you get it, or are you hoping he doesn't find out?"
 
 "Please. I'm Tremere. There's nothing I do that isn't signed, sealed and delivered from Vienna. But I'm just here to hunt. Unless we have other business?"
 
@@ -52,7 +52,7 @@ The deflection landed flat. Too smooth, too institutional, and [Brennon](/npcs/b
 
 "Hunt." He said the word back without inflection, which was worse than mockery. He picked up both untouched glasses and set them behind the bar. The hospitality withdrawn.
 
-"The floor's open to anyone the Prince has acknowledged. You don't need my permission for that." He straightened his cuffs. "But if you're here to map the room, Mr. Navarro, you should know that everyone in this room is doing the same thing to you. Including the ones you haven't spotted yet."
+"The floor's open to anyone the Prince has acknowledged. You don't need my permission for that." He straightened his cuffs. "But if you're here to map the room, Mr. [Navarro](/npcs/elena-navarro/), you should know that everyone in this room is doing the same thing to you. Including the ones you haven't spotted yet."
 
 His gaze flicked toward the far balcony. [Portia](/npcs/portia/)'s chair. She had been there thirty seconds ago. Now it sat empty in shadow, a half-finished glass on the table beside it.
 
@@ -156,7 +156,7 @@ She circled lateral. The smell of her filled the tunnel — old meat, tallow, fo
 
 "The mortal lives. Take him. Take the girl. But you weren't down here. I wasn't down here. [Brennon](/npcs/brennon-thornhill/) gets nothing." Then: "And you owe me, little Warlock. When I call."
 
-"Owe YOU?" He kept the gun steady. "I'm cleaning up your mess. Otherwise I go straight back upstairs and tell [Brennon](/npcs/brennon-thornhill/) that a female Nosferatu with a Polish accent broke the Masquerade. And he tells Lodin." He lowered his voice. "I'm trying to be helpful. I'd take the offer."
+"Owe YOU?" He kept the gun steady. "I'm cleaning up your mess. Otherwise I go straight back upstairs and tell [Brennon](/npcs/brennon-thornhill/) that a female Nosferatu with a Polish accent broke the Masquerade. And he tells [Lodin](/npcs/lodin/)." He lowered his voice. "I'm trying to be helpful. I'd take the offer."
 
 Silence. The drip counted three times.
 
@@ -202,11 +202,11 @@ Rush Street. Eleven o'clock. He found Jamie at a bus stop that would not see ano
 
 The haven on Kaspar Street was dark. No [Sable](/sable-price/). No [Darius](/darius-cole/). [Tomas](/tomas-navarro/) sat at the kitchen table and opened his leather notebook.
 
-*Feb 1. Succubus Club. Drainage tunnels under the Labyrinth — pre-sewer, 1880s brick, three-branch junction 12ft below east wall. Nosferatu. Female, Polish accent, Khalid's. Broke Masquerade on dance floor. Fed on mortal in tunnels. I cleaned it up. She owes nothing. I owe nothing.*
+*Feb 1. [Succubus Club](/locations/succubus-club/). Drainage tunnels under the Labyrinth — pre-sewer, 1880s brick, three-branch junction 12ft below east wall. Nosferatu. Female, Polish accent, [Khalid](/npcs/khalid-al-rashid/)'s. Broke Masquerade on dance floor. Fed on mortal in tunnels. I cleaned it up. She owes nothing. I owe nothing.*
 
-He cross-referenced Sable's report. Sabbat scouts mapping freight tunnel routes from the South Side to the Club. Khalid's network aware, had not shared. If the freight tunnels connected to the pre-sewer drainage, the Nosferatu already had a route from [Robert](/npcs/robert-klondike/) [Taylor](/npcs/helena-taylor/) Homes to the foundation. The question was whether Khalid controlled the entire underground or only the endpoints.
+He cross-referenced [Sable](/sable-price/)'s report. Sabbat scouts mapping freight tunnel routes from the South Side to the Club. Khalid's network aware, had not shared. If the freight tunnels connected to the pre-sewer drainage, the Nosferatu already had a route from [Robert](/npcs/robert-klondike/) [Taylor](/npcs/helena-taylor/) Homes to the foundation. The question was whether Khalid controlled the entire underground or only the endpoints.
 
-The Crown Vic pulled onto Astor Street at twenty past one. The chantry sat between a German consular residence and a private art collection. Limestone, three stories, black iron fence. The ward registered him — pressure behind the eyes, copper on the tongue — and released.
+The Crown Vic pulled onto [Astor](/npcs/lady-astor/) Street at twenty past one. The chantry sat between a German consular residence and a private art collection. Limestone, three stories, black iron fence. The ward registered him — pressure behind the eyes, copper on the tongue — and released.
 
 In the library, he wrote:
 

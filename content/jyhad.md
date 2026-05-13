@@ -224,6 +224,24 @@ Helena (as [Portia](/npcs/portia/)) has been visiting [Balthazar](/npcs/balthaza
 
 Khalid al-Rashid makes his first active move. He approaches [Tomas](/tomas-navarro/) via Obfuscate persona and commissions an off-books Blood Walk to verify Helena's bond operation. Khalid is building his own intelligence capability outside both Methuselahs' awareness. The knight on the rim — low on material, high on information.
 
+### 36. ?? — The Auditorium Theatre incident (D055, Feb 9, 1991)
+
+Bach's rogue Sabbat pack crashes the Verdi performance at Critias's Elysium during the coterie's first attendance under Critias's invitation. The fight exposes a concrete tomb in the proscenium wall — Jefferson Foster, Brujah neonate, staked and bricked inside the wall of Elysium for twenty-four years. The coterie pulls the stake on Critias's order. Jefferson goes Obfuscate and disappears into the city before sirens arrive.
+
+Jefferson was [Neally Edwards](/npcs/neally-edwards/)'s entombment — a private violation of the Traditions kept inside the Traditions' own house for two and a half decades. Neally is Lodin's chief administrator and one of White's reliable structural pieces. The man Jefferson is hunting is therefore one of Helena's tools. A revenant with twenty-four years of accumulated grievance, Obfuscate, and a face nobody in Chicago recognizes is now loose in Lodin's city.
+
+**Black gains a wild piece on the board through White's own carelessness.** The coterie did not understand they were doing this. Critias understood exactly what he was doing. Critias is Menele's bonded knight. The order to pull the stake was a quiet move executed under the cover of a Sabbat emergency — exactly the kind of action a four-thousand-year-old Brujah patiently waits two and a half decades to take when the board's distractions provide cover.
+
+Side effects: Sable kills Brad Hessler in the haven to plug a Masquerade leak from Darius's D054 Dominate operation. H5 → H4. Sable's Beast has now crossed into the Aggression tier — a chronicle-internal change rather than a Jyhad move, but a piece that has just become more dangerous to anyone standing near it.
+
+### 36... ?? — The Chalice (D056, Feb 11, 1991)
+
+Two nights after the Auditorium breach, Lodin summons the coterie to the 41st floor of the Prudential Building and pours a single chalice. Darius, Sable, and Tomas each drink one swallow. All three advance to Step 1/3 of a Vinculum to the Prince. Critias is in the room — arms folded — and intervenes only to register, for Neally's record, that the coterie outperformed Lodin's own childer. Lodin notes it. The toast happens anyway. The coterie leaves with a weekly Thursday report scheduled through Neally and a standing order to produce Bach's head.
+
+**White consolidates her queen's grip on her advance pawns.** Lodin formalises ownership of the three neonates that just held an Elysium for him — exactly the pieces Menele has been using to maneuver his own body into White's stronghold. But the Bond is Step 1, not Step 3. Mild positive feeling, no compulsion. Darius now carries two Step 1s — Menele (subconscious, biological) and Lodin (conscious, political). The two Methuselahs are sharing a piece without either of them knowing. Critias has bonded himself politically to a coterie that is now bonded to the Prince he serves — the chain of obligation runs through the Brujah Primogen in both directions.
+
+**Helena's move strengthens her position and tightens Menele's leverage at the same time.** The pawn the Prince just bound to himself is the same pawn that delivered Black's king to the Drake Hotel. Every order Lodin gives the coterie through Critias now travels through a piece Menele's network already controls.
+
 ### The Evaluation
 
 **Black is winning.** White's recovered queen carries Black's blood. Black's king has been delivered to the heart of White's camp by White's own pieces. Three of Black's agents surround the Prince: Critias (Primogen), Darius (emissary, bonded), and Annabelle (double agent). Helena doesn't know any of this.

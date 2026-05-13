@@ -22,7 +22,7 @@ Three of them around the corner, college age, one with a bottle, one with a bat.
 
 The victim caught his eye through the blood. One look, then away. A real victim calls out.
 
-"Tell me exactly what you're doing here," [Darius](/darius-cole/) said to the lead teen. Eye contact. The command went out and found nothing. The kid's gaze passed through him, flat, uncomprehending. Not resistance. Absence. Darius felt the familiar grip close on empty air.
+"Tell me exactly what you're doing here," [Darius](/darius-cole/) said to the lead teen. Eye contact. The command went out and found nothing. The kid's gaze passed through him, flat, uncomprehending. Not resistance. Absence. [Darius](/darius-cole/) felt the familiar grip close on empty air.
 
 The kid blinked. Looked at the others. "He said someone was coming. Little guy was right."
 
@@ -156,7 +156,7 @@ Darius shoved him hard. Rolf stumbled backward into the vault door frame. They m
 
 The coterie had not known about the Game. That was confirmed and filed. The stone needed permanent storage, somewhere Dimitri could not reach. Wednesday, eight PM, pre-session meeting. Feed before coming.
 
-Keaton and Darius left together. The buddy-movie energy was not friendship. Two predators who had identified a mutual utility and were testing how much weight it could hold.
+[Keaton](/npcs/gordon-keaton/) and Darius left together. The buddy-movie energy was not friendship. Two predators who had identified a mutual utility and were testing how much weight it could hold.
 
 They hunted. Darius found a dealer on the West Side, phlegmatic, negligible resistance. Two pulls. Keaton found a streetwalker in Wicker Park. Twenty minutes. He came back to the car looking like a man who had eaten for the first time in days.
 
@@ -178,7 +178,7 @@ Three seconds of silence.
 
 "Where."
 
-"Gold Coast. Bar called O'Shanter's on Division Street. I'll be there in an hour."
+"[Gold Coast](/locations/gold-coast/). Bar called O'Shanter's on Division Street. I'll be there in an hour."
 
 "One hour." Line went dead.
 
@@ -196,7 +196,7 @@ O'Shanter's at three in the morning. Wood paneling, Guinness tap, the particular
 
 Darius told him. The shaman. Rolf. The Hag in the corner. The stone, cold and too heavy, sitting in his coat pocket.
 
-Tomas listened without interrupting. His hand moved toward the breast pocket where the field notebook lived, then stopped. He gave the assessment clean: spirit bound in a physical vessel, temperature drop consistent with release, Killi's methods different from what the Chantry practiced. A separate tradition. Older.
+[Tomas](/npcs/tomas/) listened without interrupting. His hand moved toward the breast pocket where the field notebook lived, then stopped. He gave the assessment clean: spirit bound in a physical vessel, temperature drop consistent with release, Killi's methods different from what the Chantry practiced. A separate tradition. Older.
 
 "What do you want done with it."
 
@@ -220,7 +220,7 @@ Crown Victoria, South Side, 3:50 AM. The Church of Christ was dark except for a 
 
 "I do."
 
-Bordruff looked at the stone. At Tomas. Back at Darius. The calculation was visible, unhurried. A man who had been collecting obligations since 1926 and had never once been shortchanged.
+[Bordruff](/npcs/nathaniel-bordruff/) looked at the stone. At Tomas. Back at Darius. The calculation was visible, unhurried. A man who had been collecting obligations since 1926 and had never once been shortchanged.
 
 "My question. The body your coterie moved out of Gary. The torpored one. Where is it now."
 

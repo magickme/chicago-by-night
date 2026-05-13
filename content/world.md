@@ -1,7 +1,7 @@
 ---
 title: "World"
 url: "/world/"
-description: "Gary, Chicago, and the Lake Michigan corridor — factions, NPCs, and the cities that shape the chronicle."
+description: "Chicago, the Great Lakes corridor, and the World of Darkness — factions, NPCs, and the cities that shape the chronicle. Act II: Ashes and Blood, 1991+."
 hidemeta: true
 ShowToc: false
 ---
@@ -126,9 +126,25 @@ While any vampire of any Clan can belong to any Sect, *in general* the Malkavian
 
 ---
 
-## Gary, Indiana: Sick City
+## Chicago, Illinois: The First City of the Kindred
 
-As our Chronicle opens, the characters—having only recently become Kindred, and still adjusting to Unlife—find themselves in **Gary, Indiana**, considered by many the most economically blighted city in America. Situated just Southeast of Chicago at the bottom of Lake Michigan, Gary was once the nation's capitol of steel factories. Now, like Detroit to the East, it is a decaying corpse of rust and broken glass, a victim of Reagan's war on Unions, and one of globalization's first murder victims as manufacturing leaves America for centers in Mexico and Asia.
+*Act II: Ashes and Blood. January 1991+.*
+
+Chicago is the Camarilla's North American showpiece — Prince Lodin's domain, where the Sect's prestige has been built and defended for over a century. Two million mortals, a Primogen council of elders who outdate every clan rivalry, and a power structure that has been killing its own dissidents for generations. Lodin rules from the Prudential Building's 41st floor. The Succubus Club is the social nexus where every clan negotiates in proximity. The Loop is hunted by Ventrue. Hyde Park belongs to Critias and the old Brujah. Chinatown is Chuc Luc's. Pilsen — once unclaimed industrial wasteland — is now the coterie's haven district.
+
+The chronicle's current present tense is Chicago. The coterie arrived in January 1991 after Act I closed in Gary. They have since been integrated (provisionally) into Lodin's hierarchy, weathered hunter cells and Sabbat probes, and begun making moves of their own — the Allicia bond-breaking thread, the Annabelle Triabell patronage angle, the Tomás-to-Nicolai Tremere channel, the Chinatown jade demon node, the long Bach/Rigaud Sabbat threat clocks.
+
+**Threats:** Sabbat advance from Detroit (Bach's motorcycle pack already operating pre-siege), Anarch unrest in the South Side, Lupine packs in the suburban forest preserves, and Lodin's own succession-anxiety paranoia. The city is stable in the way Chicago in 1991 is stable: as a thing held under pressure that can come apart at any moment.
+
+For the historical setting where the chronicle began, see *Gary, Indiana* below.
+
+---
+
+## Gary, Indiana: Sick City (Act I, 1990)
+
+*Historical: Act I — Forged in Steel. The chronicle's opening setting. The coterie relocated to Chicago in January 1991; Gary now runs as background autopilot.*
+
+As our Chronicle opened, the characters—having only recently become Kindred, and still adjusting to Unlife—found themselves in **Gary, Indiana**, considered by many the most economically blighted city in America. Situated just Southeast of Chicago at the bottom of Lake Michigan, Gary was once the nation's capitol of steel factories. Now, like Detroit to the East, it is a decaying corpse of rust and broken glass, a victim of Reagan's war on Unions, and one of globalization's first murder victims as manufacturing leaves America for centers in Mexico and Asia.
 
 The American Dream of picket white fences, union jobs and Bruce Springsteen might not quite be dead yet, but it has Stage IV terminal cancer, and the cancer started here, in the blackened carcinoma sites of America's manufacturing hubs, Gary and Detroit.
 

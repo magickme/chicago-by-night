@@ -24,6 +24,8 @@ graph LR
     SablePrice["Sable Price"]
     Juggler["Juggler"]
     SablePrice -->|"owes Minor (2)"| Juggler
+    AnnabelleTriabell["Annabelle Triabell"]
+    SablePrice -->|"owes Minor (2)"| AnnabelleTriabell
     Modius["Modius"]
     SablePrice -->|"owes Fealty (ongoing)"| Modius
     DariusCole -->|"owes Minor (2)"| Juggler

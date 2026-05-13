@@ -35,7 +35,7 @@ He knew. Or guessed close enough. [Tomas](/tomas-navarro/) studied him: the stan
 
 "What clan?" [Tomas](/tomas-navarro/) said. "Who do you report to?"
 
-"Malkavian." Jason moved his hands to his coat pockets, slow, visible. "Nobody, really. The Inmates have a loose arrangement. [Maureen](/npcs/maureen-oleary/) tolerates me because I make myself useful and I don't embarrass her in public." The smile widened. "You're from the chantry on [Astor](/npcs/lady-astor/). I've seen you at the Club twice. You sit alone and watch the room and write things down afterward. That's not a criticism. It's an observation."
+"Malkavian." [Jason](/npcs/jason/) moved his hands to his coat pockets, slow, visible. "Nobody, really. The Inmates have a loose arrangement. [Maureen](/npcs/maureen-oleary/) tolerates me because I make myself useful and I don't embarrass her in public." The smile widened. "You're from the chantry on [Astor](/npcs/lady-astor/). I've seen you at the Club twice. You sit alone and watch the room and write things down afterward. That's not a criticism. It's an observation."
 
 "Why are you telling me this?"
 
@@ -51,7 +51,7 @@ Behind him, the boy stayed in the tree line, and the woman on the bench kept ske
 
 ---
 
-The cab dropped him at West Erie at 5:54. The Succubus Club's mortal bouncer didn't recognize him. Inside, the main floor was half-lit, a DJ threading cables between speakers, the sound system humming at test volume. Six patrons on the dance floor side. Civilians.
+The cab dropped him at West Erie at 5:54. The [Succubus Club](/locations/succubus-club/)'s mortal bouncer didn't recognize him. Inside, the main floor was half-lit, a DJ threading cables between speakers, the sound system humming at test volume. Six patrons on the dance floor side. Civilians.
 
 Upstairs, the balcony level: candlelight, leather seating, one-way glass overlooking the floor. Three Kindred present. A Toreador with a sketchbook. Two Brujah arguing about someone named Rorrek, their voices low and their postures high.
 

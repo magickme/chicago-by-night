@@ -1,11 +1,13 @@
 ---
-title: "Relationship Maps"
-description: "Gary's Kindred power structure and the coterie's personal networks. July 1990."
+title: "Relationship Maps (Act I Historical)"
+description: "Gary's Kindred power structure and the coterie's personal networks as of July 1990 — historical reference for Act I: Forged in Steel."
 layout: "page"
 slug: "relationships"
 ---
 
-*Current as of July 21, 1990. Solid lines = active relationships. Dashed lines = hidden, latent, or threatened.*
+> **Historical — Act I, July 21, 1990.** For current Chicago relationships (Act II: Ashes and Blood, 1991+), see [Live Relationships](/relationships-live/).
+
+*Solid lines = active relationships. Dashed lines = hidden, latent, or threatened.*
 
 ---
 

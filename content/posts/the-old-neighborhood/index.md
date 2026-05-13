@@ -189,7 +189,7 @@ She found him on 51st Street, twenty-two years old and working the corner of the
 
 After, the man sat against the wall of the building and was very tired and believed he had made the first move. She left him his wallet.
 
-The drive north on the Dan Ryan. The city re-asserting itself in the way cities reassert themselves: more lights, taller buildings, the density of money increasing block by block. She thought about her mother asleep in front of the television. She thought about a JWT laminate and a perfume bottle arranged on a wooden crate. She thought about a woman who said *wrong tunnel* and was not wrong, exactly — just unclear about what tunnel Sable was walking through, and where it ended.
+The drive north on the Dan Ryan. The city re-asserting itself in the way cities reassert themselves: more lights, taller buildings, the density of money increasing block by block. She thought about her mother asleep in front of the television. She thought about a JWT laminate and a perfume bottle arranged on a wooden crate. She thought about a woman who said *wrong tunnel* and was not wrong, exactly — just unclear about what tunnel [Sable](/sable-price/) was walking through, and where it ended.
 
 Kaspar & Sons. The side door with the sticky lock. [Darius](/darius-cole/) was at the table with a newspaper and a glass of blood he was letting go cold, the way he always left his blood, as if the letting-cool was itself a form of control.
 

@@ -106,7 +106,7 @@ Sal looked at him the way a toll booth attendant looks at a car without an E-ZPa
 
 [Darius](/darius-cole/) put the hundred on the desk. Folded once, placed next to the racing form, between a betting slip and a smear of marinara. A hundred dollars was a speech in a language Sal understood — *I'm serious, I have cash, I'm worth your time.*
 
-Sal looked at the bill. Looked at Darius. Pushed it back across the desk with one finger, the way you'd push back a plate of food you didn't order.
+Sal looked at the bill. Looked at [Darius](/darius-cole/). Pushed it back across the desk with one finger, the way you'd push back a plate of food you didn't order.
 
 "I don't know you."
 

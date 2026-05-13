@@ -21,7 +21,7 @@ The phone rang at 6:40 PM and [Sable](/sable-price/) knew before she picked up t
 
 [Sophia](/npcs/sophia-ayes/)'s voice. Not warm, not cold. The register of someone who had been deciding for two days whether to make this call and had finally stopped deciding.
 
-"I also heard [Lorraine](/npcs/lorraine-matthews/) nearly went over the railing. And that you pulled her back." A pause. Not theater. The sound of a woman editing her next sentence in real time. "Lorraine told [Annabelle](/npcs/annabelle-triabell/). [Annabelle](/npcs/annabelle-triabell/) told three people before midnight. I don't know if you understand how fast that moves."
+"I also heard [Lorraine](/npcs/lorraine-matthews/) nearly went over the railing. And that you pulled her back." A pause. Not theater. The sound of a woman editing her next sentence in real time. "[Lorraine](/npcs/lorraine-matthews/) told [Annabelle](/npcs/annabelle-triabell/). [Annabelle](/npcs/annabelle-triabell/) told three people before midnight. I don't know if you understand how fast that moves."
 
 She wasn't congratulating her. She was measuring. How much did [Sable](/sable-price/) know. How much had she intended. Whether it was calculation or reflex and which one was worse.
 
@@ -31,13 +31,13 @@ A beat.
 
 "Although." Something shifted. Still controlled, still dry, but the control was working now. "You do have a way of making things obvious."
 
-She hung up before Sable could answer.
+She hung up before [Sable](/sable-price/) could answer.
 
 [Darius](/darius-cole/) was still watching her from the kitchen table. He'd heard enough. The opinion was already formed and he had no intention of sharing it.
 
 "[Sophia Ayes](/npcs/sophia-ayes/)," he said.
 
-He set the paper down. "If Annabelle is already talking about Saturday, [Sophia](/npcs/sophia-ayes/) knows her position just moved. She's telling you because she wants you to know she noticed. And because she wants to be in the room when the next thing happens."
+He set the paper down. "If [Annabelle](/npcs/annabelle-triabell/) is already talking about Saturday, [Sophia](/npcs/sophia-ayes/) knows her position just moved. She's telling you because she wants you to know she noticed. And because she wants to be in the room when the next thing happens."
 
 He picked the paper back up.
 
@@ -49,7 +49,7 @@ The cab dropped her on Ontario at 9:45 PM. Thirty-two degrees and the wind had o
 
 Inside, the ground floor was running hot. Monday crowd, smaller, which meant everyone could see everyone. Sleep of Reason on the basement stage, the bass line coming up through the floorboards. The air was cognac and cigarette smoke and something underneath both that her senses could have named and didn't need to.
 
-She found Sophia at the bar. Not at the bar the way mortals used bars. Sophia was beside it, back to the wall, a glass of red wine she hadn't touched in probably an hour, watching the room with the patient attention of someone who had been doing this for decades and still found it worth the effort.
+She found [Sophia](/npcs/sophia-ayes/) at the bar. Not at the bar the way mortals used bars. Sophia was beside it, back to the wall, a glass of red wine she hadn't touched in probably an hour, watching the room with the patient attention of someone who had been doing this for decades and still found it worth the effort.
 
 Black. Of course.
 
@@ -143,7 +143,7 @@ The Club was thinner when Sable came back upstairs. 11:30 PM. Sleep of Reason ha
 
 The white-haired stranger's chair was empty. The chessboard on the balcony still arranged in whatever configuration [Critias](/npcs/critias/) was studying or mourning or both. The man who'd watched Sable on Erie Street the night before, who'd stood on the far corner with his ear-to-ear grin and tilted his head like a piece being acknowledged across a board — gone. Into the city.
 
-"We should go," Darius said. "Separately."
+"We should go," [Darius](/darius-cole/) said. "Separately."
 
 ---
 
@@ -195,7 +195,7 @@ But he hadn't moved. Hadn't run.
 
 The mustache twitched. The wide eye measured Darius again, then came back.
 
-"To see what Critias has. What he is protecting. Why he bothers."
+"To see what [Critias](/npcs/critias/) has. What he is protecting. Why he bothers."
 
 No theater. The accent thickened on *bothers*, like the word cost something.
 

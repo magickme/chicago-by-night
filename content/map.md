@@ -1,9 +1,11 @@
 ---
-title: "Gary — 1990 Territory Map"
-description: "Interactive map of Gary, Indiana. Kindred territories, key locations, and the killing ground."
+title: "Gary — 1990 Territory Map (Act I, Historical)"
+description: "Interactive map of Gary, Indiana, July 1990. Act I historical reference. The chronicle's current setting is Chicago, 1991+."
 layout: "page"
 slug: "map"
 ---
+
+> **Historical — Act I: Forged in Steel.** The coterie left Gary for Chicago in January 1991. This map documents the seven Kindred and the killing ground as they stood at the close of Act I. For current Chicago operations, see [Locations](/locations/) and the [Dashboard](/dashboard/).
 
 <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
 <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>

@@ -26,7 +26,7 @@ They met at the service stairs. [Sable](/sable-price/)'s mouth was warm, her col
 
 He followed her. Through the crowd, past a couple tangled against a wall, through a service door marked STAFF ONLY in paint that was peeling off. The east corridor was narrower, lit by a single bare bulb, and at the end of it a woman was standing over a mortal slumped in a folding chair. The mortal's hand was open, three brown buttons in the palm. The Ventrue straightened and tilted her head fifteen degrees, an involuntary motion, a dog hearing a frequency, and then walked past them without acknowledgment. Not toward the exits. Deeper. Toward the freight elevator.
 
-"Follow her," Sable said.
+"Follow her," [Sable](/sable-price/) said.
 
 [Darius](/darius-cole/) took the service stairs. Four flights, concrete, paint chipped to the rebar. Quiet above the third floor. The VIP lounge was dark except for the city light through the observation windows, and [Lorraine](/npcs/lorraine-matthews/) was standing at the glass with both palms pressed flat, watching the dance floor four stories below as if the crowd were an organism and she were trying to find its heartbeat.
 

@@ -37,7 +37,7 @@ Near the DJ booth, a wrongness in the air. A patch where the club lighting bent 
 
 "Every Wednesday has its business." [Brennon](/npcs/brennon-thornhill/) folded the towel. His eyes stayed warm and tracked everything. "The difference is whether the business comes down the stairs happy or unhappy."
 
-Darius turned the glass once. "I appreciate what this place does. Neutral ground is harder to maintain than anyone who uses it understands."
+[Darius](/darius-cole/) turned the glass once. "I appreciate what this place does. Neutral ground is harder to maintain than anyone who uses it understands."
 
 "Most people who say that want something."
 
@@ -57,7 +57,7 @@ Darius turned the glass once. "I appreciate what this place does. Neutral ground
 
 Darius didn't explain. He drank from the glass he couldn't taste.
 
-Brennon leaned forward. "There was a courier here Tuesday. Young man, good suit, bad shoes. Came through the front, spoke to no one, left an envelope at a table in the back. The envelope was gone before my girl cleared the glasses." He straightened. "I've seen the courier three times. Never the same one twice. The pickup I've never seen."
+[Brennon](/npcs/brennon-thornhill/) leaned forward. "There was a courier here Tuesday. Young man, good suit, bad shoes. Came through the front, spoke to no one, left an envelope at a table in the back. The envelope was gone before my girl cleared the glasses." He straightened. "I've seen the courier three times. Never the same one twice. The pickup I've never seen."
 
 "The table. Which one?"
 
@@ -135,7 +135,7 @@ He adjusted the coffee cup. Some private calibration.
 
 "Censure requires four. [Annabelle](/npcs/annabelle-triabell/), [Critias](/critias/), [Khalid](/khalid-al-rashid/) — that's three. The fourth depends on whether [Inyanga](/npcs/inyanga/) trades her vote for cover on the Pack situation. If she does, [Ballard](/npcs/ballard/) walks tonight with a reprimand."
 
-Darius processed this. Inyanga's vote was the hinge. The Wolf Pack problem and the [Ballard](/npcs/ballard/) problem were the same lever.
+Darius processed this. [Inyanga](/npcs/inyanga/)'s vote was the hinge. The Wolf Pack problem and the [Ballard](/npcs/ballard/) problem were the same lever.
 
 "You already knew the pieces," [Horace](/npcs/horace/) said. "Now. You came to me on a Wednesday night, which means you have something you think I want, or you want something you think I have."
 
@@ -183,9 +183,9 @@ At 11:38, the service door opened. [Belthazar](/belthazar/) came down first — 
 
 "Three to two. With an abstention." Her voice was flat and precise. "[Ballard](/npcs/ballard/) received a formal reprimand."
 
-Darius stood. "Ms. Triabell. I'm [Darius Cole](/darius-cole/). I work with [Sable Price](/sable-price/). She had an appointment tonight she couldn't move."
+Darius stood. "Ms. [Triabell](/npcs/annabelle-triabell/). I'm [Darius Cole](/darius-cole/). I work with [Sable Price](/sable-price/). She had an appointment tonight she couldn't move."
 
-She looked at him. Shoes to collar in a single sweep. "Mr. Cole. The Ventrue. You drove Sable to my party."
+She looked at him. Shoes to collar in a single sweep. "Mr. Cole. The Ventrue. You drove [Sable](/sable-price/) to my party."
 
 "I understand tonight's vote didn't go the way you wanted it to."
 
@@ -261,6 +261,6 @@ He left two hundred in mixed bills under the ashtray. Straightened his collar. W
 
 Full. The blood hummed in his veins, thirteen out of thirteen, warm and stolen and exactly what he was built to take.
 
-He drove the Cutlass south toward Pilsen. The city threw its orange sodium light across the windshield and the heater blew dust. A productive Wednesday. The Primogen had spoken and Ballard had walked and the censure had failed and none of it mattered yet because the lever was still in motion — Horace calling [Tyrus](/npcs/tyrus/), [Annabelle](/npcs/annabelle-triabell/) hunting a courier, [Critias](/npcs/critias/) waiting for Thursday. The board had more pieces on it than it had this morning and Darius had placed half of them and nobody upstairs knew his name yet.
+He drove the Cutlass south toward Pilsen. The city threw its orange sodium light across the windshield and the heater blew dust. A productive Wednesday. The Primogen had spoken and [Ballard](/npcs/ballard/) had walked and the censure had failed and none of it mattered yet because the lever was still in motion — [Horace](/npcs/horace/) calling [Tyrus](/npcs/tyrus/), [Annabelle](/npcs/annabelle-triabell/) hunting a courier, [Critias](/npcs/critias/) waiting for Thursday. The board had more pieces on it than it had this morning and Darius had placed half of them and nobody upstairs knew his name yet.
 
 He parked in the alley behind Kaspar & Sons. Killed the engine. Sat in the dark for a minute, tasting the last of [Rachel](/npcs/rachel/)'s blood on the back of his teeth, and waited for Sable to come home.

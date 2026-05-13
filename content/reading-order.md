@@ -264,6 +264,44 @@ Published scenes from **Chicago Chronicles** in chronological order.
 | 90 | [The Sire's Territory](/posts/the-sires-territory/) | Darius | Feb 4, 1991, 5:09 PM |
 | 91 | [The Assignment](/posts/the-assignment/) | Chronicle | Feb 5, 1991, 5:08 PM |
 
+### Chapter 20 — Hunter Operations
+
+| # | Scene | PC | Date |
+|---|---|---|---|
+| 92 | [The Hunters](/posts/the-hunters/) | Darius + Sable | Feb 6, 1991, 5:10 PM |
+
+### Chapter 21 — Court Operations
+
+| # | Scene | PC | Date |
+|---|---|---|---|
+| 93 | [The Debrief](/posts/the-debrief-d054/) | Darius + Sable | Feb 7, 1991, 5:15 PM |
+
+### Chapter 22
+
+*Feb 9, 1991, 5:28 PM through Feb 12, 1991, 4:35 PM.*
+
+| # | Scene | PC | Date |
+|---|---|---|---|
+| 94 | [The Opera](/posts/the-opera/) | Darius + Sable | Feb 9, 1991, 5:28 PM |
+| 95 | [The Chalice](/posts/the-chalice/) | Darius + Sable | Feb 11, 1991, 5:18 PM |
+| 96 | [The Grand Elusion](/posts/the-grand-elusion/) | Sable | Feb 12, 1991, 4:35 PM |
+
+### Chapter 23
+
+*Feb 22, 1991, 5:30 PM through Mar 1, 1991, 5:45 PM.*
+
+| # | Scene | PC | Date |
+|---|---|---|---|
+| 97 | [Blood Dance](/posts/blood-dance/) | Darius + Sable | Feb 22, 1991, 5:30 PM |
+| 98 | [Chuc Lucs Reckonings](/posts/chuc-lucs-reckonings/) | Darius | Feb 27, 1991, 5:31 PM |
+| 99 | [Children In Need](/posts/children-in-need/) | Darius | Mar 1, 1991, 5:45 PM |
+
+### Chapter 12 — Blood Bond
+
+| # | Scene | PC | Date |
+|---|---|---|---|
+| 100 | [On The Hunt](/posts/on-the-hunt/) | Sable | Mar 2, 1991, 5:48 PM |
+
 ---
 
 ## Other Chronicles

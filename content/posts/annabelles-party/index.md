@@ -87,7 +87,7 @@ Different hands. A woman. [Staff](/npcs/mickey-contreras/) uniform. She placed t
 
 He gave her his card. She gave him her word. The deal stood.
 
-She found [Annabelle](/npcs/annabelle-triabell/) in the dressing room behind the stage. Led with the evidence and let the elder connect the dots herself — a railroad warehouse, a man laughing while he wrote, an insult someone made sure he heard. Annabelle reached the conclusion with the speed of a woman who had been building toward it all evening. "That idiot. Someone who was at that dinner."
+She found [Annabelle](/npcs/annabelle-triabell/) in the dressing room behind the stage. Led with the evidence and let the elder connect the dots herself — a railroad warehouse, a man laughing while he wrote, an insult someone made sure he heard. [Annabelle](/npcs/annabelle-triabell/) reached the conclusion with the speed of a woman who had been building toward it all evening. "That idiot. Someone who was at that dinner."
 
 She gave [Sable](/sable-price/) a second number. Handwritten on the back of a card. "This rings in my haven. Use it once. Use it well."
 

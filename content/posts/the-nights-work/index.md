@@ -27,7 +27,7 @@ Her name was [Claudine](/npcs/claudine-watts/). She played bass, had done for tw
 
 [Sable](/sable-price/) listened. Not because the Beast told her to — the Beast told her other things, warmer things, things about the pulse jumping in the hollow below Claudine's jaw — but because Claudine was the kind of woman who needed to be listened to and hadn't been, not tonight, and listening cost nothing and the night was cold and they were both standing in it.
 
-The alley behind Lula's smelled like old lettuce and frozen brick. Claudine's hand came up slow to the side of [Sable](/sable-price/)'s face and Claudine said *I don't do this* with the absolute sincerity of someone who was about to do exactly this, and [Sable](/sable-price/) leaned in and the Kiss was bourbon-warm and the blood came in three long pulls before Sable stopped herself.
+The alley behind Lula's smelled like old lettuce and frozen brick. Claudine's hand came up slow to the side of [Sable](/sable-price/)'s face and Claudine said *I don't do this* with the absolute sincerity of someone who was about to do exactly this, and [Sable](/sable-price/) leaned in and the Kiss was bourbon-warm and the blood came in three long pulls before [Sable](/sable-price/) stopped herself.
 
 Four was the number she could justify. The Pusher had laid it out with the patient thoroughness of a friend who wanted credit: *four was still safe, four was survival, four was for [Bordruff](/npcs/nathaniel-bordruff/) and the church basement and whatever happened at midnight when a man who hated every vampire he'd ever met decided whether the trade was worth it*. Sable counted to three and stopped.
 

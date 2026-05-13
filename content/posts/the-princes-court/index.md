@@ -99,11 +99,11 @@ Two words. He let them carry what they needed to carry.
 
 "[Chuc Luc](/npcs/chuc-luc/). Childe of [Capone](/npcs/capone/)."
 
-The room shifted. [Ballard](/npcs/ballard/)'s head turned. [Annabelle](/npcs/annabelle-triabell/)'s glass stopped moving. [Nicolai](/npcs/nicolai/)'s eyes registered something behind the twelve-year-old mask. [Capone](/npcs/capone/) was [Lodin](/npcs/lodin/)'s childe. [Chuc Luc](/npcs/chuc-luc/) was Capone's. The neonate from Gary who had pulled the Prince of Chicago out of the ground was [Lodin](/npcs/lodin/)'s own blood, four steps removed. In the Ventrue clan, four steps was close enough to count.
+The room shifted. [Ballard](/npcs/ballard/)'s head turned. [Annabelle](/npcs/annabelle-triabell/)'s glass stopped moving. [Nicolai](/npcs/nicolai/)'s eyes registered something behind the twelve-year-old mask. [Capone](/npcs/capone/) was [Lodin](/npcs/lodin/)'s childe. [Chuc Luc](/npcs/chuc-luc/) was [Capone](/npcs/capone/)'s. The neonate from Gary who had pulled the Prince of Chicago out of the ground was [Lodin](/npcs/lodin/)'s own blood, four steps removed. In the Ventrue clan, four steps was close enough to count.
 
 [Lodin](/npcs/lodin/)'s face did something new. Not warmth. Recognition. The predator examining something that shared its genetics.
 
-"Chuc Luc," [Lodin](/npcs/lodin/) said. The name came out proprietary. "I was not informed my grandchilde had sired."
+"[Chuc Luc](/npcs/chuc-luc/)," [Lodin](/npcs/lodin/) said. The name came out proprietary. "I was not informed my grandchilde had sired."
 
 He turned to [Sable](/sable-price/).
 
@@ -157,7 +157,7 @@ He turned his back on [Darius](/darius-cole/). Walked to the head of the table. 
 
 He turned back to face them.
 
-"Mr. Cole. You are of my blood. Capone's grandchilde." The word carried weight. [Lodin](/npcs/lodin/) was claiming the lineage, drawing the line from himself to [Darius](/darius-cole/) through two intermediaries. "Your sire placed you in Gary under Modius's authority. He did not inform me. He did not inform Capone's household. He sired in a foreign domain to avoid my attention."
+"Mr. Cole. You are of my blood. Capone's grandchilde." The word carried weight. [Lodin](/npcs/lodin/) was claiming the lineage, drawing the line from himself to [Darius](/darius-cole/) through two intermediaries. "Your sire placed you in Gary under [Modius](/npcs/modius/)'s authority. He did not inform me. He did not inform Capone's household. He sired in a foreign domain to avoid my attention."
 
 He paused. The fire crackled.
 
@@ -181,9 +181,9 @@ He let the question sit inside the room for the duration of a breath that nobody
 
 "Miss Price. Your position is different. You are Toreador. Your sire is Chicago Kindred, though he resides elsewhere." His eyes moved to [Annabelle](/npcs/annabelle-triabell/). "Primogen [Triabell](/npcs/annabelle-triabell/). Does the Toreador acknowledge this childe?"
 
-[Annabelle](/npcs/annabelle-triabell/) set her glass down. The motion was deliberate. She was being asked to claim or disclaim [Sable](/sable-price/) in front of the Prince, and either answer had consequences. Claiming [Sable](/sable-price/) meant taking responsibility for [Michael](/npcs/michael/) Payne's unsanctioned Embrace. Disclaiming her meant losing an asset she had spent three weeks cultivating.
+[Annabelle](/npcs/annabelle-triabell/) set her glass down. The motion was deliberate. She was being asked to claim or disclaim [Sable](/sable-price/) in front of the Prince, and either answer had consequences. Claiming [Sable](/sable-price/) meant taking responsibility for [Michael](/npcs/michael/) [Payne](/npcs/sharon-payne/)'s unsanctioned Embrace. Disclaiming her meant losing an asset she had spent three weeks cultivating.
 
-"[Sable Price](/sable-price/) has conducted herself with grace in a city that tests it," [Annabelle](/npcs/annabelle-triabell/) said. Every word measured. "Michael's judgment in siring is his own affair. The result stands before you. I acknowledge her as Toreador of Chicago."
+"[Sable Price](/sable-price/) has conducted herself with grace in a city that tests it," [Annabelle](/npcs/annabelle-triabell/) said. Every word measured. "[Michael](/npcs/michael/)'s judgment in siring is his own affair. The result stands before you. I acknowledge her as Toreador of Chicago."
 
 "Then Miss Price is acknowledged under the Second Tradition, with Primogen [Triabell](/npcs/annabelle-triabell/) as her clan guarantor."
 
@@ -239,7 +239,7 @@ He was making them a buffer. The same function Modius served for Gary. The irony
 
 He stepped back. The fire recovered. The flames stood upright again.
 
-"Mrs. Elridge will contact you within forty-eight hours with your first assignment. You are the unit's point of contact, Mr. Cole. Miss Price and Mr. Navarro report through you. You report through Mrs. Elridge. The chain is short. I expect it to remain unbroken."
+"Mrs. Elridge will contact you within forty-eight hours with your first assignment. You are the unit's point of contact, Mr. Cole. Miss Price and Mr. [Navarro](/npcs/elena-navarro/) report through you. You report through Mrs. Elridge. The chain is short. I expect it to remain unbroken."
 
 He turned to the Primogen. "Sit," he said. The word carried the weight of a door closing.
 

@@ -41,7 +41,7 @@ She crossed to the center of the room. The record paused between tracks, and in 
 
 [Sable](/sable-price/) took the glass [Sir Henry](/npcs/sir-henry-johnson/) offered (cold, untouched, she would carry it the rest of the evening and set it down somewhere without having brought it to her lips, which was the specific Kindred pantomime of sociability that she had learned to perform without thinking about and which she thought about now, briefly, the absurdity of it, a room full of predators holding stemware) and moved to where she could see the room and the window both.
 
-The read came in three seconds. [Sophia's](/npcs/sophia-ayes/) turned back was performance — she was listening to every word. The two unknown Toreador were [Annabelle's](/npcs/annabelle-triabell/). Sir Henry had placed himself between [Sable](/sable-price/) and the elevator without seeming to have done so on purpose.
+The read came in three seconds. [Sophia's](/npcs/sophia-ayes/) turned back was performance — she was listening to every word. The two unknown Toreador were [Annabelle's](/npcs/annabelle-triabell/). [Sir Henry](/npcs/sir-henry-johnson/) had placed himself between [Sable](/sable-price/) and the elevator without seeming to have done so on purpose.
 
 [Annabelle](/npcs/annabelle-triabell/) was not asking what [Sable](/sable-price/) knew. She was establishing, in front of witnesses, that [Sable](/sable-price/) was the one who knew.
 
@@ -53,7 +53,7 @@ She let herself think before she said the rest of it. The room needed to see her
 
 She looked at [Annabelle](/npcs/annabelle-triabell/). "Who does he have on the bench."
 
-Two seconds. [Annabelle's](/npcs/annabelle-triabell/) composure shifted — the way a surface shifts when something passes underneath it — and she said: "Judge Harlan Metz. Seventh Circuit. He was at Ballard's dinner in November." A pause that cost her something. "I didn't think he was relevant."
+Two seconds. [Annabelle's](/npcs/annabelle-triabell/) composure shifted — the way a surface shifts when something passes underneath it — and she said: "Judge Harlan Metz. Seventh Circuit. He was at [Ballard](/npcs/ballard/)'s dinner in November." A pause that cost her something. "I didn't think he was relevant."
 
 From the window, without turning: "He was relevant."
 
@@ -135,7 +135,7 @@ The doorman waved her through without checking. She'd been categorized. Sir Henr
 
 The pre-session had thinned. The two unknowns gone. [Sophia](/npcs/sophia-ayes/) at the piano, not playing, one hand resting on the closed lid, and she didn't look up when [Sable](/sable-price/) passed.
 
-Outside: twelve degrees. Astor Street empty in both directions. She stood on the sidewalk and heard footsteps behind her — half a block back, opposite sidewalk, measured.
+Outside: twelve degrees. [Astor](/npcs/lady-astor/) Street empty in both directions. She stood on the sidewalk and heard footsteps behind her — half a block back, opposite sidewalk, measured.
 
 She stopped. The footsteps stopped.
 

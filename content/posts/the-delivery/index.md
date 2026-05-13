@@ -61,7 +61,7 @@ The brownstone on Indiana Avenue was dark except for one second-floor window. A 
 
 "That's the Hayward place. He's not there much. People come and go at that place. Cars at all hours. I mind my own business." She went inside. Dead bolt. Chain.
 
-A porch light came on across the street. Someone had heard the conversation. Darius was standing on an open sidewalk in moonlight, and the brownstone's second-floor watcher had either lost interest or seen everything they needed. He walked back to the Continental without running. Running is the thing people remember.
+A porch light came on across the street. Someone had heard the conversation. [Darius](/darius-cole/) was standing on an open sidewalk in moonlight, and the brownstone's second-floor watcher had either lost interest or seen everything they needed. He walked back to the Continental without running. Running is the thing people remember.
 
 The drive home took twelve minutes. [Sable](/sable-price/) was still awake. He gave her the brownstone --- Hayward place, municipal car, watcher, compromised --- and she filed it the way she filed everything, with the part of her mind that never stopped calculating the distance between useful and dangerous.
 

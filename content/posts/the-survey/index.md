@@ -15,19 +15,19 @@ description: "Forty feet below the Loop, a Tremere apprentice and a seven-hundre
 
 The camel-hair overcoat was on the stand when [Tomas](/tomas-navarro/) came downstairs at five-fifteen. Heavy, cut long, the kind of coat a man buys when he's decided his appearance is a closing argument. The ebony walking stick leaned against the umbrella stand beside it. Silver cap catching the hall light.
 
-He had not spoken directly to Abraham [DuSable](/npcs/abraham-dusable/) in his three weeks at the Astor Street chantry. He'd seen him. Crossing the second-floor landing with a book under his arm, reading glasses on a chain around his neck. Standing in the kitchen doorway watching Mrs. Marsh set out the Tuesday tamales, saying nothing, then turning away. Once, at 2 AM, coming up from the sub-basement with chalk dust on his fingers and the smell of something burnt clinging to his collar.
+He had not spoken directly to Abraham [DuSable](/npcs/abraham-dusable/) in his three weeks at the [Astor](/npcs/lady-astor/) Street chantry. He'd seen him. Crossing the second-floor landing with a book under his arm, reading glasses on a chain around his neck. Standing in the kitchen doorway watching Mrs. [Marsh](/npcs/elena-marsh/) set out the Tuesday tamales, saying nothing, then turning away. Once, at 2 AM, coming up from the sub-basement with chalk dust on his fingers and the smell of something burnt clinging to his collar.
 
 [Nicolai](/npcs/nicolai/)'s orders had been specific. Sunday, after sunset. [DuSable](/npcs/abraham-dusable/) will lead the survey. You will assist.
 
-The study door was open. Candlelight from inside. Three candles on the desk between stacked legal volumes and a spread of yellowed survey maps. DuSable sat behind the desk in a charcoal three-piece suit and reading glasses, the walking stick propped against the arm of his chair.
+The study door was open. Candlelight from inside. Three candles on the desk between stacked legal volumes and a spread of yellowed survey maps. [DuSable](/npcs/abraham-dusable/) sat behind the desk in a charcoal three-piece suit and reading glasses, the walking stick propped against the arm of his chair.
 
 He looked up.
 
-The predatory aura hit first. Not aggression. Something settled, old, like standing too close to a transformer box. The air tasted of copper and old paper and something underneath both that the back of Tomas's brain registered as *large.*
+The predatory aura hit first. Not aggression. Something settled, old, like standing too close to a transformer box. The air tasted of copper and old paper and something underneath both that the back of [Tomas](/npcs/tomas/)'s brain registered as *large.*
 
 DuSable removed his glasses. Folded them. Set them on the desk with the precision of a man placing evidence into the record.
 
-"Mr. Navarro." The voice was soft. Courtroom soft -- the kind designed to make the jury lean forward. "Close the door."
+"Mr. [Navarro](/npcs/elena-navarro/)." The voice was soft. Courtroom soft -- the kind designed to make the jury lean forward. "Close the door."
 
 Tomas closed it. Turned. Inclined his head. Not a nod but a bow, shallow, from the neck. The way you acknowledged a superior officer when reporting for duty.
 
@@ -55,7 +55,7 @@ He folded his hands on the desk. The silver ring on his left hand caught the can
 
 Tomas gave his report the way he'd given reports at Fort Huachuca, the way he'd given them at the Octagon House, the way he'd given this same report to [Nicolai](/npcs/nicolai/) two nights ago. Facts first. Sequence. Sensory detail where it mattered, stripped where it didn't. The access point beneath the [Succubus Club](/locations/succubus-club/). The drainage tunnel, pre-sewer, brick-lined, mid-nineteenth century. The water depth. The smell. The alcove with the sleeping pallet. The Kindred he'd encountered. Female, slight, eastern European features, moving through the system with familiarity that indicated long-term residence. The brief contact. The withdrawal.
 
-"The Regent identified her as [Elzbieta](/npcs/elzbieta-furofsky/), a childe of Khalid al-Rashid. Nosferatu. I did not have that identification at the time of contact."
+"The Regent identified her as [Elzbieta](/npcs/elzbieta-furofsky/), a childe of [Khalid al-Rashid](/npcs/khalid-al-rashid/). Nosferatu. I did not have that identification at the time of contact."
 
 He stopped when he'd reached the end of what he'd observed. Not before, not after. No analysis. No recommendations. DuSable hadn't asked for those.
 
@@ -273,7 +273,7 @@ They found the outfall intersection two hundred meters on. Three drainage lines 
 
 DuSable raised his hand. Hold.
 
-Tomas heard it before he smelled it. A sound. Faint, rhythmic, from the western branch. Scratching. Deliberate. Something sharp on brick. Then the smell. Nosferatu musk. The same organic, animal, wrong-sweet stench he'd encountered four nights ago beneath the Succubus Club.
+Tomas heard it before he smelled it. A sound. Faint, rhythmic, from the western branch. Scratching. Deliberate. Something sharp on brick. Then the smell. Nosferatu musk. The same organic, animal, wrong-sweet stench he'd encountered four nights ago beneath the [Succubus Club](/locations/succubus-club/).
 
 They moved into the western branch. Twenty meters in, the scratching stopped. The tunnel widened into an alcove. Natural, not engineered. On the wall, scored into the brick at eye height, fresh, dust still on the floor beneath it: a symbol. Three concentric circles with a vertical slash through the center. A boundary marker.
 
@@ -365,7 +365,7 @@ Tomas pulled out the other folding chair.
 
 "I have intelligence. One item. Street intelligence, unrelated to chantry operations."
 
-He laid it out: the man on the bench, the vitae traces, the folio, the note. *H -- 2 AM Tuesday. Sherwin building, 4th floor. Bring the Armitage paperwork. Tell no one. -- L.* The retainer walking to a law firm. Ballard, Anderson & Baitman.
+He laid it out: the man on the bench, the vitae traces, the folio, the note. *H -- 2 AM Tuesday. Sherwin building, 4th floor. Bring the Armitage paperwork. Tell no one. -- L.* The retainer walking to a law firm. [Ballard](/npcs/ballard/), Anderson & Baitman.
 
 "I don't have context for any of it. You've been in Chicago longer. Does that name mean something?"
 
@@ -383,9 +383,9 @@ He looked at Tomas.
 
 "Tuesday. You and me. I want to be inside that building by midnight."
 
-They found the Sherwin in the Yellow Pages. Sherwin-Williams Building, 120 N. LaSalle Street. Heart of the Loop. Thirty-seven stories. Mixed commercial tenancy. Tuesday at 2 AM, the building would be empty.
+They found the Sherwin in the Yellow Pages. Sherwin-[Williams](/npcs/williams/) Building, 120 N. LaSalle Street. Heart of the Loop. Thirty-seven stories. Mixed commercial tenancy. Tuesday at 2 AM, the building would be empty.
 
-Sable came down the stairs while they were at the table. Winter coat, scarf. She read the room in two seconds and sat down. Darius briefed her in four sentences.
+[Sable](/sable-price/) came down the stairs while they were at the table. Winter coat, scarf. She read the room in two seconds and sat down. [Darius](/darius-cole/) briefed her in four sentences.
 
 They split the block for recon. Darius took the west and south. Tomas took the east and north. Sable took the east face.
 

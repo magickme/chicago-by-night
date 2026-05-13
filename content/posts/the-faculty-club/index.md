@@ -23,7 +23,7 @@ The maître d' showed him to a room at the back. [Critias](/npcs/critias/) was a
 
 "I had the books for six days. I didn't want to leave them in the car."
 
-[Critias](/npcs/critias/) looked at him. The three Thucydides volumes went on the table beside Darius's setting. The oldest one — the Crawley translation, 1876, library tape crumbling at the spine — Critias picked up with both hands and turned to the table of contents. He put it back.
+[Critias](/npcs/critias/) looked at him. The three Thucydides volumes went on the table beside [Darius](/darius-cole/)'s setting. The oldest one — the Crawley translation, 1876, library tape crumbling at the spine — [Critias](/npcs/critias/) picked up with both hands and turned to the table of contents. He put it back.
 
 "The Crawley," he said. "The Jowett is smoother. The Crawley is more honest."
 

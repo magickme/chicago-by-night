@@ -22,7 +22,7 @@ The penthouse smelled like carpet cleaner and rage. [Brennon](/npcs/brennon-thor
 
 True Faith. [Darius](/darius-cole/) had read about it in [Modius](/npcs/modius/)'s library, a single paragraph in a volume on Inquisition-era tactics that [Modius](/npcs/modius/) kept shelved between editions of Vasari. The prose had been clinical and the clinical tone had not helped, because the clinical tone was the sound of something that terrified the author.
 
-"How about a scandal," Darius said. "The kid. [Neon](/npcs/neon/). We have him go out and tell the congregation their pastor touched him."
+"How about a scandal," [Darius](/darius-cole/) said. "The kid. [Neon](/npcs/neon/). We have him go out and tell the congregation their pastor touched him."
 
 Three faces looked at him.
 
@@ -68,7 +68,7 @@ He took the stairs down to the main floor.
 
 The bass hit at the landing. Industrial music, strobe, the press of mortal bodies generating heat that the dead borrowed and the dead pretended was theirs. The dance floor was three-quarters full. The mezzanine crowd leaned on the rail above, watching the floor with proprietary attention.
 
-Coleman was near the east wall, talking to a couple in matching leather. Blood dolls, the voluntary kind, the ones who came to the club hoping for what the club actually sold. Coleman had his coat folded over one arm. He was listening to them. Head tilted, hands still, giving them thirty years of undivided pastoral attention.
+[Coleman](/npcs/rev-terrence-coleman/) was near the east wall, talking to a couple in matching leather. Blood dolls, the voluntary kind, the ones who came to the club hoping for what the club actually sold. Coleman had his coat folded over one arm. He was listening to them. Head tilted, hands still, giving them thirty years of undivided pastoral attention.
 
 He was fifty, maybe fifty-five. Black, graying at the temples, a face that carried its mileage in the jaw and the forehead, not the eyes. The eyes were clear. He wore a charcoal topcoat over a black shirt with a clerical collar, and he stood like he owned every inch of floor beneath him.
 

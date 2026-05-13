@@ -7,6 +7,8 @@ ShowToc: false
 
 ## Chicago Chronicles — Vampire: The Masquerade
 
+*Act II: Ashes and Blood. Chicago, 1991+. Three player characters operating a coterie under Prince Lodin's domain.*
+
 <div class="character-grid">
 <div class="character-card">
 <a href="/darius-cole/">
@@ -14,7 +16,7 @@ ShowToc: false
 <div class="character-info">
 <strong>Darius Cole</strong>
 <span class="lineage">Ventrue, 10th generation</span>
-<p>Street broker from Midtown Gary. Planted by a sire nobody knows exists, building a money pipeline through an ancient Gangrel's docks.</p>
+<p>Sired in Gary, now Lodin's lieutenant in Chicago. Coterie operator running the Pilsen haven, anti-Sabbat fieldwork, and the long game of Camarilla advancement.</p>
 </div>
 </a>
 </div>
@@ -24,7 +26,7 @@ ShowToc: false
 <div class="character-info">
 <strong>Sable Price</strong>
 <span class="lineage">Toreador, 9th generation</span>
-<p>Exotic dancer from the Robert Taylor Homes. Fled Chicago for Gary with Presence, a stolen fur coat, and nothing else.</p>
+<p>Embraced in Gary, returned to Chicago in Annabelle Triabell's circle. Succubus Club regular; predator's eye behind a dancer's smile.</p>
 </div>
 </a>
 </div>
@@ -34,7 +36,7 @@ ShowToc: false
 <div class="character-info">
 <strong>Tomás Navarro</strong>
 <span class="lineage">Tremere, 10th generation</span>
-<p>Intelligence analyst and "El Búho." A veteran of the DIA and the Octagon House, now mapping the hidden power structures of Chicago.</p>
+<p>Intelligence analyst and "El Búho." A veteran of the DIA and the Octagon House, now mapping the hidden power structures of Chicago for the Pyramid.</p>
 </div>
 </a>
 </div>

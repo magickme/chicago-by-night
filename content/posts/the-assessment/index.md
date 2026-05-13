@@ -63,7 +63,7 @@ She left. The movement was fluid and final. Not a storm. A departure that made s
 
 "Magnificent," he said. "[Annabelle](/npcs/annabelle-triabell/)'s going to hear about that by tomorrow evening and she is going to be absolutely furious with you."
 
-Then the delight resolved into counsel, because [Sir Henry](/npcs/sir-henry-johnson/) never stayed in one register long enough to trust it. The insult didn't touch [Sophia](/npcs/sophia-ayes/). It touched [Annabelle](/npcs/annabelle-triabell/). It reminded a room that the sire had made a mistake, and Sable — who was rapidly becoming the sire's new investment — had known exactly where that mistake lived and had pressed on it with her thumb. [Annabelle](/npcs/annabelle-triabell/) would not discard an asset over a social cut. But she would remember that the asset had teeth, and she would wonder about the direction they pointed.
+Then the delight resolved into counsel, because [Sir Henry](/npcs/sir-henry-johnson/) never stayed in one register long enough to trust it. The insult didn't touch [Sophia](/npcs/sophia-ayes/). It touched [Annabelle](/npcs/annabelle-triabell/). It reminded a room that the sire had made a mistake, and [Sable](/sable-price/) — who was rapidly becoming the sire's new investment — had known exactly where that mistake lived and had pressed on it with her thumb. [Annabelle](/npcs/annabelle-triabell/) would not discard an asset over a social cut. But she would remember that the asset had teeth, and she would wonder about the direction they pointed.
 
 "Find a way to compliment her craft before Wednesday," [Sir Henry](/npcs/sir-henry-johnson/) said. "Not her beauty. Her discipline. [Annabelle](/npcs/annabelle-triabell/) will hear about that too."
 
@@ -71,6 +71,6 @@ Sable gave him Gary in return. Not the whole of it — not [Allicia](/npcs/allic
 
 He knew there was more. A hundred and thirty years and Auspex 4 and the difference between a first payment and a final one. He accepted what he was given with the grace of a man who understood credit.
 
-They sat after that. Two Toreador with glasses they would not drink from, in a room built for watching, on a night when the snow fell thin and grey on Wabash and the city held its breath for a Wednesday that would do three things at once. Sir Henry told a story about a frontier saloon that was probably true in the places where truth mattered and embroidered in the places where embroidery was better. The unknown Kindred in the far booth left without looking at them. [Brennon](/npcs/brennon-thornhill/)'s bartender polished a glass he'd already polished.
+They sat after that. Two Toreador with glasses they would not drink from, in a room built for watching, on a night when the snow fell thin and grey on Wabash and the city held its breath for a Wednesday that would do three things at once. [Sir Henry](/npcs/sir-henry-johnson/) told a story about a frontier saloon that was probably true in the places where truth mattered and embroidered in the places where embroidery was better. The unknown Kindred in the far booth left without looking at them. [Brennon](/npcs/brennon-thornhill/)'s bartender polished a glass he'd already polished.
 
 It was almost pleasant. For the dead, that was enough.

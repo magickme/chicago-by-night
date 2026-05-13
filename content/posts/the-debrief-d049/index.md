@@ -7,7 +7,7 @@ categories: ["Chapter 11 — Act III Opening"]
 description: "A Tremere analyst returns to the chantry at one-thirty in the morning wearing the wrong shoes, and the boy behind the desk already knows where he has been."
 ---
 
-*[Tremere Chantry](/locations/tremere-chantry/), Astor Street / Rush Street / [Gold Coast](/locations/gold-coast/)*
+*[Tremere Chantry](/locations/tremere-chantry/), [Astor](/npcs/lady-astor/) Street / Rush Street / [Gold Coast](/locations/gold-coast/)*
 
 *Chicago, Illinois*
 
@@ -15,7 +15,7 @@ description: "A Tremere analyst returns to the chantry at one-thirty in the morn
 
 The third floor hummed. Not a sound you could locate. Not mechanical, not electrical. Something in the walls or behind them, a vibration that lived below the threshold of hearing and registered as pressure in the jaw. [Tomas](/tomas-navarro/) had noticed it his first night in the chantry and stopped noticing it by the third. Tonight it was back, or he was listening for it.
 
-He stood in the second-floor hallway in clean shoes and a shirt that still carried the damp of the Labyrinth. The field notebook was in his inside breast pocket. The Guadalupe santo was in the other. The M1911 sat in the shoulder holster where it always was, though he'd considered leaving it in his quarters and decided against it. Removing it would register. [Nicolai](/npcs/nicolai/) read absence. The gap tells you more than the content.
+He stood in the second-floor hallway in clean shoes and a shirt that still carried the damp of the Labyrinth. The field notebook was in his inside breast pocket. The [Guadalupe](/npcs/guadalupe-droin/) santo was in the other. The M1911 sat in the shoulder holster where it always was, though he'd considered leaving it in his quarters and decided against it. Removing it would register. [Nicolai](/npcs/nicolai/) read absence. The gap tells you more than the content.
 
 The light under the door was a narrow line, warm against the dark hallway runner. Persian carpet, oak floorboards, the mineral tang of ward residue that never dissipated. [DuSable](/npcs/abraham-dusable/)'s overcoat was still on the stand downstairs. Both of them in the building at half past one on a Friday morning.
 
@@ -33,7 +33,7 @@ He didn't turn around.
 
 [Tomas](/tomas-navarro/) closed the door behind him. The ward resealed. Copper-taste pressure behind the eyes, brief and familiar. The room was warm. Not heated. Warm the way a room gets when someone has been working in it for hours without opening a window.
 
-He stood three paces inside the door. Feet shoulder-width, hands at his sides, weight even. Fort Huachuca posture translated to a Gold Coast brownstone at one-thirty in the morning.
+He stood three paces inside the door. Feet shoulder-width, hands at his sides, weight even. Fort Huachuca posture translated to a [Gold Coast](/locations/gold-coast/) brownstone at one-thirty in the morning.
 
 [Nicolai](/npcs/nicolai/) turned from the window. The face was eleven years old and the eyes were six hundred. He crossed to the desk but didn't sit. Stood behind the chair with both hands on its back. The hands were small and the chair was taller than he was.
 
@@ -111,7 +111,7 @@ The word was a door closing. Not praise. Confirmation that the sequence had been
 
 He wrote something on the paper. Three words, maybe four. The nib moved without sound. He set the pen down parallel to the page edge.
 
-"The Robert Taylor Homes are fourteen miles south of the [Succubus Club](/locations/succubus-club/). If the same tunnel network connects both locations, it is not Nosferatu construction. The Nosferatu dig warrens — local, defensive, centered on havens. They do not build corridors. A fourteen-mile subterranean route through Chicago's foundation is infrastructure. Infrastructure implies purpose, investment, and a principal."
+"The [Robert](/npcs/robert-klondike/) [Taylor](/npcs/helena-taylor/) Homes are fourteen miles south of the [Succubus Club](/locations/succubus-club/). If the same tunnel network connects both locations, it is not Nosferatu construction. The Nosferatu dig warrens — local, defensive, centered on havens. They do not build corridors. A fourteen-mile subterranean route through Chicago's foundation is infrastructure. Infrastructure implies purpose, investment, and a principal."
 
 He looked at [Tomas](/tomas-navarro/). The desk lamp put the shadow line across the bridge of his nose.
 

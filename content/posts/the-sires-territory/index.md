@@ -19,7 +19,7 @@ The phone rang twice. A man answered in Vietnamese-accented English, two words f
 
 Hand over the receiver. Muffled consultation. Thirty seconds. Then: "Hold."
 
-Darius stood in the basement of Kaspar & Sons with the receiver pressed to his ear and counted. Two minutes. Three. The recording came on — the number you have reached has been disconnected or is no longer in service — and he set the phone down.
+[Darius](/darius-cole/) stood in the basement of Kaspar & Sons with the receiver pressed to his ear and counted. Two minutes. Three. The recording came on — the number you have reached has been disconnected or is no longer in service — and he set the phone down.
 
 Twenty-six days. He'd run the math before dialing. Twenty-six days since [Lodin](/npcs/lodin/) claimed him in open court. Twenty-six days since the last communication with his sire. The call had gone through. Someone had answered. Someone had consulted. And then someone had pulled the plug.
 
@@ -61,11 +61,11 @@ Something cold moved through Darius's chest. He looked at the cop and put everyt
 
 The cop's eyes went flat. Emptied out. "[Chuc Luc](/npcs/chuc-luc/)." Then he blinked, shook it off slightly, and his hand went back to the wheel.
 
-So. The cruiser had been sitting half a block from Kaspar & Sons when Darius left. Chuc Luc's people, on him since sunset. The disconnected phone line wasn't a refusal. It was a routing decision. The meeting would happen on Chuc Luc's terms or not at all.
+So. The cruiser had been sitting half a block from Kaspar & Sons when Darius left. [Chuc Luc](/npcs/chuc-luc/)'s people, on him since sunset. The disconnected phone line wasn't a refusal. It was a routing decision. The meeting would happen on Chuc Luc's terms or not at all.
 
 Darius got in.
 
-The ride was twenty-five minutes. Gulf War footage on the radio. Schwarzkopf's briefing, smart bomb footage, a correspondent describing the highway north of Kuwait City. [Gold Coast](/locations/gold-coast/) to the Loop to the red lanterns on Wentworth Avenue. Darius sat in the back seat and calculated. The cop's blood was wrong. Chuc Luc paid well and on time, no unpayable debt, nothing that qualified. He'd arrive in Chinatown hungry.
+The ride was twenty-five minutes. Gulf War footage on the radio. Schwarzkopf's briefing, smart bomb footage, a correspondent describing the highway north of Kuwait City. [Gold Coast](/locations/gold-coast/) to the Loop to the red lanterns on Wentworth Avenue. Darius sat in the back seat and calculated. The cop's blood was wrong. Chuc Luc paid well and on time, no unpayable debt, nothing that qualified. He'd arrive in [Chinatown](/locations/chinatown/) hungry.
 
 The car stopped at a restaurant entrance. Dark signage, iron security door, a man outside in a jacket too light for February. The man opened Darius's door without looking at him.
 
@@ -81,11 +81,11 @@ He looked up.
 
 "Twenty-six days."
 
-Darius sat down without being invited. "You know how it went. [Modius](/npcs/modius/) and Lodin used us. I came as soon as I could be sure I wasn't dragging their attention to your door. The pipeline would have been jeopardized."
+Darius sat down without being invited. "You know how it went. [Modius](/npcs/modius/) and [Lodin](/npcs/lodin/) used us. I came as soon as I could be sure I wasn't dragging their attention to your door. The pipeline would have been jeopardized."
 
 Chuc Luc listened. Didn't interrupt. When Darius finished, he picked up the pen and set it down again.
 
-"Twenty-six days." The number, repeated. The same flat register. "Lodin named you in court before you called me. That's the sequence." He opened the account book again. Ran a finger down a column without reading it. "The pipeline. You want to talk about the pipeline." Statement, not question. "Gary operation is dormant. [Lucian](/npcs/lucian/) knows something moved through the docks. Modius is contained but watching. Three months, no product, no revenue, no contact." He looked up. "What do you have in Chicago that makes this worth continuing?"
+"Twenty-six days." The number, repeated. The same flat register. "Lodin named you in court before you called me. That's the sequence." He opened the account book again. Ran a finger down a column without reading it. "The pipeline. You want to talk about the pipeline." Statement, not question. "Gary operation is dormant. [Lucian](/npcs/lucian/) knows something moved through the docks. [Modius](/npcs/modius/) is contained but watching. Three months, no product, no revenue, no contact." He looked up. "What do you have in Chicago that makes this worth continuing?"
 
 "The tunnel system."
 
@@ -101,7 +101,7 @@ He wrote the word down. First thing he'd written since Darius sat down. "Nosfera
 
 "There's something else."
 
-Darius told him about Bordruff. The stone, the shaman, the trade. The question about the torpored body, and the answer Darius had given.
+Darius told him about [Bordruff](/npcs/nathaniel-bordruff/). The stone, the shaman, the trade. The question about the torpored body, and the answer Darius had given.
 
 Chuc Luc listened without moving. When Darius finished, the silence stretched longer than any previous one. "You told a Nosferatu elder where Lodin is keeping a torpored body." Still flat. But the pen was on the table and he wasn't touching it. "Bordruff's been in this city since Prohibition. Doesn't ask questions he doesn't already know answers to." He looked at the account books. "Was confirming. Not learning." He looked at Darius. "Which means he already knew. And now he knows your coterie knows."
 
@@ -113,7 +113,7 @@ He paused. Not for effect. For calculation.
 
 "An old, dead vampire."
 
-"Very old." He wrote something, covered it with his hand before Darius could read it. "Don't pursue that line. Not yet. Not until you know more than Bordruff does." The pen went down. "The tunnels are more important right now. If there's a pipeline running beneath this city that neither Lodin nor Lucian controls, everyone with product to move wants access. Including me." Direct eye contact. "Find me a third entrance. Something [Elzbieta](/npcs/elzbieta-furofsky/) hasn't flagged. Do that and we're current."
+"Very old." He wrote something, covered it with his hand before Darius could read it. "Don't pursue that line. Not yet. Not until you know more than Bordruff does." The pen went down. "The tunnels are more important right now. If there's a pipeline running beneath this city that neither Lodin nor [Lucian](/npcs/lucian/) controls, everyone with product to move wants access. Including me." Direct eye contact. "Find me a third entrance. Something [Elzbieta](/npcs/elzbieta-furofsky/) hasn't flagged. Do that and we're current."
 
 "And Gary? The operation. Should I liquidate and stay in Chicago?"
 

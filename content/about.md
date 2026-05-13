@@ -1,14 +1,16 @@
 ---
 title: "About"
 url: "/about/"
-description: "A solo Vampire: The Masquerade chronicle played with dice, oracles, and permanent consequences. Gary, Indiana, 1990."
+description: "A solo Vampire: The Masquerade chronicle played with dice, oracles, and permanent consequences. Chicago, Illinois, 1991+. Act II: Ashes and Blood."
 hidemeta: true
 ShowToc: false
 ---
 
-Two vampires. One ruined city. No game master. Every decision is real, every consequence permanent — the dice and the oracle decide what happens next.
+Three vampires. One Camarilla showpiece. No game master. Every decision is real, every consequence permanent — the dice and the oracle decide what happens next.
 
-**Chicago Chronicles** is a solo *Vampire: The Masquerade* campaign set in Gary, Indiana, 1990. Two player characters — Darius Cole, a Ventrue enforcer clawing his way up the Camarilla ladder, and Sable Price, a Toreador fledgling navigating a city that eats its young — work the same decaying streets from opposite angles. Their stories are played live using dice, the Mythic Game Master Emulator as oracle and scene engine, and V20 rules for everything mechanical. No fudging, no retcons. What happens, happens.
+**Chicago Chronicles** is a solo *Vampire: The Masquerade* campaign currently set in Chicago, Illinois, 1991+ (Act II: Ashes and Blood). Three player characters — Darius Cole, a Ventrue enforcer clawing his way up Prince Lodin's hierarchy; Sable Price, a Toreador navigating the Succubus Club and the elder Annabelle Triabell's circle; and Tomás Navarro, a Tremere intelligence analyst mapping the city's hidden power structures — work the same metropolis from three different angles. Their stories are played live using dice, the Mythic Game Master Emulator as oracle and scene engine, and V20 rules for everything mechanical. No fudging, no retcons. What happens, happens.
+
+The chronicle opens in Gary, Indiana (Act I: Forged in Steel, 1990) before the coterie's January 1991 transition to Chicago. Act I is preserved as historical context; the current narrative is Chicago.
 
 [Start reading from Scene 1](/posts/chapter-01-new-years-eve/), meet [the characters](/characters/), or check the [dashboard](/dashboard/) for where things stand now.
 
