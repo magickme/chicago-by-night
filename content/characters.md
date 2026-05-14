@@ -65,17 +65,7 @@ ShowToc: false
 <div class="character-info">
 <strong>Constanzo</strong>
 <span class="lineage">Serpent of the Light, 10th generation</span>
-<p>Palo Mayombe practitioner who serves the Enkisi before the Sabbat. Pack Priest. Her nganga predates the Sword of Caine. The spirits she channels do not answer to sect loyalty.</p>
-</div>
-</a>
-</div>
-<div class="character-card">
-<a href="/homolka/">
-<img src="/images/homolka-portrait.webp" alt="Homolka" loading="lazy">
-<div class="character-info">
-<strong>Homolka</strong>
-<span class="lineage">Toreador antitribu, 11th generation</span>
-<p>The beautiful thing that wants to watch you break. Social operative. Retains Humanity as camouflage, not conviction. The pack's mortal-world interface.</p>
+<p>Matamoros-born palera and former honor student. Pack Priest and social operative. The beauty of someone who has learned exactly which version of herself each room requires. A void that learned to pray because prayer gave the void a shape.</p>
 </div>
 </a>
 </div>
@@ -85,17 +75,7 @@ ShowToc: false
 <div class="character-info">
 <strong>Puente</strong>
 <span class="lineage">Tzimisce, 10th generation</span>
-<p>Holds Chinatown as a voivode holds domain. Territorial sovereign. The flesh is hers. It has always been hers. Her sovereignty owes nothing to any hierarchy.</p>
-</div>
-</a>
-</div>
-<div class="character-card">
-<a href="/dirlewanger/">
-<img src="/images/dirlewanger-portrait.webp" alt="Dirlewanger" loading="lazy">
-<div class="character-info">
-<strong>Dirlewanger</strong>
-<span class="lineage">Ventrue antitribu, 9th generation</span>
-<p>Forty-seven years undead. Heavy weapons and institutional memory. He will do what he says he will do. Predictability is its own kind of power.</p>
+<p>Embraced in El Salvador by the rat-lined Nazi Dirlewanger. Grandmother, boarding house keeper, pacification expert. She runs a six-unit building whose tenants smile and carry groceries and whose movements are almost right.</p>
 </div>
 </a>
 </div>

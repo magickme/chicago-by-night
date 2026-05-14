@@ -47,9 +47,9 @@ The Embrace happened that night. No ritual. No burial. Dinaro did not believe in
 
 ## The Mission
 
-Vykos assigned the mandate through intermediary: build a forward intelligence cell in Montreal. Staff it. Make it self-sustaining. Report through Dinaro. Calvi spent two years identifying candidates before assembling the pack. He found Constanzo through Ezekiel's network. He found Homolka through Bach's reputation. He recruited Puente from The Rose's orbit. Dinaro delivered Dirlewanger.
+Vykos assigned the mandate through intermediary: build a forward intelligence cell in Montreal. Staff it. Make it self-sustaining. Report through Dinaro. Calvi spent two years identifying candidates before assembling the pack. He found Constanzo through Ezekiel's network. He recruited Puente from The Rose's orbit.
 
-The founding Vaulderie was conducted in October 1991 in a basement beneath a dim sum restaurant on de la Gauchetiere Street. Five Kindred drank from a nganga filled with graveyard earth. Les Fossoyeurs existed.
+The founding Vaulderie was conducted in October 1991 in a basement beneath a dim sum restaurant on de la Gauchetiere Street. Three Kindred drank from a nganga filled with graveyard earth. Les Fossoyeurs existed.
 
 ---
 
