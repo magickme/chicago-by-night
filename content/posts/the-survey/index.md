@@ -25,13 +25,13 @@ He looked up.
 
 The predatory aura hit first. Not aggression. Something settled, old, like standing too close to a transformer box. The air tasted of copper and old paper and something underneath both that the back of [Tomas](/npcs/tomas/)'s brain registered as *large.*
 
-DuSable removed his glasses. Folded them. Set them on the desk with the precision of a man placing evidence into the record.
+[DuSable](/npcs/abraham-dusable/) removed his glasses. Folded them. Set them on the desk with the precision of a man placing evidence into the record.
 
 "Mr. [Navarro](/npcs/elena-navarro/)." The voice was soft. Courtroom soft -- the kind designed to make the jury lean forward. "Close the door."
 
-Tomas closed it. Turned. Inclined his head. Not a nod but a bow, shallow, from the neck. The way you acknowledged a superior officer when reporting for duty.
+[Tomas](/npcs/tomas/) closed it. Turned. Inclined his head. Not a nod but a bow, shallow, from the neck. The way you acknowledged a superior officer when reporting for duty.
 
-"Apprentice Navarro, reporting as directed."
+"Apprentice [Navarro](/npcs/elena-navarro/), reporting as directed."
 
 He stood at the threshold. Hands at his sides. Weight even. He did not sit. He did not approach the desk. He waited.
 
@@ -293,7 +293,7 @@ They moved fast. DuSable set a pace just short of running, the walking stick fin
 
 The Lincoln was where they'd left it. DuSable opened the rear door.
 
-"You will file your report by Tuesday. The same deadline as the Succubus Club memorandum. Deliver both to me. I will transmit them to the Regent with my assessment attached."
+"You will file your report by Tuesday. The same deadline as the [Succubus Club](/locations/succubus-club/) memorandum. Deliver both to me. I will transmit them to the Regent with my assessment attached."
 
 He got in the car. The door closed. The Lincoln pulled away from the curb.
 
@@ -301,7 +301,7 @@ No offer of a ride back to the chantry.
 
 ---
 
-Tomas started north. Clark Street to Division to Astor. Twenty-five minutes in thirty-degree air.
+Tomas started north. Clark Street to Division to [Astor](/npcs/lady-astor/). Twenty-five minutes in thirty-degree air.
 
 He found the panhandler on the corner of State and Huron. Mid-fifties, layered coats, a Burger King cup between his knees. A cab turned onto Huron. Headlights swept the doorway. A woman in a long coat coming up State from the south. Too exposed.
 
@@ -371,7 +371,7 @@ He laid it out: the man on the bench, the vitae traces, the folio, the note. *H 
 
 [Darius](/darius-cole/) wrote three words on the legal pad. BALLARD. HINDS. ARMITAGE. Drew lines between them.
 
-"Lawrence [Ballard](/npcs/lawrence-ballard/) is Kindred. Ventrue. The elder Ballard's great-nephew. Ballard, Anderson & Baitman is the mortal front. [Hinds](/npcs/hinds/) is also Ventrue. Connected to the Anarchs. If Lawrence is writing notes to Hinds, he's going behind his sire's back."
+"Lawrence [Ballard](/npcs/lawrence-ballard/) is Kindred. Ventrue. The elder [Ballard](/npcs/ballard/)'s great-nephew. Ballard, Anderson & Baitman is the mortal front. [Hinds](/npcs/hinds/) is also Ventrue. Connected to the Anarchs. If Lawrence is writing notes to Hinds, he's going behind his sire's back."
 
 He tapped ARMITAGE.
 
@@ -387,7 +387,7 @@ They found the Sherwin in the Yellow Pages. Sherwin-[Williams](/npcs/williams/) 
 
 [Sable](/sable-price/) came down the stairs while they were at the table. Winter coat, scarf. She read the room in two seconds and sat down. [Darius](/darius-cole/) briefed her in four sentences.
 
-They split the block for recon. Darius took the west and south. Tomas took the east and north. Sable took the east face.
+They split the block for recon. [Darius](/darius-cole/) took the west and south. Tomas took the east and north. [Sable](/sable-price/) took the east face.
 
 Tomas found the service entrance on the alley, south face. Steel door, mechanical deadbolt. Loading dock, padlocked. Fire escape east face, retractable ladder. Alley camera, fixed angle, covering service entrance and loading dock. Fourth-floor window with faint light behind drawn blinds.
 

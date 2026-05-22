@@ -31,7 +31,7 @@ The maître d' showed him to a room at the back. [Critias](/npcs/critias/) was a
 
 "What did he actually say?"
 
-This was the invitation. Darius had prepared for it. He had also prepared to set the preparation aside and let the dialogue go where it went, because Critias would know the difference between a man working a prepared text and a man thinking.
+This was the invitation. [Darius](/darius-cole/) had prepared for it. He had also prepared to set the preparation aside and let the dialogue go where it went, because [Critias](/npcs/critias/) would know the difference between a man working a prepared text and a man thinking.
 
 He started with the Melian Dialogue, not because it was the obvious choice — it was the obvious choice — but because the obvious choice was obvious for reasons that held up. Athens tells Melos that the strong do what they can and the weak suffer what they must. Thucydides records it without commentary. He doesn't editorialize. He just lets the Athenians speak and then records the massacre and the enslavement and moves on to the next campaign.
 

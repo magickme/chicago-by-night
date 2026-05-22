@@ -49,11 +49,11 @@ The cab dropped her on Ontario at 9:45 PM. Thirty-two degrees and the wind had o
 
 Inside, the ground floor was running hot. Monday crowd, smaller, which meant everyone could see everyone. Sleep of Reason on the basement stage, the bass line coming up through the floorboards. The air was cognac and cigarette smoke and something underneath both that her senses could have named and didn't need to.
 
-She found [Sophia](/npcs/sophia-ayes/) at the bar. Not at the bar the way mortals used bars. Sophia was beside it, back to the wall, a glass of red wine she hadn't touched in probably an hour, watching the room with the patient attention of someone who had been doing this for decades and still found it worth the effort.
+She found [Sophia](/npcs/sophia-ayes/) at the bar. Not at the bar the way mortals used bars. [Sophia](/npcs/sophia-ayes/) was beside it, back to the wall, a glass of red wine she hadn't touched in probably an hour, watching the room with the patient attention of someone who had been doing this for decades and still found it worth the effort.
 
 Black. Of course.
 
-Sophia's eyes did one full, unhurried read when she saw Sable coming. The red slip. The January skin. The entrance that was not an accident. Something crossed Sophia's face that she controlled before it became an expression.
+Sophia's eyes did one full, unhurried read when she saw [Sable](/sable-price/) coming. The red slip. The January skin. The entrance that was not an accident. Something crossed Sophia's face that she controlled before it became an expression.
 
 She waited until Sable was close enough that she didn't have to raise her voice.
 
@@ -69,7 +69,7 @@ She looked back up.
 
 "Thank you."
 
-Flat. Receiving it without giving anything back. A wall dressed as a door. But underneath the flatness, Sable could feel it — could read the small cracked place where the specificity of the compliment had found something undefended. She'd chosen that color alone, at some point in the last two days, and nobody had noticed because nobody in this world talked about nail polish. They talked about territory and Annabelle's mood and who was up and who was down. Sable had noticed the detail, not the performance, and it had landed somewhere Sophia hadn't prepared for.
+Flat. Receiving it without giving anything back. A wall dressed as a door. But underneath the flatness, Sable could feel it — could read the small cracked place where the specificity of the compliment had found something undefended. She'd chosen that color alone, at some point in the last two days, and nobody had noticed because nobody in this world talked about nail polish. They talked about territory and [Annabelle](/npcs/annabelle-triabell/)'s mood and who was up and who was down. Sable had noticed the detail, not the performance, and it had landed somewhere Sophia hadn't prepared for.
 
 There was something older underneath it too. The fatigue of someone who had been beautiful for a long time and knew what people wanted from beauty and was waiting to find out which category this was.
 
@@ -83,7 +83,7 @@ Let that sit. Then, still watching the stage:
 
 Sophia recalibrated. Two seconds of silence that had weight in them.
 
-"Lorraine had a lovely evening because someone was paying attention." She was watching the stage now too, which meant she'd accepted the frame. "Annabelle noticed that. The noticing, specifically."
+"[Lorraine](/npcs/lorraine-matthews/) had a lovely evening because someone was paying attention." She was watching the stage now too, which meant she'd accepted the frame. "Annabelle noticed that. The noticing, specifically."
 
 The wine glass turned again.
 
@@ -163,7 +163,7 @@ The smile on the dead woman's face was the smile of a job.
 
 "Erie Street?" she said again. Patient. Friendly.
 
-Darius was still inside. Forty-five seconds behind her at minimum.
+[Darius](/darius-cole/) was still inside. Forty-five seconds behind her at minimum.
 
 Sable opened something warmer, wider, and let it radiate outward from her like heat from a furnace on a dead January street with a broken light — the specific gravity of someone the world wanted to face.
 

@@ -52,7 +52,7 @@ The reassembly was visible. [Lorraine](/npcs/lorraine-matthews/)'s eyes cleared 
 
 ---
 
-[Lorraine](/npcs/lorraine-matthews/) talked. Sable let her.
+[Lorraine](/npcs/lorraine-matthews/) talked. [Sable](/sable-price/) let her.
 
 The Awe was gentle, a low-grade warmth, enough to keep [Lorraine](/npcs/lorraine-matthews/) oriented and open without pushing her anywhere she didn't want to go. Under it, the loneliness surfaced clean. The Club was where she came to be near things she couldn't touch. The crowd below was company, not feeding ground. She attended Elysium, stood in the right place at the right time, spoke to the right people with the right words, and went home to the [Matthews](/npcs/lorraine-matthews/) estate and the silence there.
 

@@ -5,7 +5,7 @@ layout: "page"
 slug: "quests"
 ---
 
-*Chicago Chronicles. Act II: Ashes and Blood. Updated: **1991-03-03 (Sunday ~03:00). Current snapshot: Scene D061 "On the Hunt" (Sable primary, Darius secondary) closed ~03:00 AM Mar 3. Campaign start: NYE 1989. Act II (Ashes and Blood): January 1991+. Baptism by Fire: NYE 1990.**.*
+*Chicago Chronicles. Act II: Ashes and Blood. Updated: **1991-03-05 (Tuesday ~20:35). Current snapshot: Scene D063 "The Pumping Station Audience" (joint all three PCs, cliffhanger mid-audience with Lodin) closed ~20:35 PM Mar 5. Campaign start: NYE 1989. Act II (Ashes and Blood): January 1991+. Baptism by Fire: NYE 1990.**.*
 
 
 
@@ -52,6 +52,8 @@ slug: "quests"
 | Coterie fault lines | NEW D057. ESCALATED. Tomás's dual loyalty exposed during Grand Elusion. Attempted to stake Ehrich against Sable's consensus plan. Tremere Code demands obedience to hierarchy above all else. Coterie Pact (consensus + disclosure) structurally incompatible with Tremere institutional loyalty. First combat test of integration. How can the pact survive Tomás's mandatory subordination to the Pyramid? Weight 2x. TACTIC NOTE: Sable's Exceptional Yes redirected staking outcome, maintaining group cohesion. Integration question remains unresolved. |
 | Herbalist assignment (Chinatown) | NEW D059. Chuc Luc gave Darius sealed envelope + assignment: visit herbalist at Wentworth and Cermak (green awning), present envelope as introduction. Herbalist will examine tunnel map and identify what's missing. Report findings to Chuc Luc. Connected to Threads 35/36 (Kuei-jin/Jade Demon). Chuc Luc's awareness of tunnel anomaly suggests deeper Capone intelligence on underground threats. |
 | Becky (child Kindred) | NEW D060. Recently Embraced (~8yo, 3 days dead), Neally's unauthorized childe. Encountered by Darius on Halsted. Led him to St. Brigid's orphanage. Trusted Darius under Awe. Delivered to Lodin's custody at Prudential Building. Fate unknown. "The Prince thanks you for your diligence." Siring ban violated (18 years). Humanity cost: Darius 7→6. |
+| Neally 30-Day Window | NEW D063. Lodin deniable mission: if Neally Edwards is "functional and unbound within thirty days, I will consider the debt settled favorably." Deadline: Mar 5 - Apr 4, 1991. Neally requested audience to propose Creation Rite (Sabbat ritual to sever Bond, requested by name Cole). Lodin's operational mission framed deniably to coterie. Weight 2 (major obligation, limited timeline). Secondary to Sabbat hunt assignment but connected (if Neally severs Bond through Sabbat ritual = internal security risk). |
+| Klondike Vials Hunt | NEW D063 placeholder. Fires after Sable's Milwaukee return. Weight 1 (awaiting trigger). Likely related to Carna's Pasteur notes + ritual framework for bond-breaking. Depends on Sable coordinating Allicia meeting + Carna discovery sequence. |
 
 ## Sable
 

@@ -43,7 +43,7 @@ He knew. Or guessed close enough. [Tomas](/tomas-navarro/) studied him: the stan
 
 [Tomas](/tomas-navarro/) took the paper. Read the number. Put it in his jacket with the notebook.
 
-"The tunnels south of the Loop go further than anybody's mapped," Jason said. "Old freight lines under the river. The Nosferatu use some of them. Nobody owns the [Succubus Club](/locations/succubus-club/) — [Annabelle](/npcs/annabelle-triabell/) runs it through favors, not force. Everyone owes her because she remembered their names when nobody else bothered." He shrugged. "Free intelligence. No strings."
+"The tunnels south of the Loop go further than anybody's mapped," [Jason](/npcs/jason/) said. "Old freight lines under the river. The Nosferatu use some of them. Nobody owns the [Succubus Club](/locations/succubus-club/) — [Annabelle](/npcs/annabelle-triabell/) runs it through favors, not force. Everyone owes her because she remembered their names when nobody else bothered." He shrugged. "Free intelligence. No strings."
 
 [Tomas](/tomas-navarro/) nodded once. Turned. Walked away without offering his hand, his name, or anything else.
 

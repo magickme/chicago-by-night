@@ -25,7 +25,7 @@ Three seconds. The lock didn't turn. It hadn't been locked. The door opened six 
 
 The room beyond was a study. Bookshelves floor to ceiling, spines in Latin and German and something older. A desk lamp threw a circle of yellow light across an oak surface covered in papers and a brass instrument [Tomas](/tomas-navarro/) couldn't identify. The chair behind the desk was empty.
 
-[Nicolai](/npcs/nicolai/) was standing at the window with his back to the door. Astor Street below, gas lamps, a consular sedan parked at the curb with its diplomatic plates catching the light. The boy's reflection in the glass was a smudge. Dark hair, narrow shoulders, a cardigan that could have belonged to any child in any decade.
+[Nicolai](/npcs/nicolai/) was standing at the window with his back to the door. [Astor](/npcs/lady-astor/) Street below, gas lamps, a consular sedan parked at the curb with its diplomatic plates catching the light. The boy's reflection in the glass was a smudge. Dark hair, narrow shoulders, a cardigan that could have belonged to any child in any decade.
 
 He didn't turn around.
 
@@ -139,7 +139,7 @@ A third finger.
 
 He lowered his hand.
 
-"You will not disclose your tunnel findings to the coterie. Not yet. The Toreador's Robert Taylor intelligence — that is theirs. What you found beneath the [Succubus Club](/locations/succubus-club/) is ours. The distinction is not deception. It is compartmentalization. The Pyramid does not share operational intelligence laterally. It flows upward. I will determine what flows back down and when."
+"You will not disclose your tunnel findings to the coterie. Not yet. The Toreador's [Robert](/npcs/robert-klondike/) [Taylor](/npcs/helena-taylor/) intelligence — that is theirs. What you found beneath the [Succubus Club](/locations/succubus-club/) is ours. The distinction is not deception. It is compartmentalization. The Pyramid does not share operational intelligence laterally. It flows upward. I will determine what flows back down and when."
 
 He turned from the window.
 
@@ -163,7 +163,7 @@ The hallway was dark. The hum from the third floor was louder now, or the buildi
 
 ---
 
-The Gold Coast dissolved into neon four blocks south. Rush Street on a Friday. The war anxiety had driven people out, not in. Bars loud, sidewalks crowded for February, CNN visible through every window. The USAir crash footage playing on a loop above a bartender pouring domestics.
+The [Gold Coast](/locations/gold-coast/) dissolved into neon four blocks south. Rush Street on a Friday. The war anxiety had driven people out, not in. Bars loud, sidewalks crowded for February, CNN visible through every window. The USAir crash footage playing on a loop above a bartender pouring domestics.
 
 [Tomas](/tomas-navarro/) walked south on State, jacket collar up, hands in pockets. The M1911 shifted against his ribs with each step. He was scanning for the victim profile. Someone working the 2 AM trade, carrying the weariness that read as melancholy even from across a street.
 
@@ -231,7 +231,7 @@ He parked in the alley behind the [chantry](/locations/tremere-chantry/). Keyed 
 
 The front hall was dark. [DuSable](/npcs/abraham-dusable/)'s overcoat was gone from the stand. He'd left while [Tomas](/tomas-navarro/) was out. [Nicolai](/npcs/nicolai/)'s door was closed. No light underneath it now. The third floor hummed.
 
-[Tomas](/tomas-navarro/) hung his coffee-stained jacket on the hook in his quarters. Changed his shirt. Sat at the desk with the notebook and the Guadalupe santo and the five hours of darkness remaining.
+[Tomas](/tomas-navarro/) hung his coffee-stained jacket on the hook in his quarters. Changed his shirt. Sat at the desk with the notebook and the [Guadalupe](/npcs/guadalupe-droin/) santo and the five hours of darkness remaining.
 
 He wrote:
 

@@ -10,13 +10,13 @@ menu:
       icon: "dots"
 ---
 
-*Chicago Chronicles. Act II: Ashes and Blood. Updated: **1991-03-03 (Sunday ~03:00). Current snapshot: Scene D061 "On the Hunt" (Sable primary, Darius secondary) closed ~03:00 AM Mar 3. Campaign start: NYE 1989. Act II (Ashes and Blood): January 1991+. Baptism by Fire: NYE 1990.**.*
+*Chicago Chronicles. Act II: Ashes and Blood. Updated: **1991-03-05 (Tuesday ~20:35). Current snapshot: Scene D063 "The Pumping Station Audience" (joint all three PCs, cliffhanger mid-audience with Lodin) closed ~20:35 PM Mar 5. Campaign start: NYE 1989. Act II (Ashes and Blood): January 1991+. Baptism by Fire: NYE 1990.**.*
 
 
 
 ## Coterie Snapshot
 
-- 1991-03-03 (Sunday ~03:00). Current snapshot: Scene D061 "On the Hunt" (Sable primary, Darius secondary) closed ~03:00 AM Mar 3. Campaign start: NYE 1989. Act II (Ashes and Blood): January 1991+. Baptism by Fire: NYE 1990.
+- 1991-03-05 (Tuesday ~20:35). Current snapshot: Scene D063 "The Pumping Station Audience" (joint all three PCs, cliffhanger mid-audience with Lodin) closed ~20:35 PM Mar 5. Campaign start: NYE 1989. Act II (Ashes and Blood): January 1991+. Baptism by Fire: NYE 1990.
 - Scenes played: Darius 48, Sable 50, Tomás 10 (108 total + timeskip bluebook Aug-Nov + Dec timeskip). PCs met at Feb 2 Elysium. **COTERIE FORMED (S019, July 22).** **FORMAL COTERIE PACT (D047/S046).**
 - Scene-note inventory: Darius 41, Sable 43, Tomás 7 (91 total; S034/S035 are joint scenes with D035/D036; D041 is joint with Sable; S042/D043 joint; D046/S045 joint; D048 Tomás solo; D052 Tomás solo; D054 all three solo (joint but separate PoV); D057 joint all three; _transcripts queued for publish).
 - Sunset: 5:41 PM CST. Sunrise: 6:24 AM CST. Darkness: ~12h 43m (early March).

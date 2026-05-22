@@ -5,7 +5,7 @@ layout: "page"
 slug: "clocks"
 ---
 
-*Chicago pressure board. Updated: **1991-03-03 (Sunday ~03:00). Current snapshot: Scene D061 "On the Hunt" (Sable primary, Darius secondary) closed ~03:00 AM Mar 3. Campaign start: NYE 1989. Act II (Ashes and Blood): January 1991+. Baptism by Fire: NYE 1990.**. Session state is authoritative for all clock levels.*
+*Chicago pressure board. Updated: **1991-03-05 (Tuesday ~20:35). Current snapshot: Scene D063 "The Pumping Station Audience" (joint all three PCs, cliffhanger mid-audience with Lodin) closed ~20:35 PM Mar 5. Campaign start: NYE 1989. Act II (Ashes and Blood): January 1991+. Baptism by Fire: NYE 1990.**. Session state is authoritative for all clock levels.*
 
 
 

@@ -35,7 +35,7 @@ The church was on Dearborn, North Side. Stone facade, iron railings, a side door
 
 The debt was written in his posture. Not money. A man who'd taken vows and spent years failing them in private, carrying the weight of that failure in the set of his shoulders and the careful way he handled the lock, buying time before the walk back to the rectory where nobody was waiting.
 
-Darius crossed the street. Stepped into the light from the side door. Opened himself up. The pull, the warmth, the thing that made strangers want to stay.
+[Darius](/darius-cole/) crossed the street. Stepped into the light from the side door. Opened himself up. The pull, the warmth, the thing that made strangers want to stay.
 
 Nothing happened. The priest startled. Stepped back, hand going to the door frame. "Can I help you?"
 
@@ -61,7 +61,7 @@ Something cold moved through Darius's chest. He looked at the cop and put everyt
 
 The cop's eyes went flat. Emptied out. "[Chuc Luc](/npcs/chuc-luc/)." Then he blinked, shook it off slightly, and his hand went back to the wheel.
 
-So. The cruiser had been sitting half a block from Kaspar & Sons when Darius left. [Chuc Luc](/npcs/chuc-luc/)'s people, on him since sunset. The disconnected phone line wasn't a refusal. It was a routing decision. The meeting would happen on Chuc Luc's terms or not at all.
+So. The cruiser had been sitting half a block from Kaspar & Sons when Darius left. [Chuc Luc](/npcs/chuc-luc/)'s people, on him since sunset. The disconnected phone line wasn't a refusal. It was a routing decision. The meeting would happen on [Chuc Luc](/npcs/chuc-luc/)'s terms or not at all.
 
 Darius got in.
 
@@ -85,7 +85,7 @@ Darius sat down without being invited. "You know how it went. [Modius](/npcs/mod
 
 Chuc Luc listened. Didn't interrupt. When Darius finished, he picked up the pen and set it down again.
 
-"Twenty-six days." The number, repeated. The same flat register. "Lodin named you in court before you called me. That's the sequence." He opened the account book again. Ran a finger down a column without reading it. "The pipeline. You want to talk about the pipeline." Statement, not question. "Gary operation is dormant. [Lucian](/npcs/lucian/) knows something moved through the docks. [Modius](/npcs/modius/) is contained but watching. Three months, no product, no revenue, no contact." He looked up. "What do you have in Chicago that makes this worth continuing?"
+"Twenty-six days." The number, repeated. The same flat register. "[Lodin](/npcs/lodin/) named you in court before you called me. That's the sequence." He opened the account book again. Ran a finger down a column without reading it. "The pipeline. You want to talk about the pipeline." Statement, not question. "Gary operation is dormant. [Lucian](/npcs/lucian/) knows something moved through the docks. [Modius](/npcs/modius/) is contained but watching. Three months, no product, no revenue, no contact." He looked up. "What do you have in Chicago that makes this worth continuing?"
 
 "The tunnel system."
 
@@ -103,7 +103,7 @@ He wrote the word down. First thing he'd written since Darius sat down. "Nosfera
 
 Darius told him about [Bordruff](/npcs/nathaniel-bordruff/). The stone, the shaman, the trade. The question about the torpored body, and the answer Darius had given.
 
-Chuc Luc listened without moving. When Darius finished, the silence stretched longer than any previous one. "You told a Nosferatu elder where Lodin is keeping a torpored body." Still flat. But the pen was on the table and he wasn't touching it. "Bordruff's been in this city since Prohibition. Doesn't ask questions he doesn't already know answers to." He looked at the account books. "Was confirming. Not learning." He looked at Darius. "Which means he already knew. And now he knows your coterie knows."
+Chuc Luc listened without moving. When Darius finished, the silence stretched longer than any previous one. "You told a Nosferatu elder where Lodin is keeping a torpored body." Still flat. But the pen was on the table and he wasn't touching it. "[Bordruff](/npcs/nathaniel-bordruff/)'s been in this city since Prohibition. Doesn't ask questions he doesn't already know answers to." He looked at the account books. "Was confirming. Not learning." He looked at Darius. "Which means he already knew. And now he knows your coterie knows."
 
 He paused. Not for effect. For calculation.
 
@@ -117,11 +117,11 @@ He paused. Not for effect. For calculation.
 
 "And Gary? The operation. Should I liquidate and stay in Chicago?"
 
-He considered this longer than anything else Darius had said tonight. "Gary is dormant, not dead. Lucian is watching the docks but he's watching for product movement. Empty docks are invisible docks." He closed the account book fully. "Keep the holdings. Maintain the cover. Don't go back until I tell you to." He stood. The meeting was over. "Chicago is the operation now. The tunnels, Lodin's court, whatever Bordruff is building toward. All of it runs through you."
+He considered this longer than anything else Darius had said tonight. "Gary is dormant, not dead. [Lucian](/npcs/lucian/) is watching the docks but he's watching for product movement. Empty docks are invisible docks." He closed the account book fully. "Keep the holdings. Maintain the cover. Don't go back until I tell you to." He stood. The meeting was over. "Chicago is the operation now. The tunnels, Lodin's court, whatever Bordruff is building toward. All of it runs through you."
 
 He looked at Darius one last time.
 
-"You're hungry. Don't feed in Chinatown."
+"You're hungry. Don't feed in [Chinatown](/locations/chinatown/)."
 
 The man in the light jacket was already at the door.
 

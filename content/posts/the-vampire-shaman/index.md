@@ -28,7 +28,7 @@ The kid blinked. Looked at the others. "He said someone was coming. Little guy w
 
 From the alley mouth a shape detached from the dark. Short. Grey-haired. Moving with a rhythm that did not belong to pavement. The mustache was absurd, handlebars waxed to points, and the left eye was wide open while the right was nearly shut. Killikillarven. The shaman from Erie Street. He had been waiting.
 
-His lips moved without sound. One of the garbage cans tipped over by itself, slow, and the smell that came off it was wrong. Cold and sweet, not rot. Something had been done to this block before Darius arrived.
+His lips moved without sound. One of the garbage cans tipped over by itself, slow, and the smell that came off it was wrong. Cold and sweet, not rot. Something had been done to this block before [Darius](/darius-cole/) arrived.
 
 The three teens fanned out. Containing, not attacking. The victim slid down the wall and straightened, touching his temple. The blood was real. He had taken the hit voluntarily.
 
@@ -158,7 +158,7 @@ The coterie had not known about the Game. That was confirmed and filed. The ston
 
 [Keaton](/npcs/gordon-keaton/) and Darius left together. The buddy-movie energy was not friendship. Two predators who had identified a mutual utility and were testing how much weight it could hold.
 
-They hunted. Darius found a dealer on the West Side, phlegmatic, negligible resistance. Two pulls. Keaton found a streetwalker in Wicker Park. Twenty minutes. He came back to the car looking like a man who had eaten for the first time in days.
+They hunted. Darius found a dealer on the West Side, phlegmatic, negligible resistance. Two pulls. [Keaton](/npcs/gordon-keaton/) found a streetwalker in Wicker Park. Twenty minutes. He came back to the car looking like a man who had eaten for the first time in days.
 
 "Better," Keaton said.
 
@@ -206,7 +206,7 @@ Darius told him. The shaman. Rolf. The Hag in the corner. The stone, cold and to
 
 "What's he liable to want?"
 
-"Hard to predict. [Bordruff](/npcs/nathaniel-bordruff/) collects obligations. May ask for nothing tonight and call it in later. That's worse." Tomas held the door. "One question. The shaman -- Killikillarven. Where is he now."
+"Hard to predict. [Bordruff](/npcs/nathaniel-bordruff/) collects obligations. May ask for nothing tonight and call it in later. That's worse." [Tomas](/npcs/tomas/) held the door. "One question. The shaman -- Killikillarven. Where is he now."
 
 Darius told him what he had done.
 
@@ -224,7 +224,7 @@ Crown Victoria, South Side, 3:50 AM. The Church of Christ was dark except for a 
 
 "My question. The body your coterie moved out of Gary. The torpored one. Where is it now."
 
-The cold off the lake had nothing to do with the feeling that went through Darius's chest. He had offered the boon. He had opened the door. Bordruff had walked through it and found the one thing Darius did not want to give.
+The cold off the lake had nothing to do with the feeling that went through Darius's chest. He had offered the boon. He had opened the door. [Bordruff](/npcs/nathaniel-bordruff/) had walked through it and found the one thing Darius did not want to give.
 
 "With [Lodin](/npcs/lodin/)."
 

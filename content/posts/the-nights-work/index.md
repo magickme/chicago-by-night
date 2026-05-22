@@ -29,7 +29,7 @@ Her name was [Claudine](/npcs/claudine-watts/). She played bass, had done for tw
 
 The alley behind Lula's smelled like old lettuce and frozen brick. Claudine's hand came up slow to the side of [Sable](/sable-price/)'s face and Claudine said *I don't do this* with the absolute sincerity of someone who was about to do exactly this, and [Sable](/sable-price/) leaned in and the Kiss was bourbon-warm and the blood came in three long pulls before [Sable](/sable-price/) stopped herself.
 
-Four was the number she could justify. The Pusher had laid it out with the patient thoroughness of a friend who wanted credit: *four was still safe, four was survival, four was for [Bordruff](/npcs/nathaniel-bordruff/) and the church basement and whatever happened at midnight when a man who hated every vampire he'd ever met decided whether the trade was worth it*. Sable counted to three and stopped.
+Four was the number she could justify. The Pusher had laid it out with the patient thoroughness of a friend who wanted credit: *four was still safe, four was survival, four was for [Bordruff](/npcs/nathaniel-bordruff/) and the church basement and whatever happened at midnight when a man who hated every vampire he'd ever met decided whether the trade was worth it*. [Sable](/sable-price/) counted to three and stopped.
 
 Claudine's eyes were half-shut and her knees had done their involuntary thing and she held onto Sable's coat. She thought it was chemistry. Sable let her think it.
 

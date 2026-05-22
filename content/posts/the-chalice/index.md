@@ -33,7 +33,7 @@ The doors opened onto black marble and recessed lighting. Two ghouls flanked the
 
 Inside, the office took up the corner of the building. Glass on two walls. Michigan Avenue's lights cabled south, the lake a held breath beyond. The furniture was federal and old: a desk the size of a conference table, leather chairs in a loose half-circle, a single lamp on the credenza behind the desk that threw [Lodin](/npcs/lodin/)'s shadow up onto the ceiling and held it there.
 
-Lodin stood. He did not sit.
+[Lodin](/npcs/lodin/) stood. He did not sit.
 
 Dark suit, no tie, collar open. His hands rested flat on the desk. He looked like a man deciding how much of a building to take down.
 
@@ -45,11 +45,11 @@ The doors closed.
 
 "Look at me," Lodin said.
 
-Darius raised his head.
+[Darius](/darius-cole/) raised his head.
 
 Lodin's eyes held him. Dark and still. The same look from four days ago, when Darius had talked him out of the chalice with a speech rehearsed in a parking garage. Lodin remembered being persuaded. That was the trouble.
 
-"You did what I asked. I want that to be clear." He picked up a manila folder and opened it. Neally's summary of last week's report. "You mapped a hunter cell in seventy-two hours. You neutralized two operatives. You identified a Sabbat pack in your own domain and reported it through proper channels. That is what I asked for, and you delivered."
+"You did what I asked. I want that to be clear." He picked up a manila folder and opened it. [Neally](/npcs/neally-edwards/)'s summary of last week's report. "You mapped a hunter cell in seventy-two hours. You neutralized two operatives. You identified a Sabbat pack in your own domain and reported it through proper channels. That is what I asked for, and you delivered."
 
 He set the folder down.
 
@@ -67,13 +67,13 @@ Darius bowed his head an inch.
 
 "Nobody is more ashamed than we are, your Honor. We had not encountered the Sabbat before. We should have anticipated their tactics. We did not. We do not ask for your forgiveness. We ask for the chance to make it right. By any means necessary."
 
-Lodin's mouth did not move. Critias's did, at the corner. Not a smile.
+Lodin's mouth did not move. [Critias](/npcs/critias/)'s did, at the corner. Not a smile.
 
 ---
 
 Darius gave the debrief. Flat cadence, procedural order. Pilsen first. The scorched skull on the rooftop, the barbed-wire noose, the Haitian veve scored into the brick. The victim was [Michael](/npcs/michael/), the Gary Malkavian, fled south after a hunter operation collapsed his network there. Whoever killed him knew where to find him and wanted the body displayed.
 
-Then the pack. Five Kindred, two ghouls. The leader called himself [Bach](/npcs/bach/). He had given a recruitment speech in the lobby before the fighting — talked about the Beast as liberation and the Camarilla as a cage. He believed what he was selling. The woman giving orders in Creole at Pilsen matched a second figure in the pack, not Bach. She had not been at the theatre. A third element: three identical faces, Roman numeral tattoos on their necks, moving without speaking. Coordinated like one mind in three bodies. Darius said he had never seen anything like it.
+Then the pack. Five Kindred, two ghouls. The leader called himself [Bach](/npcs/bach/). He had given a recruitment speech in the lobby before the fighting — talked about the Beast as liberation and the Camarilla as a cage. He believed what he was selling. The woman giving orders in Creole at Pilsen matched a second figure in the pack, not [Bach](/npcs/bach/). She had not been at the theatre. A third element: three identical faces, Roman numeral tattoos on their necks, moving without speaking. Coordinated like one mind in three bodies. Darius said he had never seen anything like it.
 
 Neally's pen caught up.
 
@@ -91,7 +91,7 @@ He sat for the first time. The chair made no sound under him.
 
 "We couldn't determine that at the scene."
 
-"The Auditorium Theatre was built in 1889. It was last renovated in 1967." He looked at Darius without expression. "If someone was sealed inside a wall during a renovation twenty-four years ago, that is not a Sabbat operation. That is a personal matter. And personal matters between Kindred in my city require my attention."
+"The [Auditorium Theatre](/locations/auditorium-theatre/) was built in 1889. It was last renovated in 1967." He looked at Darius without expression. "If someone was sealed inside a wall during a renovation twenty-four years ago, that is not a Sabbat operation. That is a personal matter. And personal matters between Kindred in my city require my attention."
 
 [Sable](/sable-price/)'s eyes shifted, briefly, to Darius. Then back to the carpet.
 
@@ -109,7 +109,7 @@ He pushed the chalice to the edge of the desk.
 
 "This is policy. Drink."
 
-Darius let his eyes move once around the room. Sable: still, jaw set, hands loose. [Tomas](/npcs/tomas/): forward at the hip, watching Lodin's wrist. Critias: arms folded, looking at the far wall. Neally: writing in short clean strokes, head down.
+Darius let his eyes move once around the room. [Sable](/sable-price/): still, jaw set, hands loose. [Tomas](/npcs/tomas/): forward at the hip, watching Lodin's wrist. Critias: arms folded, looking at the far wall. Neally: writing in short clean strokes, head down.
 
 Nobody in this room was going to stop it.
 
@@ -143,7 +143,7 @@ Sable was next. Three measured steps, shoulders back, chin level. She picked up 
 
 The blood hit her as a hand on the shoulder, firm and proprietary. She knew that hand. She had felt it from [Modius](/npcs/modius/). From [Allicia](/npcs/allicia/). She added Lodin to the list and said nothing.
 
-Tomas was last. He examined the chalice for exactly one second. Drank. His expression did not change because it had already been blank when he walked in. He set the chalice down centered on the desk, equidistant from both edges. A small joke at his own expense. Nobody in the room got it.
+[Tomas](/npcs/tomas/) was last. He examined the chalice for exactly one second. Drank. His expression did not change because it had already been blank when he walked in. He set the chalice down centered on the desk, equidistant from both edges. A small joke at his own expense. Nobody in the room got it.
 
 He had read the chantry monographs on the Vinculum. He understood the neurochemistry of the Bond in theoretical terms. Knowing did not help.
 
@@ -201,7 +201,7 @@ Darius was at the window.
 
 Darius turned from the window. "The toast was coming. It was always coming. I bought us a month and the month ran out four days in. That's on me."
 
-"It's not on you," Tomas said. "The opera was on Critias's invitation and Nicolai's observation order. Two channels pointing at the same building on the same night. We didn't choose to be there. We were placed there."
+"It's not on you," Tomas said. "The opera was on Critias's invitation and [Nicolai](/npcs/nicolai/)'s observation order. Two channels pointing at the same building on the same night. We didn't choose to be there. We were placed there."
 
 Sable stood. Walked to the map. Touched the black pin at the Auditorium Theatre.
 

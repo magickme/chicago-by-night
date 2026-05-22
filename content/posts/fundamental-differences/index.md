@@ -32,7 +32,7 @@ Three faces looked at him.
 
 "And you hand [Coleman](/npcs/rev-terrence-coleman/) a martyrdom," [Sir](/npcs/sir-henry-johnson/) added. "A man falsely accused by the establishment he was protesting? He comes back with cameras."
 
-Darius tried the second angle. False father. Someone Dominated into claiming paternity of a scandal, then scrubbed with the Forgetful Mind afterward.
+[Darius](/darius-cole/) tried the second angle. False father. Someone Dominated into claiming paternity of a scandal, then scrubbed with the Forgetful Mind afterward.
 
 [Sir](/npcs/sir-henry-johnson/) shook his head. "The Masquerade exposure exceeds the benefit by an order of magnitude."
 
@@ -68,7 +68,7 @@ He took the stairs down to the main floor.
 
 The bass hit at the landing. Industrial music, strobe, the press of mortal bodies generating heat that the dead borrowed and the dead pretended was theirs. The dance floor was three-quarters full. The mezzanine crowd leaned on the rail above, watching the floor with proprietary attention.
 
-[Coleman](/npcs/rev-terrence-coleman/) was near the east wall, talking to a couple in matching leather. Blood dolls, the voluntary kind, the ones who came to the club hoping for what the club actually sold. Coleman had his coat folded over one arm. He was listening to them. Head tilted, hands still, giving them thirty years of undivided pastoral attention.
+[Coleman](/npcs/rev-terrence-coleman/) was near the east wall, talking to a couple in matching leather. Blood dolls, the voluntary kind, the ones who came to the club hoping for what the club actually sold. [Coleman](/npcs/rev-terrence-coleman/) had his coat folded over one arm. He was listening to them. Head tilted, hands still, giving them thirty years of undivided pastoral attention.
 
 He was fifty, maybe fifty-five. Black, graying at the temples, a face that carried its mileage in the jaw and the forehead, not the eyes. The eyes were clear. He wore a charcoal topcoat over a black shirt with a clerical collar, and he stood like he owned every inch of floor beneath him.
 

@@ -23,7 +23,7 @@ He took a cab to Wentworth and Cermak and walked the last three blocks east.
 
 ---
 
-*22nd Place. Old Chinatown.*
+*22nd Place. Old [Chinatown](/locations/chinatown/).*
 
 The address was not a restaurant. Steel door, no signage, between a fish market with the day's catch in cracked ice on the sidewalk and a closed laundry with the lights off and a Chinese-language newspaper rubber-banded against the inside of the glass. The buzzer didn't ring when he pressed it. He waited ten seconds. The door clicked.
 
@@ -35,11 +35,11 @@ The office was small and clean and built to hold no echoes. Desk against the far
 
 "Sit."
 
-Darius sat. Took the folded tunnel survey out of the inside breast pocket of his coat and placed it on the desk between them. Three weeks of footwork. A walked route from the south rail yard through an old freight tunnel he'd had to climb a fence to reach, surfacing through a service door behind a Pedway access maintenance closet north of Van Buren. He had measured it in paces. He had drawn it in pencil on graph paper and then re-drawn it in ink. He had not told [Sable](/sable-price/). He had not told [Tomas](/npcs/tomas/).
+[Darius](/darius-cole/) sat. Took the folded tunnel survey out of the inside breast pocket of his coat and placed it on the desk between them. Three weeks of footwork. A walked route from the south rail yard through an old freight tunnel he'd had to climb a fence to reach, surfacing through a service door behind a Pedway access maintenance closet north of Van Buren. He had measured it in paces. He had drawn it in pencil on graph paper and then re-drawn it in ink. He had not told [Sable](/sable-price/). He had not told [Tomas](/npcs/tomas/).
 
 "The third entrance you wanted. South of the rail yard, service access through the old freight tunnel. The route connects to the Pedway network north of Van Buren. I walked it myself."
 
-Chuc Luc unfolded the survey. Read it the way an accountant reads a balance sheet — structure first, content second, the eye moving across the page in a pattern that had nothing to do with what the document said and everything to do with whether the document was the kind of document it claimed to be. He set it down without commentary. His hand stayed flat across it.
+[Chuc Luc](/npcs/chuc-luc/) unfolded the survey. Read it the way an accountant reads a balance sheet — structure first, content second, the eye moving across the page in a pattern that had nothing to do with what the document said and everything to do with whether the document was the kind of document it claimed to be. He set it down without commentary. His hand stayed flat across it.
 
 Accepted.
 
@@ -47,7 +47,7 @@ Then the hand lifted and rested on the desk again, palm down, fingers slightly s
 
 "This is three weeks late."
 
-Darius said: "The Prince's reassignment created visibility I didn't have before. Weekly reports to [Neally](/npcs/neally-edwards/). A formal liaison through Critias for the Sabbat tasking. The Prince's own attention on whether I'm moving where I'm supposed to be moving. Coming here required a window. I waited for one that didn't read."
+Darius said: "The Prince's reassignment created visibility I didn't have before. Weekly reports to [Neally](/npcs/neally-edwards/). A formal liaison through [Critias](/npcs/critias/) for the Sabbat tasking. The Prince's own attention on whether I'm moving where I'm supposed to be moving. Coming here required a window. I waited for one that didn't read."
 
 Chuc Luc listened the way he always listened — without nodding, without the small mortal cues that signaled comprehension. The face stayed where it was. The hands did not move.
 
@@ -81,7 +81,7 @@ A beat.
 
 Darius gave him three things. He had structured the brief the way he structured every brief now, after [Tomas](/tomas-navarro/) had spent two weeks teaching him without meaning to that information had a hierarchy and the hierarchy was its own form of respect. Posture first. Threats second. The anomaly last.
 
-One: the [Prince](/npcs/lodin/)'s operational posture. The forced blood toast at the February court — the toast that had bonded all three of them at the first step. Weekly reporting through Neally on coterie movements. Critias as tactical liaison on the Sabbat hunt, which meant Critias as the hand inside the glove every time the coterie crossed an operational threshold. The Pilsen chantry grant leashed to delivery, not a gift but an account that could be closed if the deposits stopped. "He's running us the way you'd run a field team. Long leash, short reporting cycle. The toast was insurance against the long leash."
+One: the [Prince](/npcs/lodin/)'s operational posture. The forced blood toast at the February court — the toast that had bonded all three of them at the first step. Weekly reporting through [Neally](/npcs/neally-edwards/) on coterie movements. Critias as tactical liaison on the Sabbat hunt, which meant Critias as the hand inside the glove every time the coterie crossed an operational threshold. The Pilsen chantry grant leashed to delivery, not a gift but an account that could be closed if the deposits stopped. "He's running us the way you'd run a field team. Long leash, short reporting cycle. The toast was insurance against the long leash."
 
 Two: the Sabbat. [Bach](/npcs/bach/)'s pack. [Bach](/npcs/bach/) as pack priest. The Serpent of the Light woman — Creole accent, voodoo orientation, the one who had set the skull on the Pilsen rooftop on February fifth. Three Blood Brothers locked into the Sanguinus discipline, the shock element. Two ghouls running the operational tail. Above-ground movements, visible targets. The Gary Malkavian he'd known as a younger man, dead on a rooftop in Pilsen with the head burnt past identification except by association. "Two tracks. Pack visible on the streets, something else moving underneath. The pack is what they want me looking at."
 
@@ -127,7 +127,7 @@ The herbalist's green awning was visible four doors down on the west side of Wen
 
 He did not cross to it tonight. The envelope said nothing about urgency, and Chuc Luc had said nothing about urgency, which meant the urgency was Darius's to set, which meant the urgency was a test.
 
-Tomorrow night. Or the night after. With Sable. Or with Tomas. He had not decided yet.
+Tomorrow night. Or the night after. With [Sable](/sable-price/). Or with [Tomas](/npcs/tomas/). He had not decided yet.
 
 He walked west on 22nd toward the cab stand at the Cermak-Chinatown stop. Past a fish market closing for the night, a man in rubber boots hosing crushed ice from the sidewalk into the gutter, the water moving south down the camber of the pavement and pooling around a storm grate that had not been cleared in a year. Past a closed dim sum place with chairs already up on tables, the kitchen light still on through the round window in the swinging door. Past a payphone where a young man was speaking Cantonese, fast, into the receiver, looking at his watch.
 

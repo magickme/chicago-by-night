@@ -33,13 +33,13 @@ She lifted her hand. Wiped it on the sheet like it was wet. It wasn't.
 
 "There's a bad leg," she said. "A limp. He'd been limping for years before they found him."
 
-Darius did not say the name. He felt the Beast rise in his chest, an even pressure, a thing that wanted the room to know what he already knew. He set his palms flat on the table. Counted four heartbeats he didn't have. The Director came up first, the way he always did when the Beast came up unsanctioned — a cold operator who looked at a corpse and saw inventory. Asset compromised. Territory violated. Plot the response.
+[Darius](/darius-cole/) did not say the name. He felt the Beast rise in his chest, an even pressure, a thing that wanted the room to know what he already knew. He set his palms flat on the table. Counted four heartbeats he didn't have. The Director came up first, the way he always did when the Beast came up unsanctioned — a cold operator who looked at a corpse and saw inventory. Asset compromised. Territory violated. Plot the response.
 
-Sable was watching him. "Darius."
+[Sable](/sable-price/) was watching him. "Darius."
 
 "[Michael](/npcs/michael/)," he said.
 
-She nodded once. Didn't say the rest. She had been there too, the first month in Gary, when Michael's name was a joke and a warning. [Telton Cemetery](/locations/telton-cemetery/). The bad leg. Seven months of crossing him at the edges of [Modius](/npcs/modius/)'s court.
+She nodded once. Didn't say the rest. She had been there too, the first month in Gary, when [Michael](/npcs/michael/)'s name was a joke and a warning. [Telton Cemetery](/locations/telton-cemetery/). The bad leg. Seven months of crossing him at the edges of [Modius](/npcs/modius/)'s court.
 
 Tomás had not been there. Tomás had a syringe and a sterile cup. He drew three milliliters of charred marrow from the cranial vault and set up a clean working space on the corner of the table.
 
@@ -83,7 +83,7 @@ There was the smallest pause on the other end. Not surprise. The pause [Neally](
 
 "Anything else?"
 
-Darius thought about the fake IRS agent who had knocked at the Pilsen office an hour before sunset — Paula Magnus, business card too crisp, questions about [Annabelle](/npcs/annabelle-triabell/)'s holdings, eyes that read the foyer for sightlines. He gave Neally the name and the description and the building she had visited.
+Darius thought about the fake IRS agent who had knocked at the Pilsen office an hour before sunset — Paula Magnus, business card too crisp, questions about [Annabelle](/npcs/annabelle-triabell/)'s holdings, eyes that read the foyer for sightlines. He gave [Neally](/npcs/neally-edwards/) the name and the description and the building she had visited.
 
 "Not a hunter," he said. "Investigator. Occult, maybe. Sniffing."
 
@@ -101,7 +101,7 @@ He came back full.
 
 ---
 
-Settebello was on Taylor Street, two blocks east of Halsted, an old red-sauce room with a brass rail at the bar and tin ceilings someone had given up restoring in 1962. Tomás had walked the block twice in the Crown Vic before sunset and once on foot after — two exits, an alley behind the kitchen, a service stair to a basement that ran under the building next door. He'd parked the car nose-out on Aberdeen.
+Settebello was on [Taylor](/npcs/helena-taylor/) Street, two blocks east of Halsted, an old red-sauce room with a brass rail at the bar and tin ceilings someone had given up restoring in 1962. Tomás had walked the block twice in the Crown Vic before sunset and once on foot after — two exits, an alley behind the kitchen, a service stair to a basement that ran under the building next door. He'd parked the car nose-out on Aberdeen.
 
 Sable brought [Herdon](/npcs/dennis-herdon/) at seven. Buick, heater up, the man in the passenger seat with his coat over his knees and the soft pliability of a man who had been Entranced four nights running and had stopped asking why he was so happy to do favors. He greeted the hostess by name. He had reserved the back room. He had told the kitchen *the gentlemen prefer privacy.*
 
@@ -137,7 +137,7 @@ It went in clean. Not pressure — direction. Names came out one at a time, neat
 
 Three Chicago targets had been identified by physical description and not by name. A woman who worked a North Side nightclub. A man at the Civic Opera House. A figure attached to the university near [Hyde Park](/locations/hyde-park/).
 
-Darius did not ask any question he didn't already mostly know the answer to. He folded the post-hypnotic in over the rest. *File the complaint against Dane. Request the recall. The man is a liability. The man is the obstacle to the Chicago work.* He sealed it. He walked Sayles back inside.
+Darius did not ask any question he didn't already mostly know the answer to. He folded the post-hypnotic in over the rest. *File the complaint against [Dane](/npcs/sullivan-dane/). Request the recall. The man is a liability. The man is the obstacle to the Chicago work.* He sealed it. He walked Sayles back inside.
 
 He did Tomba in the bathroom. Same script. He added one line for Tomba alone: *if recall is not granted, handle Dane yourself.* Tomba's pulse came up a beat at the word *handle.* He nodded slowly and forgot he had nodded.
 

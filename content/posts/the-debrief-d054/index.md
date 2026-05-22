@@ -123,7 +123,7 @@ Hessler stood for the space of one breath. His face did not change in any way th
 
 His Beast moved once, low in his chest, the way it did when a useful tool had been used. Not hunger. Not satisfaction. Acknowledgment. *That was clean.* He pushed it down. The man Hessler was going to kill was a man Hessler believed deserved it. Maybe he did. Maybe he didn't. That part wasn't [Darius](/darius-cole/)'s anymore. He had bought himself a quiet hour in [Pilsen](/locations/pilsen/) and a man's worth of conscience to carry afterward, and the Beast was not the part of him doing the carrying.
 
-He turned south toward Hyde Park and the faculty club.
+He turned south toward [Hyde Park](/locations/hyde-park/) and the faculty club.
 
 ---
 

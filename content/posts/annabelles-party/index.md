@@ -95,7 +95,7 @@ And then: "Welcome to Chicago, [Sable](/sable-price/)."
 
 Outside, the rain had thickened. CNN bled through the front door — Baghdad, tracers, the voice of Wolf Blitzer counting sorties for an audience of drunks and vampires. [Darius](/darius-cole/) was under the awning.
 
-She told him everything. Annabelle, the private number, Tamoszius, the deal. The Spirit's Touch. [Lodin](/lodin/) in the back corner — his aura cracked underneath, fear and fury and something older than either. The decision: hold the Walt card. Let Annabelle and [Lodin](/npcs/lodin/) converge. The best outcome is the one where nobody ever knows the Walt card existed.
+She told him everything. [Annabelle](/npcs/annabelle-triabell/), the private number, Tamoszius, the deal. The Spirit's Touch. [Lodin](/lodin/) in the back corner — his aura cracked underneath, fear and fury and something older than either. The decision: hold the Walt card. Let Annabelle and [Lodin](/npcs/lodin/) converge. The best outcome is the one where nobody ever knows the Walt card existed.
 
 "Good work tonight," [Darius](/darius-cole/) said. He meant it.
 

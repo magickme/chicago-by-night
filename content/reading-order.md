@@ -298,9 +298,18 @@ Published scenes from **Chicago Chronicles** in chronological order.
 
 ### Chapter 12 — Blood Bond
 
+*Mar 2, 1991, 5:48 PM through Mar 4, 1991, 5:43 PM.*
+
 | # | Scene | PC | Date |
 |---|---|---|---|
 | 100 | [On The Hunt](/posts/on-the-hunt/) | Sable | Mar 2, 1991, 5:48 PM |
+| 101 | [The Bait and the Window](/posts/the-bait-and-the-window/) | Darius | Mar 4, 1991, 5:43 PM |
+
+### Chapter 23 — Lextalionis
+
+| # | Scene | PC | Date |
+|---|---|---|---|
+| 102 | [The Pumping Station Audience](/posts/the-pumping-station-audience/) | Darius | Mar 5, 1991, 5:45 PM |
 
 ---
 
@@ -308,7 +317,43 @@ Published scenes from **Chicago Chronicles** in chronological order.
 
 ### Alien Hunger
 
-- [The Basement](/posts/alien-hunger-01/) — Nov 14, 1992, 10:07 PM
+*Denver, Colorado. 1991. Flash Simpson (Brujah 13th) and Theresa Harper (Gangrel 13th) wake up dead in a burning basement. A parallel chronicle running WW2100.*
+
+#### Chapter 1 — First Nights
+
+*Feb 23, 1991, 12:40 AM through Feb 23, 1991, 5:48 PM.*
+
+| # | Scene | PC | Date |
+|---|---|---|---|
+| 1 | [The Basement](/posts/the-basement/) | Flash | Feb 23, 1991, 12:40 AM |
+| 2 | [After the Fire](/posts/after-the-fire/) | Flash | Feb 23, 1991, 5:48 PM |
+
+#### Chapter 2 — Investigation
+
+*Feb 25, 1991, 5:46 PM through Feb 27, 1991, 5:50 PM.*
+
+| # | Scene | PC | Date |
+|---|---|---|---|
+| 3 | [The Police Investigation](/posts/the-police-investigation/) | Flash | Feb 25, 1991, 5:46 PM |
+| 4 | [The Ranch Visit](/posts/the-ranch-visit/) | Flash | Feb 26, 1991, 5:48 PM |
+| 5 | [The Gate, The Split, The Broadstreet](/posts/the-gate-the-split-the-broadstreet/) | Flash | Feb 27, 1991, 5:50 PM |
+| 6 | [Seek and Ye Shall Find](/posts/seek-and-ye-shall-find/) | Flash | Feb 27, 1991, 5:50 PM |
+
+#### Chapter 3 — Hunters and Hunted
+
+| # | Scene | PC | Date |
+|---|---|---|---|
+| 7 | [The Hunters](/posts/the-hunters-denver/) | Flash | Mar 1, 1991, 5:50 PM |
+
+#### Chapter 4 — On the Offensive / To Live Once More
+
+*Mar 2, 1991, 5:41 PM through Mar 3, 1991, 5:42 PM.*
+
+| # | Scene | PC | Date |
+|---|---|---|---|
+| 8 | [Dr. Liverman / The Klondike Confrontation](/posts/dr-liverman-the-klondike-confrontation/) | Flash + Theresa | Mar 2, 1991, 5:50 PM |
+| 9 | [A Heart Beat](/posts/a-heart-beat/) | Theresa | Mar 2, 1991, 5:41 PM |
+| 10 | [Final Audience with Edward](/posts/final-audience-with-edward/) | Theresa | Mar 3, 1991, 5:42 PM |
 
 ### Hell's Highway
 

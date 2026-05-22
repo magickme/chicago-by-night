@@ -107,7 +107,7 @@ She took the stool right next to him.
 
 "You gave that ledger back to yourself, Mr. [Drummond](/npcs/edgar-drummond/). I just carried it."
 
-"He told me it was a harmless gesture," [Drummond](/npcs/edgar-drummond/) said. Ballard. The locomotive governor. "A bit of theater. He said [Annabelle](/npcs/annabelle-triabell/) would understand it was politics." He picked up his glass and set it down without drinking. "She didn't seem to understand that."
+"He told me it was a harmless gesture," [Drummond](/npcs/edgar-drummond/) said. [Ballard](/npcs/ballard/). The locomotive governor. "A bit of theater. He said [Annabelle](/npcs/annabelle-triabell/) would understand it was politics." He picked up his glass and set it down without drinking. "She didn't seem to understand that."
 
 "You'd be truly on [Annabelle's](/npcs/annabelle-triabell/) good side if you simply volunteered what we need to know about Ballard."
 
@@ -125,7 +125,7 @@ He walked toward the elevator without looking back.
 
 She left her car at the valet and took a cab. The Yellow Cab headed north on Michigan with the driver's AM radio tuned to the President's voice, thin and certain, talking about a war that had stopped being abstract an hour ago.
 
-The doorman waved her through without checking. She'd been categorized. Sir Henry read her face in the vestibule: "She's in the study. Go straight through."
+The doorman waved her through without checking. She'd been categorized. [Sir Henry](/npcs/sir-henry-johnson/) read her face in the vestibule: "She's in the study. Go straight through."
 
 "Lakeshore Meridian Partners," [Sable](/sable-price/) said. "Cook County recorder's office. Shell company. Ballard has paper on Metz going back to 1987."
 
@@ -155,7 +155,7 @@ The front door opened behind her.
 
 She took his arm.
 
-They walked south on Astor. His stride unhurried, proprietary. Half a block of silence, and then, without turning his head: "Two. One across, one in the Hendersons' alley. They've been on you since the hotel, I'd imagine."
+They walked south on [Astor](/npcs/lady-astor/). His stride unhurried, proprietary. Half a block of silence, and then, without turning his head: "Two. One across, one in the Hendersons' alley. They've been on you since the hotel, I'd imagine."
 
 He had known before he came outside.
 

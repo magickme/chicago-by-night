@@ -32,7 +32,7 @@ She poured herself a glass of water from the tap she would not drink and set it 
 
 [Tomás](/tomas-navarro/) looked up. "Why."
 
-"Because everyone is at the Club on a Tuesday in February. The Cave is a stage. The Club is a meeting place. If he wants to see [Erichtho](/npcs/erichtho/), he sees her there. If he's saying goodbye to friends before he disappears for another six months, the friends are there. He's a performer. He won't do his final escape in front of an empty room."
+"Because everyone is at the Club on a Tuesday in February. [The Cave](/locations/the-cave/) is a stage. The Club is a meeting place. If he wants to see [Erichtho](/npcs/erichtho/), he sees her there. If he's saying goodbye to friends before he disappears for another six months, the friends are there. He's a performer. He won't do his final escape in front of an empty room."
 
 "Final escape," [Darius](/darius-cole/) said.
 

@@ -157,11 +157,11 @@ He turned his back on [Darius](/darius-cole/). Walked to the head of the table. 
 
 He turned back to face them.
 
-"Mr. Cole. You are of my blood. Capone's grandchilde." The word carried weight. [Lodin](/npcs/lodin/) was claiming the lineage, drawing the line from himself to [Darius](/darius-cole/) through two intermediaries. "Your sire placed you in Gary under [Modius](/npcs/modius/)'s authority. He did not inform me. He did not inform Capone's household. He sired in a foreign domain to avoid my attention."
+"Mr. Cole. You are of my blood. [Capone](/npcs/capone/)'s grandchilde." The word carried weight. [Lodin](/npcs/lodin/) was claiming the lineage, drawing the line from himself to [Darius](/darius-cole/) through two intermediaries. "Your sire placed you in Gary under [Modius](/npcs/modius/)'s authority. He did not inform me. He did not inform Capone's household. He sired in a foreign domain to avoid my attention."
 
 He paused. The fire crackled.
 
-"This creates a problem. Chuc Luc operates in my city under my sufferance. He answers to Capone, who answers to me. The chain was broken." His eyes narrowed. "You are not responsible for your sire's choices. But you are here now, in my city, and the question of whose authority you serve requires an answer."
+"This creates a problem. [Chuc Luc](/npcs/chuc-luc/) operates in my city under my sufferance. He answers to Capone, who answers to me. The chain was broken." His eyes narrowed. "You are not responsible for your sire's choices. But you are here now, in my city, and the question of whose authority you serve requires an answer."
 
 He let the question sit inside the room for the duration of a breath that nobody in the room needed to take.
 
@@ -229,7 +229,7 @@ The faintest emphasis on *I am told*. Someone had reported to him. It did not ma
 
 "Three responsibilities. The borders. Your domain abuts Anarch-sympathetic territory to the south and west. You will monitor movement across your boundaries and report any unsanctioned Kindred presence."
 
-He was making them a buffer. The same function Modius served for Gary. The irony was structural, and [Lodin](/npcs/lodin/) did not care about irony.
+He was making them a buffer. The same function [Modius](/npcs/modius/) served for Gary. The irony was structural, and [Lodin](/npcs/lodin/) did not care about irony.
 
 "Second. Primogen liaison. Each member of this council will, at times, require services beneath their direct attention but above the competence of ghouls. Requests will be routed through Mrs. Elridge."
 

@@ -85,7 +85,7 @@ He nodded once. She moved into the shadow of the neighboring lot. He did not hea
 
 ---
 
-The garden was a square of frozen dirt behind a wooden fence with the slats warped outward. Tomato cages from last summer leaned against the brick. Darius set himself between two of them, shoulder against the fence, sightline clean to the fire escape.
+The garden was a square of frozen dirt behind a wooden fence with the slats warped outward. Tomato cages from last summer leaned against the brick. [Darius](/darius-cole/) set himself between two of them, shoulder against the fence, sightline clean to the fire escape.
 
 He waited.
 
@@ -123,7 +123,7 @@ The door at the end of the hall was open.
 
 Four cots. Thin blankets. A crescent moon nightlight plugged into the baseboard, throwing pale yellow across the floor. Small bodies. Small breathing. The room had the shape of a room a nun would arrange.
 
-Neally was bent over the nearest cot. The boy in the cot was maybe four. He was not sleeping. He was held still. Command-stillness, deep, four-year-old breathing slowed almost to nothing.
+[Neally](/npcs/neally-edwards/) was bent over the nearest cot. The boy in the cot was maybe four. He was not sleeping. He was held still. Command-stillness, deep, four-year-old breathing slowed almost to nothing.
 
 Neally's mouth was at the boy's throat.
 
@@ -207,7 +207,7 @@ He drove.
 
 The Prudential Building lobby was empty at twelve-eighteen except for the night man at the security desk, who looked up, registered Darius's face, and looked back down at his crossword without writing anything. The elevator took the forty-first floor at a speed that made the cables hum.
 
-Lodin's man was waiting in the hallway. Gray suit. Older. Military bearing through the shoulders. He looked at the child once. The expression on his face did not change.
+[Lodin](/npcs/lodin/)'s man was waiting in the hallway. Gray suit. Older. Military bearing through the shoulders. He looked at the child once. The expression on his face did not change.
 
 "Wait here."
 

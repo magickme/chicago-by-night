@@ -25,9 +25,9 @@ That was when the woman came out of the alley.
 
 Not walking. Running full-tilt — and not the kind of running that gets done in shoes — barefoot on cold concrete, red hair wild, one shoulder of a dress torn down past the collarbone and a smear of something dark across the jaw, and she came out of the slot between the laundromat and the abandoned print shop and slammed into [Sable](/sable-price/) hard enough to stagger them both.
 
-[Lorraine Matthews](/npcs/lorraine-matthews/). The girl from the [Labyrinth](/locations/the-labyrinth/) balcony, two months ago, who had been tripping on mescaline and trying to go over the railing while a string quartet played Debussy ten feet behind her. Sable had caught her by the wrist. Now Sable was catching her by the shoulders, in a different way, in a different place, and the smell of her was wrong.
+[Lorraine Matthews](/npcs/lorraine-matthews/). The girl from the [Labyrinth](/locations/the-labyrinth/) balcony, two months ago, who had been tripping on mescaline and trying to go over the railing while a string quartet played Debussy ten feet behind her. [Sable](/sable-price/) had caught her by the wrist. Now Sable was catching her by the shoulders, in a different way, in a different place, and the smell of her was wrong.
 
-Kindred vitae. Fresh. Not Lorraine's — Sable knew Ventrue blood, thin and sweet, and what was on this girl's hands and jaw and torn dress wasn't her. Somebody else's, someone Sable had never met, and the body had stopped being his around forty minutes ago by the warmth of what was left.
+Kindred vitae. Fresh. Not [Lorraine](/npcs/lorraine-matthews/)'s — Sable knew Ventrue blood, thin and sweet, and what was on this girl's hands and jaw and torn dress wasn't her. Somebody else's, someone Sable had never met, and the body had stopped being his around forty minutes ago by the warmth of what was left.
 
 And in the alley behind her: motion. Fast. Not a man running — a man dropping. The sound came two seconds later, the soft register of weight hitting a Dumpster lid in the middle distance and then absorbing into rubber-soled shoes that didn't crack the concrete this time but had been cracking concrete somewhere recently.
 
@@ -47,7 +47,7 @@ Behind them: another drop. Closer. Rooftop to sidewalk somewhere in the middle o
 
 "Who," Sable said, because they were running and she had breath she didn't need.
 
-"*Neally.*"
+"*[Neally](/npcs/neally-edwards/).*"
 
 The name came out the way names come out when they've stopped being words. Flat. Hollowed. Lorraine had been saying it to herself for hours and the saying had eaten the meaning.
 
@@ -89,7 +89,7 @@ She grabbed Lorraine under the arm and hauled. They ran.
 
 ---
 
-The steel door opened before they reached it. Darius in the frame — the Colt in his right hand, eyes already past her at the alley mouth, no questions. He stepped aside and they were through. Deadbolt. Chain. The metal slammed in the frame and Lorraine collapsed on the basement concrete with her palms bleeding and her knees torn and her teeth audibly clicking against each other in the fluorescent stutter.
+The steel door opened before they reached it. [Darius](/darius-cole/) in the frame — the Colt in his right hand, eyes already past her at the alley mouth, no questions. He stepped aside and they were through. Deadbolt. Chain. The metal slammed in the frame and Lorraine collapsed on the basement concrete with her palms bleeding and her knees torn and her teeth audibly clicking against each other in the fluorescent stutter.
 
 Sable couldn't catch her breath, which was strange because she didn't need to, and which was also entirely the point — the body kept its own ceremonies long after the body had stopped being necessary, and the Dex boost was still firing in her legs like a current and the Presence was still coming off her in the kind of waves that warped a room.
 
@@ -207,7 +207,7 @@ She knew what she was doing.
 
 She had not known, ten minutes ago. Now she did.
 
-It clicked the way these things had always clicked for her — the [Greene](/sable-price/) calculus, the read on what someone wanted and didn't have, the gap in the market that was also a person. Lodin gave Lorraine everything except the one thing Lorraine actually wanted, which was to be seen as a person who mattered on her own terms. Lodin's love language was Dominate and the Prudential Building and private floors and a schedule. The way to take a kept woman away from a man who kept her was not to outbid him. It was to do the opposite of everything he did.
+It clicked the way these things had always clicked for her — the [Greene](/sable-price/) calculus, the read on what someone wanted and didn't have, the gap in the market that was also a person. [Lodin](/npcs/lodin/) gave Lorraine everything except the one thing Lorraine actually wanted, which was to be seen as a person who mattered on her own terms. Lodin's love language was Dominate and the Prudential Building and private floors and a schedule. The way to take a kept woman away from a man who kept her was not to outbid him. It was to do the opposite of everything he did.
 
 Be present. Be the girl who was *there* — on the balcony, in the parking lot, in the basement with clean clothes and a steady voice. Pay attention to the details. Remember the torn dress, the bleeding feet, the way she said Marcus's name. Ask about it next time. Listen. Pick up when she calls. Be available without conditions. No appointments. No chain of command. No desk to go through.
 
@@ -221,7 +221,7 @@ She met Sable's eyes in the mirror. Smiled — small, uncertain, real.
 
 "Thank you. For the clothes. For — everything."
 
-The car horn outside was short and polite. Annabelle's driver. A black Lincoln Town Car at the curb with tinted glass.
+The car horn outside was short and polite. [Annabelle](/npcs/annabelle-triabell/)'s driver. A black Lincoln Town Car at the curb with tinted glass.
 
 Sable walked Lorraine up through the storefront, past the boarded window, into the cold. Opened the car door for her. Lorraine paused with one hand on the frame.
 

@@ -43,7 +43,7 @@ Near the DJ booth, a wrongness in the air. A patch where the club lighting bent 
 
 "Most people lead with the ask. I'd rather lead with value."
 
-[Brennon](/npcs/brennon-thornhill/) set the glass on the rail and gave Darius the full weight of his attention.
+[Brennon](/npcs/brennon-thornhill/) set the glass on the rail and gave [Darius](/darius-cole/) the full weight of his attention.
 
 "There's a property on Indiana Avenue," Darius said. "Brownstone. Connects to a shell called Greystone Fiduciary Trust. That trust holds paper on at least three properties belonging to someone whose name comes up a lot in this building."
 
@@ -61,7 +61,7 @@ Darius didn't explain. He drank from the glass he couldn't taste.
 
 "The table. Which one?"
 
-Brennon tilted his head toward the back of the main floor. Corner four-top by the column.
+[Brennon](/npcs/brennon-thornhill/) tilted his head toward the back of the main floor. Corner four-top by the column.
 
 "Tuesday evenings. Not every Tuesday. Enough that I notice."
 
@@ -139,7 +139,7 @@ Darius processed this. [Inyanga](/npcs/inyanga/)'s vote was the hinge. The Wolf 
 
 "You already knew the pieces," [Horace](/npcs/horace/) said. "Now. You came to me on a Wednesday night, which means you have something you think I want, or you want something you think I have."
 
-Darius kept his voice flat. "I'm not calling in the favor from December. But you mentioned Inyanga's vote. And you mentioned [Tyrus](/npcs/tyrus/)'s people making noise. Seems like someone who could pick up a phone and talk to [Tyrus](/npcs/tyrus/) — old friend, maybe a betting partner — could solve both problems before the session ends."
+Darius kept his voice flat. "I'm not calling in the favor from December. But you mentioned [Inyanga](/npcs/inyanga/)'s vote. And you mentioned [Tyrus](/npcs/tyrus/)'s people making noise. Seems like someone who could pick up a phone and talk to [Tyrus](/npcs/tyrus/) — old friend, maybe a betting partner — could solve both problems before the session ends."
 
 He watched [Horace](/npcs/horace/)'s face. Saw everything. The micro-dilation when he said [Tyrus](/npcs/tyrus/). The jaw tightening — the Plotter appetite engaging, the move too elegant to resist. And underneath both, the cold contraction. [Horace](/npcs/horace/) calculating exits. The paranoia that ran every scenario through a single filter.
 
@@ -191,7 +191,7 @@ She looked at him. Shoes to collar in a single sweep. "Mr. Cole. The Ventrue. Yo
 
 "That's a very direct thing to say to someone you've just met." Her mouth curved. The warmth went exactly as deep as she intended. "I admire directness in the young. It's so often confused with courage. Sit. Since you've already started."
 
-She pulled out Sable's chair and sat. The table became her audience. [Sir Henry](/npcs/sir-henry-johnson/) adjusted without being asked.
+She pulled out [Sable](/sable-price/)'s chair and sat. The table became her audience. [Sir Henry](/npcs/sir-henry-johnson/) adjusted without being asked.
 
 She spoke to [Sir Henry](/npcs/sir-henry-johnson/) but pitched her voice to include Darius. The vote, the abstention, the reprimand. [Ballard](/npcs/ballard/)'s proxy authority intact. Inyanga staring at the table for forty-five minutes while [Neally](/npcs/neally-edwards/) ran out the clock.
 

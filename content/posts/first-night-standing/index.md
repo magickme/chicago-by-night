@@ -92,7 +92,7 @@ Below, the smear on the dance floor was being mopped by a busboy who had appeare
 
 [Tomas](/tomas-navarro/) came around the bar and stood where a customer would stand. The debrief position. He laid it out clean and low: the shape moved toward the exit before the scream, not after. The handprint was set too low for someone standing upright. The speed did not match the size. And the floor staff had a protocol.
 
-Something shifted. [Tomas](/tomas-navarro/) had gone from Nicolai's errand boy to someone who moves to high ground and reports what he sees.
+Something shifted. [Tomas](/tomas-navarro/) had gone from [Nicolai](/npcs/nicolai/)'s errand boy to someone who moves to high ground and reports what he sees.
 
 "That's the third time this month," [Brennon](/npcs/brennon-thornhill/) said. "The first two were downstairs. Labyrinth level. I had someone walk the sub-basement and they found nothing, which means either there's nothing to find or whatever's down there is better at hiding than my people are at looking." He set the glass down. "I don't like either answer."
 
@@ -104,7 +104,7 @@ He produced a business card — cream stock, embossed, nothing but a phone numbe
 
 "Service elevator behind the kitchen. Down one floor." He checked his watch — gold, understated. "You have about seven hours. I'd use fewer."
 
-"Mr. Navarro." He said it without looking up. "Whatever you find down there — you tell me first. Not your regent. Not your Prince. Me. That's the price of the key."
+"Mr. [Navarro](/npcs/elena-navarro/)." He said it without looking up. "Whatever you find down there — you tell me first. Not your regent. Not your Prince. Me. That's the price of the key."
 
 ---
 
@@ -204,7 +204,7 @@ The haven on Kaspar Street was dark. No [Sable](/sable-price/). No [Darius](/dar
 
 *Feb 1. [Succubus Club](/locations/succubus-club/). Drainage tunnels under the Labyrinth — pre-sewer, 1880s brick, three-branch junction 12ft below east wall. Nosferatu. Female, Polish accent, [Khalid](/npcs/khalid-al-rashid/)'s. Broke Masquerade on dance floor. Fed on mortal in tunnels. I cleaned it up. She owes nothing. I owe nothing.*
 
-He cross-referenced [Sable](/sable-price/)'s report. Sabbat scouts mapping freight tunnel routes from the South Side to the Club. Khalid's network aware, had not shared. If the freight tunnels connected to the pre-sewer drainage, the Nosferatu already had a route from [Robert](/npcs/robert-klondike/) [Taylor](/npcs/helena-taylor/) Homes to the foundation. The question was whether Khalid controlled the entire underground or only the endpoints.
+He cross-referenced [Sable](/sable-price/)'s report. Sabbat scouts mapping freight tunnel routes from the South Side to the Club. [Khalid](/npcs/khalid-al-rashid/)'s network aware, had not shared. If the freight tunnels connected to the pre-sewer drainage, the Nosferatu already had a route from [Robert](/npcs/robert-klondike/) [Taylor](/npcs/helena-taylor/) Homes to the foundation. The question was whether Khalid controlled the entire underground or only the endpoints.
 
 The Crown Vic pulled onto [Astor](/npcs/lady-astor/) Street at twenty past one. The chantry sat between a German consular residence and a private art collection. Limestone, three stories, black iron fence. The ward registered him — pressure behind the eyes, copper on the tongue — and released.
 

@@ -41,13 +41,13 @@ That was the entire exchange. Brennon went back down the hallway. The corner tab
 
 "[Emily](/npcs/emily-carter/)?"
 
-Sable did not answer for several seconds. He waited.
+[Sable](/sable-price/) did not answer for several seconds. He waited.
 
 "Warm," she said, and the word came out wrong, freighted. "Mortal warm. But the warmth has a shape. All of it pointed at him. Like a compass calibrated once and never recalibrated."
 
 He looked across the balcony. [Neally Edwards](/npcs/neally-edwards/) was at a VIP table in the corner under the gallery, [Emily](/npcs/emily-carter/) beside him in a soft black dress with her hand on his sleeve. [Neally](/npcs/neally-edwards/) was not drinking the drink in front of him. Emily was. Three feet from them, a Blood Doll in a velvet choker waited at the next table for someone she was never going to be invited to join.
 
-"Kindred sweep," Darius said.
+"Kindred sweep," [Darius](/darius-cole/) said.
 
 A pause. "Too much static. If there's anyone else here, the room is eating it."
 
@@ -61,7 +61,7 @@ Whatever switch had been flipped inside him by [Jefferson Foster](/npcs/jefferso
 
 His Presence came on like a thermostat. [Darius](/darius-cole/) felt it as a pressure shift inside his own chest, an instinctive *attend*, and he killed it in himself the way he had learned to kill it: by naming it and refusing it. [Sable](/sable-price/)'s mouth tightened. [Tomás](/tomas-navarro/)'s shoulders adjusted half a degree. The dance floor noticed before anyone could say what it had noticed. Bodies turned. The music kept going. The people stopped.
 
-A woman near the front of the platform — twenty-six, hair pinned up, sleeveless dress, no companion — turned toward Neally and walked across the floor as if she had been called. She had been. Awe and the suggestion underneath it. She stopped a foot from him and tipped her head.
+A woman near the front of the platform — twenty-six, hair pinned up, sleeveless dress, no companion — turned toward [Neally](/npcs/neally-edwards/) and walked across the floor as if she had been called. She had been. Awe and the suggestion underneath it. She stopped a foot from him and tipped her head.
 
 "[Sable](/sable-price/)," Darius said, low.
 
@@ -105,7 +105,7 @@ The woman knew the building.
 
 ---
 
-Neally lifted his mouth from the wound. The woman in his arms exhaled the long shudder that the Kiss put into a body, and Sable caught the weight of her as Neally let go, and Neally was already turning, already walking, the feed complete, the assignment performed, the man [Jefferson Foster](/npcs/jefferson-foster/) owned doing the work Jefferson Foster had sent him to do.
+Neally lifted his mouth from the wound. The woman in his arms exhaled the long shudder that the Kiss put into a body, and Sable caught the weight of her as Neally let go, and Neally was already turning, already walking, the feed complete, the assignment performed, the man [Jefferson Foster](/npcs/jefferson-foster/) owned doing the work [Jefferson Foster](/npcs/jefferson-foster/) had sent him to do.
 
 He did not look at Sable.
 
@@ -175,11 +175,11 @@ He stood.
 
 The door was halfway open when Darius spoke.
 
-"Mr. Thornhill. One thing."
+"Mr. [Thornhill](/npcs/brennon-thornhill/). One thing."
 
 [Brennon](/npcs/brennon-thornhill/) paused without turning, the way he had paused for a hundred people in his life, the courtesy that cost nothing.
 
-"We had no way of knowing about tonight in advance. But when we saw what was happening, we moved on it. The breach is contained. Three witnesses. No loose ends. Annabelle should know that when your call goes out."
+"We had no way of knowing about tonight in advance. But when we saw what was happening, we moved on it. The breach is contained. Three witnesses. No loose ends. [Annabelle](/npcs/annabelle-triabell/) should know that when your call goes out."
 
 He let half a second go by.
 

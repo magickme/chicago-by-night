@@ -13,7 +13,7 @@ description: "Critias's tickets put the coterie in Sullivan's hall for Verdi. Ba
 
 ---
 
-The Auditorium Theatre was [Sullivan](/npcs/sullivan-dane/) and Adler's argument that democracy could sound like church. Four thousand seats under a vault of stenciled gold leaf, the proscenium curved so a soprano in the third octave reached the back rail without amplification. Tonight it was Verdi. *Nabucco*. Hebrew slaves singing about a home they would never see again. Tickets came from [Critias](/npcs/critias/)'s box and the protocol of acceptance was simple: arrive separately, sit where assigned, applaud at the appropriate intervals, leave the way a man leaves church.
+The [Auditorium Theatre](/locations/auditorium-theatre/) was [Sullivan](/npcs/sullivan-dane/) and Adler's argument that democracy could sound like church. Four thousand seats under a vault of stenciled gold leaf, the proscenium curved so a soprano in the third octave reached the back rail without amplification. Tonight it was Verdi. *Nabucco*. Hebrew slaves singing about a home they would never see again. Tickets came from [Critias](/npcs/critias/)'s box and the protocol of acceptance was simple: arrive separately, sit where assigned, applaud at the appropriate intervals, leave the way a man leaves church.
 
 [Darius](/darius-cole/) arrived first. Charcoal suit, single-breasted, the kind of cut he had paid for with two weeks of cover work at Kaspar & Sons. He checked his coat with a woman who saw a thousand suits a season and registered nothing about his. That was the entire point of the suit.
 
@@ -23,17 +23,17 @@ Tomás came in last. Dark jacket, soft collar, an academic's evening cut. The le
 
 They sat in the orchestra section in three non-adjacent seats. Protocol.
 
-Critias was already in his box. Fifth row up, upper tier, north side. Two ghouls in evening wear flanked him. They had the patience of men who had been doing this work for two and a half thousand years and had learned the trick of standing still without seeming to wait. The Brujah Methuselah leaned his chin on his fist and watched the orchestra tune. He did not acknowledge the coterie. The tickets had done that for him.
+[Critias](/npcs/critias/) was already in his box. Fifth row up, upper tier, north side. Two ghouls in evening wear flanked him. They had the patience of men who had been doing this work for two and a half thousand years and had learned the trick of standing still without seeming to wait. The Brujah Methuselah leaned his chin on his fist and watched the orchestra tune. He did not acknowledge the coterie. The tickets had done that for him.
 
-Two boxes south, [Neally Edwards](/npcs/neally-edwards/). Polished. Composed. The careful administrator who had taken notes at the Primogen session while [Lodin](/npcs/lodin/) spoke. Tonight he had company — a woman in a dark dress whose head was angled wrong for someone watching a stage. Her face stayed level with the house. [Darius](/darius-cole/) logged her as Neally's companion and could not name her. [Sable](/sable-price/) saw more.
+Two boxes south, [Neally Edwards](/npcs/neally-edwards/). Polished. Composed. The careful administrator who had taken notes at the Primogen session while [Lodin](/npcs/lodin/) spoke. Tonight he had company — a woman in a dark dress whose head was angled wrong for someone watching a stage. Her face stayed level with the house. [Darius](/darius-cole/) logged her as [Neally](/npcs/neally-edwards/)'s companion and could not name her. [Sable](/sable-price/) saw more.
 
-The hook came in behind Sable's sternum first. The woman across the hall had the kind of beauty the Toreador curse called toward like a magnet — and aimed it at the room like she knew the trick. Sable felt the pull, recognized the shape of it, and closed it down. The math came afterward. A face that aimed itself at a hall full of Kindred was either ignorance or bait, and ignorance did not dress like that.
+The hook came in behind [Sable](/sable-price/)'s sternum first. The woman across the hall had the kind of beauty the Toreador curse called toward like a magnet — and aimed it at the room like she knew the trick. Sable felt the pull, recognized the shape of it, and closed it down. The math came afterward. A face that aimed itself at a hall full of Kindred was either ignorance or bait, and ignorance did not dress like that.
 
 The house lights dimmed. The overture began. Forty feet up and behind her, leather creaked. Someone who smelled of highway exhaust and old vitae had settled into a row that had been empty thirty seconds earlier.
 
 ---
 
-Darius turned his head the slow way — the rotation of a man adjusting a cufflink, glancing at nothing. Two rows back, boots up on the seat in front of him, was a man in a leather jacket worn over no shirt. Road dirt in the creases. Hair that had not seen water in a week. Six others filled the row in formation. Three of them were identical. Same jaw, same hairline, same Roman numeral tattoos crawling up their necks. I, II, III. They shifted together. They breathed together. On the ends, two mortals — a heavyset woman with a shaved skull and a lean man with the still hands of someone trained out of fidgeting.
+[Darius](/darius-cole/) turned his head the slow way — the rotation of a man adjusting a cufflink, glancing at nothing. Two rows back, boots up on the seat in front of him, was a man in a leather jacket worn over no shirt. Road dirt in the creases. Hair that had not seen water in a week. Six others filled the row in formation. Three of them were identical. Same jaw, same hairline, same Roman numeral tattoos crawling up their necks. I, II, III. They shifted together. They breathed together. On the ends, two mortals — a heavyset woman with a shaved skull and a lean man with the still hands of someone trained out of fidgeting.
 
 The leader caught Darius looking and grinned. Not threat. Delight.
 
@@ -45,7 +45,7 @@ The soprano was finding the first aria. Sable's elbow found Darius's wrist under
 
 Sable opened her senses. The row behind them came in sharp. Five dead. Two living. The three identical men shared one organism's scent — same blood, same sweat, same dead-cell decay smeared across three skulls. [Bach](/npcs/bach/)'s vitae read old and sour, road-fermented. The fifth Kindred at the end of the row read young and coiled tight, fear wrapped in discipline. The mortals stank of adrenaline and gun oil. The woman had something heavy under her coat. The lean man's hands were the wrong kind of still.
 
-Then she pushed deeper. Auspex past Heightened Senses, the second sight, the trick the Toreador rarely had patience for. The auras of the row came open in front of her. Bach's was violent red shot through with violet — excitement and conviction, a man on a mission he had argued himself into a long time ago. The Chorus's aura was one smear of the same color across three bodies. Not similar. *Identical*. A signal split through three receivers. She had never seen anything like it and was already certain it was a wound on the world.
+Then she pushed deeper. Auspex past Heightened Senses, the second sight, the trick the Toreador rarely had patience for. The auras of the row came open in front of her. [Bach](/npcs/bach/)'s was violent red shot through with violet — excitement and conviction, a man on a mission he had argued himself into a long time ago. The Chorus's aura was one smear of the same color across three bodies. Not similar. *Identical*. A signal split through three receivers. She had never seen anything like it and was already certain it was a wound on the world.
 
 She leaned across Darius and breathed three clinical words: "Three bodies. One aura."
 
@@ -123,7 +123,7 @@ Two of Bach's seven gone in one round. No shots fired.
 
 Then Barb pulled the sawed-off out from under her coat.
 
-She fired at Tomás at ten feet. The shotgun in the empty theatre was the sound of God dropping a piano. The buckshot caught Tomás in the ribs as he was pulling back from Bach's shoulder. Four levels of lethal in one trigger pull. Vitae sprayed across the velvet upholstery in the wrong color and the leather notebook spilled out of his jacket and the Guadalupe santo hit the floor. Tomás went sideways into the row and stayed there.
+She fired at Tomás at ten feet. The shotgun in the empty theatre was the sound of God dropping a piano. The buckshot caught Tomás in the ribs as he was pulling back from Bach's shoulder. Four levels of lethal in one trigger pull. Vitae sprayed across the velvet upholstery in the wrong color and the leather notebook spilled out of his jacket and the [Guadalupe](/npcs/guadalupe-droin/) santo hit the floor. Tomás went sideways into the row and stayed there.
 
 The Chorus moved on Critias's ghouls. Three bodies, three motions, the same pivot performed three times. They put Alexios into the orchestra pit railing — four lethal damage through soak — and clipped Markos with a hit that opened his lip. They had not spoken. They had not looked at each other. The first ghoul was down and not getting up.
 
@@ -381,9 +381,9 @@ She didn't look up when they came in.
 
 She picked up the cartridges and loaded them back into the cylinder one by one. Closed it. Put the gun in her waistband.
 
-"Then we need to talk about what happens when Lodin asks about the opera."
+"Then we need to talk about what happens when [Lodin](/npcs/lodin/) asks about the opera."
 
-Eleven-thirty PM. Nine hours of darkness remaining. Two bodies in the canal. One .38 round in Darius's pocket. A sawed-off shotgun still on the floor of the Auditorium Theatre with the police standing over it. A man named Jefferson Foster walking through the city on the kind of legs that hadn't carried him in twenty-four years. A pack of Sabbat licking wounds somewhere south of the Loop with their ductus carved hollow.
+Eleven-thirty PM. Nine hours of darkness remaining. Two bodies in the canal. One .38 round in Darius's pocket. A sawed-off shotgun still on the floor of the Auditorium Theatre with the police standing over it. A man named [Jefferson Foster](/npcs/jefferson-foster/) walking through the city on the kind of legs that hadn't carried him in twenty-four years. A pack of Sabbat licking wounds somewhere south of the Loop with their ductus carved hollow.
 
 And the Pyramid would expect Tomás's report by tomorrow night.
 
