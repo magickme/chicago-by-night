@@ -5,7 +5,7 @@ layout: "page"
 slug: "quests"
 ---
 
-*Chicago Chronicles. Act II: Ashes and Blood. Updated: **1991-03-07 (Thursday). Current snapshot: Scene D065 "Last Call" (Darius solo) closed ~04:00 AM Wed Mar 6 (hunting run failed, haven conversation at ~03:30 AM with all three PCs present). In-game date advances to Thursday Mar 7 for next scene open. Campaign start: NYE 1989. Act II (Ashes and Blood): January 1991+. Baptism by Fire: NYE 1990.**.*
+*Chicago Chronicles. Act II: Ashes and Blood. Updated: **1991-03-08 (Friday). Current snapshot: Scene D066 "The Faculty Club" (Sable solo) closed ~00:30 AM Fri Mar 8 (faculty club meeting, Devon Avenue investigation, back to Kaspar haven). In-game date advances to Friday Mar 8 for next scene open. Campaign start: NYE 1989. Act II (Ashes and Blood): January 1991+. Baptism by Fire: NYE 1990.**.*
 
 
 

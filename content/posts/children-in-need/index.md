@@ -101,7 +101,7 @@ Eleven-oh-nine.
 
 Movement on the fire escape.
 
-He came up from the alley side, not the street. Darius hadn't seen the approach. The shape was wrong on the rungs. Too smooth. No hesitation at the landings. No metal sound. A grown man's weight on a hundred years of cast iron and the structure did not announce him.
+He came up from the alley side, not the street. [Darius](/darius-cole/) hadn't seen the approach. The shape was wrong on the rungs. Too smooth. No hesitation at the landings. No metal sound. A grown man's weight on a hundred years of cast iron and the structure did not announce him.
 
 He reached the third floor. One hand on the window frame. The warped wood gave under his palm. He had done it before.
 
@@ -125,7 +125,7 @@ Four cots. Thin blankets. A crescent moon nightlight plugged into the baseboard,
 
 [Neally](/npcs/neally-edwards/) was bent over the nearest cot. The boy in the cot was maybe four. He was not sleeping. He was held still. Command-stillness, deep, four-year-old breathing slowed almost to nothing.
 
-Neally's mouth was at the boy's throat.
+[Neally](/npcs/neally-edwards/)'s mouth was at the boy's throat.
 
 No sound. Practiced. Decades of practiced. The technique was the technique of someone who had fed this way before and would feed this way again and had a working theory of how much was safe to take.
 
@@ -233,7 +233,7 @@ He stepped out onto Michigan Avenue.
 
 It had started snowing. Thin. Dry. The kind that didn't accumulate, only blew. The streetlights cut through it and the snow made television static at the edge of every cone.
 
-*You did the right thing,* the Beast said. *The efficient thing. The Ventrue thing. Now go home and try not to think about what happens to an eight-year-old Kindred in Lodin's custody.*
+*You did the right thing,* the Beast said. *The efficient thing. The Ventrue thing. Now go home and try not to think about what happens to an eight-year-old Kindred in [Lodin](/npcs/lodin/)'s custody.*
 
 He walked north.
 

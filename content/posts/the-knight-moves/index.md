@@ -109,7 +109,7 @@ She took the stool right next to him.
 
 "He told me it was a harmless gesture," [Drummond](/npcs/edgar-drummond/) said. [Ballard](/npcs/ballard/). The locomotive governor. "A bit of theater. He said [Annabelle](/npcs/annabelle-triabell/) would understand it was politics." He picked up his glass and set it down without drinking. "She didn't seem to understand that."
 
-"You'd be truly on [Annabelle's](/npcs/annabelle-triabell/) good side if you simply volunteered what we need to know about Ballard."
+"You'd be truly on [Annabelle's](/npcs/annabelle-triabell/) good side if you simply volunteered what we need to know about [Ballard](/npcs/ballard/)."
 
 He looked at her. The warmth was doing its work underneath the conversation, holding him open, and he couldn't look away and they both knew it.
 
@@ -163,7 +163,7 @@ He had known before he came outside.
 
 "Guessing that creepy dude [Critias](/npcs/critias/) has been sparring with."
 
-Sir Henry was silent for half a block. His pace didn't change.
+[Sir Henry](/npcs/sir-henry-johnson/) was silent for half a block. His pace didn't change.
 
 "Dimitri," he said. Flat. The way you say the name of something old and unpleasant that you'd hoped was somewhere else. "How deep are you in that."
 

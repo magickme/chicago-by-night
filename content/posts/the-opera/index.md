@@ -27,7 +27,7 @@ They sat in the orchestra section in three non-adjacent seats. Protocol.
 
 Two boxes south, [Neally Edwards](/npcs/neally-edwards/). Polished. Composed. The careful administrator who had taken notes at the Primogen session while [Lodin](/npcs/lodin/) spoke. Tonight he had company — a woman in a dark dress whose head was angled wrong for someone watching a stage. Her face stayed level with the house. [Darius](/darius-cole/) logged her as [Neally](/npcs/neally-edwards/)'s companion and could not name her. [Sable](/sable-price/) saw more.
 
-The hook came in behind [Sable](/sable-price/)'s sternum first. The woman across the hall had the kind of beauty the Toreador curse called toward like a magnet — and aimed it at the room like she knew the trick. Sable felt the pull, recognized the shape of it, and closed it down. The math came afterward. A face that aimed itself at a hall full of Kindred was either ignorance or bait, and ignorance did not dress like that.
+The hook came in behind [Sable](/sable-price/)'s sternum first. The woman across the hall had the kind of beauty the Toreador curse called toward like a magnet — and aimed it at the room like she knew the trick. [Sable](/sable-price/) felt the pull, recognized the shape of it, and closed it down. The math came afterward. A face that aimed itself at a hall full of Kindred was either ignorance or bait, and ignorance did not dress like that.
 
 The house lights dimmed. The overture began. Forty feet up and behind her, leather creaked. Someone who smelled of highway exhaust and old vitae had settled into a row that had been empty thirty seconds earlier.
 
@@ -35,7 +35,7 @@ The house lights dimmed. The overture began. Forty feet up and behind her, leath
 
 [Darius](/darius-cole/) turned his head the slow way — the rotation of a man adjusting a cufflink, glancing at nothing. Two rows back, boots up on the seat in front of him, was a man in a leather jacket worn over no shirt. Road dirt in the creases. Hair that had not seen water in a week. Six others filled the row in formation. Three of them were identical. Same jaw, same hairline, same Roman numeral tattoos crawling up their necks. I, II, III. They shifted together. They breathed together. On the ends, two mortals — a heavyset woman with a shaved skull and a lean man with the still hands of someone trained out of fidgeting.
 
-The leader caught Darius looking and grinned. Not threat. Delight.
+The leader caught [Darius](/darius-cole/) looking and grinned. Not threat. Delight.
 
 He leaned forward over the row between them. Close enough that Darius could smell him — gasoline, vitae, something rotten underneath the gasoline.
 
@@ -53,13 +53,13 @@ Tomás's hand went to the carved [Guadalupe](/npcs/guadalupe-droin/) in his pock
 
 He folded three fingers into a fist for Darius. *Blood Brothers. One unit.*
 
-Sable looked up at Critias's box. She held the Methuselah's eye for two seconds — long enough to be deliberate, short enough to be respectful — and touched her ear, then her eye, then dropped her gaze back to the row behind them. *I hear it. I see it. Look.*
+Sable looked up at [Critias](/npcs/critias/)'s box. She held the Methuselah's eye for two seconds — long enough to be deliberate, short enough to be respectful — and touched her ear, then her eye, then dropped her gaze back to the row behind them. *I hear it. I see it. Look.*
 
 Critias had been listening to the orchestra the way a man listens to a tradesman badly hammering a nail. Twenty-six centuries of survival had taught him to notice when neonates he had invested in began signaling. His eyes moved to the row behind the coterie. The ghouls beside him shifted — not obviously, not for anyone who wasn't watching, but the line of their bodies turned from the stage to the house. Critias's hand came up to rest along his jaw, index finger laid against his cheek. He held Sable's gaze for one second. Then he looked back at Babylon.
 
 He had seen them. He was thinking. He had not yet moved.
 
-Bach was drumming his fingers on his knee in time with the orchestra. Darius turned in his seat — slow rotation, the same precise motion as before, only now it ended with him locking eyes across two rows of empty velvet — and reached for the will behind Bach's grin and pushed. *You don't want to do this. Not here.*
+[Bach](/npcs/bach/) was drumming his fingers on his knee in time with the orchestra. Darius turned in his seat — slow rotation, the same precise motion as before, only now it ended with him locking eyes across two rows of empty velvet — and reached for the will behind Bach's grin and pushed. *You don't want to do this. Not here.*
 
 Bach's pupils contracted. He felt it. He knew what it was. And his jaw set and the Mesmerize slid off him like rain off leather.
 
@@ -73,7 +73,7 @@ Three things happened at once. [Neally Edwards](/npcs/neally-edwards/) rose from
 
 "Intermission," Bach said. "Let's get a drink. You're buying."
 
-He walked toward the lobby. Toward Neally's exit.
+He walked toward the lobby. Toward [Neally](/npcs/neally-edwards/)'s exit.
 
 Critias's ghoul reached Darius. He didn't speak. He handed across a folded program with two words written inside in precise, ancient handwriting.
 
@@ -165,7 +165,7 @@ It came free with a sound like a cork leaving a bottle that had been sealed for 
 
 The slab exploded. Concrete and dust blew outward. Darius staggered back. A shape lunged from the wall in shredded clothing from another decade — grey skin, eyes that were all pupil and no iris, jaw working at the air. The thing that had been [Jefferson Foster](/npcs/jefferson-foster/) hit the theatre floor in full frenzy and shrieked at nothing.
 
-Critias did not move. Majesty rolled off him like the heat off a furnace. The frenzy hit it and skidded to a halt three feet short. The animal behind Jefferson's eyes recognized something older than itself, and the Beast went small, and the frenzy drained out of him like water through a crack.
+Critias did not move. Majesty rolled off him like the heat off a furnace. The frenzy hit it and skidded to a halt three feet short. The animal behind [Jefferson](/npcs/jefferson-foster/)'s eyes recognized something older than itself, and the Beast went small, and the frenzy drained out of him like water through a crack.
 
 He crouched in the dust. Twenty-four years dry.
 
@@ -261,7 +261,7 @@ Then he let go. Sat up. Wiped his mouth with the back of his hand. The intellige
 
 The Conscience check held. Humanity 6. The full weight of it settled on him and held.
 
-He buttoned his jacket. Picked up the Guadalupe santo from the floor. Put it back in his pocket. Looked at the body.
+He buttoned his jacket. Picked up the [Guadalupe](/npcs/guadalupe-droin/) santo from the floor. Put it back in his pocket. Looked at the body.
 
 "I need to dispose of this," he said. The analyst voice. Flat. Operational.
 
@@ -383,7 +383,7 @@ She picked up the cartridges and loaded them back into the cylinder one by one. 
 
 "Then we need to talk about what happens when [Lodin](/npcs/lodin/) asks about the opera."
 
-Eleven-thirty PM. Nine hours of darkness remaining. Two bodies in the canal. One .38 round in Darius's pocket. A sawed-off shotgun still on the floor of the Auditorium Theatre with the police standing over it. A man named [Jefferson Foster](/npcs/jefferson-foster/) walking through the city on the kind of legs that hadn't carried him in twenty-four years. A pack of Sabbat licking wounds somewhere south of the Loop with their ductus carved hollow.
+Eleven-thirty PM. Nine hours of darkness remaining. Two bodies in the canal. One .38 round in Darius's pocket. A sawed-off shotgun still on the floor of the [Auditorium Theatre](/locations/auditorium-theatre/) with the police standing over it. A man named [Jefferson Foster](/npcs/jefferson-foster/) walking through the city on the kind of legs that hadn't carried him in twenty-four years. A pack of Sabbat licking wounds somewhere south of the Loop with their ductus carved hollow.
 
 And the Pyramid would expect Tomás's report by tomorrow night.
 

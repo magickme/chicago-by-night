@@ -41,7 +41,7 @@ The Brown Palace atrium opened above them -- nine stories of iron balconies spir
 
 Sunday night thin. Fifteen people visible. A businessman reading the Post in an armchair. Two women at a low table with cocktails. Hotel staff moving at hotel speed -- unhurried, precise.
 
-No Edward. Not yet visible.
+No [Edward](/npcs/edward-williams/). Not yet visible.
 
 Monica scanned the room -- short, professional sweeps. Her jaw was set.
 
@@ -135,11 +135,11 @@ Monica looked at Theresa. Theresa gave her a small nod. No point building a deal
 
 Monica set both hands flat on the table.
 
-"Your man's ghoul -- the one who worked for Prestor. [Klondike](/npcs/robert-klondike/). Three hundred years old, Nosferatu, living on a ranch south of Sedalia." She let Edward register that they knew things he might not have expected. "We tracked him down. He had copies of the research. Our man Flash tried to take him by force."
+"Your man's ghoul -- the one who worked for [Prestor](/npcs/jacob-prestor/). [Klondike](/npcs/robert-klondike/). Three hundred years old, Nosferatu, living on a ranch south of Sedalia." She let Edward register that they knew things he might not have expected. "We tracked him down. He had copies of the research. Our man Flash tried to take him by force."
 
 She looked at Theresa.
 
-"Diablerie," Theresa said. The chemistry-teacher register, level and precise. "Flash tried to consume Klondike. Klondike's will was stronger. Flash is gone. Klondike is walking around in Flash's body with everything Flash knew. Our names. Our faces. Where we sleep."
+"Diablerie," Theresa said. The chemistry-teacher register, level and precise. "Flash tried to consume [Klondike](/npcs/robert-klondike/). Klondike's will was stronger. Flash is gone. Klondike is walking around in Flash's body with everything Flash knew. Our names. Our faces. Where we sleep."
 
 Edward had not moved. His expression had not changed. The particular stillness of someone recalculating.
 
@@ -159,13 +159,13 @@ Theresa took it.
 
 "He has Flash's face, Flash's body, Flash's capabilities. Speed. Strength. The thing that makes people listen." She counted them on her fingers -- the teacher's habit. "He knows our names, all four. He knows Emerson's estate in Cherry Hills. He knows we were looking for the research. He knows what we learned about you from [Tony](/npcs/tony/)."
 
-Edward's jaw tightened a fraction at Tony's name.
+Edward's jaw tightened a fraction at [Tony](/npcs/tony/)'s name.
 
 "What he doesn't have," Theresa said, "is the research."
 
 She looked at the footlocker. Marcus shifted his knee to give it room.
 
-"We have all of it. Prestor's journals -- a century of his work, in French. Liverman's stolen notes and his preliminary analysis. The serum vials. Every strain. The clan-specific vectors, the powders, the base vitae."
+"We have all of it. Prestor's journals -- a century of his work, in French. [Liverman](/npcs/dr-roger-liverman/)'s stolen notes and his preliminary analysis. The serum vials. Every strain. The clan-specific vectors, the powders, the base vitae."
 
 She paused. Because she was about to tell an eight-hundred-year-old vampire what the most dangerous thing in his city actually did.
 
@@ -315,7 +315,7 @@ He turned to go. Took two steps. Stopped.
 
 He turned back, as if something had just occurred to him. It hadn't. He'd been holding it.
 
-"One more thing," he said. "Which of you was it who saw Duke when he first entered the house?"
+"One more thing," he said. "Which of you was it who saw [Duke](/npcs/duke/) when he first entered the house?"
 
 Four blank faces. Monica looked at Theresa. Marcus looked at Monica. Emerson looked at nobody.
 
@@ -351,7 +351,7 @@ She picked up her club soda for the first time. Held it. Set it down.
 
 Marcus and Emerson pulled the footlocker out from the booth. Monica dropped two twenties on the table. They crossed the lobby in a line -- four people carrying luggage out of a hotel bar, unremarkable, forgettable. A man in a dark suit stood behind the front desk, watching them approach. He didn't introduce himself. He didn't need to.
 
-They left the footlocker with Roger Manot. A century of Prestor's research, Liverman's analysis, Theresa's forty-eight hours of decoding -- all of it passing across a marble counter in the Brown Palace lobby at 22:38 on a Sunday night in March.
+They left the footlocker with [Roger Manot](/npcs/roger-manot/). A century of Prestor's research, Liverman's analysis, Theresa's forty-eight hours of decoding -- all of it passing across a marble counter in the Brown Palace lobby at 22:38 on a Sunday night in March.
 
 The revolving door pushed cold air into Theresa's face. Twenty-three degrees. The Rockies invisible in the dark, but present -- the way they were always present in Denver, a wall at the edge of everything.
 
@@ -359,6 +359,6 @@ She walked to the IROC-Z. Unlocked it. Got in. Monica took shotgun. Marcus and E
 
 Theresa started the engine. The heater came on. The dashboard clock read 22:41.
 
-Tomorrow night. The Broadstreet. Nine o'clock. Dress appropriately.
+Tomorrow night. [The Broadstreet](/locations/the-broadstreet/). Nine o'clock. Dress appropriately.
 
 She pulled onto 18th Street and drove west toward Cherry Hills, and the warmth behind her sternum did not fade, and she did not want it to, and that was the worst part of all.

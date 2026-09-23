@@ -49,7 +49,7 @@ Terri was on the arm of a chair, not in it. Monica had a manila folder closed on
 
 Flash dropped into a chair. Tipped a hand. Go.
 
-Marcus gave it flat. The blood weakened with distance from the source. Thirteen steps removed was the wall. Past it, the blood couldn't carry itself forward. A bite at that remove killed, or it did nothing. It did not make another. Klondike was thirteen steps out. So were they.
+Marcus gave it flat. The blood weakened with distance from the source. Thirteen steps removed was the wall. Past it, the blood couldn't carry itself forward. A bite at that remove killed, or it did nothing. It did not make another. [Klondike](/npcs/robert-klondike/) was thirteen steps out. So were they.
 
 The thing Klondike had been waiting on, a line, someone to carry his name past his own end, was never going to happen. The serum gave them the hunger and the long nights and everything else on the bill, and it left out the one clause Klondike was holding onto. He'd been waiting on an answer that was always going to be no.
 
@@ -65,13 +65,13 @@ Emerson set the glass down. A small exact sound on the side table. "I called it 
 
 Marcus cut him off. "It bought time. It didn't buy a reason. And the reason just died in this room."
 
-Flash paid his own tab next. He and Terri had walked [the Broadstreet](/locations/the-broadstreet/). Confirmed that [Edward Williams](/npcs/edward-williams/) owned the place, fronted a house band called Seventh Son, hadn't aged in fifteen years. They'd gone inside. Edward made them both in under a minute and then he'd made the whole room watch them leave. "He's got my face. He's got Terri's. He didn't chase. Which means he didn't need to."
+Flash paid his own tab next. He and Terri had walked [the Broadstreet](/locations/the-broadstreet/). Confirmed that [Edward Williams](/npcs/edward-williams/) owned the place, fronted a house band called Seventh Son, hadn't aged in fifteen years. They'd gone inside. [Edward](/npcs/edward-williams/) made them both in under a minute and then he'd made the whole room watch them leave. "He's got my face. He's got Terri's. He didn't chase. Which means he didn't need to."
 
 Terri was on her feet. "Means he's the kind who finds out who you are first. Then comes."
 
 Monica opened the folder and read it straight through. The fire that killed [Prestor](/npcs/jacob-prestor/)'s people. Filed arson-homicide, open, stalled. The accelerant pattern was professional. Point-of-origin work, not a splash job. And the body count was wrong. The press said three dead. The medical examiner's worksheet listed four sets of remains. The fourth wasn't named. Logged as "unidentified, presumed incidental." Nobody was incidental in a building burned on purpose. Somebody died in that fire the city never went looking for.
 
-Then Emerson. Hadrick had come to him in January wanting four million made quiet. Offshore, layered, for Prestor's work. Emerson refused. But he'd looked at what he was refusing, and he'd found the money. Not a foundation, not a university. A holding company. And the holding company's registered agent was a law firm. Holland and Hart. The same firm whose Mr. Goldring had taken [Detective](/npcs/detective-robert-carter/) [Brandt](/npcs/detective-william-brandt/)'s telephone call about Emerson that morning.
+Then Emerson. Hadrick had come to him in January wanting four million made quiet. Offshore, layered, for [Prestor](/npcs/jacob-prestor/)'s work. Emerson refused. But he'd looked at what he was refusing, and he'd found the money. Not a foundation, not a university. A holding company. And the holding company's registered agent was a law firm. Holland and Hart. The same firm whose Mr. Goldring had taken [Detective](/npcs/detective-robert-carter/) [Brandt](/npcs/detective-william-brandt/)'s telephone call about Emerson that morning.
 
 Monica closed the folder.
 

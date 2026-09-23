@@ -38,7 +38,7 @@ The glass of water trembled once and stopped.
 
 "Yep," Flash said. "Now what."
 
-Her eyes went to the Klondike letter and back. He could see her deciding which of the three things she'd been sitting on to lead with.
+Her eyes went to the [Klondike](/npcs/robert-klondike/) letter and back. He could see her deciding which of the three things she'd been sitting on to lead with.
 
 "Now we figure out what we can do and what we can't." She turned the journal sideways. Inside the front cover, on the blank flyleaf, in her handwriting in pencil: a column. Short entries. Some crossed out. *Can't go in the sun (probably). Can't eat. Bleed but slow, heal fast. Hear/smell more. Teeth. Strength -- verified. Sleep at sunrise. Need blood -- verified, once.*
 
@@ -150,7 +150,7 @@ Flash punched his fist into his palm. "I say we find this guy and beat some answ
 
 "Which guy," Monica said.
 
-"Prestor."
+"[Prestor](/npcs/jacob-prestor/)."
 
 "Prestor's dead, Flash."
 
@@ -160,7 +160,7 @@ Marcus pushed off the wall. "He's not wrong. Prestor didn't operate in a vacuum.
 
 Monica picked up the key. "Bank's closed until Monday. We have tonight and tomorrow night."
 
-Terri counted on her fingers. "Hadrick's body. Crown Vic. Brandt canvassing. Mavis and Suzy. And I need to eat."
+Terri counted on her fingers. "Hadrick's body. Crown Vic. [Brandt](/npcs/detective-william-brandt/) canvassing. Mavis and Suzy. And I need to eat."
 
 Marcus: "We need to figure out how to do that without killing anybody. Because right now the only data point we have is Flash, and it's hard to stop."
 
@@ -230,7 +230,7 @@ The cat went with Terri. She held it against her chest with both hands and the c
 
 South Platte River. Burnham Yard. The industrial stretch where the service road turned to gravel and the lights stopped. The river was fast and black with February snowmelt, running high between concrete banks that gave way to frozen mud. Flash carried Hadrick down the bank. Unwrapped the sheet. The body was light and stiff and the skin had the texture of candle wax in the cold.
 
-He held the man at the water's edge. Joseph Hadrick. Downstairs neighbor. Sixty-three. Cat owner. Dead because Flash Simpson came home hungry and didn't know how to stop.
+He held the man at the water's edge. [Joseph](/npcs/joseph-peterson/) Hadrick. Downstairs neighbor. Sixty-three. Cat owner. Dead because Flash Simpson came home hungry and didn't know how to stop.
 
 Flash let go. The current took him. Ten feet. Twenty. The river closed over him and the dark water carried him downstream toward the rail yards and whatever came after that, and Flash stood on the bank with the sheet in his hands and the smell of the river filling his new senses, minerals and diesel and cold, and didn't feel what he was supposed to feel. He felt the absence of what he was supposed to feel. That was worse.
 

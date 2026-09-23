@@ -142,7 +142,7 @@ Flash and Terri walked to the IROC.
 
 The dome light caught Terri's eyes when she opened the passenger door -- green, bright, reflective, the same thing Flash saw when he looked in his rearview mirror and his own eyes flashed back. They looked at each other. Neither said anything. There was nothing to say about it that the color hadn't already said.
 
-The items were on the bench seat between them: clipboard, vial rack, black case, journal. The IROC had been running for six hours -- he'd left it on outside the Brewery, engine idling, heat blasting, the girl he'd been walking out already fading from memory. A quarter tank gone. The rest of the night.
+The items were on the bench seat between them: clipboard, vial rack, black case, journal. The IROC had been running for six hours -- he'd left it on outside [the Brewery](/locations/the-brewery/), engine idling, heat blasting, the girl he'd been walking out already fading from memory. A quarter tank gone. The rest of the night.
 
 North on Logan. The heater pushing air that Flash couldn't feel. Streetlights on timer, half of them out. Denver at the dead center of February, and the city at this hour was empty in a way that made it look like a diagram of a city instead of one.
 
@@ -214,11 +214,11 @@ She put her hand on the journal. Leather cover, cracked and blackened.
 
 The case opened on a foam interior. One ampoule, sealed at both ends, clear liquid. Three empty recesses where three other ampoules had been. A folded paper tucked into the lid.
 
-The paper: top half in the same French handwriting as the vial labels. Dosing notes. Bottom third in English, different hand, the pen pressed too hard -- the letters denting through to the back. A letter from someone who signed himself "RK." Klondike. Offering himself as a test subject. The handwriting got worse toward the end, the letters tighter.
+The paper: top half in the same French handwriting as the vial labels. Dosing notes. Bottom third in English, different hand, the pen pressed too hard -- the letters denting through to the back. A letter from someone who signed himself "RK." [Klondike](/npcs/robert-klondike/). Offering himself as a test subject. The handwriting got worse toward the end, the letters tighter.
 
 *I have been someone's hand for three hundred years. I would rather die a free man than continue as I am.*
 
-Terri read it twice. "He hadn't sent it yet. No envelope. No fold from mailing. He kept it in this case with the single dose of the thing Prestor was going to test on him. Prestor had already prepared the dose."
+Terri read it twice. "He hadn't sent it yet. No envelope. No fold from mailing. He kept it in this case with the single dose of the thing [Prestor](/npcs/jacob-prestor/) was going to test on him. Prestor had already prepared the dose."
 
 The journal was French. Ninety-plus years of consistent handwriting, the same hand from the late 1800s to entries dated this month. Terri turned pages. Found the diagnostic page -- a diagram, circles and arrows, labels in a chemist's notation. She read for ninety seconds. Flash counted the seconds by the refrigerator's hum.
 

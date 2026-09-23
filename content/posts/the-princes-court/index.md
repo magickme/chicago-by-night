@@ -157,7 +157,7 @@ He turned his back on [Darius](/darius-cole/). Walked to the head of the table. 
 
 He turned back to face them.
 
-"Mr. Cole. You are of my blood. [Capone](/npcs/capone/)'s grandchilde." The word carried weight. [Lodin](/npcs/lodin/) was claiming the lineage, drawing the line from himself to [Darius](/darius-cole/) through two intermediaries. "Your sire placed you in Gary under [Modius](/npcs/modius/)'s authority. He did not inform me. He did not inform Capone's household. He sired in a foreign domain to avoid my attention."
+"Mr. Cole. You are of my blood. [Capone](/npcs/capone/)'s grandchilde." The word carried weight. [Lodin](/npcs/lodin/) was claiming the lineage, drawing the line from himself to [Darius](/darius-cole/) through two intermediaries. "Your sire placed you in Gary under [Modius](/npcs/modius/)'s authority. He did not inform me. He did not inform [Capone](/npcs/capone/)'s household. He sired in a foreign domain to avoid my attention."
 
 He paused. The fire crackled.
 
@@ -165,7 +165,7 @@ He paused. The fire crackled.
 
 He let the question sit inside the room for the duration of a breath that nobody in the room needed to take.
 
-"You could be presented to me directly. Acknowledged as my line. Your obligations to Chuc Luc's household would be superseded by your obligations to your Prince, who is, in this case, also your ancestor."
+"You could be presented to me directly. Acknowledged as my line. Your obligations to [Chuc Luc](/npcs/chuc-luc/)'s household would be superseded by your obligations to your Prince, who is, in this case, also your ancestor."
 
 [Darius](/darius-cole/) understood what was being offered. Not charity. Acquisition. The chain of command would run Prince to childe, skipping Chuc Luc entirely. It solved [Lodin](/npcs/lodin/)'s problem and it solved [Darius](/darius-cole/)'s problem, and the price was that [Darius](/darius-cole/) would owe his formal existence to the Prince of Chicago in a way that could not be revoked, renegotiated, or escaped.
 

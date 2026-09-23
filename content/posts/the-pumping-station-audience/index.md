@@ -41,7 +41,7 @@ The cigarette stopped halfway up. Something recalculated behind the man's eyes -
 
 The right hand had drifted off the hip half an inch. Not holstered, not drawn. The space between those two positions.
 
-Darius told him the truth dressed as a lie. Circumstance, leverage, the shape of a situation the man could recognize because he lived inside one. The eyes narrowed. The cigarette lowered. The hand came off the hip entirely.
+[Darius](/darius-cole/) told him the truth dressed as a lie. Circumstance, leverage, the shape of a situation the man could recognize because he lived inside one. The eyes narrowed. The cigarette lowered. The hand came off the hip entirely.
 
 One word. Darius spoke it and the man's legs locked. The cigarette burned between his fingers. His eyes widened -- the body had obeyed before the mind caught up, and the gap between those two events was a country the man would never visit again.
 
@@ -93,7 +93,7 @@ At the haven, [Sable](/sable-price/)'s jaw was tight. She'd dressed for Milwauke
 
 Nobody asked why. The coterie worked when nobody asked why.
 
-Darius drove. North on Ashland, east on Roosevelt, up Michigan Avenue. The snow had turned to fine dry grit that the wind carried horizontal across the headlights. Streets half-empty for a Tuesday. The Pumping Station's limestone face materialized at the north end of the Magnificent Mile -- castellated, squat, built to survive what fire couldn't kill. Lodin's taste in meeting places. Always somewhere that had outlasted fire, flood, or riot. Always the reminder built into the address.
+Darius drove. North on Ashland, east on Roosevelt, up Michigan Avenue. The snow had turned to fine dry grit that the wind carried horizontal across the headlights. Streets half-empty for a Tuesday. The Pumping Station's limestone face materialized at the north end of the Magnificent Mile -- castellated, squat, built to survive what fire couldn't kill. [Lodin](/npcs/lodin/)'s taste in meeting places. Always somewhere that had outlasted fire, flood, or riot. Always the reminder built into the address.
 
 ---
 
@@ -111,7 +111,7 @@ He breathed once through his mouth. The pull receded. Data, not impulse. He file
 
 "Mr. Cole. Ms. Price. Mr. [Navarro](/npcs/elena-navarro/)." Neally's voice held steady. Steadiness was the last thing he controlled and he was gripping it with both hands. "The Prince is expecting you upstairs. Second floor, the gallery."
 
-Sable walked through without looking at him. [Tomas](/npcs/tomas/) gave a fractional nod -- the minimum acknowledgment that Tremere protocol demanded and not a milligram more. Darius passed close enough to smell him. Stale blood. Dry-cleaned wool. Underneath both, something sharper -- a chemical the living body produces when the brain has accepted a fact the mouth won't say.
+[Sable](/sable-price/) walked through without looking at him. [Tomas](/npcs/tomas/) gave a fractional nod -- the minimum acknowledgment that Tremere protocol demanded and not a milligram more. Darius passed close enough to smell him. Stale blood. Dry-cleaned wool. Underneath both, something sharper -- a chemical the living body produces when the brain has accepted a fact the mouth won't say.
 
 ---
 
@@ -123,7 +123,7 @@ Two ghouls flanked the interior door. One opened it.
 
 [Lodin](/npcs/lodin/) stood at the far end, silhouetted against the north windows, looking out at the Water Tower. He did not turn.
 
-The air in the room changed when they entered. Not temperature -- pressure. Something old and enclosed, ozone and iron, the predatory weight of a creature whose blood was centuries thicker than theirs. Sable's step hitched half a beat. Tomas adjusted his glasses. Darius felt the pull again -- deeper, more specific, aimed at the source rather than the proxy -- and buried it under the discipline of placing one foot in front of the other.
+The air in the room changed when they entered. Not temperature -- pressure. Something old and enclosed, ozone and iron, the predatory weight of a creature whose blood was centuries thicker than theirs. Sable's step hitched half a beat. [Tomas](/npcs/tomas/) adjusted his glasses. Darius felt the pull again -- deeper, more specific, aimed at the source rather than the proxy -- and buried it under the discipline of placing one foot in front of the other.
 
 Lodin turned.
 
@@ -137,7 +137,7 @@ Lodin's eyes held Darius two seconds longer than comfortable, then released. He 
 
 He sat. The coterie stood.
 
-"Brennon delivered your intelligence Monday evening." He opened the folder. Did not look at it -- theater, all parties aware. "[Jefferson Foster](/npcs/jefferson-foster/). [Emily Carter](/npcs/emily-carter/). The mechanism by which my administrator was compromised."
+"[Brennon](/npcs/brennon-thornhill/) delivered your intelligence Monday evening." He opened the folder. Did not look at it -- theater, all parties aware. "[Jefferson Foster](/npcs/jefferson-foster/). [Emily Carter](/npcs/emily-carter/). The mechanism by which my administrator was compromised."
 
 He tested the silence. Whether they would fill it. Darius did not. Sable did not. Tomas did not. The silence was the correct answer, and all three of them knew it, and Lodin knew they knew it.
 
@@ -183,7 +183,7 @@ Lodin leaned back. One degree.
 
 He stood. Walked to the window. The Water Tower's amber light caught the planes of his face and threw the rest into shadow.
 
-"Neally is currently bound to Jefferson Foster. A Sabbat operative in my city. If the Bond is severed, Neally is mine again -- free of external influence, aware of his compromise, and grateful. If the Bond is not severed, Neally remains a liability." He turned his head. The light caught one eye. "Liabilities are resolved."
+"Neally is currently bound to [Jefferson Foster](/npcs/jefferson-foster/). A Sabbat operative in my city. If the Bond is severed, Neally is mine again -- free of external influence, aware of his compromise, and grateful. If the Bond is not severed, Neally remains a liability." He turned his head. The light caught one eye. "Liabilities are resolved."
 
 He faced the three of them.
 
@@ -195,7 +195,7 @@ The room was cold. The snow blew fine and dry against the north windows. Somewhe
 
 He let the sentence stand alone. The deliberate space around it.
 
-"I am telling you that if Neally Edwards is functional and unbound within thirty days, I will consider the debt settled favorably."
+"I am telling you that if [Neally Edwards](/npcs/neally-edwards/) is functional and unbound within thirty days, I will consider the debt settled favorably."
 
 At Darius's side, Sable's hand twitched. A small movement, involuntary, immediately controlled. She knew something about bond-breaking. She had a name, a city, a plan she'd been building for someone else entirely. The trip she'd dressed for tonight before the pager changed the destination.
 

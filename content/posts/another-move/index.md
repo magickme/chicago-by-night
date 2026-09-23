@@ -53,9 +53,9 @@ She found [Sophia](/npcs/sophia-ayes/) at the bar. Not at the bar the way mortal
 
 Black. Of course.
 
-Sophia's eyes did one full, unhurried read when she saw [Sable](/sable-price/) coming. The red slip. The January skin. The entrance that was not an accident. Something crossed Sophia's face that she controlled before it became an expression.
+[Sophia](/npcs/sophia-ayes/)'s eyes did one full, unhurried read when she saw [Sable](/sable-price/) coming. The red slip. The January skin. The entrance that was not an accident. Something crossed Sophia's face that she controlled before it became an expression.
 
-She waited until Sable was close enough that she didn't have to raise her voice.
+She waited until [Sable](/sable-price/) was close enough that she didn't have to raise her voice.
 
 "You're subtle the way a fire alarm is subtle."
 
@@ -83,7 +83,7 @@ Let that sit. Then, still watching the stage:
 
 Sophia recalibrated. Two seconds of silence that had weight in them.
 
-"[Lorraine](/npcs/lorraine-matthews/) had a lovely evening because someone was paying attention." She was watching the stage now too, which meant she'd accepted the frame. "Annabelle noticed that. The noticing, specifically."
+"[Lorraine](/npcs/lorraine-matthews/) had a lovely evening because someone was paying attention." She was watching the stage now too, which meant she'd accepted the frame. "[Annabelle](/npcs/annabelle-triabell/) noticed that. The noticing, specifically."
 
 The wine glass turned again.
 
@@ -181,7 +181,7 @@ His mouth opened. Closed. The right eye unscrunched fully for the first time.
 
 His hands came up. Both of them. A helpless gesture, palms out, showing he wasn't carrying anything.
 
-He looked at Sable for a long moment. Then past her, at Darius, who had come through the Club door thirty seconds early and was crossing toward them with the quiet speed of a man who saw a situation and was already inside it.
+He looked at Sable for a long moment. Then past her, at [Darius](/darius-cole/), who had come through the Club door thirty seconds early and was crossing toward them with the quiet speed of a man who saw a situation and was already inside it.
 
 "I did," the small man said. "Myself. Long ago."
 

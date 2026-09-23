@@ -127,7 +127,7 @@ He turned south toward [Hyde Park](/locations/hyde-park/) and the faculty club.
 
 ---
 
-*[University of Chicago Faculty Club](/locations/faculty-club/), Hyde Park. Nine o'clock.*
+*[University of Chicago Faculty Club](/locations/faculty-club/), [Hyde Park](/locations/hyde-park/). Nine o'clock.*
 
 The Faculty Club at this hour was wood smoke and Bordeaux, low lamps in green shades, a fire built down to coals. [Critias](/npcs/critias/) was at his usual table, back to the wall, sightline to both doors. A book of Greek lay closed beside his glass.
 
