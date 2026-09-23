@@ -33,7 +33,7 @@ Click.
 
 The tape rewound itself with a small mechanical sigh. The boots looped on the television in the next room. Outside, somewhere south on Morgan, somebody was leaning on a car horn and not letting up.
 
-Sable was standing in the doorway. He hadn't heard her cross the floor.
+[Sable](/sable-price/) was standing in the doorway. He hadn't heard her cross the floor.
 
 "We got work to do," he said. "And I need to hunt."
 
@@ -51,7 +51,7 @@ He did the inventory before he said anything else.
 
 The door. Compromised haven, daylight in fifteen hours, no plywood crew this side of dawn unless he called Bear Construction's after-hours line and paid the night rate plus the premium for not remembering. He had the cash. He didn't have a face for the crew that wouldn't stick.
 
-The Hunt call. Brennon at eleven. [Lodin](/npcs/lodin/) telling Brennon to tell *him* in advance was a status fact — Ventrue clanmate, witness, trigger man. The tape didn't say *come tell me what you saw.* It said *come receive instruction.* Those were different meetings.
+The Hunt call. [Brennon](/npcs/brennon-thornhill/) at eleven. [Lodin](/npcs/lodin/) telling Brennon to tell *him* in advance was a status fact — Ventrue clanmate, witness, trigger man. The tape didn't say *come tell me what you saw.* It said *come receive instruction.* Those were different meetings.
 
 The blood. Six. He could ride six through a meeting. He couldn't ride six through a meeting *and* whatever Brennon handed him after.
 
@@ -95,7 +95,7 @@ Three blocks south on [Pulaski](/npcs/ray-pulaski/). Slim Ed's — the kind of b
 
 [Darius](/darius-cole/) didn't go in cold. He parked the Cutlass at the corner, held a cigarette he wouldn't smoke — cover, the prop that let a man stand on a corner in winter without being a man standing on a corner in winter — and watched the door for ninety seconds. A woman came out, two men went in, the door swung, the placard buzzed. Through the buzz he could hear the jukebox: bass and the suggestion of Aretha.
 
-The foreman was at the second stool from the end. Darius knew him the second the door swung the third time — heavyset, Carhartt jacket on the stool back, a glass of something amber already half down, the posture of a man who'd been in his second drink for forty minutes and had decided the third was a problem for the man he'd be after he had it.
+The foreman was at the second stool from the end. [Darius](/darius-cole/) knew him the second the door swung the third time — heavyset, Carhartt jacket on the stool back, a glass of something amber already half down, the posture of a man who'd been in his second drink for forty minutes and had decided the third was a problem for the man he'd be after he had it.
 
 Mid-forties. Wedding ring. The skin around the ring was darker than the skin on either side — he'd worn it twenty years and the sun did what the sun did. Wallet on the bar. He tipped the bartender in cash, not on a tab, which was how a man drank when his wife checked the credit card statement.
 
@@ -163,7 +163,7 @@ She picked up the matchbook, read the numbers, set it down. "Posture about what 
 
 "Three things. What we tell him about Saturday. What we ask him for tonight. What we do about [Neally](/npcs/neally-edwards/) between now and the formal declaration."
 
-"Saturday." She chose between two registers. "Saturday is the one that matters. Brennon's going to know the broad shape because [Annabelle](/npcs/annabelle-triabell/) knows and [Annabelle](/npcs/annabelle-triabell/) reports up. He won't have details unless Annabelle gave him details."
+"Saturday." She chose between two registers. "Saturday is the one that matters. Brennon's going to know the broad shape because [Annabelle](/npcs/annabelle-triabell/) knows and [Annabelle](/npcs/annabelle-triabell/) reports up. He won't have details unless [Annabelle](/npcs/annabelle-triabell/) gave him details."
 
 "She didn't."
 
@@ -175,7 +175,7 @@ Darius nodded once.
 
 "You don't say [Neally](/npcs/neally-edwards/)."
 
-"I don't say Neally. Brennon says Neally. I respond to what Brennon says."
+"I don't say [Neally](/npcs/neally-edwards/). Brennon says Neally. I respond to what Brennon says."
 
 "Good." She ran a thumb along the edge of the workbench. "What about Becky."
 
@@ -187,13 +187,13 @@ A silence. The kind a man took when the question landed on the part of his ledge
 
 "Annabelle wouldn't. Becky compromises Annabelle's read of Neally. She holds that one."
 
-Sable weighed it. "Agreed. But if Brennon does name her — say Lodin briefed him wider than I think — we don't lie about her. We confirm and decline to elaborate."
+Sable weighed it. "Agreed. But if Brennon does name her — say [Lodin](/npcs/lodin/) briefed him wider than I think — we don't lie about her. We confirm and decline to elaborate."
 
 "Confirm and decline. Yes."
 
 "What we ask him for." She picked the second question up cleanly. "We can ask Brennon for two things at the meeting and not look greedy. What are they."
 
-He'd been thinking about this on the Pulaski drive. "One. The procedural shape of the Hunt — when the formal declaration drops, what the deadline looks like, whether Lodin wants us as participants or as witnesses. We need to know if we're hunters or spectators."
+He'd been thinking about this on the [Pulaski](/npcs/ray-pulaski/) drive. "One. The procedural shape of the Hunt — when the formal declaration drops, what the deadline looks like, whether Lodin wants us as participants or as witnesses. We need to know if we're hunters or spectators."
 
 "And if we're hunters?"
 
@@ -213,7 +213,7 @@ Sable was quiet for a beat. "[Tomás](/tomas-navarro/) carries the second questi
 
 "[Astor](/npcs/lady-astor/) pickup or Succubus separate?"
 
-"Separate. Per your read on Annabelle — two arrivals through Brennon's door reads cleaner. Tomás meets us in Brennon's office at five to. He uses the Astor to Drake to Succubus route. We come in from the south. Brennon's doormen log two arrivals, neither of which is a Tremere riding in a Ventrue's car."
+"Separate. Per your read on Annabelle — two arrivals through Brennon's door reads cleaner. Tomás meets us in Brennon's office at five to. He uses the [Astor](/npcs/lady-astor/) to Drake to Succubus route. We come in from the south. Brennon's doormen log two arrivals, neither of which is a Tremere riding in a Ventrue's car."
 
 "Agreed."
 
@@ -295,7 +295,7 @@ Brennon's back office. 10:55 PM.
 
 The office was behind the VIP bar, through a hallway that smelled like cigarette smoke and industrial cleaner, past two doors that were closed and one that was open. The open door was the one Brennon wanted you to walk through, which was why it was open. The room behind it was small and warm. A desk that wasn't expensive. Two chairs in front of the desk, one behind it. A coat rack with nothing on it. A bottle on the desk with two glasses — the glasses clean and the bottle full and nobody in the room going to drink, which was the point of the bottle. A lamp, not the overhead. The overhead was off.
 
-[Brennon](/npcs/brennon-thornhill/) was behind the desk. He was standing when they came in, because Brennon stood when guests arrived and sat when they'd sat. Mid-fifties in appearance, dark suit, no tie — the same choice Darius had made, for different reasons. The Succubus Club's master looked like a man who ran a business because he did run a business. The business just happened to serve two clienteles and only one of them paid a cover charge.
+[Brennon](/npcs/brennon-thornhill/) was behind the desk. He was standing when they came in, because Brennon stood when guests arrived and sat when they'd sat. Mid-fifties in appearance, dark suit, no tie — the same choice Darius had made, for different reasons. The [Succubus Club](/locations/succubus-club/)'s master looked like a man who ran a business because he did run a business. The business just happened to serve two clienteles and only one of them paid a cover charge.
 
 "Mr. Cole. Ms. Price. Thank you for the courtesy of your time."
 
@@ -315,7 +315,7 @@ He let that sentence do its work. The lamp made his face half-shadow. The bottle
 
 "The charges are three. Unauthorized Embrace, repeated. Predation on a consort of the court. Sustained Masquerade breach through conduct unbecoming. The Prince considers each individually sufficient. Together they are comprehensive."
 
-Brennon folded his hands on the desk. He looked at Darius first, because Darius was clan, and then at Sable, because Sable had delivered Lorraine, and then at Tomás, because a Tremere presence at a Ventrue Blood Hunt briefing was a fact that needed noting.
+Brennon folded his hands on the desk. He looked at Darius first, because Darius was clan, and then at Sable, because Sable had delivered [Lorraine](/npcs/lorraine-matthews/), and then at Tomás, because a Tremere presence at a Ventrue Blood Hunt briefing was a fact that needed noting.
 
 "The Prince asked me to extend three items beyond the declaration itself."
 
@@ -351,7 +351,7 @@ Brennon's hands didn't move. His eyes did — a fractional shift, the pupils adj
 
 The name went into the room like a coin into still water. Brennon's face didn't change, but the quality of the stillness behind his face changed — the difference between a man who was listening and a man who was recording.
 
-"Foster was entombed in the [Auditorium Theatre](/locations/auditorium-theatre/) wall. The Prince referred to this as a personal matter in our February briefing. He is no longer in the wall. He was freed during the Sabbat incursion at the opera — the same event that began this sequence."
+"[Foster](/npcs/jefferson-foster/) was entombed in the [Auditorium Theatre](/locations/auditorium-theatre/) wall. The Prince referred to this as a personal matter in our February briefing. He is no longer in the wall. He was freed during the Sabbat incursion at the opera — the same event that began this sequence."
 
 Brennon's hands unfolded. He put them flat on the desk, palms down. The gesture was almost involuntary — a man stabilizing himself against something that had rearranged a room he thought he understood.
 
@@ -375,7 +375,7 @@ Brennon was quiet for three seconds. The Succubus Club's bass line was audible t
 
 Another silence. Brennon picked up the bottle — the one nobody was going to drink from — and moved it two inches to the left. Pure displacement. He set it down.
 
-"Mr. Navarro."
+"Mr. [Navarro](/npcs/elena-navarro/)."
 
 Tomás straightened. Not performatively — a quarter-inch adjustment that changed everything about how he occupied the space.
 
@@ -465,7 +465,7 @@ Halfway there, she said, quiet:
 
 "You haven't said what *you're* doing during the Hunt. The list was the things that have been waiting. Which ones are you actually doing."
 
-"Maldavis tonight. Then we see what Brennon's audience gives us tomorrow."
+"[Maldavis](/npcs/maldavis/) tonight. Then we see what Brennon's audience gives us tomorrow."
 
 "And me?"
 

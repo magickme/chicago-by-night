@@ -35,11 +35,11 @@ The predatory aura hit first. Not aggression. Something settled, old, like stand
 
 He stood at the threshold. Hands at his sides. Weight even. He did not sit. He did not approach the desk. He waited.
 
-DuSable studied him for three seconds. Without the glasses his eyes were dark brown, set deep, and absolutely still -- the eyes of a man who had spent decades in courtrooms watching witnesses decide whether to lie.
+[DuSable](/npcs/abraham-dusable/) studied him for three seconds. Without the glasses his eyes were dark brown, set deep, and absolutely still -- the eyes of a man who had spent decades in courtrooms watching witnesses decide whether to lie.
 
 "Sit."
 
-One chair. Wooden, straight-backed, no cushion. Tomas sat. Spine straight, hands on his thighs. DuSable's gaze moved over him once -- shoes, hands, collar, face -- with the unhurried precision of a man reading a brief he'd already summarized. Then he turned one of the survey maps so it faced Tomas.
+One chair. Wooden, straight-backed, no cushion. [Tomas](/npcs/tomas/) sat. Spine straight, hands on his thighs. DuSable's gaze moved over him once -- shoes, hands, collar, face -- with the unhurried precision of a man reading a brief he'd already summarized. Then he turned one of the survey maps so it faced Tomas.
 
 Old. Hand-drawn, ink on linen, the lines faded to brown. The header read CHICAGO TUNNEL COMPANY -- FREIGHT SYSTEM -- REVISED 1912. Sixty miles of narrow-gauge rail tunnels, forty feet below the Loop. Most of it sealed or flooded decades ago. The map showed the original grid -- and someone had annotated it in red ink. Recent. Precise. The handwriting was DuSable's.
 
@@ -247,7 +247,7 @@ He said it without inflection. A concession of fact.
 
 "Your psychometric findings will be included in the operational report. I will provide the Regent with contextual analysis to accompany your raw intelligence. The interpretation of such impressions requires experience that you do not yet possess. You will present what you observed. I will present what it means. The Regent will draw his own conclusions."
 
-"Is that acceptable to you, Apprentice Navarro?"
+"Is that acceptable to you, Apprentice [Navarro](/npcs/elena-navarro/)?"
 
 "Yes, sir."
 
@@ -371,7 +371,7 @@ He laid it out: the man on the bench, the vitae traces, the folio, the note. *H 
 
 [Darius](/darius-cole/) wrote three words on the legal pad. BALLARD. HINDS. ARMITAGE. Drew lines between them.
 
-"Lawrence [Ballard](/npcs/lawrence-ballard/) is Kindred. Ventrue. The elder [Ballard](/npcs/ballard/)'s great-nephew. Ballard, Anderson & Baitman is the mortal front. [Hinds](/npcs/hinds/) is also Ventrue. Connected to the Anarchs. If Lawrence is writing notes to Hinds, he's going behind his sire's back."
+"Lawrence [Ballard](/npcs/lawrence-ballard/) is Kindred. Ventrue. The elder [Ballard](/npcs/ballard/)'s great-nephew. [Ballard](/npcs/ballard/), Anderson & Baitman is the mortal front. [Hinds](/npcs/hinds/) is also Ventrue. Connected to the Anarchs. If Lawrence is writing notes to Hinds, he's going behind his sire's back."
 
 He tapped ARMITAGE.
 
@@ -391,7 +391,7 @@ They split the block for recon. [Darius](/darius-cole/) took the west and south.
 
 Tomas found the service entrance on the alley, south face. Steel door, mechanical deadbolt. Loading dock, padlocked. Fire escape east face, retractable ladder. Alley camera, fixed angle, covering service entrance and loading dock. Fourth-floor window with faint light behind drawn blinds.
 
-Reconvened at the Buick at 12:35. Darius: lobby guard alone, building directory showed Suite 408 as "Sherwin Professional Associates," no individual name. Sable: no living or dead presence on east-facing floors two through six. The fourth-floor light had no person behind it. Recent cigarette smoke from the basement, within the hour. Someone had been down there.
+Reconvened at the Buick at 12:35. [Darius](/darius-cole/): lobby guard alone, building directory showed Suite 408 as "Sherwin Professional Associates," no individual name. [Sable](/sable-price/): no living or dead presence on east-facing floors two through six. The fourth-floor light had no person behind it. Recent cigarette smoke from the basement, within the hour. Someone had been down there.
 
 Darius: "Tuesday. Midnight. We go in through the service entrance. Tomas handles the lock. I handle the guard's memory. Sable watches from across the street. Nobody mentions this to anyone. Not [Annabelle](/npcs/annabelle/), not [Sir](/npcs/sir-henry-johnson/), not your Regent."
 

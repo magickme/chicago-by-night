@@ -226,9 +226,8 @@ Published scenes from **Chicago Chronicles** in chronological order.
 | 76 | [The Delivery](/posts/the-delivery/) | Darius | Jan 22, 1991, 4:35 PM |
 | 77 | [The Night's Work](/posts/the-nights-work/) | Sable | Jan 23, 1991, 4:35 PM |
 | 78 | [The Session](/posts/the-session/) | Darius | Jan 23, 1991, 4:35 PM |
-| 79 | [The Faculty Club](/posts/the-faculty-club/) | Darius | Jan 25, 1991, 9:00 PM |
-| 80 | [The Mezzanine](/posts/the-mezzanine/) | Darius + Sable | Jan 26, 1991, 4:55 PM |
-| 81 | [Another Move](/posts/another-move/) | Sable | Jan 28, 1991, 4:58 PM |
+| 79 | [The Mezzanine](/posts/the-mezzanine/) | Darius + Sable | Jan 26, 1991, 4:55 PM |
+| 80 | [Another Move](/posts/another-move/) | Sable | Jan 28, 1991, 4:58 PM |
 
 ### Chapter 8 — Player of Pawns
 
@@ -236,21 +235,21 @@ Published scenes from **Chicago Chronicles** in chronological order.
 
 | # | Scene | PC | Date |
 |---|---|---|---|
-| 82 | [The Vampire Shaman](/posts/the-vampire-shaman/) | Darius | Jan 29, 1991, 5:00 PM |
-| 83 | [The Knight Moves](/posts/the-knight-moves/) | Sable | Jan 29, 1991, 5:01 PM |
-| 84 | [The Wrath of Dimitri](/posts/the-wrath-of-dimitri/) | Darius | Jan 29, 1991, 5:01 PM |
+| 81 | [The Vampire Shaman](/posts/the-vampire-shaman/) | Darius | Jan 29, 1991, 5:00 PM |
+| 82 | [The Knight Moves](/posts/the-knight-moves/) | Sable | Jan 29, 1991, 5:01 PM |
+| 83 | [The Wrath of Dimitri](/posts/the-wrath-of-dimitri/) | Darius | Jan 29, 1991, 5:01 PM |
 
 ### Chapter 9 — Fundamental Differences
 
 | # | Scene | PC | Date |
 |---|---|---|---|
-| 85 | [Fundamental Differences](/posts/fundamental-differences/) | Darius + Sable | Jan 30, 1991, 4:35 PM |
+| 84 | [Fundamental Differences](/posts/fundamental-differences/) | Darius + Sable | Jan 30, 1991, 4:35 PM |
 
 ### Chapter 10 — The Prince's Court
 
 | # | Scene | PC | Date |
 |---|---|---|---|
-| 86 | [The Prince's Court](/posts/the-princes-court/) | Darius + Sable | Jan 31, 1991, 5:02 PM |
+| 85 | [The Prince's Court](/posts/the-princes-court/) | Darius + Sable | Jan 31, 1991, 5:02 PM |
 
 ### Chapter 11 — Act III Opening
 
@@ -258,23 +257,23 @@ Published scenes from **Chicago Chronicles** in chronological order.
 
 | # | Scene | PC | Date |
 |---|---|---|---|
-| 87 | [First Night Standing](/posts/first-night-standing/) | Chronicle | Feb 1, 1991, 5:05 PM |
-| 88 | [The Debrief](/posts/the-debrief-d049/) | Chronicle | Feb 1, 1991, 5:05 PM |
-| 89 | [The Survey](/posts/the-survey/) | Chronicle | Feb 3, 1991, 5:07 PM |
-| 90 | [The Sire's Territory](/posts/the-sires-territory/) | Darius | Feb 4, 1991, 5:09 PM |
-| 91 | [The Assignment](/posts/the-assignment/) | Chronicle | Feb 5, 1991, 5:08 PM |
+| 86 | [First Night Standing](/posts/first-night-standing/) | Chronicle | Feb 1, 1991, 5:05 PM |
+| 87 | [The Debrief](/posts/the-debrief-d049/) | Chronicle | Feb 1, 1991, 5:05 PM |
+| 88 | [The Survey](/posts/the-survey/) | Chronicle | Feb 3, 1991, 5:07 PM |
+| 89 | [The Sire's Territory](/posts/the-sires-territory/) | Darius | Feb 4, 1991, 5:09 PM |
+| 90 | [The Assignment](/posts/the-assignment/) | Chronicle | Feb 5, 1991, 5:08 PM |
 
 ### Chapter 20 — Hunter Operations
 
 | # | Scene | PC | Date |
 |---|---|---|---|
-| 92 | [The Hunters](/posts/the-hunters/) | Darius + Sable | Feb 6, 1991, 5:10 PM |
+| 91 | [The Hunters](/posts/the-hunters/) | Darius + Sable | Feb 6, 1991, 5:10 PM |
 
 ### Chapter 21 — Court Operations
 
 | # | Scene | PC | Date |
 |---|---|---|---|
-| 93 | [The Debrief](/posts/the-debrief-d054/) | Darius + Sable | Feb 7, 1991, 5:15 PM |
+| 92 | [The Debrief](/posts/the-debrief-d054/) | Darius + Sable | Feb 7, 1991, 5:15 PM |
 
 ### Chapter 22
 
@@ -282,9 +281,9 @@ Published scenes from **Chicago Chronicles** in chronological order.
 
 | # | Scene | PC | Date |
 |---|---|---|---|
-| 94 | [The Opera](/posts/the-opera/) | Darius + Sable | Feb 9, 1991, 5:28 PM |
-| 95 | [The Chalice](/posts/the-chalice/) | Darius + Sable | Feb 11, 1991, 5:18 PM |
-| 96 | [The Grand Elusion](/posts/the-grand-elusion/) | Sable | Feb 12, 1991, 4:35 PM |
+| 93 | [The Opera](/posts/the-opera/) | Darius + Sable | Feb 9, 1991, 5:28 PM |
+| 94 | [The Chalice](/posts/the-chalice/) | Darius + Sable | Feb 11, 1991, 5:18 PM |
+| 95 | [The Grand Elusion](/posts/the-grand-elusion/) | Sable | Feb 12, 1991, 4:35 PM |
 
 ### Chapter 23
 
@@ -292,10 +291,10 @@ Published scenes from **Chicago Chronicles** in chronological order.
 
 | # | Scene | PC | Date |
 |---|---|---|---|
-| 97 | [Blood Dance](/posts/blood-dance/) | Darius + Sable | Feb 22, 1991, 5:30 PM |
-| 98 | [Chuc Lucs Reckonings](/posts/chuc-lucs-reckonings/) | Darius | Feb 27, 1991, 5:31 PM |
-| 99 | [Children In Need](/posts/children-in-need/) | Darius | Mar 1, 1991, 5:45 PM |
-| 100 | [The Pumping Station Audience](/posts/the-pumping-station-audience/) | Darius | Mar 5, 1991, 5:45 PM |
+| 96 | [Blood Dance](/posts/blood-dance/) | Darius + Sable | Feb 22, 1991, 5:30 PM |
+| 97 | [Chuc Lucs Reckonings](/posts/chuc-lucs-reckonings/) | Darius | Feb 27, 1991, 5:31 PM |
+| 98 | [Children In Need](/posts/children-in-need/) | Darius | Mar 1, 1991, 5:45 PM |
+| 99 | [The Pumping Station Audience](/posts/the-pumping-station-audience/) | Darius | Mar 5, 1991, 5:45 PM |
 
 ### Chapter 12 — Blood Bond
 
@@ -303,8 +302,18 @@ Published scenes from **Chicago Chronicles** in chronological order.
 
 | # | Scene | PC | Date |
 |---|---|---|---|
-| 101 | [On The Hunt](/posts/on-the-hunt/) | Sable | Mar 2, 1991, 5:48 PM |
-| 102 | [The Bait and the Window](/posts/the-bait-and-the-window/) | Darius | Mar 4, 1991, 5:43 PM |
+| 100 | [On The Hunt](/posts/on-the-hunt/) | Sable | Mar 2, 1991, 5:48 PM |
+| 101 | [The Bait and the Window](/posts/the-bait-and-the-window/) | Darius | Mar 4, 1991, 5:43 PM |
+
+### Chapter 24 — Blood Bond
+
+*Mar 6, 1991, 5:41 PM through Mar 7, 1991, 5:47 PM.*
+
+| # | Scene | PC | Date |
+|---|---|---|---|
+| 102 | [The Milwaukee Run](/posts/the-milwaukee-run/) | Sable | Mar 6, 1991, 5:41 PM |
+| 103 | [Last Call](/posts/last-call/) | Darius | Mar 6, 1991, 5:46 PM |
+| 104 | [Return to the Faculty Club](/posts/the-faculty-club-ii/) | Sable | Mar 7, 1991, 5:47 PM |
 
 ---
 

@@ -25,13 +25,13 @@ That was when the woman came out of the alley.
 
 Not walking. Running full-tilt — and not the kind of running that gets done in shoes — barefoot on cold concrete, red hair wild, one shoulder of a dress torn down past the collarbone and a smear of something dark across the jaw, and she came out of the slot between the laundromat and the abandoned print shop and slammed into [Sable](/sable-price/) hard enough to stagger them both.
 
-[Lorraine Matthews](/npcs/lorraine-matthews/). The girl from the [Labyrinth](/locations/the-labyrinth/) balcony, two months ago, who had been tripping on mescaline and trying to go over the railing while a string quartet played Debussy ten feet behind her. [Sable](/sable-price/) had caught her by the wrist. Now Sable was catching her by the shoulders, in a different way, in a different place, and the smell of her was wrong.
+[Lorraine Matthews](/npcs/lorraine-matthews/). The girl from the [Labyrinth](/locations/the-labyrinth/) balcony, two months ago, who had been tripping on mescaline and trying to go over the railing while a string quartet played Debussy ten feet behind her. [Sable](/sable-price/) had caught her by the wrist. Now [Sable](/sable-price/) was catching her by the shoulders, in a different way, in a different place, and the smell of her was wrong.
 
 Kindred vitae. Fresh. Not [Lorraine](/npcs/lorraine-matthews/)'s — Sable knew Ventrue blood, thin and sweet, and what was on this girl's hands and jaw and torn dress wasn't her. Somebody else's, someone Sable had never met, and the body had stopped being his around forty minutes ago by the warmth of what was left.
 
 And in the alley behind her: motion. Fast. Not a man running — a man dropping. The sound came two seconds later, the soft register of weight hitting a Dumpster lid in the middle distance and then absorbing into rubber-soled shoes that didn't crack the concrete this time but had been cracking concrete somewhere recently.
 
-Lorraine's eyes were dilated to the rim of the iris. Her mouth was open and what came out wasn't speech.
+[Lorraine](/npcs/lorraine-matthews/)'s eyes were dilated to the rim of the iris. Her mouth was open and what came out wasn't speech.
 
 Sable took her wrist and ran.
 
@@ -77,7 +77,7 @@ She braced her feet on the asphalt with Lorraine on her knees behind her and she
 
 She did not scream his name. She screamed *[Darius](/darius-cole/)* — once, sharp enough to ricochet off the Kaspar brick — and then she fixed her eyes on the thing in the lot and let Dread Gaze hit.
 
-Neally stopped. Mid-stride, forty feet out, one taloned hand half-raised. The compulsion that had been driving him forward ran headlong into something older than compulsion, and the noise in his throat changed register — went thinner, higher, the sound of an animal that had just remembered what fear used to mean before it died.
+[Neally](/npcs/neally-edwards/) stopped. Mid-stride, forty feet out, one taloned hand half-raised. The compulsion that had been driving him forward ran headlong into something older than compulsion, and the noise in his throat changed register — went thinner, higher, the sound of an animal that had just remembered what fear used to mean before it died.
 
 Three seconds. Three turns. The bald scalp gleaming under the sodium light, the too-long teeth catching, the broken thing that used to chair a Primogen session frozen on the asphalt of a tire shop parking lot in South Pilsen with a five-foot-six dead girl from the projects standing barefoot in front of him telling him without words to be afraid.
 
@@ -93,7 +93,7 @@ The steel door opened before they reached it. [Darius](/darius-cole/) in the fra
 
 Sable couldn't catch her breath, which was strange because she didn't need to, and which was also entirely the point — the body kept its own ceremonies long after the body had stopped being necessary, and the Dex boost was still firing in her legs like a current and the Presence was still coming off her in the kind of waves that warped a room.
 
-Darius looked at the door. Then at the girl on the floor in the bloody dress. Then at Sable.
+[Darius](/darius-cole/) looked at the door. Then at the girl on the floor in the bloody dress. Then at Sable.
 
 "Who's outside."
 
@@ -207,7 +207,7 @@ She knew what she was doing.
 
 She had not known, ten minutes ago. Now she did.
 
-It clicked the way these things had always clicked for her — the [Greene](/sable-price/) calculus, the read on what someone wanted and didn't have, the gap in the market that was also a person. [Lodin](/npcs/lodin/) gave Lorraine everything except the one thing Lorraine actually wanted, which was to be seen as a person who mattered on her own terms. Lodin's love language was Dominate and the Prudential Building and private floors and a schedule. The way to take a kept woman away from a man who kept her was not to outbid him. It was to do the opposite of everything he did.
+It clicked the way these things had always clicked for her — the [Greene](/sable-price/) calculus, the read on what someone wanted and didn't have, the gap in the market that was also a person. [Lodin](/npcs/lodin/) gave Lorraine everything except the one thing Lorraine actually wanted, which was to be seen as a person who mattered on her own terms. [Lodin](/npcs/lodin/)'s love language was Dominate and the Prudential Building and private floors and a schedule. The way to take a kept woman away from a man who kept her was not to outbid him. It was to do the opposite of everything he did.
 
 Be present. Be the girl who was *there* — on the balcony, in the parking lot, in the basement with clean clothes and a steady voice. Pay attention to the details. Remember the torn dress, the bleeding feet, the way she said Marcus's name. Ask about it next time. Listen. Pick up when she calls. Be available without conditions. No appointments. No chain of command. No desk to go through.
 
@@ -365,7 +365,7 @@ She dressed in the dark. Took the room key. Left him sleeping.
 
 One-thirty in the morning on Drexel and the temperature had dropped to thirty-one. The Buick was parked at the curb. Sable stood on the asphalt with the key in her hand and the crucifix in her coat pocket — she had taken it before she left, without thinking, the way you take a souvenir — and the night was half gone and the silence was the particular silence of a hotel where nobody was supposed to remember anyone's name.
 
-She thought about the haven. About Darius behind the braced door, healing. About Lorraine in Annabelle's private rooms in the [Gold Coast](/locations/gold-coast/), sleeping or not sleeping in a borrowed bed. About Neally somewhere in the city, crippled and healing, walking back to whatever was making him do this.
+She thought about the haven. About Darius behind the braced door, healing. About Lorraine in [Annabelle](/npcs/annabelle-triabell/)'s private rooms in the [Gold Coast](/locations/gold-coast/), sleeping or not sleeping in a borrowed bed. About Neally somewhere in the city, crippled and healing, walking back to whatever was making him do this.
 
 About a man named David asleep in Room 14 with her blood in his veins and a month of Entrancement settling into the architecture of his interior and a folder somewhere on a desk at Chicago State with her face sketched in the margin.
 

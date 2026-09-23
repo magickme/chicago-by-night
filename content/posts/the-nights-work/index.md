@@ -31,7 +31,7 @@ The alley behind Lula's smelled like old lettuce and frozen brick. Claudine's ha
 
 Four was the number she could justify. The Pusher had laid it out with the patient thoroughness of a friend who wanted credit: *four was still safe, four was survival, four was for [Bordruff](/npcs/nathaniel-bordruff/) and the church basement and whatever happened at midnight when a man who hated every vampire he'd ever met decided whether the trade was worth it*. [Sable](/sable-price/) counted to three and stopped.
 
-Claudine's eyes were half-shut and her knees had done their involuntary thing and she held onto Sable's coat. She thought it was chemistry. Sable let her think it.
+Claudine's eyes were half-shut and her knees had done their involuntary thing and she held onto [Sable](/sable-price/)'s coat. She thought it was chemistry. Sable let her think it.
 
 She gave Claudine the real number. Not a payphone. The Kaspar haven line, where [Darius](/darius-cole/) would answer if Sable wasn't home, and where Sable wanted her to call.
 

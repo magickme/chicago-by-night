@@ -45,7 +45,7 @@ Near the DJ booth, a wrongness in the air. A patch where the club lighting bent 
 
 [Brennon](/npcs/brennon-thornhill/) set the glass on the rail and gave [Darius](/darius-cole/) the full weight of his attention.
 
-"There's a property on Indiana Avenue," Darius said. "Brownstone. Connects to a shell called Greystone Fiduciary Trust. That trust holds paper on at least three properties belonging to someone whose name comes up a lot in this building."
+"There's a property on Indiana Avenue," [Darius](/darius-cole/) said. "Brownstone. Connects to a shell called Greystone Fiduciary Trust. That trust holds paper on at least three properties belonging to someone whose name comes up a lot in this building."
 
 [Brennon](/npcs/brennon-thornhill/)'s hands were still. The smile didn't change but something behind it recalibrated.
 
@@ -67,7 +67,7 @@ Darius didn't explain. He drank from the glass he couldn't taste.
 
 Darius filed this. Then: "Has anyone come through recently asking about new faces? Gary visitors. Photographs."
 
-Brennon's expression didn't change. "Last Friday. Mortal. Mid-forties, grey overcoat, briefcase. He was showing a photograph on his phone. Security camera angle, poor resolution. I told him this was a private club. He finished his drink and left."
+[Brennon](/npcs/brennon-thornhill/)'s expression didn't change. "Last Friday. Mortal. Mid-forties, grey overcoat, briefcase. He was showing a photograph on his phone. Security camera angle, poor resolution. I told him this was a private club. He finished his drink and left."
 
 "The photograph."
 
@@ -193,7 +193,7 @@ She looked at him. Shoes to collar in a single sweep. "Mr. Cole. The Ventrue. Yo
 
 She pulled out [Sable](/sable-price/)'s chair and sat. The table became her audience. [Sir Henry](/npcs/sir-henry-johnson/) adjusted without being asked.
 
-She spoke to [Sir Henry](/npcs/sir-henry-johnson/) but pitched her voice to include Darius. The vote, the abstention, the reprimand. [Ballard](/npcs/ballard/)'s proxy authority intact. Inyanga staring at the table for forty-five minutes while [Neally](/npcs/neally-edwards/) ran out the clock.
+She spoke to [Sir Henry](/npcs/sir-henry-johnson/) but pitched her voice to include Darius. The vote, the abstention, the reprimand. [Ballard](/npcs/ballard/)'s proxy authority intact. [Inyanga](/npcs/inyanga/) staring at the table for forty-five minutes while [Neally](/npcs/neally-edwards/) ran out the clock.
 
 "The reprimand means nothing. [Ballard](/npcs/ballard/) keeps [Lodin](/npcs/lodin/)'s proxy authority. He will use it to accelerate his counterattack. I needed that censure. What I got was theater."
 
@@ -215,7 +215,7 @@ Her jaw tightened. Her nostrils flared once — a fractional loss of composure c
 
 She reached into her clutch. Produced a small card. Cream-colored, no name, a phone number in black ink. Pushed it across the table.
 
-"Sable has my private line. Now you do too. Use it when you have something. Don't use it when you don't."
+"[Sable](/sable-price/) has my private line. Now you do too. Use it when you have something. Don't use it when you don't."
 
 She stood. "Thank you for the gift. I'll remember who gave it."
 

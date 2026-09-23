@@ -35,7 +35,7 @@ She lifted her hand. Wiped it on the sheet like it was wet. It wasn't.
 
 [Darius](/darius-cole/) did not say the name. He felt the Beast rise in his chest, an even pressure, a thing that wanted the room to know what he already knew. He set his palms flat on the table. Counted four heartbeats he didn't have. The Director came up first, the way he always did when the Beast came up unsanctioned — a cold operator who looked at a corpse and saw inventory. Asset compromised. Territory violated. Plot the response.
 
-[Sable](/sable-price/) was watching him. "Darius."
+[Sable](/sable-price/) was watching him. "[Darius](/darius-cole/)."
 
 "[Michael](/npcs/michael/)," he said.
 
@@ -45,7 +45,7 @@ Tomás had not been there. Tomás had a syringe and a sterile cup. He drew three
 
 "I'll confirm," he said. "Stand back from the chalk circle. The pigment is animal blood. There may be a passive working bound to it."
 
-Darius and Sable stepped back.
+Darius and [Sable](/sable-price/) stepped back.
 
 The Blood Walk took eleven minutes. Tomás worked without commentary, which was the Tremere way — a man writing in the margin of someone else's book, neat and small, paying full attention. When he was done he capped the cup and set it in a ziplock and labeled it in pencil.
 
@@ -139,7 +139,7 @@ Three Chicago targets had been identified by physical description and not by nam
 
 Darius did not ask any question he didn't already mostly know the answer to. He folded the post-hypnotic in over the rest. *File the complaint against [Dane](/npcs/sullivan-dane/). Request the recall. The man is a liability. The man is the obstacle to the Chicago work.* He sealed it. He walked Sayles back inside.
 
-He did Tomba in the bathroom. Same script. He added one line for Tomba alone: *if recall is not granted, handle Dane yourself.* Tomba's pulse came up a beat at the word *handle.* He nodded slowly and forgot he had nodded.
+He did Tomba in the bathroom. Same script. He added one line for Tomba alone: *if recall is not granted, handle [Dane](/npcs/sullivan-dane/) yourself.* Tomba's pulse came up a beat at the word *handle.* He nodded slowly and forgot he had nodded.
 
 The Forgetful Mind closed both of them like books. Pleasant evening. Payment negotiated. Book sale discussed. Good food.
 
@@ -149,11 +149,11 @@ Darius watched them through the leaded glass at the front. They did not look bac
 
 He paid Settebello in cash. He drove Herdon home and parked the Buick a block from the bookshop and waited until the man was inside with the lights on before he pulled away. Sable rode with him. Tomás took the Crown Vic to the [Astor](/npcs/lady-astor/) chantry to write the cable.
 
-Darius called Neally from the carphone at ten-thirty. Gave him the whole thing — names, addresses, the cell, the network, the three Kindred descriptions. Asked the Prince's office to issue warnings through the appropriate channels. Neally said *good work* in the flat way he said everything and ended the call without saying goodbye.
+Darius called [Neally](/npcs/neally-edwards/) from the carphone at ten-thirty. Gave him the whole thing — names, addresses, the cell, the network, the three Kindred descriptions. Asked the Prince's office to issue warnings through the appropriate channels. Neally said *good work* in the flat way he said everything and ended the call without saying goodbye.
 
 The snow was heavier by then. Lake Shore Drive northbound, the city lit up to the right of the windshield, the Hancock Building blinking red at the top.
 
-Sable was looking out the side window. After a long minute she said, "Michael."
+Sable was looking out the side window. After a long minute she said, "[Michael](/npcs/michael/)."
 
 "I know," Darius said.
 

@@ -7,7 +7,7 @@ categories: ["Chapter 23 — Blood Bond"]
 description: "A working-night Succubus Club. A neonate doing what his Bond tells him to do, on a dance floor with mortals watching. Three witnesses to clean and a property manager who counts every favor like inventory."
 ---
 
-*[Succubus Club](/locations/succubus-club/) — Reality / Balcony / Brennon's Office*
+*[Succubus Club](/locations/succubus-club/) — Reality / Balcony / [Brennon](/npcs/brennon-thornhill/)'s Office*
 
 *Chicago, Illinois*
 
@@ -63,15 +63,15 @@ His Presence came on like a thermostat. [Darius](/darius-cole/) felt it as a pre
 
 A woman near the front of the platform — twenty-six, hair pinned up, sleeveless dress, no companion — turned toward [Neally](/npcs/neally-edwards/) and walked across the floor as if she had been called. She had been. Awe and the suggestion underneath it. She stopped a foot from him and tipped her head.
 
-"[Sable](/sable-price/)," Darius said, low.
+"[Sable](/sable-price/)," [Darius](/darius-cole/) said, low.
 
 She was already moving.
 
-She crossed the balcony to the stair and came down it in the long-legged way she had that read as glamour from any angle and was, just now, a feeding approach. By the time she reached the floor she had her hand on the woman's elbow and was making eye contact with Neally and the eye contact was working harder than the touch was.
+She crossed the balcony to the stair and came down it in the long-legged way she had that read as glamour from any angle and was, just now, a feeding approach. By the time she reached the floor she had her hand on the woman's elbow and was making eye contact with [Neally](/npcs/neally-edwards/) and the eye contact was working harder than the touch was.
 
 "Neally."
 
-He looked at her. Recognition surfaced under something else. Whatever had pulled him out of the chair had its own gravity. Sable was inside it, registering, but small.
+He looked at her. Recognition surfaced under something else. Whatever had pulled him out of the chair had its own gravity. [Sable](/sable-price/) was inside it, registering, but small.
 
 "[Sable Price](/sable-price/)." Even, formal. The voice cracked once around her name. The mask was on but the hinges were loose. "Good to see you."
 
@@ -79,7 +79,7 @@ He looked at her. Recognition surfaced under something else. Whatever had pulled
 
 The word was clean. No pretense. She held his eyes and let him understand what she was asking.
 
-For one second Darius watched the man he had met in November try to come back up through the man Jefferson had built. Something flickered. Gratitude or the memory of it. The neonate who had impersonated a prince in the dark at the [Field Museum](/locations/field-museum/) knew he was looking at the only person in the room offering him an exit, and he wanted to take it. Darius saw it in the way his eyes softened. Saw it in the half-tilt of his head toward [Emily](/npcs/emily-carter/), who had not moved from her table, who was watching with the focused patience of a person whose only job was to keep one specific outcome on rails.
+For one second Darius watched the man he had met in November try to come back up through the man [Jefferson](/npcs/jefferson-foster/) had built. Something flickered. Gratitude or the memory of it. The neonate who had impersonated a prince in the dark at the [Field Museum](/locations/field-museum/) knew he was looking at the only person in the room offering him an exit, and he wanted to take it. Darius saw it in the way his eyes softened. Saw it in the half-tilt of his head toward [Emily](/npcs/emily-carter/), who had not moved from her table, who was watching with the focused patience of a person whose only job was to keep one specific outcome on rails.
 
 Neally turned back to the woman.
 
@@ -207,7 +207,7 @@ Cold February air. Sodium lamp. Wet asphalt orange under the lot light. Somewher
 
 "I know."
 
-"Annabelle will hear it before sunrise."
+"[Annabelle](/npcs/annabelle-triabell/) will hear it before sunrise."
 
 "I know."
 

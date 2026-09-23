@@ -112,7 +112,7 @@ Sal looked at the bill. Looked at [Darius](/darius-cole/). Pushed it back across
 
 Three words, and in them [Darius](/darius-cole/) heard the whole machinery of Sal Petrocelli's survival: twenty years of running book on [Lucian](/npcs/lucian/)'s docks by never, ever letting an unknown variable into the equation. Sal didn't need to be smart. He just needed to be consistent. And consistently, he did not do business with men he hadn't seen before.
 
-Darius picked up the hundred. "OK, OK my man, no problem, no problem. I'll go to a card house. No sweat, no sweat."
+[Darius](/darius-cole/) picked up the hundred. "OK, OK my man, no problem, no problem. I'll go to a card house. No sweat, no sweat."
 
 He left. The dispatch office light stayed on behind him. The Cutlass was where he'd left it, cold and patient in the shadow of the dumpster.
 

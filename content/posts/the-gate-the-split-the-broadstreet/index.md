@@ -39,7 +39,7 @@ The detective straightened off the post. Forty, soft through the middle. Wool co
 
 "I tried, sir. Two messages. Your house staff didn't pass them along, I guess."
 
-Emerson let the silence work. "I have a houseguest situation this week, Detective. A small party. I'm sure you understand that I'm not available for unscheduled *interviews* at this hour, on my own property, after a long evening."
+Emerson let the silence work. "I have a houseguest situation this week, [Detective](/npcs/detective-robert-carter/). A small party. I'm sure you understand that I'm not available for unscheduled *interviews* at this hour, on my own property, after a long evening."
 
 "Of course." The detective nodded. "Of course, sir." He did not leave.
 
@@ -77,7 +77,7 @@ The five of them still in the foyer, coats not off. Flash leaned against the wal
 
 Monica had not taken her coat off. She was still holding her keys. "Twenty-six. Brunette. Master's in finance from CU. Her name is [Karen](/npcs/karen-chartry/) something, Emerson, I don't even have to look it up, she called your office four times this month."
 
-"Andresen." Emerson hung his coat on the peg. Did not turn. "Karen Andresen."
+"Andresen." Emerson hung his coat on the peg. Did not turn. "[Karen](/npcs/karen-chartry/) Andresen."
 
 "Then why."
 
@@ -87,7 +87,7 @@ Monica had not taken her coat off. She was still holding her keys. "Twenty-six. 
 
 He turned. The foyer light caught him from above and he looked tired in a way Flash had not seen this week — the kind that lives in the meat of the face, around the eyes, in the jaw.
 
-"[Joseph](/npcs/joseph-peterson/) Hadrick approached me in January about moving four million dollars into instruments that could not be traced back to him in the event of a federal investigation. The reallocation language is real. The munis are real. They were also a cover for the actual conversation, which was about offshore vehicles. I declined. I declined on the second meeting. He left angry. I told him I would forget the conversation as a professional courtesy." A breath. "I forgot the conversation. Until I read his name in the file at the bank yesterday and I realized that whoever — whatever Prestor was actually doing in that basement, Joseph Hadrick was tied to it financially. And I had been in the room with him six weeks ago talking about how to hide money."
+"[Joseph](/npcs/joseph-peterson/) Hadrick approached me in January about moving four million dollars into instruments that could not be traced back to him in the event of a federal investigation. The reallocation language is real. The munis are real. They were also a cover for the actual conversation, which was about offshore vehicles. I declined. I declined on the second meeting. He left angry. I told him I would forget the conversation as a professional courtesy." A breath. "I forgot the conversation. Until I read his name in the file at the bank yesterday and I realized that whoever — whatever [Prestor](/npcs/jacob-prestor/) was actually doing in that basement, [Joseph](/npcs/joseph-peterson/) Hadrick was tied to it financially. And I had been in the room with him six weeks ago talking about how to hide money."
 
 Terri, from the doorway: "Hide money for what."
 
@@ -115,7 +115,7 @@ Flash pushed off the umbrella stand and laid it out.
 
 Monica works the police file; her access, nobody else's. Emerson takes the money trail. Marcus gets the occult end and the [Klondike](/npcs/robert-klondike/) problem. Flash and Terri take the streets and the Broadstreet. Four leads, one night.
 
-Monica, coat already off for the first time since the gate: "Good. Yes. I'll need to be downtown before seven — Brandt is going to be in my building by eight-thirty looking for a friendly face, and I would rather already be at my desk looking busy than walk in while he's waiting. I can pull the arson file tonight. The night clerk owes me. I do not want my name on a request log for it, so I will read it standing up and put it back." She looked at Flash. "Anything you want me to look for specifically, say it now."
+Monica, coat already off for the first time since the gate: "Good. Yes. I'll need to be downtown before seven — [Brandt](/npcs/detective-william-brandt/) is going to be in my building by eight-thirty looking for a friendly face, and I would rather already be at my desk looking busy than walk in while he's waiting. I can pull the arson file tonight. The night clerk owes me. I do not want my name on a request log for it, so I will read it standing up and put it back." She looked at Flash. "Anything you want me to look for specifically, say it now."
 
 He told her: anything on whether the fire was arson or accident. Any names circled — [Duke](/npcs/duke/), [Earl](/npcs/earl/), the [Count](/npcs/the-count/), the blond man. Whether a body near the fire that night had a name attached to it. Anybody's name.
 
@@ -131,7 +131,7 @@ Emerson went to the den. The door did not close all the way.
 
 Terri drove the Lincoln. Down off the Cherry Hills bluff through neighborhoods where the lots got smaller and the driveways shorter and then there were no driveways at all, only the city, low and bright and cold against the Front Range. Flash watched it through the windshield. The same billboards. The same overpasses. The same steam rising off rooftops into thirty-degree air. He was the part that had changed.
 
-The Broadstreet sat on the edge of a district that didn't have a name yet — old warehouses half-converted to bars, loading docks and liquor licenses. Terri parked three blocks off on a street of bars that fed the same foot traffic. Wind with a blade in it now, past thirty and falling. His skin didn't mind. He minded that his skin didn't mind.
+[The Broadstreet](/locations/the-broadstreet/) sat on the edge of a district that didn't have a name yet — old warehouses half-converted to bars, loading docks and liquor licenses. Terri parked three blocks off on a street of bars that fed the same foot traffic. Wind with a blade in it now, past thirty and falling. His skin didn't mind. He minded that his skin didn't mind.
 
 The corner tavern was loud and warm — spilled beer in the floorboards, fryer grease, wet wool. Flash found the gap at the short end of the bar where the regulars stood because it saw the door, and stood in it like he'd always stood in it. The sales position — see everybody come in, nobody sees you leave. Terri ordered two drafts they wouldn't drink and a basket of something fried so the table would read right.
 
@@ -141,7 +141,7 @@ It took forty minutes. A man named Royce — fifty, drove a forklift at a paper 
 
 "You ever been in?" Terri kept it light.
 
-"Once. Two, three years back, a nephew. Wasn't for me. Too dark. And the band — they're good. People come from Boulder for them. People come from the airport, I've seen the cabs." Royce set his glass down and looked at it. "But there's a thing about that place. Williams. I've watched that man for — has to be the whole fifteen years he's owned it. I've watched him cross that street under the lights a hundred times. He doesn't get older. You're gonna say everybody says that about everybody. I'm telling you I drove past my own first wedding photo this Christmas and I know what fifteen years does to a face. It hasn't touched his."
+"Once. Two, three years back, a nephew. Wasn't for me. Too dark. And the band — they're good. People come from Boulder for them. People come from the airport, I've seen the cabs." Royce set his glass down and looked at it. "But there's a thing about that place. [Williams](/npcs/williams/). I've watched that man for — has to be the whole fifteen years he's owned it. I've watched him cross that street under the lights a hundred times. He doesn't get older. You're gonna say everybody says that about everybody. I'm telling you I drove past my own first wedding photo this Christmas and I know what fifteen years does to a face. It hasn't touched his."
 
 ---
 
@@ -173,7 +173,7 @@ Cold air hit him. And behind him the song ended. It did not trail off. It stoppe
 
 Not to Flash. To everyone. A frontman's between-songs patter — except every person in the Broadstreet knew a band didn't address the couple going out the door, and now every person in the Broadstreet had turned to look.
 
-Flash was already through. The vault door closing on his heel. The last thing the gap showed him was the stage — Edward Williams, guitar slung low, leaning into the mic with an expression that wanted to be hospitable and was not. His eyes finding Flash's face in the second before the iron door sealed it away.
+Flash was already through. The vault door closing on his heel. The last thing the gap showed him was the stage — [Edward Williams](/npcs/edward-williams/), guitar slung low, leaning into the mic with an expression that wanted to be hospitable and was not. His eyes finding Flash's face in the second before the iron door sealed it away.
 
 Then brick. Then the street. Then the wind.
 

@@ -32,7 +32,7 @@ His lips moved without sound. One of the garbage cans tipped over by itself, slo
 
 The three teens fanned out. Containing, not attacking. The victim slid down the wall and straightened, touching his temple. The blood was real. He had taken the hit voluntarily.
 
-Killi's one open eye found Darius. He made a sound, *hmm*, confirming an estimate.
+Killi's one open eye found [Darius](/darius-cole/). He made a sound, *hmm*, confirming an estimate.
 
 Darius drew the .357 and pointed it at the lead teen's head. The kid did not move. Did not raise his hands. He looked at the gun, registered it, filed it.
 
@@ -160,7 +160,7 @@ The coterie had not known about the Game. That was confirmed and filed. The ston
 
 They hunted. Darius found a dealer on the West Side, phlegmatic, negligible resistance. Two pulls. [Keaton](/npcs/gordon-keaton/) found a streetwalker in Wicker Park. Twenty minutes. He came back to the car looking like a man who had eaten for the first time in days.
 
-"Better," Keaton said.
+"Better," [Keaton](/npcs/gordon-keaton/) said.
 
 Darius offered the boon. A contact name for [Brennon](/npcs/brennon-thornhill/)'s network, someone who could reach [Tomas Navarro](/tomas-navarro/), the Warlock at the Chantry. Keaton made the call, ran a thin cover story, and came back with a number on a cocktail napkin. Chicago exchange. Near North.
 
@@ -214,7 +214,7 @@ Darius told him what he had done.
 
 ---
 
-Crown Victoria, South Side, 3:50 AM. The Church of Christ was dark except for a single light in a basement window. [Bordruff](/npcs/nathaniel-bordruff/) was already outside, in the shadow of the doorway. The face was ruin. Collapsed topography, no feature where you expected one. He looked at the coat pocket first. Then Tomas. Then Darius.
+Crown Victoria, South Side, 3:50 AM. The Church of Christ was dark except for a single light in a basement window. [Bordruff](/npcs/nathaniel-bordruff/) was already outside, in the shadow of the doorway. The face was ruin. Collapsed topography, no feature where you expected one. He looked at the coat pocket first. Then [Tomas](/npcs/tomas/). Then Darius.
 
 "You owe me a question. And now you want something else."
 
@@ -228,7 +228,7 @@ The cold off the lake had nothing to do with the feeling that went through Dariu
 
 "With [Lodin](/npcs/lodin/)."
 
-Bordruff was still for three seconds. Then he held out his hand. Darius placed the stone in it. The cold transferred. Bordruff did not flinch. He closed his fingers, pocketed it.
+[Bordruff](/npcs/nathaniel-bordruff/) was still for three seconds. Then he held out his hand. Darius placed the stone in it. The cold transferred. Bordruff did not flinch. He closed his fingers, pocketed it.
 
 "Foundation." He said it to himself, confirming something. He looked at Darius one more time. Not hostile. Not satisfied.
 
