@@ -76,7 +76,7 @@ Monica's jaw tightened. Daniel. He knew about Daniel.
 
 Terri, from the bed, without moving: "Who are you?"
 
-"I told you. Tony."
+"I told you. [Tony](/npcs/tony/)."
 
 "What are you."
 
@@ -94,7 +94,7 @@ Emerson set down the glass of water he'd been holding all evening.
 
 Monica: "The three men who killed [Prestor](/npcs/jacob-prestor/). They work for someone."
 
-"A man named Edward. He owns a club called [the Broadstreet](/locations/the-broadstreet/). He runs Denver -- not the city, the vampires in it. There's a hierarchy. He's at the top. I'm outside of it. You are nowhere in it, which means you're a problem he hasn't decided how to solve yet."
+"A man named [Edward](/npcs/edward-williams/). He owns a club called [the Broadstreet](/locations/the-broadstreet/). He runs Denver -- not the city, the vampires in it. There's a hierarchy. He's at the top. I'm outside of it. You are nowhere in it, which means you're a problem he hasn't decided how to solve yet."
 
 "Does he know about us?"
 
@@ -112,7 +112,7 @@ Then he looked at Flash.
 
 Marcus, from the corner: "What research?"
 
-"You tell me. You're the ones who walked out of that basement with a metal case and a journal. Whatever Prestor was working on -- Klondike wanted it badly enough to write a letter and offer himself up as a test subject. That's not curiosity. That's desperation. Desperate men do things on a schedule."
+"You tell me. You're the ones who walked out of that basement with a metal case and a journal. Whatever [Prestor](/npcs/jacob-prestor/) was working on -- [Klondike](/npcs/robert-klondike/) wanted it badly enough to write a letter and offer himself up as a test subject. That's not curiosity. That's desperation. Desperate men do things on a schedule."
 
 "Thursday. One a.m. The Diocese. Bring questions."
 
@@ -244,7 +244,7 @@ Flash sat on the cedar bench under the kitchen window. Klondike stayed in the do
 
 Klondike gave him what he had.
 
-[Edward Williams](/npcs/edward-williams/). Called himself Prince of Denver, no formal recognition from anyone who could grant it. Twenty-three years of self-appointment and nobody interested enough to stop him. A house band at the Broadstreet -- all five vampires, with people at the door who could read a room in ways that went beyond good security. Three enforcers named [Duke](/npcs/duke/), [Earl](/npcs/earl/), and the [Count](/npcs/the-count/), all disposed to solve problems with fire before conversation. Two cops in Edward's pocket -- a vice detective named Burrell, and a records secretary whose name Klondike had to reach for. A Frenchman named [Roger Manot](/npcs/roger-manot/) who ran bookings for four Edward venues and cracked mortal cover identities.
+[Edward Williams](/npcs/edward-williams/). Called himself Prince of Denver, no formal recognition from anyone who could grant it. Twenty-three years of self-appointment and nobody interested enough to stop him. A house band at [the Broadstreet](/locations/the-broadstreet/) -- all five vampires, with people at the door who could read a room in ways that went beyond good security. Three enforcers named [Duke](/npcs/duke/), [Earl](/npcs/earl/), and the [Count](/npcs/the-count/), all disposed to solve problems with fire before conversation. Two cops in Edward's pocket -- a vice detective named Burrell, and a records secretary whose name Klondike had to reach for. A Frenchman named [Roger Manot](/npcs/roger-manot/) who ran bookings for four Edward venues and cracked mortal cover identities.
 
 Flash filed it. Monica was the one to put on Edward when the time came. Edward would underestimate lawyers.
 
@@ -270,7 +270,7 @@ A nod.
 
 He started to close the door. Stopped halfway.
 
-"And listen -- I gave you Manot for the warning. The phone number's a different transaction. If your day-after-tomorrow pitch is good, we're at a new debt arrangement. Don't waste it."
+"And listen -- I gave you [Manot](/npcs/roger-manot/) for the warning. The phone number's a different transaction. If your day-after-tomorrow pitch is good, we're at a new debt arrangement. Don't waste it."
 
 "Tell your woman the assistant DA that the secretary in records is named Helen Yates. I remembered."
 
@@ -302,7 +302,7 @@ The five of them were halfway up the walk when Windsor opened the front door bef
 
 His face was the wrong color.
 
-"Mr. Wilkershire. There is a man at the gate. He says his name is [Detective](/npcs/detective-robert-carter/) Brandt."
+"Mr. Wilkershire. There is a man at the gate. He says his name is [Detective](/npcs/detective-robert-carter/) [Brandt](/npcs/detective-william-brandt/)."
 
 The intercom on Windsor's hip buzzed. Through the gatehouse kitchen window, yellow light spilled across the drive. A figure stood beside an unmarked sedan, breath fogging in the cold, one hand resting on the gate's stone post. He was looking up the drive at the house. Patient. He had all night.
 

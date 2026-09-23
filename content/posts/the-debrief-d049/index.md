@@ -225,7 +225,7 @@ He waved the kid off. The kid backed away with his hands up, still apologizing, 
 
 [Tomas](/tomas-navarro/) looked at his jacket sleeve. Coffee. The second shirt he'd ruined tonight. The first from tunnel water, this one from a clumsy undergrad. He got in the Crown Vic, turned the engine over, and pulled onto Bellevue heading north.
 
-The streets were empty. Friday night had burned itself out. A cab on Division. A CPD cruiser idling outside a diner on Clark. The gas lamps on Astor Street threw yellow circles on the sidewalk that didn't connect. Dark gaps between each one, like missing teeth in a jaw.
+The streets were empty. Friday night had burned itself out. A cab on Division. A CPD cruiser idling outside a diner on Clark. The gas lamps on [Astor](/npcs/lady-astor/) Street threw yellow circles on the sidewalk that didn't connect. Dark gaps between each one, like missing teeth in a jaw.
 
 He parked in the alley behind the [chantry](/locations/tremere-chantry/). Keyed the gate. The ward tasted him and let go.
 

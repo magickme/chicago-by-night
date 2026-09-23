@@ -150,7 +150,7 @@ She knew what he was. "Wasn't hunting him. Mortal came down where mortals don't 
 
 She circled lateral. The smell of her filled the tunnel — old meat, tallow, formaldehyde cut with soil.
 
-"You're the new one. Nicolai's. [Brennon](/npcs/brennon-thornhill/) send you down here to play exterminator?"
+"You're the new one. [Nicolai](/npcs/nicolai/)'s. [Brennon](/npcs/brennon-thornhill/) send you down here to play exterminator?"
 
 "I could play exterminator or I could play fixer. Say the word and they forget forever. But there's a cost."
 
@@ -204,7 +204,7 @@ The haven on Kaspar Street was dark. No [Sable](/sable-price/). No [Darius](/dar
 
 *Feb 1. [Succubus Club](/locations/succubus-club/). Drainage tunnels under the Labyrinth — pre-sewer, 1880s brick, three-branch junction 12ft below east wall. Nosferatu. Female, Polish accent, [Khalid](/npcs/khalid-al-rashid/)'s. Broke Masquerade on dance floor. Fed on mortal in tunnels. I cleaned it up. She owes nothing. I owe nothing.*
 
-He cross-referenced [Sable](/sable-price/)'s report. Sabbat scouts mapping freight tunnel routes from the South Side to the Club. [Khalid](/npcs/khalid-al-rashid/)'s network aware, had not shared. If the freight tunnels connected to the pre-sewer drainage, the Nosferatu already had a route from [Robert](/npcs/robert-klondike/) [Taylor](/npcs/helena-taylor/) Homes to the foundation. The question was whether Khalid controlled the entire underground or only the endpoints.
+He cross-referenced [Sable](/sable-price/)'s report. Sabbat scouts mapping freight tunnel routes from the South Side to the Club. [Khalid](/npcs/khalid-al-rashid/)'s network aware, had not shared. If the freight tunnels connected to the pre-sewer drainage, the Nosferatu already had a route from [Robert](/npcs/robert-klondike/) [Taylor](/npcs/helena-taylor/) Homes to the foundation. The question was whether [Khalid](/npcs/khalid-al-rashid/) controlled the entire underground or only the endpoints.
 
 The Crown Vic pulled onto [Astor](/npcs/lady-astor/) Street at twenty past one. The chantry sat between a German consular residence and a private art collection. Limestone, three stories, black iron fence. The ward registered him — pressure behind the eyes, copper on the tongue — and released.
 

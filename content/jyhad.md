@@ -165,17 +165,25 @@ The coterie arrives in Chicago. They meet [Ballard](/npcs/ballard/). They visit 
 
 ### 34. Bg5 — Critias observes from within
 
-Critias — still Blood-Bonded to Menele — accompanies the coterie to the Sears Tower. He stands in the polished brass of the elevator with the patience of a man who has walked barefoot on roads that hadn't been named yet.
+Critias — still Blood-Bonded to Menele at this point — accompanies the coterie to the Sears Tower. He watches Sable read the aura of the ancient pendant. He stands in the polished brass of the elevator with the patience of a man who has walked barefoot on roads that hadn't been named yet.
+
+### 34... Nc6! — Menele blood-bonds Darius (D031: Hell's Pasture)
+
+The vial at Roarke's safe house. The hunger frenzy over the torpored body. The ancient blood redirected into [Darius](/darius-cole/)'s mouth. **None of this was accidental.** Menele orchestrated from torpor: the body's recovery from Standdown, the vial's placement, and the frenzy that redirected the blood. Step 1 of 3. Darius now carries Menele's blood in his veins and doesn't know whose leash he's wearing.
+
+The bond expresses itself before Darius is aware of it (D032): his body relaxes around Gengis, a 12th-generation Brujah. The ancient vitae recognizes its own lineage. Darius reads this as his own judgment — the man simply didn't register as dangerous. **The pawn doesn't know it's been captured.** Menele's position improves without a piece moving visibly on the board.
+
+By extension, the coterie (Darius + [Sable](/sable-price/)) are now unwitting proxies in the Jyhad. Critias (already bonded to Menele) flagged them as useful. The coterie's investigation of Ashes to Ashes served Menele's interests throughout. **Black has converted two connected pawns without White noticing.**
 
 ### 35. Re1 — Lodin is rescued (D031)
 
 The coterie pulls the stake. The Prince is returned to the board — but not the same prince. Roarke's blood carries Menele's vitae, and Lodin drinks it to wake. **White's queen is recovered, but she now carries traces of Black's influence.** The ghoul who stole her is dust on the amphitheater floor.
 
-### 35... Bb5! — Menele's triple combination (D031)
+### 35... Bb5! — Menele's triple combination completes (D031)
 
 **The deepest quiet move of the endgame.** Three things happen in a single night, and none of them look connected:
 
-1. **[Darius](/darius-cole/) drinks the vial** — a hunger frenzy redirects Menele's blood from the torpored body to the Ventrue emissary. Blood Bond Step 1. Black gains a new piece without moving. The frenzy was not accidental. Menele orchestrated it from torpor.
+1. **[Darius](/darius-cole/) drinks the vial** — a hunger frenzy redirects Menele's blood from the torpored body to the Ventrue emissary. Blood Bond Step 1. Black gains a new piece without moving.
 
 2. **Lodin is fed Roarke's blood** — which is Menele's blood. The Prince of Chicago now carries the blood of the Methuselah who has been fighting him for three thousand years. Not a formal Bond. Something subtler. A frequency in the bloodstream.
 
@@ -183,50 +191,21 @@ The coterie pulls the stake. The Prince is returned to the board — but not the
 
 **The bishop slides to b5 and pins White's rook to the king.** Three separate threads converge on a single square. The coterie thinks they rescued the Prince. The Prince thinks he secured a valuable artifact. Menele knows he's been carried home.
 
----
-
-## The Position After 35 Moves
-
-**White (Helena):**
-- King active but weakened (Portia identity, recovering from torpor)
-- Lodin recovered but compromised (queen returned — carrying Black's blood)
-- [Nicolai](/npcs/nicolai/) controlled (bishop)
-- [Tyler](/npcs/tyler/) → [Juggler](/npcs/juggler/) chain (knight + pawn)
-- [Brennon Thornhill](/npcs/brennon-thornhill/) (rook — Succubus Club defense)
-- Prias (rook — but secretly no longer bound; the rook may defect)
-- Annabelle (believed to be White's bishop — actually Black's)
-
-**Black (Menele):**
-- King torpid but now inside White's stronghold (Drake Hotel, Lodin's custody)
-- Mind active (Auspex 6) — closer to awakening than at any point since 1832
-- [Darius](/darius-cole/) Blood-Bonded Step 1 (new pawn — Ventrue, Dominate 4, in the Prince's orbit)
-- [Critias](/npcs/critias/) as Brujah Primogen (knight — Blood-Bonded, flagged the coterie as useful)
-- [Inyanga](/npcs/inyanga/) commands all Gangrel (bishop)
-- Annabelle as double agent (bishop inside White's camp)
-- [Ublo-Satha](/npcs/ublo-satha/) as sleeper in Tremere Chantry (knight behind enemy lines)
-- The pipeline (rook — continental logistics)
-- Gary staging ground with Modius, neonates (connected pawns)
-- Roarke's cult dissolved, Roarke destroyed (passed pawn sacrificed after promotion)
-- Path of Entelechy worldwide (development in reserve)
-
-**Neutral / Contested:**
-- [Sable](/sable-price/) — not directly bonded but linked through Darius; investigation served Black's interests
-- [Tomas](/tomas-navarro/) (Tremere) — recruited by Khalid as off-books intelligence asset. Holds Portia identification + bond discrepancy data. Running parallel to Pyramid and Methuselah networks. Unaware of the Methuselah war.
-- Khalid (Nosferatu Primogen) — hidden; each side assumes the other controls him. Now actively recruiting independent assets. Has verified Helena's bond operation on the Sheriff.
-- [Erichtho](/npcs/erichtho/) (Tremere) — suspicious of Portia; could blow Helena's cover
-- The Sabbat — a third player not on this board
-
-### 35. Rb1 — Helena bonds the staked Sheriff (Jan 10-17, 1991)
+### 36. Rb1 — Helena bonds the staked Sheriff (Jan 10-17, 1991)
 
 Helena (as [Portia](/npcs/portia/)) has been visiting [Balthazar](/npcs/balthazar/)'s staked body and feeding him her blood. The Sheriff's Toreador bond advanced from Step 1 to Step 2 in seven days. One more drink and the new bond overtakes [Lodin](/npcs/lodin/)'s three-step hold. Helena is rebuilding enforcement capacity — when Balthazar is unstaked, he wakes loyal to her instead of the Prince. A Brujah Sheriff is a weapon. Helena is repointing it.
 
-### 35... Na5 — Khalid recruits a Tremere counter-agent (T002)
+**Campaign evidence:** T002 — Khalid's independent blood sample confirmed the bond advancement. Nicolai's chantry sample (T001) read Step 1. Khalid's sample (T002, same source, different collection) reads Step 2.
 
-Khalid al-Rashid makes his first active move. He approaches [Tomas](/tomas-navarro/) via Obfuscate persona and commissions an off-books Blood Walk to verify Helena's bond operation. Khalid is building his own intelligence capability outside both Methuselahs' awareness. The knight on the rim — low on material, high on information.
+### 36... Na5 — Khalid recruits a Tremere counter-agent (T002)
 
-### 36. ?? — The Auditorium Theatre incident (D055, Feb 9, 1991)
+Khalid al-Rashid, the one Primogen member free of both Methuselahs, makes his first active move. He approaches [Tomás Navarro](/tomas-navarro/) (Tremere apprentice, new to Chicago, unaffiliated with either Methuselah's network) via Obfuscate persona and commissions an off-books Blood Walk to verify Helena's bond operation. Khalid is building his own intelligence capability outside both Methuselahs' awareness. The knight on the rim — low on material, high on information.
 
-Bach's rogue Sabbat pack crashes the Verdi performance at Critias's Elysium during the coterie's first attendance under Critias's invitation. The fight exposes a concrete tomb in the proscenium wall — Jefferson Foster, Brujah neonate, staked and bricked inside the wall of Elysium for twenty-four years. The coterie pulls the stake on Critias's order. Jefferson goes Obfuscate and disappears into the city before sirens arrive.
+**Campaign evidence:** T002 — Khalid appeared as "the old man at the bus stop." Tomás performed the ritual and reported the bond discrepancy. Khalid identified Portia and cited a 40-year Detroit precedent. Minor Boon owed.
+
+### 37. Rd1 Nd4! — The Auditorium Theatre incident (D055: The Opera, Feb 9, 1991)
+
+Bach's rogue Sabbat pack crashes the Verdi performance at Critias's Elysium during the coterie's first attendance under Critias's invitation. White's rook shuffles to cover the Elysium; Black's knight lands on the outpost square that was always there. The fight exposes a concrete tomb in the proscenium wall — Jefferson Foster, Brujah neonate, staked and bricked inside the wall of Elysium for twenty-four years. The coterie pulls the stake on Critias's order. Jefferson goes Obfuscate and disappears into the city before sirens arrive.
 
 Jefferson was [Neally Edwards](/npcs/neally-edwards/)'s entombment — a private violation of the Traditions kept inside the Traditions' own house for two and a half decades. Neally is Lodin's chief administrator and one of White's reliable structural pieces. The man Jefferson is hunting is therefore one of Helena's tools. A revenant with twenty-four years of accumulated grievance, Obfuscate, and a face nobody in Chicago recognizes is now loose in Lodin's city.
 
@@ -234,21 +213,76 @@ Jefferson was [Neally Edwards](/npcs/neally-edwards/)'s entombment — a private
 
 Side effects: Sable kills Brad Hessler in the haven to plug a Masquerade leak from Darius's D054 Dominate operation. H5 → H4. Sable's Beast has now crossed into the Aggression tier — a chronicle-internal change rather than a Jyhad move, but a piece that has just become more dangerous to anyone standing near it.
 
-### 36... ?? — The Chalice (D056, Feb 11, 1991)
+**Campaign evidence:** D055 — Blood Bond (WW2101) Scene 1. Bach took 11 levels aggravated damage and retreated intact. Masquerade Heat 3 → 4/6. Sabbat Infiltration 2 → 3/6.
 
-Two nights after the Auditorium breach, Lodin summons the coterie to the 41st floor of the Prudential Building and pours a single chalice. Darius, Sable, and Tomas each drink one swallow. All three advance to Step 1/3 of a Vinculum to the Prince. Critias is in the room — arms folded — and intervenes only to register, for Neally's record, that the coterie outperformed Lodin's own childer. Lodin notes it. The toast happens anyway. The coterie leaves with a weekly Thursday report scheduled through Neally and a standing order to produce Bach's head.
+### 38. Qd3 Nc6 — The Chalice (D056: Consequences, Feb 11, 1991)
 
-**White consolidates her queen's grip on her advance pawns.** Lodin formalises ownership of the three neonates that just held an Elysium for him — exactly the pieces Menele has been using to maneuver his own body into White's stronghold. But the Bond is Step 1, not Step 3. Mild positive feeling, no compulsion. Darius now carries two Step 1s — Menele (subconscious, biological) and Lodin (conscious, political). The two Methuselahs are sharing a piece without either of them knowing. Critias has bonded himself politically to a coterie that is now bonded to the Prince he serves — the chain of obligation runs through the Brujah Primogen in both directions.
+Two nights after the Auditorium breach, Lodin summons the coterie to the 41st floor of the Prudential Building and pours a single chalice. Darius, Sable, and Tomás each drink one swallow. All three advance to Step 1/3 of a Vinculum to the Prince. Critias is in the room — arms folded — and intervenes only to register, for Neally's record, that the coterie outperformed Lodin's own childer. Lodin notes it. The toast happens anyway. The coterie leaves with a weekly Thursday report scheduled through Neally and a standing order to produce Bach's head.
 
-**Helena's move strengthens her position and tightens Menele's leverage at the same time.** The pawn the Prince just bound to himself is the same pawn that delivered Black's king to the Drake Hotel. Every order Lodin gives the coterie through Critias now travels through a piece Menele's network already controls.
+**White consolidates her queen's grip on her advance pawns.** Lodin formalises ownership of the three neonates that just held an Elysium for him — exactly the pieces Menele has been using to maneuver his own body into White's stronghold. But the Bond is Step 1, not Step 3. Mild positive feeling, no compulsion.
+
+**Black's reply is already inside the move.** Darius now carries two Step 1s — Menele (subconscious, biological) and Lodin (conscious, political). The two Methuselahs are sharing a piece without either of them knowing. Critias has bonded himself politically to a coterie that is now bonded to the Prince he serves — the chain of obligation runs through the Brujah Primogen in both directions. **Helena's move strengthens her position and tightens Menele's leverage at the same time.** The pawn the Prince just bound to himself is the same pawn that delivered Black's king to the Drake Hotel. Every order Lodin gives the coterie through Critias now travels through a piece Menele's network already controls.
+
+**Campaign evidence:** D056 — Blood Bond (WW2101) Scene 2. Blood Bond Web 1 → 2/6. Lodin's Grip 3 → 4/6. Sabbat hunt assignment issued; Critias named tactical liaison.
+
+### 39. Qe2 — Helena captures Neally and a child (D060: Children in Need, Mar 1, 1991)
+
+[Neally Edwards](/npcs/neally-edwards/) — Tremere ancilla, Lodin's weekly intake officer, part of the [Nicolai](/npcs/nicolai/)-chantry reporting chain that loops up to Helena — has been feeding on children at St. Brigid's Home for Children in Bridgeport for an unknown period and Embraced an eight-year-old girl (Becky) three nights before the scene. The Tremere are forbidden from siring without writ for eighteen years. The Masquerade breach pattern is severe. Neally's hands shake while he feeds; he does not want to be there. He goes anyway. The compulsion suggests bond pressure or deeper compromise.
+
+[Darius](/darius-cole/) — Menele's Step-1 pawn, now formally Lodin's direct instrument — encounters Becky on Halsted, confirms Neally as the predator, and reports clean to Lodin by phone. Lodin orders the child delivered to the Prudential Building. Lodin will "handle" Neally.
+
+The capture: **Helena's proxy (Lodin) acquires a child Kindred asset (unknown disposition, likely terminal or instrumentalized) plus blackmail-grade compromise on Neally Edwards.** Neally was already a Tremere-chain Helena asset; he is now a leashed one. The Tremere chantry's autonomy weakens. Lodin's leverage inside the Pyramid grows.
+
+The accidental gift to Menele: Darius — bound to Menele subconsciously — has visibly demonstrated to Lodin that his Ventrue blood is *operational and efficient*. Lodin will reach for him again. Menele's pawn is moving deeper into White's queen's orbit, which is exactly the position Menele needs for the endgame. **A pawn delivered to White's most exposed piece is still a pawn under Black's hand.**
+
+**Campaign evidence:** D060 — Becky delivered to Lodin's man on the 41st floor of the Prudential Building. Darius dismissed without information. Conscience check failed. Humanity 7 → 6. Blood Bond (WW2101) Scene 4 complete. The published-adventure framework routed the decision through Lodin by design; Darius could have hidden Becky, sought [Erichtho](/npcs/erichtho/) or [Carna](/npcs/carna/), or run her north. He made the institutional choice. Menele's bond does not require Darius to disobey Lodin — it requires Darius to remain useful to Lodin. Both Methuselahs benefit from this move. Helena gains material; Menele gains position.
+
+---
+
+## The Position After 39 Moves
+
+**White (Helena):**
+- King active but weakened (Portia identity, recovering from torpor) — stats in parentheses, Conscience 0, feeding only on female Kindred vitae
+- Lodin recovered but compromised (queen returned — carrying Black's blood)
+- [Nicolai](/npcs/nicolai/) controlled (bishop)
+- [Tyler](/npcs/tyler/) → [Juggler](/npcs/juggler/) chain (knight + pawn)
+- [Brennon Thornhill](/npcs/brennon-thornhill/) (rook — Succubus Club defense)
+- Prias (rook — but secretly no longer bound; the rook may defect)
+- Annabelle (believed to be White's bishop — actually Black's)
+- [Balthazar](/npcs/balthazar/) the Sheriff (rook being repointed — Toreador bond Step 2, one drink from overtaking Lodin's hold)
+- [Neally Edwards](/npcs/neally-edwards/) (pawn, now leashed by blackmail after D060) + Becky, a child Kindred in Lodin's custody (captured material, disposition unknown)
+- The coterie (three pawns, Vinculum Step 1/3 to Lodin since D056)
+
+**Black (Menele):**
+- King torpid but now inside White's stronghold (Drake Hotel, Lodin's custody) — mind active (Auspex 6), closer to awakening than at any point since 1832
+- [Darius](/darius-cole/) Blood-Bonded Step 1 (pawn — Ventrue, in the Prince's orbit, now also Lodin's Step 1)
+- [Critias](/npcs/critias/) as Brujah Primogen (knight — Blood-Bonded, flagged the coterie as useful, ordered Jefferson freed)
+- [Inyanga](/npcs/inyanga/) commands all Gangrel (bishop)
+- Annabelle as double agent (bishop inside White's camp)
+- [Ublo-Satha](/npcs/ublo-satha/) as sleeper in Tremere Chantry (knight behind enemy lines)
+- The pipeline (rook — continental logistics)
+- Gary staging ground with Modius, coterie, neonates (connected pawns)
+- Jefferson Foster at large (wild piece — twenty-four years of grievance, Obfuscate, aimed at one of White's structural pieces)
+- Roarke's cult dissolved, Roarke destroyed (passed pawn sacrificed after promotion)
+- Path of Entelechy worldwide (development in reserve)
+
+**Neutral / Contested:**
+- The coterie ([Darius](/darius-cole/), [Sable](/sable-price/), [Tomás](/tomas-navarro/)) — Darius blood-bonded Step 1 to Menele (D031) and Step 1 to Lodin (D056). Unwitting Menele proxies. The bond influences behavior subconsciously (D032: Brujah resonance). No PC is aware of the Methuselah war.
+- [Sable Price](/sable-price/) — not directly bonded to Menele but linked through Darius; her investigation has served Black's interests throughout. Step 1 to Lodin (D056), Step 1 to [Allicia](/npcs/allicia/) (Act I).
+- [Tomás Navarro](/tomas-navarro/) (Tremere) — recruited by Khalid (T002) as off-books intelligence asset. Holds Portia identification + bond discrepancy data. Running parallel to both Pyramid and Methuselah networks. Step 1 to Lodin (D056).
+- Khalid (Nosferatu Primogen) — hidden; each side assumes the other controls him. Now actively recruiting independent assets (T002). Has verified Helena's bond operation on the Sheriff.
+- [Erichtho](/npcs/erichtho/) (Tremere) — suspicious of Portia; could blow Helena's cover
+- The Sabbat — a third player not on this board. Bach's rogue pack is now fighting openly (D055), which serves neither Methuselah and obscures both.
 
 ### The Evaluation
 
-**Black is winning.** White's recovered queen carries Black's blood. Black's king has been delivered to the heart of White's camp by White's own pieces. Three of Black's agents surround the Prince: Critias (Primogen), Darius (emissary, bonded), and Annabelle (double agent). Helena doesn't know any of this.
+**Black is winning.** White's recovered queen carries Black's blood. Black's king has been delivered to the heart of White's camp by White's own pieces. Three of Black's agents surround the Prince: Critias (Primogen), Darius (emissary, bonded), and Annabelle (double agent). Her most powerful rook may defect (Prias) and her key bishop is actually Black's. Helena doesn't know any of this. She believes her position is stronger than it is.
 
-Black's remaining weakness: the king is still torpid. But he is no longer in the woods surrounded by rats. He is in a cedar closet in a luxury hotel, guarded by the Prince of Chicago, who is drinking his blood. **The conditions for Menele's awakening are assembling themselves.**
+White is not without gains. Moves 36 through 39 took real material: the Sheriff's bond is two-thirds turned, the coterie is formally bound at Step 1, and D060 handed Lodin both a child Kindred and blackmail-grade compromise on a Tremere-chain administrator. Every one of those gains runs through pieces Menele's network already touches.
 
-**The combination is nearly complete.**
+Black's remaining weakness: the king is still torpid. But he is no longer in the woods surrounded by rats. He is in a cedar closet in a luxury hotel, guarded by the Prince of Chicago, who is drinking his blood. If Helena finds the body before he wakes, she still wins — the Heart of Osiris could accelerate the awakening, and the coterie is moving through the board toward it without knowing what it is.
+
+**The conditions for Menele's awakening are assembling themselves. The combination is nearly complete.**
 
 ---
 

@@ -102,7 +102,7 @@ Monica wrote WYNKOOP on her palm with the pen. Turned. Went up the stairs. The b
 
 The room was four. Terri on the bed with the cat. Marcus in the corner. Emerson near the wet bar with his hands in his pockets, carrying himself with the particular discomfort of a host who wanted to offer drinks and couldn't.
 
-Discussion turned to the bank. Colorado National opened Monday morning. Marcus had the key — the small brass thing they'd found in Prestor's effects, bank-stamped, specific. Somebody needed to get inside the safe deposit vault during business hours, and business hours ended at five-thirty, and none of them could walk in the sun.
+Discussion turned to the bank. Colorado National opened Monday morning. Marcus had the key — the small brass thing they'd found in [Prestor](/npcs/jacob-prestor/)'s effects, bank-stamped, specific. Somebody needed to get inside the safe deposit vault during business hours, and business hours ended at five-thirty, and none of them could walk in the sun.
 
 Emerson cleared his throat. The banker in the room, speaking the language.
 
@@ -184,7 +184,7 @@ The *yet* was the weight of it. Flash heard it and put it where things went now 
 
 Monica had more. She'd gone to the DA's office after Daniel's house, used her access, checked the system.
 
-No warrant application filed on the safe deposit box. Brandt had a preservation request — informal, bank-cooperation only. No judge had signed anything. The five missing persons cases were cross-referenced but not consolidated. Still treated as separate incidents in the system. Still five files on five desks, not one file on one desk.
+No warrant application filed on the safe deposit box. [Brandt](/npcs/detective-william-brandt/) had a preservation request — informal, bank-cooperation only. No judge had signed anything. The five missing persons cases were cross-referenced but not consolidated. Still treated as separate incidents in the system. Still five files on five desks, not one file on one desk.
 
 Estimated window before Brandt filed for a warrant: two to three days. The Gulf War ground offensive was pulling DPD resources sideways — overtime, reassignments, the bureaucratic drag of a country at war eating into local police work. It was buying them time they hadn't earned.
 

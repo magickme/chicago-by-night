@@ -44,7 +44,7 @@ Third angle. Cops. Someone with a badge and a thumb on the local precinct.
 
 [Gengis](/npcs/gengis/) leaned forward. "And he comes back next week with twice as many buses."
 
-[Brennon](/npcs/brennon-thornhill/) stopped pacing. He was at the window now, the city behind him reduced to a smear of lights, and his face had settled into something Darius recognized from [Modius](/npcs/modius/)'s worst nights. A man staring at an instrument that would not play.
+[Brennon](/npcs/brennon-thornhill/) stopped pacing. He was at the window now, the city behind him reduced to a smear of lights, and his face had settled into something [Darius](/darius-cole/) recognized from [Modius](/npcs/modius/)'s worst nights. A man staring at an instrument that would not play.
 
 "He needs to leave Chicago tonight and not come back," [Brennon](/npcs/brennon-thornhill/) said. "How you accomplish that is your affair."
 
@@ -74,7 +74,7 @@ He was fifty, maybe fifty-five. Black, graying at the temples, a face that carri
 
 Darius felt the pressure at fifteen feet. A warmth in the sternum, then a tightening. Not pain. Recognition. Something old in his blood identifying something older in the man by the wall and filing a report that said: *leave*.
 
-He kept walking. Ten feet. The tightening became specific: jaw, hands, the muscles along his spine pulling taut in sequence. His vision narrowed. The strobe caught Coleman's collar and the white strip pulsed like a heartbeat.
+He kept walking. Ten feet. The tightening became specific: jaw, hands, the muscles along his spine pulling taut in sequence. His vision narrowed. The strobe caught [Coleman](/npcs/rev-terrence-coleman/)'s collar and the white strip pulsed like a heartbeat.
 
 Five feet. He could smell soap, wool, the faint sweat of a man who had been standing in a crowded room for two hours. The warmth in his sternum was a fist now. His teeth ached. He held his hands at his sides and kept them still.
 

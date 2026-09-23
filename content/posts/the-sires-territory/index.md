@@ -39,7 +39,7 @@ The debt was written in his posture. Not money. A man who'd taken vows and spent
 
 Nothing happened. The priest startled. Stepped back, hand going to the door frame. "Can I help you?"
 
-Wrong. The pull had misfired, landed as threat instead of welcome. Darius read it in the man's shoulders: the flinch, the half-step toward the interior, the instinct to close the door. He backed off. "Wrong church. Sorry, [Father](/npcs/father-iago-lazarus/)."
+Wrong. The pull had misfired, landed as threat instead of welcome. [Darius](/darius-cole/) read it in the man's shoulders: the flinch, the half-step toward the interior, the instinct to close the door. He backed off. "Wrong church. Sorry, [Father](/npcs/father-iago-lazarus/)."
 
 Two blocks west. The cold settling in. Then the cruiser.
 
@@ -65,7 +65,7 @@ So. The cruiser had been sitting half a block from Kaspar & Sons when Darius lef
 
 Darius got in.
 
-The ride was twenty-five minutes. Gulf War footage on the radio. Schwarzkopf's briefing, smart bomb footage, a correspondent describing the highway north of Kuwait City. [Gold Coast](/locations/gold-coast/) to the Loop to the red lanterns on Wentworth Avenue. Darius sat in the back seat and calculated. The cop's blood was wrong. Chuc Luc paid well and on time, no unpayable debt, nothing that qualified. He'd arrive in [Chinatown](/locations/chinatown/) hungry.
+The ride was twenty-five minutes. Gulf War footage on the radio. Schwarzkopf's briefing, smart bomb footage, a correspondent describing the highway north of Kuwait City. [Gold Coast](/locations/gold-coast/) to the Loop to the red lanterns on Wentworth Avenue. Darius sat in the back seat and calculated. The cop's blood was wrong. [Chuc Luc](/npcs/chuc-luc/) paid well and on time, no unpayable debt, nothing that qualified. He'd arrive in [Chinatown](/locations/chinatown/) hungry.
 
 The car stopped at a restaurant entrance. Dark signage, iron security door, a man outside in a jacket too light for February. The man opened Darius's door without looking at him.
 
@@ -103,7 +103,7 @@ He wrote the word down. First thing he'd written since Darius sat down. "Nosfera
 
 Darius told him about [Bordruff](/npcs/nathaniel-bordruff/). The stone, the shaman, the trade. The question about the torpored body, and the answer Darius had given.
 
-Chuc Luc listened without moving. When Darius finished, the silence stretched longer than any previous one. "You told a Nosferatu elder where Lodin is keeping a torpored body." Still flat. But the pen was on the table and he wasn't touching it. "[Bordruff](/npcs/nathaniel-bordruff/)'s been in this city since Prohibition. Doesn't ask questions he doesn't already know answers to." He looked at the account books. "Was confirming. Not learning." He looked at Darius. "Which means he already knew. And now he knows your coterie knows."
+Chuc Luc listened without moving. When Darius finished, the silence stretched longer than any previous one. "You told a Nosferatu elder where [Lodin](/npcs/lodin/) is keeping a torpored body." Still flat. But the pen was on the table and he wasn't touching it. "[Bordruff](/npcs/nathaniel-bordruff/)'s been in this city since Prohibition. Doesn't ask questions he doesn't already know answers to." He looked at the account books. "Was confirming. Not learning." He looked at Darius. "Which means he already knew. And now he knows your coterie knows."
 
 He paused. Not for effect. For calculation.
 
@@ -113,7 +113,7 @@ He paused. Not for effect. For calculation.
 
 "An old, dead vampire."
 
-"Very old." He wrote something, covered it with his hand before Darius could read it. "Don't pursue that line. Not yet. Not until you know more than Bordruff does." The pen went down. "The tunnels are more important right now. If there's a pipeline running beneath this city that neither Lodin nor [Lucian](/npcs/lucian/) controls, everyone with product to move wants access. Including me." Direct eye contact. "Find me a third entrance. Something [Elzbieta](/npcs/elzbieta-furofsky/) hasn't flagged. Do that and we're current."
+"Very old." He wrote something, covered it with his hand before Darius could read it. "Don't pursue that line. Not yet. Not until you know more than [Bordruff](/npcs/nathaniel-bordruff/) does." The pen went down. "The tunnels are more important right now. If there's a pipeline running beneath this city that neither Lodin nor [Lucian](/npcs/lucian/) controls, everyone with product to move wants access. Including me." Direct eye contact. "Find me a third entrance. Something [Elzbieta](/npcs/elzbieta-furofsky/) hasn't flagged. Do that and we're current."
 
 "And Gary? The operation. Should I liquidate and stay in Chicago?"
 
@@ -127,7 +127,7 @@ The man in the light jacket was already at the door.
 
 ---
 
-Darius walked south on Wentworth and then east, away from Chinatown's core, into the corridor where the district bled into the South Loop. The hunger was a low pull behind his sternum, steady and insistent.
+Darius walked south on Wentworth and then east, away from [Chinatown](/locations/chinatown/)'s core, into the corridor where the district bled into the South Loop. The hunger was a low pull behind his sternum, steady and insistent.
 
 The street cleaner was on Wabash between Van Buren and Congress. City coveralls, orange safety vest, push broom working the gutter. Alone at this hour. Fifty-eight, maybe older. The municipal pension deal from '83, the one that looked good on paper. The math had stopped working three years ago and there was nothing to be done about it. The debt was structural. Permanent. It qualified.
 

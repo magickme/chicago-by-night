@@ -19,7 +19,7 @@ The grapple was clean. Flash caught the shoulder and hauled him behind the dumps
 
 ---
 
-Ten o'clock. Cherry Hills. The cohort assembled in Emerson's living room — Monica on the wingback, Marcus on the floor with his back against the bookcase, Emerson in the kitchen doorway holding a glass of water he would not drink, Theresa at the dining table with Prestor's journal open and a yellow legal pad full of French notation.
+Ten o'clock. Cherry Hills. The cohort assembled in Emerson's living room — Monica on the wingback, Marcus on the floor with his back against the bookcase, Emerson in the kitchen doorway holding a glass of water he would not drink, Theresa at the dining table with [Prestor](/npcs/jacob-prestor/)'s journal open and a yellow legal pad full of French notation.
 
 "Roger [Liverman](/npcs/dr-roger-liverman/)," she said. "Independent biochemist. Contracted by Prestor for lab analysis on the compounds. It's in the journal three times. He signed NDAs."
 
@@ -53,7 +53,7 @@ Flash was already walking. Theresa caught up on the stairs.
 
 The service entrance was unlocked. Third floor, end of the corridor. A lab with overhead fluorescents and a classic rock station playing CCR and the smell of reagents and institutional coffee, and a man standing at a workstation with his back to the door.
 
-Roger Liverman. Early forties, heavyset, thinning hair, lab coat over flannel. When he turned and saw them his hands went flat on the countertop.
+Roger [Liverman](/npcs/dr-roger-liverman/). Early forties, heavyset, thinning hair, lab coat over flannel. When he turned and saw them his hands went flat on the countertop.
 
 "Who are you? This building is closed to the public."
 
@@ -95,7 +95,7 @@ Flash looked at Theresa. Theresa looked at Flash.
 
 County Road 73 south of Sedalia. Forty minutes of two-lane blacktop climbing into the foothills. The IROC-Z first, Marcus's sedan behind it. One-fifteen in the morning and the Rockies were a black absence against a blacker sky. No moon worth the name. Twenty degrees.
 
-The ranch sat back from the road behind a wire fence and a line of bare cottonwoods. Kitchen light on. Same place they'd visited before, and Flash had liked Klondike then — the blond man with the calloused hands and the weapons stacked in every room and the survival posture of something that had been running a very long time. He had been useful. He had been direct. He had stolen their research and Flash was finished with direct.
+The ranch sat back from the road behind a wire fence and a line of bare cottonwoods. Kitchen light on. Same place they'd visited before, and Flash had liked [Klondike](/npcs/robert-klondike/) then — the blond man with the calloused hands and the weapons stacked in every room and the survival posture of something that had been running a very long time. He had been useful. He had been direct. He had stolen their research and Flash was finished with direct.
 
 The cohort spread across the yard. Monica and Emerson at the vehicles. Marcus at the tree line. Theresa behind Flash, ten feet back, watching the angles.
 

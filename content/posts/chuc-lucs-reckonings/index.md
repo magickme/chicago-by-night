@@ -47,9 +47,9 @@ Then the hand lifted and rested on the desk again, palm down, fingers slightly s
 
 "This is three weeks late."
 
-Darius said: "The Prince's reassignment created visibility I didn't have before. Weekly reports to [Neally](/npcs/neally-edwards/). A formal liaison through [Critias](/npcs/critias/) for the Sabbat tasking. The Prince's own attention on whether I'm moving where I'm supposed to be moving. Coming here required a window. I waited for one that didn't read."
+[Darius](/darius-cole/) said: "The Prince's reassignment created visibility I didn't have before. Weekly reports to [Neally](/npcs/neally-edwards/). A formal liaison through [Critias](/npcs/critias/) for the Sabbat tasking. The Prince's own attention on whether I'm moving where I'm supposed to be moving. Coming here required a window. I waited for one that didn't read."
 
-Chuc Luc listened the way he always listened — without nodding, without the small mortal cues that signaled comprehension. The face stayed where it was. The hands did not move.
+[Chuc Luc](/npcs/chuc-luc/) listened the way he always listened — without nodding, without the small mortal cues that signaled comprehension. The face stayed where it was. The hands did not move.
 
 "You are describing your schedule. I asked about your loyalty."
 
@@ -81,7 +81,7 @@ A beat.
 
 Darius gave him three things. He had structured the brief the way he structured every brief now, after [Tomas](/tomas-navarro/) had spent two weeks teaching him without meaning to that information had a hierarchy and the hierarchy was its own form of respect. Posture first. Threats second. The anomaly last.
 
-One: the [Prince](/npcs/lodin/)'s operational posture. The forced blood toast at the February court — the toast that had bonded all three of them at the first step. Weekly reporting through [Neally](/npcs/neally-edwards/) on coterie movements. Critias as tactical liaison on the Sabbat hunt, which meant Critias as the hand inside the glove every time the coterie crossed an operational threshold. The Pilsen chantry grant leashed to delivery, not a gift but an account that could be closed if the deposits stopped. "He's running us the way you'd run a field team. Long leash, short reporting cycle. The toast was insurance against the long leash."
+One: the [Prince](/npcs/lodin/)'s operational posture. The forced blood toast at the February court — the toast that had bonded all three of them at the first step. Weekly reporting through [Neally](/npcs/neally-edwards/) on coterie movements. [Critias](/npcs/critias/) as tactical liaison on the Sabbat hunt, which meant Critias as the hand inside the glove every time the coterie crossed an operational threshold. The Pilsen chantry grant leashed to delivery, not a gift but an account that could be closed if the deposits stopped. "He's running us the way you'd run a field team. Long leash, short reporting cycle. The toast was insurance against the long leash."
 
 Two: the Sabbat. [Bach](/npcs/bach/)'s pack. [Bach](/npcs/bach/) as pack priest. The Serpent of the Light woman — Creole accent, voodoo orientation, the one who had set the skull on the Pilsen rooftop on February fifth. Three Blood Brothers locked into the Sanguinus discipline, the shock element. Two ghouls running the operational tail. Above-ground movements, visible targets. The Gary Malkavian he'd known as a younger man, dead on a rooftop in Pilsen with the head burnt past identification except by association. "Two tracks. Pack visible on the streets, something else moving underneath. The pack is what they want me looking at."
 
@@ -129,7 +129,7 @@ He did not cross to it tonight. The envelope said nothing about urgency, and Chu
 
 Tomorrow night. Or the night after. With [Sable](/sable-price/). Or with [Tomas](/npcs/tomas/). He had not decided yet.
 
-He walked west on 22nd toward the cab stand at the Cermak-Chinatown stop. Past a fish market closing for the night, a man in rubber boots hosing crushed ice from the sidewalk into the gutter, the water moving south down the camber of the pavement and pooling around a storm grate that had not been cleared in a year. Past a closed dim sum place with chairs already up on tables, the kitchen light still on through the round window in the swinging door. Past a payphone where a young man was speaking Cantonese, fast, into the receiver, looking at his watch.
+He walked west on 22nd toward the cab stand at the Cermak-[Chinatown](/locations/chinatown/) stop. Past a fish market closing for the night, a man in rubber boots hosing crushed ice from the sidewalk into the gutter, the water moving south down the camber of the pavement and pooling around a storm grate that had not been cleared in a year. Past a closed dim sum place with chairs already up on tables, the kitchen light still on through the round window in the swinging door. Past a payphone where a young man was speaking Cantonese, fast, into the receiver, looking at his watch.
 
 The Beast made the small managerial sound in his chest again. *He already knew. He has known since before you took the assignment. Think about what that means.*
 

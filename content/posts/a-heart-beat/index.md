@@ -31,9 +31,9 @@ English. Typed on a Selectric, the font ball slightly misaligned on the lowercas
 
 She read for twenty minutes. The kitchen was silent except for the fluorescent buzz and Windsor's distant heartbeat and the sound of her own finger tracing lines of text, a dry scrape that in another life she wouldn't have heard at all.
 
-Serum #1, "Georges/L. Pasteur," was the donor blood. The source. Old vitae in a glass tube, the active component from which the entire injection cascade derived. The clan-specific vials were variant strains, each one keyed to a member of the cohort. Hers read "T.H." in that copperplate hand, as if Prestor had known her initials before she was born. Drinking any of them would be feeding. Injecting them into someone else would be making another one of whatever they were.
+Serum #1, "Georges/L. Pasteur," was the donor blood. The source. Old vitae in a glass tube, the active component from which the entire injection cascade derived. The clan-specific vials were variant strains, each one keyed to a member of the cohort. Hers read "T.H." in that copperplate hand, as if [Prestor](/npcs/jacob-prestor/) had known her initials before she was born. Drinking any of them would be feeding. Injecting them into someone else would be making another one of whatever they were.
 
-Anti-Body #1. Liverman's pencil note, pressed hard enough to tear the paper: *All cultures non-viable within 40 seconds of reversion.* She translated it. It turns you human. Then it kills you. Forty seconds between the two.
+Anti-Body #1. [Liverman](/npcs/dr-roger-liverman/)'s pencil note, pressed hard enough to tear the paper: *All cultures non-viable within 40 seconds of reversion.* She translated it. It turns you human. Then it kills you. Forty seconds between the two.
 
 Anti-Body #2. The one Prestor believed was the cure. Liverman was more cautious. *Estimate: 30-40% survival at current potency.* And then, underlined twice in pencil that had nearly snapped: *Prestor never recorded a successful full reversion. All test subjects lost to follow-up.*
 
@@ -67,9 +67,9 @@ Monica: "Who?"
 
 The inventory was short. [Tony](/npcs/tony/), seven hundred sixty years old, whose motive was theater. [Edward](/npcs/edward-williams/), who wanted Prestor's method destroyed, not studied. [Klondike](/npcs/robert-klondike/), wearing Flash's body somewhere in the Colorado dark. And beyond Denver, a world of others they'd heard about but never met.
 
-Marcus leaned against the counter. "Tony said there are others. Older ones. Ones who actually know what this is."
+Marcus leaned against the counter. "[Tony](/npcs/tony/) said there are others. Older ones. Ones who actually know what this is."
 
-Emerson spoke from the window without turning. His reflection was a gray shape in the glass. "Tony also said Edward answers to someone older. Someone who wanted Prestor's method destroyed." He paused. Swallowed. "We hand this to the wrong person, we become the next thing that gets burned."
+Emerson spoke from the window without turning. His reflection was a gray shape in the glass. "Tony also said [Edward](/npcs/edward-williams/) answers to someone older. Someone who wanted Prestor's method destroyed." He paused. Swallowed. "We hand this to the wrong person, we become the next thing that gets burned."
 
 Theresa looked at the footlocker. At the kitchen. At the three faces turned toward her, waiting -- the same look her students got when an experiment went wrong and somebody needed to say what came next.
 
@@ -149,7 +149,7 @@ She left it empty.
 
 "Three things." The lecture voice. The voice that held a classroom of freshmen through organic chemistry at eight in the morning and never wavered. "First. You stop hunting us. Whatever you told your people, call it off. We're not your problem. Second. There's something out there wearing one of our people's faces. You know what I mean or you will soon. We need protection from it. Resources. People who can find it before it finds us. Third. We want to stay in Denver or leave safely. Our choice. Either way, we walk out alive and unmolested."
 
-Silence again. She could hear the Broadstreet behind him, bass and bodies and the rattle of ice in glasses nobody was drinking from.
+Silence again. She could hear [the Broadstreet](/locations/the-broadstreet/) behind him, bass and bodies and the rattle of ice in glasses nobody was drinking from.
 
 Then Edward laughed. Short, unforced, the genuine amusement of a man being shown a hand he'd already read.
 
