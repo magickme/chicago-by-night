@@ -5,7 +5,7 @@ layout: "page"
 slug: "clocks"
 ---
 
-*Chicago pressure board. Updated: **1991-03-08 (Friday). Current snapshot: Scene D066 "The Faculty Club" (Sable solo) closed ~00:30 AM Fri Mar 8 (faculty club meeting, Devon Avenue investigation, back to Kaspar haven). In-game date advances to Friday Mar 8 for next scene open. Campaign start: NYE 1989. Act II (Ashes and Blood): January 1991+. Baptism by Fire: NYE 1990.**. Session state is authoritative for all clock levels.*
+*Chicago pressure board. Updated: **1991-03-08 (Friday). Current snapshot: D067 "The Ride" (Darius POV, Tomás and Sable present), closed after Friday evening surveillance and the Ride. Exact close time unrecorded. Campaign start: NYE 1989. Act II (Ashes and Blood): January 1991+. Baptism by Fire: NYE 1990.**. Session state is authoritative for all clock levels.*
 
 
 

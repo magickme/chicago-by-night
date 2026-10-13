@@ -267,7 +267,7 @@ The accidental gift to Menele: Darius — bound to Menele subconsciously — has
 - Path of Entelechy worldwide (development in reserve)
 
 **Neutral / Contested:**
-- The coterie ([Darius](/darius-cole/), [Sable](/sable-price/), [Tomás](/tomas-navarro/)) — Darius blood-bonded Step 1 to Menele (D031) and Step 1 to Lodin (D056). Unwitting Menele proxies. The bond influences behavior subconsciously (D032: Brujah resonance). No PC is aware of the Methuselah war.
+- The coterie ([Darius](/darius-cole/), [Sable](/sable-price/), [Tomás](/tomas-navarro/)) — Darius blood-bonded Step 1 to Menele (D031) and Step 1 to Lodin (D056). Unwitting Menele proxies. The bond influences behavior subconsciously (D032: Brujah resonance). D067: Neally named Menele, and Darius connected him to the Hell’s Pasture body and the vial he drank. Darius now recognizes his blood connection; the wider Methuselah war remains unknown to the PCs.
 - [Sable Price](/sable-price/) — not directly bonded to Menele but linked through Darius; her investigation has served Black's interests throughout. Step 1 to Lodin (D056), Step 1 to [Allicia](/npcs/allicia/) (Act I).
 - [Tomás Navarro](/tomas-navarro/) (Tremere) — recruited by Khalid (T002) as off-books intelligence asset. Holds Portia identification + bond discrepancy data. Running parallel to both Pyramid and Methuselah networks. Step 1 to Lodin (D056).
 - Khalid (Nosferatu Primogen) — hidden; each side assumes the other controls him. Now actively recruiting independent assets (T002). Has verified Helena's bond operation on the Sheriff.

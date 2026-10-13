@@ -10,15 +10,15 @@ menu:
       icon: "dots"
 ---
 
-*Chicago Chronicles. Act II: Ashes and Blood. Updated: **1991-03-08 (Friday). Current snapshot: Scene D066 "The Faculty Club" (Sable solo) closed ~00:30 AM Fri Mar 8 (faculty club meeting, Devon Avenue investigation, back to Kaspar haven). In-game date advances to Friday Mar 8 for next scene open. Campaign start: NYE 1989. Act II (Ashes and Blood): January 1991+. Baptism by Fire: NYE 1990.**.*
+*Chicago Chronicles. Act II: Ashes and Blood. Updated: **1991-03-08 (Friday). Current snapshot: D067 "The Ride" (Darius POV, Tomás and Sable present), closed after Friday evening surveillance and the Ride. Exact close time unrecorded. Campaign start: NYE 1989. Act II (Ashes and Blood): January 1991+. Baptism by Fire: NYE 1990.**.*
 
 
 
 ## Coterie Snapshot
 
-- 1991-03-08 (Friday). Current snapshot: Scene D066 "The Faculty Club" (Sable solo) closed ~00:30 AM Fri Mar 8 (faculty club meeting, Devon Avenue investigation, back to Kaspar haven). In-game date advances to Friday Mar 8 for next scene open. Campaign start: NYE 1989. Act II (Ashes and Blood): January 1991+. Baptism by Fire: NYE 1990.
-- Scenes played: Darius 48, Sable 52, Tomás 10 (110 total + timeskip bluebook Aug-Nov + Dec timeskip). PCs met at Feb 2 Elysium. **COTERIE FORMED (S019, July 22).** **FORMAL COTERIE PACT (D047/S046).**
-- Scene-note inventory: Darius 41, Sable 45, Tomás 7 (93 total; S034/S035 are joint scenes with D035/D036; D041 is joint with Sable; S042/D043 joint; D046/S045 joint; D048 Tomás solo; D052 Tomás solo; D054 all three solo (joint but separate PoV); D057 joint all three; D063 joint all three; D064 Sable solo; D066 Sable solo; _transcripts queued for publish).
+- 1991-03-08 (Friday). Current snapshot: D067 "The Ride" (Darius POV, Tomás and Sable present), closed after Friday evening surveillance and the Ride. Exact close time unrecorded. Campaign start: NYE 1989. Act II (Ashes and Blood): January 1991+. Baptism by Fire: NYE 1990.
+- Scenes played: Darius 49, Sable 53, Tomás 11 (113 total + timeskip bluebook Aug-Nov + Dec timeskip). PCs met at Feb 2 Elysium. **COTERIE FORMED (S019, July 22).** **FORMAL COTERIE PACT (D047/S046).**
+- Scene-note inventory: Darius 42, Sable 45, Tomás 7 (94 total; S034/S035 are joint scenes with D035/D036; D041 is joint with Sable; S042/D043 joint; D046/S045 joint; D048 Tomás solo; D052 Tomás solo; D054 all three solo (joint but separate PoV); D057 joint all three; D063 joint all three; D064 Sable solo; D066 Sable solo; _transcripts queued for publish).
 - Sunset: 5:38 PM CST (Mar 6). Sunrise: 6:26 AM CST (Mar 6). Darkness: ~12h 48m (early March).
 - Communications: Shared haven (Kaspar & Sons) — coterie communicates face-to-face. Scheduled call nights deprecated. External contacts: Horace at The Cave (ask for Fred, "chess tournament"), Brennon at Succubus Club, Annabelle private line, Critias faculty club Thursdays 9 PM.
 
