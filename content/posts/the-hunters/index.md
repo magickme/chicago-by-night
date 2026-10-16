@@ -45,7 +45,7 @@ Tomás had not been there. Tomás had a syringe and a sterile cup. He drew three
 
 "I'll confirm," he said. "Stand back from the chalk circle. The pigment is animal blood. There may be a passive working bound to it."
 
-Darius and [Sable](/sable-price/) stepped back.
+[Darius](/darius-cole/) and [Sable](/sable-price/) stepped back.
 
 The Blood Walk took eleven minutes. Tomás worked without commentary, which was the Tremere way — a man writing in the margin of someone else's book, neat and small, paying full attention. When he was done he capped the cup and set it in a ziplock and labeled it in pencil.
 
@@ -59,7 +59,7 @@ He paused. Selected the next sentence carefully.
 
 "This is not the same as your tunnel scout."
 
-Sable said, "Two threats."
+[Sable](/sable-price/) said, "Two threats."
 
 "Two threats."
 
@@ -149,7 +149,7 @@ Darius watched them through the leaded glass at the front. They did not look bac
 
 He paid Settebello in cash. He drove Herdon home and parked the Buick a block from the bookshop and waited until the man was inside with the lights on before he pulled away. Sable rode with him. Tomás took the Crown Vic to the [Astor](/npcs/lady-astor/) chantry to write the cable.
 
-Darius called [Neally](/npcs/neally-edwards/) from the carphone at ten-thirty. Gave him the whole thing — names, addresses, the cell, the network, the three Kindred descriptions. Asked the Prince's office to issue warnings through the appropriate channels. Neally said *good work* in the flat way he said everything and ended the call without saying goodbye.
+Darius called [Neally](/npcs/neally-edwards/) from the carphone at ten-thirty. Gave him the whole thing — names, addresses, the cell, the network, the three Kindred descriptions. Asked the Prince's office to issue warnings through the appropriate channels. [Neally](/npcs/neally-edwards/) said *good work* in the flat way he said everything and ended the call without saying goodbye.
 
 The snow was heavier by then. Lake Shore Drive northbound, the city lit up to the right of the windshield, the Hancock Building blinking red at the top.
 

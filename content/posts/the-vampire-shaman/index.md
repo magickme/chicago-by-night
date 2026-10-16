@@ -34,7 +34,7 @@ The three teens fanned out. Containing, not attacking. The victim slid down the 
 
 Killi's one open eye found [Darius](/darius-cole/). He made a sound, *hmm*, confirming an estimate.
 
-Darius drew the .357 and pointed it at the lead teen's head. The kid did not move. Did not raise his hands. He looked at the gun, registered it, filed it.
+[Darius](/darius-cole/) drew the .357 and pointed it at the lead teen's head. The kid did not move. Did not raise his hands. He looked at the gun, registered it, filed it.
 
 "He said you'd do that too."
 
@@ -162,7 +162,7 @@ They hunted. Darius found a dealer on the West Side, phlegmatic, negligible resi
 
 "Better," [Keaton](/npcs/gordon-keaton/) said.
 
-Darius offered the boon. A contact name for [Brennon](/npcs/brennon-thornhill/)'s network, someone who could reach [Tomas Navarro](/tomas-navarro/), the Warlock at the Chantry. Keaton made the call, ran a thin cover story, and came back with a number on a cocktail napkin. Chicago exchange. Near North.
+Darius offered the boon. A contact name for [Brennon](/npcs/brennon-thornhill/)'s network, someone who could reach [Tomas Navarro](/tomas-navarro/), the Warlock at the Chantry. [Keaton](/npcs/gordon-keaton/) made the call, ran a thin cover story, and came back with a number on a cocktail napkin. Chicago exchange. Near North.
 
 "[Brennon](/npcs/brennon-thornhill/) didn't ask twice."
 
@@ -220,7 +220,7 @@ Crown Victoria, South Side, 3:50 AM. The Church of Christ was dark except for a 
 
 "I do."
 
-[Bordruff](/npcs/nathaniel-bordruff/) looked at the stone. At Tomas. Back at Darius. The calculation was visible, unhurried. A man who had been collecting obligations since 1926 and had never once been shortchanged.
+[Bordruff](/npcs/nathaniel-bordruff/) looked at the stone. At [Tomas](/npcs/tomas/). Back at Darius. The calculation was visible, unhurried. A man who had been collecting obligations since 1926 and had never once been shortchanged.
 
 "My question. The body your coterie moved out of Gary. The torpored one. Where is it now."
 
@@ -228,7 +228,7 @@ The cold off the lake had nothing to do with the feeling that went through Dariu
 
 "With [Lodin](/npcs/lodin/)."
 
-[Bordruff](/npcs/nathaniel-bordruff/) was still for three seconds. Then he held out his hand. Darius placed the stone in it. The cold transferred. Bordruff did not flinch. He closed his fingers, pocketed it.
+[Bordruff](/npcs/nathaniel-bordruff/) was still for three seconds. Then he held out his hand. Darius placed the stone in it. The cold transferred. [Bordruff](/npcs/nathaniel-bordruff/) did not flinch. He closed his fingers, pocketed it.
 
 "Foundation." He said it to himself, confirming something. He looked at Darius one more time. Not hostile. Not satisfied.
 

@@ -39,7 +39,7 @@ Flash crossed the floor. Behind him a bottle fell off a ledge and burst on the c
 
 The basement hit different. Strobe light turning everything into a sequence of still photographs -- bodies caught mid-motion, faces blanked white and then gone. The bass was a physical presence down here, something that lived in the sternum. Industrial floor, concrete walls, no windows. One exit: the stairs Flash had just come down.
 
-In the far corner, away from the speakers where two people could hear each other, [Tony](/npcs/tony/) sat in a folding chair. Jacket off. Sleeves rolled. Sitting very still, which was wrong for him -- Tony was a pacer, a shoulder-roller, a man who burned nervous energy the way Flash used to burn through cigarettes. The stillness said captive.
+In the far corner, away from the speakers where two people could hear each other, [Tony](/npcs/tony/) sat in a folding chair. Jacket off. Sleeves rolled. Sitting very still, which was wrong for him -- [Tony](/npcs/tony/) was a pacer, a shoulder-roller, a man who burned nervous energy the way Flash used to burn through cigarettes. The stillness said captive.
 
 Two figures flanked the chair. Standing the way the watchers upstairs stood.
 
@@ -49,13 +49,13 @@ Tony's voice came out thinned, the boredom of a man reciting terms he'd been tol
 
 Flash's eyes went to the stairs behind him. "Make what quick?"
 
-"You were not an experiment," Tony said. "You were a demonstration. [Prestor](/npcs/jacob-prestor/) could make Kindred with a needle. No sire. No Embrace. No Court permission. Edward burned that basement to kill the method, and the method is loose because it's in the five of you. He doesn't want your faces for the Masquerade. He wants the recipe." Tony's hands stayed flat on his thighs, pressed there. Held there. "And the dose in the black case is not a cure. I've watched [Prestor](/npcs/jacob-prestor/)'s kind chase that bottle for ninety years and never seen it save anyone."
+"You were not an experiment," Tony said. "You were a demonstration. [Prestor](/npcs/jacob-prestor/) could make Kindred with a needle. No sire. No Embrace. No Court permission. [Edward](/npcs/edward-williams/) burned that basement to kill the method, and the method is loose because it's in the five of you. He doesn't want your faces for the Masquerade. He wants the recipe." Tony's hands stayed flat on his thighs, pressed there. Held there. "And the dose in the black case is not a cure. I've watched [Prestor](/npcs/jacob-prestor/)'s kind chase that bottle for ninety years and never seen it save anyone."
 
 [Duke](/npcs/duke/) spoke for the first time. Flat, like a man reading a bill of sale. "He's done now."
 
 Flash put his back to the stairs. Motioned once behind him -- a signal Marcus would see and no one else would. "Who's done?"
 
-[Duke](/npcs/duke/) stepped off Tony's flank. The muscle -- [Earl](/npcs/earl/) -- slid wide to split the angle, opening the space between Flash and the two of them into a triangle with no good corner. Duke said, "You're done, Flash. Edward doesn't need five of you. He needs one to take apart and learn from. You're the one standing closest."
+[Duke](/npcs/duke/) stepped off Tony's flank. The muscle -- [Earl](/npcs/earl/) -- slid wide to split the angle, opening the space between Flash and the two of them into a triangle with no good corner. [Duke](/npcs/duke/) said, "You're done, Flash. Edward doesn't need five of you. He needs one to take apart and learn from. You're the one standing closest."
 
 Eight feet and closing.
 
@@ -75,7 +75,7 @@ Flash gave Marcus the look that meant *now*.
 
 Everything happened inside three seconds.
 
-Marcus drove the first stake into [Earl](/npcs/earl/)'s back. [Earl](/npcs/earl/) hadn't seen him, hadn't heard him, hadn't felt anything until the oak punched through his jacket and found ribs. Earl dropped to a knee, hand closing around the shaft where it entered below the shoulder blade. Not down. Hurt and not down, the wood lodged in muscle, not heart.
+Marcus drove the first stake into [Earl](/npcs/earl/)'s back. [Earl](/npcs/earl/) hadn't seen him, hadn't heard him, hadn't felt anything until the oak punched through his jacket and found ribs. [Earl](/npcs/earl/) dropped to a knee, hand closing around the shaft where it entered below the shoulder blade. Not down. Hurt and not down, the wood lodged in muscle, not heart.
 
 Flash moved. Blood burned in his legs and the room stretched -- Celerity pulling time like taffy, the strobe snapshots slowing until he could count the dust motes between each flash. He pulled the second stake from Marcus's belt. Pivoted. Drove it at Duke's chest.
 
@@ -121,7 +121,7 @@ Tony stopped walking. Turned.
 
 Flash stepped closer. "You don't get to do the mysterious walk-off. You called me to that basement. You owe me the rest."
 
-"[The Count](/npcs/the-count/) wasn't in the club," Tony said. "He reads -- that's his use to Edward. If he was anywhere tonight, he was beside Edward, telling Edward what your face meant. Edward already has more than a name. He has a temperature. A read." Tony's hands went into his jacket pockets, and the gesture was human enough to hurt. "The thing you haven't asked is why Edward burned a basement over a needle. Edward didn't invent that fear. He was told to be afraid. Someone older than Edward wants Prestor's method dead, and Edward is the hand."
+"[The Count](/npcs/the-count/) wasn't in the club," Tony said. "He reads -- that's his use to Edward. If he was anywhere tonight, he was beside Edward, telling Edward what your face meant. Edward already has more than a name. He has a temperature. A read." Tony's hands went into his jacket pockets, and the gesture was human enough to hurt. "The thing you haven't asked is why Edward burned a basement over a needle. Edward didn't invent that fear. He was told to be afraid. Someone older than Edward wants [Prestor](/npcs/jacob-prestor/)'s method dead, and Edward is the hand."
 
 "Whose hand?"
 

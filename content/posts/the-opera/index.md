@@ -37,11 +37,11 @@ The house lights dimmed. The overture began. Forty feet up and behind her, leath
 
 The leader caught [Darius](/darius-cole/) looking and grinned. Not threat. Delight.
 
-He leaned forward over the row between them. Close enough that Darius could smell him — gasoline, vitae, something rotten underneath the gasoline.
+He leaned forward over the row between them. Close enough that [Darius](/darius-cole/) could smell him — gasoline, vitae, something rotten underneath the gasoline.
 
 "Brothers and sisters. Look at you. Dressed up. Sitting pretty." A nod toward the upper tier without looking. "While that one watches you from up there like livestock." He folded his arms across the seat back. "We came for the party. You should too."
 
-The soprano was finding the first aria. Sable's elbow found Darius's wrist under the armrest. Two squeezes. Their signal for *wrong*. Darius's shoe found Tomás's ankle. The language of people who shared a haven.
+The soprano was finding the first aria. [Sable](/sable-price/)'s elbow found Darius's wrist under the armrest. Two squeezes. Their signal for *wrong*. Darius's shoe found Tomás's ankle. The language of people who shared a haven.
 
 Sable opened her senses. The row behind them came in sharp. Five dead. Two living. The three identical men shared one organism's scent — same blood, same sweat, same dead-cell decay smeared across three skulls. [Bach](/npcs/bach/)'s vitae read old and sour, road-fermented. The fifth Kindred at the end of the row read young and coiled tight, fear wrapped in discipline. The mortals stank of adrenaline and gun oil. The woman had something heavy under her coat. The lean man's hands were the wrong kind of still.
 
@@ -55,11 +55,11 @@ He folded three fingers into a fist for Darius. *Blood Brothers. One unit.*
 
 Sable looked up at [Critias](/npcs/critias/)'s box. She held the Methuselah's eye for two seconds — long enough to be deliberate, short enough to be respectful — and touched her ear, then her eye, then dropped her gaze back to the row behind them. *I hear it. I see it. Look.*
 
-Critias had been listening to the orchestra the way a man listens to a tradesman badly hammering a nail. Twenty-six centuries of survival had taught him to notice when neonates he had invested in began signaling. His eyes moved to the row behind the coterie. The ghouls beside him shifted — not obviously, not for anyone who wasn't watching, but the line of their bodies turned from the stage to the house. Critias's hand came up to rest along his jaw, index finger laid against his cheek. He held Sable's gaze for one second. Then he looked back at Babylon.
+[Critias](/npcs/critias/) had been listening to the orchestra the way a man listens to a tradesman badly hammering a nail. Twenty-six centuries of survival had taught him to notice when neonates he had invested in began signaling. His eyes moved to the row behind the coterie. The ghouls beside him shifted — not obviously, not for anyone who wasn't watching, but the line of their bodies turned from the stage to the house. Critias's hand came up to rest along his jaw, index finger laid against his cheek. He held Sable's gaze for one second. Then he looked back at Babylon.
 
 He had seen them. He was thinking. He had not yet moved.
 
-[Bach](/npcs/bach/) was drumming his fingers on his knee in time with the orchestra. Darius turned in his seat — slow rotation, the same precise motion as before, only now it ended with him locking eyes across two rows of empty velvet — and reached for the will behind Bach's grin and pushed. *You don't want to do this. Not here.*
+[Bach](/npcs/bach/) was drumming his fingers on his knee in time with the orchestra. Darius turned in his seat — slow rotation, the same precise motion as before, only now it ended with him locking eyes across two rows of empty velvet — and reached for the will behind [Bach](/npcs/bach/)'s grin and pushed. *You don't want to do this. Not here.*
 
 Bach's pupils contracted. He felt it. He knew what it was. And his jaw set and the Mesmerize slid off him like rain off leather.
 
@@ -89,7 +89,7 @@ The soprano cut off mid-note and stared. Bach's pack came down the aisle and beg
 
 Critias descended from his box. His two ghouls fell in behind him. He moved down the center aisle toward Bach the way an ocean moves toward a coast.
 
-Neally and Emily slipped out the east-side door with the rest of the crowd. Emily looked back once. Her eyes found Sable, held for one beat, and disappeared into the corridor. Filed.
+[Neally](/npcs/neally-edwards/) and Emily slipped out the east-side door with the rest of the crowd. Emily looked back once. Her eyes found Sable, held for one beat, and disappeared into the corridor. Filed.
 
 Critias stopped ten feet from Bach. His voice filled the hall without effort. Twenty-six centuries compressed into measured English.
 
@@ -173,7 +173,7 @@ He crouched in the dust. Twenty-four years dry.
 
 "Who are you?" Darius asked.
 
-Jefferson looked at him. Then at Critias. Then at the hole in the wall where he had spent the last two and a half decades conscious, staked, unable to move, unable to sleep, unable to die.
+[Jefferson](/npcs/jefferson-foster/) looked at him. Then at Critias. Then at the hole in the wall where he had spent the last two and a half decades conscious, staked, unable to move, unable to sleep, unable to die.
 
 "Nobody important. Who put me here doesn't matter. Not to you." His eyes catalogued the exits the way a man counts his money. "The police are coming."
 
@@ -277,7 +277,7 @@ Tomás broke the silence first.
 
 "You killed him," Darius said.
 
-Tomás stopped. His hand had been in his pocket on the Guadalupe and he took it out.
+Tomás stopped. His hand had been in his pocket on the [Guadalupe](/npcs/guadalupe-droin/) and he took it out.
 
 "He was dead when I stopped."
 

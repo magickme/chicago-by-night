@@ -237,6 +237,18 @@ The accidental gift to Menele: Darius — bound to Menele subconsciously — has
 
 **Campaign evidence:** D060 — Becky delivered to Lodin's man on the 41st floor of the Prudential Building. Darius dismissed without information. Conscience check failed. Humanity 7 → 6. Blood Bond (WW2101) Scene 4 complete. The published-adventure framework routed the decision through Lodin by design; Darius could have hidden Becky, sought [Erichtho](/npcs/erichtho/) or [Carna](/npcs/carna/), or run her north. He made the institutional choice. Menele's bond does not require Darius to disobey Lodin — it requires Darius to remain useful to Lodin. Both Methuselahs benefit from this move. Helena gains material; Menele gains position.
 
+### 39... Nf3+!? — The name reaches the Pyramid (D068: The Hearing at the Grave, Mar 8, 1991)
+
+Neally Edwards, bonded to Jefferson and hunted by his own sire, paid Darius with a name he cannot account for. Under Nicolai's questioning he says only that he learned it "where I was told to" and does not remember who told him. Someone wanted that name carried, and the carrier was a leashed piece of White's.
+
+Tomás, true to the Pyramid, hands it upward. Nicolai tastes Darius's wrist, finds an elder blood under the Ventrue, recognizes the same trace running constant in Lodin's veins, and connects it to the body the coterie carried out of Hell's Pasture. That night he writes to the Pontifex Maximus in Vienna under red wax. **For the first time since the body reached Chicago, a power outside both Methuselahs' networks knows that a Methuselah lies in a Camarilla prince's keeping and that the Prince is drinking from him.** The check is real: a king that has stayed hidden by being unknown is now named in a Tremere ledger and a letter to the Council.
+
+Whose move it is remains unclear, which is why the annotation carries both marks. If Black placed the name through Jefferson's wild piece, Menele is forcing White's queen into the open, where Lodin's secret becomes everyone's problem. If the name was loosed by someone else, Black's king has just been exposed. Nicolai sealed a second letter that night in black wax with no direction on it, and by dawn a mortal courier had delivered a black-wax envelope to him at the Chantry. Neither has been opened on the board.
+
+Side effects: Neally himself passes off the board to the third player, delivered to Bach's pack for the Creation Rite under a deal that sends him back to Nicolai's chamber for the first hour after. Lodin's own security tried to take him first, and Lodin recalled the Sheriff's people to hunt for him. An Archon has been dispatched by a Justicar. Darius, Menele's pawn, lost a point of Humanity on a Kedzie porch and holds a Colorado legend that Jefferson wants.
+
+**Campaign evidence:** D068 — Blood Bond (WW2101) Scene 6 in progress. Nicolai's taste and Vienna letter; Neally's "I don't remember who told me"; black-wax letter and envelope. Masquerade Heat 6/6 (Archon). Dane 6/6. Darius H5. Tracker DL-9 to DL-16.
+
 ---
 
 ## The Position After 39 Moves

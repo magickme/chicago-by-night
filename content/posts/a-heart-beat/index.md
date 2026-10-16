@@ -35,7 +35,7 @@ Serum #1, "Georges/L. Pasteur," was the donor blood. The source. Old vitae in a 
 
 Anti-Body #1. [Liverman](/npcs/dr-roger-liverman/)'s pencil note, pressed hard enough to tear the paper: *All cultures non-viable within 40 seconds of reversion.* She translated it. It turns you human. Then it kills you. Forty seconds between the two.
 
-Anti-Body #2. The one Prestor believed was the cure. Liverman was more cautious. *Estimate: 30-40% survival at current potency.* And then, underlined twice in pencil that had nearly snapped: *Prestor never recorded a successful full reversion. All test subjects lost to follow-up.*
+Anti-Body #2. The one [Prestor](/npcs/jacob-prestor/) believed was the cure. [Liverman](/npcs/dr-roger-liverman/) was more cautious. *Estimate: 30-40% survival at current potency.* And then, underlined twice in pencil that had nearly snapped: *Prestor never recorded a successful full reversion. All test subjects lost to follow-up.*
 
 Lost to follow-up. The clinical euphemism for: he never checked. He assumed they walked away human because he needed to believe the work was finished, and he never drove back to see if the lights were still on.
 
@@ -69,11 +69,11 @@ The inventory was short. [Tony](/npcs/tony/), seven hundred sixty years old, who
 
 Marcus leaned against the counter. "[Tony](/npcs/tony/) said there are others. Older ones. Ones who actually know what this is."
 
-Emerson spoke from the window without turning. His reflection was a gray shape in the glass. "Tony also said [Edward](/npcs/edward-williams/) answers to someone older. Someone who wanted Prestor's method destroyed." He paused. Swallowed. "We hand this to the wrong person, we become the next thing that gets burned."
+Emerson spoke from the window without turning. His reflection was a gray shape in the glass. "[Tony](/npcs/tony/) also said [Edward](/npcs/edward-williams/) answers to someone older. Someone who wanted Prestor's method destroyed." He paused. Swallowed. "We hand this to the wrong person, we become the next thing that gets burned."
 
 Theresa looked at the footlocker. At the kitchen. At the three faces turned toward her, waiting -- the same look her students got when an experiment went wrong and somebody needed to say what came next.
 
-"Edward," she said. "We give it to Edward. We tell him it's his, we don't care, burn it. We're giving him what he wanted. And in exchange, he stops hunting us. He deals with the thing wearing Flash's face. And he lets us stay or lets us leave."
+"[Edward](/npcs/edward-williams/)," she said. "We give it to Edward. We tell him it's his, we don't care, burn it. We're giving him what he wanted. And in exchange, he stops hunting us. He deals with the thing wearing Flash's face. And he lets us stay or lets us leave."
 
 Monica stood. "You want to walk into the court of the man who's hunting us and hand him everything."
 

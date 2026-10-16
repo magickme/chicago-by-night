@@ -19,7 +19,7 @@ Three men in the far corner argued Aristotle with the persistence of people who 
 
 [Critias](/npcs/critias/) had changed his face since January. Greyer at the temples, a cardigan with real wear at the elbows, reading glasses pushed up into hair that wasn't his and hadn't been for a long time. One book in front of him, the spine broken from use rather than display. He looked up before the door finished closing.
 
-"Sable." He shut the book without marking his place. "Sit. Milwaukee agreed with you — or disagreed with you, and you won."
+"[Sable](/sable-price/)." He shut the book without marking his place. "Sit. Milwaukee agreed with you — or disagreed with you, and you won."
 
 She sat. The leather had gone the color of weak tea, and the seat held no warmth, which meant he'd been standing when she came in and had arranged himself in the interval.
 
@@ -49,11 +49,11 @@ His voice didn't change register, only subject.
 
 She had decided in the car to give him the ugly answer whole. The only thing more expensive than a bad report is a bad report delivered in installments.
 
-"Everything I have is nothing," she said. "Bach's pack hasn't shown since the Opera fight. No location, no chatter, nothing on the street that isn't three weeks stale." She held his eyes. "And before you decide that's a disappointing report. The Sabbat isn't a chip either of us gets to play politics with. Not yours, not Lodin's. If Bach finds his pack before we do, it won't ask whose Primogen we answer to."
+"Everything I have is nothing," she said. "[Bach](/npcs/bach/)'s pack hasn't shown since the Opera fight. No location, no chatter, nothing on the street that isn't three weeks stale." She held his eyes. "And before you decide that's a disappointing report. The Sabbat isn't a chip either of us gets to play politics with. Not yours, not [Lodin](/npcs/lodin/)'s. If Bach finds his pack before we do, it won't ask whose Primogen we answer to."
 
 The fire dropped a coal. In the corner, one of the Aristotelians said something about the *Nicomachean* that made the other two groan.
 
-"No," Critias said. "It won't. You're right that it isn't a game. You're wrong that I ever treated it as one. Lodin wants a location because a location is something he can act on. I want the same for a better reason. Four childer scattered in this city is a wound, and wounds that go unlocated fester." He studied her with the same conservator's eye. "You came here ready to be lectured for failing to find them. I find that more useful than the failure. It means you understand the stakes."
+"No," [Critias](/npcs/critias/) said. "It won't. You're right that it isn't a game. You're wrong that I ever treated it as one. Lodin wants a location because a location is something he can act on. I want the same for a better reason. Four childer scattered in this city is a wound, and wounds that go unlocated fester." He studied her with the same conservator's eye. "You came here ready to be lectured for failing to find them. I find that more useful than the failure. It means you understand the stakes."
 
 He produced an index card from inside the cardigan and slid it across. It had been folded and unfolded more than once, and the crease had gone soft.
 
@@ -83,7 +83,7 @@ She crossed. The pavement was gritty with salt thrown down in January and never 
 
 Because there was a rhythm. Back against brick that held no heat at all, she could hear a woman's voice through the gap, not English, not praying in any register she'd heard in a church. It repeated. That was the whole of its character. It repeated, and the repetitions were getting shorter. Through the three inches: candlelight, not electric, long shapes thrown up shelves of jarred things she declined to resolve. Then the woman's heartbeat came up, not the scatter of fear but the steady climb of effort, someone nearing the top of a staircase she'd climbed a hundred times.
 
-Headlights swung wide at the alley's far end and cut. Darius's sedan, parked short. Two doors. Tomás got out stiffer than he'd moved a month ago, blood bags doing their thin work and no more, a slowness in his shoulders that had nothing to do with the cold.
+Headlights swung wide at the alley's far end and cut. [Darius](/darius-cole/)'s sedan, parked short. Two doors. Tomás got out stiffer than he'd moved a month ago, blood bags doing their thin work and no more, a slowness in his shoulders that had nothing to do with the cold.
 
 Darius reached her first and read the alley, the propped door, and her posture in a second and a half.
 
@@ -195,7 +195,7 @@ He looked up at Tomás over his own hand, resting on the cane.
 
 "[Nicolai](/npcs/nicolai/) tells me you found this and had the sense not to touch it. Consistent with the report authority you insisted upon in February. Tell me what you have, in full, and I will tell you what it means. That was the arrangement, I understand."
 
-Tomás laid it out clean. The ledger, the razor, the compressing schedule, *return east*, the roster with the Chorus in it. DuSable listened without once interrupting. His stillness had none of Ilsa's arithmetic in it. It was the attention of a man who had spent a mortal lifetime in courtrooms learning that an interruption always costs more than it buys.
+Tomás laid it out clean. The ledger, the razor, the compressing schedule, *return east*, the roster with the Chorus in it. [DuSable](/npcs/abraham-dusable/) listened without once interrupting. His stillness had none of Ilsa's arithmetic in it. It was the attention of a man who had spent a mortal lifetime in courtrooms learning that an interruption always costs more than it buys.
 
 "The ward first," he said, "since it's the part that will still be true after the woman stops being useful to anyone." He crouched lower. "Persistent Occlusion does not hide a place. It hides a presence. Something that would otherwise be sensed by precisely the means your Toreador used at that door an hour ago." He glanced at the bagged razor. "Blood payment scaling this way is not uncommon in older work adjacent to my own clan's craft, which tells you the antitribu who built it understood the discipline properly, whatever else they have become since."
 

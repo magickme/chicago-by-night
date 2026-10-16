@@ -25,7 +25,7 @@ The [Succubus Club](/locations/succubus-club/) on a Thursday. Not the weekend cr
 
 "Mr. [Thornhill](/npcs/brennon-thornhill/)."
 
-That was the entire exchange. Brennon went back down the hallway. The corner table sat empty in a club that was four deep at the bar, and that was the whole performance: *I see you. Sit if you want. Don't if you don't.*
+That was the entire exchange. [Brennon](/npcs/brennon-thornhill/) went back down the hallway. The corner table sat empty in a club that was four deep at the bar, and that was the whole performance: *I see you. Sit if you want. Don't if you don't.*
 
 [Darius](/darius-cole/) didn't sit. He came up the spiral stair to the balcony and put his back to the rail and read the room.
 
@@ -69,7 +69,7 @@ She was already moving.
 
 She crossed the balcony to the stair and came down it in the long-legged way she had that read as glamour from any angle and was, just now, a feeding approach. By the time she reached the floor she had her hand on the woman's elbow and was making eye contact with [Neally](/npcs/neally-edwards/) and the eye contact was working harder than the touch was.
 
-"Neally."
+"[Neally](/npcs/neally-edwards/)."
 
 He looked at her. Recognition surfaced under something else. Whatever had pulled him out of the chair had its own gravity. [Sable](/sable-price/) was inside it, registering, but small.
 
@@ -79,7 +79,7 @@ He looked at her. Recognition surfaced under something else. Whatever had pulled
 
 The word was clean. No pretense. She held his eyes and let him understand what she was asking.
 
-For one second Darius watched the man he had met in November try to come back up through the man [Jefferson](/npcs/jefferson-foster/) had built. Something flickered. Gratitude or the memory of it. The neonate who had impersonated a prince in the dark at the [Field Museum](/locations/field-museum/) knew he was looking at the only person in the room offering him an exit, and he wanted to take it. Darius saw it in the way his eyes softened. Saw it in the half-tilt of his head toward [Emily](/npcs/emily-carter/), who had not moved from her table, who was watching with the focused patience of a person whose only job was to keep one specific outcome on rails.
+For one second [Darius](/darius-cole/) watched the man he had met in November try to come back up through the man [Jefferson](/npcs/jefferson-foster/) had built. Something flickered. Gratitude or the memory of it. The neonate who had impersonated a prince in the dark at the [Field Museum](/locations/field-museum/) knew he was looking at the only person in the room offering him an exit, and he wanted to take it. Darius saw it in the way his eyes softened. Saw it in the half-tilt of his head toward [Emily](/npcs/emily-carter/), who had not moved from her table, who was watching with the focused patience of a person whose only job was to keep one specific outcome on rails.
 
 Neally turned back to the woman.
 
@@ -87,7 +87,7 @@ Neally turned back to the woman.
 
 She stepped closer.
 
-He fed in thirty seconds. Controlled. Surgical. The technique of a man who had been doing this nightly under direction and had gotten precise about the geometry of it: hand at the small of the back, mouth at the throat above the collarbone, the woman's knees folding into the support of his other arm so cleanly it almost looked like a dip in the choreography on the platform above them. Sable stood three feet away with her hand still on the woman's elbow and her face went through four expressions in five seconds and settled on the one she used when she had decided to clean up after something instead of stopping it.
+He fed in thirty seconds. Controlled. Surgical. The technique of a man who had been doing this nightly under direction and had gotten precise about the geometry of it: hand at the small of the back, mouth at the throat above the collarbone, the woman's knees folding into the support of his other arm so cleanly it almost looked like a dip in the choreography on the platform above them. [Sable](/sable-price/) stood three feet away with her hand still on the woman's elbow and her face went through four expressions in five seconds and settled on the one she used when she had decided to clean up after something instead of stopping it.
 
 Three mortals within line of sight stopped moving.
 

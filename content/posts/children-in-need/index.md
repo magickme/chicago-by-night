@@ -135,7 +135,7 @@ His left hand gripped the cot rail. The knuckles were white. There was a tremor 
 
 He did not want to be there. He was there anyway.
 
-Darius watched him for the length of two breaths he did not need to take. Then he pulled back from the window. Down the fire escape. Same edges. Same silence.
+[Darius](/darius-cole/) watched him for the length of two breaths he did not need to take. Then he pulled back from the window. Down the fire escape. Same edges. Same silence.
 
 ---
 
@@ -147,7 +147,7 @@ She fell in beside him without asking.
 
 The payphone was four blocks north on Halsted. Steel cord, glass three-walled, gum across the coin slot. He set her three feet away and put his back to her so she couldn't read the dial. She watched the street.
 
-He had the number. It was routed through Neally's office. The night secretary was a ghoul whose voice he had heard twice before. The ghoul did not argue.
+He had the number. It was routed through [Neally](/npcs/neally-edwards/)'s office. The night secretary was a ghoul whose voice he had heard twice before. The ghoul did not argue.
 
 Two minutes on hold. Then [Lodin](/npcs/lodin/).
 

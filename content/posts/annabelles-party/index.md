@@ -99,7 +99,7 @@ She told him everything. [Annabelle](/npcs/annabelle-triabell/), the private num
 
 "Good work tonight," [Darius](/darius-cole/) said. He meant it.
 
-Rain on the awning. The war on television. Two phone numbers in her pocket and the taste of thirty predators still in her teeth. Annabelle's left hand closing. [Lodin](/npcs/lodin/)'s cracked authority. [Sharon](/npcs/sharon-payne/) eight feet away in cold perfume.
+Rain on the awning. The war on television. Two phone numbers in her pocket and the taste of thirty predators still in her teeth. [Annabelle](/npcs/annabelle-triabell/)'s left hand closing. [Lodin](/npcs/lodin/)'s cracked authority. [Sharon](/npcs/sharon-payne/) eight feet away in cold perfume.
 
 She didn't get made. She got *made*. Chicago knew her name now.
 

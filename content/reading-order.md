@@ -320,7 +320,8 @@ Published scenes from **Chicago Chronicles** in chronological order.
 
 | # | Scene | PC | Date |
 |---|---|---|---|
-| 106 | [The Ride](/posts/the-ride/) | Darius | Mar 8, 1991, 5:48 PM |
+| 106 | [The Hearing at the Grave](/posts/the-hearing-at-the-grave/) | Darius | Mar 8, 1991, 5:48 PM |
+| 107 | [The Ride](/posts/the-ride/) | Darius | Mar 8, 1991, 5:48 PM |
 
 ---
 

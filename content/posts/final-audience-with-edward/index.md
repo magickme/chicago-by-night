@@ -97,7 +97,7 @@ A man walked into the Ship Tavern from the lobby entrance. Tall, lean, dark hair
 
 [Edward Williams](/npcs/edward-williams/).
 
-He was alone. No [Duke](/npcs/duke/), no [Earl](/npcs/earl/) -- they were staked in a basement across town. No [Count](/npcs/the-count/) visible. Just Edward, walking into a hotel bar on a Sunday night like he owned the building. He might.
+He was alone. No [Duke](/npcs/duke/), no [Earl](/npcs/earl/) -- they were staked in a basement across town. No [Count](/npcs/the-count/) visible. Just [Edward](/npcs/edward-williams/), walking into a hotel bar on a Sunday night like he owned the building. He might.
 
 He didn't scan the room. He looked directly at the booth and came straight over.
 
@@ -139,7 +139,7 @@ Monica set both hands flat on the table.
 
 She looked at Theresa.
 
-"Diablerie," Theresa said. The chemistry-teacher register, level and precise. "Flash tried to consume [Klondike](/npcs/robert-klondike/). Klondike's will was stronger. Flash is gone. Klondike is walking around in Flash's body with everything Flash knew. Our names. Our faces. Where we sleep."
+"Diablerie," Theresa said. The chemistry-teacher register, level and precise. "Flash tried to consume [Klondike](/npcs/robert-klondike/). [Klondike](/npcs/robert-klondike/)'s will was stronger. Flash is gone. Klondike is walking around in Flash's body with everything Flash knew. Our names. Our faces. Where we sleep."
 
 Edward had not moved. His expression had not changed. The particular stillness of someone recalculating.
 
@@ -165,7 +165,7 @@ Edward's jaw tightened a fraction at [Tony](/npcs/tony/)'s name.
 
 She looked at the footlocker. Marcus shifted his knee to give it room.
 
-"We have all of it. Prestor's journals -- a century of his work, in French. [Liverman](/npcs/dr-roger-liverman/)'s stolen notes and his preliminary analysis. The serum vials. Every strain. The clan-specific vectors, the powders, the base vitae."
+"We have all of it. [Prestor](/npcs/jacob-prestor/)'s journals -- a century of his work, in French. [Liverman](/npcs/dr-roger-liverman/)'s stolen notes and his preliminary analysis. The serum vials. Every strain. The clan-specific vectors, the powders, the base vitae."
 
 She paused. Because she was about to tell an eight-hundred-year-old vampire what the most dangerous thing in his city actually did.
 
@@ -187,7 +187,7 @@ Edward's fingers drummed once on the table -- index, middle, ring, pinky -- and 
 
 Marcus reached down and pulled the footlocker out. Set it on the booth seat between him and Emerson. Theresa leaned across and unlatched it.
 
-The padded interior. Prestor's leather-bound journals -- cracked spines, faded ink. Liverman's manila folder, tabbed and annotated. The analysis sheets in Theresa's handwriting. And the vials, nestled in foam cutouts from the original cold-storage case. Labeled in Prestor's hand.
+The padded interior. Prestor's leather-bound journals -- cracked spines, faded ink. [Liverman](/npcs/dr-roger-liverman/)'s manila folder, tabbed and annotated. The analysis sheets in Theresa's handwriting. And the vials, nestled in foam cutouts from the original cold-storage case. Labeled in Prestor's hand.
 
 Theresa lifted the analysis folder and set it on the table in front of Edward, open to her summary page.
 
@@ -253,7 +253,7 @@ Then something happened in his face. Not a smile. The ghost of one. The expressi
 
 He leaned back in the chair.
 
-"You will present yourselves at the Broadstreet. Tomorrow night. Not as Prestor's mistakes -- as new arrivals to Denver who have come to pay their respects to the Prince. I will accept your presentation. My court will see that I am welcoming four neonates, not hunting them. The vendetta becomes generosity. The embarrassment becomes patronage."
+"You will present yourselves at [the Broadstreet](/locations/the-broadstreet/). Tomorrow night. Not as Prestor's mistakes -- as new arrivals to Denver who have come to pay their respects to the Prince. I will accept your presentation. My court will see that I am welcoming four neonates, not hunting them. The vendetta becomes generosity. The embarrassment becomes patronage."
 
 He looked at the footlocker.
 
@@ -277,7 +277,7 @@ He reached into his jacket -- slowly, deliberately -- and produced a silver flas
 
 The flask sat on the table. Silver, unadorned, the size of a man's palm. Whatever was inside it was not bourbon.
 
-Tony had warned them. The cohort knew what one drink meant. One drink from an elder's vein -- not compulsion, not servitude, but the first notch cut into a lock you couldn't see. A warmth. A sense that the man across the table was trustworthy, reasonable, someone whose approval mattered slightly more than it should. The beginning of a leash measured in biology rather than law.
+[Tony](/npcs/tony/) had warned them. The cohort knew what one drink meant. One drink from an elder's vein -- not compulsion, not servitude, but the first notch cut into a lock you couldn't see. A warmth. A sense that the man across the table was trustworthy, reasonable, someone whose approval mattered slightly more than it should. The beginning of a leash measured in biology rather than law.
 
 Edward watched them with eight hundred years of patience.
 
@@ -319,7 +319,7 @@ He turned back, as if something had just occurred to him. It hadn't. He'd been h
 
 Four blank faces. Monica looked at Theresa. Marcus looked at Monica. Emerson looked at nobody.
 
-"Prestor's house," Edward said. "The night of the fire. Duke entered through a window on the second floor. Someone saw him -- a short man, blond, unkempt. Darted out of the room before Duke could identify him. It was not Prestor. Duke assumed it was one of you."
+"Prestor's house," Edward said. "The night of the fire. [Duke](/npcs/duke/) entered through a window on the second floor. Someone saw him -- a short man, blond, unkempt. Darted out of the room before Duke could identify him. It was not Prestor. Duke assumed it was one of you."
 
 Nobody at the table had any idea what he was talking about. They had been unconscious in the basement.
 

@@ -17,7 +17,7 @@ The woman on the side street off Twenty-First wore a coat with a fur collar that
 
 "What kinda party you having, baby?"
 
-That was all it took. It usually was. She came toward the voice and Sable let her get close enough to show the missing button, the cracked place on her lower lip, the pupils gone wide and fixed and busy, then took her elbow, gentle, a hand steadying a friend who'd had one too many, and walked her back toward the loading bay of the tortilla plant where the light gave out.
+That was all it took. It usually was. She came toward the voice and [Sable](/sable-price/) let her get close enough to show the missing button, the cracked place on her lower lip, the pupils gone wide and fixed and busy, then took her elbow, gentle, a hand steadying a friend who'd had one too many, and walked her back toward the loading bay of the tortilla plant where the light gave out.
 
 What [Sable](/sable-price/) failed to account for on this night and no other, because her head was in Gary in a music room with a south-facing window doing arithmetic on a woman's escape, was the crack.
 
@@ -57,7 +57,7 @@ The [Modius](/npcs/modius/) mansion sat in the part of Gary where the houses sti
 
 [Allicia](/npcs/allicia/) had been packed for weeks.
 
-That was the first thing, and it undid something in Sable's chest she hadn't known was still tied. Dark wool coat over a house dress. Low heels, not the Italian things Modius bought her. Walking shoes. A leather clutch with the corners gone soft from handling. Her hair was shorter at the nape than at Miller Beach, cut close along the jaw by somebody who knew what they were doing, which meant it had been planned, paid for, and explained away.
+That was the first thing, and it undid something in Sable's chest she hadn't known was still tied. Dark wool coat over a house dress. Low heels, not the Italian things [Modius](/npcs/modius/) bought her. Walking shoes. A leather clutch with the corners gone soft from handling. Her hair was shorter at the nape than at Miller Beach, cut close along the jaw by somebody who knew what they were doing, which meant it had been planned, paid for, and explained away.
 
 "You came." Her voice was low and unused, an instrument out of its case. "He's at the foundry. Internal Audit night — he won't be back until two. [Lucian](/npcs/lucian/) is at the docks. I have until one if we go now. Where are we going."
 
@@ -67,7 +67,7 @@ Not *are we going.* She'd asked the only question left.
 
 [Allicia](/npcs/allicia/) put a leg over the sill and stepped down onto the frozen grass without a sound. She didn't look back at the house. Not at the window, not at the porch light, not at fifty-two years of piano in a room with good acoustics. She straightened her coat and walked.
 
-The Cutlass waited at the alley mouth. Allicia saw the car. Saw the shape behind the wheel.
+The Cutlass waited at the alley mouth. [Allicia](/npcs/allicia/) saw the car. Saw the shape behind the wheel.
 
 "Who else knows?"
 
@@ -87,7 +87,7 @@ She reached back and touched the line of it behind the ear where the barber had 
 
 Sable held the look one beat past comfortable, then turned back to the windshield and the lane markers coming on.
 
-"Chicago's been educational." A laugh, low in the throat. "There's a bass player at a club on Forty-Seventh who does things to a room. And a woman at the Succubus Club who collects people and keeps them in a closet. I've been busy."
+"Chicago's been educational." A laugh, low in the throat. "There's a bass player at a club on Forty-Seventh who does things to a room. And a woman at the [Succubus Club](/locations/succubus-club/) who collects people and keeps them in a closet. I've been busy."
 
 She didn't say Claudine. She didn't say [Annabelle](/npcs/annabelle-triabell/). She left the outlines open and let the dark in the back seat fill them in with bodies and heat and beds that weren't this one.
 
@@ -101,7 +101,7 @@ Her hand came up over Sable's, pressed it down, and kept it there.
 
 At some point Sable was in the back seat. She doesn't remember opening a door. The Pusher stayed quiet that whole hour, and this time the silence was the other kind, the kind where the thing inside you sits back because it has nothing to correct.
 
-Darius reached up and turned the mirror toward the ceiling.
+[Darius](/darius-cole/) reached up and turned the mirror toward the ceiling.
 
 They crossed into Milwaukee County at 12:15 and Allicia hadn't moved her hand.
 
@@ -147,7 +147,7 @@ Something moved in the small woman's face and got put away again.
 
 Allicia sat on the edge of the bed with the clutch in her lap and her knees together, and the two of them — one standing, one seated — did something to the air that had nothing to do with Sable at all.
 
-"Erichtho's girl. The Toreador from Gary." [Carna](/npcs/carna/) crossed to the desk and turned a notebook face-down. "You used the Denver phrase. That word is a key, not a conversation starter. So. What are you bringing me?"
+"[Erichtho](/npcs/erichtho/)'s girl. The Toreador from Gary." [Carna](/npcs/carna/) crossed to the desk and turned a notebook face-down. "You used the Denver phrase. That word is a key, not a conversation starter. So. What are you bringing me?"
 
 "I love this woman. I want her freed of her bond to Modius. In return, I'll tell you everything you'd like to know about how Harry Houdini broke the Pyramid's bond last month in Chicago."
 
@@ -163,7 +163,7 @@ She looked at Sable.
 
 Green characters scrolled on the laptop. Twelve floors down, an elevator chimed for nobody.
 
-"Sit down," Carna said.
+"Sit down," [Carna](/npcs/carna/) said.
 
 Sable took the desk chair. Carna crossed to the bed and stood in front of Allicia, close enough that the hem of the bathrobe touched her knees.
 
@@ -191,7 +191,7 @@ So Sable told it. The Succubus Club in February. Orloff's blood dolls coming acr
 
 Then the interrogation. Embraced 1926. Bonded to the Vienna Council inside a week of waking. Contacted in New York by men who didn't identify themselves and who turned out later to be Sabbat, '26 or '27, he was never sure. They had a process, a ritual, partial, something they'd plainly got hold of rather than invented. Four years of sessions, painful and disorienting, and he never once understood what was being done to him. By 1930 the bond was gone. He faked a death that made the papers and lived sixty free years on the far side of it.
 
-"He said the Sabbat had strings in him he hadn't found yet," Sable said. "He didn't know what they wanted from him long-term. He only knew the bond was gone and he'd rather owe them than owe Vienna. The Tremere in my coterie staked him and handed him to your people in Chicago. Nicolai's jurisdiction. He's in chantry custody now, whatever's left of him." A second. "Four years of it and he still couldn't tell you the mechanism. You're already past him. You know what you're looking at. He never did."
+"He said the Sabbat had strings in him he hadn't found yet," Sable said. "He didn't know what they wanted from him long-term. He only knew the bond was gone and he'd rather owe them than owe Vienna. The Tremere in my coterie staked him and handed him to your people in Chicago. [Nicolai](/npcs/nicolai/)'s jurisdiction. He's in chantry custody now, whatever's left of him." A second. "Four years of it and he still couldn't tell you the mechanism. You're already past him. You know what you're looking at. He never did."
 
 Carna had picked a pen up off the desk and was turning it over her knuckles, eyes on the carpet, somewhere in 1927 walking around a problem.
 

@@ -25,7 +25,7 @@ The checkpoint at 18th announced itself two blocks early — light on the unders
 
 [Darius](/darius-cole/) turned onto Loomis before the light caught him. Helicopter south of 26th, working the Stevenson viaduct with a searchlight, patient about it, going over the same hundred yards twice.
 
-The first one was on Cermak east of Racine. A man in a puffy jacket, mid-twenties, walking fast with his head down and a plastic takeout bag swinging at his knee. Darius knew the restaurant on the bag. It had closed in September. So the bag was reused, which meant the man was carrying something that wasn't food and wanted it to look like food, at three in the morning, in a corridor full of police.
+The first one was on Cermak east of Racine. A man in a puffy jacket, mid-twenties, walking fast with his head down and a plastic takeout bag swinging at his knee. [Darius](/darius-cole/) knew the restaurant on the bag. It had closed in September. So the bag was reused, which meant the man was carrying something that wasn't food and wanted it to look like food, at three in the morning, in a corridor full of police.
 
 Darius slowed to twenty. Read the walk, the shoulders, the set of the jaw under the hood.
 
@@ -101,7 +101,7 @@ Tomás came to the office threshold downstairs and stopped there, and then he wa
 
 Darius took the middle of the room. He had spent the drive assembling this and it came out in the shape he'd built.
 
-"[Allicia](/npcs/allicia/)'s out of Gary. Sable pulled her tonight. She's somewhere safe, off [Modius](/npcs/modius/)'s board. That's what you tell Nicolai if he asks — an asset was relocated. You don't have the location because you don't need it."
+"[Allicia](/npcs/allicia/)'s out of Gary. [Sable](/sable-price/) pulled her tonight. She's somewhere safe, off [Modius](/npcs/modius/)'s board. That's what you tell [Nicolai](/npcs/nicolai/) if he asks — an asset was relocated. You don't have the location because you don't need it."
 
 "Relocated by whom, to where."
 
@@ -123,7 +123,7 @@ The board under Sable gave as she shifted her weight.
 
 Darius said nothing, which was the only remaining move that didn't cost anything, and Tomás accepted it as the answer it was and went back down the stairs. The office light cut out. The building went dark except for the sodium glow that got past the shade and laid a long orange bar across the floorboards.
 
-The thing Darius did not say, had not said, would not say: what the Book was, what [Mortius](/npcs/dr-mortius/) had put into English, what [Carna](/npcs/carna/) intended to do with a method that could cut a fifty-two-year bond in half. It was not a secret about Allicia. It was a secret about how she could be freed, and the moment it reached Vienna it stopped being a method and became two death warrants with names already filled in.
+The thing Darius did not say, had not said, would not say: what the Book was, what [Mortius](/npcs/dr-mortius/) had put into English, what [Carna](/npcs/carna/) intended to do with a method that could cut a fifty-two-year bond in half. It was not a secret about [Allicia](/npcs/allicia/). It was a secret about how she could be freed, and the moment it reached Vienna it stopped being a method and became two death warrants with names already filled in.
 
 So he kept it. The way he kept everything. In a column, by itself, where it could not be audited against anything else.
 

@@ -188,7 +188,7 @@ He set the recliner upright. Put out the Pall Mall. Found a dry food bowl on the
 
 Terri kept the keys.
 
-They climbed one flight. Flash's apartment. The door he'd locked six hours ago, when the girl from the Brewery had still been a possibility.
+They climbed one flight. Flash's apartment. The door he'd locked six hours ago, when the girl from [the Brewery](/locations/the-brewery/) had still been a possibility.
 
 ---
 
@@ -218,7 +218,7 @@ The paper: top half in the same French handwriting as the vial labels. Dosing no
 
 *I have been someone's hand for three hundred years. I would rather die a free man than continue as I am.*
 
-Terri read it twice. "He hadn't sent it yet. No envelope. No fold from mailing. He kept it in this case with the single dose of the thing [Prestor](/npcs/jacob-prestor/) was going to test on him. Prestor had already prepared the dose."
+Terri read it twice. "He hadn't sent it yet. No envelope. No fold from mailing. He kept it in this case with the single dose of the thing [Prestor](/npcs/jacob-prestor/) was going to test on him. [Prestor](/npcs/jacob-prestor/) had already prepared the dose."
 
 The journal was French. Ninety-plus years of consistent handwriting, the same hand from the late 1800s to entries dated this month. Terri turned pages. Found the diagnostic page -- a diagram, circles and arrows, labels in a chemist's notation. She read for ninety seconds. Flash counted the seconds by the refrigerator's hum.
 

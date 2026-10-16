@@ -118,7 +118,7 @@ He left. The dispatch office light stayed on behind him. The Cutlass was where h
 
 ---
 
-Driving back to the west side, Darius ran the numbers the way he always did — not the money, but the human calculus, the invisible ledger of who owed what to whom and what it would take to shift the balance.
+Driving back to the west side, [Darius](/darius-cole/) ran the numbers the way he always did — not the money, but the human calculus, the invisible ledger of who owed what to whom and what it would take to shift the balance.
 
 [Michael](/npcs/michael/): saw Darius at the docks, resisted his Presence, rejected his cover story, responded only to raw honesty. Has business with Sal that involves an envelope and happens on a schedule. Won't come to the table yet, but left a door open — *you shouldn't come on Thursdays* — which was either a warning or an invitation, and with Malkavians it was always both.
 

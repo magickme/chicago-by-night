@@ -50,7 +50,7 @@ Third angle. Cops. Someone with a badge and a thumb on the local precinct.
 
 "I tried to get close to him earlier," [Sir](/npcs/sir-henry-johnson/) said. He set his glass down. The admission cost him something. "I couldn't do it."
 
-Darius looked at [Portia](/npcs/portia/). She had not moved since he entered. Her wine sat at the same level, a perfect meniscus, and her gaze was on [Brennon](/npcs/brennon-thornhill/) with a patience that did not belong in a room this agitated.
+[Darius](/darius-cole/) looked at [Portia](/npcs/portia/). She had not moved since he entered. Her wine sat at the same level, a perfect meniscus, and her gaze was on [Brennon](/npcs/brennon-thornhill/) with a patience that did not belong in a room this agitated.
 
 "I think there's a deeper issue here," Darius said. "[Modius](/npcs/modius/)."
 
@@ -78,7 +78,7 @@ He kept walking. Ten feet. The tightening became specific: jaw, hands, the muscl
 
 Five feet. He could smell soap, wool, the faint sweat of a man who had been standing in a crowded room for two hours. The warmth in his sternum was a fist now. His teeth ached. He held his hands at his sides and kept them still.
 
-Two feet. He could see the thread count in the collar. Coleman looked up from the blood dolls.
+Two feet. He could see the thread count in the collar. [Coleman](/npcs/rev-terrence-coleman/) looked up from the blood dolls.
 
 Darius caught his eyes.
 
