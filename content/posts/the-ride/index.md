@@ -12,15 +12,15 @@ description: "Neally brings Darius a name he should have known before drinking t
 
 ---
 
-[Neally](/npcs/neally-edwards/) waited outside the basement entrance at Kaspar & Sons, where the missing steel door exposed the passage behind him and boards covered the storefront glass. [Darius](/darius-cole/) had shot him at this address. Now he had returned to ask a favor. He kept looking past Darius toward the street, and each time he turned back he had to recover the composure that once belonged to [Lodin](/npcs/lodin/)'s administrator.
+[Neally](/npcs/neally-edwards/) waited outside the basement entrance at Kaspar & Sons, where the missing steel door exposed the passage behind him and boards covered the storefront glass. [Darius](/darius-cole/) had shot him at this address. Now he had returned to ask a favor. He kept looking past [Darius](/darius-cole/) toward the street, and each time he turned back he had to recover the composure that once belonged to [Lodin](/npcs/lodin/)'s administrator.
 
 "[Jefferson](/npcs/jefferson-foster/)'s blood has hold of me. The Creation Rite is the only way I know to break it. I need you to carry my request to [Bach](/npcs/bach/). You've dealt with his pack and lived."
 
-Darius stayed in the entrance. The damaged frame had sharp edges where the metal had torn. There were repairs to pay for, a lease to preserve, and a man on the pavement whose usefulness had survived being shot. Somewhere above them, ordinary people were getting ready for work. Neally would have to find a place to hide before they finished.
+Darius stayed in the entrance. The damaged frame had sharp edges where the metal had torn. There were repairs to pay for, a lease to preserve, and a man on the pavement whose usefulness had survived being shot. Somewhere above them, ordinary people were getting ready for work. [Neally](/npcs/neally-edwards/) would have to find a place to hide before they finished.
 
 "Oh, we'll carry it. But it'll cost you."
 
-Neally offered information learned in Lodin's service: part now, the remainder if Bach agreed to hear him. Darius required the first part before settling anything further. A promise from this man could belong to Jefferson by the time Darius collected it.
+Neally offered information learned in [Lodin](/npcs/lodin/)'s service: part now, the remainder if [Bach](/npcs/bach/) agreed to hear him. Darius required the first part before settling anything further. A promise from this man could belong to [Jefferson](/npcs/jefferson-foster/) by the time Darius collected it.
 
 "[Menele](/npcs/menele/). That's the name I learned in Lodin's service. An elder has a claim in you."
 
@@ -102,7 +102,7 @@ The second officer reached for Darius's arm, his partner useless beside him. Dar
 
 The officer dropped to his knees with his hands on the pavement. Darius finished the tag while the first man began recovering from his blank obedience. Neither had seen the force that moved them. Both would have to explain the damaged command vehicle. Bach's pack howled, and the engines took them away before an explanation could become an alarm.
 
-At the Sears Tower, Bach pointed up the facade and told Darius to climb, breaking windows on the ascent. The building's lights drew long rectangles above them. Darius looked at the glass, then at the man proposing the work.
+At the [Sears Tower](/locations/sears-tower/), Bach pointed up the facade and told Darius to climb, breaking windows on the ascent. The building's lights drew long rectangles above them. Darius looked at the glass, then at the man proposing the work.
 
 "Not my jam. I'm Ventrue. I talk. I don't do stunts. Whatever you were hoping to prove, I hope you got what you wanted."
 
@@ -126,4 +126,4 @@ Bach searched his face. He caught nothing he could use.
 
 "Till then."
 
-Bach got onto his bike. The pack rode away through Chicago, leaving Darius with Sable and Tomás beneath the tower. The route out of town was still covered; nobody had attempted it. There was a hearing to arrange and a man to bring alive and alone. In his waistband, Darius carried the gun he had brought to the meeting. Elsewhere on his person were another man's handgun and cash, acquired during a night of proving that he could make other people do the work.
+Bach got onto his bike. The pack rode away through Chicago, leaving Darius with [Sable](/sable-price/) and Tomás beneath the tower. The route out of town was still covered; nobody had attempted it. There was a hearing to arrange and a man to bring alive and alone. In his waistband, Darius carried the gun he had brought to the meeting. Elsewhere on his person were another man's handgun and cash, acquired during a night of proving that he could make other people do the work.

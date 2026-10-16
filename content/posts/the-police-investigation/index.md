@@ -126,7 +126,7 @@ Marcus: "So who covers his desk?"
 
 "Whoever's junior. Someone who doesn't know me. Someone who goes by the book because they're afraid not to."
 
-Terri scratched the cat behind its ears. "So we need the key, which Marcus has. We need paperwork saying one of us is authorized to open Prestor's box. And we need to get there at five-twenty-five on a Monday and hope the person behind the counter doesn't ask the one question we can't answer."
+Terri scratched the cat behind its ears. "So we need the key, which Marcus has. We need paperwork saying one of us is authorized to open [Prestor](/npcs/jacob-prestor/)'s box. And we need to get there at five-twenty-five on a Monday and hope the person behind the counter doesn't ask the one question we can't answer."
 
 "I can draft an executor letter," Emerson said. "Prestor's estate, emergency access. My letterhead. It won't survive a phone call to verify, but it doesn't have to. It just has to get us past the counter."
 
@@ -186,7 +186,7 @@ Monica had more. She'd gone to the DA's office after Daniel's house, used her ac
 
 No warrant application filed on the safe deposit box. [Brandt](/npcs/detective-william-brandt/) had a preservation request — informal, bank-cooperation only. No judge had signed anything. The five missing persons cases were cross-referenced but not consolidated. Still treated as separate incidents in the system. Still five files on five desks, not one file on one desk.
 
-Estimated window before Brandt filed for a warrant: two to three days. The Gulf War ground offensive was pulling DPD resources sideways — overtime, reassignments, the bureaucratic drag of a country at war eating into local police work. It was buying them time they hadn't earned.
+Estimated window before [Brandt](/npcs/detective-william-brandt/) filed for a warrant: two to three days. The Gulf War ground offensive was pulling DPD resources sideways — overtime, reassignments, the bureaucratic drag of a country at war eating into local police work. It was buying them time they hadn't earned.
 
 Flash stood at the wet bar and looked at the bottles he couldn't drink and the legal pad with Monica's capital letters and the newspaper with the photograph of the building where [Joseph](/npcs/joseph-peterson/) Hadrick's cat was still waiting for someone to fill the bowl.
 

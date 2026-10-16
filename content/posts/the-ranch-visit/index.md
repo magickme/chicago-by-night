@@ -82,7 +82,7 @@ Terri, from the bed, without moving: "Who are you?"
 
 "Same thing you are. I've just had longer to get used to it. About seven hundred and sixty years longer."
 
-Flash looked at Tony's hands, his skin. Nothing about him suggested seven centuries. Nothing suggested he was lying.
+Flash looked at [Tony](/npcs/tony/)'s hands, his skin. Nothing about him suggested seven centuries. Nothing suggested he was lying.
 
 ---
 
@@ -104,7 +104,7 @@ He gave them a meeting. Thursday night, one a.m., a club called the [24th Dioces
 
 Then he looked at Flash.
 
-"One more thing. There's a man -- old, calls himself [Klondike](/npcs/robert-klondike/). He may have copies of your doctor's research. If he does, and Edward finds him first, you'll never see them."
+"One more thing. There's a man -- old, calls himself [Klondike](/npcs/robert-klondike/). He may have copies of your doctor's research. If he does, and [Edward](/npcs/edward-williams/) finds him first, you'll never see them."
 
 "Where can I find this guy?"
 
@@ -124,7 +124,7 @@ Tony was gone.
 
 ---
 
-Terri pulled Prestor's draft letter from the duffel. The handwriting matched annotations in the journal -- Prestor had written Klondike's name next to a supply-chain entry. Rural route delivery.
+Terri pulled [Prestor](/npcs/jacob-prestor/)'s draft letter from the duffel. The handwriting matched annotations in the journal -- Prestor had written [Klondike](/npcs/robert-klondike/)'s name next to a supply-chain entry. Rural route delivery.
 
 Marcus said, "Phone book."
 

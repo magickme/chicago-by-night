@@ -21,7 +21,7 @@ The grapple was clean. Flash caught the shoulder and hauled him behind the dumps
 
 Ten o'clock. Cherry Hills. The cohort assembled in Emerson's living room — Monica on the wingback, Marcus on the floor with his back against the bookcase, Emerson in the kitchen doorway holding a glass of water he would not drink, Theresa at the dining table with [Prestor](/npcs/jacob-prestor/)'s journal open and a yellow legal pad full of French notation.
 
-"Roger [Liverman](/npcs/dr-roger-liverman/)," she said. "Independent biochemist. Contracted by Prestor for lab analysis on the compounds. It's in the journal three times. He signed NDAs."
+"Roger [Liverman](/npcs/dr-roger-liverman/)," she said. "Independent biochemist. Contracted by [Prestor](/npcs/jacob-prestor/) for lab analysis on the compounds. It's in the journal three times. He signed NDAs."
 
 "Where?" Flash said.
 
@@ -57,7 +57,7 @@ Roger [Liverman](/npcs/dr-roger-liverman/). Early forties, heavyset, thinning ha
 
 "Who are you? This building is closed to the public."
 
-"Dr. Liverman," Theresa said. "My name is Theresa Harper. We knew [Jacob Prestor](/npcs/jacob-prestor/). We're trying to understand the work he was doing — the work he contracted you for."
+"Dr. [Liverman](/npcs/dr-roger-liverman/)," Theresa said. "My name is Theresa Harper. We knew [Jacob Prestor](/npcs/jacob-prestor/). We're trying to understand the work he was doing — the work he contracted you for."
 
 Something cold crossed his face. "You're the ones who broke into my house."
 
@@ -99,7 +99,7 @@ The ranch sat back from the road behind a wire fence and a line of bare cottonwo
 
 The cohort spread across the yard. Monica and Emerson at the vehicles. Marcus at the tree line. Theresa behind Flash, ten feet back, watching the angles.
 
-Flash kicked in the kitchen door. Three deadbolts, old pine frame. The wood splintered at the lock plate and Klondike was behind the table with a stake in his right hand, reaching for a lever-action rifle propped against the counter.
+Flash kicked in the kitchen door. Three deadbolts, old pine frame. The wood splintered at the lock plate and [Klondike](/npcs/robert-klondike/) was behind the table with a stake in his right hand, reaching for a lever-action rifle propped against the counter.
 
 Flash's blood burned and the world slowed. He covered the space in two strides and caught Klondike around the torso and they went into the wall together. The stake changed hands. Flash drove it at Klondike's chest and the point went into the pantry door and Klondike tore free.
 

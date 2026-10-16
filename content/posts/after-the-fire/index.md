@@ -112,7 +112,7 @@ Terri confirmed it. Flash confirmed it. The same wrongness in the air around all
 
 "Yeah," he said. "Me too. Looked at myself in the rearview on the way over. Didn't like what I saw."
 
-They loaded out. Terri had been packing the list in her head while she made the tea she couldn't drink. The duffel from Flash's closet -- lab kit, journal, Klondike letter, [Prestor](/npcs/jacob-prestor/)'s notebooks, the wooden Anti-Body case on top where it could come out first.
+They loaded out. Terri had been packing the list in her head while she made the tea she couldn't drink. The duffel from Flash's closet -- lab kit, journal, [Klondike](/npcs/robert-klondike/) letter, [Prestor](/npcs/jacob-prestor/)'s notebooks, the wooden Anti-Body case on top where it could come out first.
 
 Marcus checked the window. "Crown Vic two doors down on the front side. Two men in it. We go down the back stairs."
 
@@ -152,7 +152,7 @@ Flash punched his fist into his palm. "I say we find this guy and beat some answ
 
 "[Prestor](/npcs/jacob-prestor/)."
 
-"Prestor's dead, Flash."
+"[Prestor](/npcs/jacob-prestor/)'s dead, Flash."
 
 "Then whoever *sent* him --"
 

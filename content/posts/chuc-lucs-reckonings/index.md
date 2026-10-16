@@ -55,7 +55,7 @@ Then the hand lifted and rested on the desk again, palm down, fingers slightly s
 
 The silence after that did not get filled.
 
-Darius did not look away. He had learned a long time ago that with Chuc Luc the temptation to fill silence was the test, not the silence itself.
+[Darius](/darius-cole/) did not look away. He had learned a long time ago that with [Chuc Luc](/npcs/chuc-luc/) the temptation to fill silence was the test, not the silence itself.
 
 "The Prince took what was mine." Chuc Luc's voice was the same flat register it always was, the Vietnamese under the English no thicker than it had been twenty minutes ago, an hour ago, ten years ago. "He did it in a room full of people, and he did it with your blood on his tongue. I am not unclear about what happened. The question is whether you are."
 
@@ -81,7 +81,7 @@ A beat.
 
 Darius gave him three things. He had structured the brief the way he structured every brief now, after [Tomas](/tomas-navarro/) had spent two weeks teaching him without meaning to that information had a hierarchy and the hierarchy was its own form of respect. Posture first. Threats second. The anomaly last.
 
-One: the [Prince](/npcs/lodin/)'s operational posture. The forced blood toast at the February court — the toast that had bonded all three of them at the first step. Weekly reporting through [Neally](/npcs/neally-edwards/) on coterie movements. [Critias](/npcs/critias/) as tactical liaison on the Sabbat hunt, which meant Critias as the hand inside the glove every time the coterie crossed an operational threshold. The Pilsen chantry grant leashed to delivery, not a gift but an account that could be closed if the deposits stopped. "He's running us the way you'd run a field team. Long leash, short reporting cycle. The toast was insurance against the long leash."
+One: the [Prince](/npcs/lodin/)'s operational posture. The forced blood toast at the February court — the toast that had bonded all three of them at the first step. Weekly reporting through [Neally](/npcs/neally-edwards/) on coterie movements. [Critias](/npcs/critias/) as tactical liaison on the Sabbat hunt, which meant [Critias](/npcs/critias/) as the hand inside the glove every time the coterie crossed an operational threshold. The Pilsen chantry grant leashed to delivery, not a gift but an account that could be closed if the deposits stopped. "He's running us the way you'd run a field team. Long leash, short reporting cycle. The toast was insurance against the long leash."
 
 Two: the Sabbat. [Bach](/npcs/bach/)'s pack. [Bach](/npcs/bach/) as pack priest. The Serpent of the Light woman — Creole accent, voodoo orientation, the one who had set the skull on the Pilsen rooftop on February fifth. Three Blood Brothers locked into the Sanguinus discipline, the shock element. Two ghouls running the operational tail. Above-ground movements, visible targets. The Gary Malkavian he'd known as a younger man, dead on a rooftop in Pilsen with the head burnt past identification except by association. "Two tracks. Pack visible on the streets, something else moving underneath. The pack is what they want me looking at."
 
@@ -145,7 +145,7 @@ The envelope was warm now from his pocket. The wax would not be warm, but the pa
 
 He turned south and waved down a cab on Cermak.
 
-The driver was an older Vietnamese man who took the fare to Pilsen without conversation. Darius sat in the back and watched Chinatown's red lanterns recede behind the rear window — the gate on Wentworth, the Cermak-Chinatown elevated stop, the dim sum places closing one by one as the kitchens shut down for the night. The cab merged onto the Dan Ryan and the concrete drone of the expressway came up under the floor of the cab the way it always did, and Darius reached inside his coat and touched the envelope through the wool, once, with two fingers, and then set his hand on his knee and watched the sodium lights pass.
+The driver was an older Vietnamese man who took the fare to Pilsen without conversation. Darius sat in the back and watched [Chinatown](/locations/chinatown/)'s red lanterns recede behind the rear window — the gate on Wentworth, the Cermak-Chinatown elevated stop, the dim sum places closing one by one as the kitchens shut down for the night. The cab merged onto the Dan Ryan and the concrete drone of the expressway came up under the floor of the cab the way it always did, and Darius reached inside his coat and touched the envelope through the wool, once, with two fingers, and then set his hand on his knee and watched the sodium lights pass.
 
 Every other Thursday. Nine o'clock. The meetings would continue.
 

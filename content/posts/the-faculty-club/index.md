@@ -35,9 +35,9 @@ This was the invitation. [Darius](/darius-cole/) had prepared for it. He had als
 
 He started with the Melian Dialogue, not because it was the obvious choice — it was the obvious choice — but because the obvious choice was obvious for reasons that held up. Athens tells Melos that the strong do what they can and the weak suffer what they must. Thucydides records it without commentary. He doesn't editorialize. He just lets the Athenians speak and then records the massacre and the enslavement and moves on to the next campaign.
 
-"The question," Darius said, "is whether Thucydides agrees with the Athenians, or whether the silence is the argument."
+"The question," [Darius](/darius-cole/) said, "is whether Thucydides agrees with the Athenians, or whether the silence is the argument."
 
-Critias drank his coffee. He did not hurry.
+[Critias](/npcs/critias/) drank his coffee. He did not hurry.
 
 "The silence," he said, "is not the argument. The silence is the evidence. Thucydides does not need to tell you the Athenians were wrong because he shows you what happened to them. Syracuse. The fleet destroyed. The prisoners dying in the quarries. He wrote the Melian Dialogue into the same book as the Sicilian disaster and trusted the reader to count."
 

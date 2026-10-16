@@ -47,7 +47,7 @@ The doors closed.
 
 [Darius](/darius-cole/) raised his head.
 
-Lodin's eyes held him. Dark and still. The same look from four days ago, when [Darius](/darius-cole/) had talked him out of the chalice with a speech rehearsed in a parking garage. Lodin remembered being persuaded. That was the trouble.
+[Lodin](/npcs/lodin/)'s eyes held him. Dark and still. The same look from four days ago, when [Darius](/darius-cole/) had talked him out of the chalice with a speech rehearsed in a parking garage. Lodin remembered being persuaded. That was the trouble.
 
 "You did what I asked. I want that to be clear." He picked up a manila folder and opened it. [Neally](/npcs/neally-edwards/)'s summary of last week's report. "You mapped a hunter cell in seventy-two hours. You neutralized two operatives. You identified a Sabbat pack in your own domain and reported it through proper channels. That is what I asked for, and you delivered."
 
@@ -59,7 +59,7 @@ He held up a photograph. Grainy, flash-washed. The [Auditorium Theatre](/locatio
 
 "This is my Elysium. These are Chicago Police Department photographs. I have a security contractor requesting a meeting with my building office. I have [Annabelle Triabell](/npcs/annabelle-triabelle/) informing me she intends to raise Elysium safety at the next Primogen session." He set the photograph with the others. "[Critias](/npcs/critias/) gave you the tickets. You attended at his invitation. None of this is in question."
 
-He stepped around the desk and stopped in front of Darius.
+He stepped around the desk and stopped in front of [Darius](/darius-cole/).
 
 "Your written assessment is due tonight. Everything you know about the Sabbat presence in my city. The pack. Their numbers. Their methods. What you saw in that lobby. And then we will discuss the terms of your service going forward."
 
@@ -81,9 +81,9 @@ Then the pack. Five Kindred, two ghouls. The leader called himself [Bach](/npcs/
 
 "Without verbal communication. Coordinated strikes. Synchronized positioning."
 
-Lodin's eyes flicked to [Critias](/npcs/critias/). Critias gave a single nod.
+Lodin's eyes flicked to [Critias](/npcs/critias/). [Critias](/npcs/critias/) gave a single nod.
 
-"Sanguinus," Lodin said. To Neally's pad. "Blood Brothers. Sabbat shock troops. Created through blood sorcery. They share a circulatory system. What one sees, all three see." Back to Darius. "The woman speaking Creole. Serpent of the Light, the Haitian branch. The recruitment speech and the ritual killing are two different operational signatures. Your pack has at least two leadership elements."
+"Sanguinus," Lodin said. To [Neally](/npcs/neally-edwards/)'s pad. "Blood Brothers. Sabbat shock troops. Created through blood sorcery. They share a circulatory system. What one sees, all three see." Back to Darius. "The woman speaking Creole. Serpent of the Light, the Haitian branch. The recruitment speech and the ritual killing are two different operational signatures. Your pack has at least two leadership elements."
 
 He sat for the first time. The chair made no sound under him.
 
@@ -163,7 +163,7 @@ The elevator ride down was forty-one floors of silence.
 
 In the lobby, Darius said, "Hunt. Separately. Cover more ground."
 
-"Yes," Sable said.
+"Yes," [Sable](/sable-price/) said.
 
 They split at the curb. Three directions into the Monday cold.
 
@@ -197,13 +197,13 @@ Darius was at the window.
 
 "I know why he did it. I'm saying he's the only one in that room who said anything about what we'd actually done. Lodin read the report like a receipt. Critias said we held."
 
-"We held the lobby of an Elysium while a Primogen fought a Sabbat pack leader," Tomas said. "And then we drank from a chalice because we were told to. Both happened in the same week."
+"We held the lobby of an Elysium while a Primogen fought a Sabbat pack leader," [Tomas](/npcs/tomas/) said. "And then we drank from a chalice because we were told to. Both happened in the same week."
 
 Darius turned from the window. "The toast was coming. It was always coming. I bought us a month and the month ran out four days in. That's on me."
 
 "It's not on you," Tomas said. "The opera was on Critias's invitation and [Nicolai](/npcs/nicolai/)'s observation order. Two channels pointing at the same building on the same night. We didn't choose to be there. We were placed there."
 
-Sable stood. Walked to the map. Touched the black pin at the Auditorium Theatre.
+Sable stood. Walked to the map. Touched the black pin at the [Auditorium Theatre](/locations/auditorium-theatre/).
 
 "The man in the wall. Twenty-four years. He woke up and was grateful and then was gone. Nobody stacks a body inside a theatre wall over a grudge. He walked out of that building like he had somewhere to be."
 
@@ -217,7 +217,7 @@ Sable stood. Walked to the map. Touched the black pin at the Auditorium Theatre.
 
 Darius pulled a chair around and sat.
 
-"The pack. Five Kindred, two ghouls. [Bach](/npcs/bach/) is the recruiter. The Creole woman is operations. She scouted the theatre, staged the Pilsen trophy, ran extraction. The Blood Brothers are muscle. We hurt Bach badly Saturday. He'll be healing. That gives us a window."
+"The pack. Five Kindred, two ghouls. [Bach](/npcs/bach/) is the recruiter. The Creole woman is operations. She scouted the theatre, staged the Pilsen trophy, ran extraction. The Blood Brothers are muscle. We hurt [Bach](/npcs/bach/) badly Saturday. He'll be healing. That gives us a window."
 
 "I can query the chantry library," Tomas said. "Sanguinus creation methodology. Known weaknesses. [Nicolai](/npcs/nicolai/) may have Sabbat tactical files."
 

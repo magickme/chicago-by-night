@@ -39,7 +39,7 @@ He stood at the threshold. Hands at his sides. Weight even. He did not sit. He d
 
 "Sit."
 
-One chair. Wooden, straight-backed, no cushion. [Tomas](/npcs/tomas/) sat. Spine straight, hands on his thighs. DuSable's gaze moved over him once -- shoes, hands, collar, face -- with the unhurried precision of a man reading a brief he'd already summarized. Then he turned one of the survey maps so it faced Tomas.
+One chair. Wooden, straight-backed, no cushion. [Tomas](/npcs/tomas/) sat. Spine straight, hands on his thighs. [DuSable](/npcs/abraham-dusable/)'s gaze moved over him once -- shoes, hands, collar, face -- with the unhurried precision of a man reading a brief he'd already summarized. Then he turned one of the survey maps so it faced [Tomas](/npcs/tomas/).
 
 Old. Hand-drawn, ink on linen, the lines faded to brown. The header read CHICAGO TUNNEL COMPANY -- FREIGHT SYSTEM -- REVISED 1912. Sixty miles of narrow-gauge rail tunnels, forty feet below the Loop. Most of it sealed or flooded decades ago. The map showed the original grid -- and someone had annotated it in red ink. Recent. Precise. The handwriting was DuSable's.
 
@@ -375,7 +375,7 @@ He laid it out: the man on the bench, the vitae traces, the folio, the note. *H 
 
 He tapped ARMITAGE.
 
-"[Annabelle](/npcs/annabelle/) has a gallery on Armitage. Ballard's been moving against her properties. This is part of that."
+"[Annabelle](/npcs/annabelle/) has a gallery on Armitage. [Ballard](/npcs/ballard/)'s been moving against her properties. This is part of that."
 
 He looked at Tomas.
 
@@ -393,7 +393,7 @@ Tomas found the service entrance on the alley, south face. Steel door, mechanica
 
 Reconvened at the Buick at 12:35. [Darius](/darius-cole/): lobby guard alone, building directory showed Suite 408 as "Sherwin Professional Associates," no individual name. [Sable](/sable-price/): no living or dead presence on east-facing floors two through six. The fourth-floor light had no person behind it. Recent cigarette smoke from the basement, within the hour. Someone had been down there.
 
-Darius: "Tuesday. Midnight. We go in through the service entrance. Tomas handles the lock. I handle the guard's memory. Sable watches from across the street. Nobody mentions this to anyone. Not [Annabelle](/npcs/annabelle/), not [Sir](/npcs/sir-henry-johnson/), not your Regent."
+[Darius](/darius-cole/): "Tuesday. Midnight. We go in through the service entrance. Tomas handles the lock. I handle the guard's memory. [Sable](/sable-price/) watches from across the street. Nobody mentions this to anyone. Not [Annabelle](/npcs/annabelle/), not [Sir](/npcs/sir-henry-johnson/), not your Regent."
 
 Tomas met his eyes.
 

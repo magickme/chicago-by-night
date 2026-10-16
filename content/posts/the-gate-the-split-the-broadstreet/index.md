@@ -81,7 +81,7 @@ Monica had not taken her coat off. She was still holding her keys. "Twenty-six. 
 
 "Then why."
 
-"Because if I had said Karen Andresen, twenty-six, brunette, M.A. CU Boulder, called my office four times, he would have walked back to that car and put her in a chair tomorrow morning and asked her what the meetings were actually about. And she would have told him. Because she is twenty-six and a detective scared her."
+"Because if I had said [Karen](/npcs/karen-chartry/) Andresen, twenty-six, brunette, M.A. CU Boulder, called my office four times, he would have walked back to that car and put her in a chair tomorrow morning and asked her what the meetings were actually about. And she would have told him. Because she is twenty-six and a detective scared her."
 
 "What were the meetings actually about, Emerson."
 
@@ -137,7 +137,7 @@ The corner tavern was loud and warm — spilled beer in the floorboards, fryer g
 
 It took forty minutes. A man named Royce — fifty, drove a forklift at a paper distributor two blocks over, had been drinking on this corner since the district was nothing but warehouses and rats.
 
-"The Broadstreet." Royce turned his glass a quarter-turn on the bar. "They do a band. House band, plays near every night. These fellas play Tuesday. Wednesday. I've stood outside in summer with the door open and heard them at one in the morning on a *Wednesday.* Seventh Son, they're called. Fella who owns the place is the guitar player. [Williams](/npcs/williams/)."
+"[The Broadstreet](/locations/the-broadstreet/)." Royce turned his glass a quarter-turn on the bar. "They do a band. House band, plays near every night. These fellas play Tuesday. Wednesday. I've stood outside in summer with the door open and heard them at one in the morning on a *Wednesday.* Seventh Son, they're called. Fella who owns the place is the guitar player. [Williams](/npcs/williams/)."
 
 "You ever been in?" Terri kept it light.
 

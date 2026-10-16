@@ -51,7 +51,7 @@ He did the inventory before he said anything else.
 
 The door. Compromised haven, daylight in fifteen hours, no plywood crew this side of dawn unless he called Bear Construction's after-hours line and paid the night rate plus the premium for not remembering. He had the cash. He didn't have a face for the crew that wouldn't stick.
 
-The Hunt call. [Brennon](/npcs/brennon-thornhill/) at eleven. [Lodin](/npcs/lodin/) telling Brennon to tell *him* in advance was a status fact — Ventrue clanmate, witness, trigger man. The tape didn't say *come tell me what you saw.* It said *come receive instruction.* Those were different meetings.
+The Hunt call. [Brennon](/npcs/brennon-thornhill/) at eleven. [Lodin](/npcs/lodin/) telling [Brennon](/npcs/brennon-thornhill/) to tell *him* in advance was a status fact — Ventrue clanmate, witness, trigger man. The tape didn't say *come tell me what you saw.* It said *come receive instruction.* Those were different meetings.
 
 The blood. Six. He could ride six through a meeting. He couldn't ride six through a meeting *and* whatever Brennon handed him after.
 
@@ -83,7 +83,7 @@ A second pause — what was on the truck, who was sober, what the highway looked
 
 "Same crew."
 
-The line went dead. He set the receiver down. Sable was watching the side of his head with the half-smile she got when he spent money fast.
+The line went dead. He set the receiver down. [Sable](/sable-price/) was watching the side of his head with the half-smile she got when he spent money fast.
 
 ---
 
@@ -99,7 +99,7 @@ The foreman was at the second stool from the end. [Darius](/darius-cole/) knew h
 
 Mid-forties. Wedding ring. The skin around the ring was darker than the skin on either side — he'd worn it twenty years and the sun did what the sun did. Wallet on the bar. He tipped the bartender in cash, not on a tab, which was how a man drank when his wife checked the credit card statement.
 
-Darius didn't go in. He walked to the alley behind the bar instead — the alley a foreman in a Carhartt walked into when he wanted to take a piss without paying Slim Ed's the dignity of using the bathroom. The alley was salt and brick and the back of a Chinese restaurant's exhaust hood, three days of frozen kitchen grease coating the dumpster lid. He put the cigarette out on the brick and waited.
+[Darius](/darius-cole/) didn't go in. He walked to the alley behind the bar instead — the alley a foreman in a Carhartt walked into when he wanted to take a piss without paying Slim Ed's the dignity of using the bathroom. The alley was salt and brick and the back of a Chinese restaurant's exhaust hood, three days of frozen kitchen grease coating the dumpster lid. He put the cigarette out on the brick and waited.
 
 Six minutes. The back door banged open.
 
@@ -167,7 +167,7 @@ She picked up the matchbook, read the numbers, set it down. "Posture about what 
 
 "She didn't."
 
-"She didn't." Confirmation, not repetition — Sable had been carrying that certainty since Sunday morning. "So Brennon will fish. He'll mention Saturday in some shape and watch us. We need a story that's compatible with whatever Annabelle eventually says and that doesn't owe Brennon anything we can't afford to owe."
+"She didn't." Confirmation, not repetition — Sable had been carrying that certainty since Sunday morning. "So Brennon will fish. He'll mention Saturday in some shape and watch us. We need a story that's compatible with whatever [Annabelle](/npcs/annabelle-triabell/) eventually says and that doesn't owe Brennon anything we can't afford to owe."
 
 Darius nodded once.
 
@@ -175,7 +175,7 @@ Darius nodded once.
 
 "You don't say [Neally](/npcs/neally-edwards/)."
 
-"I don't say [Neally](/npcs/neally-edwards/). Brennon says Neally. I respond to what Brennon says."
+"I don't say [Neally](/npcs/neally-edwards/). Brennon says [Neally](/npcs/neally-edwards/). I respond to what Brennon says."
 
 "Good." She ran a thumb along the edge of the workbench. "What about Becky."
 
@@ -193,7 +193,7 @@ Sable weighed it. "Agreed. But if Brennon does name her — say [Lodin](/npcs/lo
 
 "What we ask him for." She picked the second question up cleanly. "We can ask Brennon for two things at the meeting and not look greedy. What are they."
 
-He'd been thinking about this on the [Pulaski](/npcs/ray-pulaski/) drive. "One. The procedural shape of the Hunt — when the formal declaration drops, what the deadline looks like, whether Lodin wants us as participants or as witnesses. We need to know if we're hunters or spectators."
+He'd been thinking about this on the [Pulaski](/npcs/ray-pulaski/) drive. "One. The procedural shape of the Hunt — when the formal declaration drops, what the deadline looks like, whether [Lodin](/npcs/lodin/) wants us as participants or as witnesses. We need to know if we're hunters or spectators."
 
 "And if we're hunters?"
 
@@ -357,11 +357,11 @@ Brennon's hands unfolded. He put them flat on the desk, palms down. The gesture 
 
 "Continue."
 
-"Foster is Sabbat. Converted in Toronto. He has been operating in Chicago since his release, using Neally's prior relationship with him to reestablish a Blood Bond. The Bond is driving Neally's behavior — the public feeding, the unauthorized Embraces, the predation on [Lorraine](/npcs/lorraine-matthews/). These are not Neally's decisions. They are Foster's commands."
+"[Foster](/npcs/jefferson-foster/) is Sabbat. Converted in Toronto. He has been operating in Chicago since his release, using Neally's prior relationship with him to reestablish a Blood Bond. The Bond is driving Neally's behavior — the public feeding, the unauthorized Embraces, the predation on [Lorraine](/npcs/lorraine-matthews/). These are not Neally's decisions. They are Foster's commands."
 
 "How do you know this."
 
-"Observation over four weeks. Neally's behavior at the Succubus Club, witnessed directly. The pattern of escalation — each violation worse than the last, each one more public. That isn't a man losing control. That's a man being pushed. The siring of the child confirmed it. Neally has neither the motive nor the disposition to Embrace children. Someone is making him do things that will destroy him in Lodin's eyes, systematically, on a schedule."
+"Observation over four weeks. Neally's behavior at the [Succubus Club](/locations/succubus-club/), witnessed directly. The pattern of escalation — each violation worse than the last, each one more public. That isn't a man losing control. That's a man being pushed. The siring of the child confirmed it. Neally has neither the motive nor the disposition to Embrace children. Someone is making him do things that will destroy him in Lodin's eyes, systematically, on a schedule."
 
 Sable hadn't moved. Tomás hadn't moved. Darius could feel both of them in the room — present, structural, holding weight without drawing attention.
 
@@ -475,7 +475,7 @@ She nodded once. The decision was already made.
 
 "The Lodin audience tomorrow — you and Tomás carry the room. I'll be late, with a reason that isn't a lie."
 
-"Annabelle. Lorraine."
+"Annabelle. [Lorraine](/npcs/lorraine-matthews/)."
 
 "Annabelle. Lorraine."
 

@@ -113,7 +113,7 @@ She took the stool right next to him.
 
 He looked at her. The warmth was doing its work underneath the conversation, holding him open, and he couldn't look away and they both knew it.
 
-"Judge Metz," he said. "Ballard's had paper on him since 1987. A property in Evanston — held through a shell. The shell company is called Lakeshore Meridian Partners. One filing. Cook County recorder's office."
+"Judge Metz," he said. "[Ballard](/npcs/ballard/)'s had paper on him since 1987. A property in Evanston — held through a shell. The shell company is called Lakeshore Meridian Partners. One filing. Cook County recorder's office."
 
 He stood. Straightened his coat.
 
@@ -173,7 +173,7 @@ Division Street. The Rack opened up around them — neon, bass from three direct
 
 Three steps of quiet.
 
-"Yes," Sir Henry said. "I rather think I might."
+"Yes," [Sir Henry](/npcs/sir-henry-johnson/) said. "I rather think I might."
 
 The [Succubus Club](/locations/succubus-club/) door. The line parting for him the way lines part for people who have never waited in one. The bouncer gave Sir Henry a nod and [Sable](/sable-price/) a look that lasted exactly long enough to be professional.
 

@@ -27,7 +27,7 @@ Not walking. Running full-tilt — and not the kind of running that gets done in
 
 [Lorraine Matthews](/npcs/lorraine-matthews/). The girl from the [Labyrinth](/locations/the-labyrinth/) balcony, two months ago, who had been tripping on mescaline and trying to go over the railing while a string quartet played Debussy ten feet behind her. [Sable](/sable-price/) had caught her by the wrist. Now [Sable](/sable-price/) was catching her by the shoulders, in a different way, in a different place, and the smell of her was wrong.
 
-Kindred vitae. Fresh. Not [Lorraine](/npcs/lorraine-matthews/)'s — Sable knew Ventrue blood, thin and sweet, and what was on this girl's hands and jaw and torn dress wasn't her. Somebody else's, someone Sable had never met, and the body had stopped being his around forty minutes ago by the warmth of what was left.
+Kindred vitae. Fresh. Not [Lorraine](/npcs/lorraine-matthews/)'s — [Sable](/sable-price/) knew Ventrue blood, thin and sweet, and what was on this girl's hands and jaw and torn dress wasn't her. Somebody else's, someone Sable had never met, and the body had stopped being his around forty minutes ago by the warmth of what was left.
 
 And in the alley behind her: motion. Fast. Not a man running — a man dropping. The sound came two seconds later, the soft register of weight hitting a Dumpster lid in the middle distance and then absorbing into rubber-soled shoes that didn't crack the concrete this time but had been cracking concrete somewhere recently.
 
@@ -37,7 +37,7 @@ Sable took her wrist and ran.
 
 ---
 
-South on Halsted. The cones and the Humvee and the tanker shrank behind them; Sable cut between two of the orange plastic markers and the boy with the cigarette didn't look up because his radio was loud and his attention was on whatever the AM band was telling him about the war or the water. Lorraine ran with the wrong kind of force — not muscle, terror metabolizing through her like a stimulant — and her bare feet were leaving little dark prints on the wet sidewalk that the cold was already eating.
+South on Halsted. The cones and the Humvee and the tanker shrank behind them; Sable cut between two of the orange plastic markers and the boy with the cigarette didn't look up because his radio was loud and his attention was on whatever the AM band was telling him about the war or the water. [Lorraine](/npcs/lorraine-matthews/) ran with the wrong kind of force — not muscle, terror metabolizing through her like a stimulant — and her bare feet were leaving little dark prints on the wet sidewalk that the cold was already eating.
 
 She wasn't talking. She was trying. Sable pulled blood up out of the bottom of her chest and pushed it down into her legs and the world thinned out the way it did when the Discipline took — every traffic light a degree more brilliant, every step shorter by an inch, the pavement under her boots not friction anymore so much as suggestion. She pulled Lorraine along like a kite. Lorraine stayed upright because Sable was holding her up.
 
@@ -101,7 +101,7 @@ He had heard the landing. He knew Potence from the street level. He wasn't askin
 
 Lorraine answered from the floor, through chattering teeth. "[Neally Edwards](/npcs/neally-edwards/)."
 
-Darius's face did one small thing — a tightening at the jaw that wasn't surprise so much as a column of information snapping into a register he had been building since the previous night, when he had stood in the dark of St. Brigid's Orphanage and watched the same man feed on a sleeping child. The column was tall now. He didn't speak.
+[Darius](/darius-cole/)'s face did one small thing — a tightening at the jaw that wasn't surprise so much as a column of information snapping into a register he had been building since the previous night, when he had stood in the dark of St. Brigid's Orphanage and watched the same man feed on a sleeping child. The column was tall now. He didn't speak.
 
 The Dread Gaze would wear off in thirty seconds. Sable pushed Lorraine toward the back of the basement — past the cot, past the boiler, into the cage of pipes and rotting fabric bolts where a person could fold herself small enough to disappear.
 
@@ -147,7 +147,7 @@ Sable pushed the fabric bolt aside and crawled out and pulled Lorraine after her
 
 Lorraine sat on the cot with her ruined feet on the concrete and looked at the cordite drifting in the light and said:
 
-"He killed Marcus. My driver. He just — looked at him and Marcus sat down in the car and Neally pulled him out by the throat."
+"He killed Marcus. My driver. He just — looked at him and Marcus sat down in the car and [Neally](/npcs/neally-edwards/) pulled him out by the throat."
 
 She looked at her hands. The blood.
 

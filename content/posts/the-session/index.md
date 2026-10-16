@@ -55,7 +55,7 @@ Near the DJ booth, a wrongness in the air. A patch where the club lighting bent 
 
 "In the cold. That's a lot of sidewalk for a Gary man."
 
-Darius didn't explain. He drank from the glass he couldn't taste.
+[Darius](/darius-cole/) didn't explain. He drank from the glass he couldn't taste.
 
 [Brennon](/npcs/brennon-thornhill/) leaned forward. "There was a courier here Tuesday. Young man, good suit, bad shoes. Came through the front, spoke to no one, left an envelope at a table in the back. The envelope was gone before my girl cleared the glasses." He straightened. "I've seen the courier three times. Never the same one twice. The pickup I've never seen."
 
@@ -73,7 +73,7 @@ Darius filed this. Then: "Has anyone come through recently asking about new face
 
 "Dark coat. Stoop. I didn't recognize the man in the photograph, Mr. Cole."
 
-The smile. Warm, professional, deliberate. Brennon had looked at the photo and had chosen not to identify Darius in it.
+The smile. Warm, professional, deliberate. [Brennon](/npcs/brennon-thornhill/) had looked at the photo and had chosen not to identify Darius in it.
 
 "Investigator. Not a hunter," Brennon added. "The briefcase had a firm's logo. He tipped twenty on a club soda. Headed south on Rush. Grey Buick. My doorman might have the plates."
 
@@ -263,4 +263,4 @@ Full. The blood hummed in his veins, thirteen out of thirteen, warm and stolen a
 
 He drove the Cutlass south toward Pilsen. The city threw its orange sodium light across the windshield and the heater blew dust. A productive Wednesday. The Primogen had spoken and [Ballard](/npcs/ballard/) had walked and the censure had failed and none of it mattered yet because the lever was still in motion — [Horace](/npcs/horace/) calling [Tyrus](/npcs/tyrus/), [Annabelle](/npcs/annabelle-triabell/) hunting a courier, [Critias](/npcs/critias/) waiting for Thursday. The board had more pieces on it than it had this morning and Darius had placed half of them and nobody upstairs knew his name yet.
 
-He parked in the alley behind Kaspar & Sons. Killed the engine. Sat in the dark for a minute, tasting the last of [Rachel](/npcs/rachel/)'s blood on the back of his teeth, and waited for Sable to come home.
+He parked in the alley behind Kaspar & Sons. Killed the engine. Sat in the dark for a minute, tasting the last of [Rachel](/npcs/rachel/)'s blood on the back of his teeth, and waited for [Sable](/sable-price/) to come home.

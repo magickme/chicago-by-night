@@ -5,7 +5,7 @@ layout: "page"
 slug: "quests"
 ---
 
-*Chicago Chronicles. Act II: Ashes and Blood. Updated: **1991-03-08 (Friday). Current snapshot: D067 "The Ride" (Darius POV, Tomás and Sable present), closed after Friday evening surveillance and the Ride. Exact close time unrecorded. Campaign start: NYE 1989. Act II (Ashes and Blood): January 1991+. Baptism by Fire: NYE 1990.**.*
+*Chicago Chronicles. Act II: Ashes and Blood. Updated: **1991-03-08 (Friday). Current snapshot: D068 "The Hearing at the Grave" (all three PCs, Darius lead), closed 07:25 AM with the coterie asleep in the Astor Street Chantry dormitory wing after the drive back from the old Northside Church (sunset-to-dawn night of Mar 8; D067 "The Ride" is the prior scene). Campaign start: NYE 1989. Act II (Ashes and Blood): January 1991+. Baptism by Fire: NYE 1990.**.*
 
 
 
@@ -52,8 +52,11 @@ slug: "quests"
 | Coterie fault lines | NEW D057. ESCALATED. Tomás's dual loyalty exposed during Grand Elusion. Attempted to stake Ehrich against Sable's consensus plan. Tremere Code demands obedience to hierarchy above all else. Coterie Pact (consensus + disclosure) structurally incompatible with Tremere institutional loyalty. First combat test of integration. How can the pact survive Tomás's mandatory subordination to the Pyramid? Weight 2x. TACTIC NOTE: Sable's Exceptional Yes redirected staking outcome, maintaining group cohesion. Integration question remains unresolved. |
 | Herbalist assignment (Chinatown) | NEW D059. Chuc Luc gave Darius sealed envelope + assignment: visit herbalist at Wentworth and Cermak (green awning), present envelope as introduction. Herbalist will examine tunnel map and identify what's missing. Report findings to Chuc Luc. Connected to Threads 35/36 (Kuei-jin/Jade Demon). Chuc Luc's awareness of tunnel anomaly suggests deeper Capone intelligence on underground threats. |
 | Becky (child Kindred) | NEW D060. Recently Embraced (~8yo, 3 days dead), Neally's unauthorized childe. Encountered by Darius on Halsted. Led him to St. Brigid's orphanage. Trusted Darius under Awe. Delivered to Lodin's custody at Prudential Building. Fate unknown. "The Prince thanks you for your diligence." Siring ban violated (18 years). Humanity cost: Darius 7→6. |
-| Neally 30-Day Window | ADVANCING D067. Lodin deadline Mar 5 – Apr 4 remains. Neally’s published plea heard; Bach agreed to hear him when Darius delivers him. Creation Rite unpromised, time/location not fixed. Darius privately arranged Sheriff/enforcer ambush if the pack tries to leave Chicago; not triggered. Weight 2. |
+| Neally 30-Day Window | ADVANCING D068. Lodin deadline Mar 5 – Apr 4. Neally found (Humboldt Park, Lorna Pruitt hid him; Lodin's own security tried to take him), held an hour by Nicolai, delivered to Bach's pack at the cemetery; hearing held; deal sealed (Tracker DL-13): Creation Rite in the church cellar without the Camarilla party, Neally walks to the Chantry door on his own feet, Nicolai reads his blood, Denver introduction conditional for Jefferson via Darius only after the reading. Rite timing OPEN. Weight 3. |
 | Klondike Vials Hunt | NEW D063 placeholder. Fires after Sable's Milwaukee return. Weight 1 (awaiting trigger). Related to Carna's synthesis of Pasteur biochemistry (via Denver/Tremere channels) + Dr. Mortius's Book of the Grave-War translation — the two halves of a reproducible bond-breaking method. Depends on Sable coordinating Allicia meeting + Carna discovery sequence. The Book of the Grave-War is the deep lore thread connecting all bond-breaking events in the chronicle. |
+| Archon arrival | NEW D068. Masquerade Heat 6/6 → an Archon dispatched by a Justicar, lands 'tomorrow night' (date OPEN). Advance watcher (man in a gray overcoat, ledger) at the cemetery edge. Weight 2. |
+| Nicolai's price + black-wax letters | NEW D068. Neally spends the first hour with Nicolai and his Colorado account enters Nicolai's files before Darius's. Nicolai holds a drop of Darius's blood, knows the Methuselah name, wrote to the Pontifex Maximus in Vienna; an unaddressed black-wax letter and a courier delivery are live hooks (sender unnamed). Weight 2. |
+| Colorado Shaman legend | NEW D068. Delivered at the grave; Bach, Mireille and Jefferson heard it; unified with Alien Hunger, Prestor/Rachel, Killikillarven. Beast-as-spirit is a HYPOTHESIS only. Reference: Overview/Reference/Colorado Thread - Shamans, the Cure, and the Beast.md. Weight 2. |
 
 ## Sable
 
@@ -133,8 +136,8 @@ slug: "quests"
 - Identify and avoid Sharon Payne's Chicago network
 - Investigate Greystone Fiduciary / brownstone for Maldavis
 - Counter Lodin Blood Bond (warned by Annabelle S036)
-- ACTIVE: Blood Bond (WW2101) Scene 5 remainder (Hunt for Bach / the Ride) + Scene 6 — 30-day Neally window (Mar 5 - Apr 4). Position authority: Blood Bond - Tracker.md.
-- DIRECTION: Next scene = deniable mission re Neally bond-breaking begins. Act III escalation phase.
+- ACTIVE: Blood Bond (WW2101) Scene 6 — hearing held D068, deal sealed; Creation Rite pending in the church cellar (timing OPEN); 30-day Neally window Mar 5 - Apr 4. Position authority: Blood Bond - Tracker.md.
+- DIRECTION: Next = Neally returns to the Chantry on his own feet after the Rite; Nicolai's blood reading; Archon lands (date OPEN). Player ruling: Blood Bond ends the Camarilla game; the Sabbat arc afterward uses a completely NEW PC group; finale = climax with cliffhangers.
 - NEW: Manage Tomás pact disclosure tension (D057 staking attempt, D064 Milwaukee exclusion = second violation)
 
 ## Shared Threats

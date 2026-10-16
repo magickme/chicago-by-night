@@ -43,7 +43,7 @@ The right hand had drifted off the hip half an inch. Not holstered, not drawn. T
 
 [Darius](/darius-cole/) told him the truth dressed as a lie. Circumstance, leverage, the shape of a situation the man could recognize because he lived inside one. The eyes narrowed. The cigarette lowered. The hand came off the hip entirely.
 
-One word. Darius spoke it and the man's legs locked. The cigarette burned between his fingers. His eyes widened -- the body had obeyed before the mind caught up, and the gap between those two events was a country the man would never visit again.
+One word. [Darius](/darius-cole/) spoke it and the man's legs locked. The cigarette burned between his fingers. His eyes widened -- the body had obeyed before the mind caught up, and the gap between those two events was a country the man would never visit again.
 
 Darius searched him. Right hip: Beretta 92F in a leather holster. He dropped the magazine, racked the slide, pocketed the chambered round. Set the empty pistol on a window ledge. Left jacket: Motorola Bravo pager. Right jacket: folding knife, nothing special. Back pocket: wallet. Illinois license -- Rafael Medina, South Lawndale address. Forty-three dollars. No credit cards. A slip of paper folded twice: phone number with "CJ" written under it.
 
@@ -105,7 +105,7 @@ Charcoal suit. It fit him worse than a month ago -- the shoulders hung a quarter
 
 Gray undertone in his skin. Hand on the doorframe trembling.
 
-Something surged in Darius's chest. Not anger, not sympathy. A pull, low and chemical, behind the sternum. The blood in Neally's veins was old -- second-generation ghoul, decades of vitae layered in his tissues like strata in limestone. The pull said: take it. The pull said: nobody would miss what was already half-gone. The pull remembered what ancient blood tasted like, and Neally's would taste like a building on fire, and Darius would drink every floor.
+Something surged in Darius's chest. Not anger, not sympathy. A pull, low and chemical, behind the sternum. The blood in [Neally](/npcs/neally-edwards/)'s veins was old -- second-generation ghoul, decades of vitae layered in his tissues like strata in limestone. The pull said: take it. The pull said: nobody would miss what was already half-gone. The pull remembered what ancient blood tasted like, and Neally's would taste like a building on fire, and Darius would drink every floor.
 
 He breathed once through his mouth. The pull receded. Data, not impulse. He filed it and walked past Neally as though the man were a doorframe.
 
@@ -123,9 +123,9 @@ Two ghouls flanked the interior door. One opened it.
 
 [Lodin](/npcs/lodin/) stood at the far end, silhouetted against the north windows, looking out at the Water Tower. He did not turn.
 
-The air in the room changed when they entered. Not temperature -- pressure. Something old and enclosed, ozone and iron, the predatory weight of a creature whose blood was centuries thicker than theirs. Sable's step hitched half a beat. [Tomas](/npcs/tomas/) adjusted his glasses. Darius felt the pull again -- deeper, more specific, aimed at the source rather than the proxy -- and buried it under the discipline of placing one foot in front of the other.
+The air in the room changed when they entered. Not temperature -- pressure. Something old and enclosed, ozone and iron, the predatory weight of a creature whose blood was centuries thicker than theirs. [Sable](/sable-price/)'s step hitched half a beat. [Tomas](/npcs/tomas/) adjusted his glasses. Darius felt the pull again -- deeper, more specific, aimed at the source rather than the proxy -- and buried it under the discipline of placing one foot in front of the other.
 
-Lodin turned.
+[Lodin](/npcs/lodin/) turned.
 
 "You came quickly."
 
@@ -139,7 +139,7 @@ He sat. The coterie stood.
 
 "[Brennon](/npcs/brennon-thornhill/) delivered your intelligence Monday evening." He opened the folder. Did not look at it -- theater, all parties aware. "[Jefferson Foster](/npcs/jefferson-foster/). [Emily Carter](/npcs/emily-carter/). The mechanism by which my administrator was compromised."
 
-He tested the silence. Whether they would fill it. Darius did not. Sable did not. Tomas did not. The silence was the correct answer, and all three of them knew it, and Lodin knew they knew it.
+He tested the silence. Whether they would fill it. Darius did not. Sable did not. [Tomas](/npcs/tomas/) did not. The silence was the correct answer, and all three of them knew it, and Lodin knew they knew it.
 
 He closed the folder.
 
@@ -147,7 +147,7 @@ He closed the folder.
 
 The acknowledgment was a tool. Darius received it as one.
 
-"The Blood Hunt on Foster is active. My people are searching. [Critias](/npcs/critias/) has operational authority over the physical hunt. That matter is in hand."
+"The Blood Hunt on [Foster](/npcs/jefferson-foster/) is active. My people are searching. [Critias](/npcs/critias/) has operational authority over the physical hunt. That matter is in hand."
 
 Shorter pause.
 

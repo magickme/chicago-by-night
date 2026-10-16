@@ -53,7 +53,7 @@ She found [Sophia](/npcs/sophia-ayes/) at the bar. Not at the bar the way mortal
 
 Black. Of course.
 
-[Sophia](/npcs/sophia-ayes/)'s eyes did one full, unhurried read when she saw [Sable](/sable-price/) coming. The red slip. The January skin. The entrance that was not an accident. Something crossed Sophia's face that she controlled before it became an expression.
+[Sophia](/npcs/sophia-ayes/)'s eyes did one full, unhurried read when she saw [Sable](/sable-price/) coming. The red slip. The January skin. The entrance that was not an accident. Something crossed [Sophia](/npcs/sophia-ayes/)'s face that she controlled before it became an expression.
 
 She waited until [Sable](/sable-price/) was close enough that she didn't have to raise her voice.
 
@@ -61,7 +61,7 @@ She waited until [Sable](/sable-price/) was close enough that she didn't have to
 
 But the corner of her mouth did something. Just the corner.
 
-"Your nails are gorgeous," Sable said.
+"Your nails are gorgeous," [Sable](/sable-price/) said.
 
 Sophia looked down at her hand. Not self-conscious. The reflex of someone who hadn't expected the angle. Her nails were deep burgundy, clean ovals, lacquered to a mirror finish. The kind of detail that announced itself without announcing itself.
 
@@ -87,7 +87,7 @@ Sophia recalibrated. Two seconds of silence that had weight in them.
 
 The wine glass turned again.
 
-"There's a version of Wednesday where you walk in and Annabelle already knows what you're worth. That version exists. Whether it exists for you depends on" — she stopped and looked at Sable directly for the first time since the nails — "what you do between now and then."
+"There's a version of Wednesday where you walk in and [Annabelle](/npcs/annabelle-triabell/) already knows what you're worth. That version exists. Whether it exists for you depends on" — she stopped and looked at Sable directly for the first time since the nails — "what you do between now and then."
 
 "And what would you do," Sable said, "if you were in my clothes?"
 
@@ -193,7 +193,7 @@ But he hadn't moved. Hadn't run.
 
 "And what are you here for?"
 
-The mustache twitched. The wide eye measured Darius again, then came back.
+The mustache twitched. The wide eye measured [Darius](/darius-cole/) again, then came back.
 
 "To see what [Critias](/npcs/critias/) has. What he is protecting. Why he bothers."
 

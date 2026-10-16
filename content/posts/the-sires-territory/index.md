@@ -49,7 +49,7 @@ It rolled up slow from behind, no lights, no siren. Driver's window came down. A
 
 Not a loitering stop. Not a random patrol. He knew the name.
 
-Darius stopped walking. "Someone wants to know you got home safe tonight," the cop said. "You need a ride?"
+[Darius](/darius-cole/) stopped walking. "Someone wants to know you got home safe tonight," the cop said. "You need a ride?"
 
 The passenger door opened from inside.
 
@@ -75,7 +75,7 @@ The car stopped at a restaurant entrance. Dark signage, iron security door, a ma
 
 Inside: restaurant closed for the night. Tables bare, chairs up on the tables, the lingering smell of star anise and cigarette smoke. A single light in the back, angled to illuminate the corner table and nothing else.
 
-Chuc Luc sat with a cup of tea he would never drink and account books open in front of him, pen set parallel to the spine. He didn't look up when Darius crossed the empty dining room. He was running a finger down a column of figures. The books were real. The finger was performance. The message was: you are not the most important thing happening right now.
+[Chuc Luc](/npcs/chuc-luc/) sat with a cup of tea he would never drink and account books open in front of him, pen set parallel to the spine. He didn't look up when Darius crossed the empty dining room. He was running a finger down a column of figures. The books were real. The finger was performance. The message was: you are not the most important thing happening right now.
 
 He looked up.
 
@@ -113,11 +113,11 @@ He paused. Not for effect. For calculation.
 
 "An old, dead vampire."
 
-"Very old." He wrote something, covered it with his hand before Darius could read it. "Don't pursue that line. Not yet. Not until you know more than [Bordruff](/npcs/nathaniel-bordruff/) does." The pen went down. "The tunnels are more important right now. If there's a pipeline running beneath this city that neither Lodin nor [Lucian](/npcs/lucian/) controls, everyone with product to move wants access. Including me." Direct eye contact. "Find me a third entrance. Something [Elzbieta](/npcs/elzbieta-furofsky/) hasn't flagged. Do that and we're current."
+"Very old." He wrote something, covered it with his hand before Darius could read it. "Don't pursue that line. Not yet. Not until you know more than [Bordruff](/npcs/nathaniel-bordruff/) does." The pen went down. "The tunnels are more important right now. If there's a pipeline running beneath this city that neither [Lodin](/npcs/lodin/) nor [Lucian](/npcs/lucian/) controls, everyone with product to move wants access. Including me." Direct eye contact. "Find me a third entrance. Something [Elzbieta](/npcs/elzbieta-furofsky/) hasn't flagged. Do that and we're current."
 
 "And Gary? The operation. Should I liquidate and stay in Chicago?"
 
-He considered this longer than anything else Darius had said tonight. "Gary is dormant, not dead. [Lucian](/npcs/lucian/) is watching the docks but he's watching for product movement. Empty docks are invisible docks." He closed the account book fully. "Keep the holdings. Maintain the cover. Don't go back until I tell you to." He stood. The meeting was over. "Chicago is the operation now. The tunnels, Lodin's court, whatever Bordruff is building toward. All of it runs through you."
+He considered this longer than anything else Darius had said tonight. "Gary is dormant, not dead. [Lucian](/npcs/lucian/) is watching the docks but he's watching for product movement. Empty docks are invisible docks." He closed the account book fully. "Keep the holdings. Maintain the cover. Don't go back until I tell you to." He stood. The meeting was over. "Chicago is the operation now. The tunnels, Lodin's court, whatever [Bordruff](/npcs/nathaniel-bordruff/) is building toward. All of it runs through you."
 
 He looked at Darius one last time.
 
@@ -145,7 +145,7 @@ He filed it.
 
 ---
 
-Old Chinatown. Wentworth and Cermak. Red lanterns swaying in the lake wind. Past midnight now, the restaurants closed, the street mostly empty. A street preacher on the corner. Worn suit, handheld microphone, battery-powered amp, saving souls for an audience of parked cars and locked doors.
+Old [Chinatown](/locations/chinatown/). Wentworth and Cermak. Red lanterns swaying in the lake wind. Past midnight now, the restaurants closed, the street mostly empty. A street preacher on the corner. Worn suit, handheld microphone, battery-powered amp, saving souls for an audience of parked cars and locked doors.
 
 Then from an alley between a closed herbalist and a locked dim sum restaurant, a sound. A man's breathing. Ragged. Held. And a woman's voice, very quiet: "Please."
 

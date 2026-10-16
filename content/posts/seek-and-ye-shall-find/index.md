@@ -51,7 +51,7 @@ Flash dropped into a chair. Tipped a hand. Go.
 
 Marcus gave it flat. The blood weakened with distance from the source. Thirteen steps removed was the wall. Past it, the blood couldn't carry itself forward. A bite at that remove killed, or it did nothing. It did not make another. [Klondike](/npcs/robert-klondike/) was thirteen steps out. So were they.
 
-The thing Klondike had been waiting on, a line, someone to carry his name past his own end, was never going to happen. The serum gave them the hunger and the long nights and everything else on the bill, and it left out the one clause Klondike was holding onto. He'd been waiting on an answer that was always going to be no.
+The thing [Klondike](/npcs/robert-klondike/) had been waiting on, a line, someone to carry his name past his own end, was never going to happen. The serum gave them the hunger and the long nights and everything else on the bill, and it left out the one clause Klondike was holding onto. He'd been waiting on an answer that was always going to be no.
 
 Monica looked at Terri. "Did anyone get to him today."
 
@@ -75,7 +75,7 @@ Then Emerson. Hadrick had come to him in January wanting four million made quiet
 
 Monica closed the folder.
 
-"Then this was never two cases. Prestor's money and the man investigating us walk into the same building downtown. Question is whether Holland and Hart is the firm that cleaned up after Prestor, or the firm that's hunting him. Because we just put Emerson's name in their hallway, and we don't know which one we did it to."
+"Then this was never two cases. [Prestor](/npcs/jacob-prestor/)'s money and the man investigating us walk into the same building downtown. Question is whether Holland and Hart is the firm that cleaned up after Prestor, or the firm that's hunting him. Because we just put Emerson's name in their hallway, and we don't know which one we did it to."
 
 The study was quiet. The fireplace was cold. Five people sat in a dead man's furniture with a dead man's money keeping the lights on and one firm's name written across every thread they'd pulled.
 

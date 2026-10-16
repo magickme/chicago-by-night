@@ -164,7 +164,7 @@ Silence. The drip counted three times.
 
 "Clean them up. Both of them. The man needs blood or he dies before sunrise." She was heading deeper into the tunnel. "You don't owe me. I don't owe you. We never met."
 
-She turned back. "You've got teeth, little Warlock. Nicolai picked well." The way she said the name carried recognition — not contempt, not respect. She knew the Regent. "Don't come down here again."
+She turned back. "You've got teeth, little Warlock. [Nicolai](/npcs/nicolai/) picked well." The way she said the name carried recognition — not contempt, not respect. She knew the Regent. "Don't come down here again."
 
 Then she was gone. Not footsteps receding — just absence. The draft resumed.
 
@@ -212,7 +212,7 @@ In the library, he wrote:
 
 *[Brennon Thornhill](/npcs/brennon-thornhill/) — Ventrue. Favor owed. Knows everyone who enters and leaves. Does not know what's under his own building.*
 
-*[Elzbieta Furofsky](/npcs/elzbieta-furofsky/) — Nosferatu. Khalid's childe. Pre-sewer tunnels under the Club. She mentioned Khalid by name.*
+*[Elzbieta Furofsky](/npcs/elzbieta-furofsky/) — Nosferatu. [Khalid](/npcs/khalid-al-rashid/)'s childe. Pre-sewer tunnels under the Club. She mentioned Khalid by name.*
 
 *What goes in Nicolai's report?*
 
