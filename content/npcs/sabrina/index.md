@@ -25,4 +25,3 @@ Sabrina's most recent project is the monstrous Nosferatu, [Elias the Whale](/npc
 
 **Image:** A stunning beauty, Sabrina has long auburn hair. However, her hair can't hide the scars that remain from her mortal experiments with body art. She stains all of her clothes with blood to contrast her beauty with horror.
 
-**Secrets:** Sabrina has discovered a hidden cache of [Veronique](/npcs/veronique/) La Cruelle's "homicidal artwork," as well as two of the archbishop's Zantosa servants. They have since become Sabrina's retainers.

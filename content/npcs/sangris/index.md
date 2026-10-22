@@ -11,7 +11,7 @@ ShowToc: false
 <dl>
 <dt>Clan</dt><dd>Serpent of the Light</dd>
 <dt>Generation</dt><dd>8th generation</dd>
-<dt>Role</dt><dd>Infernalist (HIDDEN identity)</dd>
+<dt>Role</dt><dd>Archbishop of Montreal</dd>
 <dt>City</dt><dd>Montreal</dd>
 </dl>
 </div>
