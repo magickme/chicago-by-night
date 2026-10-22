@@ -25,4 +25,3 @@ As a member of the Sabbat, Skin still believes that insects live under his skin.
 
 **Image:** Skin is a walking mass of ragged flesh, exposed muscle and open wounds. He can overwhelm the staunchest of constitutions.
 
-**Secrets:** Skin has a painting by the Shepherd and inquisitor Zhou, which he has "borrowed" and modified. The piece, one of Zhou's secret Taoist maps that leads to one of his ledgers, is a painting of the interior of Place de la Cathedrale mall.

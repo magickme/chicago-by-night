@@ -25,4 +25,3 @@ Raphael's mind is fragile. When he's lucid, he displays ancient wisdom and enlig
 
 **Image:** Raphael's twisted Nosferatu form hints at how beautiful he must have been as a mortal. Only his deep-green eyes remain to testify to a heavenly form. Occasionally, a golden aura shimmers around him.
 
-**Secrets:** Raphael is the only Shepherd who suspects Yitzhak of treachery, having found his rite of Sainting to be lacking in many ways. Raphael seeks to redeem the coven priest.

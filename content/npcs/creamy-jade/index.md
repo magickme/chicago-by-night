@@ -25,4 +25,3 @@ Fascinated by children, Monique -- who took the name "Creamy Jade" -- has desper
 
 **Image:** Creamy Jade resembles a delicate marble statue. Her extremely pale skin is cold yet soft as silk. Jade's Chinese features, narrow green eyes, luscious lips and short jet-black hair, combined with her use of Vicissitude, give her a delicate, childlike beauty. Creamy Jade nearly always wears finely tailored silk robes and dresses with silver and jade jewelry.
 
-**Secrets:** Creamy Jade knows a great deal about what goes on in Montreal, and she has assisted [Zarnovich](/npcs/zarnovich/) in his experiments.

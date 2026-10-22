@@ -11,7 +11,7 @@ ShowToc: false
 <dl>
 <dt>District</dt><dd>City center (parkland)</dd>
 <dt>Type</dt><dd>Failed Creation Rites site and supernatural dead zone</dd>
-<dt>Claimed By</dt><dd>Metathiax (contested)</dd>
+<dt>Claimed By</dt><dd>Contested</dd>
 <dt>City</dt><dd>Montreal</dd>
 </dl>
 </div>
@@ -27,10 +27,8 @@ ShowToc: false
 
 - The place where rituals go wrong. The mountain has been used for Creation Rites, Thaumaturgical workings, and ceremonies that left residue in the soil.
 - A supernatural dead zone. Disciplines behave unpredictably here. Auspex returns noise instead of signal. Thaumaturgy misfires.
-- Metathiax's domain — whatever Metathiax is. The mountain is claimed by something that the Sabbat hierarchy acknowledges without understanding.
 
 ## Who Controls It
 
-- Metathiax. The name circulates among Sabbat elders with the specific tension reserved for things they cannot categorize or destroy.
 - The failed Creation Rites have left the mountain's soil saturated with vitae and spiritual contamination. Something feeds on the failures.
 - Sabbat packs avoid the mountain after midnight unless ordered there. The avoidance is not official policy. It's survival instinct.

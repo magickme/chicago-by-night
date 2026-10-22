@@ -27,4 +27,3 @@ Stephanie has created a truly unique Thaumaturgical ritual called the Crucible t
 
 **Image:** Stephanie looks utterly inhuman. She has inserted metallic strips into her skin, which appear as shining protrusions at her joints. Her face has become almost featureless; her mouth and eyes are mere slits.
 
-**Secrets:** Stephanie recognizes [Ezekiel](/npcs/ezekiel/)'s limitless ambition and instinctively knows that he is ready to destroy Montreal to satisfy his desires.

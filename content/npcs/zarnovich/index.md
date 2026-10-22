@@ -27,4 +27,3 @@ Zarnovich has been conducting experiments on children and the elderly for the la
 
 **Image:** Zarnovich has had his limbs stretched and altered by Vicissitude, giving him a tall, gaunt -- not to mention disturbing -- appearance. His face is extremely hollow and has a well-defined bone structure over which his flesh stretches. He always wears black to hide the bloodstains on his clothes, but the smell of formaldehyde about him is unmistakable.
 
-**Secrets:** Surprisingly, Zarnovich knows more about Montreal than most think, and he often sends his "creations" out to spy. Zarnovich's agents learned of the growth in [Caroline Bishop](/npcs/caroline-bishop/). Zarnovich is unsure whether to approach her to offer his help or simply to kidnap her. Whatever he decides, he knows that [Stephanie L'Heureux](/npcs/stephanie-lheureux/), his progeny and leader of the Wretched, will be jealous, so he must keep his plans secret from her.

@@ -11,7 +11,7 @@ ShowToc: false
 <dl>
 <dt>Clan</dt><dd>Ventrue antitribu</dd>
 <dt>Generation</dt><dd>6th generation</dd>
-<dt>Role</dt><dd>Cardinal of Montreal (HIDDEN)</dd>
+<dt>Role</dt><dd>Cardinal of Canada</dd>
 <dt>City</dt><dd>Montreal</dd>
 </dl>
 </div>

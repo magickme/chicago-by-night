@@ -25,4 +25,3 @@ Gharston has been a faithful member of the Sabbat and has become the enforcer of
 
 **Image:** Gharston's face is rugged; he has closely cropped dirty-blond hair and a goatee. He wears wire-rimmed glasses (a relic from his mortal life), jeans and a leather trench coat in which he carries two 9-mm. pistols loaded with silver bullets. He has a tattoo of a spiral dragon on his left cheek.
 
-**Secrets:** Gharston has little to go on, but suspects that there is more to [Pierre Bellemare](/npcs/pierre-bellemare/) than meets the eye.
