@@ -318,12 +318,13 @@ Published scenes from **Chicago Chronicles** in chronological order.
 
 ### Chapter 25 — Blood Bond
 
-*Jun 5, 1992, 8:45 PM through Jun 12, 1992, 8:45 PM.*
+*Jun 5, 1992, 8:45 PM through Jun 13, 1992, 8:27 PM.*
 
 | # | Scene | PC | Date |
 |---|---|---|---|
 | 106 | [The Ride](/posts/the-ride/) | Darius | Jun 5, 1992, 8:45 PM |
 | 107 | [The Hearing at the Grave](/posts/the-hearing-at-the-grave/) | Darius | Jun 12, 1992, 8:45 PM |
+| 108 | [The Signed Discharge](/posts/the-signed-discharge/) | Darius + Sable | Jun 13, 1992, 8:27 PM |
 
 ---
 

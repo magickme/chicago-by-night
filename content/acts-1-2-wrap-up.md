@@ -13,6 +13,8 @@ Darius Cole, Sable Price and Tomás Navarro are together in Archon Maryann Fletc
 
 Maryann places a police photograph of Andrzej's body on the table and asks where they fed last night. Nobody has answered.
 
+Read the closing scene: [The Signed Discharge](/posts/the-signed-discharge/).
+
 Acts I and II are complete. This page records the ending, the city left behind, and the obligations carried into the Sabbat arc. The next viewpoint and starting date remain open.
 
 [Campaign outline](/campaign/) · [Reading order](/reading-order/) · [Final boon ledger](#final-boon-ledger) · [Open threads](#open-threads)
