@@ -1,11 +1,17 @@
 ---
-title: "The Green Door — Saturday, 14 July 1990, 11:30 PM"
-date: 1990-07-14T23:30:00
-lastmod: 2026-03-24
+title: "The Green Door — Saturday, July 13, 1991, 11:30 PM"
+date: 1991-07-13T23:30:00
+lastmod: 2026-10-22
 tags: ["forged-in-steel", "sable", "vtm", "gary"]
 categories: ["Chapter 6 — The Pipeline"]
 description: "An empty block. A chain bolted to a floor ring. Forty-three entries in a dead man's hand. The price of quiet."
+chronology_rebased: 2026-10-22
+chronology_original_night: "1990-07-14"
+scene_night_date: "1991-07-13"
 ---
+
+*Chronology revised October 22, 2026. [Acts I & II timeline](/acts-1-2-wrap-up/#scene-by-scene-chronology).*
+
 
 *Polk & 13th Church / West Side*
 *Gary, Indiana*
@@ -38,7 +44,7 @@ The last three entries were crossed out in red:
 *F/15/W — HELD. Storage 114.*
 *CLOSED.*
 
-[Keisha](/npcs/keisha-williams/). Amy. June 23rd. The night the operation burned.
+[Keisha](/npcs/keisha-williams/). Amy. Jun 22. The night the operation burned.
 
 [Sable](/sable-price/) put the notebook in her jacket pocket. Forty-three people recorded with less ceremony than a pawnbroker gives a watch. Two rescued. Forty-one somewhere else, wherever the money took them, Milwaukee or Chicago or wherever Mr. White spent his October purchases, and the notebook held their entire existence in this building — the sum total of their presence reduced to a line of abbreviations and a dollar amount that wouldn't cover a month's rent on a decent apartment.
 

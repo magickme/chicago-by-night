@@ -1,11 +1,17 @@
 ---
-title: "The Assessment — Monday, 21 January 1991, 4:35 PM"
-date: 1991-01-21T16:35:00
-lastmod: 2026-04-06
+title: "The Assessment — Monday, February 10, 1992, 5:21 PM"
+date: 1992-02-10T17:21:00
+lastmod: 2026-10-22
 tags: ["ashes-and-blood", "sable", "vtm", "chicago"]
 categories: ["Chapter 6 — The Underground"]
 description: "A quiet Monday at the Succubus Club. Sir Henry has been making inquiries at the Drake. Annabelle's childe has been making assessments of her own."
+chronology_rebased: 2026-10-22
+chronology_original_night: "1991-01-21"
+scene_night_date: "1992-02-10"
 ---
+
+*Chronology revised October 22, 2026. [Acts I & II timeline](/acts-1-2-wrap-up/#scene-by-scene-chronology).*
+
 
 *[Succubus Club](/locations/succubus-club/)*
 

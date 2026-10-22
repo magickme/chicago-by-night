@@ -1,11 +1,17 @@
 ---
-title: "The Hunters — Wednesday, February 6, 1991, 5:10 PM"
-date: 1991-02-06T17:10:00
-lastmod: 2026-05-13
+title: "The Hunters — Wednesday, April 1, 1992, 6:21 PM"
+date: 1992-04-01T18:21:00
+lastmod: 2026-10-22
 tags: ["ashes-and-blood", "darius", "sable", "tomas", "vtm", "chicago"]
 categories: ["Chapter 20 — Hunter Operations"]
 description: "A scorched skull on a Pilsen rooftop, a dinner reservation on Taylor Street, and two ex-Jesuits who came to Chicago expecting to do the killing."
+chronology_rebased: 2026-10-22
+chronology_original_night: "1991-02-06"
+scene_night_date: "1992-04-01"
 ---
+
+*Chronology revised October 22, 2026. [Acts I & II timeline](/acts-1-2-wrap-up/#scene-by-scene-chronology).*
+
 
 *Kaspar & Sons (Pilsen) / Pilsen rooftop / [Settebello](/locations/settebello/) ([Taylor](/npcs/helena-taylor/) Street) / Lake Shore Drive*
 
@@ -95,7 +101,7 @@ Tomás was on the second extension by then. [Nicolai](/npcs/nicolai/) had picked
 
 Darius made one more call. [Annabelle](/npcs/annabelle-triabell/) did not recognize the name Paula Magnus. She thanked him for the warning the way she thanked everyone for everything — like the courtesy was unexpected and slightly inconvenient. She would have someone walk the property line by midnight.
 
-He hung up and stood at the basement window. The flurries had picked up. February at eighteen degrees, the kind of cold that came in through the seams of the building and pooled at the ankles. He fed in Pilsen an hour later. A hustler off 18th who owed money he could not pay. Choleric, the table said. The blood ran hot.
+He hung up and stood at the basement window. The rain had picked up. April at forty degrees, the kind of cold that came in through the seams of the building and pooled at the ankles. He fed in Pilsen an hour later. A hustler off 18th who owed money he could not pay. Choleric, the table said. The blood ran hot.
 
 He came back full.
 
@@ -133,7 +139,7 @@ Out in the cold, the man's eyes caught Darius's. Held. Stayed.
 
 It went in clean. Not pressure — direction. Names came out one at a time, neat as filing. The Chicago cell: four operatives confirmed, possibly an associate. Sayles ran field. Tomba ran field and forgery. A Jesuit at Loyola named Koenig sat in a basement and read. A woman named Margaret Weil moved paper through the Archdiocese. Headquarters in Washington, off North Michigan Avenue, with a back fence onto Catholic University property. Georgetown was consecrated ground and the Society used it. Distribution ran through Chicago, New Orleans, and a shop on Newbury Street in Boston.
 
-[Dane](/npcs/sullivan-dane/) sent his reports to a post office box in D.C. He still received the quarterly bulletins. October 1990 he had logged Gary as *low-density, no action recommended.* January 1991 the bulletin had retained him at *low priority.* Next bulletin: April.
+[Dane](/npcs/sullivan-dane/) sent his reports to a post office box in D.C. He still received the quarterly bulletins. October 1991 he had logged Gary as *low-density, no action recommended.* January 1992 the bulletin had retained him at *low priority.* Next bulletin: April.
 
 Three Chicago targets had been identified by physical description and not by name. A woman who worked a North Side nightclub. A man at the Civic Opera House. A figure attached to the university near [Hyde Park](/locations/hyde-park/).
 
@@ -143,7 +149,7 @@ He did Tomba in the bathroom. Same script. He added one line for Tomba alone: *i
 
 The Forgetful Mind closed both of them like books. Pleasant evening. Payment negotiated. Book sale discussed. Good food.
 
-Sayles stood up at nine-fifty and put his gloves back on one finger at a time. Tomba paid the check in cash. They shook hands with Herdon and nodded again to the table and walked out into the snow.
+Sayles stood up at nine-fifty and put his gloves back on one finger at a time. Tomba paid the check in cash. They shook hands with Herdon and nodded again to the table and walked out into the rain.
 
 Darius watched them through the leaded glass at the front. They did not look back.
 
@@ -151,7 +157,7 @@ He paid Settebello in cash. He drove Herdon home and parked the Buick a block fr
 
 Darius called [Neally](/npcs/neally-edwards/) from the carphone at ten-thirty. Gave him the whole thing — names, addresses, the cell, the network, the three Kindred descriptions. Asked the Prince's office to issue warnings through the appropriate channels. [Neally](/npcs/neally-edwards/) said *good work* in the flat way he said everything and ended the call without saying goodbye.
 
-The snow was heavier by then. Lake Shore Drive northbound, the city lit up to the right of the windshield, the Hancock Building blinking red at the top.
+The rain was heavier by then. Lake Shore Drive northbound, the city lit up to the right of the windshield, the Hancock Building blinking red at the top.
 
 Sable was looking out the side window. After a long minute she said, "[Michael](/npcs/michael/)."
 

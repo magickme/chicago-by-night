@@ -1,11 +1,17 @@
 ---
-title: "The Handshake — Sunday, 22 July 1990, 8:21 PM"
-date: 1990-07-22T20:21:00
-lastmod: 2026-03-25
+title: "The Handshake — Sunday, July 21, 1991, 8:21 PM"
+date: 1991-07-21T20:21:00
+lastmod: 2026-10-22
 tags: ["forged-in-steel", "sable", "vtm", "gary"]
 categories: ["Chapter 7 — The Coterie"]
 description: "A cover story, a blood bond, a burgundy Oldsmobile, and a handshake between two predators who just gave each other loaded weapons and called it partnership."
+chronology_rebased: 2026-10-22
+chronology_original_night: "1990-07-22"
+scene_night_date: "1991-07-21"
 ---
+
+*Chronology revised October 22, 2026. [Acts I & II timeline](/acts-1-2-wrap-up/#scene-by-scene-chronology).*
+
 
 *Kendrick's Auto / Seventeenth Street / Fifth Avenue Studio*
 *Gary, Indiana*

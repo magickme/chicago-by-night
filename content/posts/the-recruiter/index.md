@@ -1,11 +1,17 @@
 ---
-title: "The Recruiter — Tuesday, 8 January 1991, 4:28 PM"
-date: 1991-01-08T16:28:00
-lastmod: 2026-04-03
+title: "The Recruiter — Tuesday, January 14, 1992, 4:48 PM"
+date: 1992-01-14T16:48:00
+lastmod: 2026-10-22
 tags: ["ashes-and-blood", "darius", "vtm", "chicago"]
 categories: ["Chapter 4 — Clean Hands"]
 description: "A Brujah with a flask of blood and too-sharp eyes gives Darius everything he needs to know about Ballard's frame job. The price is a conversation. The driver's apartment is a fire escape away."
+chronology_rebased: 2026-10-22
+chronology_original_night: "1991-01-08"
+scene_night_date: "1992-01-14"
 ---
+
+*Chronology revised October 22, 2026. [Acts I & II timeline](/acts-1-2-wrap-up/#scene-by-scene-chronology).*
+
 
 *[Succubus Club](/locations/succubus-club/) / North Side / Allerton Hotel*
 *Chicago, Illinois*

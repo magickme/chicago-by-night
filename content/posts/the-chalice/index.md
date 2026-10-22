@@ -1,11 +1,17 @@
 ---
-title: "The Chalice — Monday, February 11, 1991, 5:18 PM"
-date: 1991-02-11T17:18:00
-lastmod: 2026-05-13
+title: "The Chalice — Monday, April 6, 1992, 7:27 PM"
+date: 1992-04-06T19:27:00
+lastmod: 2026-10-22
 tags: ["ashes-and-blood", "darius", "sable", "tomas", "vtm", "chicago"]
 categories: ["Chapter 22 — Blood Bond"]
 description: "Forty-one floors up, the Prince pours a single chalice. Three swallows that nobody in the room was going to stop."
+chronology_rebased: 2026-10-22
+chronology_original_night: "1991-02-11"
+scene_night_date: "1992-04-06"
 ---
+
+*Chronology revised October 22, 2026. [Acts I & II timeline](/acts-1-2-wrap-up/#scene-by-scene-chronology).*
+
 
 *[Prudential Building](/locations/) (41st floor) / Chicago Streets / [Kaspar & Sons](/locations/kaspar-and-sons/) Haven (Pilsen)*
 

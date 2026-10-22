@@ -1,11 +1,17 @@
 ---
-title: "The Rail Baron — Wednesday, 16 January 1991, 11:30 PM"
-date: 1991-01-17T00:00:00
-lastmod: 2026-04-04
+title: "The Rail Baron — Wednesday, February 5, 1992, 11:30 PM"
+date: 1992-02-05T23:30:00
+lastmod: 2026-10-22
 tags: ["ashes-and-blood", "sable", "darius", "vtm", "chicago"]
 categories: ["Chapter 5 — Annabelle's Party"]
 description: "A warehouse in the marshalling yards south of Union Station. A fat man with a model railroad and a grudge he thought was his own. Two neonates who know the difference."
+chronology_rebased: 2026-10-22
+chronology_original_night: "1991-01-16"
+scene_night_date: "1992-02-05"
 ---
+
+*Chronology revised October 22, 2026. [Acts I & II timeline](/acts-1-2-wrap-up/#scene-by-scene-chronology).*
+
 
 *Union Station Marshalling Yards / [Drummond](/npcs/edgar/)'s Warehouse / [Succubus Club](/locations/succubus-club/)*
 
@@ -87,4 +93,4 @@ They sat in the Cutlass and didn't talk for a while. [Darius](/darius-cole/) sta
 
 He pulled onto Wacker Drive. The river was black underneath. The city ran on rails and the rails ran on a fat man's loneliness and nobody had ever asked him about it and [Sable](/sable-price/) had and the asking was the knife and the knife had opened something that couldn't be closed.
 
-Room 9. The radiator clanked. The ice machine cycled. Baghdad burned on every screen in America and in the private lounge of the [Succubus Club](/locations/succubus-club/) the dead were eating their own and the two Gary neonates who had served the meal were already ghosts in the stairwell, already gone, already nowhere anyone would think to look.
+Room 9. The radiator clanked. The ice machine cycled. Last year's Baghdad footage played on television and in the private lounge of the [Succubus Club](/locations/succubus-club/) the dead were eating their own and the two Gary neonates who had served the meal were already ghosts in the stairwell, already gone, already nowhere anyone would think to look.

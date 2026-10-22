@@ -1,11 +1,17 @@
 ---
-title: "The Ledger — Thursday, 26 July 1990, 8:19 PM"
-date: 1990-07-26T20:19:00
-lastmod: 2026-03-26
+title: "The Ledger — Thursday, July 25, 1991, 8:19 PM"
+date: 1991-07-25T20:19:00
+lastmod: 2026-10-22
 tags: ["forged-in-steel", "darius", "vtm", "gary"]
 categories: ["Chapter 8 — The Operational"]
 description: "A phone rings at sundown and the wrong voice is on the other end. A man who can't be remembered has been asking questions about the warehouse, the night shift, the federal agent. The waterfront has three problems now, and one of them is underwater."
+chronology_rebased: 2026-10-22
+chronology_original_night: "1990-07-26"
+scene_night_date: "1991-07-25"
 ---
+
+*Chronology revised October 22, 2026. [Acts I & II timeline](/acts-1-2-wrap-up/#scene-by-scene-chronology).*
+
 
 *West-Side Haven / Docks / [Modius's Mansion](/locations/modius-mansion/) / Hennessey's Bar*
 *Gary, Indiana*

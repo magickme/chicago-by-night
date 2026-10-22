@@ -1,11 +1,17 @@
 ---
-title: "The Sire's Territory — Monday, February 4, 1991, 5:09 PM"
-date: 1991-02-04T17:09:00
-lastmod: 2026-05-07
+title: "The Sire's Territory — Monday, March 30, 1992, 6:19 PM"
+date: 1992-03-30T18:19:00
+lastmod: 2026-10-22
 tags: ["ashes-and-blood", "darius", "vtm", "chicago"]
 categories: ["Chapter 11 — Act III Opening"]
 description: "Twenty-six days of silence buys a meeting on someone else's terms. A disconnected phone line, a cruiser that knows his name, and a sire who counts every hour like currency."
+chronology_rebased: 2026-10-22
+chronology_original_night: "1991-02-04"
+scene_night_date: "1992-03-30"
 ---
+
+*Chronology revised October 22, 2026. [Acts I & II timeline](/acts-1-2-wrap-up/#scene-by-scene-chronology).*
+
 
 *Kaspar & Sons (South Pilsen) / [Chinatown](/locations/chinatown/) (Old + New) / South Loop (Wabash near Congress)*
 
@@ -25,7 +31,7 @@ Twenty-six days. He'd run the math before dialing. Twenty-six days since [Lodin]
 
 That was a message.
 
-He checked the .357 in the shoulder rig. Full cylinder. Took the stairs up through the funeral parlor, past the display caskets and the smell of formaldehyde and cut flowers, out the side entrance into February.
+He checked the .357 in the shoulder rig. Full cylinder. Took the stairs up through the funeral parlor, past the display caskets and the smell of formaldehyde and cut flowers, out the side entrance into March.
 
 Fifty-one degrees and dropping. Monday night in Pilsen. He needed blood before anything else. Five out of thirteen and four nights since his last proper feed. The math on that was worse than the math on the phone call.
 
@@ -65,9 +71,9 @@ So. The cruiser had been sitting half a block from Kaspar & Sons when Darius lef
 
 Darius got in.
 
-The ride was twenty-five minutes. Gulf War footage on the radio. Schwarzkopf's briefing, smart bomb footage, a correspondent describing the highway north of Kuwait City. [Gold Coast](/locations/gold-coast/) to the Loop to the red lanterns on Wentworth Avenue. Darius sat in the back seat and calculated. The cop's blood was wrong. [Chuc Luc](/npcs/chuc-luc/) paid well and on time, no unpayable debt, nothing that qualified. He'd arrive in [Chinatown](/locations/chinatown/) hungry.
+The ride was twenty-five minutes. A radio retrospective on the Gulf War: Schwarzkopf's briefings and a correspondent remembering the highway north of Kuwait City. [Gold Coast](/locations/gold-coast/) to the Loop to the red lanterns on Wentworth Avenue. Darius sat in the back seat and calculated. The cop's blood was wrong. [Chuc Luc](/npcs/chuc-luc/) paid well and on time, no unpayable debt, nothing that qualified. He'd arrive in [Chinatown](/locations/chinatown/) hungry.
 
-The car stopped at a restaurant entrance. Dark signage, iron security door, a man outside in a jacket too light for February. The man opened Darius's door without looking at him.
+The car stopped at a restaurant entrance. Dark signage, iron security door, a man outside in a jacket too light for March. The man opened Darius's door without looking at him.
 
 "Here."
 

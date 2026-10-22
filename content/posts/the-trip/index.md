@@ -1,11 +1,18 @@
 ---
 title: "The Trip"
-date: 1991-01-03T01:00:00
+date: 1992-01-04T01:00:00
 lastmod: 2026-04-01
 tags: ["ashes-to-ashes", "flashback", "roarke", "vtm", "ashes-and-blood", "chicago", "london"]
 categories: ["Chapter 2 — Pawns in the Game"]
 description: "A tail on Lake Shore Drive. A bomb that wasn't meant to work. Two mouthfuls of ancient blood at thirty thousand feet."
+chronology_frame_date: "1992-01-04"
+chronology_rebased: 2026-10-22
+chronology_original_night: "1991-01-03"
+scene_night_date: "1992-01-04"
 ---
+
+*Chronology revised October 22, 2026. [Acts I & II timeline](/acts-1-2-wrap-up/#scene-by-scene-chronology).*
+
 
 *O'Hare Airport / Airborne — Atlantic*
 *Chicago to London — October 1969*

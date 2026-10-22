@@ -1,11 +1,17 @@
 ---
-title: "On the Hunt — Saturday, March 2, 1991, 5:48 PM"
-date: 1991-03-02T17:48:00
-lastmod: 2026-05-13
+title: "On the Hunt — Saturday, May 30, 1992, 8:30 PM"
+date: 1992-05-30T20:30:00
+lastmod: 2026-10-22
 tags: ["ashes-and-blood", "sable", "vtm", "chicago"]
 categories: ["Chapter 12 — Blood Bond"]
 description: "A barefoot redhead runs out of a Pilsen alley wearing somebody else's blood. The thing chasing her used to chair Primogen sessions. Before the night is over Sable will stand between an elder and his kill, take a girl into the dark of her own basement, and find a man on a sidewalk who looks at her and sees what's underneath."
+chronology_rebased: 2026-10-22
+chronology_original_night: "1991-03-02"
+scene_night_date: "1992-05-30"
 ---
+
+*Chronology revised October 22, 2026. [Acts I & II timeline](/acts-1-2-wrap-up/#scene-by-scene-chronology).*
+
 
 *South Pilsen / Halsted Street / [Kaspar & Sons](/locations/kaspar-haven/) / Lula's, 47th Street*
 

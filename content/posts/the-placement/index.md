@@ -1,11 +1,17 @@
 ---
-title: "The Placement — Thursday, 19 July 1990, 9:30 PM"
-date: 1990-07-19T21:30:00
-lastmod: 2026-03-24
+title: "The Placement — Thursday, July 18, 1991, 9:30 PM"
+date: 1991-07-18T21:30:00
+lastmod: 2026-10-22
 tags: ["forged-in-steel", "sable", "vtm", "gary", "chicago"]
 categories: ["Chapter 6 — The Pipeline"]
 description: "Seven locations. Four phone calls. Two girls who needed more than a vampire could give. One night that wasn't long enough."
+chronology_rebased: 2026-10-22
+chronology_original_night: "1990-07-19"
+scene_night_date: "1991-07-18"
 ---
+
+*Chronology revised October 22, 2026. [Acts I & II timeline](/acts-1-2-wrap-up/#scene-by-scene-chronology).*
+
 
 *Broadway / [Modius's Mansion](/locations/modius-mansion/) / Fifth Avenue / Englewood / East Chicago*
 *Gary, Indiana — Chicago, Illinois*

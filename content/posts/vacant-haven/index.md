@@ -1,11 +1,17 @@
 ---
-title: "Vacant Haven — Wednesday, 2 January 1991, 9:30 PM"
-date: 1991-01-02T21:30:00
-lastmod: 2026-03-30
+title: "Vacant Haven — Thursday, January 2, 1992, 9:30 PM"
+date: 1992-01-02T21:30:00
+lastmod: 2026-10-22
 tags: ["ashes-to-ashes", "darius", "sable", "vtm", "ashes-and-blood", "chicago"]
 categories: ["Chapter 1 — Ashes to Ashes"]
 description: "A Toreador pulls off her gloves in a dead Prince's apartment and reads the walls. A Brujah Primogen who has outlived empires watches her do it. The vault door was torn like paper. Someone is on the other end of the pendant."
+chronology_rebased: 2026-10-22
+chronology_original_night: "1991-01-02"
+scene_night_date: "1992-01-02"
 ---
+
+*Chronology revised October 22, 2026. [Acts I & II timeline](/acts-1-2-wrap-up/#scene-by-scene-chronology).*
+
 
 *[Sears Tower](/locations/sears-tower/), 107th Floor — [Lodin's Haven](/locations/lodins-haven/)*
 *Chicago, Illinois*

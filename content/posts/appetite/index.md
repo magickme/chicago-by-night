@@ -1,14 +1,20 @@
 ---
-title: "Appetite — Sunday, 6 January 1991, 4:28 PM"
-date: 1991-01-06T16:28:00
-lastmod: 2026-04-02
+title: "Appetite — Sunday, January 12, 1992, 4:45 PM"
+date: 1992-01-12T16:45:00
+lastmod: 2026-10-22
 tags: ["ashes-and-blood", "sable", "vtm", "chicago"]
 categories: ["Chapter 4 — Clean Hands"]
 description: "Three feeds for sport. A phone call to a prince who thinks he owns her. A woman kicked out at dawn. The distance between wanting to be human and being human is where she lives now."
+chronology_rebased: 2026-10-22
+chronology_original_night: "1991-01-06"
+scene_night_date: "1992-01-12"
 ---
 
+*Chronology revised October 22, 2026. [Acts I & II timeline](/acts-1-2-wrap-up/#scene-by-scene-chronology).*
+
+
 *[Succubus Club](/locations/succubus-club/) / [Allerton Hotel](/locations/allerton-hotel/)*
-*Chicago, Illinois — January 6, 1991*
+*Chicago, Illinois — January 12, 1992*
 
 ---
 

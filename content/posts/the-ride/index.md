@@ -1,11 +1,17 @@
 ---
-title: "The Ride — Friday, March 8, 1991, 5:48 PM"
-date: 1991-03-08T17:48:00
-lastmod: 2026-10-12
+title: "The Ride — Friday, June 5, 1992, 8:45 PM"
+date: 1992-06-05T20:45:00
+lastmod: 2026-10-22
 tags: ["ashes-and-blood", "darius", "vtm", "chicago"]
 categories: ["Chapter 25 — Blood Bond"]
 description: "Neally brings Darius a name he should have known before drinking the blood. To get the next answer, Darius must spend a night riding with Bach."
+chronology_rebased: 2026-10-22
+chronology_original_night: "1991-03-08"
+scene_night_date: "1992-06-05"
 ---
+
+*Chronology revised October 22, 2026. [Acts I & II timeline](/acts-1-2-wrap-up/#scene-by-scene-chronology).*
+
 
 *Kaspar & Sons / South Side streets / [Sears Tower](/locations/sears-tower/)*
 *Chicago, Illinois*

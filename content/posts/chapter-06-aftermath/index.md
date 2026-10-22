@@ -1,11 +1,17 @@
 ---
-title: "Aftermath — Wednesday, 17 January 1990, 10:00 PM"
-date: 1990-01-17T22:00:00
-lastmod: 2026-03-19
+title: "Aftermath — Wednesday, January 16, 1991, 10:00 PM"
+date: 1991-01-16T22:00:00
+lastmod: 2026-10-22
 tags: ["chapter", "darius", "vtm", "forged-in-steel", "gary"]
 categories: ["Chapter 1 — New Year's Eve"]
 description: "A detective with a notebook. A word in a parking lot. A painter who accepts gifts but not trust. A bar where nobody asks questions."
+chronology_rebased: 2026-10-22
+chronology_original_night: "1990-01-17"
+scene_night_date: "1991-01-16"
 ---
+
+*Chronology revised October 22, 2026. [Acts I & II timeline](/acts-1-2-wrap-up/#scene-by-scene-chronology).*
+
 
 *West Side / The Horseshoe / [Telton Cemetery](/locations/telton-cemetery/) / Kiefer's*
 *Gary, Indiana*

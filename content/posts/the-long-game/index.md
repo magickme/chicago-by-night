@@ -1,14 +1,20 @@
 ---
-title: "The Long Game — August through November, 1990"
-date: 1990-12-01T16:25:00
-lastmod: 2026-03-27
+title: "The Long Game — August through November 1991"
+date: 1991-11-30T16:25:00
+lastmod: 2026-10-22
 tags: ["forged-in-steel", "darius", "sable", "vtm", "gary", "bluebook"]
 categories: ["Interlude — The Long Game"]
 description: "Four months in a dying city. A pipeline hums. A proxy takes shape. A hunter builds a case. A mother leaves a message on an answering machine at two in the morning. And a party invitation arrives in December with a prince's seal on it."
+chronology_rebased: 2026-10-22
+chronology_original_night: "1990-12-01"
+scene_night_date: "1991-11-30"
 ---
 
+*Chronology revised October 22, 2026. [Acts I & II timeline](/acts-1-2-wrap-up/#scene-by-scene-chronology).*
+
+
 *Gary, Indiana*
-*August -- November, 1990*
+*August -- November, 1991*
 
 ---
 

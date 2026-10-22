@@ -1,11 +1,17 @@
 ---
-title: "The Fixer — Tuesday, 17 July 1990, 10:30 PM"
-date: 1990-07-17T22:30:00
-lastmod: 2026-03-24
+title: "The Fixer — Tuesday, July 16, 1991, 10:30 PM"
+date: 1991-07-16T22:30:00
+lastmod: 2026-10-22
 tags: ["forged-in-steel", "darius", "vtm", "gary"]
 categories: ["Chapter 6 — The Pipeline"]
 description: "Three layers, three operators, one building. The mortgage. The night. The FBI file. And a handshake that wasn't a prince's."
+chronology_rebased: 2026-10-22
+chronology_original_night: "1990-07-17"
+scene_night_date: "1991-07-16"
 ---
+
+*Chronology revised October 22, 2026. [Acts I & II timeline](/acts-1-2-wrap-up/#scene-by-scene-chronology).*
+
 
 *[The Torch](/locations/the-torch/), Broadway*
 *Gary, Indiana*

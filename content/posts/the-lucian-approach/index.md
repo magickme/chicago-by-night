@@ -1,11 +1,17 @@
 ---
-title: "The Lucian Approach — Monday, 25 June 1990, 11:00 PM"
-date: 1990-06-25T23:00:00
-lastmod: 2026-03-23
+title: "The Lucian Approach — Monday, June 24, 1991, 11:00 PM"
+date: 1991-06-24T23:00:00
+lastmod: 2026-10-22
 tags: ["forged-in-steel", "darius", "vtm", "gary"]
 categories: ["Chapter 5 — The Deals"]
 description: "A cinderblock office. A mortgage folder. A six-hundred-year-old Gangrel who reads liars the way jewelers read stones. A business card with no name."
+chronology_rebased: 2026-10-22
+chronology_original_night: "1990-06-25"
+scene_night_date: "1991-06-24"
 ---
+
+*Chronology revised October 22, 2026. [Acts I & II timeline](/acts-1-2-wrap-up/#scene-by-scene-chronology).*
+
 
 *Gary Exports Co., East Chicago Harbor*
 *Gary, Indiana*

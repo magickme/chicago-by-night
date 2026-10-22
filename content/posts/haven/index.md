@@ -1,11 +1,17 @@
 ---
-title: "Haven — Thursday, 4 January 1990, 9:00 PM"
-date: 1990-01-04T21:00:00
-lastmod: 2026-03-17
+title: "Haven — Thursday, January 3, 1991, 9:00 PM"
+date: 1991-01-03T21:00:00
+lastmod: 2026-10-22
 tags: ["chapter", "sable", "vtm", "forged-in-steel", "gary"]
 categories: ["Chapter 1 — New Year's Eve"]
 description: "Sable goes looking for a place to sleep. A man with a van finds her first."
+chronology_rebased: 2026-10-22
+chronology_original_night: "1990-01-04"
+scene_night_date: "1991-01-03"
 ---
+
+*Chronology revised October 22, 2026. [Acts I & II timeline](/acts-1-2-wrap-up/#scene-by-scene-chronology).*
+
 
 *Tolleston*
 *Gary, Indiana*

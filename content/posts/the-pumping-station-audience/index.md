@@ -1,11 +1,17 @@
 ---
-title: "The Pumping Station Audience — Tuesday, March 5, 1991, 5:45 PM"
-date: 1991-03-05T17:45:00
-lastmod: 2026-05-21
+title: "The Pumping Station Audience — Tuesday, June 2, 1992, 9:00 PM"
+date: 1992-06-02T21:00:00
+lastmod: 2026-10-22
 tags: ["ashes-and-blood", "darius", "vtm", "chicago"]
 categories: ["Chapter 23 — Lextalionis"]
 description: "A contract killer in a Pilsen alley. A trembling doorman on the Magnificent Mile. Lodin asks a question with no right answer, and the coterie holds a secret worth more than the one they just sold him."
+chronology_rebased: 2026-10-22
+chronology_original_night: "1991-03-05"
+scene_night_date: "1992-06-02"
 ---
+
+*Chronology revised October 22, 2026. [Acts I & II timeline](/acts-1-2-wrap-up/#scene-by-scene-chronology).*
+
 
 *Pilsen (West Side) / Rail Yards / [Pumping Station](/locations/) (Water Tower Gallery)*
 
@@ -13,7 +19,7 @@ description: "A contract killer in a Pilsen alley. A trembling doorman on the Ma
 
 ---
 
-The snow started after dark. Fine dry grit that didn't stick to the sidewalks but collected in the seams of things -- window ledges, gutter lips, the fold of [Darius's](/darius-cole/) collar where it met the overcoat. He walked south on Ashland with the Colt under his left arm, magazine loaded, hands in his pockets. The streetlights threw orange pools on wet concrete. Storefronts dark -- taquerias, check-cashing, a laundromat steamed blue-white behind fogged glass.
+The rain started after dark and collected in the seams of things -- window ledges, gutter lips, the fold of [Darius's](/darius-cole/) collar where it met the overcoat. He walked south on Ashland with the Colt under his left arm, magazine loaded, hands in his pockets. The streetlights threw orange pools on wet concrete. Storefronts dark -- taquerias, check-cashing, a laundromat steamed blue-white behind fogged glass.
 
 Thirty-six degrees and dropping. The cold drove the desperate indoors.
 
@@ -93,7 +99,7 @@ At the haven, [Sable](/sable-price/)'s jaw was tight. She'd dressed for Milwauke
 
 Nobody asked why. The coterie worked when nobody asked why.
 
-Darius drove. North on Ashland, east on Roosevelt, up Michigan Avenue. The snow had turned to fine dry grit that the wind carried horizontal across the headlights. Streets half-empty for a Tuesday. The Pumping Station's limestone face materialized at the north end of the Magnificent Mile -- castellated, squat, built to survive what fire couldn't kill. [Lodin](/npcs/lodin/)'s taste in meeting places. Always somewhere that had outlasted fire, flood, or riot. Always the reminder built into the address.
+Darius drove. North on Ashland, east on Roosevelt, up Michigan Avenue. The rain blew across the headlights. Streets half-empty for a Tuesday. The Pumping Station's limestone face materialized at the north end of the Magnificent Mile -- castellated, squat, built to survive what fire couldn't kill. [Lodin](/npcs/lodin/)'s taste in meeting places. Always somewhere that had outlasted fire, flood, or riot. Always the reminder built into the address.
 
 ---
 
@@ -189,7 +195,7 @@ He faced the three of them.
 
 "The question is whether the Rite can be obtained without exposing my court to Sabbat contact. Whether it can be performed cleanly. And whether the instrument that performs it can be trusted not to leverage the knowledge afterward."
 
-The room was cold. The snow blew fine and dry against the north windows. Somewhere below, Michigan Avenue traffic hissed through slush.
+The room was cold. Rain struck the north windows. Somewhere below, Michigan Avenue traffic hissed over wet pavement.
 
 "You have contacts I do not wish to know about. You have operational latitude I have granted you precisely for situations that require deniability. I am not asking you to do this."
 
@@ -207,6 +213,6 @@ Darius was about to speak.
 
 He did not speak.
 
-The snow thickened against the windows. The Water Tower burned amber through the white. Three vampires stood before a fourth, and the fourth had just handed them a mission wrapped in a denial, a deadline dressed as a suggestion, and a threat filed inside a compliment. In Sable's silence lived a secret worth more than the one they'd just sold him. In Tomas's stillness lived a calculation the Pyramid would want to audit. In Darius's chest, the pull had not gone away. It had only changed its target.
+The rain thickened against the windows. The Water Tower burned amber through it. Three vampires stood before a fourth, and the fourth had just handed them a mission wrapped in a denial, a deadline dressed as a suggestion, and a threat filed inside a compliment. In Sable's silence lived a secret worth more than the one they'd just sold him. In Tomas's stillness lived a calculation the Pyramid would want to audit. In Darius's chest, the pull had not gone away. It had only changed its target.
 
 Thirty days. The clock had started.

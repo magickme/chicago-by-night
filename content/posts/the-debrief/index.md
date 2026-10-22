@@ -1,11 +1,17 @@
 ---
-title: "The Debrief — Monday, 18 June 1990, 10:30 PM"
-date: 1990-06-18T22:30:00
-lastmod: 2026-03-31
+title: "The Debrief — Monday, June 17, 1991, 10:30 PM"
+date: 1991-06-17T22:30:00
+lastmod: 2026-10-22
 tags: ["blood-at-dawn", "darius", "vtm", "forged-in-steel", "gary"]
 categories: ["Act I — Forged in Steel"]
 description: "A neonate sits across from a prince who has been reading people since Napoleon and tells the truth. Most of it. The parts that serve."
+chronology_rebased: 2026-10-22
+chronology_original_night: "1990-06-18"
+scene_night_date: "1991-06-17"
 ---
+
+*Chronology revised October 22, 2026. [Acts I & II timeline](/acts-1-2-wrap-up/#scene-by-scene-chronology).*
+
 
 *[Modius's Mansion](/locations/modius-mansion/), Miller Beach*
 *Gary, Indiana*

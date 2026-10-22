@@ -1,11 +1,17 @@
 ---
-title: "First Night Standing — Friday, February 1, 1991, 5:05 PM"
-date: 1991-02-01T17:05:00
-lastmod: 2026-05-07
+title: "First Night Standing — Friday, March 27, 1992, 6:16 PM"
+date: 1992-03-27T18:16:00
+lastmod: 2026-10-22
 tags: ["ashes-and-blood", "tomas", "vtm", "chicago"]
 categories: ["Chapter 11 — Act III Opening"]
 description: "A Tremere analyst walks into a nightclub to map the room and walks out owing a favor to the bartender, a debt of silence to something in the tunnels underneath, and a classified page in a notebook his regent will never see."
+chronology_rebased: 2026-10-22
+chronology_original_night: "1991-02-01"
+scene_night_date: "1992-03-27"
 ---
+
+*Chronology revised October 22, 2026. [Acts I & II timeline](/acts-1-2-wrap-up/#scene-by-scene-chronology).*
+
 
 *[The Succubus Club](/locations/succubus-club/), Rush Street / Labyrinth / [Tremere Chantry](/locations/tremere-chantry/), [Astor](/npcs/lady-astor/) Street*
 *Chicago, Illinois*
@@ -202,7 +208,7 @@ Rush Street. Eleven o'clock. He found Jamie at a bus stop that would not see ano
 
 The haven on Kaspar Street was dark. No [Sable](/sable-price/). No [Darius](/darius-cole/). [Tomas](/tomas-navarro/) sat at the kitchen table and opened his leather notebook.
 
-*Feb 1. [Succubus Club](/locations/succubus-club/). Drainage tunnels under the Labyrinth — pre-sewer, 1880s brick, three-branch junction 12ft below east wall. Nosferatu. Female, Polish accent, [Khalid](/npcs/khalid-al-rashid/)'s. Broke Masquerade on dance floor. Fed on mortal in tunnels. I cleaned it up. She owes nothing. I owe nothing.*
+*Mar 27. [Succubus Club](/locations/succubus-club/). Drainage tunnels under the Labyrinth — pre-sewer, 1880s brick, three-branch junction 12ft below east wall. Nosferatu. Female, Polish accent, [Khalid](/npcs/khalid-al-rashid/)'s. Broke Masquerade on dance floor. Fed on mortal in tunnels. I cleaned it up. She owes nothing. I owe nothing.*
 
 He cross-referenced [Sable](/sable-price/)'s report. Sabbat scouts mapping freight tunnel routes from the South Side to the Club. [Khalid](/npcs/khalid-al-rashid/)'s network aware, had not shared. If the freight tunnels connected to the pre-sewer drainage, the Nosferatu already had a route from [Robert](/npcs/robert-klondike/) [Taylor](/npcs/helena-taylor/) Homes to the foundation. The question was whether [Khalid](/npcs/khalid-al-rashid/) controlled the entire underground or only the endpoints.
 

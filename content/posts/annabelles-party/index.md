@@ -1,11 +1,17 @@
 ---
-title: "Annabelle's Party — Wednesday, 16 January 1991, 4:35 PM"
-date: 1991-01-16T16:35:00
-lastmod: 2026-04-04
+title: "Annabelle's Party — Wednesday, February 5, 1992, 5:15 PM"
+date: 1992-02-05T17:15:00
+lastmod: 2026-10-22
 tags: ["ashes-and-blood", "sable", "darius", "vtm", "chicago"]
 categories: ["Chapter 5 — Annabelle's Party"]
 description: "The Toreador Primogen's party. Thirty Kindred, candlelight on brick, four disasters waiting to detonate, and Sable walking in with someone else's secrets in her pocket."
+chronology_rebased: 2026-10-22
+chronology_original_night: "1991-01-16"
+scene_night_date: "1992-02-05"
 ---
+
+*Chronology revised October 22, 2026. [Acts I & II timeline](/acts-1-2-wrap-up/#scene-by-scene-chronology).*
+
 
 *[Succubus Club](/locations/succubus-club/), Private Lounge*
 
@@ -93,7 +99,7 @@ She gave [Sable](/sable-price/) a second number. Handwritten on the back of a ca
 
 And then: "Welcome to Chicago, [Sable](/sable-price/)."
 
-Outside, the rain had thickened. CNN bled through the front door — Baghdad, tracers, the voice of Wolf Blitzer counting sorties for an audience of drunks and vampires. [Darius](/darius-cole/) was under the awning.
+Outside, the rain had thickened. CNN bled through the front door — last year's Baghdad footage, tracers, the archived voice of Wolf Blitzer counting sorties for an audience of drunks and vampires. [Darius](/darius-cole/) was under the awning.
 
 She told him everything. [Annabelle](/npcs/annabelle-triabell/), the private number, Tamoszius, the deal. The Spirit's Touch. [Lodin](/lodin/) in the back corner — his aura cracked underneath, fear and fury and something older than either. The decision: hold the Walt card. Let [Annabelle](/npcs/annabelle-triabell/) and [Lodin](/npcs/lodin/) converge. The best outcome is the one where nobody ever knows the Walt card existed.
 
@@ -103,4 +109,4 @@ Rain on the awning. The war on television. Two phone numbers in her pocket and t
 
 She didn't get made. She got *made*. Chicago knew her name now.
 
-The rain fell on the city and the bombs fell on Baghdad and neither event registered in the lounge where the dead had spent the evening destroying each other with champagne flutes and sheet music and the precise cruelty that only immortals have the patience to cultivate.
+The rain fell on the city and last year's bombs fell again on television and neither event registered in the lounge where the dead had spent the evening destroying each other with champagne flutes and sheet music and the precise cruelty that only immortals have the patience to cultivate.

@@ -1,11 +1,17 @@
 ---
-title: "Children in Need — Friday, March 1, 1991, 5:45 PM"
-date: 1991-03-01T17:45:00
-lastmod: 2026-05-13
+title: "Children in Need — Friday, May 29, 1992, 8:45 PM"
+date: 1992-05-29T20:45:00
+lastmod: 2026-10-22
 tags: ["ashes-and-blood", "darius", "vtm", "chicago"]
 categories: ["Chapter 23 — Reckonings"]
 description: "A child in a man's coat at the mouth of an alley. A name Darius already knew. The Prudential Building at midnight and a door that closes once."
+chronology_rebased: 2026-10-22
+chronology_original_night: "1991-03-01"
+scene_night_date: "1992-05-29"
 ---
+
+*Chronology revised October 22, 2026. [Acts I & II timeline](/acts-1-2-wrap-up/#scene-by-scene-chronology).*
+
 
 *Halsted (Pilsen) / Bridgeport / Loop / Prudential Building (41st Floor)*
 
@@ -23,7 +29,7 @@ He kept walking. Three steps closer. The Beast moved in him before the thought f
 
 *Her skin. Look at her skin.*
 
-No flush. No pink at the nostrils. No redness under the eyes from the wind. A child standing bare-handed in a March wind off the lake and her color was the color of the inside of a paper bag.
+No flush. No pink at the nostrils. No redness under the eyes from the wind. A child standing bare-handed in a May wind off the lake and her color was the color of the inside of a paper bag.
 
 He stopped.
 
@@ -231,7 +237,7 @@ The lobby was empty. The night man did not look up.
 
 He stepped out onto Michigan Avenue.
 
-It had started snowing. Thin. Dry. The kind that didn't accumulate, only blew. The streetlights cut through it and the snow made television static at the edge of every cone.
+A light rain had started. The streetlights caught the drops at the edge of every cone.
 
 *You did the right thing,* the Beast said. *The efficient thing. The Ventrue thing. Now go home and try not to think about what happens to an eight-year-old Kindred in [Lodin](/npcs/lodin/)'s custody.*
 
@@ -253,7 +259,7 @@ Nobody had sent him.
 
 Darius stood on the sidewalk and let the man finish apologizing. The man finished. He walked north. He turned the corner at Adams and did not look back.
 
-Darius stood there a moment longer. He looked at the sleeve. He looked at the snow blowing across Michigan. He looked at the lights still on in the forty-first floor of the Prudential Building, four blocks south, where a small dead girl with a missing shoe buckle was somewhere behind a door that had closed once.
+Darius stood there a moment longer. He looked at the sleeve. He looked at the rain blowing across Michigan. He looked at the lights still on in the forty-first floor of the Prudential Building, four blocks south, where a small dead girl with a missing shoe buckle was somewhere behind a door that had closed once.
 
 He walked to the car.
 

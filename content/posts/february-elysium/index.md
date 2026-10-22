@@ -1,11 +1,17 @@
 ---
-title: "Elysium — Friday, 2 February 1990, 9:00 PM"
-date: 1990-02-02T21:00:00
-lastmod: 2026-03-22
+title: "Elysium — Friday, February 1, 1991, 9:00 PM"
+date: 1991-02-01T21:00:00
+lastmod: 2026-10-22
 tags: ["chapter", "darius", "sable", "vtm", "forged-in-steel", "gary"]
 categories: ["Chapter 2 — Convergence"]
 description: "February court at Modius's mansion. Two neonates meet for the first time."
+chronology_rebased: 2026-10-22
+chronology_original_night: "1990-02-02"
+scene_night_date: "1991-02-01"
 ---
+
+*Chronology revised October 22, 2026. [Acts I & II timeline](/acts-1-2-wrap-up/#scene-by-scene-chronology).*
+
 
 *[Modius's Mansion](/locations/modius-mansion/), Miller Beach*
 *Gary, Indiana*

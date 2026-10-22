@@ -1,11 +1,17 @@
 ---
-title: "Baptism by Fire — Monday, 31 December 1990, 9:00 PM"
-date: 1990-12-31T21:00:00
-lastmod: 2026-03-30
+title: "Baptism by Fire — Tuesday, December 31, 1991, 9:00 PM"
+date: 1991-12-31T21:00:00
+lastmod: 2026-10-22
 tags: ["forged-in-steel", "darius", "sable", "vtm", "gary"]
 categories: ["Chapter 10 — Baptism by Fire"]
 description: "New Year's Eve. Every Kindred in Gary under one roof. Annabelle Triabell arrives in white. Modius performs outrage and chooses compliance. The coterie leaves for Chicago carrying a sealed letter and the knowledge that the bond can break."
+chronology_rebased: 2026-10-22
+chronology_original_night: "1990-12-31"
+scene_night_date: "1991-12-31"
 ---
+
+*Chronology revised October 22, 2026. [Acts I & II timeline](/acts-1-2-wrap-up/#scene-by-scene-chronology).*
+
 
 *[Modius's Mansion](/locations/modius-mansion/) / Gary Streets / Outbound toward Chicago*
 *Gary, Indiana*

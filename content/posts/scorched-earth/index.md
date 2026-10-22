@@ -1,11 +1,17 @@
 ---
-title: "Scorched Earth — Saturday, 23 June 1990, 9:00 PM"
-date: 1990-06-23T21:00:00
-lastmod: 2026-03-23
+title: "Scorched Earth — Saturday, June 22, 1991, 9:00 PM"
+date: 1991-06-22T21:00:00
+lastmod: 2026-10-22
 tags: ["chapter", "darius", "sable", "vtm", "forged-in-steel", "gary"]
 categories: ["Chapter 4 — The Alliance"]
 description: "The Torch is for sale. A shell company, a drowning owner, and a prince who needs a broker."
+chronology_rebased: 2026-10-22
+chronology_original_night: "1990-06-23"
+scene_night_date: "1991-06-22"
 ---
+
+*Chronology revised October 22, 2026. [Acts I & II timeline](/acts-1-2-wrap-up/#scene-by-scene-chronology).*
+
 
 *[The Torch](/locations/the-torch/) / [Modius's Mansion](/locations/modius-mansion/), Miller Beach*
 *Gary, Indiana*

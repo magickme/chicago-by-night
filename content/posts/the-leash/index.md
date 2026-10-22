@@ -1,11 +1,17 @@
 ---
-title: "The Leash — Monday, 23 July 1990, 8:20 PM"
-date: 1990-07-23T20:20:00
-lastmod: 2026-03-25
+title: "The Leash — Monday, July 22, 1991, 8:20 PM"
+date: 1991-07-22T20:20:00
+lastmod: 2026-10-22
 tags: ["forged-in-steel", "sable", "vtm", "gary"]
 categories: ["Chapter 7 — The Coterie"]
 description: "A year of devotion, a plate number, a prince's summons, and a machine that runs on the sound men make when they drink from your wrist."
+chronology_rebased: 2026-10-22
+chronology_original_night: "1990-07-23"
+scene_night_date: "1991-07-22"
 ---
+
+*Chronology revised October 22, 2026. [Acts I & II timeline](/acts-1-2-wrap-up/#scene-by-scene-chronology).*
+
 
 *Kendrick's Auto / Adams Street / Docks Bar*
 *Gary, Indiana*

@@ -1,11 +1,17 @@
 ---
-title: "Another Move — Monday, January 28, 1991, 4:58 PM"
-date: 1991-01-28T16:58:00
-lastmod: 2026-05-01
+title: "Another Move — Monday, February 24, 1992, 5:39 PM"
+date: 1992-02-24T17:39:00
+lastmod: 2026-10-22
 tags: ["ashes-and-blood", "sable", "vtm", "chicago"]
 categories: ["Chapter 7 — The Machine"]
 description: "Sophia Ayes calls with a warning and an invitation. At the Succubus Club, a compliment about nail polish opens a door that neither woman expected. Outside, a red convertible and a small Finnish man with a handlebar mustache remind Sable that she is being watched by things older than the city."
+chronology_rebased: 2026-10-22
+chronology_original_night: "1991-01-28"
+scene_night_date: "1992-02-24"
 ---
+
+*Chronology revised October 22, 2026. [Acts I & II timeline](/acts-1-2-wrap-up/#scene-by-scene-chronology).*
+
 
 *[Kaspar and Sons](/locations/kaspar-and-sons/) / [Succubus Club](/locations/succubus-club/) / Ontario Street*
 
@@ -15,7 +21,7 @@ description: "Sophia Ayes calls with a warning and an invitation. At the Succubu
 
 The phone rang at 6:40 PM and [Sable](/sable-price/) knew before she picked up that it wasn't the payphone line. The haven had two numbers. The first was for a life she'd already lived. The second was for the one she was building, and nobody called it yet except [Claudine](/npcs/claudine-watts/) and the woman on the other end of it now.
 
-[Darius](/darius-cole/) was in the kitchen with the newspaper open to Gulf war coverage and a glass of water he wasn't going to touch. He looked up when it rang. [Sable](/sable-price/) picked up.
+[Darius](/darius-cole/) was in the kitchen with the newspaper open to coverage of the Gulf War's aftermath and a glass of water he wasn't going to touch. He looked up when it rang. [Sable](/sable-price/) picked up.
 
 "I heard you were at the Mezzanine Saturday."
 
@@ -53,7 +59,7 @@ She found [Sophia](/npcs/sophia-ayes/) at the bar. Not at the bar the way mortal
 
 Black. Of course.
 
-[Sophia](/npcs/sophia-ayes/)'s eyes did one full, unhurried read when she saw [Sable](/sable-price/) coming. The red slip. The January skin. The entrance that was not an accident. Something crossed [Sophia](/npcs/sophia-ayes/)'s face that she controlled before it became an expression.
+[Sophia](/npcs/sophia-ayes/)'s eyes did one full, unhurried read when she saw [Sable](/sable-price/) coming. The red slip. The winter skin. The entrance that was not an accident. Something crossed [Sophia](/npcs/sophia-ayes/)'s face that she controlled before it became an expression.
 
 She waited until [Sable](/sable-price/) was close enough that she didn't have to raise her voice.
 
@@ -151,7 +157,7 @@ Ontario Street at 11:45 PM was empty the way Chicago got empty late on a Monday 
 
 She was half a block from the entrance, heels on cold pavement, when the red convertible pulled alongside her.
 
-Top up against the January cold. The woman driving was striking — jet-black hair, deep brown eyes, a smile that arrived before the window was fully down. The kind of woman whose beauty had a purpose and whose purpose was not directions.
+Top up against the February cold. The woman driving was striking — jet-black hair, deep brown eyes, a smile that arrived before the window was fully down. The kind of woman whose beauty had a purpose and whose purpose was not directions.
 
 "Hey." Warm. Uncomplicated. "I'm completely lost. You know where Erie Street is from here?"
 
@@ -165,7 +171,7 @@ The smile on the dead woman's face was the smile of a job.
 
 [Darius](/darius-cole/) was still inside. Forty-five seconds behind her at minimum.
 
-Sable opened something warmer, wider, and let it radiate outward from her like heat from a furnace on a dead January street with a broken light — the specific gravity of someone the world wanted to face.
+Sable opened something warmer, wider, and let it radiate outward from her like heat from a furnace on a dead February street with a broken light — the specific gravity of someone the world wanted to face.
 
 The small man in the doorway twenty feet up the block blinked. Both eyes at once, which was the first normal thing he'd done. Short, stiff grey hair over his eyes, handlebar mustache, the ear-to-ear grin from the night before replaced by something more tentative. He'd been standing there the whole time, watching the convertible do its work, and Sable had found him the way she'd found the bound woman — by looking at what was wrong.
 
@@ -245,7 +251,7 @@ He didn't say *we should go.* He just started walking.
 
 Nineteen degrees and dropping. Twelve blocks to the haven. Somewhere south of them a red convertible was reporting a failure to someone they hadn't met yet.
 
-They walked home. Darius locked the door, checked the window on the alley side, said nothing. His coat went on the chair. The newspaper was still on the kitchen table, the Gulf war still on the front page, the world still running its other wars outside the one they'd stumbled into.
+They walked home. Darius locked the door, checked the window on the alley side, said nothing. His coat went on the chair. The newspaper was still on the kitchen table, the Gulf War's aftermath still on the front page, the world still running its other wars outside the one they'd stumbled into.
 
 Sable had fourteen pints of blood in her and a night that had gone sideways in three directions and resolved on its own terms. Claudine was at Lula's Saturday. Sophia was in the room Wednesday. A small Finnish man with a handlebar mustache was somewhere in Chicago with their faces in his memory and nothing they could do about it.
 

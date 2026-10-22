@@ -1,11 +1,17 @@
 ---
-title: "The Grand Elusion — Tuesday, February 12, 1991, 4:35 PM"
-date: 1991-02-12T16:35:00
-lastmod: 2026-05-13
+title: "The Grand Elusion — Tuesday, April 7, 1992, 7:28 PM"
+date: 1992-04-07T19:28:00
+lastmod: 2026-10-22
 tags: ["ashes-and-blood", "sable", "vtm", "chicago"]
 categories: ["Chapter 22 — Grand Elusion"]
 description: "Sable hunts a magician who picked the one lock no Tremere had ever opened. What she finds is a man with strings he didn't know he was wearing — and the answer she needed turns out to be the wrong answer."
+chronology_rebased: 2026-10-22
+chronology_original_night: "1991-02-12"
+scene_night_date: "1992-04-07"
 ---
+
+*Chronology revised October 22, 2026. [Acts I & II timeline](/acts-1-2-wrap-up/#scene-by-scene-chronology).*
+
 
 *[Kaspar & Sons](/locations/kaspar-and-sons/), Pilsen / [Succubus Club](/locations/succubus-club/), State Street*
 *Chicago, Illinois*
@@ -32,7 +38,7 @@ She poured herself a glass of water from the tap she would not drink and set it 
 
 [Tomás](/tomas-navarro/) looked up. "Why."
 
-"Because everyone is at the Club on a Tuesday in February. [The Cave](/locations/the-cave/) is a stage. The Club is a meeting place. If he wants to see [Erichtho](/npcs/erichtho/), he sees her there. If he's saying goodbye to friends before he disappears for another six months, the friends are there. He's a performer. He won't do his final escape in front of an empty room."
+"Because everyone is at the Club on a Tuesday in April. [The Cave](/locations/the-cave/) is a stage. The Club is a meeting place. If he wants to see [Erichtho](/npcs/erichtho/), he sees her there. If he's saying goodbye to friends before he disappears for another six months, the friends are there. He's a performer. He won't do his final escape in front of an empty room."
 
 "Final escape," [Darius](/darius-cole/) said.
 

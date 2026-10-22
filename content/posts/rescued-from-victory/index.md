@@ -1,14 +1,20 @@
 ---
-title: "Rescued from Victory — Nights 3-4, January 1991"
-date: 1991-01-02T23:00:00
-lastmod: 2026-04-01
+title: "Rescued from Victory — January 3-4, 1992"
+date: 1992-01-03T16:35:00
+lastmod: 2026-10-22
 tags: ["ashes-to-ashes", "darius", "sable", "vtm", "ashes-and-blood", "chicago"]
 categories: ["Chapter 1 — Ashes to Ashes"]
 description: "A staked Sheriff on Wacker Drive. An Anarch in a fourteen-year-old body. A torpored ancient in a stripped-out 7-11. The investigation compresses six scenes into one long night that ends in a thirty-dollar motel room with something very old in the bathtub."
+chronology_rebased: 2026-10-22
+chronology_original_night: "1991-01-02"
+scene_night_date: "1992-01-03"
 ---
 
+*Chronology revised October 22, 2026. [Acts I & II timeline](/acts-1-2-wrap-up/#scene-by-scene-chronology).*
+
+
 *[Sears Tower](/locations/sears-tower/) / Wacker Drive / West Side 7-11 / Tell It All Offices / [Standdown](/npcs/michael-standdown/)'s Warehouse / Starlite Motel*
-*Chicago, Illinois — January 2-4, 1991*
+*Chicago, Illinois — January 3-4, 1992*
 
 ---
 
@@ -80,6 +86,6 @@ Two vampires, two handguns, a vial of ancient blood, two micro-cassette tapes, a
 
 They didn't know what they had. They knew it was important. They knew the woods northwest of the city were next. They knew the deadline had passed and the Sheriff was staked and the frame job was building and a reporter on North Michigan Avenue was going to wake up tomorrow with a headache that felt like a dream.
 
-Dawn. January 4, 1991. The curtains held. The deadbolt held. The body in the bathtub didn't move.
+Dawn. January 4, 1992. The curtains held. The deadbolt held. The body in the bathtub didn't move.
 
 The city ran on without them.

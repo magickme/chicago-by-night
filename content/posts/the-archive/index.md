@@ -1,11 +1,17 @@
 ---
-title: "The Archive — Tuesday, 18 December 1990, 12:00 AM"
-date: 1990-12-18T00:00:00
-lastmod: 2026-03-30
+title: "The Archive — Tuesday, December 17, 1991, 8:00 PM"
+date: 1991-12-17T20:00:00
+lastmod: 2026-10-22
 tags: ["forged-in-steel", "darius", "vtm", "gary"]
 categories: ["Chapter 10 — Baptism by Fire"]
 description: "An index card under a windshield wiper. Telton Cemetery at midnight. Alexander Danov pays an intel debt and prices the next one, and Darius leaves with the board clarified, not simplified."
+chronology_rebased: 2026-10-22
+chronology_original_night: "1990-12-18"
+scene_night_date: "1991-12-17"
 ---
+
+*Chronology revised October 22, 2026. [Acts I & II timeline](/acts-1-2-wrap-up/#scene-by-scene-chronology).*
+
 
 *[Telton Cemetery](/locations/telton-cemetery/) / West-Side Haven*
 *Gary, Indiana*

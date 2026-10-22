@@ -1,11 +1,17 @@
 ---
-title: "The Faculty Club — Friday, January 25, 1991"
-date: 1991-01-25T21:00:00
-lastmod: 2026-04-21
+title: "The Faculty Club — Thursday, February 20, 1992, 9:00 PM"
+date: 1992-02-20T21:00:00
+lastmod: 2026-10-22
 tags: ["ashes-and-blood", "darius", "vtm", "chicago"]
 categories: ["Chapter 7 — The Machine"]
 description: "Darius meets Critias at the Quadrangle Club for a Socratic dialogue about Thucydides. The conversation goes somewhere neither of them planned."
+chronology_rebased: 2026-10-22
+chronology_original_night: "1991-01-25"
+scene_night_date: "1992-02-20"
 ---
+
+*Chronology revised October 22, 2026. [Acts I & II timeline](/acts-1-2-wrap-up/#scene-by-scene-chronology).*
+
 
 *Quadrangle Club, [Hyde Park](/locations/hyde-park/) / [Hyde Park](/locations/hyde-park/) payphone*
 

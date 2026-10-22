@@ -1,11 +1,17 @@
 ---
-title: "The Nightclub — Wednesday, 9 January 1991, 4:28 PM"
-date: 1991-01-09T16:28:00
-lastmod: 2026-04-03
+title: "The Nightclub — Wednesday, January 15, 1992, 4:49 PM"
+date: 1992-01-15T16:49:00
+lastmod: 2026-10-22
 tags: ["ashes-and-blood", "darius", "sable", "vtm", "chicago"]
 categories: ["Chapter 4 — Clean Hands"]
 description: "Darius hunts the club floor while Sable works the phones and the room. Modius gets flattery and a deadline. Sir Henry gets the truth. Everyone gets what they need except Lodin, who gets silence."
+chronology_rebased: 2026-10-22
+chronology_original_night: "1991-01-09"
+scene_night_date: "1992-01-15"
 ---
+
+*Chronology revised October 22, 2026. [Acts I & II timeline](/acts-1-2-wrap-up/#scene-by-scene-chronology).*
+
 
 *[Succubus Club](/locations/succubus-club/) / Starlite Motel*
 *Chicago, Illinois*

@@ -1,11 +1,17 @@
 ---
-title: "The Hunt — Saturday, 28 July 1990, 8:19 PM"
-date: 1990-07-28T20:19:00
-lastmod: 2026-03-27
+title: "The Hunt — Saturday, July 27, 1991, 8:19 PM"
+date: 1991-07-27T20:19:00
+lastmod: 2026-10-22
 tags: ["forged-in-steel", "sable", "vtm", "gary"]
 categories: ["Chapter 8 — The Operational"]
 description: "Four nights without blood and the east side of Gary looks like a different city. She finds what she needs in a three-person bar. She finds what she wasn't looking for in a house by the lake."
+chronology_rebased: 2026-10-22
+chronology_original_night: "1990-07-28"
+scene_night_date: "1991-07-27"
 ---
+
+*Chronology revised October 22, 2026. [Acts I & II timeline](/acts-1-2-wrap-up/#scene-by-scene-chronology).*
+
 
 *East Side Bar / [The Torch](/locations/the-torch/) / Miller Beach / Kendrick's Auto*
 *Gary, Indiana*

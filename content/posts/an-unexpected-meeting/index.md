@@ -1,11 +1,17 @@
 ---
-title: "An Unexpected Meeting — Friday, 18 January 1991, 4:35 PM"
-date: 1991-01-18T16:35:00
-lastmod: 2026-04-06
+title: "An Unexpected Meeting — Friday, February 7, 1992, 5:18 PM"
+date: 1992-02-07T17:18:00
+lastmod: 2026-10-22
 tags: ["ashes-and-blood", "darius", "vtm", "chicago"]
 categories: ["Chapter 6 — The Underground"]
 description: "A conventioneer at the Palmer House. An envelope in a mailbox. A Caitiff in a Buick. And underneath the Succubus Club, the city's real architecture."
+chronology_rebased: 2026-10-22
+chronology_original_night: "1991-01-18"
+scene_night_date: "1992-02-07"
 ---
+
+*Chronology revised October 22, 2026. [Acts I & II timeline](/acts-1-2-wrap-up/#scene-by-scene-chronology).*
+
 
 *Palmer House / Sherwin-[Williams](/npcs/williams/) Building / [The Cave](/locations/the-cave/) / North Side / [Succubus Club](/locations/succubus-club/) / South Pilsen*
 

@@ -6,6 +6,16 @@ hidemeta: true
 ShowToc: true
 ---
 
+## Current campaign position
+
+Acts I and II are complete through D069, June 13, 1992. Blood Bond concluded the played Act II. The coterie remains at Maryann Fletcher's feeding-account inquiry; the Sabbat viewpoint and start date are open.
+
+[Read the Acts I & II wrap-up](/acts-1-2-wrap-up/) for the completed stories, Chicago's current position, final boon ledger and every surviving thread.
+
+The revised calendar starts in Gary on December 31, 1990; Act I ends December 31, 1991. Chicago runs January-June 1992.
+
+The outline below preserves the original campaign design, including its older separate Act III label for Blood Bond and proposed future outcomes.
+
 **Chicago Chronicles** is the full campaign arc.
 
 Three years. Five cities. Three PCs. Two Methuselahs playing chess with every Kindred on the board.

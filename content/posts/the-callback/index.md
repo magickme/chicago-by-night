@@ -1,11 +1,17 @@
 ---
-title: "The Callback — Saturday, 14 July 1990, 9:30 PM"
-date: 1990-07-14T21:30:00
-lastmod: 2026-03-24
+title: "The Callback — Saturday, July 13, 1991, 9:30 PM"
+date: 1991-07-13T21:30:00
+lastmod: 2026-10-22
 tags: ["forged-in-steel", "darius", "vtm", "gary"]
 categories: ["Chapter 6 — The Pipeline"]
 description: "A federal agent two nights early. A ghoul who handled it. A payphone and a sire's voice. A man who trusts him and a sire who would kill that man."
+chronology_rebased: 2026-10-22
+chronology_original_night: "1990-07-14"
+scene_night_date: "1991-07-13"
 ---
+
+*Chronology revised October 22, 2026. [Acts I & II timeline](/acts-1-2-wrap-up/#scene-by-scene-chronology).*
+
 
 *[The Torch](/locations/the-torch/), Broadway / Payphone, Broadway & 5th / West Side*
 *Gary, Indiana*

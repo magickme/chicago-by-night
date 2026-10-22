@@ -1,11 +1,17 @@
 ---
-title: "The Kennel — Saturday, 21 July 1990, 8:22 PM"
-date: 1990-07-21T20:22:00
-lastmod: 2026-03-25
+title: "The Kennel — Saturday, July 20, 1991, 8:22 PM"
+date: 1991-07-20T20:22:00
+lastmod: 2026-10-22
 tags: ["forged-in-steel", "sable", "vtm", "gary"]
 categories: ["Chapter 7 — The Coterie"]
 description: "Three men in a garage. Two rules and a wrist. A bar, a hunt, a phone that doesn't ring. And then: a woman in a doorway who says one word that changes everything."
+chronology_rebased: 2026-10-22
+chronology_original_night: "1990-07-21"
+scene_night_date: "1991-07-20"
 ---
+
+*Chronology revised October 22, 2026. [Acts I & II timeline](/acts-1-2-wrap-up/#scene-by-scene-chronology).*
+
 
 *Kendrick's Auto / West Side / Dot's Bar / Fifth Avenue Studio*
 *Gary, Indiana*

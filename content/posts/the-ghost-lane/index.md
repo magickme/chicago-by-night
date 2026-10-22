@@ -1,11 +1,17 @@
 ---
-title: "The Ghost Lane — Thursday, 28 June 1990, 11:45 PM"
-date: 1990-06-28T23:45:00
-lastmod: 2026-03-23
+title: "The Ghost Lane — Thursday, June 27, 1991, 11:45 PM"
+date: 1991-06-27T23:45:00
+lastmod: 2026-10-22
 tags: ["forged-in-steel", "darius", "vtm", "gary"]
 categories: ["Chapter 5 — The Deals"]
 description: "A sire's voice with no accent. A warehouse with two chairs. A tug with no name. A bar tab of $800 a month."
+chronology_rebased: 2026-10-22
+chronology_original_night: "1990-06-28"
+scene_night_date: "1991-06-27"
 ---
+
+*Chronology revised October 22, 2026. [Acts I & II timeline](/acts-1-2-wrap-up/#scene-by-scene-chronology).*
+
 
 *Gary, Indiana — multiple locations*
 

@@ -1,11 +1,17 @@
 ---
-title: "The Assumption — Thursday, 12 July 1990, 9:00 PM"
-date: 1990-07-12T21:00:00
-lastmod: 2026-03-24
+title: "The Assumption — Thursday, July 11, 1991, 9:00 PM"
+date: 1991-07-11T21:00:00
+lastmod: 2026-10-22
 tags: ["forged-in-steel", "darius", "vtm", "gary"]
 categories: ["Chapter 5 — The Deals"]
 description: "A signature. A federal agent two stools down. A prince's handshake. $800 a month."
+chronology_rebased: 2026-10-22
+chronology_original_night: "1990-07-12"
+scene_night_date: "1991-07-11"
 ---
+
+*Chronology revised October 22, 2026. [Acts I & II timeline](/acts-1-2-wrap-up/#scene-by-scene-chronology).*
+
 
 *Rosie's Bar, Buchanan Street / [Modius's Mansion](/locations/modius-mansion/), Miller Beach*
 *Gary, Indiana*

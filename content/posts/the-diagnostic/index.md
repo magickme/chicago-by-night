@@ -1,11 +1,17 @@
 ---
-title: "The Diagnostic — Sunday, 2 December 1990, 4:25 PM"
-date: 1990-12-02T16:25:00
-lastmod: 2026-03-27
+title: "The Diagnostic — Sunday, December 1, 1991, 4:25 PM"
+date: 1991-12-01T16:25:00
+lastmod: 2026-10-22
 tags: ["forged-in-steel", "darius", "vtm", "gary"]
 categories: ["Chapter 9 — December"]
 description: "A girl he's never seen walks out of a Torch alley wiping blood from her mouth. He follows her to a door she has a key to. And on the way back, something in the dark makes the dead thing inside him remember what fear was."
+chronology_rebased: 2026-10-22
+chronology_original_night: "1990-12-02"
+scene_night_date: "1991-12-01"
 ---
+
+*Chronology revised October 22, 2026. [Acts I & II timeline](/acts-1-2-wrap-up/#scene-by-scene-chronology).*
+
 
 *Broadway / Torch Alley / Adams Street / Ore Smelter / [Modius's Mansion](/locations/modius-mansion/)*
 *Gary, Indiana*

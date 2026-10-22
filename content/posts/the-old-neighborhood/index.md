@@ -1,11 +1,17 @@
 ---
-title: "The Old Neighborhood — Sunday, 20 January 1991, 4:35 PM"
-date: 1991-01-20T16:35:00
-lastmod: 2026-04-06
+title: "The Old Neighborhood — Sunday, February 9, 1992, 5:20 PM"
+date: 1992-02-09T17:20:00
+lastmod: 2026-10-22
 tags: ["ashes-and-blood", "sable", "vtm", "chicago"]
 categories: ["Chapter 6 — The Underground"]
 description: "MLK Day on the South Side. FBI sedans in the parking lot. Expensive perfume where it doesn't belong. And underneath the projects, something that moves like it owns the dark."
+chronology_rebased: 2026-10-22
+chronology_original_night: "1991-01-20"
+scene_night_date: "1992-02-09"
 ---
+
+*Chronology revised October 22, 2026. [Acts I & II timeline](/acts-1-2-wrap-up/#scene-by-scene-chronology).*
+
 
 *[Robert](/npcs/robert-klondike/) [Taylor](/npcs/helena-taylor/) Homes / CHA Utility Tunnels / Nosferatu Freight Tunnels / South Side*
 
@@ -15,7 +21,7 @@ description: "MLK Day on the South Side. FBI sedans in the parking lot. Expensiv
 
 The Dan Ryan south of [Chinatown](/locations/chinatown/), rain hardening to sleet against the windshield. No moon — or a moon behind cloud so thick it might as well have been no moon. The city fell away north. Steel mills lit the horizon behind her like a distant war, the way they'd always lit it, the way they'd lit it when she was seven years old riding the bus south from downtown and her mother pointed and said, *that's Gary, and Gary is where things get made, and that's why it's ugly.* Denise knew things about beauty and ugliness that [Sable](/sable-price/) was still working out.
 
-The radio cut between Gulf War updates and a DJ who kept saying *historic* like the word meant something. [Sable](/sable-price/) turned it off. The Cutlass ate the rain.
+The radio cut between reports on the Gulf War's aftermath and a DJ who kept saying *historic* like the word meant something. [Sable](/sable-price/) turned it off. The Cutlass ate the rain.
 
 She saw the FBI sedans from two blocks out. Government plates, the particular plainness of cars that are trying not to look like anything. Two of them in the parking lot of the twenty-second tower, angled to watch the north entrance without appearing to. She pulled over on State and sat, and reached out with her senses the way a hand reaches for a lamp in the dark, and the building came in.
 
@@ -31,7 +37,7 @@ Seventh floor. The maintenance tape was yellow, the aggressive yellow of bureauc
 
 Light under 718.
 
-Television. The Gulf War on CNN — she caught [Peter](/npcs/peter/) Arnett's voice threading under the door. The smell of greens cooking, collards with vinegar and a smoked turkey neck, the smell of her entire childhood condensed into a single warm current in the cold hallway. Her mother had cooked that same pot the night before every shift at the salon, keeping one hand in the familiar while the world did what it did.
+Television. A Gulf War retrospective on CNN — she caught [Peter](/npcs/peter/) Arnett's voice threading under the door. The smell of greens cooking, collards with vinegar and a smoked turkey neck, the smell of her entire childhood condensed into a single warm current in the cold hallway. Her mother had cooked that same pot the night before every shift at the salon, keeping one hand in the familiar while the world did what it did.
 
 *She's home.*
 

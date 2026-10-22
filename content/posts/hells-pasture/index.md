@@ -1,14 +1,20 @@
 ---
-title: "Hell's Pasture — Friday, 4 January 1991, 4:28 PM"
-date: 1991-01-04T16:28:00
-lastmod: 2026-04-01
+title: "Hell's Pasture — Saturday, January 4, 1992, 4:37 PM"
+date: 1992-01-04T16:37:00
+lastmod: 2026-10-22
 tags: ["ashes-to-ashes", "darius", "sable", "vtm", "ashes-and-blood", "chicago"]
 categories: ["Chapter 3 — Hell's Pasture"]
 description: "A warm vial. A botched hunt. A burning tunnel. The Prince of Chicago wakes up on a dead man's blood and the dead man ages to dust on an amphitheater floor. The investigation ends. The debts begin."
+chronology_rebased: 2026-10-22
+chronology_original_night: "1991-01-04"
+scene_night_date: "1992-01-04"
 ---
 
+*Chronology revised October 22, 2026. [Acts I & II timeline](/acts-1-2-wrap-up/#scene-by-scene-chronology).*
+
+
 *[Starlite Motel](/locations/starlite-motel/) / West Side / [Hell's Pasture](/locations/hells-pasture/) / [Drake Hotel](/locations/drake-hotel/)*
-*Chicago, Illinois — January 4, 1991*
+*Chicago, Illinois — January 4, 1992*
 
 ---
 

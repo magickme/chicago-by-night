@@ -1,11 +1,17 @@
 ---
-title: "The Milwaukee Run — Wednesday, March 6, 1991, 5:41 PM"
-date: 1991-03-06T17:41:00
-lastmod: 2026-09-22
+title: "The Milwaukee Run — Tuesday, June 2, 1992, 9:15 PM"
+date: 1992-06-02T21:15:00
+lastmod: 2026-10-22
 tags: ["ashes-and-blood", "sable", "vtm", "chicago"]
 categories: ["Chapter 24 — Blood Bond"]
 description: "A hunt goes past the line in a Pilsen loading bay, and what it buys is a woman climbing out of a music-room window with her bag already packed. Two hundred miles north, a Tremere Regent who has never done this before agrees to cut fifty-two years out of her."
+chronology_rebased: 2026-10-22
+chronology_original_night: "1991-03-05"
+scene_night_date: "1992-06-02"
 ---
+
+*Chronology revised October 22, 2026. [Acts I & II timeline](/acts-1-2-wrap-up/#scene-by-scene-chronology).*
+
 
 *South Pilsen / [Modius](/npcs/modius/) Mansion, Gary / I-94 / Hyatt Regency, Milwaukee / [Kaspar & Sons](/locations/kaspar-haven/)*
 
@@ -13,7 +19,7 @@ description: "A hunt goes past the line in a Pilsen loading bay, and what it buy
 
 ---
 
-The woman on the side street off Twenty-First wore a coat with a fur collar that had been somebody's good coat in 1974 and was now a thing she slept in. She was moving fast in no direction, her legs getting separate news from her head. Fifty-two degrees at eight-thirty on a March Tuesday, no wind, the snow a week out of Pilsen and the alleys giving back everything they'd been holding since December.
+The woman on the side street off Twenty-First wore a coat with a fur collar that had been somebody's good coat in 1974 and was now a thing she slept in. She was moving fast in no direction, her legs getting separate news from her head. Sixty-eight degrees at nine-fifteen on a June Tuesday, no wind, the alleys still damp from an afternoon shower.
 
 "What kinda party you having, baby?"
 
@@ -187,7 +193,7 @@ A woman had just been told that the thing she'd wanted for half a century would 
 
 She looked at Sable. Nodded once.
 
-So Sable told it. The Succubus Club in February. Orloff's blood dolls coming across the floor in a line, four of them dressed for a party and sent to kill. The back corridor, Gibson with his hands up, the old man in the good suit who could have gone through a wall and instead stood still while three Kindred closed on him and surrendered out of arithmetic rather than fear. Sable had negotiated that in a hallway smelling of spilled gin and cigarette ash, and he had listened to her, and that part she left out.
+So Sable told it. The Succubus Club in April. Orloff's blood dolls coming across the floor in a line, four of them dressed for a party and sent to kill. The back corridor, Gibson with his hands up, the old man in the good suit who could have gone through a wall and instead stood still while three Kindred closed on him and surrendered out of arithmetic rather than fear. Sable had negotiated that in a hallway smelling of spilled gin and cigarette ash, and he had listened to her, and that part she left out.
 
 Then the interrogation. Embraced 1926. Bonded to the Vienna Council inside a week of waking. Contacted in New York by men who didn't identify themselves and who turned out later to be Sabbat, '26 or '27, he was never sure. They had a process, a ritual, partial, something they'd plainly got hold of rather than invented. Four years of sessions, painful and disorienting, and he never once understood what was being done to him. By 1930 the bond was gone. He faked a death that made the papers and lived sixty free years on the far side of it.
 
@@ -249,6 +255,6 @@ The back seat was empty and Darius didn't ask a question for twenty minutes, whi
 
 They crossed into Illinois at 1:40. Kenosha, Zion, Waukegan, the refinery flare out over the water burning its steady orange pinhole in the black. She thought about the woman behind the tortilla plant and whether the ambulance had come. She thought about the flare going up in the dark house. She thought about how easy everything after it had been, the window and the sill and the frozen grass, the whole extraction running clean as a bank job, as though the night had charged the full price up front and taken it out of a stranger who could not pay.
 
-They made [Kaspar & Sons](/locations/kaspar-haven/) around three. Dawn at 6:24.
+They made [Kaspar & Sons](/locations/kaspar-haven/) around three. Dawn at 5:16.
 
 The back seat smelled like Allicia's coat for a week.

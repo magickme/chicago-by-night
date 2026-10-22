@@ -1,11 +1,17 @@
 ---
-title: "The Shore Bar — Monday, 3 December 1990, 4:25 PM"
-date: 1990-12-03T16:25:00
-lastmod: 2026-03-27
+title: "The Shore Bar — Monday, December 2, 1991, 4:25 PM"
+date: 1991-12-02T16:25:00
+lastmod: 2026-10-22
 tags: ["forged-in-steel", "darius", "vtm", "gary"]
 categories: ["Chapter 9 — December"]
 description: "Four nights without blood and the Beast has stopped asking. A shore bar east of the port. A man with a repo sticker and no check coming. And in Ray's kitchen, an inventory that doesn't fit the blueprint."
+chronology_rebased: 2026-10-22
+chronology_original_night: "1990-12-03"
+scene_night_date: "1991-12-02"
 ---
+
+*Chronology revised October 22, 2026. [Acts I & II timeline](/acts-1-2-wrap-up/#scene-by-scene-chronology).*
+
 
 *Lakeshore Drive / Kiefer's Bar / Norfolk Southern Rail Spur / Industrial Corridor / Ray's Apartment*
 *Gary, Indiana*

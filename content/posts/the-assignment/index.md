@@ -1,11 +1,17 @@
 ---
-title: "The Assignment — Tuesday, February 5, 1991, 5:08 PM"
-date: 1991-02-05T17:08:00
-lastmod: 2026-05-07
+title: "The Assignment — Tuesday, March 31, 1992, 6:20 PM"
+date: 1992-03-31T18:20:00
+lastmod: 2026-10-22
 tags: ["ashes-and-blood", "tomas", "vtm", "chicago"]
 categories: ["Chapter 11 — Act III Opening"]
 description: "A boy in the tree line with a phone number already written. A woman at a corner table with a package tied in string. A coterie around a kitchen table deciding who gets to be bait."
+chronology_rebased: 2026-10-22
+chronology_original_night: "1991-02-05"
+scene_night_date: "1992-03-31"
 ---
+
+*Chronology revised October 22, 2026. [Acts I & II timeline](/acts-1-2-wrap-up/#scene-by-scene-chronology).*
+
 
 *Lincoln Park / [Succubus Club](/locations/succubus-club/) / Shared Haven, West Side*
 

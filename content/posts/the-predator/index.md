@@ -1,11 +1,17 @@
 ---
-title: "The Predator — Friday, 20 July 1990, 10:00 PM"
-date: 1990-07-20T22:00:00
-lastmod: 2026-03-25
+title: "The Predator — Friday, July 19, 1991, 10:00 PM"
+date: 1991-07-19T22:00:00
+lastmod: 2026-10-22
 tags: ["forged-in-steel", "sable", "vtm", "gary"]
 categories: ["Chapter 7 — The Coterie"]
 description: "A woman walks into GD territory with a .38 she can barely shoot and three Disciplines and the memory of a man who decided she was his. She walks out with three soldiers and a haven and a body in the wasteland."
+chronology_rebased: 2026-10-22
+chronology_original_night: "1990-07-20"
+scene_night_date: "1991-07-19"
 ---
+
+*Chronology revised October 22, 2026. [Acts I & II timeline](/acts-1-2-wrap-up/#scene-by-scene-chronology).*
+
 
 *[The Torch](/locations/the-torch/) / West Side / Kendrick's Auto*
 *Gary, Indiana*

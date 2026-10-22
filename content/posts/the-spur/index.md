@@ -1,11 +1,17 @@
 ---
-title: "The Spur — Tuesday, 4 December 1990, 4:25 PM"
-date: 1990-12-04T16:25:00
-lastmod: 2026-03-27
+title: "The Spur — Tuesday, December 3, 1991, 4:25 PM"
+date: 1991-12-03T16:25:00
+lastmod: 2026-10-22
 tags: ["forged-in-steel", "darius", "vtm", "gary"]
 categories: ["Chapter 9 — December"]
 description: "A dead man feeds on grief at a mill hand's wake, then walks onto Gangrel-marked ground to meet a stranger who's been watching for five months. Three conversations, three registers, three versions of the truth. A matchbook changes hands. A phone line goes dead. A radiator clicks."
+chronology_rebased: 2026-10-22
+chronology_original_night: "1990-12-04"
+scene_night_date: "1991-12-03"
 ---
+
+*Chronology revised October 22, 2026. [Acts I & II timeline](/acts-1-2-wrap-up/#scene-by-scene-chronology).*
+
 
 *West-Side Haven / Hennessey's / Rail Spur South / West-Side Haven*
 *Gary, Indiana*

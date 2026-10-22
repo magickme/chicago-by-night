@@ -1,11 +1,17 @@
 ---
-title: "The Starlite — Friday, 11 January 1991, 4:28 PM"
-date: 1991-01-11T16:28:00
-lastmod: 2026-04-04
+title: "The Starlite — Friday, January 17, 1992, 4:51 PM"
+date: 1992-01-17T16:51:00
+lastmod: 2026-10-22
 tags: ["ashes-and-blood", "darius", "vtm", "chicago"]
 categories: ["Chapter 4 — Clean Hands"]
 description: "A motel room on the South Side. A radiator that clanks every forty seconds. Darius maps an enemy's operation from a straight-backed chair and discovers someone else has been reading his work."
+chronology_rebased: 2026-10-22
+chronology_original_night: "1991-01-11"
+scene_night_date: "1992-01-17"
 ---
+
+*Chronology revised October 22, 2026. [Acts I & II timeline](/acts-1-2-wrap-up/#scene-by-scene-chronology).*
+
 
 *Starlite Motel / Cottage Grove / North Side / Clark Street*
 

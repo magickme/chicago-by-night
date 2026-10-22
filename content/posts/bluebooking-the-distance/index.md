@@ -1,14 +1,20 @@
 ---
-title: "The Distance — February through June 1990"
-date: 1990-06-15T00:00:00
-lastmod: 2026-03-22
+title: "The Distance — February through June 1991"
+date: 1991-06-14T00:00:00
+lastmod: 2026-10-22
 tags: ["bluebooking", "darius", "sable", "vtm", "forged-in-steel", "gary"]
 categories: ["Interlude — The Distance"]
 description: "Four months between scenes. Two neonates circle each other in a dying city. Neither blinks first."
+chronology_rebased: 2026-10-22
+chronology_original_night: "1990-06-15"
+scene_night_date: "1991-06-14"
 ---
 
+*Chronology revised October 22, 2026. [Acts I & II timeline](/acts-1-2-wrap-up/#scene-by-scene-chronology).*
+
+
 *Gary, Indiana*
-*February — June 1990*
+*February — June 1991*
 
 ---
 

@@ -1,12 +1,18 @@
 ---
-title: "The Apprentice — Thursday, 10 January 1991, 4:28 PM"
+title: "The Apprentice — Thursday, January 16, 1992, 4:50 PM"
 slug: "the-apprentice"
-date: 1991-01-10T16:28:01
-lastmod: 2026-05-01
+date: 1992-01-16 16:50:01
+lastmod: 2026-10-22
 tags: ["ashes-and-blood", "tomas", "vtm", "chicago"]
 categories: ["Chapter 4 — Clean Hands"]
 description: "A Tremere apprentice reports to a seven-hundred-year-old child, goes back to the club for a woman who already left, and spends the rest of the night doing what intelligence professionals do: mapping the machine that owns him."
+chronology_rebased: 2026-10-22
+chronology_original_night: "1991-01-10"
+scene_night_date: "1992-01-16"
 ---
+
+*Chronology revised October 22, 2026. [Acts I & II timeline](/acts-1-2-wrap-up/#scene-by-scene-chronology).*
+
 
 *[Tremere Chantry](/locations/tremere-chantry/) / [Succubus Club](/locations/succubus-club/) / Near North Side*
 *Chicago, Illinois*

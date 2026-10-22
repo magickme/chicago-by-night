@@ -1,11 +1,17 @@
 ---
-title: "Blood Dance — Friday, February 22, 1991, 5:30 PM"
-date: 1991-02-22T17:30:00
-lastmod: 2026-05-13
+title: "Blood Dance — Friday, May 15, 1992, 11:14 PM"
+date: 1992-05-15T23:14:00
+lastmod: 2026-10-22
 tags: ["ashes-and-blood", "darius", "sable", "tomas", "vtm", "chicago"]
 categories: ["Chapter 23 — Blood Bond"]
 description: "A working-night Succubus Club. A neonate doing what his Bond tells him to do, on a dance floor with mortals watching. Three witnesses to clean and a property manager who counts every favor like inventory."
+chronology_rebased: 2026-10-22
+chronology_original_night: "1991-02-22"
+scene_night_date: "1992-05-15"
 ---
+
+*Chronology revised October 22, 2026. [Acts I & II timeline](/acts-1-2-wrap-up/#scene-by-scene-chronology).*
+
 
 *[Succubus Club](/locations/succubus-club/) — Reality / Balcony / [Brennon](/npcs/brennon-thornhill/)'s Office*
 
@@ -201,7 +207,7 @@ Brennon held the door.
 
 The door closed behind them.
 
-Cold February air. Sodium lamp. Wet asphalt orange under the lot light. Somewhere on Michigan a cab with a bad muffler was idling at a red. Sable lit a cigarette and did not smoke it and watched the smoke curl up past the lamp until the lamp ate the smoke.
+Cool May air. Sodium lamp. Wet asphalt orange under the lot light. Somewhere on Michigan a cab with a bad muffler was idling at a red. Sable lit a cigarette and did not smoke it and watched the smoke curl up past the lamp until the lamp ate the smoke.
 
 "He'll make the call inside the hour," Tomás said.
 

@@ -1,11 +1,17 @@
 ---
-title: "The Debrief — Friday, February 1, 1991, 5:05 PM"
-date: 1991-02-01T17:05:01
-lastmod: 2026-05-07
+title: "The Debrief — Friday, March 27, 1992, 6:16 PM"
+date: 1992-03-27 18:16:01
+lastmod: 2026-10-22
 tags: ["ashes-and-blood", "tomas", "vtm", "chicago"]
 categories: ["Chapter 11 — Act III Opening"]
 description: "A Tremere analyst returns to the chantry at one-thirty in the morning wearing the wrong shoes, and the boy behind the desk already knows where he has been."
+chronology_rebased: 2026-10-22
+chronology_original_night: "1991-02-01"
+scene_night_date: "1992-03-27"
 ---
+
+*Chronology revised October 22, 2026. [Acts I & II timeline](/acts-1-2-wrap-up/#scene-by-scene-chronology).*
+
 
 *[Tremere Chantry](/locations/tremere-chantry/), [Astor](/npcs/lady-astor/) Street / Rush Street / [Gold Coast](/locations/gold-coast/)*
 
@@ -163,7 +169,7 @@ The hallway was dark. The hum from the third floor was louder now, or the buildi
 
 ---
 
-The [Gold Coast](/locations/gold-coast/) dissolved into neon four blocks south. Rush Street on a Friday. The war anxiety had driven people out, not in. Bars loud, sidewalks crowded for February, CNN visible through every window. The USAir crash footage playing on a loop above a bartender pouring domestics.
+The [Gold Coast](/locations/gold-coast/) dissolved into neon four blocks south. Rush Street on a Friday. The news had driven people out, not in. Bars loud, sidewalks crowded for March, CNN visible through every window. A retrospective on the USAir crash footage playing on a loop above a bartender pouring domestics.
 
 [Tomas](/tomas-navarro/) walked south on State, jacket collar up, hands in pockets. The M1911 shifted against his ribs with each step. He was scanning for the victim profile. Someone working the 2 AM trade, carrying the weariness that read as melancholy even from across a street.
 
@@ -235,7 +241,7 @@ The front hall was dark. [DuSable](/npcs/abraham-dusable/)'s overcoat was gone f
 
 He wrote:
 
-*Feb 1. Addendum. Full report delivered to Regent. Tunnel intelligence, [Elzbieta](/npcs/elzbieta-furofsky/) ID, [Khalid](/npcs/khalid-al-rashid/) reference, [Brennon](/npcs/brennon-thornhill/) favor, all transferred to Pyramid. Orders received: Sunday tunnel survey with [DuSable](/npcs/abraham-dusable/), Tuesday written OOB of [Succubus Club](/locations/succubus-club/), ongoing coterie intelligence pipeline. Blood sample provided (1 unit). Compartmentalization directive: tunnel findings not to be shared laterally with coterie.*
+*Mar 27. Addendum. Full report delivered to Regent. Tunnel intelligence, [Elzbieta](/npcs/elzbieta-furofsky/) ID, [Khalid](/npcs/khalid-al-rashid/) reference, [Brennon](/npcs/brennon-thornhill/) favor, all transferred to Pyramid. Orders received: Sunday tunnel survey with [DuSable](/npcs/abraham-dusable/), Tuesday written OOB of [Succubus Club](/locations/succubus-club/), ongoing coterie intelligence pipeline. Blood sample provided (1 unit). Compartmentalization directive: tunnel findings not to be shared laterally with coterie.*
 
 *Mortal contact: coffee spill, parking structure, Bellevue Place, ~0240. College male, Northwestern jacket, wire glasses, sandy hair. Accidental. Filed.*
 

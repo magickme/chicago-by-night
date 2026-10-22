@@ -1,11 +1,17 @@
 ---
-title: "The Report — Monday, 2 July 1990, 9:30 PM"
-date: 1990-07-02T21:30:00
-lastmod: 2026-03-23
+title: "The Report — Monday, July 1, 1991, 9:30 PM"
+date: 1991-07-01T21:30:00
+lastmod: 2026-10-22
 tags: ["forged-in-steel", "sable", "vtm", "gary"]
 categories: ["Chapter 4 — The Alliance"]
 description: "A letter with no name. A drawing room with ears. A lake at two in the morning. Seven words."
+chronology_rebased: 2026-10-22
+chronology_original_night: "1990-07-02"
+scene_night_date: "1991-07-01"
 ---
+
+*Chronology revised October 22, 2026. [Acts I & II timeline](/acts-1-2-wrap-up/#scene-by-scene-chronology).*
+
 
 *Gary, Indiana — multiple locations*
 

@@ -1,11 +1,17 @@
 ---
-title: "The Delivery — Tuesday, 22 January 1991, 4:35 PM"
-date: 1991-01-22T16:35:00
-lastmod: 2026-04-07
+title: "The Delivery — Tuesday, February 11, 1992, 5:23 PM"
+date: 1992-02-11T17:23:00
+lastmod: 2026-10-22
 tags: ["ashes-and-blood", "darius", "vtm", "chicago"]
 categories: ["Chapter 7 — The Machine"]
 description: "A delivery driver on a side street off Wabash. Motorcycles heading south with something that isn't clothes. An Anarch in a back booth who already knows where Darius has been."
+chronology_rebased: 2026-10-22
+chronology_original_night: "1991-01-22"
+scene_night_date: "1992-02-11"
 ---
+
+*Chronology revised October 22, 2026. [Acts I & II timeline](/acts-1-2-wrap-up/#scene-by-scene-chronology).*
+
 
 *Wabash Avenue / Blue Island Avenue / Indiana Avenue*
 

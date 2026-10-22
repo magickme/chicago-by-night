@@ -1,11 +1,17 @@
 ---
-title: "The Mirror — Friday, 12 January 1990, 10:00 PM"
-date: 1990-01-12T22:00:00
-lastmod: 2026-03-19
+title: "The Mirror — Friday, January 11, 1991, 10:00 PM"
+date: 1991-01-11T22:00:00
+lastmod: 2026-10-22
 tags: ["chapter", "sable", "vtm", "forged-in-steel", "gary"]
 categories: ["Chapter 1 — New Year's Eve"]
 description: "A full tank of blood. A note from a dancer. A prince who wants a spy. A ghost in a black Lincoln."
+chronology_rebased: 2026-10-22
+chronology_original_night: "1990-01-12"
+scene_night_date: "1991-01-11"
 ---
+
+*Chronology revised October 22, 2026. [Acts I & II timeline](/acts-1-2-wrap-up/#scene-by-scene-chronology).*
+
 
 *[The Torch](/locations/the-torch/) / Fifth Avenue / [Modius's Mansion](/locations/modius-mansion/) / The Oasis, 75th Street*
 *Gary, Indiana / Chicago, Illinois*

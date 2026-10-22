@@ -1,11 +1,17 @@
 ---
-title: "Return to the Faculty Club — Thursday, March 7, 1991, 5:47 PM"
-date: 1991-03-07T17:47:00
-lastmod: 2026-09-22
+title: "Return to the Faculty Club — Thursday, June 4, 1992, 9:00 PM"
+date: 1992-06-04T21:00:00
+lastmod: 2026-10-22
 tags: ["ashes-and-blood", "sable", "vtm", "chicago"]
 categories: ["Chapter 24 — Blood Bond"]
 description: "A Brujah elder trades a name for an honest failure, and the name leads to a bookshop on Devon Avenue where a mortal woman has been renewing the same circle for longer than anyone in the room has been dead."
+chronology_rebased: 2026-10-22
+chronology_original_night: "1991-03-07"
+scene_night_date: "1992-06-04"
 ---
+
+*Chronology revised October 22, 2026. [Acts I & II timeline](/acts-1-2-wrap-up/#scene-by-scene-chronology).*
+
 
 *University of Chicago faculty club / Devon Avenue / South Pilsen (Kaspar & Sons haven)*
 
@@ -17,7 +23,7 @@ The faculty club at the University of Chicago keeps a fire going on Thursday nig
 
 Three men in the far corner argued Aristotle with the persistence of people who had nowhere to be at eleven at night. Sherry had been poured for them. Sherry had been poured, also, for the corner table by the stone wall, where it sat untouched at the elbow of a man with no intention of raising it and no intention of explaining why.
 
-[Critias](/npcs/critias/) had changed his face since January. Greyer at the temples, a cardigan with real wear at the elbows, reading glasses pushed up into hair that wasn't his and hadn't been for a long time. One book in front of him, the spine broken from use rather than display. He looked up before the door finished closing.
+[Critias](/npcs/critias/) had changed his face since February. Greyer at the temples, a cardigan with real wear at the elbows, reading glasses pushed up into hair that wasn't his and hadn't been for a long time. One book in front of him, the spine broken from use rather than display. He looked up before the door finished closing.
 
 "[Sable](/sable-price/)." He shut the book without marking his place. "Sit. Milwaukee agreed with you — or disagreed with you, and you won."
 
@@ -73,13 +79,13 @@ She was halfway to the door when he added, without raising his voice, "Go carefu
 
 ---
 
-Devon Avenue at eleven-forty on a March Thursday winds itself down in three languages. The sari shops had their gates half-lowered, showing a foot of lit floor and a fringe of gold thread. The halal butchers were dark, windows still wet from the hose. One grocery stayed lit for the milk-and-cigarettes trade, and a man in a parka stood in its doorway eating a samosa in the cold with his hood up, and Sable, parking the Buick a block down with the engine ticking behind her, envied him so specifically and so briefly that it surprised her.
+Devon Avenue at eleven-forty on a June Thursday winds itself down in three languages. The sari shops had their gates half-lowered, showing a foot of lit floor and a fringe of gold thread. The halal butchers were dark, windows still wet from the hose. One grocery stayed lit for the milk-and-cigarettes trade, and a man in a parka stood in its doorway eating a samosa in the cold with his hood up, and Sable, parking the Buick a block down with the engine ticking behind her, envied him so specifically and so briefly that it surprised her.
 
 The shop sat between a shuttered travel agency and a check-cashing place. No name on the glass, a hand-lettered sign with the letters ruled straight: CANDLES • CARDS • CURIOS.
 
 She gave herself a minute in the dark to let her senses come up. One light behind the front curtain, warm and low, a lamp and not overheads. No car parked running. Nobody smoking in a doorway who shouldn't be. But the alley behind the row had a service door standing three inches ajar, and under the wax and the old paper, threading out of that gap, blood that had been spilled and not entirely cleaned up. Not fresh. Not old enough to be nothing.
 
-She crossed. The pavement was gritty with salt thrown down in January and never swept, and in the middle of the street a scrape of it under her heel told her the crossing wasn't as clean as she wanted. Not a sound so much as a small failure she felt in her own body. The rhythm behind the door didn't change.
+She crossed. The pavement was gritty with grit tracked out of the loading bays, and in the middle of the street a scrape of it under her heel told her the crossing wasn't as clean as she wanted. Not a sound so much as a small failure she felt in her own body. The rhythm behind the door didn't change.
 
 Because there was a rhythm. Back against brick that held no heat at all, she could hear a woman's voice through the gap, not English, not praying in any register she'd heard in a church. It repeated. That was the whole of its character. It repeated, and the repetitions were getting shorter. Through the three inches: candlelight, not electric, long shapes thrown up shelves of jarred things she declined to resolve. Then the woman's heartbeat came up, not the scatter of fear but the steady climb of effort, someone nearing the top of a staircase she'd climbed a hundred times.
 
@@ -193,7 +199,7 @@ The van came in with its headlights off for the last forty yards. Three figures 
 
 He looked up at Tomás over his own hand, resting on the cane.
 
-"[Nicolai](/npcs/nicolai/) tells me you found this and had the sense not to touch it. Consistent with the report authority you insisted upon in February. Tell me what you have, in full, and I will tell you what it means. That was the arrangement, I understand."
+"[Nicolai](/npcs/nicolai/) tells me you found this and had the sense not to touch it. Consistent with the report authority you insisted upon in March. Tell me what you have, in full, and I will tell you what it means. That was the arrangement, I understand."
 
 Tomás laid it out clean. The ledger, the razor, the compressing schedule, *return east*, the roster with the Chorus in it. [DuSable](/npcs/abraham-dusable/) listened without once interrupting. His stillness had none of Ilsa's arithmetic in it. It was the attention of a man who had spent a mortal lifetime in courtrooms learning that an interruption always costs more than it buys.
 
@@ -221,8 +227,8 @@ Critias picked up on the second ring.
 
 The drive south was twenty-five minutes on empty streets, the Buick's heater running for no reason except that Sable liked the sound of it, and nobody said anything worth remembering. Tomás sat in back with his hands flat on his knees. Darius drove the last stretch because she let him.
 
-Kaspar & Sons came up on the left. Brick, boarded windows, the loading dock where the steel door used to close. It still didn't close. It hadn't since January, when something came through it and took the frame along, and the door stood propped in its opening at a permanent angle now, held by its own weight and a length of pipe.
+Kaspar & Sons came up on the left. Brick, boarded windows, the loading dock where the steel door used to close. It still didn't close. It hadn't since the previous Saturday, when something came through it and took the frame along, and the door stood propped in its opening at a permanent angle now, held by its own weight and a length of pipe.
 
 Sable stood in the alley with the lake wind coming down it and looked at that for a while. The good steel. The bent hinges. The black gap at the edge where the cold got in.
 
-Then she went inside, because the alternative was standing in an alley at one in the morning admiring a door, and there were four hours left until dawn.
+Then she went inside, because the alternative was standing in an alley at one in the morning admiring a door, and there were a little over four hours left until dawn.

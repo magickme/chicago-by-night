@@ -1,11 +1,17 @@
 ---
-title: "Last Call — Wednesday, March 6, 1991, 5:46 PM"
-date: 1991-03-06T17:46:00
-lastmod: 2026-09-22
+title: "Last Call — Wednesday, June 3, 1992, 8:35 PM"
+date: 1992-06-03T20:35:00
+lastmod: 2026-10-22
 tags: ["ashes-and-blood", "darius", "vtm", "chicago"]
 categories: ["Chapter 24 — Blood Bond"]
 description: "Three hours to dawn, a city full of checkpoints, and a mouth that only knows how to taste one thing. Darius comes home empty and finds Tomás waiting at the top of the stairs."
+chronology_rebased: 2026-10-22
+chronology_original_night: "1991-03-06"
+scene_night_date: "1992-06-03"
 ---
+
+*Chronology revised October 22, 2026. [Acts I & II timeline](/acts-1-2-wrap-up/#scene-by-scene-chronology).*
+
 
 *South Pilsen / Ashland Avenue / Cermak Road / Blue Island Avenue / Halsted Street / Kaspar & Sons haven*
 
@@ -15,7 +21,7 @@ description: "Three hours to dawn, a city full of checkpoints, and a mouth that 
 
 The alley behind Kaspar & Sons held two smells that never fully separated. Freezer exhaust, which was just cold pushed outward into colder air. And under it the other one, sweet and chemical, soaked into the brick from forty years of a trade the building had been built to serve. [Darius](/darius-cole/) had stopped noticing it in February. He noticed it tonight because he was hungry, and hunger sharpened the inventory.
 
-Frost came off the Cutlass windshield in dry sheets, curling and breaking like paint. No water in it. Twenty-six degrees by dawn and the whole city had gone brittle.
+Moisture gathered on the Cutlass windshield. The lake wind kept the air cool as dawn approached.
 
 Seven. Thirteen minus seven was six. Six units of something that used to be a person, and no way to move a unit into the column where it belonged except to go out and find it.
 
@@ -113,7 +119,7 @@ Sable turned from the window. She was past the point where she bothered with the
 
 Tomás unfolded the report. Looked at it without reading it, the way a man checks a watch he has already checked, and folded it again along the same crease.
 
-"You're compartmenting me inside my own coterie," he said. "I'll note that the pact we signed in January assumed three people who could tell each other everything. We are no longer those three people."
+"You're compartmenting me inside my own coterie," he said. "I'll note that the pact we signed in March assumed three people who could tell each other everything. We are no longer those three people."
 
 The board under Sable gave as she shifted her weight.
 
