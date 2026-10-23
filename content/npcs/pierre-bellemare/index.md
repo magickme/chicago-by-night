@@ -11,7 +11,7 @@ ShowToc: false
 <dl>
 <dt>Clan</dt><dd>Ravnos antitribu</dd>
 <dt>Generation</dt><dd>10th generation</dd>
-<dt>Role</dt><dd>Infernal agent</dd>
+<dt>Role</dt><dd>Member of Les Orphelins</dd>
 <dt>City</dt><dd>Montreal</dd>
 </dl>
 </div>

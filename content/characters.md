@@ -1628,15 +1628,6 @@ ShowToc: false
 </a>
 </div>
 <div class="character-card">
-<a href="/npcs/valois-sang/">
-<img src="/npcs/valois-sang/cover.webp" alt="Valois Sang" loading="lazy">
-<div class="character-info">
-<strong>Valois Sang</strong>
-<span class="lineage">Tremere, 9th generation</span>
-</div>
-</a>
-</div>
-<div class="character-card">
 <a href="/npcs/yasmin-the-black/">
 <img src="/npcs/yasmin-the-black/cover.webp" alt="Yasmin the Black" loading="lazy">
 <div class="character-info">

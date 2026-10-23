@@ -23,4 +23,3 @@ In the years that followed, Yasmin traveled with Marnius, learning of and develo
 
 **Image:** Yasmin plays up her mystic image. She wears dark-hooded robes adorned with symbols and markings. She possesses a mysterious and exotic beauty; her naturally red hair contrasts with her almost yellow eyes, which she never blinks.
 
-**Secrets:** Yasmin's dreams have forced her to witness things that would make most vampires, even the Sabbat, cringe. She knows that Sukhmet met his end, yet in the back of her mind has doubts. Many of the visions she has end with Sukhmet rising upon Gehenna and devouring her. This only strengthens her desire to discover as much as she can about the Setite so that she can determine if her nightmares represent her unconscious fears or a dark reality.
