@@ -1,11 +1,17 @@
 ---
-title: "Elysium — Friday, 5 January 1990, 8:00 PM"
-date: 1990-01-05T20:00:00
-lastmod: 2026-03-17
+title: "Elysium — Friday, January 4, 1991, 8:00 PM"
+date: 1991-01-04T20:00:00
+lastmod: 2026-10-22
 tags: ["chapter", "sable", "vtm", "forged-in-steel", "gary"]
 categories: ["Chapter 1 — New Year's Eve"]
 description: "Sable's first Elysium. A prince who needs her. A woman at a piano who hates her already."
+chronology_rebased: 2026-10-22
+chronology_original_night: "1990-01-05"
+scene_night_date: "1991-01-04"
 ---
+
+*Chronology revised October 22, 2026. [Acts I & II timeline](/acts-1-2-wrap-up/#scene-by-scene-chronology).*
+
 
 *[Modius's Mansion](/locations/modius-mansion/), Miller Beach*
 *Gary, Indiana*

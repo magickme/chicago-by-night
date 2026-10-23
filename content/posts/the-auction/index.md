@@ -1,11 +1,18 @@
 ---
 title: "The Auction"
-date: 1991-01-03T04:00:00
+date: 1992-01-04T04:00:00
 lastmod: 2026-04-01
 tags: ["ashes-to-ashes", "flashback", "roarke", "vtm", "ashes-and-blood", "london"]
 categories: ["Chapter 2 — Pawns in the Game"]
 description: "A narrow shop off Piccadilly. Lot 47. A man in a lavender tie who tripled every bid and smiled like a letter addressed personally."
+chronology_frame_date: "1992-01-04"
+chronology_rebased: 2026-10-22
+chronology_original_night: "1991-01-03"
+scene_night_date: "1992-01-04"
 ---
+
+*Chronology revised October 22, 2026. [Acts I & II timeline](/acts-1-2-wrap-up/#scene-by-scene-chronology).*
+
 
 *Piccadilly / Mayfair Hotel*
 *London, England — October 1969*

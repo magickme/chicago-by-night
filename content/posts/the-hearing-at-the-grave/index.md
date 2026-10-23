@@ -1,11 +1,17 @@
 ---
-title: "The Hearing at the Grave — Friday, March 8, 1991, 5:48 PM"
-date: 1991-03-08T17:48:00
-lastmod: 2026-10-15
+title: "The Hearing at the Grave — Friday, June 12, 1992, 8:45 PM"
+date: 1992-06-12T20:45:00
+lastmod: 2026-10-22
 tags: ["ashes-and-blood", "darius", "vtm", "chicago"]
 categories: ["Chapter 25 — Blood Bond"]
 description: "Darius tops up on a debt nobody can pay and carries a hunted man to the hearing he was promised. At a dug grave northwest of Chicago, the Sabbat keep their word, and the word costs everyone something."
+chronology_rebased: 2026-10-22
+chronology_original_night: "1991-03-08"
+scene_night_date: "1992-06-12"
 ---
+
+*Chronology revised October 22, 2026. [Acts I & II timeline](/acts-1-2-wrap-up/#scene-by-scene-chronology).*
+
 
 *West Side tavern / Kedzie Avenue / Kaspar & Sons / [Tremere Chantry](/locations/tremere-chantry/), [Astor](/npcs/lady-astor/) Street / Humboldt Park / Old Northside Church*
 *Chicago and northern Illinois*
@@ -22,7 +28,7 @@ The arithmetic ran one direction. Darius was running close to empty, the boy's p
 
 The quilted jacket tore at the seam and the Warsaw tag came away in his fingers. Andrzej got one word out in Polish and it broke in his throat. The blood was hot and bitter, tobacco and diesel, and under that four months of lying awake adding up a number that only got bigger. His heels drummed twice on the concrete and quit. Darius drank until there was no room for another swallow, and the body in his arms weighed less than the jacket.
 
-It was 8:26, the collector due at nine. He set the base of the skull on the lip of the step, and what gave under his palms was clean and final. He dragged the torn throat across the rusted rail until it was ragged enough to pass. Then he stepped back to the curb and looked. The neck was broken and the wound was torn and nothing was wet. A patrolman with a flashlight would see it in one pass.
+It was 8:50 PM, the collector due at nine. He set the base of the skull on the lip of the step, and what gave under his palms was clean and final. He dragged the torn throat across the rusted rail until it was ragged enough to pass. Then he stepped back to the curb and looked. The neck was broken and the wound was torn and nothing was wet. A patrolman with a flashlight would see it in one pass.
 
 What he felt was good. A young man's iron sat under his breastbone like a second heart, the shakes of two nights were gone, and every sense ran warm and clear. And he was doing the sum, because he could not stop: thirty-eight hundred, three hundred a week, two-forty to pay it with, a debt that never closed, and he had closed it. Nobody on Milwaukee Avenue would collect. It gave him the clean feeling of a balanced ledger. Becky was the first entry. This was the second, smaller, a stranger, and the Beast had not been this easy with him since. It sat in the warm place behind his teeth with its legs stretched out like a dog beside a stove.
 
@@ -56,7 +62,7 @@ Her arms tightened until the coat bunched at the shoulders, and the cigarette fo
 
 Nicolai sat at a reading table under a low lamp, a boy of ten in a school jacket whose shoes didn't reach the floor. Tomás gave him everything in order, down to the Prince's deniable errand and the name Neally had paid with. Nicolai wrote the name on a clean line of the ledger, alone.
 
-"His blood has been thicker than his papers since January. I have wanted a taste of it for two months without a reason the Prince would accept. A name like that is the reason."
+"His blood has been thicker than his papers since January. I have wanted a taste of it for months without a reason the Prince would accept. A name like that is the reason."
 
 Darius came up two flights with the street's cold on his coat. A steel lancet opened his wrist in one pass, and the boy caught the bead on a glass slide and lifted it to his mouth. The lamp leaned an inch toward him and stayed there.
 
@@ -100,7 +106,7 @@ At the Chantry Neally drank three bags at a steel table and thanked nobody. Tom�
 
 Nicolai capped his pen. "The bond answers for him. It is a very good lock."
 
-Sable came back from the telephones with the city: Lodin's household in uproar over a lost prisoner, [Modius](/npcs/modius/)'s man at the [Succubus Club](/locations/succubus-club/) asking after [Allicia](/npcs/allicia/), and someone who wasn't Kindred asking around the [Gold Coast](/locations/gold-coast/) where [Darius Cole](/darius-cole/) fed. At 4:14 the wall phone rang and a soft Creole voice gave Darius the church and the terms, one car. *First light is a problem for you. It isn't one for us.* He had never given anyone the number. Walt called to whisper about a gray car outside the walkup and an envelope under Modius's seal. DuSable brought word that a Justicar had sent an Archon to Chicago. Nicolai handed Tomás the keys to a cargo van sealed against light. "Daylight is not a reason to be careless, Mr. Navarro."
+Sable came back from the telephones with the city: Lodin's household in uproar over a lost prisoner, [Modius](/npcs/modius/)'s man at the [Succubus Club](/locations/succubus-club/) asking after [Allicia](/npcs/allicia/), and someone who wasn't Kindred asking around the [Gold Coast](/locations/gold-coast/) where [Darius Cole](/darius-cole/) fed. At 2:15 AM the wall phone rang and a soft Creole voice gave Darius the church and the terms, one car. *First light is a problem for you. It isn't one for us.* He had never given anyone the number. Walt called to whisper about a gray car outside the walkup and an envelope under Modius's seal. DuSable brought word that a Justicar had sent an Archon to Chicago. Nicolai handed Tomás the keys to a cargo van sealed against light. "Daylight is not a reason to be careless, Mr. Navarro."
 
 Darius called [Brennon](/npcs/brennon-thornhill/) to send the signal for the ambush.
 
@@ -108,7 +114,7 @@ Darius called [Brennon](/npcs/brennon-thornhill/) to send the signal for the amb
 
 ---
 
-Headlights picked them up on the Interstate and held a quarter mile back all the way. At 5:32 the gravel ended at a long dark church with two stained glass windows still holding color and a yard of broken headstones. In the middle of the cemetery someone had dug a hole bigger than a grave. The bikes stood in a half-circle. Bach out front, grinning; Mireille at his shoulder; the Chorus one dark shape behind them. At the church door [Jefferson](/npcs/jefferson-foster/) stood with a hand on the shoulder of a woman who wasn't looking at anyone.
+Headlights picked them up on the Interstate and held a quarter mile back all the way. At 4:10 AM the gravel ended at a long dark church with two stained glass windows still holding color and a yard of broken headstones. In the middle of the cemetery someone had dug a hole bigger than a grave. The bikes stood in a half-circle. Bach out front, grinning; Mireille at his shoulder; the Chorus one dark shape behind them. At the church door [Jefferson](/npcs/jefferson-foster/) stood with a hand on the shoulder of a woman who wasn't looking at anyone.
 
 "My friends! The day's light was long and we slept uneasily. We missed your scent." Bach looked past Darius to the van. "You've brought him. We've prepared the Becoming for your craven Camarilla coward."
 

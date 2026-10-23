@@ -1,11 +1,17 @@
 ---
-title: "Dinner with Ballard — Wednesday, 2 January 1991, 4:29 PM"
-date: 1991-01-02T16:29:00
-lastmod: 2026-03-30
+title: "Dinner with Ballard — Thursday, January 2, 1992, 4:36 PM"
+date: 1992-01-02T16:36:00
+lastmod: 2026-10-22
 tags: ["ashes-to-ashes", "darius", "sable", "vtm", "ashes-and-blood", "chicago"]
 categories: ["Chapter 1 — Ashes to Ashes"]
 description: "Three hundred pounds of Ventrue authority orders wine and porterhouse for two neonates who cannot eat. The Prince is missing. The assignment is not a request."
+chronology_rebased: 2026-10-22
+chronology_original_night: "1991-01-02"
+scene_night_date: "1992-01-02"
 ---
+
+*Chronology revised October 22, 2026. [Acts I & II timeline](/acts-1-2-wrap-up/#scene-by-scene-chronology).*
+
 
 *[Daley's Restaurant](/locations/daleys-restaurant/), [Gold Coast](/locations/gold-coast/)*
 *Chicago, Illinois*

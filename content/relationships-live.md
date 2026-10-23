@@ -14,26 +14,46 @@ graph LR
     DariusCole["Darius Cole"]
     SablePrice["Sable Price"]
     Juggler["Juggler"]
-    SablePrice -->|"owes Minor (2)"| Juggler
-    AnnabelleTriabell["~~Annabelle Triabell~~"]
-    SablePrice -->|"owes ~~Minor (2)~~"| AnnabelleTriabell
+    SablePrice -->|"owes One Minor"| Juggler
     Modius["Modius"]
-    SablePrice -->|"owes Fealty (ongoing)"| Modius
-    DariusCole -->|"owes Minor (2)"| Juggler
-    DariusCole -->|"owes Fealty (ongoing)"| Modius
-    ChucLuc["Chuc Luc"]
-    DariusCole -->|"owes Filial obligation"| ChucLuc
+    SablePrice -->|"owes Unclosed Gary service, not a boon"| Modius
+    GordonKeaton["Gordon Keaton"]
+    DariusCole -->|"owes One Minor"| GordonKeaton
     Danov["Danov"]
-    Danov -->|"owes —"| DariusCole
-    Allicia["Allicia"]
-    Allicia -->|"owes Moderate (3)?"| SablePrice
+    DariusCole -->|"owes One future unspecified service"| Danov
+    BrennonThornhill["Brennon Thornhill"]
+    DariusCole -->|"owes Promised Modius debrief"| BrennonThornhill
+    JeffersonFoster["Jefferson Foster"]
+    DariusCole -->|"owes Conditional mediated Denver introduction"| JeffersonFoster
+    ChucLuc["Chuc Luc"]
+    DariusCole -->|"owes Accepted private reporting/work"| ChucLuc
+    DariusCole -->|"owes Unclosed Gary service, not a boon"| Modius
+    Lodin["Lodin"]
+    DariusSable["Darius + Sable"]
+    Lodin -->|"owes One rescue claim, Major/Life grade disputed"| DariusSable
+    Critias["Critias"]
+    Critias -->|"owes One Major"| DariusCole
+    AnnabelleTriabell["Annabelle Triabell"]
+    AnnabelleTriabell -->|"owes Four Minor"| SablePrice
+    BrennonThornhill -->|"owes One Minor"| DariusCole
+    EdgarDrummond["Edgar Drummond"]
+    EdgarDrummond -->|"owes One Minor"| SablePrice
     HoraceTurnbull["Horace Turnbull"]
-    HoraceTurnbull -->|"owes Minor (2)"| DariusCole
+    HoraceTurnbull -->|"owes One Minor"| DariusCole
+    RaymondFalcon["Raymond Falcon"]
+    RaymondFalcon -->|"owes One Minor, informally witnessed"| DariusCole
+    Gengis["Gengis"]
+    Gengis -->|"owes One Minor, informal acknowledgment"| DariusCole
+    LorraineMatthews["Lorraine Matthews"]
+    LorraineMatthews -->|"owes One Minor"| DariusSable
+    TremereChantryNicolai["Tremere Chantry / Nicolai"]
+    BrennonThornhill -->|"One favor, former Tomás claim"| TremereChantryNicolai
     Lucian["Lucian"]
-    Juggler -->|"Unknown"| Lucian
-    Allicia -->|"Blood Bond (3 steps)"| Modius
+    Juggler -->|"Unspecified obligation"| Lucian
+    Allicia["Allicia"]
+    Allicia -->|"Full blood bond, treatment ongoing"| Modius
     VictorSalonika["Victor Salonika"]
-    VictorSalonika -->|"Ghoul bond"| Modius
+    VictorSalonika -->|"Ghoul service"| Modius
 ```
 
 ## Disposition Heat
@@ -45,7 +65,7 @@ graph TD
 
 ## Chicago Standing
 
-- Court 2/5 (Recognized): Critias +3 (faculty club + D045). Brennon +3 (Fundamental Differences, promised formal advocacy). Annabelle +1 (private line, dead drop gift). Primogen session Wed Jan 23: Ballard reprimanded 3-2-1. Inyanga abstained.
+- Court 2/5 (Recognized): Critias consolidated +5 as of D066. Brennon +3 (Fundamental Differences, promised formal advocacy). Annabelle +1 (private line, dead drop gift). Primogen session Wed Feb 12: Ballard reprimanded 3-2-1. Inyanga abstained.
 - Society 2/5 (Established): Succubus Club explored including Labyrinth. Brennon met. Falcon boon. Sir Henry +3. Toreador social infrastructure mapped.
 - Underworld 0/5 (Unknown): No standing yet with Capone, Chuc Luc's Chicago operators, or the city's criminal brokers
-- Street 1/5 (Emerging): Gengis +1 (Brewery confirmed Thursdays). Maldavis +1 (shared intel, task accepted). Anarch channel open.
+- Street 1/5 (Emerging): Gengis +2 (Brewery access Thursdays). Maldavis +1 (shared intel, task accepted). Anarch channel open.

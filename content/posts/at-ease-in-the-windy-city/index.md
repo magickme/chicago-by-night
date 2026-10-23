@@ -1,11 +1,18 @@
 ---
 title: "At Ease in the Windy City"
-date: 1991-01-03T00:00:00
+date: 1992-01-04T00:00:00
 lastmod: 2026-04-01
 tags: ["ashes-to-ashes", "flashback", "roarke", "vtm", "ashes-and-blood", "chicago"]
 categories: ["Chapter 2 — Pawns in the Game"]
 description: "Sixty-one years of service. A crate the shape of what it is. The Prince says London like he means war."
+chronology_frame_date: "1992-01-04"
+chronology_rebased: 2026-10-22
+chronology_original_night: "1991-01-03"
+scene_night_date: "1992-01-04"
 ---
+
+*Chronology revised October 22, 2026. [Acts I & II timeline](/acts-1-2-wrap-up/#scene-by-scene-chronology).*
+
 
 *[Lodin](/npcs/lodin/)'s Penthouse, The [Gold Coast](/locations/gold-coast/)*
 *Chicago, Illinois — October 1969*

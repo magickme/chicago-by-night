@@ -42,6 +42,8 @@ slug: "boons"
 .boon-ref strong { color: #fbbf24; }
 </style>
 
+The [reviewed ledger through D069](/acts-1-2-wrap-up/#final-boon-ledger) is on the Acts I & II wrap-up page. The entries below preserve the historical pre-wrap-up snapshot (its old dates precede the chronology rebase).
+
 *Gary has no harpies. Enforcement is collective memory, reputation, and princely intervention. Debts are traded like baseball cards. Updated: **July 19, 1990.***
 
 <div class="boon-ref">

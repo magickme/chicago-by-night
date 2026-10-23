@@ -203,11 +203,11 @@ Khalid al-Rashid, the one Primogen member free of both Methuselahs, makes his fi
 
 **Campaign evidence:** T002 — Khalid appeared as "the old man at the bus stop." Tomás performed the ritual and reported the bond discrepancy. Khalid identified Portia and cited a 40-year Detroit precedent. Minor Boon owed.
 
-### 37. Rd1 Nd4! — The Auditorium Theatre incident (D055: The Opera, Feb 9, 1991)
+### 37. Rd1 Nd4! — The Auditorium Theatre incident (D055: The Opera, April 4, 1992)
 
-Bach's rogue Sabbat pack crashes the Verdi performance at Critias's Elysium during the coterie's first attendance under Critias's invitation. White's rook shuffles to cover the Elysium; Black's knight lands on the outpost square that was always there. The fight exposes a concrete tomb in the proscenium wall — Jefferson Foster, Brujah neonate, staked and bricked inside the wall of Elysium for twenty-four years. The coterie pulls the stake on Critias's order. Jefferson goes Obfuscate and disappears into the city before sirens arrive.
+Bach's rogue Sabbat pack crashes the Verdi performance at Critias's Elysium during the coterie's first attendance under Critias's invitation. White's rook shuffles to cover the Elysium; Black's knight lands on the outpost square that was always there. The fight exposes a concrete tomb in the proscenium wall — Jefferson Foster, formerly a Camarilla Ventrue, staked and bricked inside the wall of Elysium for about twenty-five years. The coterie pulls the stake on Critias's order. Jefferson goes Obfuscate and disappears into the city before sirens arrive.
 
-Jefferson was [Neally Edwards](/npcs/neally-edwards/)'s entombment — a private violation of the Traditions kept inside the Traditions' own house for two and a half decades. Neally is Lodin's chief administrator and one of White's reliable structural pieces. The man Jefferson is hunting is therefore one of Helena's tools. A revenant with twenty-four years of accumulated grievance, Obfuscate, and a face nobody in Chicago recognizes is now loose in Lodin's city.
+Jefferson was [Neally Edwards](/npcs/neally-edwards/)'s entombment — a private violation of the Traditions kept inside the Traditions' own house for two and a half decades. Neally is Lodin's chief administrator and one of White's reliable structural pieces. The man Jefferson is hunting is therefore one of Helena's tools. A revenant with about twenty-five years of accumulated grievance, Obfuscate, and a face nobody in Chicago recognizes is now loose in Lodin's city.
 
 **Black gains a wild piece on the board through White's own carelessness.** The coterie did not understand they were doing this. Critias understood exactly what he was doing. Critias is Menele's bonded knight. The order to pull the stake was a quiet move executed under the cover of a Sabbat emergency — exactly the kind of action a four-thousand-year-old Brujah patiently waits two and a half decades to take when the board's distractions provide cover.
 
@@ -215,9 +215,9 @@ Side effects: Sable kills Brad Hessler in the haven to plug a Masquerade leak fr
 
 **Campaign evidence:** D055 — Blood Bond (WW2101) Scene 1. Bach took 11 levels aggravated damage and retreated intact. Masquerade Heat 3 → 4/6. Sabbat Infiltration 2 → 3/6.
 
-### 38. Qd3 Nc6 — The Chalice (D056: Consequences, Feb 11, 1991)
+### 38. Qd3 Nc6 — The Chalice (D056: Consequences, April 6, 1992)
 
-Two nights after the Auditorium breach, Lodin summons the coterie to the 41st floor of the Prudential Building and pours a single chalice. Darius, Sable, and Tomás each drink one swallow. All three advance to Step 1/3 of a Vinculum to the Prince. Critias is in the room — arms folded — and intervenes only to register, for Neally's record, that the coterie outperformed Lodin's own childer. Lodin notes it. The toast happens anyway. The coterie leaves with a weekly Thursday report scheduled through Neally and a standing order to produce Bach's head.
+Two nights after the Auditorium breach, Lodin summons the coterie to the 41st floor of the Prudential Building and pours a single chalice. Darius, Sable, and Tomás each drink one swallow. All three advance to Step 1/3 of a Blood Bond to the Prince. Critias is in the room — arms folded — and intervenes only to register, for Neally's record, that the coterie outperformed Lodin's own childer. Lodin notes it. The toast happens anyway. The coterie leaves with a weekly Thursday report scheduled through Neally and a standing order to produce Bach's head.
 
 **White consolidates her queen's grip on her advance pawns.** Lodin formalises ownership of the three neonates that just held an Elysium for him — exactly the pieces Menele has been using to maneuver his own body into White's stronghold. But the Bond is Step 1, not Step 3. Mild positive feeling, no compulsion.
 
@@ -225,19 +225,19 @@ Two nights after the Auditorium breach, Lodin summons the coterie to the 41st fl
 
 **Campaign evidence:** D056 — Blood Bond (WW2101) Scene 2. Blood Bond Web 1 → 2/6. Lodin's Grip 3 → 4/6. Sabbat hunt assignment issued; Critias named tactical liaison.
 
-### 39. Qe2 — Helena captures Neally and a child (D060: Children in Need, Mar 1, 1991)
+### 39. Qe2 — Helena captures Neally and a child (D060: Children in Need, May 29, 1992)
 
-[Neally Edwards](/npcs/neally-edwards/) — Tremere ancilla, Lodin's weekly intake officer, part of the [Nicolai](/npcs/nicolai/)-chantry reporting chain that loops up to Helena — has been feeding on children at St. Brigid's Home for Children in Bridgeport for an unknown period and Embraced an eight-year-old girl (Becky) three nights before the scene. The Tremere are forbidden from siring without writ for eighteen years. The Masquerade breach pattern is severe. Neally's hands shake while he feeds; he does not want to be there. He goes anyway. The compulsion suggests bond pressure or deeper compromise.
+[Neally Edwards](/npcs/neally-edwards/) — Ventrue ancilla and Lodin's childe, serving as the Prince's administrator and the coterie's reporting recipient — has been feeding on children at St. Brigid's Home for Children in Bridgeport for an unknown period and Embraced an eight-year-old girl (Becky) three nights before the scene. Lodin maintains a long-standing ban on unauthorized siring. The Masquerade breach pattern is severe. Neally's hands shake while he feeds; he does not want to be there. He goes anyway. The compulsion suggests bond pressure or deeper compromise.
 
 [Darius](/darius-cole/) — Menele's Step-1 pawn, now formally Lodin's direct instrument — encounters Becky on Halsted, confirms Neally as the predator, and reports clean to Lodin by phone. Lodin orders the child delivered to the Prudential Building. Lodin will "handle" Neally.
 
-The capture: **Helena's proxy (Lodin) acquires a child Kindred asset (unknown disposition, likely terminal or instrumentalized) plus blackmail-grade compromise on Neally Edwards.** Neally was already a Tremere-chain Helena asset; he is now a leashed one. The Tremere chantry's autonomy weakens. Lodin's leverage inside the Pyramid grows.
+The capture: **Helena's proxy (Lodin) acquires a child Kindred asset (unknown disposition, likely terminal or instrumentalized) plus blackmail-grade compromise on Neally Edwards.** Neally's position in Lodin's administration creates political exposure. A separate Tremere lineage or proven control chain through Helena is not established.
 
 The accidental gift to Menele: Darius — bound to Menele subconsciously — has visibly demonstrated to Lodin that his Ventrue blood is *operational and efficient*. Lodin will reach for him again. Menele's pawn is moving deeper into White's queen's orbit, which is exactly the position Menele needs for the endgame. **A pawn delivered to White's most exposed piece is still a pawn under Black's hand.**
 
 **Campaign evidence:** D060 — Becky delivered to Lodin's man on the 41st floor of the Prudential Building. Darius dismissed without information. Conscience check failed. Humanity 7 → 6. Blood Bond (WW2101) Scene 4 complete. The published-adventure framework routed the decision through Lodin by design; Darius could have hidden Becky, sought [Erichtho](/npcs/erichtho/) or [Carna](/npcs/carna/), or run her north. He made the institutional choice. Menele's bond does not require Darius to disobey Lodin — it requires Darius to remain useful to Lodin. Both Methuselahs benefit from this move. Helena gains material; Menele gains position.
 
-### 39... Nf3+!? — The name reaches the Pyramid (D068: The Hearing at the Grave, Mar 8, 1991)
+### 39... Nf3+!? — The name reaches the Pyramid (D068: The Hearing at the Grave, June 12-13, 1992)
 
 Neally Edwards, bonded to Jefferson and hunted by his own sire, paid Darius with a name he cannot account for. Under Nicolai's questioning he says only that he learned it "where I was told to" and does not remember who told him. Someone wanted that name carried, and the carrier was a leashed piece of White's.
 
@@ -251,7 +251,22 @@ Side effects: Neally himself passes off the board to the third player, delivered
 
 ---
 
-## The Position After 39 Moves
+### 40. The witness leaves Lodin's custody (D069: The Signed Discharge, June 13, 1992)
+
+Lodin accepts Nicolai's finding that Foster's old bond over Neally is gone. He gives Cole, Price and Navarro a signed discharge and withdraws Neally's existing Hunt. His stated political aim is to use the result before the Primogen to argue for bonds he could describe as reversible. That argument has not been accepted by the council.
+
+Maryann Fletcher, serving Petrodon, records the deniable commission and takes Neally as a voluntary witness. Neally declares himself Sabbat; Bach and Foster accept the telephone account. The Prince loses immediate custody of an administrator who knows his affairs, and the Archon holds testimony outside his office. Darius retains the signed discharge and still owes the conditional Denver introduction through himself.
+
+This changes the positions of the existing proxies without proving a new order from either Methuselah. The body at the Drake, Nicolai's outgoing correspondence and the disputed bond knowledge remain consequential. No awakening, concealed Vinculum discovery, PC conversion, new Hunt or later Chicago war occurs in this move. The feeding inquiry may expose Darius; its answer remains unplayed.
+
+The end-of-act position gives the Prince grounds to press for containment, while the Primogen and Chantry have reasons to contest who controls testimony and research. Those are future intentions. Helena's and Menele's responses remain unknown. Darius's partial ties to Menele and Lodin remain as recorded. No new drink or compelled act is added for any PC.
+
+**Campaign evidence:** D069; Blood Bond tracker DL-17-DL-22. Maryann's photograph/question is the live cliffhanger. GM interpretation here does not grant PC knowledge.
+
+
+## Historical position through D068 (39 moves)
+
+This snapshot predates the D069 change recorded in move 40. Its Methuselah strategy is GM interpretation, not established character knowledge.
 
 **White (Helena):**
 - King active but weakened (Portia identity, recovering from torpor) — stats in parentheses, Conscience 0, feeding only on female Kindred vitae
@@ -263,7 +278,7 @@ Side effects: Neally himself passes off the board to the third player, delivered
 - Annabelle (believed to be White's bishop — actually Black's)
 - [Balthazar](/npcs/balthazar/) the Sheriff (rook being repointed — Toreador bond Step 2, one drink from overtaking Lodin's hold)
 - [Neally Edwards](/npcs/neally-edwards/) (pawn, now leashed by blackmail after D060) + Becky, a child Kindred in Lodin's custody (captured material, disposition unknown)
-- The coterie (three pawns, Vinculum Step 1/3 to Lodin since D056)
+- The coterie (three pawns, Blood Bond Step 1/3 to Lodin since D056)
 
 **Black (Menele):**
 - King torpid but now inside White's stronghold (Drake Hotel, Lodin's custody) — mind active (Auspex 6), closer to awakening than at any point since 1832
@@ -274,7 +289,7 @@ Side effects: Neally himself passes off the board to the third player, delivered
 - [Ublo-Satha](/npcs/ublo-satha/) as sleeper in Tremere Chantry (knight behind enemy lines)
 - The pipeline (rook — continental logistics)
 - Gary staging ground with Modius, coterie, neonates (connected pawns)
-- Jefferson Foster at large (wild piece — twenty-four years of grievance, Obfuscate, aimed at one of White's structural pieces)
+- Jefferson Foster at large (wild piece — about twenty-five years of grievance, Obfuscate, aimed at one of White's structural pieces)
 - Roarke's cult dissolved, Roarke destroyed (passed pawn sacrificed after promotion)
 - Path of Entelechy worldwide (development in reserve)
 
@@ -290,7 +305,7 @@ Side effects: Neally himself passes off the board to the third player, delivered
 
 **Black is winning.** White's recovered queen carries Black's blood. Black's king has been delivered to the heart of White's camp by White's own pieces. Three of Black's agents surround the Prince: Critias (Primogen), Darius (emissary, bonded), and Annabelle (double agent). Her most powerful rook may defect (Prias) and her key bishop is actually Black's. Helena doesn't know any of this. She believes her position is stronger than it is.
 
-White is not without gains. Moves 36 through 39 took real material: the Sheriff's bond is two-thirds turned, the coterie is formally bound at Step 1, and D060 handed Lodin both a child Kindred and blackmail-grade compromise on a Tremere-chain administrator. Every one of those gains runs through pieces Menele's network already touches.
+White is not without gains. Moves 36 through 39 took real material: the Sheriff's bond is two-thirds turned, the coterie is formally bound at Step 1, and D060 handed Lodin both a child Kindred and blackmail-grade compromise on a Ventrue administrator. Every one of those gains runs through pieces Menele's network already touches.
 
 Black's remaining weakness: the king is still torpid. But he is no longer in the woods surrounded by rats. He is in a cedar closet in a luxury hotel, guarded by the Prince of Chicago, who is drinking his blood. If Helena finds the body before he wakes, she still wins — the Heart of Osiris could accelerate the awakening, and the coterie is moving through the board toward it without knowing what it is.
 

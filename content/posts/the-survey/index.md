@@ -1,11 +1,17 @@
 ---
-title: "The Survey — Sunday, February 3, 1991, 5:07 PM"
-date: 1991-02-03T17:07:00
-lastmod: 2026-05-07
+title: "The Survey — Sunday, March 29, 1992, 6:18 PM"
+date: 1992-03-29T18:18:00
+lastmod: 2026-10-22
 tags: ["ashes-and-blood", "tomas", "vtm", "chicago"]
 categories: ["Chapter 11 — Act III Opening"]
 description: "Forty feet below the Loop, a Tremere apprentice and a seven-hundred-year-old lawyer find something in the brick that neither of them was supposed to see."
+chronology_rebased: 2026-10-22
+chronology_original_night: "1991-02-03"
+scene_night_date: "1992-03-29"
 ---
+
+*Chronology revised October 22, 2026. [Acts I & II timeline](/acts-1-2-wrap-up/#scene-by-scene-chronology).*
+
 
 *[Astor Street Chantry](/locations/tremere-chantry/) / Kinzie Street Tunnels / [Kaspar & Sons](/locations/kaspar-and-sons/)*
 

@@ -1,11 +1,17 @@
 ---
-title: "The Oasis — Saturday, 13 January 1990, 11:50 PM"
-date: 1990-01-13T23:50:00
-lastmod: 2026-03-20
+title: "The Oasis — Saturday, January 12, 1991, 11:50 PM"
+date: 1991-01-12T23:50:00
+lastmod: 2026-10-22
 tags: ["chapter", "sable", "vtm", "forged-in-steel", "gary"]
 categories: ["Chapter 1 — New Year's Eve"]
 description: "A strip club on 75th Street. A woman who doesn't dance anymore. A warning about the prince's wine."
+chronology_rebased: 2026-10-22
+chronology_original_night: "1990-01-13"
+scene_night_date: "1991-01-12"
 ---
+
+*Chronology revised October 22, 2026. [Acts I & II timeline](/acts-1-2-wrap-up/#scene-by-scene-chronology).*
+
 
 *The Oasis, 75th Street / [Modius's Mansion](/locations/modius-mansion/)*
 *Chicago, Illinois / Gary, Indiana*

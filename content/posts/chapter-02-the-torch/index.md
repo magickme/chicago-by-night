@@ -1,11 +1,17 @@
 ---
-title: "The Torch — Monday, 1 January 1990, 1:00 AM"
-date: 1990-01-01T01:00:00
-lastmod: 2026-03-17
+title: "The Torch — Tuesday, January 1, 1991, 1:00 AM"
+date: 1991-01-01T01:00:00
+lastmod: 2026-10-22
 tags: ["chapter", "sable", "vtm", "forged-in-steel", "gary"]
 categories: ["Chapter 1 — New Year's Eve"]
 description: "New Year's morning. Sable walks into The Torch and walks right back out."
+chronology_rebased: 2026-10-22
+chronology_original_night: "1990-01-01"
+scene_night_date: "1991-01-01"
 ---
+
+*Chronology revised October 22, 2026. [Acts I & II timeline](/acts-1-2-wrap-up/#scene-by-scene-chronology).*
+
 
 *[The Torch](/locations/the-torch/)*
 *Gary, Indiana*
@@ -102,6 +108,6 @@ She climbed into the back seat. The fur coat — [Sharon](/npcs/sharon-payne/)'s
 
 The coat smelled like Chanel No. 5. [Sharon](/npcs/sharon-payne/)'s perfume. The woman who had kissed her and shared blood with her and looked at her with the appraising calm of a collector evaluating a purchase, and who would kill her if she found her, not out of hatred but out of the principle that broken toys should not be left where other people can find them.
 
-[Sable](/sable-price/) lay in the dark in the basement of a parking garage in Gary, Indiana, on the first day of 1990, and did not cry because crying cost blood and blood was the only currency she had left.
+[Sable](/sable-price/) lay in the dark in the basement of a parking garage in Gary, Indiana, on the first day of 1991, and did not cry because crying cost blood and blood was the only currency she had left.
 
 Outside, the city did what it always did. It waited. It decayed. It did not care who slept inside it or what they dreamed of or whether they dreamed at all.

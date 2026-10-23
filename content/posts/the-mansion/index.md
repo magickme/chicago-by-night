@@ -1,11 +1,17 @@
 ---
-title: "The Mansion — Tuesday, 24 July 1990, 8:19 PM"
-date: 1990-07-24T20:19:00
-lastmod: 2026-03-30
+title: "The Mansion — Tuesday, July 23, 1991, 8:19 PM"
+date: 1991-07-23T20:19:00
+lastmod: 2026-10-22
 tags: ["forged-in-steel", "sable", "vtm", "gary"]
 categories: ["Chapter 7 — The Coterie"]
 description: "Sable walks into the lion's den in a Goodwill dress with a razor-altered hem, delivers a Torch spy report to a prince whose composure cracks for a quarter of a second, and trades a scheduling recommendation for the first real concession Modius has made all year."
+chronology_rebased: 2026-10-22
+chronology_original_night: "1990-07-24"
+scene_night_date: "1991-07-23"
 ---
+
+*Chronology revised October 22, 2026. [Acts I & II timeline](/acts-1-2-wrap-up/#scene-by-scene-chronology).*
+
 
 *Kendrick's Auto / [Modius's Mansion](/locations/modius-mansion/) / East Side Broadway / Adams Street Payphone*
 *Gary, Indiana*

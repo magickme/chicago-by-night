@@ -1,11 +1,18 @@
 ---
 title: "Pawns in the Game"
-date: 1991-01-03T03:00:00
+date: 1992-01-04T03:00:00
 lastmod: 2026-04-01
 tags: ["ashes-to-ashes", "flashback", "roarke", "vtm", "ashes-and-blood", "london"]
 categories: ["Chapter 2 — Pawns in the Game"]
 description: "Eight white pawns with faces. A game room designed to keep people comfortable and irrelevant. Lodin emerges with his face closed like a book."
+chronology_frame_date: "1992-01-04"
+chronology_rebased: 2026-10-22
+chronology_original_night: "1991-01-03"
+scene_night_date: "1992-01-04"
 ---
+
+*Chronology revised October 22, 2026. [Acts I & II timeline](/acts-1-2-wrap-up/#scene-by-scene-chronology).*
+
 
 *Queen [Anne](/npcs/lady-anne/)'s Mansion*
 *South London — October 1969*

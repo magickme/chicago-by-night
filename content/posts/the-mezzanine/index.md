@@ -1,11 +1,17 @@
 ---
-title: "The Mezzanine — Saturday, January 26, 1991, 4:55 PM"
-date: 1991-01-26T16:55:00
-lastmod: 2026-05-01
+title: "The Mezzanine — Saturday, February 22, 1992, 5:36 PM"
+date: 1992-02-22T17:36:00
+lastmod: 2026-10-22
 tags: ["ashes-and-blood", "darius", "sable", "vtm", "chicago"]
 categories: ["Chapter 7 — The Machine"]
 description: "A mescaline-tripping Ventrue on a balcony railing, and a stranger playing chess with all his teeth showing. The Succubus Club on a Saturday night gives the coterie a boon, a name, and a landlord problem."
+chronology_rebased: 2026-10-22
+chronology_original_night: "1991-01-26"
+scene_night_date: "1992-02-22"
 ---
+
+*Chronology revised October 22, 2026. [Acts I & II timeline](/acts-1-2-wrap-up/#scene-by-scene-chronology).*
+
 
 *[The Succubus Club](/locations/succubus-club/), State Street*
 *Chicago, Illinois*
@@ -150,7 +156,7 @@ Neither of them touched the board.
 
 She held [Sable](/sable-price/)'s gaze. "The Armitage gallery is the real target. The only Toreador gathering space on the North Side that isn't [Brennon](/npcs/brennon-thornhill/)'s. The other two strikes are expensive noise."
 
-She placed a folded piece of paper on the railing between them. An address. Wednesday January 29th, eight PM. Then [Neally](/npcs/neally-edwards/)'s session at the [Field Museum](/locations/field-museum/) after.
+She placed a folded piece of paper on the railing between them. An address. Wednesday, February 26, eight PM. Then [Neally](/npcs/neally-edwards/)'s session at the [Field Museum](/locations/field-museum/) after.
 
 "Don't thank me yet."
 
@@ -168,9 +174,9 @@ They met Thursdays. Same night as the faculty club, same night as [the Brewery](
 
 ---
 
-State Street. 12:45 AM. January 27 by the calendar, Saturday dead and Sunday born.
+State Street. 12:45 AM. February 23 by the calendar, Saturday dead and Sunday born.
 
-They came out the rear service door and [Darius](/darius-cole/) caught it first. Perfume. Heavy, sweet, wrong for January. Near the service door, dissipating west in the wind.
+They came out the rear service door and [Darius](/darius-cole/) caught it first. Perfume. Heavy, sweet, wrong for February. Near the service door, dissipating west in the wind.
 
 [Sable](/sable-price/) caught the second thing. Movement at the alley mouth. A figure stepping back around the corner. Deliberate. Not fleeing, withdrawing. Tall, long coat. Moving south on State Street at a walk. Gone.
 

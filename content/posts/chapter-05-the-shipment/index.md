@@ -1,18 +1,24 @@
 ---
-title: "The Shipment — Sunday, 14 January 1990, 11:30 PM"
-date: 1990-01-14T23:30:00
-lastmod: 2026-03-17
+title: "The Shipment — Sunday, January 13, 1991, 11:30 PM"
+date: 1991-01-13T23:30:00
+lastmod: 2026-10-22
 tags: ["chapter", "darius", "vtm", "forged-in-steel", "gary"]
 categories: ["Chapter 1 — New Year's Eve"]
 description: "January 14. The date from the clipboard. Darius comes to observe. What he finds is older than the city."
+chronology_rebased: 2026-10-22
+chronology_original_night: "1990-01-14"
+scene_night_date: "1991-01-13"
 ---
+
+*Chronology revised October 22, 2026. [Acts I & II timeline](/acts-1-2-wrap-up/#scene-by-scene-chronology).*
+
 
 *Dock 7, Gary Exports Co.*
 *Gary, Indiana*
 
 ---
 
-The containers were already there. That was the first wrong thing. The clipboard said January 14 — arrival date, Dock 7, three units, no origin, no contents, initials L.C. — but when [Darius](/darius-cole/) came through the south gate at half past eleven, the containers were sitting on the concrete like they'd been waiting for days. Dark steel, forty feet long, stacked in a row at the far end of the dock behind the corrugated warehouse that blocked the sightline from the dispatch office. The work light in the middle container threw a rectangle of yellow across the ground that looked, from the service gate, like an open mouth.
+The containers were already there. That was the first wrong thing. The clipboard said January 13 — arrival date, Dock 7, three units, no origin, no contents, initials L.C. — but when [Darius](/darius-cole/) came through the south gate at half past eleven, the containers were sitting on the concrete like they'd been waiting for days. Dark steel, forty feet long, stacked in a row at the far end of the dock behind the corrugated warehouse that blocked the sightline from the dispatch office. The work light in the middle container threw a rectangle of yellow across the ground that looked, from the service gate, like an open mouth.
 
 The second wrong thing was the man behind the pallets.
 

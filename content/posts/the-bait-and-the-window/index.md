@@ -1,11 +1,17 @@
 ---
-title: "The Bait and the Window — Monday, March 4, 1991, 5:43 PM"
-date: 1991-03-04T17:43:00
-lastmod: 2026-05-21
+title: "The Bait and the Window — Monday, June 1, 1992, 8:35 PM"
+date: 1992-06-01T20:35:00
+lastmod: 2026-10-22
 tags: ["ashes-and-blood", "darius", "vtm", "chicago"]
 categories: ["Chapter 12 — Blood Bond"]
 description: "A Blood Hunt on a man Darius put nine rounds into two nights ago. Brennon delivers the Prince's courtesy in a back office with a bottle nobody will drink from. The real question isn't who dies — it's what everybody else does while the city is looking the other way."
+chronology_rebased: 2026-10-22
+chronology_original_night: "1991-03-04"
+scene_night_date: "1992-06-01"
 ---
+
+*Chronology revised October 22, 2026. [Acts I & II timeline](/acts-1-2-wrap-up/#scene-by-scene-chronology).*
+
 
 *[Kaspar & Sons](/locations/kaspar-haven/) / West Garfield Park / [Succubus Club](/locations/succubus-club/) — [Brennon](/npcs/brennon-thornhill/)'s Back Office*
 
@@ -49,13 +55,13 @@ Outside, the car horn on Morgan stopped. Then started again. Different car.
 
 He did the inventory before he said anything else.
 
-The door. Compromised haven, daylight in fifteen hours, no plywood crew this side of dawn unless he called Bear Construction's after-hours line and paid the night rate plus the premium for not remembering. He had the cash. He didn't have a face for the crew that wouldn't stick.
+The door. Compromised haven, daylight in about nine hours, no plywood crew this side of dawn unless he called Bear Construction's after-hours line and paid the night rate plus the premium for not remembering. He had the cash. He didn't have a face for the crew that wouldn't stick.
 
 The Hunt call. [Brennon](/npcs/brennon-thornhill/) at eleven. [Lodin](/npcs/lodin/) telling [Brennon](/npcs/brennon-thornhill/) to tell *him* in advance was a status fact — Ventrue clanmate, witness, trigger man. The tape didn't say *come tell me what you saw.* It said *come receive instruction.* Those were different meetings.
 
 The blood. Six. He could ride six through a meeting. He couldn't ride six through a meeting *and* whatever Brennon handed him after.
 
-The window. Five hours of dark before eleven. Rodney King was on every television south of Roosevelt and west of Ashland, and that meant CPD was occupied somewhere they usually weren't, and the people who usually watched the street were watching their own televisions or their own corners. Hunt windows in controlled spaces. It was a hunt window.
+The window. Less than three hours of dark before eleven. Rodney King was on every television south of Roosevelt and west of Ashland, and that meant CPD was occupied somewhere they usually weren't, and the people who usually watched the street were watching their own televisions or their own corners. Hunt windows in controlled spaces. It was a hunt window.
 
 He pulled the workbench phone over by the cord. The number was in his head; he hadn't written it down because the kind of crew that rebuilt a steel storefront door at seven on a Monday night wasn't a crew that wanted its number in a Rolodex. Three rings.
 
@@ -89,11 +95,11 @@ The line went dead. He set the receiver down. [Sable](/sable-price/) was watchin
 
 He took the Cutlass out the back, left Sable at the haven with the .38 and the moving blanket and instructions to thumb the radio for anything coming in on the Brennon line. Up Sangamon, west on Madison through the cold-snap empty, the heater doing a rattle it had been doing since New Year's. Past Western. Past California. Into Garfield Park — his territory, his grant from court.
 
-The radio said Daley, Daley, Daley, Rodney King, weather. He turned it off two blocks in. The streetlamps west of Western were the old high-pressure sodium and they made the snow look like dirty butter where it was still piled along the curbs.
+The radio said Daley, Daley, Daley, Rodney King, weather. He turned it off two blocks in. The streetlamps west of Western were the old high-pressure sodium and they made the puddles look like dirty brass where it was still piled along the curbs.
 
 Three blocks south on [Pulaski](/npcs/ray-pulaski/). Slim Ed's — the kind of bar that didn't have a sign, just a steel door painted the color the city painted fire hydrants and an Old Style placard in the window with one of the bulbs out. The kind of place a foreman drank when he didn't want his crew to drink with him.
 
-[Darius](/darius-cole/) didn't go in cold. He parked the Cutlass at the corner, held a cigarette he wouldn't smoke — cover, the prop that let a man stand on a corner in winter without being a man standing on a corner in winter — and watched the door for ninety seconds. A woman came out, two men went in, the door swung, the placard buzzed. Through the buzz he could hear the jukebox: bass and the suggestion of Aretha.
+[Darius](/darius-cole/) didn't go in cold. He parked the Cutlass at the corner, held a cigarette he wouldn't smoke — cover, the prop that let a man stand on a corner at night without being a man standing on a corner in winter — and watched the door for ninety seconds. A woman came out, two men went in, the door swung, the placard buzzed. Through the buzz he could hear the jukebox: bass and the suggestion of Aretha.
 
 The foreman was at the second stool from the end. [Darius](/darius-cole/) knew him the second the door swung the third time — heavyset, Carhartt jacket on the stool back, a glass of something amber already half down, the posture of a man who'd been in his second drink for forty minutes and had decided the third was a problem for the man he'd be after he had it.
 
@@ -143,9 +149,9 @@ He licked the punctures sealed. Wojcik's eyes were open but he wasn't in them ye
 
 ---
 
-Back at Kaspar at 7:45. Five minutes to spare. The moving blanket was still pinned in place. Sable opened it from inside before he knocked; she'd heard the Cutlass two blocks away. She didn't ask how it went. She read his color, saw what eight blood looked like on him, and went back to the television in the front office.
+Back at Kaspar at 9:45 PM. Five minutes to spare. The moving blanket was still pinned in place. Sable opened it from inside before he knocked; she'd heard the Cutlass two blocks away. She didn't ask how it went. She read his color, saw what eight blood looked like on him, and went back to the television in the front office.
 
-Bear's truck pulled up at 7:51. A panel van and a flatbed. Three men. The crew foreman was the same one from November — Polish, fifties, didn't make eye contact with anyone he was working for, which was exactly what you paid Bear for. The door came off the flatbed under a tarp. They had the old frame stripped and the new door hung and locked in fifty-three minutes. Cash in an envelope. The crew foreman counted it once, nodded once, and the van and the flatbed were gone.
+Bear's truck pulled up at 9:51 PM. A panel van and a flatbed. Three men. The crew foreman was the same one from November — Polish, fifties, didn't make eye contact with anyone he was working for, which was exactly what you paid Bear for. The door came off the flatbed under a tarp. They had the old frame stripped and the new door hung and locked in fifty-three minutes. Cash in an envelope. The crew foreman counted it once, nodded once, and the van and the flatbed were gone.
 
 Kaspar had a door again. It locked. The plywood on the window stayed.
 
@@ -265,7 +271,7 @@ Eight minutes. Lights off in the front office. The new door locked behind them w
 
 ---
 
-The [Succubus Club](/locations/succubus-club/) at 9:25. The Cutlass parked on Dearborn half a block south. The entrance did what it always did at this hour — the line of mortals down the sidewalk in the cold, overdressed and underdressed in equal measure, the bass coming through the walls like a second heartbeat. March wind off the lake at forty-three degrees and nobody leaving. Two bouncers at the rope. Brennon's people behind the bouncers, the ones who didn't check IDs because IDs weren't what they were checking.
+The [Succubus Club](/locations/succubus-club/) at 11:25 PM. The Cutlass parked on Dearborn half a block south. The entrance did what it always did at this hour — the line of mortals down the sidewalk in the cold, overdressed and underdressed in equal measure, the bass coming through the walls like a second heartbeat. March wind off the lake at forty-three degrees and nobody leaving. Two bouncers at the rope. Brennon's people behind the bouncers, the ones who didn't check IDs because IDs weren't what they were checking.
 
 Darius killed the engine. Sable hadn't moved.
 
@@ -291,7 +297,7 @@ Time passed. The walk was cover and reconnaissance. Darius clocked the Succubus 
 
 ---
 
-Brennon's back office. 10:55 PM.
+Brennon's back office. 12:55 AM, June 2.
 
 The office was behind the VIP bar, through a hallway that smelled like cigarette smoke and industrial cleaner, past two doors that were closed and one that was open. The open door was the one Brennon wanted you to walk through, which was why it was open. The room behind it was small and warm. A desk that wasn't expensive. Two chairs in front of the desk, one behind it. A coat rack with nothing on it. A bottle on the desk with two glasses — the glasses clean and the bottle full and nobody in the room going to drink, which was the point of the bottle. A lamp, not the overhead. The overhead was off.
 
@@ -301,7 +307,7 @@ The office was behind the VIP bar, through a hallway that smelled like cigarette
 
 He gestured to the chairs. They sat. The bottle stayed between them.
 
-A knock on the open door. [Tomás](/tomas-navarro/), on time — 10:56 by the desk clock — in the charcoal wool coat and the dark turtleneck that was the Tremere's version of no-tie. He was carrying nothing. His hands were empty.
+A knock on the open door. [Tomás](/tomas-navarro/), on time — 12:56 by the desk clock — in the charcoal wool coat and the dark turtleneck that was the Tremere's version of no-tie. He was carrying nothing. His hands were empty.
 
 Brennon didn't blink at the third chair. He pulled one from behind the door — he'd had it there already — and set it at the desk without comment.
 
@@ -351,7 +357,7 @@ Brennon's hands didn't move. His eyes did — a fractional shift, the pupils adj
 
 The name went into the room like a coin into still water. Brennon's face didn't change, but the quality of the stillness behind his face changed — the difference between a man who was listening and a man who was recording.
 
-"[Foster](/npcs/jefferson-foster/) was entombed in the [Auditorium Theatre](/locations/auditorium-theatre/) wall. The Prince referred to this as a personal matter in our February briefing. He is no longer in the wall. He was freed during the Sabbat incursion at the opera — the same event that began this sequence."
+"[Foster](/npcs/jefferson-foster/) was entombed in the [Auditorium Theatre](/locations/auditorium-theatre/) wall. The Prince referred to this as a personal matter in our April briefing. He is no longer in the wall. He was freed during the Sabbat incursion at the opera — the same event that began this sequence."
 
 Brennon's hands unfolded. He put them flat on the desk, palms down. The gesture was almost involuntary — a man stabilizing himself against something that had rearranged a room he thought he understood.
 
@@ -371,7 +377,7 @@ Brennon was quiet for three seconds. The Succubus Club's bass line was audible t
 
 "You're telling me the Blood Hunt target is a victim."
 
-"I'm telling you the Blood Hunt target is being operated by a Sabbat elder who has been in this city since February. The Hunt on Neally may be procedurally correct. It doesn't address the threat."
+"I'm telling you the Blood Hunt target is being operated by a Sabbat elder who has been in this city since April. The Hunt on Neally may be procedurally correct. It doesn't address the threat."
 
 Another silence. Brennon picked up the bottle — the one nobody was going to drink from — and moved it two inches to the left. Pure displacement. He set it down.
 
@@ -409,7 +415,7 @@ The door closed behind them. The hallway smelled like cigarette smoke and indust
 
 ---
 
-The hallway. The exit. 11:22 PM.
+The hallway. The exit. 1:22 AM.
 
 The coterie came out into Brennon's hallway and Darius didn't wait until the Cutlass.
 

@@ -1,11 +1,17 @@
 ---
-title: "Fundamental Differences — Wednesday, January 30, 1991, 4:35 PM"
-date: 1991-01-30T16:35:00
-lastmod: 2026-05-01
+title: "Fundamental Differences — Wednesday, March 4, 1992, 5:50 PM"
+date: 1992-03-04T17:50:00
+lastmod: 2026-10-22
 tags: ["ashes-and-blood", "darius", "sable", "vtm", "chicago"]
 categories: ["Chapter 9 — Fundamental Differences"]
 description: "A preacher walks into a nightclub full of predators. The predators flinch first."
+chronology_rebased: 2026-10-22
+chronology_original_night: "1991-01-30"
+scene_night_date: "1992-03-04"
 ---
+
+*Chronology revised October 22, 2026. [Acts I & II timeline](/acts-1-2-wrap-up/#scene-by-scene-chronology).*
+
 
 *[Succubus Club](/locations/succubus-club/) / I-90 South / Niebuhr Lane Shelter, Gary*
 *Chicago and Gary, Indiana*

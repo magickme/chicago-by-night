@@ -1,11 +1,18 @@
 ---
 title: "Settling In"
-date: 1991-01-03T02:00:00
+date: 1992-01-04T02:00:00
 lastmod: 2026-04-01
 tags: ["ashes-to-ashes", "flashback", "roarke", "vtm", "ashes-and-blood", "london"]
 categories: ["Chapter 2 — Pawns in the Game"]
 description: "Heathrow customs, a Mesmerize on a man named Harvey, and a phone call to a Queen. The theatre district is off limits."
+chronology_frame_date: "1992-01-04"
+chronology_rebased: 2026-10-22
+chronology_original_night: "1991-01-03"
+scene_night_date: "1992-01-04"
 ---
+
+*Chronology revised October 22, 2026. [Acts I & II timeline](/acts-1-2-wrap-up/#scene-by-scene-chronology).*
+
 
 *Heathrow Airport / Mayfair*
 *London, England — October 1969*

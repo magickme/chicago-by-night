@@ -1,11 +1,17 @@
 ---
-title: "The Night's Work — Wednesday, 23 January 1991, 4:35 PM"
-date: 1991-01-23T16:35:00
-lastmod: 2026-04-15
+title: "The Night's Work — Wednesday, February 12, 1992, 5:24 PM"
+date: 1992-02-12T17:24:00
+lastmod: 2026-10-22
 tags: ["ashes-and-blood", "sable", "vtm", "chicago"]
 categories: ["Chapter 7 — The Machine"]
 description: "A bass player outside a jazz bar. A Nosferatu in a church basement with a map of everything underground. The night moves through a feeding, a deal, an apology, and a debt settled — all before Thursday."
+chronology_rebased: 2026-10-22
+chronology_original_night: "1991-01-23"
+scene_night_date: "1992-02-12"
 ---
+
+*Chronology revised October 22, 2026. [Acts I & II timeline](/acts-1-2-wrap-up/#scene-by-scene-chronology).*
+
 
 *South Side / Lula's / Church of Christ, 53rd / [Succubus Club](/locations/succubus-club/) / Kaspar and Sons*
 
@@ -41,7 +47,7 @@ The Pusher said: *give it and never call back, that's the kindest thing we've ev
 
 The Church of Christ on 53rd was a clapboard building between a vacant lot and a boarded dry cleaner, and it looked like every building in this part of the city that had been built for one century and was being used to outlast another. The cross on the roof leaned east from weather. The sign out front had a letter missing.
 
-Sable parked a block north and cased it from the vacant lot with her senses open and her hands in her coat pockets and the cold doing what January cold did, which was remove everything that didn't need to be there and leave what did. She timed the janitor's exit — heavy boots, transistor radio clipped to his belt, a man who cleaned a building every night for a voice he'd never seen, [Dominate](/disciplines/dominate/) wearing the mask of faith. She watched the dark sedan slow-roll the intersection at 11:44 and drive on. She felt the predatory aura arrive at 11:51 without a direction or a source, the way a change in air pressure arrives, and the dog three blocks east cut off mid-bark.
+Sable parked a block north and cased it from the vacant lot with her senses open and her hands in her coat pockets and the cold doing what February cold did, which was remove everything that didn't need to be there and leave what did. She timed the janitor's exit — heavy boots, transistor radio clipped to his belt, a man who cleaned a building every night for a voice he'd never seen, [Dominate](/disciplines/dominate/) wearing the mask of faith. She watched the dark sedan slow-roll the intersection at 11:44 and drive on. She felt the predatory aura arrive at 11:51 without a direction or a source, the way a change in air pressure arrives, and the dog three blocks east cut off mid-bark.
 
 He was already inside. Had been, probably, before she'd parked.
 

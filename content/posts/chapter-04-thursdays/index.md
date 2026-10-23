@@ -1,11 +1,17 @@
 ---
-title: "Thursdays — Thursday, 11 January 1990, 9:30 PM"
-date: 1990-01-11T21:30:00
-lastmod: 2026-03-17
+title: "Thursdays — Thursday, January 10, 1991, 9:30 PM"
+date: 1991-01-10T21:30:00
+lastmod: 2026-10-22
 tags: ["chapter", "darius", "vtm", "forged-in-steel", "gary"]
 categories: ["Chapter 1 — New Year's Eve"]
 description: "Darius drives to Telton Cemetery with a gift for a man who isn't home and finds a hunter instead."
+chronology_rebased: 2026-10-22
+chronology_original_night: "1990-01-11"
+scene_night_date: "1991-01-10"
 ---
+
+*Chronology revised October 22, 2026. [Acts I & II timeline](/acts-1-2-wrap-up/#scene-by-scene-chronology).*
+
 
 *[Telton Cemetery](/locations/telton-cemetery/)*
 *Gary, Indiana*

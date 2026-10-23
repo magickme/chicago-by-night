@@ -1,11 +1,17 @@
 ---
-title: "Chuc Luc's Reckonings — Wednesday, February 27, 1991, 5:31 PM"
-date: 1991-02-27T17:31:00
-lastmod: 2026-05-13
+title: "Chuc Luc's Reckonings — Thursday, May 21, 1992, 9:00 PM"
+date: 1992-05-21T21:00:00
+lastmod: 2026-10-22
 tags: ["ashes-and-blood", "darius", "vtm", "chicago"]
 categories: ["Chapter 23 — Reckonings"]
 description: "Three weeks late, a tunnel map, and a sire who measures loyalty in hours. The room above the fish market on 22nd Place is small, clean, and built to hold no echoes. Darius brings what he was sent to bring. Chuc Luc gives him an envelope and a name."
+chronology_rebased: 2026-10-22
+chronology_original_night: "1991-02-27"
+scene_night_date: "1992-05-21"
 ---
+
+*Chronology revised October 22, 2026. [Acts I & II timeline](/acts-1-2-wrap-up/#scene-by-scene-chronology).*
+
 
 *Wentworth Avenue (Old [Chinatown](/locations/chinatown/)) / 22nd Place, above the fish market*
 
@@ -17,7 +23,7 @@ The phone call came Wednesday at 9:47 PM. Not the ghoul. The man himself. Two se
 
 Five days since [Annabelle](/npcs/annabelle-triabell/) had called Kaspar & Sons at one in the morning to tell him [Ballard](/npcs/ballard/) was filing a motion that would not pass. Five days of watching the procedural side play out exactly as she'd predicted — motion tabled Monday, [Critias](/npcs/critias/) and [Annabelle](/npcs/annabelle-triabell/) voting it down, [Ballard](/npcs/ballard/) abstaining before the final tally so the vote would not stand on his name. A tell. Or a stage direction. Either reading worked.
 
-Now it was Thursday on the calendar in spirit if not yet on the clock. Forty-four degrees at sunset and dropping. The wind off the lake was picking up the way it did when the temperature was on its way somewhere lower. He'd dressed for it. Wool overcoat, scarf, the .357 in the shoulder rig because he did not enter [Chinatown](/locations/chinatown/) unarmed even when his sire was the host.
+It was Thursday. Forty-four degrees at sunset and dropping. The wind off the lake was picking up the way it did when the temperature was on its way somewhere lower. He'd dressed for it. Wool overcoat, scarf, the .357 in the shoulder rig because he did not enter [Chinatown](/locations/chinatown/) unarmed even when his sire was the host.
 
 He took a cab to Wentworth and Cermak and walked the last three blocks east.
 
@@ -45,7 +51,7 @@ Accepted.
 
 Then the hand lifted and rested on the desk again, palm down, fingers slightly spread.
 
-"This is three weeks late."
+"This is weeks late."
 
 [Darius](/darius-cole/) said: "The Prince's reassignment created visibility I didn't have before. Weekly reports to [Neally](/npcs/neally-edwards/). A formal liaison through [Critias](/npcs/critias/) for the Sabbat tasking. The Prince's own attention on whether I'm moving where I'm supposed to be moving. Coming here required a window. I waited for one that didn't read."
 
@@ -81,11 +87,11 @@ A beat.
 
 Darius gave him three things. He had structured the brief the way he structured every brief now, after [Tomas](/tomas-navarro/) had spent two weeks teaching him without meaning to that information had a hierarchy and the hierarchy was its own form of respect. Posture first. Threats second. The anomaly last.
 
-One: the [Prince](/npcs/lodin/)'s operational posture. The forced blood toast at the February court — the toast that had bonded all three of them at the first step. Weekly reporting through [Neally](/npcs/neally-edwards/) on coterie movements. [Critias](/npcs/critias/) as tactical liaison on the Sabbat hunt, which meant [Critias](/npcs/critias/) as the hand inside the glove every time the coterie crossed an operational threshold. The Pilsen chantry grant leashed to delivery, not a gift but an account that could be closed if the deposits stopped. "He's running us the way you'd run a field team. Long leash, short reporting cycle. The toast was insurance against the long leash."
+One: the [Prince](/npcs/lodin/)'s operational posture. The forced blood toast at the April court — the toast that had bonded all three of them at the first step. Weekly reporting through [Neally](/npcs/neally-edwards/) on coterie movements. [Critias](/npcs/critias/) as tactical liaison on the Sabbat hunt, which meant [Critias](/npcs/critias/) as the hand inside the glove every time the coterie crossed an operational threshold. The Pilsen chantry grant leashed to delivery, not a gift but an account that could be closed if the deposits stopped. "He's running us the way you'd run a field team. Long leash, short reporting cycle. The toast was insurance against the long leash."
 
-Two: the Sabbat. [Bach](/npcs/bach/)'s pack. [Bach](/npcs/bach/) as pack priest. The Serpent of the Light woman — Creole accent, voodoo orientation, the one who had set the skull on the Pilsen rooftop on February fifth. Three Blood Brothers locked into the Sanguinus discipline, the shock element. Two ghouls running the operational tail. Above-ground movements, visible targets. The Gary Malkavian he'd known as a younger man, dead on a rooftop in Pilsen with the head burnt past identification except by association. "Two tracks. Pack visible on the streets, something else moving underneath. The pack is what they want me looking at."
+Two: the Sabbat. [Bach](/npcs/bach/)'s pack. [Bach](/npcs/bach/) as pack priest. The Serpent of the Light woman — Creole accent, voodoo orientation, the one who had set the skull on the Pilsen rooftop earlier that spring. Three Blood Brothers locked into the Sanguinus discipline, the shock element. Two ghouls running the operational tail. Above-ground movements, visible targets. The Gary Malkavian he'd known as a younger man, dead on a rooftop in Pilsen with the head burnt past identification except by association. "Two tracks. Pack visible on the streets, something else moving underneath. The pack is what they want me looking at."
 
-Three. The anomaly. He kept the language clean. "February fourth. South Loop alley, near Wabash and Congress. Around midnight. I was feeding. Something was at the alley mouth. Not a sound. Not a smell. A pressure. A displacement in the air that didn't resolve when I looked at it. Gone before I could focus. I don't have the discipline that would have told me what it was. I know it was near tunnel access points your people use. I know it wasn't Sabbat. Something else."
+Three. The anomaly. He kept the language clean. "March thirtieth. South Loop alley, near Wabash and Congress. Around midnight. I was feeding. Something was at the alley mouth. Not a sound. Not a smell. A pressure. A displacement in the air that didn't resolve when I looked at it. Gone before I could focus. I don't have the discipline that would have told me what it was. I know it was near tunnel access points your people use. I know it wasn't Sabbat. Something else."
 
 Chuc Luc held still longer than he had held still for any of the rest of it.
 
@@ -135,7 +141,7 @@ The Beast made the small managerial sound in his chest again. *He already knew. 
 
 What it meant.
 
-It meant the third entrance had been a test of capability, not a request for intelligence. It meant the anomaly Darius had assumed was his observation was a known quantity in a column on a page somewhere Chuc Luc kept. It meant the man inside the herbalist's shop was not a source — he was a curator, holding a piece of information Chuc Luc had decided Darius was ready to receive. It meant the meeting had been a calibration. Three weeks late was the surface excuse. The calibration was: would Darius bring something real, would he lie about loyalty, would he name the Prince's house the way an asset names a target.
+It meant the third entrance had been a test of capability, not a request for intelligence. It meant the anomaly Darius had assumed was his observation was a known quantity in a column on a page somewhere Chuc Luc kept. It meant the man inside the herbalist's shop was not a source — he was a curator, holding a piece of information Chuc Luc had decided Darius was ready to receive. It meant the meeting had been a calibration. Weeks late was the surface excuse. The calibration was: would Darius bring something real, would he lie about loyalty, would he name the Prince's house the way an asset names a target.
 
 He had passed. Provisionally.
 

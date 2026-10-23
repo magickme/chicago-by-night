@@ -1,11 +1,17 @@
 ---
-title: "The Vampire Shaman — Tuesday, January 29, 1991, 5:00 PM"
-date: 1991-01-29T17:00:00
-lastmod: 2026-05-01
+title: "The Vampire Shaman — Tuesday, February 25, 1992, 8:30 PM"
+date: 1992-02-25T20:30:00
+lastmod: 2026-10-22
 tags: ["ashes-and-blood", "darius", "vtm", "chicago"]
 categories: ["Chapter 8 — Player of Pawns"]
 description: "A staged ambush, a shaman who hears nightingales, and a vault full of captives. Darius puts a bullet in the right head and gives Bordruff the wrong answer."
+chronology_rebased: 2026-10-22
+chronology_original_night: "1991-01-29"
+scene_night_date: "1992-02-25"
 ---
+
+*Chronology revised October 22, 2026. [Acts I & II timeline](/acts-1-2-wrap-up/#scene-by-scene-chronology).*
+
 
 *Erie Street, the Gap District*
 *Chicago, Illinois*
@@ -58,7 +64,7 @@ The wide eye closed and opened.
 
 "I will not fight you. I do not wish to fight you." A pause that cost something. "I do not wish to do any of this."
 
-Then a sound from inside his coat. High, wrong frequency, wrong season. A nightingale in January on a Chicago street. His jaw tightened. Whatever the sound meant to him, it was not good.
+Then a sound from inside his coat. High, wrong frequency, wrong season. A nightingale in February on a Chicago street. His jaw tightened. Whatever the sound meant to him, it was not good.
 
 Darius shot him in the head.
 

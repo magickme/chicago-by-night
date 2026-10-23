@@ -1,11 +1,17 @@
 ---
-title: "The Knight Moves — Tuesday, January 29, 1991, 5:01 PM"
-date: 1991-01-29T17:01:00
-lastmod: 2026-05-01
+title: "The Knight Moves — Wednesday, February 26, 1992, 7:45 PM"
+date: 1992-02-26T19:45:00
+lastmod: 2026-10-22
 tags: ["ashes-and-blood", "sable", "vtm", "chicago"]
 categories: ["Chapter 8 — Player of Pawns"]
 description: "Annabelle sends Sable to turn a frightened witness in a hotel bar on North Michigan. The witness talks. The drive home has two extra passengers. A Brujah elder in a nightclub corridor names the board she's been standing on for weeks."
+chronology_rebased: 2026-10-22
+chronology_original_night: "1991-01-29"
+scene_night_date: "1992-02-26"
 ---
+
+*Chronology revised October 22, 2026. [Acts I & II timeline](/acts-1-2-wrap-up/#scene-by-scene-chronology).*
+
 
 *[Gold Coast](/locations/gold-coast/) / North Michigan Avenue / [Succubus Club](/locations/succubus-club/)*
 
@@ -23,7 +29,7 @@ The elevator opened into a vestibule with twelve-foot ceilings and the first thi
 
 He said it as though she were the only person who had been invited. She took his hand. Behind him, the room: seven Toreador seated in a geometry too precise to have been accidental, two she had never seen before. Miles Davis from somewhere she couldn't place — *Kind of Blue*, late in the first side.
 
-And at the window, her back to the room, looking out at the dark crease of Lake Shore Drive and the nothing beyond it that was Lake Michigan in January: [Sophia](/npcs/sophia-ayes/). Deep red, something with structure, something that worked harder than anything should have to work in winter. She didn't turn when [Sable](/sable-price/) entered.
+And at the window, her back to the room, looking out at the dark crease of Lake Shore Drive and the nothing beyond it that was Lake Michigan in February: [Sophia](/npcs/sophia-ayes/). Deep red, something with structure, something that worked harder than anything should have to work in winter. She didn't turn when [Sable](/sable-price/) entered.
 
 She knew.
 
@@ -83,7 +89,7 @@ She looked at [Sable](/sable-price/) with the particular attention of someone we
 
 She drove the long way. [Astor](/npcs/lady-astor/) to Burton, Burton west to Clark, Clark south to Division, east on Elm, through the alley behind the [Newberry](/npcs/jason-newberry/) Library, out on Walton heading the wrong direction, north on Michigan from a side street. Twelve minutes for a four-minute drive.
 
-The Magnificent Mile was nearly empty — Tuesday night, State of the Union on every television in America. Department-store windows lit for an audience that had gone home to watch the war turn real. No foot traffic. No cabs. Just the cold trench of the avenue with nothing in it to absorb a car that didn't want to be followed.
+The Magnificent Mile was nearly empty — Wednesday night, Washington news coverage on every television in America. Department-store windows lit for an audience that had gone home to watch the news. No foot traffic. No cabs. Just the cold trench of the avenue with nothing in it to absorb a car that didn't want to be followed.
 
 In the rearview, twice: the same headlights. Patient. Far back.
 
@@ -259,4 +265,4 @@ She sat on the edge of the cot and looked at nothing and thought about the board
 
 She was a Knight. She moved in ways Rooks couldn't.
 
-Thursday was two nights away. The city was out there running its clocks, and two of those clocks had her name on them, and she didn't know the time on either one.
+Thursday was the next night. The city was out there running its clocks, and two of those clocks had her name on them, and she didn't know the time on either one.

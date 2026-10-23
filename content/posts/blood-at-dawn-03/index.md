@@ -1,11 +1,17 @@
 ---
-title: "Blood at Dawn — Sunday, 17 June 1990, 9:00 PM"
-date: 1990-06-17T21:00:00
-lastmod: 2026-03-22
+title: "Blood at Dawn — Sunday, June 16, 1991, 9:00 PM"
+date: 1991-06-16T21:00:00
+lastmod: 2026-10-22
 tags: ["blood-at-dawn", "darius", "sable", "vtm", "forged-in-steel", "gary"]
 categories: ["Chapter 3 — Blood at Dawn"]
 description: "Telling Allicia. A photograph face-down. A prince who wants the full story. A snow globe on a nightstand."
+chronology_rebased: 2026-10-22
+chronology_original_night: "1990-06-17"
+scene_night_date: "1991-06-16"
 ---
+
+*Chronology revised October 22, 2026. [Acts I & II timeline](/acts-1-2-wrap-up/#scene-by-scene-chronology).*
+
 
 *[Modius's Mansion](/locations/modius-mansion/), Miller Beach*
 *Gary, Indiana*

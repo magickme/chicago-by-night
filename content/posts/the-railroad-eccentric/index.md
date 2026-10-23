@@ -1,11 +1,17 @@
 ---
-title: "The Railroad Eccentric — Thursday, 17 January 1991, 4:35 PM"
-date: 1991-01-17T16:35:01
-lastmod: 2026-04-05
+title: "The Railroad Eccentric — Thursday, February 6, 1992, 5:16 PM"
+date: 1992-02-06 17:16:01
+lastmod: 2026-10-22
 tags: ["ashes-and-blood", "tomas", "vtm", "chicago"]
 categories: ["Chapter 6 — The Underground"]
 description: "A Tremere intelligence analyst walking south on Clark gets stopped by a crossword clue, an old man who shouldn't be there, and a question about blood that sits outside every chain of command he belongs to."
+chronology_rebased: 2026-10-22
+chronology_original_night: "1991-01-17"
+scene_night_date: "1992-02-06"
 ---
+
+*Chronology revised October 22, 2026. [Acts I & II timeline](/acts-1-2-wrap-up/#scene-by-scene-chronology).*
+
 
 *Clark/Division / Pedway / [Succubus Club](/locations/succubus-club/) / [Tremere Chantry](/locations/tremere-chantry/)*
 
@@ -15,7 +21,7 @@ description: "A Tremere intelligence analyst walking south on Clark gets stopped
 
 The bookkeeper from Ravenswood had been alone at a bar called Sterch's with three bourbons past his credit limit and a wedding ring he kept turning with his thumb. [Tomas](/tomas-navarro/) took him in the alley behind the kitchen. Two points. Clean puncture, licked and sealed, the man back on his stool before the ice in his fourth drink settled. The blood sat in [Tomas](/npcs/tomas/) like ballast — warm weight distributed evenly through the chassis, hunger pushed to a distance where it became data instead of imperative.
 
-He walked south on Clark. The recruiting office on the corner had flags in every window and a handwritten sign someone had already corrected: SHIELD crossed out, STORM written over it in marker. The correction was a day old. Down on Division the bars all had their televisions angled toward the glass — green night-vision footage of tracers over Baghdad, the same four seconds of video repeating on every screen like a test pattern for the new American century.
+He walked south on Clark. The recruiting office on the corner had flags in every window and a faded handwritten sign from the previous year: SHIELD crossed out, STORM written over it in marker. The correction was a day old. Down on Division the bars all had their televisions angled toward the glass — green night-vision footage of tracers over Baghdad, the same four seconds of video repeating on every screen like a test pattern for the new American century.
 
 The Predatory Aura registered at Clark and Elm. Not the full-spectrum pressure of meeting another vampire in a closed room — a draft. A door that shouldn't be open.
 

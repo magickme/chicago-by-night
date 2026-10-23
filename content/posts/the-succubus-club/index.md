@@ -1,11 +1,17 @@
 ---
-title: "The Succubus Club — Thursday, 10 January 1991, 4:28 PM"
-date: 1991-01-10T16:28:00
-lastmod: 2026-04-03
+title: "The Succubus Club — Thursday, January 16, 1992, 4:50 PM"
+date: 1992-01-16T16:50:00
+lastmod: 2026-10-22
 tags: ["ashes-and-blood", "sable", "vtm", "chicago"]
 categories: ["Chapter 4 — Clean Hands"]
 description: "A cabbie saving for a visa. A Tremere who can read every room he enters but can't talk to a bartender. An elder who watched for fifty-two years and did nothing. Sable feeds, meditates in the snow, and walks into a club full of people keeping score."
+chronology_rebased: 2026-10-22
+chronology_original_night: "1991-01-10"
+scene_night_date: "1992-01-16"
 ---
+
+*Chronology revised October 22, 2026. [Acts I & II timeline](/acts-1-2-wrap-up/#scene-by-scene-chronology).*
+
 
 *[Allerton Hotel](/locations/allerton-hotel/) / Clark Street / [Succubus Club](/locations/succubus-club/)*
 *Chicago, Illinois*

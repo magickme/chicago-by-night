@@ -1,11 +1,17 @@
 ---
-title: "The Dock Walk — Monday, 16 July 1990, 10:00 PM"
-date: 1990-07-16T22:00:00
-lastmod: 2026-03-24
+title: "The Dock Walk — Monday, July 15, 1991, 10:00 PM"
+date: 1991-07-15T22:00:00
+lastmod: 2026-10-22
 tags: ["forged-in-steel", "darius", "vtm", "gary"]
 categories: ["Chapter 6 — The Pipeline"]
 description: "A missing padlock. Double-bagged not-corn. A man who owes forty thousand dollars. Six successes."
+chronology_rebased: 2026-10-22
+chronology_original_night: "1990-07-16"
+scene_night_date: "1991-07-15"
 ---
+
+*Chronology revised October 22, 2026. [Acts I & II timeline](/acts-1-2-wrap-up/#scene-by-scene-chronology).*
+
 
 *Gary Docks, Industrial Corridor / Berth 7*
 *Gary, Indiana*

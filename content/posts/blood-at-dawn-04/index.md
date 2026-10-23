@@ -1,11 +1,17 @@
 ---
-title: "Blood at Dawn — Monday, 18 June 1990, 9:00 PM"
-date: 1990-06-18T21:00:00
-lastmod: 2026-03-22
+title: "Blood at Dawn — Monday, June 17, 1991, 9:00 PM"
+date: 1991-06-17T21:00:00
+lastmod: 2026-10-22
 tags: ["blood-at-dawn", "darius", "vtm", "forged-in-steel", "gary"]
 categories: ["Chapter 3 — Blood at Dawn"]
 description: "The debrief. A prince who catches lies. A name given up. A brooch that isn't in the car."
+chronology_rebased: 2026-10-22
+chronology_original_night: "1990-06-18"
+scene_night_date: "1991-06-17"
 ---
+
+*Chronology revised October 22, 2026. [Acts I & II timeline](/acts-1-2-wrap-up/#scene-by-scene-chronology).*
+
 
 *[Modius's Mansion](/locations/modius-mansion/), Miller Beach*
 *Gary, Indiana*

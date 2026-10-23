@@ -1,11 +1,17 @@
 ---
-title: "The Wrath of Dimitri — Tuesday, January 29, 1991, 5:01 PM"
-date: 1991-01-29T17:01:00
-lastmod: 2026-05-01
+title: "The Wrath of Dimitri — Thursday, February 27, 1992, 8:00 PM"
+date: 1992-02-27T20:00:00
+lastmod: 2026-10-22
 tags: ["ashes-and-blood", "darius", "vtm", "chicago"]
 categories: ["Chapter 8 — Player of Pawns"]
 description: "Annabelle lays out four options. Darius picks the one that costs him nothing except being in the room when six hundred years of patience runs out."
+chronology_rebased: 2026-10-22
+chronology_original_night: "1991-01-29"
+scene_night_date: "1992-02-27"
 ---
+
+*Chronology revised October 22, 2026. [Acts I & II timeline](/acts-1-2-wrap-up/#scene-by-scene-chronology).*
+
 
 *[Succubus Club](/locations/succubus-club/)*
 

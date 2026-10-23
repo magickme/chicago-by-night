@@ -1,11 +1,17 @@
 ---
-title: "Blood at Dawn — Sunday, 17 June 1990, 1:30 AM"
-date: 1990-06-17T01:30:00
-lastmod: 2026-03-22
+title: "Blood at Dawn — Sunday, June 16, 1991, 1:30 AM"
+date: 1991-06-16T01:30:00
+lastmod: 2026-10-22
 tags: ["blood-at-dawn", "darius", "sable", "vtm", "forged-in-steel", "gary"]
 categories: ["Chapter 3 — Blood at Dawn"]
 description: "A federal sedan. A sorcerer's kitchen. A spirit bag burning in the Wasteland. The door closes."
+chronology_rebased: 2026-10-22
+chronology_original_night: "1990-06-17"
+scene_night_date: "1991-06-16"
 ---
+
+*Chronology revised October 22, 2026. [Acts I & II timeline](/acts-1-2-wrap-up/#scene-by-scene-chronology).*
+
 
 *Lakefront Road / Pennsylvania Avenue / The Wasteland*
 *Gary, Indiana*

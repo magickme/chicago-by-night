@@ -1,11 +1,17 @@
 ---
-title: "New Year's Eve — Sunday, 31 December 1989, 11:47 PM"
-date: 1989-12-31T23:47:00
-lastmod: 2026-03-17
+title: "New Year's Eve — Monday, December 31, 1990, 11:47 PM"
+date: 1990-12-31T23:47:00
+lastmod: 2026-10-22
 tags: ["chapter", "darius", "vtm", "forged-in-steel", "gary"]
 categories: ["Chapter 1 — New Year's Eve"]
 description: "The last night of the decade. Darius works the docks, feeds on Broadway, and finds a name."
+chronology_rebased: 2026-10-22
+chronology_original_night: "1989-12-31"
+scene_night_date: "1990-12-31"
 ---
+
+*Chronology revised October 22, 2026. [Acts I & II timeline](/acts-1-2-wrap-up/#scene-by-scene-chronology).*
+
 
 *The Docks, Gary Exports Co.*
 *Gary, Indiana*
@@ -110,9 +116,9 @@ Then he drove home.
 
 The haven was a ground-floor apartment on the west side — blackout curtains, steel door, a phone line [Chuc Luc](/npcs/chuc-luc/) had set up and [Darius](/darius-cole/) suspected [Chuc Luc](/npcs/chuc-luc/) could tap whenever he wanted. He sat at the kitchen table with his notepad and a cup of coffee he wouldn't drink and wrote down everything.
 
-January 14. Dock 7. Three unmarked containers, initials L.C. Two gates — south service gate the best entry. Guard shack manned on normal nights, unmanned on holidays. Camera on the main gate, fogged lens, dead cable. Sal Petrocelli, bookie, dispatch office, fronted by Chicago Heights. Stevedores in debt — leverage available for purchase.
+January 13. Dock 7. Three unmarked containers, initials L.C. Two gates — south service gate the best entry. Guard shack manned on normal nights, unmanned on holidays. Camera on the main gate, fogged lens, dead cable. Sal Petrocelli, bookie, dispatch office, fronted by Chicago Heights. Stevedores in debt — leverage available for purchase.
 
-He closed the notepad and looked at the clock. Three-fourteen in the morning, the first day of 1990.
+He closed the notepad and looked at the clock. Three-fourteen in the morning, the first day of 1991.
 
 He had a date. He had a dock. He had a name. He had a strategy.
 

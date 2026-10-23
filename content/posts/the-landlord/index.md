@@ -1,11 +1,17 @@
 ---
-title: "The Landlord — Friday, 20 July 1990, 9:00 PM"
-date: 1990-07-20T21:00:00
-lastmod: 2026-03-25
+title: "The Landlord — Friday, July 19, 1991, 9:00 PM"
+date: 1991-07-19T21:00:00
+lastmod: 2026-10-22
 tags: ["forged-in-steel", "darius", "vtm", "gary"]
 categories: ["Chapter 7 — The Coterie"]
 description: "Three conditions. Three fingers. A deal struck in a parked car on the access road while six centuries of patience decides whether to fold or kill."
+chronology_rebased: 2026-10-22
+chronology_original_night: "1990-07-20"
+scene_night_date: "1991-07-19"
 ---
+
+*Chronology revised October 22, 2026. [Acts I & II timeline](/acts-1-2-wrap-up/#scene-by-scene-chronology).*
+
 
 *Access Road / Warehouse District / Wasteland*
 *Gary, Indiana*

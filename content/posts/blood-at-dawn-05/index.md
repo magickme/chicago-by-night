@@ -1,11 +1,17 @@
 ---
-title: "Blood at Dawn — Tuesday, 19 June 1990, 11:00 PM"
-date: 1990-06-19T23:00:00
-lastmod: 2026-03-22
+title: "Blood at Dawn — Tuesday, June 18, 1991, 11:00 PM"
+date: 1991-06-18T23:00:00
+lastmod: 2026-10-22
 tags: ["blood-at-dawn", "darius", "vtm", "forged-in-steel", "gary"]
 categories: ["Chapter 3 — Blood at Dawn"]
 description: "The brooch delivered. A Malkavian found. Five personalities, one testimony, and an FBI card in a trumpet case."
+chronology_rebased: 2026-10-22
+chronology_original_night: "1990-06-19"
+scene_night_date: "1991-06-18"
 ---
+
+*Chronology revised October 22, 2026. [Acts I & II timeline](/acts-1-2-wrap-up/#scene-by-scene-chronology).*
+
 
 *Broadway / [Modius's Mansion](/locations/modius-mansion/), Miller Beach*
 *Gary, Indiana*

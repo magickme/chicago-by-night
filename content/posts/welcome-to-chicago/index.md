@@ -1,11 +1,17 @@
 ---
-title: "Welcome to Chicago — Tuesday, 1 January 1991, 4:28 PM"
-date: 1991-01-01T16:28:00
-lastmod: 2026-03-30
+title: "Welcome to Chicago — Wednesday, January 1, 1992, 4:35 PM"
+date: 1992-01-01T16:35:00
+lastmod: 2026-10-22
 tags: ["ashes-to-ashes", "darius", "sable", "vtm", "ashes-and-blood", "chicago"]
 categories: ["Chapter 1 — Ashes to Ashes"]
 description: "Two Black vampires from a dying city drive twenty-five minutes down the Skyway into a living one. The Succubus Club is empty. The Prince is a fraud. The helicopter is late."
+chronology_rebased: 2026-10-22
+chronology_original_night: "1991-01-01"
+scene_night_date: "1992-01-01"
 ---
+
+*Chronology revised October 22, 2026. [Acts I & II timeline](/acts-1-2-wrap-up/#scene-by-scene-chronology).*
+
 
 *Skyway / [Succubus Club](/locations/succubus-club/) / [The Cave](/locations/the-cave/) / [Field Museum](/locations/field-museum/) / Soldier Field*
 *Chicago, Illinois*

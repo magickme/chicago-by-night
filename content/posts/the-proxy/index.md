@@ -1,11 +1,17 @@
 ---
-title: "The Proxy — Saturday, 21 July 1990, 8:23 PM"
-date: 1990-07-21T20:23:00
-lastmod: 2026-03-25
+title: "The Proxy — Saturday, July 20, 1991, 8:23 PM"
+date: 1991-07-20T20:23:00
+lastmod: 2026-10-22
 tags: ["forged-in-steel", "darius", "vtm", "gary"]
 categories: ["Chapter 7 — The Coterie"]
 description: "A man waits eight hours in a bare apartment for a meeting that was never about the paperwork. Three-fourteenths of a human will, installed in ninety minutes. The drawer labeled NECESSARY grows larger."
+chronology_rebased: 2026-10-22
+chronology_original_night: "1990-07-21"
+scene_night_date: "1991-07-20"
 ---
+
+*Chronology revised October 22, 2026. [Acts I & II timeline](/acts-1-2-wrap-up/#scene-by-scene-chronology).*
+
 
 *West-Side Haven / Berth 7*
 *Gary, Indiana*

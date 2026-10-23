@@ -1,11 +1,17 @@
 ---
-title: "The Prince's Court — Thursday, January 31, 1991, 5:02 PM"
-date: 1991-01-31T17:02:00
-lastmod: 2026-05-01
+title: "The Prince's Court — Thursday, March 5, 1992, 9:00 PM"
+date: 1992-03-05T21:00:00
+lastmod: 2026-10-22
 tags: ["ashes-and-blood", "darius", "sable", "tomas", "vtm", "chicago"]
 categories: ["Chapter 10 — The Prince's Court"]
 description: "Lodin resurfaces. The coterie is summoned to the Drake. Three neonates stand before a table of elders, receive a domain, and afterward, in a basement in Pilsen, choose each other."
+chronology_rebased: 2026-10-22
+chronology_original_night: "1991-01-31"
+scene_night_date: "1992-03-05"
 ---
+
+*Chronology revised October 22, 2026. [Acts I & II timeline](/acts-1-2-wrap-up/#scene-by-scene-chronology).*
+
 
 *[Drake Hotel](/locations/drake-hotel/), 8th Floor / [Kaspar & Sons](/locations/kaspar-and-sons/), South Pilsen*
 
@@ -19,7 +25,7 @@ The line went dead before anyone could ask questions.
 
 [Darius](/darius-cole/) pulled the navy suit from behind the water heater pipe where it had been hanging since the dry cleaner on 18th Street. [Sable](/sable-price/) chose the black dress with the high collar, simple cut, the kind of garment that made you notice the woman instead of the fabric. Neither of them spoke while they dressed. The basement at Kaspar held the sounds of two people preparing for something neither could name precisely, and the silence between them was not tension. It was the shared grammar of twenty-six days in the same city, the same walls, the same slow understanding that tonight the ground was going to shift under them and they could not control the direction.
 
-The drive north took eighteen minutes on Lake Shore Drive. CNN through the Cutlass speakers. Khafji. Tank columns. The ground war in Kuwait moving faster than the generals had projected. [Sable](/sable-price/) turned the volume down after two minutes and neither of them turned it back up.
+The drive north took eighteen minutes on Lake Shore Drive. CNN through the Cutlass speakers. A retrospective on the Gulf War. Khafji, tank columns, last year's briefings. [Sable](/sable-price/) turned the volume down after two minutes and neither of them turned it back up.
 
 The Drake's lobby was marble and gilt and air that smelled like old money laundered through fresh flowers. The elevator operator was a ghoul. The veins in his neck ran slightly distended, his pulse about forty. He took them to eight without being told.
 
@@ -119,7 +125,7 @@ His attention moved to [Tomas](/tomas-navarro/). "And the Tremere."
 
 [Lodin](/npcs/lodin/) looked at [Nicolai](/npcs/nicolai/). "Yours?"
 
-"Apprentice. First circle." Clipped. A ledger entry. "Operational since January seventeenth."
+"Apprentice. First circle." Clipped. A ledger entry. "Operational since February sixth."
 
 "And yet he stands with them."
 
@@ -327,7 +333,7 @@ He closed the notebook.
 
 ---
 
-The three of them sat around the card table. Bare bulb. Folding chairs. The domain document and the acknowledgment letter between them. Above their heads, the pipes ticked as the building's heating system fought the January cold.
+The three of them sat around the card table. Bare bulb. Folding chairs. The domain document and the acknowledgment letter between them. Above their heads, the pipes ticked as the building's heating system fought the March cold.
 
 Everything was on the table. Every card, every debt, every secret held back from every master.
 
@@ -359,7 +365,7 @@ He put it on the letter.
 
 Three hands on a typed page in a basement in Pilsen. No ceremony. No ritual. No blood exchanged. In a world where blood was the only currency that counted, the absence of it was the point. This was the thing that could not be compelled, could not be Dominated, could not be bound through vitae. Three dead people choosing each other over every institution that made them.
 
-The bare bulb flickered once. The pipes ticked. Outside, the new moon was invisible over a city that did not know their names, and January was ending, and the war that mattered was not the one on CNN.
+The bare bulb flickered once. The pipes ticked. Outside, the new moon was invisible over a city that did not know their names, and March was beginning, and the war that mattered had never appeared on CNN.
 
 ---
 

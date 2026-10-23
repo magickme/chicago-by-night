@@ -1,11 +1,17 @@
 ---
-title: "The Alliance — Wednesday, 27 June 1990, 10:00 PM"
-date: 1990-06-27T22:00:00
-lastmod: 2026-03-23
+title: "The Alliance — Wednesday, June 26, 1991, 10:00 PM"
+date: 1991-06-26T22:00:00
+lastmod: 2026-10-22
 tags: ["forged-in-steel", "sable", "vtm", "gary"]
 categories: ["Chapter 4 — The Alliance"]
 description: "A side entrance. A silk robe. Five words across six months. A woman who learned the word no."
+chronology_rebased: 2026-10-22
+chronology_original_night: "1990-06-27"
+scene_night_date: "1991-06-26"
 ---
+
+*Chronology revised October 22, 2026. [Acts I & II timeline](/acts-1-2-wrap-up/#scene-by-scene-chronology).*
+
 
 *[Modius's Mansion](/locations/modius-mansion/), Miller Beach*
 *Gary, Indiana*

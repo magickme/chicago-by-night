@@ -1,11 +1,17 @@
 ---
-title: "The Brooch — Tuesday, 19 June 1990, 9:00 PM"
-date: 1990-06-19T21:00:00
-lastmod: 2026-03-31
+title: "The Brooch — Tuesday, June 18, 1991, 9:00 PM"
+date: 1991-06-18T21:00:00
+lastmod: 2026-10-22
 tags: ["blood-at-dawn", "darius", "vtm", "forged-in-steel", "gary"]
 categories: ["Act I — Forged in Steel"]
 description: "A Ventrue feeds in a parking lot and the blood tastes like alimony. Allicia makes a request that costs nothing and means everything."
+chronology_rebased: 2026-10-22
+chronology_original_night: "1990-06-19"
+scene_night_date: "1991-06-18"
 ---
+
+*Chronology revised October 22, 2026. [Acts I & II timeline](/acts-1-2-wrap-up/#scene-by-scene-chronology).*
+
 
 *Fifth Avenue Studio / [Modius's Mansion](/locations/modius-mansion/)*
 *Gary, Indiana*

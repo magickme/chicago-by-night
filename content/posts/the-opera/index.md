@@ -1,11 +1,17 @@
 ---
-title: "The Opera — Saturday, February 9, 1991, 5:28 PM"
-date: 1991-02-09T17:28:00
-lastmod: 2026-05-13
+title: "The Opera — Saturday, April 4, 1992, 7:30 PM"
+date: 1992-04-04T19:30:00
+lastmod: 2026-10-22
 tags: ["ashes-and-blood", "darius", "sable", "tomas", "coterie", "vtm", "chicago"]
 categories: ["Chapter 22 — The Opera"]
 description: "Critias's tickets put the coterie in Sullivan's hall for Verdi. Bach's pack puts a stake-wound in the wall. They leave with a Sabbat retreat, a freed prisoner, and three bodies of their own to account for before dawn."
+chronology_rebased: 2026-10-22
+chronology_original_night: "1991-02-09"
+scene_night_date: "1992-04-04"
 ---
+
+*Chronology revised October 22, 2026. [Acts I & II timeline](/acts-1-2-wrap-up/#scene-by-scene-chronology).*
+
 
 *[Auditorium Theatre](/locations/auditorium-theatre/) (East Congress Parkway) / Pilsen streets / Kaspar & Sons (basement) / Sanitary and Ship Canal*
 
@@ -203,7 +209,7 @@ She sat beside him. The Awe carried the rest.
 
 "You look like you could use a place to get out of the wind," she said.
 
-He looked at her sideways. Past forty looking at twenty-something beauty on a bus bench at ten o'clock on a Saturday in February. He didn't trust it. The tallboy was almost empty.
+He looked at her sideways. Past forty looking at twenty-something beauty on a bus bench at ten o'clock on a Saturday in April. He didn't trust it. The tallboy was almost empty.
 
 "I'm fine," he said.
 
@@ -365,7 +371,7 @@ Hessler was worse. Entry wound through the occipital bone, exit through the righ
 
 Two plastic bundles in the trunk of the Buick. Tomás drove. Darius rode shotgun. Sable stayed at the haven to finish the clean — her choice, not theirs. She didn't explain it. They didn't ask.
 
-The Stevenson south to the Sanitary and Ship Canal. The deep section past Cicero Avenue where the current ran slow and the industrial discharge meant nobody fished. February water at thirty-one degrees. They weighted the bundles with cinder blocks from a demolished lot on [Pulaski](/npcs/ray-pulaski/) and lowered them in separately, two minutes apart, because there was a perverse decorum even in this. The machinist first. Then Hessler.
+The Stevenson south to the Sanitary and Ship Canal. The deep section past Cicero Avenue where the current ran slow and the industrial discharge meant nobody fished. Cold April water. They weighted the bundles with cinder blocks from a demolished lot on [Pulaski](/npcs/ray-pulaski/) and lowered them in separately, two minutes apart, because there was a perverse decorum even in this. The machinist first. Then Hessler.
 
 The splash sounded the same both times. The canal took them both without comment.
 

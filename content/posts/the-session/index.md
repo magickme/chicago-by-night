@@ -1,11 +1,17 @@
 ---
-title: "The Session — Wednesday, 23 January 1991, 4:35 PM"
-date: 1991-01-23T16:35:00
-lastmod: 2026-04-14
+title: "The Session — Wednesday, February 12, 1992, 5:24 PM"
+date: 1992-02-12T17:24:00
+lastmod: 2026-10-22
 tags: ["ashes-and-blood", "darius", "vtm", "chicago"]
 categories: ["Chapter 7 — The Machine"]
 description: "The Primogen meets upstairs. Darius works the floor. Every conversation is a trade, every silence a position, and the only door that matters is the one he can't open."
+chronology_rebased: 2026-10-22
+chronology_original_night: "1991-01-23"
+scene_night_date: "1992-02-12"
 ---
+
+*Chronology revised October 22, 2026. [Acts I & II timeline](/acts-1-2-wrap-up/#scene-by-scene-chronology).*
+
 
 *[Succubus Club](/locations/succubus-club/) / Rush Street / [The Cave](/locations/the-cave/) / State Street / Rush and Division*
 

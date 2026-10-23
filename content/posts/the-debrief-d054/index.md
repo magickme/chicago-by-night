@@ -1,11 +1,17 @@
 ---
-title: "The Debrief — Thursday, February 7, 1991, 5:15 PM"
-date: 1991-02-07T17:15:00
-lastmod: 2026-05-13
+title: "The Debrief — Thursday, April 2, 1992, 6:22 PM"
+date: 1992-04-02T18:22:00
+lastmod: 2026-10-22
 tags: ["ashes-and-blood", "darius", "sable", "tomas", "vtm", "chicago"]
 categories: ["Chapter 21 — Court Operations"]
 description: "A Prince offers the cup, a neonate asks for a month, and a man in a Pilsen jacket carries a folded knife toward someone who may or may not deserve it."
+chronology_rebased: 2026-10-22
+chronology_original_night: "1991-02-07"
+scene_night_date: "1992-04-02"
 ---
+
+*Chronology revised October 22, 2026. [Acts I & II timeline](/acts-1-2-wrap-up/#scene-by-scene-chronology).*
+
 
 *Kaspar & Sons / [Prudential Building](/locations/prudential-building/) / [Pilsen](/locations/pilsen/) / [University of Chicago Faculty Club](/locations/faculty-club/) / [Gengis's Brewery](/locations/the-brewery/) / [Astor Street Chantry](/locations/tremere-chantry/)*
 
@@ -99,7 +105,7 @@ She did not ask. She put her gloved hand briefly on his sleeve, not a squeeze, j
 
 *[Pilsen](/locations/pilsen/), eight forty-five. Eighteenth and Loomis.*
 
-The bus put him down in a stretch of street where the streetlamps were two out of three and the third was the wrong color. February air had the chemical taste it took on south of the river — diesel, fryer grease, the cold metal of the El. He walked west with his collar up.
+The bus put him down in a stretch of street where the streetlamps were two out of three and the third was the wrong color. April air had the chemical taste it took on south of the river — diesel, fryer grease, the cold metal of the El. He walked west with his collar up.
 
 The man on the corner was not waiting for him. The man on the corner was waiting for someone else. Forty-five. Tan jacket too thin for the weather, the build of a man who had been muscle in 1975 and was now weight worn the right way. A face [Darius](/darius-cole/) did not know.
 

@@ -1,11 +1,17 @@
 ---
-title: "The Accommodation — Monday, 8 January 1990, 10:00 PM"
-date: 1990-01-08T22:00:00
-lastmod: 2026-03-17
+title: "The Accommodation — Monday, January 7, 1991, 10:00 PM"
+date: 1991-01-07T22:00:00
+lastmod: 2026-10-22
 tags: ["chapter", "sable", "vtm", "forged-in-steel", "gary"]
 categories: ["Chapter 1 — New Year's Eve"]
 description: "A rumor about her sire. A prince who wants a pet. A dance studio that belongs to someone else."
+chronology_rebased: 2026-10-22
+chronology_original_night: "1990-01-08"
+scene_night_date: "1991-01-07"
 ---
+
+*Chronology revised October 22, 2026. [Acts I & II timeline](/acts-1-2-wrap-up/#scene-by-scene-chronology).*
+
 
 *[The Torch](/locations/the-torch/) / [Modius's Mansion](/locations/modius-mansion/) / Fifth Avenue*
 *Gary, Indiana*

@@ -1,11 +1,17 @@
 ---
-title: "Blood at Dawn — Saturday, 16 June 1990, 10:47 PM"
-date: 1990-06-16T22:47:00
-lastmod: 2026-03-22
+title: "Blood at Dawn — Saturday, June 15, 1991, 10:47 PM"
+date: 1991-06-15T22:47:00
+lastmod: 2026-10-22
 tags: ["blood-at-dawn", "darius", "sable", "vtm", "forged-in-steel", "gary"]
 categories: ["Chapter 3 — Blood at Dawn"]
 description: "The lights go out at The Torch. Something scratches its way out. A dead boy says a woman's name."
+chronology_rebased: 2026-10-22
+chronology_original_night: "1990-06-16"
+scene_night_date: "1991-06-15"
 ---
+
+*Chronology revised October 22, 2026. [Acts I & II timeline](/acts-1-2-wrap-up/#scene-by-scene-chronology).*
+
 
 *[The Torch](/locations/the-torch/), Broadway Strip*
 *Gary, Indiana*
