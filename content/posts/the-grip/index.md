@@ -39,7 +39,7 @@ On the floor she spent blood to heal and tried to rise. The next blow drove her 
 
 She spent another point and tried to move. The man struck before she reached the door. Constanzo fell beside the passage she had crossed alone, and the room went still around her.
 
-The pack had come to New Orleans to find Carl Wisor. Puente was dead in the fire tunnel. Luc lay dead in the room. Calvi and Constanzo were down, and the man with the sword was still standing. No one had taken a captive back to Sangris or brought him proof of Wisor's destruction.
+The pack had come to New Orleans to find Carl Wisor. Puente was dead in the fire tunnel. Luc lay dead in the room. Calvi and Constanzo were down, and the man with the sword was still standing. No one had brought Sangris Wisor or proof of his destruction.
 
 
 [Continue: The Brickyard Aftermath](/posts/the-brickyard-aftermath/)

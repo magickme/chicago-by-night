@@ -7,7 +7,7 @@ categories: ["Interlude S: The Sword of Caine"]
 description: "The New Orleans mission ends in defeat. Its effects in Montreal and Chicago depend on what news, if any, reaches them."
 ---
 
-The first commission Sangris gave Les Fossoyeurs ended in a brickyard outside New Orleans. Puente died in the fire tunnel; Luc, the Dancer hired to help the pack, died in the room beyond it. Calvi and Constanzo were left in torpor. Their subsequent fate is unknown. No one in the pack brought Sangris a prisoner or proof that Carl Wisor had been destroyed.
+The first commission Sangris gave Les Fossoyeurs ended in a brickyard outside New Orleans. Puente died in the fire tunnel; Luc, the Dancer hired to help the pack, died in the room beyond it. Calvi and Constanzo were left in torpor. Their subsequent fate is unknown. The pack did not bring Sangris Wisor or proof that he had been destroyed.
 
 The June 1992 homecoming in which the three packmates returned to Montreal and Constanzo recounted the assignment to Ezekiel has been removed from this continuity. The commission itself still happened. What Sangris or Ezekiel later learns about it, and how, remains to be played or established.
 
