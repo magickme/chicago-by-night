@@ -52,3 +52,6 @@ Calvi meant to bring him back. The man tore free of the first hold, and Calvi ca
 The man obeyed long enough for Calvi's shadow to seize him again. By then another of the dark arms had closed around Calvi. It squeezed until he managed to wrench himself free, leaving him hurt and short of room. He tried to command the swordsman to dismiss the arms. Before the order took hold, another coil caught him.
 
 They remained facing one another across the chamber, each held by the other's darkness. Luc's body lay between them and the broken door. Constanzo was still on the other side of the fire tunnel.
+
+
+[Continue: The Grip](/posts/the-grip/)
